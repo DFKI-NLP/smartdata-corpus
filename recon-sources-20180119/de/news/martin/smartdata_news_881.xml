@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-UL<NODE id="6" />: (BC) <NODE id="13" />Erlenmoos<NODE id="22" />/<NODE id="23" />Edenbachen<NODE id="33" /> - <NODE id="36" />Zwei<NODE id="40" /> Schwerstverletzte bei <NODE id="63" />Unfall<NODE id="69" /> / Ein Audi <NODE id="81" />prallt<NODE id="87" /> am <NODE id="91" />Sonntagnachmittag<NODE id="108" /> bei <NODE id="113" />Edenbach<NODE id="121" /> gegen VW Polo.
+<NODE id="137" />22.02.2016<NODE id="147" /> – <NODE id="150" />03:22<NODE id="155" />
+<NODE id="156" />Ulm<NODE id="159" /> (<NODE id="161" />ots<NODE id="164" />) - Rund <NODE id="173" />8.000 Euro<NODE id="183" /> und <NODE id="188" />zwei<NODE id="192" /> lebensgefährlich verletzte Pkw-Lenker sind die Bilanz eines schweren <NODE id="262" />Verkehrsunfalls<NODE id="277" /> auf der <NODE id="286" />B 312<NODE id="291" /> bei <NODE id="296" />Edenbachen<NODE id="306" />. Am <NODE id="311" />Sonntagnachmittag<NODE id="328" />  war dort gegen <NODE id="345" />17.25 Uhr<NODE id="354" />  ein <NODE id="360" />78 Jahre<NODE id="368" /> alter Mann mit seinem Audi in Richtung <NODE id="408" />Erlenmoos<NODE id="417" /> unterwegs. Aus bislang noch unbekannten Gründen kam er im Bereich eines geradlinig verlaufenden Straßenabschnittes auf die Gegenfahrbahn. Dort fuhr zu diesem Zeitpunkt eine <NODE id="591" />22-Jährige<NODE id="601" /> Frau mit ihrem VW Polo in entgegengesetzter Richtung. Die beiden Autos prallten frontal zusammen und schleuderten von der Fahrbahn. Hierbei stieß der VW gegen einen Baum. Beide Insassen wurden in ihren Fahrzeugen eingeklemmt und zogen sich lebensgefährliche Verletzungen zu. Der Audifahrer und die Polofa
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.presseportal.de/blaulicht/pm/110979/3257197@2016-02-22T03:22:36.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-22T02:22:36Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:40:01.928Z" />
+<feature featureName="uri" featureValue="http://www.presseportal.de/blaulicht/pm/110979/3257197" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization" surface="POL-UL" />
+<Entity id="1" startPos="13" endPos="22" type="location-city" surface="Erlenmoos" />
+<Entity id="2" startPos="23" endPos="33" type="location-city" surface="Edenbachen" />
+<Entity id="3" startPos="36" endPos="40" type="number" surface="Zwei" />
+<Entity id="4" startPos="63" endPos="69" type="trigger" surface="Unfall" />
+<Entity id="5" startPos="81" endPos="87" type="trigger" surface="prallt" />
+<Entity id="6" startPos="91" endPos="108" type="date" surface="Sonntagnachmittag" />
+<Entity id="7" startPos="113" endPos="121" type="location-city" surface="Edenbach" />
+<Entity id="8" startPos="137" endPos="147" type="date" surface="22.02.2016" />
+<Entity id="9" startPos="150" endPos="155" type="time" surface="03:22" />
+<Entity id="10" startPos="156" endPos="159" type="location-city" surface="Ulm" />
+<Entity id="11" startPos="161" endPos="164" type="organization-company" surface="ots" />
+<Entity id="12" startPos="173" endPos="183" type="number" surface="8.000 Euro" />
+<Entity id="13" startPos="188" endPos="192" type="number" surface="zwei" />
+<Entity id="14" startPos="262" endPos="277" type="trigger" surface="Verkehrsunfalls" />
+<Entity id="15" startPos="286" endPos="291" type="location-street" surface="B 312" />
+<Entity id="16" startPos="296" endPos="306" type="location-city" surface="Edenbachen" />
+<Entity id="17" startPos="311" endPos="328" type="date" surface="Sonntagnachmittag" />
+<Entity id="18" startPos="345" endPos="354" type="date" surface="17.25 Uhr" />
+<Entity id="19" startPos="360" endPos="368" type="duration" surface="78 Jahre" />
+<Entity id="20" startPos="408" endPos="417" type="location-city" surface="Erlenmoos" />
+<Entity id="21" startPos="591" endPos="601" type="duration" surface="22-Jährige" /></Entities><Relations>
+<Relation id="22" NAME="Accident">
+<Entity id="7" label="location" />
+<Entity id="4" label="trigger" />
+<Entity id="5" label="trigger" />
+<Entity id="6" label="start_date" />
+</Relation>
+<Relation id="23" NAME="Accident">
+<Entity id="16" label="start_loc" />
+<Entity id="15" label="location" />
+<Entity id="14" label="trigger" />
+</Relation></Relations>
+</Document>

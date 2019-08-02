@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A14<NODE id="3" /> <NODE id="4" />Leipzig<NODE id="11" /> Richtung <NODE id="21" />Nossen<NODE id="27" /> zwischen <NODE id="37" />Grimma<NODE id="43" /> und <NODE id="48" />Mutzschen<NODE id="57" />
+<NODE id="58" />brennender PKW<NODE id="72" /> auf dem rechten Fahrstreifen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp@2016-03-10T15:13:13.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:13:13Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:52:02.637Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A14" />
+<Entity id="1" startPos="4" endPos="11" type="location-city" surface="Leipzig" />
+<Entity id="2" startPos="21" endPos="27" type="location-city" surface="Nossen" />
+<Entity id="3" startPos="37" endPos="43" type="location" surface="Grimma" />
+<Entity id="4" startPos="48" endPos="57" type="location" surface="Mutzschen" />
+<Entity id="5" startPos="58" endPos="72" type="trigger" surface="brennender PKW" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

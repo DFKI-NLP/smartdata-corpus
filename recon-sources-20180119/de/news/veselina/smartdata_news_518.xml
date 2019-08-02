@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Hainberger Hutewald<NODE id="19" /> erhält wieder Licht und Luft<NODE id="48" />
+<NODE id="49" />Axt und Säge beenden Dornröschenschlaf in <NODE id="91" />Oberasbach<NODE id="101" />                                       <NODE id="140" />- vor 15 Minuten<NODE id="156" />
+<NODE id="157" />OBERASBACH<NODE id="167" /> -<NODE id="169" />              <NODE id="183" />Naturschutz mit Axt und Motorsäge, darum geht es bei derzeit laufenden Arbeiten auf dem <NODE id="271" />Hainberg<NODE id="279" />.<NODE id="280" />
+<NODE id="281" />Landschaftsschutz mit der Säge: Bis Ende des Monats lichten Arbeiter am <NODE id="353" />Hainberg<NODE id="361" /> den Baumbestand und helfen so dem <NODE id="396" />Hutewald<NODE id="404" />.<NODE id="405" /> <NODE id="406" />© Archivfoto: <NODE id="420" />Sabine Rempe<NODE id="432" />
+<NODE id="433" />Landschaftsschutz mit der Säge: Bis Ende des Monats lichten Arbeiter am <NODE id="505" />Hainberg<NODE id="513" /> den Baumbestand und helfen so dem <NODE id="548" />Hutewald<NODE id="556" />.<NODE id="557" />
+<NODE id="558" />Foto: Archivfoto: <NODE id="576" />Sabine Rempe<NODE id="588" />
+<NODE id="589" />„Den <NODE id="594" />Hutewald<NODE id="602" /> aus dem Dornröschenschlaf befreien“, so formuliert es die Gesellschaft der <NODE id="678" />Deutschen Bundesstiftung Umwelt<NODE id="709" /> zur Sicherung des Nationalen Naturerbes (<NODE id="751" />DBU<NODE id="754" />).<NODE id="756" /> <NODE id="757" />Im Mittelalter trieben Bauern ihre Nutztiere zur winterlichen Mast auf sogenannte „Waldweiden“.<NODE id="852" /> <NODE id="853" />In diesen lichtdurchfluteten Hutewäldern wuchsen vorzugsweise großkronige Eichen, die im Herbst<NODE id="948" /> 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nordbayern.de/region/fuerth/hainberger-hutewald-erhalt-wieder-licht-und-luft-1.4918100?rssPage=RsO8cnRo@2016-03-10T15:02:49.797+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:02:49.797Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:02:53.317Z" />
+<feature featureName="uri" featureValue="http://www.nordbayern.de/region/fuerth/hainberger-hutewald-erhalt-wieder-licht-und-luft-1.4918100?rssPage=RsO8cnRo" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="19" type="location" surface="Hainberger Hutewald" />
+<Entity id="1" startPos="0" endPos="48" type="sentence" surface="Hainberger Hutewald erhält wieder Licht und Luft" />
+<Entity id="2" startPos="49" endPos="101" type="sentence" surface="Axt und Säge beenden Dornröschenschlaf in Oberasbach" />
+<Entity id="3" startPos="91" endPos="101" type="location-city" surface="Oberasbach" />
+<Entity id="4" startPos="140" endPos="156" type="sentence" surface="- vor 15 Minuten" />
+<Entity id="5" startPos="157" endPos="167" type="location-city" surface="OBERASBACH" />
+<Entity id="6" startPos="157" endPos="169" type="sentence" surface="OBERASBACH -" />
+<Entity id="7" startPos="183" endPos="280" type="sentence" surface="Naturschutz mit Axt und Motorsäge, darum geht es bei derzeit laufenden Arbeiten auf dem Hainberg." />
+<Entity id="8" startPos="271" endPos="279" type="location" surface="Hainberg" />
+<Entity id="9" startPos="281" endPos="405" type="sentence" surface="Landschaftsschutz mit der Säge: Bis Ende des Monats lichten Arbeiter am Hainberg den Baumbestand und helfen so dem Hutewald." />
+<Entity id="10" startPos="353" endPos="361" type="location" surface="Hainberg" />
+<Entity id="11" startPos="396" endPos="404" type="location" surface="Hutewald" />
+<Entity id="12" startPos="406" endPos="432" type="sentence" surface="© Archivfoto: Sabine Rempe" />
+<Entity id="13" startPos="420" endPos="432" type="person" surface="Sabine Rempe" />
+<Entity id="14" startPos="433" endPos="557" type="sentence" surface="Landschaftsschutz mit der Säge: Bis Ende des Monats lichten Arbeiter am Hainberg den Baumbestand und helfen so dem Hutewald." />
+<Entity id="15" startPos="505" endPos="513" type="location" surface="Hainberg" />
+<Entity id="16" startPos="548" endPos="556" type="location" surface="Hutewald" />
+<Entity id="17" startPos="558" endPos="588" type="sentence" surface="Foto: Archivfoto: Sabine Rempe" />
+<Entity id="18" startPos="576" endPos="588" type="person" surface="Sabine Rempe" />
+<Entity id="19" startPos="589" endPos="756" type="sentence" surface="„Den Hutewald aus dem Dornröschenschlaf befreien“, so formuliert es die Gesellschaft der Deutschen Bundesstiftung Umwelt zur Sicherung des Nationalen Naturerbes (DBU)." />
+<Entity id="20" startPos="594" endPos="602" type="location" surface="Hutewald" />
+<Entity id="21" startPos="678" endPos="709" type="organization" surface="Deutschen Bundesstiftung Umwelt" />
+<Entity id="22" startPos="751" endPos="754" type="organization" surface="DBU" />
+<Entity id="23" startPos="757" endPos="852" type="sentence" surface="Im Mittelalter trieben Bauern ihre Nutztiere zur winterlichen Mast auf sogenannte „Waldweiden“." />
+<Entity id="24" startPos="853" endPos="948" type="sentence" surface="In diesen lichtdurchfluteten Hutewäldern wuchsen vorzugsweise großkronige Eichen, die im Herbst" /></Entities><Relations />
+</Document>

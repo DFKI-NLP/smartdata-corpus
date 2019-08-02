@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />S13<NODE id="4" />/#<NODE id="6" />S19<NODE id="9" /> <NODE id="10" />Teilausfall<NODE id="21" /> ab #<NODE id="26" />Troisdorf<NODE id="35" /> (<NODE id="37" />16:28<NODE id="42" />,+<NODE id="44" />17<NODE id="46" />) bis #<NODE id="53" />Hennef<NODE id="59" /> (<NODE id="61" />16:36<NODE id="66" />) und <NODE id="72" />Hennef<NODE id="78" /> (<NODE id="80" />16:42<NODE id="85" />) nach <NODE id="92" />Troisdorf<NODE id="101" /> (<NODE id="103" />16:53<NODE id="108" />).#Verspätungskürzung
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671711274233954304" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="4" type="location-route" surface="S13" />
+<Entity id="1" startPos="6" endPos="9" type="location-route" surface="S19" />
+<Entity id="2" startPos="10" endPos="21" type="trigger" surface="Teilausfall" />
+<Entity id="3" startPos="26" endPos="35" type="location-stop" surface="Troisdorf" />
+<Entity id="4" startPos="37" endPos="42" type="time" surface="16:28" />
+<Entity id="5" startPos="44" endPos="46" type="duration" surface="17" />
+<Entity id="6" startPos="53" endPos="59" type="location-stop" surface="Hennef" />
+<Entity id="7" startPos="61" endPos="66" type="time" surface="16:36" />
+<Entity id="8" startPos="72" endPos="78" type="location-stop" surface="Hennef" />
+<Entity id="9" startPos="80" endPos="85" type="time" surface="16:42" />
+<Entity id="10" startPos="92" endPos="101" type="location-stop" surface="Troisdorf" />
+<Entity id="11" startPos="103" endPos="108" type="time" surface="16:53" /></Entities><Relations>
+<Relation id="12" NAME="CanceledRoute">
+<Entity id="6" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="13" NAME="CanceledRoute">
+<Entity id="10" label="end_loc" />
+<Entity id="8" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="14" NAME="CanceledRoute">
+<Entity id="6" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="15" NAME="CanceledRoute">
+<Entity id="10" label="end_loc" />
+<Entity id="8" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

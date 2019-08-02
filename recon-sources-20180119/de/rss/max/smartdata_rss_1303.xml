@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />PLÖßBERG<NODE id="8" />, <NODE id="10" />LKR.TIRSCHENREUTH<NODE id="27" />; <NODE id="29" />2jähriger<NODE id="38" /> Bub verstirbt nach tragischem landwirtschaftlichen <NODE id="90" />Betriebsunfall<NODE id="104" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.bayern.de/oberpfalz/news/presse/aktuell/index.html/241377@2016-05-13T00:16:30.436+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-12T22:16:30.436Z" />
+<feature featureName="indexDate" featureValue="2016-05-12T22:17:38.595Z" />
+<feature featureName="uri" featureValue="http://www.polizei.bayern.de/oberpfalz/news/presse/aktuell/index.html/241377" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-city" surface="PLÖßBERG" />
+<Entity id="1" startPos="10" endPos="27" type="location" surface="LKR.TIRSCHENREUTH" />
+<Entity id="2" startPos="29" endPos="38" type="number" surface="2jähriger" />
+<Entity id="3" startPos="90" endPos="104" type="disaster-type" surface="Betriebsunfall" /></Entities><Relations>
+<Relation id="4" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="location" />
+<Entity id="3" label="type" />
+</Relation></Relations>
+</Document>

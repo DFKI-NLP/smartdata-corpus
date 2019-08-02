@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />15.01.2016<NODE id="10" /> <NODE id="11" />18:57 Uhr<NODE id="20" /> via Twitter Folgen
+<NODE id="40" />17:39 Uhr<NODE id="49" /> - <NODE id="52" />15. Januar<NODE id="62" />
+<NODE id="63" />Drittes<NODE id="70" /> Spiel, <NODE id="78" />dritte<NODE id="84" /> Niederlage für den <NODE id="104" />HSV<NODE id="107" /> in <NODE id="111" />Belek<NODE id="116" />. <NODE id="118" />1<NODE id="119" />:<NODE id="120" />2<NODE id="121" /> ist das Ergebnis des Spiels gegen die <NODE id="160" />Young Boys <NODE id="171" />Bern<NODE id="175" />. Torchancen in der <NODE id="195" />zweiten<NODE id="202" /> Hälfte waren zunächst Mangelware. Dann schickte der <NODE id="255" />18-Jährige<NODE id="265" /> <NODE id="266" />Finn Porath<NODE id="277" /> einen steilen Ball auf <NODE id="301" />Nicolai Müller<NODE id="315" />, dessen Pass <NODE id="329" />Artjoms Rudnevs<NODE id="344" /> dann nur noch vollenden musste (<NODE id="377" />76<NODE id="379" />.). <NODE id="383" />Müller<NODE id="389" /> hätte in der <NODE id="403" />88. Minute<NODE id="413" /> das <NODE id="418" />2<NODE id="419" />:<NODE id="420" />1<NODE id="421" /> schießen müssen, verfehlte aber das leere Tor. Stattdessen gelang <NODE id="488" />Ravet<NODE id="493" /> für die <NODE id="502" />Young Boys<NODE id="512" /> in der <NODE id="520" />90. Minute<NODE id="530" /> das <NODE id="535" />1<NODE id="536" />:<NODE id="537" />2<NODE id="538" />. <NODE id="540" />Emir Spahic<NODE id="551" /> musste kurz vor Schluss verletzt ausgewechselt werden. Diagnose folgt. Und so spielte der <NODE id="642" />HSV<NODE id="645" />: <NODE id="647" />Adler<NODE id="652" /> - <NODE id="655" />Diekmeier<NODE id="664" />, <NODE id="666" />Djourou<NODE id="673" /> (<NODE id="675" />61<NODE id="677" />. <NODE id="679" />Cleber<NODE id="685" />), <NODE id="688" />Spahic<NODE id="694" /> (<NODE id="696" />82<NODE id="698" />. <NODE id="700" />Arslan<NODE id="706" />), <NODE id="709" />Ostrzolek<NODE id="718" /> (<NODE id="720" />61<NODE id="722" />. <NODE id="724" />Sakai<NODE id="729" />) - <NODE id="733" />Kacar<NODE id="738" />, <NODE id="740" />Holtby<NODE id="746" /> - <NODE id="749" />Müller<NODE id="755" />, <NODE id="757" />Hunt<NODE id="761" />, <NODE id="763" />Ilicevic<NODE id="771" /> (<NODE id="773" />61<NODE id="775" />. <NODE id="777" />Rudnevs<NODE id="784" />) - <NODE id="788" />Gregoritsch<NODE id="799" /> (<NODE id="801" />74<NODE id="803" />. <NODE id="805" />Porath<NODE id="811" />)
+<NODE id="813" />16:30 Uhr<NODE id="822" /> - <NODE id="825" />15. Januar<NODE id="835" />
+Testspiel <NODE id="846" />HSV<NODE id="849" /> - <NODE id="852" />Young Boys <NODE id="863" />Bern<NODE id="867" />: <NODE id="869" />0<NODE id="870" />:<NODE id="871" />1<NODE id="872" /> zur Halbzeit
+Das war wieder nicht überzeugend in der <NODE id="926" />ersten<NODE id="932" /> Halbzeit des <NODE id="946" />HSV<NODE id="949" />-Spiels geg
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/sport/fussball/Liveblog-HSV-Trainingslager-in-Belek,liveticker342.html@2016-03-10T13:26:50.154+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ndr.de/sport/fussball/Liveblog-HSV-Trainingslager-in-Belek,liveticker342.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="15.01.2016" />
+<Entity id="1" startPos="11" endPos="20" type="time" surface="18:57 Uhr" />
+<Entity id="2" startPos="40" endPos="49" type="time" surface="17:39 Uhr" />
+<Entity id="3" startPos="52" endPos="62" type="date" surface="15. Januar" />
+<Entity id="4" startPos="63" endPos="70" type="number" surface="Drittes" />
+<Entity id="5" startPos="78" endPos="84" type="number" surface="dritte" />
+<Entity id="6" startPos="104" endPos="107" type="organization" surface="HSV" />
+<Entity id="7" startPos="111" endPos="116" type="location-city" surface="Belek" />
+<Entity id="8" startPos="118" endPos="119" type="number" surface="1" />
+<Entity id="9" startPos="120" endPos="121" type="number" surface="2" />
+<Entity id="10" startPos="160" endPos="175" type="organization" surface="Young Boys Bern" />
+<Entity id="11" startPos="171" endPos="175" type="location-city" surface="Bern" />
+<Entity id="12" startPos="195" endPos="202" type="number" surface="zweiten" />
+<Entity id="13" startPos="255" endPos="265" type="number" surface="18-Jährige" />
+<Entity id="14" startPos="266" endPos="277" type="person" surface="Finn Porath" />
+<Entity id="15" startPos="301" endPos="315" type="person" surface="Nicolai Müller" />
+<Entity id="16" startPos="329" endPos="344" type="person" surface="Artjoms Rudnevs" />
+<Entity id="17" startPos="377" endPos="379" type="number" surface="76" />
+<Entity id="18" startPos="383" endPos="389" type="person" surface="Müller" />
+<Entity id="19" startPos="403" endPos="413" type="number" surface="88. Minute" />
+<Entity id="20" startPos="418" endPos="419" type="number" surface="2" />
+<Entity id="21" startPos="420" endPos="421" type="number" surface="1" />
+<Entity id="22" startPos="488" endPos="493" type="person" surface="Ravet" />
+<Entity id="23" startPos="502" endPos="512" type="organization" surface="Young Boys" />
+<Entity id="24" startPos="520" endPos="530" type="number" surface="90. Minute" />
+<Entity id="25" startPos="535" endPos="536" type="number" surface="1" />
+<Entity id="26" startPos="537" endPos="538" type="number" surface="2" />
+<Entity id="27" startPos="540" endPos="551" type="person" surface="Emir Spahic" />
+<Entity id="28" startPos="642" endPos="645" type="organization" surface="HSV" />
+<Entity id="29" startPos="647" endPos="652" type="person" surface="Adler" />
+<Entity id="30" startPos="655" endPos="664" type="person" surface="Diekmeier" />
+<Entity id="31" startPos="666" endPos="673" type="person" surface="Djourou" />
+<Entity id="32" startPos="675" endPos="677" type="number" surface="61" />
+<Entity id="33" startPos="679" endPos="685" type="person" surface="Cleber" />
+<Entity id="34" startPos="688" endPos="694" type="person" surface="Spahic" />
+<Entity id="35" startPos="696" endPos="698" type="number" surface="82" />
+<Entity id="36" startPos="700" endPos="706" type="person" surface="Arslan" />
+<Entity id="37" startPos="709" endPos="718" type="person" surface="Ostrzolek" />
+<Entity id="38" startPos="720" endPos="722" type="number" surface="61" />
+<Entity id="39" startPos="724" endPos="729" type="person" surface="Sakai" />
+<Entity id="40" startPos="733" endPos="738" type="person" surface="Kacar" />
+<Entity id="41" startPos="740" endPos="746" type="person" surface="Holtby" />
+<Entity id="42" startPos="749" endPos="755" type="person" surface="Müller" />
+<Entity id="43" startPos="757" endPos="761" type="person" surface="Hunt" />
+<Entity id="44" startPos="763" endPos="771" type="person" surface="Ilicevic" />
+<Entity id="45" startPos="773" endPos="775" type="number" surface="61" />
+<Entity id="46" startPos="777" endPos="784" type="person" surface="Rudnevs" />
+<Entity id="47" startPos="788" endPos="799" type="person" surface="Gregoritsch" />
+<Entity id="48" startPos="801" endPos="803" type="number" surface="74" />
+<Entity id="49" startPos="805" endPos="811" type="person" surface="Porath" />
+<Entity id="50" startPos="813" endPos="822" type="time" surface="16:30 Uhr" />
+<Entity id="51" startPos="825" endPos="835" type="date" surface="15. Januar" />
+<Entity id="52" startPos="846" endPos="849" type="organization" surface="HSV" />
+<Entity id="53" startPos="852" endPos="867" type="organization" surface="Young Boys Bern" />
+<Entity id="54" startPos="863" endPos="867" type="location-city" surface="Bern" />
+<Entity id="55" startPos="869" endPos="870" type="number" surface="0" />
+<Entity id="56" startPos="871" endPos="872" type="number" surface="1" />
+<Entity id="57" startPos="926" endPos="932" type="number" surface="ersten" />
+<Entity id="58" startPos="946" endPos="949" type="organization" surface="HSV" /></Entities><Relations />
+</Document>

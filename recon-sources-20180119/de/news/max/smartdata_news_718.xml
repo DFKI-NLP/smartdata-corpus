@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Trotz Baustopp wird am <NODE id="23" />Motel One <NODE id="33" />am <NODE id="36" />Alexanderplatz<NODE id="50" /> weitergearbeitet
+<NODE id="68" />15.01.2016<NODE id="78" />, <NODE id="80" />05:00<NODE id="85" />
+<NODE id="86" />Alexanderplatz<NODE id="100" /> Trotz Baustopp wird am Motel One weitergearbeitet
+Foto: <NODE id="157" />Motel One<NODE id="166" /> / BM
+Die Bauarbeiten für das neue <NODE id="201" />Motel One<NODE id="210" /> am <NODE id="214" />Alexanderplatz<NODE id="228" /> stehen unter keinem guten Stern: Nach Setzungen im Erdreich wurde im <NODE id="298" />November<NODE id="306" /> mit der <NODE id="315" />BVG<NODE id="318" /> ein Baustopp vereinbart
+0
+0
+Von <NODE id="351" />Sabine Gundlach<NODE id="366" />
+Die Arbeiten für das europaweit größte <NODE id="406" />Motel One<NODE id="415" /> Hotel am <NODE id="425" />Berliner<NODE id="433" /> <NODE id="434" />Alexanderplatz<NODE id="448" /> gehen ohne Zustimmung der <NODE id="475" />BVG<NODE id="478" /> weiter.
+Der Bauherr des geplanten europaweit größten Hotel <NODE id="538" />Motel One<NODE id="547" /> am <NODE id="551" />Alexanderplatz<NODE id="565" /> geht aufs Ganze: Trotz des mit der <NODE id="601" />BVG<NODE id="604" /> im <NODE id="608" />November<NODE id="616" /> vereinbarten Baustopps gehen die Arbeiten weiter. Es geht voran, bestätigte ein Mitarbeiter der Firma <NODE id="719" />GFB<NODE id="722" /> <NODE id="723" />Gesellschaft für Architektur, Generalplanung und Design mbH<NODE id="782" />, die das Projekt für den <NODE id="808" />Berliner<NODE id="816" /> Bauherrn <NODE id="826" />Wilfried Euler<NODE id="840" /> managt.
+Der <NODE id="853" />GFB<NODE id="856" />-Architekt, der namentlich nicht genannt werden wollte, sagte der <NODE id="922" />Berliner Morgenpost<NODE id="941" />, dass
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.morgenpost.de/berlin/article206924991/Trotz-Baustop-wird-am-Motel-One-weitergearbeitet.html@2016-03-10T11:49:45.406+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T10:49:45.406Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:49:51.419Z" />
+<feature featureName="uri" featureValue="http://www.morgenpost.de/berlin/article206924991/Trotz-Baustop-wird-am-Motel-One-weitergearbeitet.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="33" type="organization-company" surface="Motel One " />
+<Entity id="1" startPos="36" endPos="50" type="location" surface="Alexanderplatz" />
+<Entity id="2" startPos="68" endPos="78" type="date" surface="15.01.2016" />
+<Entity id="3" startPos="80" endPos="85" type="time" surface="05:00" />
+<Entity id="4" startPos="86" endPos="100" type="location" surface="Alexanderplatz" />
+<Entity id="5" startPos="157" endPos="166" type="organization-company" surface="Motel One" />
+<Entity id="6" startPos="201" endPos="210" type="organization-company" surface="Motel One" />
+<Entity id="7" startPos="214" endPos="228" type="location" surface="Alexanderplatz" />
+<Entity id="8" startPos="298" endPos="306" type="date" surface="November" />
+<Entity id="9" startPos="315" endPos="318" type="organization-company" surface="BVG" />
+<Entity id="10" startPos="351" endPos="366" type="person" surface="Sabine Gundlach" />
+<Entity id="11" startPos="406" endPos="415" type="organization-company" surface="Motel One" />
+<Entity id="12" startPos="425" endPos="433" type="location-city" surface="Berliner" />
+<Entity id="13" startPos="434" endPos="448" type="location" surface="Alexanderplatz" />
+<Entity id="14" startPos="475" endPos="478" type="organization-company" surface="BVG" />
+<Entity id="15" startPos="538" endPos="547" type="organization-company" surface="Motel One" />
+<Entity id="16" startPos="551" endPos="565" type="location" surface="Alexanderplatz" />
+<Entity id="17" startPos="601" endPos="604" type="organization-company" surface="BVG" />
+<Entity id="18" startPos="608" endPos="616" type="date" surface="November" />
+<Entity id="19" startPos="719" endPos="722" type="organization-company" surface="GFB" />
+<Entity id="20" startPos="723" endPos="782" type="organization-company" surface="Gesellschaft für Architektur, Generalplanung und Design mbH" />
+<Entity id="21" startPos="808" endPos="816" type="location-city" surface="Berliner" />
+<Entity id="22" startPos="826" endPos="840" type="person" surface="Wilfried Euler" />
+<Entity id="23" startPos="853" endPos="856" type="organization-company" surface="GFB" />
+<Entity id="24" startPos="922" endPos="941" type="organization-company" surface="Berliner Morgenpost" /></Entities><Relations />
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Angebot aus #<NODE id="13" />Warnemünde<NODE id="23" />: Fernbus von und nach <NODE id="46" />Warnemünde<NODE id="56" /> ab <NODE id="60" />11 Euro<NODE id="67" /> https://t.co/EyIJc9ZJY5 #welovewmnde
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666261955037020161" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-16T14:30:03Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:48:05.73Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="13" endPos="23" type="location-city" surface="Warnemünde" />
+<Entity id="1" startPos="46" endPos="56" type="location-city" surface="Warnemünde" />
+<Entity id="2" startPos="60" endPos="67" type="number" surface="11 Euro" /></Entities><Relations />
+</Document>

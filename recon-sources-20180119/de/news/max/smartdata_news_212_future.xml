@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Börsen-Zeitung: Mehr als ein Ärgernis, Kommentar zu <NODE id="52" />Edeka<NODE id="57" />/<NODE id="58" />Tengelmann<NODE id="68" /> von <NODE id="73" />Ulli Gericke<NODE id="85" />
+Posted on
+by redaktion
+<NODE id="109" />Frankfurt<NODE id="118" /> (ots) – Diese Sätze hätten auch von Bundeswirtschaftsminister <NODE id="181" />Sigmar Gabriel<NODE id="195" /> stammen können: “Wir sind überzeugt, dass die tatsächlichen gesamtwirtschaftlichen Vorteile unseres Fusionsvorhabens die rein wettbewerbsrechtlichen Kritikpunkte des Bundeskartellamts weit überwiegen.” Im Vordergrund der <NODE id="417" />Übernahme<NODE id="426" /> der Supermarktkette <NODE id="447" />Kaiser’s Tengelmann<NODE id="466" /> durch <NODE id="473" />Edeka<NODE id="478" /> stünden knapp <NODE id="493" />16000<NODE id="498" /> Arbeitsplätze, die “nur mit der Fusion umfassend gesichert werden”. Tatsächlich sind dies aber nicht <NODE id="600" />Gabriels<NODE id="608" /> Worte, als er gestern die Ministererlaubnis für den vom <NODE id="665" />Bundeskartellamt<NODE id="681" /> und der Monopolkommission heftig kritisierten Zusammenschluss in Aussicht stellte. Urheber dieser Sätze ist vielmehr <NODE id="799" />Karl-Erivan Haub<NODE id="815" />, der geschäftsführende Gesellschafter der <NODE id="858" />Tengelmann<NODE id="868" />-Gruppe, als er im <NODE id="887" />April 2015<NODE id="897" /> zusammen mit <NODE id="911" />Edeka<NODE id="916" /> die Ministererlaubnis beantragt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://wirtschaftsnachrichten-online.de/2016/01/13/borsen-zeitung-mehr-als-ein-argernis-kommentar-zu-edekatengelmann-von-ulli-gericke/@2016-01-12T23:36:16.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-12T22:36:16Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:56:22.952Z" />
+<feature featureName="uri" featureValue="http://wirtschaftsnachrichten-online.de/2016/01/13/borsen-zeitung-mehr-als-ein-argernis-kommentar-zu-edekatengelmann-von-ulli-gericke/" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="52" endPos="57" type="organization-company" surface="Edeka" />
+<Entity id="1" startPos="58" endPos="68" type="organization-company" surface="Tengelmann" />
+<Entity id="2" startPos="73" endPos="85" type="person" surface="Ulli Gericke" />
+<Entity id="3" startPos="109" endPos="118" type="location-city" surface="Frankfurt" />
+<Entity id="4" startPos="181" endPos="195" type="person" surface="Sigmar Gabriel" />
+<Entity id="5" startPos="417" endPos="426" type="trigger" surface="Übernahme" />
+<Entity id="6" startPos="447" endPos="466" type="organization-company" surface="Kaiser’s Tengelmann" />
+<Entity id="7" startPos="473" endPos="478" type="organization-company" surface="Edeka" />
+<Entity id="8" startPos="493" endPos="498" type="number" surface="16000" />
+<Entity id="9" startPos="600" endPos="608" type="person" surface="Gabriels" />
+<Entity id="10" startPos="665" endPos="681" type="organization" surface="Bundeskartellamt" />
+<Entity id="11" startPos="799" endPos="815" type="person" surface="Karl-Erivan Haub" />
+<Entity id="12" startPos="858" endPos="868" type="organization-company" surface="Tengelmann" />
+<Entity id="13" startPos="887" endPos="897" type="date" surface="April 2015" />
+<Entity id="14" startPos="911" endPos="916" type="organization-company" surface="Edeka" /></Entities><Relations>
+<Relation id="15" NAME="Acquisition">
+<Entity id="5" label="trigger" />
+<Entity id="6" label="acquired" />
+<Entity id="7" label="buyer" />
+</Relation></Relations>
+</Document>

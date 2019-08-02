@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />USA<NODE id="3" /> kritisieren Stürmung von <NODE id="29" />türkischem<NODE id="39" /> Redaktionsgebäude
+<NODE id="58" />sda<NODE id="61" />
+Zuletzt aktualisiert am <NODE id="86" />5.3.2016<NODE id="94" /> um <NODE id="98" />05:36 Uhr<NODE id="107" />
+Die <NODE id="112" />türkische Polizei<NODE id="129" /> hat am <NODE id="137" />Freitagabend<NODE id="149" /> das Redaktionsgebäude der oppositionellen Zeitung <NODE id="200" />Zaman<NODE id="205" /> in <NODE id="209" />Istanbul<NODE id="217" /> gestürmt. Das Blatt, das einem Erzfeind von Staatschef <NODE id="273" />Recep Tayyip Erdogan<NODE id="293" /> nahesteht, war zuvor unter staatlichen Treuhandverwaltung gestellt worden.
+Gegen die protestierende Menge von Hunderten von Lesern, die sich seit dem Abend vor dem Haus versammelt hatte, ging die Polizei mit Tränengas und Wasserwerfern vor. Die Polizei hätte Überwachungskameras im Gebäude abgeschaltet, um Live-Bilder vom Einsatz zu verhindern, berichtete die Zeitung in ihrer <NODE id="672" />englischen<NODE id="682" /> Ausgabe online. Die Mitarbeiter seien aufgefordert worden, das Haus zu verlassen.
+Die Zeitung war am <NODE id="784" />Freitag<NODE id="791" /> auf einen Gerichtsbeschluss hin unter die Aufsicht einer staatlichen Treuhandverwaltung gestellt worden. Diebe raus, skandierten den Berichten z
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.grenchnertagblatt.ch/wirtschaft/usa-kritisieren-stuermung-von-tuerkischem-redaktionsgebaeude-130110561@2016-03-05T05:36:06.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-05T04:36:06Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:10:42.952Z" />
+<feature featureName="uri" featureValue="http://www.grenchnertagblatt.ch/wirtschaft/usa-kritisieren-stuermung-von-tuerkischem-redaktionsgebaeude-130110561" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location" surface="USA" />
+<Entity id="1" startPos="29" endPos="39" type="location" surface="türkischem" />
+<Entity id="2" startPos="58" endPos="61" type="organization" surface="sda" />
+<Entity id="3" startPos="86" endPos="94" type="date" surface="5.3.2016" />
+<Entity id="4" startPos="98" endPos="107" type="time" surface="05:36 Uhr" />
+<Entity id="5" startPos="112" endPos="129" type="organization" surface="türkische Polizei" />
+<Entity id="6" startPos="137" endPos="149" type="date" surface="Freitagabend" />
+<Entity id="7" startPos="200" endPos="205" type="organization-company" surface="Zaman" />
+<Entity id="8" startPos="209" endPos="217" type="location-city" surface="Istanbul" />
+<Entity id="9" startPos="273" endPos="293" type="person" surface="Recep Tayyip Erdogan" />
+<Entity id="10" startPos="672" endPos="682" type="location" surface="englischen" />
+<Entity id="11" startPos="784" endPos="791" type="date" surface="Freitag" /></Entities><Relations />
+</Document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A14<NODE id="3" /> <NODE id="4" />Leipzig<NODE id="11" /> Richtung <NODE id="21" />Nossen<NODE id="27" /> in Höhe <NODE id="36" />Mutzschen<NODE id="45" /> Einfahrt bis auf weiteres <NODE id="72" />gesperrt<NODE id="80" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp@2016-04-05T02:10:29.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-05T00:10:29Z" />
+<feature featureName="indexDate" featureValue="2016-04-05T07:50:00.201Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A14" />
+<Entity id="1" startPos="4" endPos="11" type="location-city" surface="Leipzig" />
+<Entity id="2" startPos="21" endPos="27" type="location-city" surface="Nossen" />
+<Entity id="3" startPos="36" endPos="45" type="location" surface="Mutzschen" />
+<Entity id="4" startPos="72" endPos="80" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="5" NAME="Obstruction">
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="4" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

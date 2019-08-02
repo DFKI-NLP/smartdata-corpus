@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Mannheim<NODE id="8" /> Richtung <NODE id="18" />Heilbronn<NODE id="27" /> zwischen <NODE id="37" />Sinsheim-Süd<NODE id="49" /> und <NODE id="54" />Sinsheim-Steinsfurt<NODE id="73" /> Personen auf der Fahrbahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=89f57265-561a-4a7a-bc75-087dc987d686@2016-05-21T14:58:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-21T12:58:00Z" />
+<feature featureName="indexDate" featureValue="2016-05-21T13:11:30.883Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=89f57265-561a-4a7a-bc75-087dc987d686" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-city" surface="Mannheim" />
+<Entity id="1" startPos="18" endPos="27" type="location-city" surface="Heilbronn" />
+<Entity id="2" startPos="37" endPos="49" type="location" surface="Sinsheim-Süd" />
+<Entity id="3" startPos="54" endPos="73" type="location" surface="Sinsheim-Steinsfurt" /></Entities><Relations />
+</Document>

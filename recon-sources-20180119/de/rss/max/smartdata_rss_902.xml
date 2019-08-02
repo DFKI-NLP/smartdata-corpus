@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Auf der <NODE id="8" />A60<NODE id="11" /> <NODE id="12" />Bingen<NODE id="18" /> Richtung <NODE id="28" />Mainz<NODE id="33" /> ist die <NODE id="42" />Ausfahrt Ingelheim-West<NODE id="65" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#63@2016-04-21T15:29:39.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-21T13:29:39Z" />
+<feature featureName="indexDate" featureValue="2016-04-21T13:30:36.682Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="11" type="location-street" surface="A60" />
+<Entity id="1" startPos="12" endPos="18" type="location-city" surface="Bingen" />
+<Entity id="2" startPos="28" endPos="33" type="location-city" surface="Mainz" />
+<Entity id="3" startPos="42" endPos="65" type="location" surface="Ausfahrt Ingelheim-West" /></Entities><Relations />
+</Document>

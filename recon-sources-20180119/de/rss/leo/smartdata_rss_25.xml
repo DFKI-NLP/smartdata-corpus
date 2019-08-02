@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Neu-Ulm - Bad Urach<NODE id="19" /> zwischen <NODE id="29" />Blaubeuren<NODE id="39" /> und <NODE id="44" />Suppingen<NODE id="53" /> in <NODE id="57" />beiden Richtungen<NODE id="74" /> Gefahr, Erdrutsch (im Steigungsbereich Geröll und Erdreich auf der Fahrbahn)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=dfafa75f-d25c-48ff-bdad-f3be992a34a1@2016-02-08T17:42:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=dfafa75f-d25c-48ff-bdad-f3be992a34a1" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="19" type="location-street" surface="Neu-Ulm - Bad Urach" />
+<Entity id="1" startPos="29" endPos="39" type="location-city" surface="Blaubeuren" />
+<Entity id="2" startPos="44" endPos="53" type="location-city" surface="Suppingen" />
+<Entity id="3" startPos="57" endPos="74" type="location" surface="beiden Richtungen" /></Entities><Relations />
+</Document>

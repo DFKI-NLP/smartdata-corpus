@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Orkanböen von über <NODE id="19" />130 km/h<NODE id="27" /> in den <NODE id="35" />Schweizer<NODE id="44" /> Bergen
+publiziert: <NODE id="64" />Dienstag<NODE id="72" />, <NODE id="74" />12. Jan 2016 <NODE id="87" />/ <NODE id="89" />10:01 Uhr<NODE id="98" /> / aktualisiert: <NODE id="115" />Dienstag<NODE id="123" />, <NODE id="125" />12. Jan 2016<NODE id="137" /> / <NODE id="140" />17:38 Uhr<NODE id="149" />
+Meteorologen rechnen mit Orkanspitzen von bis zu <NODE id="199" />150 km/h<NODE id="207" />.
+ 
+ 
+<NODE id="213" />Bern<NODE id="217" /> - Stürmisches Wetter in der <NODE id="246" />Schweiz<NODE id="253" />: Orkanböen von um die <NODE id="276" />130 Stundenkilometern<NODE id="297" /> sind zwischen <NODE id="312" />Montagmittag<NODE id="324" /> und <NODE id="329" />Dienstagmorgen<NODE id="343" /> gemessen worden. Die heftigste Böe von<NODE id="382" /> 136 Stundenkilometern <NODE id="405" />wurde auf <NODE id="415" />Les Diablerets<NODE id="429" /> in der <NODE id="437" />Waadt<NODE id="442" /> registriert.
+auf <NODE id="460" />Facebook<NODE id="468" />
+Das teilte <NODE id="480" />SRF Meteo<NODE id="489" /> am <NODE id="493" />Dienstag<NODE id="501" /> mit. Aber auch an anderen Orten blies der Wind in Orkanstärke, also mit mehr als <NODE id="583" />117 Stundenkilometern<NODE id="604" /> (km/h): Auf dem <NODE id="621" />Luzerner<NODE id="629" /> Hausberg <NODE id="639" />Pilatus<NODE id="646" /> wurden <NODE id="654" />130 km/h<NODE id="662" /> gemessen, auf dem <NODE id="681" />Säntis<NODE id="687" /> in der <NODE id="695" />Ostschweiz<NODE id="705" /> <NODE id="706" />129 km/h <NODE id="715" />und auf dem <NODE id="727" />Bantiger<NODE id="735" /> bei <NODE id="740" />Bern<NODE id="744" /> <NODE id="745" />127 km/h<NODE id="753" />.
+Über grössere Schäden wurde bisher nichts bekannt. Bei der <NODE id="814" />Berner Kantonspolizei<NODE id="835" /> gingen seit der Nacht auf <NODE id="862" />Montag<NODE id="868" /> z<NODE id="870" />wei Dutzend<NODE id="881" /> Meldungen ein, wie ein Sprecher am <NODE id="917" />Dienstagmorgen<NODE id="931" /> auf Anfrage der Nachrichtenagentur
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.news.ch/Orkanboeen+von+ueber+130+km+h+in+den+Schweizer+Bergen/684827/detail.htm@2016-03-10T12:15:01.280+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:15:01.28Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:15:03.32Z" />
+<feature featureName="uri" featureValue="http://www.news.ch/Orkanboeen+von+ueber+130+km+h+in+den+Schweizer+Bergen/684827/detail.htm" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="27" type="number" surface="130 km/h" />
+<Entity id="1" startPos="35" endPos="44" type="location" surface="Schweizer" />
+<Entity id="2" startPos="64" endPos="72" type="date" surface="Dienstag" />
+<Entity id="3" startPos="74" endPos="87" type="date" surface="12. Jan 2016 " />
+<Entity id="4" startPos="89" endPos="98" type="time" surface="10:01 Uhr" />
+<Entity id="5" startPos="115" endPos="123" type="date" surface="Dienstag" />
+<Entity id="6" startPos="125" endPos="137" type="date" surface="12. Jan 2016" />
+<Entity id="7" startPos="140" endPos="149" type="time" surface="17:38 Uhr" />
+<Entity id="8" startPos="199" endPos="207" type="number" surface="150 km/h" />
+<Entity id="9" startPos="213" endPos="217" type="location-city" surface="Bern" />
+<Entity id="10" startPos="246" endPos="253" type="location" surface="Schweiz" />
+<Entity id="11" startPos="276" endPos="297" type="number" surface="130 Stundenkilometern" />
+<Entity id="12" startPos="312" endPos="324" type="date" surface="Montagmittag" />
+<Entity id="13" startPos="329" endPos="343" type="date" surface="Dienstagmorgen" />
+<Entity id="14" startPos="382" endPos="405" type="number" surface=" 136 Stundenkilometern " />
+<Entity id="15" startPos="415" endPos="429" type="location" surface="Les Diablerets" />
+<Entity id="16" startPos="437" endPos="442" type="location" surface="Waadt" />
+<Entity id="17" startPos="460" endPos="468" type="organization-company" surface="Facebook" />
+<Entity id="18" startPos="480" endPos="489" type="organization" surface="SRF Meteo" />
+<Entity id="19" startPos="493" endPos="501" type="date" surface="Dienstag" />
+<Entity id="20" startPos="583" endPos="604" type="number" surface="117 Stundenkilometern" />
+<Entity id="21" startPos="621" endPos="629" type="location-city" surface="Luzerner" />
+<Entity id="22" startPos="639" endPos="646" type="location" surface="Pilatus" />
+<Entity id="23" startPos="654" endPos="662" type="number" surface="130 km/h" />
+<Entity id="24" startPos="681" endPos="687" type="location" surface="Säntis" />
+<Entity id="25" startPos="695" endPos="705" type="location" surface="Ostschweiz" />
+<Entity id="26" startPos="706" endPos="715" type="number" surface="129 km/h " />
+<Entity id="27" startPos="727" endPos="735" type="location" surface="Bantiger" />
+<Entity id="28" startPos="740" endPos="744" type="location-city" surface="Bern" />
+<Entity id="29" startPos="745" endPos="753" type="number" surface="127 km/h" />
+<Entity id="30" startPos="814" endPos="835" type="organization" surface="Berner Kantonspolizei" />
+<Entity id="31" startPos="862" endPos="868" type="date" surface="Montag" />
+<Entity id="32" startPos="870" endPos="881" type="number" surface="wei Dutzend" />
+<Entity id="33" startPos="917" endPos="931" type="date" surface="Dienstagmorgen" /></Entities><Relations />
+</Document>

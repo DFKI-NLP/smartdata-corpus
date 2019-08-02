@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#abitur2016 &amp; Co: So feiern die Schüler in #<NODE id="44" />Hannover<NODE id="52" /> ihre Entlassungen. https://t.co/9Eds3ujRqJ https://t.co/id8NC1AzxZ
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743874263422238721" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T18:33:39Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T18:33:44.726Z" />
+<feature featureName="uri" featureValue="https://twitter.com/HAZ/status/743874263422238721" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="44" endPos="52" type="location" surface="Hannover" /></Entities><Relations />
+</Document>

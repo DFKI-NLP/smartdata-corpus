@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Banken: Großaktionäre der <NODE id="26" />BHF<NODE id="29" /> fordern Nachschlag: Es ist die erste feindliche Übernahme in der <NODE id="95" />deutschen<NODE id="104" /> Finan... http://t.co/BzDmbgyCeE
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="626335356137271296" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-07-29T10:16:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:15:44.119Z" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="26" endPos="29" type="organization-company" surface="BHF" />
+<Entity id="1" startPos="95" endPos="104" type="location" surface="deutschen" /></Entities><Relations />
+</Document>

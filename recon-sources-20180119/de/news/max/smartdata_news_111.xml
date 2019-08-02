@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Iran<NODE id="4" /> lässt „<NODE id="12" />Washington-Post<NODE id="27" />”-Reporter frei - Gefangenenaustausch
+Von: dpa
+Letzte Aktualisierung:
+<NODE id="97" />16. Januar 2016<NODE id="112" />, <NODE id="114" />16:41 Uhr<NODE id="123" />
+<NODE id="124" />Teheran<NODE id="131" />. Der <NODE id="137" />Iran<NODE id="141" /> hat den „<NODE id="151" />Washington-Post<NODE id="166" />”-Reporter <NODE id="177" />Jason Rezaian<NODE id="190" /> freigelassen. Das bestätigte die <NODE id="224" />iranische<NODE id="233" /> Staatsanwaltschaft<NODE id="252" /> nach Angaben der Nachrichtenagentur <NODE id="289" />Fars<NODE id="293" />. Auch <NODE id="300" />drei<NODE id="304" /> weitere Gefangene mit doppelter Staatsangehörigkeit seien im Rahmen eines Gefangenaustausches freigelassen worden. Der <NODE id="424" />US<NODE id="426" />-Sender <NODE id="434" />CNN<NODE id="437" /> berichtete, auf <NODE id="454" />US<NODE id="456" />-Seite seien <NODE id="469" />sieben<NODE id="475" /> <NODE id="476" />iranische<NODE id="485" /> Gefangene freigelassen worden. Im Rahmen des Gefangenenaustauschs mit den <NODE id="560" />USA<NODE id="563" /> würden <NODE id="571" />vier<NODE id="575" /> <NODE id="576" />amerikanische<NODE id="589" /> Bürger im <NODE id="600" />Iran<NODE id="604" /> freigelassen.
+<NODE id="619" />Iran<NODE id="623" /> lässt „<NODE id="631" />Washington-Post<NODE id="646" />”-Reporter frei - Gefangenenaustausch
+Von: dpa
+Letzte Aktualisierung:
+<NODE id="716" />16. Januar 2016<NODE id="731" />, <NODE id="733" />16:41 Uhr<NODE id="742" />
+<NODE id="743" />Teheran<NODE id="750" />. Der <NODE id="756" />Iran<NODE id="760" /> hat den „<NODE id="770" />Washington-Post<NODE id="785" />”-Reporter Jason Rezaian freigelassen. Das bestätigte die <NODE id="843" />iranische<NODE id="852" /> Staatsanwaltschaft<NODE id="871" /> nach Angaben der Nachrichtenagentur <NODE id="908" />Fars<NODE id="912" />. Auch <NODE id="919" />drei<NODE id="923" /> weitere G
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.aachener-nachrichten.de/news/newsticker/iran-laesst-washington-post-reporter-frei-gefangenenaustausch-1.1270311@2016-03-10T15:17:22.087+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.aachener-nachrichten.de/news/newsticker/iran-laesst-washington-post-reporter-frei-gefangenenaustausch-1.1270311" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="location" surface="Iran" />
+<Entity id="1" startPos="12" endPos="27" type="organization-company" surface="Washington-Post" />
+<Entity id="2" startPos="97" endPos="112" type="date" surface="16. Januar 2016" />
+<Entity id="3" startPos="114" endPos="123" type="time" surface="16:41 Uhr" />
+<Entity id="4" startPos="124" endPos="131" type="location-city" surface="Teheran" />
+<Entity id="5" startPos="137" endPos="141" type="location" surface="Iran" />
+<Entity id="6" startPos="151" endPos="166" type="organization-company" surface="Washington-Post" />
+<Entity id="7" startPos="177" endPos="190" type="person" surface="Jason Rezaian" />
+<Entity id="8" startPos="224" endPos="233" type="location" surface="iranische" />
+<Entity id="9" startPos="224" endPos="252" type="organization" surface="iranische Staatsanwaltschaft" />
+<Entity id="10" startPos="289" endPos="293" type="organization" surface="Fars" />
+<Entity id="11" startPos="300" endPos="304" type="number" surface="drei" />
+<Entity id="12" startPos="424" endPos="426" type="location" surface="US" />
+<Entity id="13" startPos="434" endPos="437" type="organization-company" surface="CNN" />
+<Entity id="14" startPos="454" endPos="456" type="location" surface="US" />
+<Entity id="15" startPos="469" endPos="475" type="number" surface="sieben" />
+<Entity id="16" startPos="476" endPos="485" type="location" surface="iranische" />
+<Entity id="17" startPos="560" endPos="563" type="location" surface="USA" />
+<Entity id="18" startPos="571" endPos="575" type="number" surface="vier" />
+<Entity id="19" startPos="576" endPos="589" type="location" surface="amerikanische" />
+<Entity id="20" startPos="600" endPos="604" type="location" surface="Iran" />
+<Entity id="21" startPos="619" endPos="623" type="location" surface="Iran" />
+<Entity id="22" startPos="631" endPos="646" type="organization-company" surface="Washington-Post" />
+<Entity id="23" startPos="716" endPos="731" type="date" surface="16. Januar 2016" />
+<Entity id="24" startPos="733" endPos="742" type="time" surface="16:41 Uhr" />
+<Entity id="25" startPos="743" endPos="750" type="location-city" surface="Teheran" />
+<Entity id="26" startPos="756" endPos="760" type="location" surface="Iran" />
+<Entity id="27" startPos="770" endPos="785" type="organization-company" surface="Washington-Post" />
+<Entity id="28" startPos="843" endPos="852" type="location" surface="iranische" />
+<Entity id="29" startPos="843" endPos="871" type="organization" surface="iranische Staatsanwaltschaft" />
+<Entity id="30" startPos="908" endPos="912" type="organization" surface="Fars" />
+<Entity id="31" startPos="919" endPos="923" type="number" surface="drei" /></Entities><Relations />
+</Document>

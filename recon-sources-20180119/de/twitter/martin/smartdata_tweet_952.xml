@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Was manche Leute so um <NODE id="23" />3 uhr<NODE id="28" /> in <NODE id="32" />Berlin<NODE id="38" /> am <NODE id="42" />Hauptbahnhof<NODE id="54" /> machen.. 
+Aber naja so Spart man sich das Drehteam haha.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744401157309739008" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T05:27:20Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T05:27:30.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/EMOTIONAL CHAOS/status/744401157309739008" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="28" type="time" surface="3 uhr" />
+<Entity id="1" startPos="32" endPos="38" type="location-city" surface="Berlin" />
+<Entity id="2" startPos="42" endPos="54" type="location-stop" surface="Hauptbahnhof" /></Entities><Relations />
+</Document>

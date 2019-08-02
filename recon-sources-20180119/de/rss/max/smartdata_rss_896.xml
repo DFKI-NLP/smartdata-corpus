@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A1<NODE id="25" /> <NODE id="26" />Lübeck<NODE id="32" /> Richtung <NODE id="42" />Fehmarn<NODE id="49" /> zwischen <NODE id="59" />Rastplatz Hasselburger Mühle<NODE id="87" /> und <NODE id="92" />Lensahn<NODE id="99" /> liegt ein Reh auf der Fahrbahn.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#0@2016-06-08T02:52:23.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-08T00:52:23Z" />
+<feature featureName="indexDate" featureValue="2016-06-08T00:54:05.93Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="25" type="location-street" surface="A1" />
+<Entity id="1" startPos="26" endPos="32" type="location-city" surface="Lübeck" />
+<Entity id="2" startPos="42" endPos="49" type="location-city" surface="Fehmarn" />
+<Entity id="3" startPos="59" endPos="87" type="location" surface="Rastplatz Hasselburger Mühle" />
+<Entity id="4" startPos="92" endPos="99" type="location" surface="Lensahn" /></Entities><Relations />
+</Document>

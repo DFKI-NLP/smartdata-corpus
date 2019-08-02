@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />Zschopau<NODE id="12" /> in <NODE id="16" />Wiesa<NODE id="21" />, eingebettet in den neuen Hochwasserschutz.
+© LTV <NODE id="72" />Sachsen<NODE id="79" />
+<NODE id="80" />Wiesa<NODE id="85" />. <NODE id="87" />Wiesa<NODE id="92" /> im <NODE id="96" />Erzgebirge<NODE id="106" /> ist künftig besser vor Hochwasser geschützt. Die Arbeiten an der neuen Schutzanlage an beiden Ufern der <NODE id="211" />Zschopau<NODE id="219" /> seien beendet, teilte die <NODE id="246" />Landestalsperren-Verwaltung<NODE id="273" /> am <NODE id="277" />Dienstag<NODE id="285" /> mit.
+Seit <NODE id="296" />März 2014<NODE id="305" /> wurden rund <NODE id="318" />fünf Millionen Euro<NODE id="337" /> investiert, dafür unter anderem Mauern aus Stahlbeton und Natursteinen errichtet sowie Stützwände erhöht. Weil die Uferböschungen zurückgesetzt wurden, habe der Fluss nun mehr Platz.
+Damit sei <NODE id="531" />Wiesa<NODE id="536" /> sogar vor einem Hochwasser sicher, wie es statistisch alle <NODE id="596" />100 Jahre<NODE id="605" /> vorkomme, hieß es. (dpa)
+zur Startseite
+Drucken Empfehlen Ihre Mitteilung an uns
+Empfehlung - <NODE id="700" />Wiesa<NODE id="705" /> genießt Hochwasserschutz
+<NODE id="731" />Wiesa<NODE id="736" />. <NODE id="738" />Wiesa<NODE id="743" /> im <NODE id="747" />Erzgebirge<NODE id="757" /> ist künftig besser vor Hochwasser geschützt. Die Arbeiten an der neuen Schutzanlage an beiden Ufern der <NODE id="862" />Zschopau<NODE id="870" /> seien beendet, teilte die <NODE id="897" />Landestalsperren-Verwaltung<NODE id="924" /> am <NODE id="928" />Dienstag<NODE id="936" /> mit. (...)   Link zum Artikel:
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.sz-online.de/sachsen/wiesa-geniesst-hochwasserschutz--3282032.html@2016-03-11T00:45:07.487+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T23:45:07.487Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T23:45:13.316Z" />
+<feature featureName="uri" featureValue="http://www.sz-online.de/sachsen/wiesa-geniesst-hochwasserschutz--3282032.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="12" type="location" surface="Zschopau" />
+<Entity id="1" startPos="16" endPos="21" type="location-city" surface="Wiesa" />
+<Entity id="2" startPos="72" endPos="79" type="location" surface="Sachsen" />
+<Entity id="3" startPos="80" endPos="85" type="location-city" surface="Wiesa" />
+<Entity id="4" startPos="87" endPos="92" type="location-city" surface="Wiesa" />
+<Entity id="5" startPos="96" endPos="106" type="location" surface="Erzgebirge" />
+<Entity id="6" startPos="211" endPos="219" type="location" surface="Zschopau" />
+<Entity id="7" startPos="246" endPos="273" type="organization" surface="Landestalsperren-Verwaltung" />
+<Entity id="8" startPos="277" endPos="285" type="date" surface="Dienstag" />
+<Entity id="9" startPos="296" endPos="305" type="date" surface="März 2014" />
+<Entity id="10" startPos="318" endPos="337" type="number" surface="fünf Millionen Euro" />
+<Entity id="11" startPos="531" endPos="536" type="location-city" surface="Wiesa" />
+<Entity id="12" startPos="596" endPos="605" type="date" surface="100 Jahre" />
+<Entity id="13" startPos="700" endPos="705" type="location-city" surface="Wiesa" />
+<Entity id="14" startPos="731" endPos="736" type="location-city" surface="Wiesa" />
+<Entity id="15" startPos="738" endPos="743" type="location-city" surface="Wiesa" />
+<Entity id="16" startPos="747" endPos="757" type="location" surface="Erzgebirge" />
+<Entity id="17" startPos="862" endPos="870" type="location" surface="Zschopau" />
+<Entity id="18" startPos="897" endPos="924" type="organization" surface="Landestalsperren-Verwaltung" />
+<Entity id="19" startPos="928" endPos="936" type="date" surface="Dienstag" /></Entities><Relations />
+</Document>

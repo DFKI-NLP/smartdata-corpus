@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Fehler melden
+Sie haben einen Fehler gefunden?
+Bitte markieren Sie die entsprechenden Wörter im Text. Mit nur <NODE id="110" />zwei<NODE id="114" /> Klicks melden Sie den Fehler der Redaktion.
+Teilen und Details
+<NODE id="178" />dpa<NODE id="181" />/<NODE id="182" />Bundeswehr<NODE id="192" />/<NODE id="193" />Falk Bärwald<NODE id="205" /> Seit vergangenem <NODE id="223" />Dienstag<NODE id="231" /> sind <NODE id="237" />vier<NODE id="241" /> „Tornado“-Aufklärungsjets auf der Air Base in <NODE id="288" />Incirlik<NODE id="296" />.
+Ein gemeinsames Vorgehen gegen den Terrorismus und ein stärkeres Engagement in <NODE id="377" />Syrien<NODE id="383" /> - das sind die Konsequenzen, die der Anschlag von <NODE id="434" />Istanbul<NODE id="442" /> aus Sicht der <NODE id="457" />Türkei<NODE id="463" /> haben muss. Weiter ist unklar, wann die Leichen der getöteten <NODE id="526" />Deutschen<NODE id="535" /> in die Heimat gebracht werden. 
+Nach dem <NODE id="577" />Terroranschlag<NODE id="591" /> von <NODE id="596" />Istanbul<NODE id="604" /> hat der türkische Vize-Regierungschefs <NODE id="644" />Mehmet Simsek<NODE id="657" /> <NODE id="658" />Deutschland<NODE id="669" /> zu einem stärkeren militärischen Engagement in <NODE id="717" />Syrien<NODE id="723" /> aufgerufen. Wir müssen auch militärisch mehr tun, sagte <NODE id="780" />Simsek<NODE id="786" /> der Welt (<NODE id="797" />Samstag<NODE id="804" />) mit Blick auf den Kampf gegen die Terrormiliz<NODE id="851" /> Islamischer Staat<NODE id="869" /> (<NODE id="871" />IS<NODE id="873" />). Wir können den Terror nur gemeinsam besiegen. Die <NODE id="926" />Türkei<NODE id="932" /> 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.focus.de/politik/ausland/nach-terroranschlag-in-istanbul-tuerkei-ruft-deutschland-zu-staerkerem-engagement-in-syrien-auf_id_5214585.html@2016-03-10T11:49:47.305+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T10:49:47.305Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:49:51.488Z" />
+<feature featureName="uri" featureValue="http://www.focus.de/politik/ausland/nach-terroranschlag-in-istanbul-tuerkei-ruft-deutschland-zu-staerkerem-engagement-in-syrien-auf_id_5214585.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="110" endPos="114" type="number" surface="zwei" />
+<Entity id="1" startPos="178" endPos="181" type="organization-company" surface="dpa" />
+<Entity id="2" startPos="182" endPos="192" type="organization" surface="Bundeswehr" />
+<Entity id="3" startPos="193" endPos="205" type="person" surface="Falk Bärwald" />
+<Entity id="4" startPos="223" endPos="231" type="date" surface="Dienstag" />
+<Entity id="5" startPos="237" endPos="241" type="number" surface="vier" />
+<Entity id="6" startPos="288" endPos="296" type="location-city" surface="Incirlik" />
+<Entity id="7" startPos="377" endPos="383" type="location" surface="Syrien" />
+<Entity id="8" startPos="434" endPos="442" type="location-city" surface="Istanbul" />
+<Entity id="9" startPos="457" endPos="463" type="location" surface="Türkei" />
+<Entity id="10" startPos="526" endPos="535" type="location" surface="Deutschen" />
+<Entity id="11" startPos="577" endPos="591" type="disaster-type" surface="Terroranschlag" />
+<Entity id="12" startPos="596" endPos="604" type="location-city" surface="Istanbul" />
+<Entity id="13" startPos="644" endPos="657" type="person" surface="Mehmet Simsek" />
+<Entity id="14" startPos="658" endPos="669" type="location" surface="Deutschland" />
+<Entity id="15" startPos="717" endPos="723" type="location" surface="Syrien" />
+<Entity id="16" startPos="780" endPos="786" type="person" surface="Simsek" />
+<Entity id="17" startPos="797" endPos="804" type="date" surface="Samstag" />
+<Entity id="18" startPos="851" endPos="869" type="organization" surface=" Islamischer Staat" />
+<Entity id="19" startPos="871" endPos="873" type="organization" surface="IS" />
+<Entity id="20" startPos="926" endPos="932" type="location" surface="Türkei" /></Entities><Relations>
+<Relation id="21" NAME="Disaster">
+<Entity id="12" label="location" />
+<Entity id="11" label="type" />
+</Relation></Relations>
+</Document>

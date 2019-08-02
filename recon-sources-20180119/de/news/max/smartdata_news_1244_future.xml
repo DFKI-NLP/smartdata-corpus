@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />dpa-AFX<NODE id="7" />: <NODE id="9" />Equinet<NODE id="16" /> belässt <NODE id="25" />Deutsche Börse<NODE id="39" /> auf 'Neutral' - Ziel <NODE id="61" />79 Euro<NODE id="68" />
+<NODE id="69" />10.03.2016<NODE id="79" /> - <NODE id="82" />15:01<NODE id="87" />
+| Quelle: <NODE id="98" />dpa-AFX<NODE id="105" /> Analysen
+<NODE id="115" />FRANKFURT<NODE id="124" /> (<NODE id="126" />dpa-AFX<NODE id="133" /> Analyser) - Die Investmentbank <NODE id="165" />Equinet<NODE id="172" /> hat die Einstufung für <NODE id="196" />Deutsche Börse<NODE id="210" /> angesichts des Verkaufs der Aktienoptionsbörse <NODE id="258" />International Securities Exchange<NODE id="291" /> (<NODE id="293" />ISE<NODE id="296" />) auf Neutral mit einem Kursziel von <NODE id="333" />79 Euro<NODE id="340" /> belassen. Er werte diese Nachricht positiv, da das Marktumfeld für die <NODE id="412" />ISE<NODE id="415" /> in den zurückliegenden Jahren immer schwieriger geworden sei, schrieb Analyst <NODE id="494" />Philipp Häßler<NODE id="508" /> in einer Studie vom <NODE id="529" />Donnerstag<NODE id="539" />. Die geplante <NODE id="554" />Fusion<NODE id="560" /> des <NODE id="565" />deutschen Börsenbetreibers<NODE id="591" /> mit der <NODE id="600" />London Stock Exchange<NODE id="621" /> (<NODE id="623" />LSE<NODE id="626" />) hält der Experte dagegen für durchaus sinnvoll./ajx/fbr
+Werbung
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanztreff.de/news/dpa-afx-equinet-belaesst-deutsche-boerse-auf-neutral---ziel-79-euro/11137793@2016-03-10T15:52:14.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:52:14Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T01:47:52.956Z" />
+<feature featureName="uri" featureValue="http://www.finanztreff.de/news/dpa-afx-equinet-belaesst-deutsche-boerse-auf-neutral---ziel-79-euro/11137793" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization-company" surface="dpa-AFX" />
+<Entity id="1" startPos="9" endPos="16" type="organization-company" surface="Equinet" />
+<Entity id="2" startPos="25" endPos="39" type="organization" surface="Deutsche Börse" />
+<Entity id="3" startPos="61" endPos="68" type="number" surface="79 Euro" />
+<Entity id="4" startPos="69" endPos="79" type="date" surface="10.03.2016" />
+<Entity id="5" startPos="82" endPos="87" type="time" surface="15:01" />
+<Entity id="6" startPos="98" endPos="105" type="organization-company" surface="dpa-AFX" />
+<Entity id="7" startPos="115" endPos="124" type="location-city" surface="FRANKFURT" />
+<Entity id="8" startPos="126" endPos="133" type="organization-company" surface="dpa-AFX" />
+<Entity id="9" startPos="165" endPos="172" type="organization-company" surface="Equinet" />
+<Entity id="10" startPos="196" endPos="210" type="organization" surface="Deutsche Börse" />
+<Entity id="11" startPos="258" endPos="291" type="organization" surface="International Securities Exchange" />
+<Entity id="12" startPos="293" endPos="296" type="organization" surface="ISE" />
+<Entity id="13" startPos="333" endPos="340" type="number" surface="79 Euro" />
+<Entity id="14" startPos="412" endPos="415" type="organization" surface="ISE" />
+<Entity id="15" startPos="494" endPos="508" type="person" surface="Philipp Häßler" />
+<Entity id="16" startPos="529" endPos="539" type="date" surface="Donnerstag" />
+<Entity id="17" startPos="554" endPos="560" type="trigger" surface="Fusion" />
+<Entity id="18" startPos="565" endPos="591" type="organization" surface="deutschen Börsenbetreibers" />
+<Entity id="19" startPos="600" endPos="621" type="organization" surface="London Stock Exchange" />
+<Entity id="20" startPos="623" endPos="626" type="organization" surface="LSE" /></Entities><Relations>
+<Relation id="21" NAME="Identity">
+<Entity id="2" label="source" />
+<Entity id="18" label="target" />
+<Entity id="10" label="target" />
+</Relation>
+<Relation id="22" NAME="Merger">
+<Entity id="18" label="old" />
+<Entity id="19" label="old" />
+<Entity id="17" label="trigger" />
+</Relation></Relations>
+</Document>

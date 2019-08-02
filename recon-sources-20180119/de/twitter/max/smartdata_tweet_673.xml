@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bahnstrecke<NODE id="11" /> zwischen <NODE id="21" />Dresden<NODE id="28" /> und <NODE id="33" />Prag<NODE id="37" /> nach <NODE id="43" />Erdrutsch<NODE id="52" /> <NODE id="53" />gesperrt<NODE id="61" />: Nach einem <NODE id="74" />Erdrutsch<NODE id="83" /> im <NODE id="87" />sächsischen Elbtal<NODE id="105" /> ist... https://t.co/LP2KFZ26D5
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="735019039878057984" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-24T08:06:09Z" />
+<feature featureName="indexDate" featureValue="2016-05-24T08:06:17.785Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="location-route" surface="Bahnstrecke" />
+<Entity id="1" startPos="21" endPos="28" type="location-stop" surface="Dresden" />
+<Entity id="2" startPos="33" endPos="37" type="location-stop" surface="Prag" />
+<Entity id="3" startPos="43" endPos="52" type="disaster-type" surface="Erdrutsch" />
+<Entity id="4" startPos="53" endPos="61" type="trigger" surface="gesperrt" />
+<Entity id="5" startPos="74" endPos="83" type="disaster-type" surface="Erdrutsch" />
+<Entity id="6" startPos="87" endPos="105" type="location" surface="sächsischen Elbtal" /></Entities><Relations>
+<Relation id="7" NAME="Disaster">
+<Entity id="6" label="location" />
+<Entity id="5" label="type" />
+</Relation>
+<Relation id="8" NAME="Obstruction">
+<Entity id="2" label="end_loc" />
+<Entity id="1" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

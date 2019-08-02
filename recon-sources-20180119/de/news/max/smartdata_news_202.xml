@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>DGAP-News: <NODE id="11" />Delticom<NODE id="19" /> <NODE id="20" />erwirbt<NODE id="27" /> mit <NODE id="32" />Gourmondo<NODE id="41" /> und <NODE id="46" />ES Food<NODE id="53" /> <NODE id="54" />zwei<NODE id="58" /> Spezialisten für Online-Lebensmittelhandel
+<NODE id="102" />23.02.2016<NODE id="112" /> - <NODE id="115" />14:39<NODE id="120" />
+| Quelle: DGAP
+DGAP-News: <NODE id="147" />Delticom AG<NODE id="158" /> / Schlagwort(e): Beteiligung/Unternehmensbeteiligung/Strategische Unternehmensentscheidung <NODE id="250" />Delticom<NODE id="258" /> <NODE id="259" />erwirbt<NODE id="266" /> mit <NODE id="271" />Gourmondo<NODE id="280" /> und <NODE id="285" />ES Food<NODE id="292" /> <NODE id="293" />zwei<NODE id="297" /> Spezialisten für Online-Lebensmittelhandel
+<NODE id="341" />23.02.2016<NODE id="351" /> / <NODE id="354" />14:38<NODE id="359" /> Für den Inhalt der Mitteilung ist der Emittent verantwortlich.
+---------------------------------------------------------------------------
+<NODE id="499" />Delticom<NODE id="507" /> <NODE id="508" />erwirbt<NODE id="515" /> mit <NODE id="520" />Gourmondo<NODE id="529" /> und <NODE id="534" />ES Food<NODE id="541" /> <NODE id="542" />zwei<NODE id="546" /> Spezialisten für Online-Lebensmittelhandel
+<NODE id="590" />Hannover<NODE id="598" />, <NODE id="600" />23. Februar 2016<NODE id="616" /> - Die<NODE id="622" /> Delticom AG<NODE id="634" /> (WKN <NODE id="640" />514680<NODE id="646" />, ISIN DE0005146807, Börsenkürzel DEX), <NODE id="686" />Europas<NODE id="693" /> führender Onlinehändler für Reifen und Autozubehör geht mit der <NODE id="758" />Akquisition<NODE id="769" /> der beiden eFood-Unternehmen <NODE id="799" />Gourmondo<NODE id="808" /> und <NODE id="813" />ES Food<NODE id="820" /> einen wichtigen strategischen Schritt, um ihre Marktstellung im <NODE id="885" />europäischen<NODE id="897" /> E-Commerce zukünftig weiter auszubauen. Seit mehr als
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanztreff.de/news/dgap-news-delticom-erwirbt-mit-gourmondo-und-es-food-zwei-spezialisten-fuer-online-lebensm/11097777@2016-02-23T14:54:57.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T13:54:57Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:38:06.698Z" />
+<feature featureName="uri" featureValue="http://www.finanztreff.de/news/dgap-news-delticom-erwirbt-mit-gourmondo-und-es-food-zwei-spezialisten-fuer-online-lebensm/11097777" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="11" endPos="19" type="organization-company" surface="Delticom" />
+<Entity id="1" startPos="20" endPos="27" type="trigger" surface="erwirbt" />
+<Entity id="2" startPos="32" endPos="41" type="organization-company" surface="Gourmondo" />
+<Entity id="3" startPos="46" endPos="53" type="organization-company" surface="ES Food" />
+<Entity id="4" startPos="54" endPos="58" type="number" surface="zwei" />
+<Entity id="5" startPos="102" endPos="112" type="date" surface="23.02.2016" />
+<Entity id="6" startPos="115" endPos="120" type="time" surface="14:39" />
+<Entity id="7" startPos="147" endPos="158" type="organization-company" surface="Delticom AG" />
+<Entity id="8" startPos="250" endPos="258" type="organization-company" surface="Delticom" />
+<Entity id="9" startPos="259" endPos="266" type="trigger" surface="erwirbt" />
+<Entity id="10" startPos="271" endPos="280" type="organization-company" surface="Gourmondo" />
+<Entity id="11" startPos="285" endPos="292" type="organization-company" surface="ES Food" />
+<Entity id="12" startPos="293" endPos="297" type="number" surface="zwei" />
+<Entity id="13" startPos="341" endPos="351" type="date" surface="23.02.2016" />
+<Entity id="14" startPos="354" endPos="359" type="time" surface="14:38" />
+<Entity id="15" startPos="499" endPos="507" type="organization-company" surface="Delticom" />
+<Entity id="16" startPos="508" endPos="515" type="trigger" surface="erwirbt" />
+<Entity id="17" startPos="520" endPos="529" type="organization-company" surface="Gourmondo" />
+<Entity id="18" startPos="534" endPos="541" type="organization-company" surface="ES Food" />
+<Entity id="19" startPos="542" endPos="546" type="number" surface="zwei" />
+<Entity id="20" startPos="590" endPos="598" type="location-city" surface="Hannover" />
+<Entity id="21" startPos="600" endPos="616" type="date" surface="23. Februar 2016" />
+<Entity id="22" startPos="622" endPos="634" type="organization-company" surface=" Delticom AG" />
+<Entity id="23" startPos="640" endPos="646" type="number" surface="514680" />
+<Entity id="24" startPos="686" endPos="693" type="location" surface="Europas" />
+<Entity id="25" startPos="758" endPos="769" type="trigger" surface="Akquisition" />
+<Entity id="26" startPos="799" endPos="808" type="organization-company" surface="Gourmondo" />
+<Entity id="27" startPos="813" endPos="820" type="organization-company" surface="ES Food" />
+<Entity id="28" startPos="885" endPos="897" type="location" surface="europäischen" /></Entities><Relations>
+<Relation id="29" NAME="Acquisition">
+<Entity id="1" label="trigger" />
+<Entity id="2" label="acquired" />
+<Entity id="3" label="acquired" />
+<Entity id="0" label="buyer" />
+</Relation>
+<Relation id="30" NAME="Acquisition">
+<Entity id="9" label="trigger" />
+<Entity id="10" label="acquired" />
+<Entity id="11" label="acquired" />
+<Entity id="8" label="buyer" />
+</Relation>
+<Relation id="31" NAME="Acquisition">
+<Entity id="16" label="trigger" />
+<Entity id="18" label="acquired" />
+<Entity id="17" label="acquired" />
+<Entity id="15" label="buyer" />
+</Relation>
+<Relation id="32" NAME="Acquisition">
+<Entity id="25" label="trigger" />
+<Entity id="26" label="acquired" />
+<Entity id="27" label="acquired" />
+<Entity id="22" label="buyer" />
+</Relation></Relations>
+</Document>

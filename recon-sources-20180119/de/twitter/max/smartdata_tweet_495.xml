@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@d_rhyme #nach #<NODE id="16" />Rottach!-Egern<NODE id="30" /> führt von <NODE id="41" />München<NODE id="48" /> eine Straße,die ist schnurgerade.Nur ist da sehr oft Stau-wie schade!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671853818892697601" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T00:50:07Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:29:02.113Z" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="30" type="location-city" surface="Rottach!-Egern" />
+<Entity id="1" startPos="41" endPos="48" type="location-city" surface="München" /></Entities><Relations />
+</Document>

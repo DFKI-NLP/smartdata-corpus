@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Montag, 30. November 2015<NODE id="25" />, <NODE id="27" />10.00 Uhr<NODE id="36" />
+Krisenmanager rät <NODE id="55" />VW<NODE id="57" /> zu mehr Emotionen:
+<NODE id="77" />Mercedes<NODE id="85" /> und der Elchtest als Vorbild
+<NODE id="115" />Frank Roselieb<NODE id="129" /> ist <NODE id="134" />Direktor<NODE id="142" /> des <NODE id="147" />Krisennavigator-Instituts für Krisenforschung<NODE id="192" />, ein <NODE id="198" />Spin-Off<NODE id="206" /> der <NODE id="211" />Universität Kiel <NODE id="228" />und <NODE id="232" />Vorstandsmitglied<NODE id="249" /> der <NODE id="254" />Deutschen Gesellschaft für Krisenmanagement e.V.<NODE id="302" /> (<NODE id="304" />DGfKM<NODE id="309" />). <NODE id="312" />Automobilwoche<NODE id="326" /> sprach mit ihm im Zusammenhang mit dem <NODE id="366" />VW<NODE id="368" />-Abgasskandal über Krisenbewältigung von Unternehmen.     Von <NODE id="430" />Karl-Heinz Patzer<NODE id="447" />
+<NODE id="448" />Frank Roselieb<NODE id="462" />: <NODE id="464" />Direktor<NODE id="472" /> des <NODE id="477" />Krisennavigator - Institut für Krisenforschung<NODE id="523" />, ein <NODE id="529" />Spin-Off<NODE id="537" /> der <NODE id="542" />Universität Kiel<NODE id="558" />, und <NODE id="564" />Vorstandsmitglied<NODE id="581" /> der <NODE id="586" />Deutschen Gesellschaft für Krisenmanagement e.V.<NODE id="634" /> (<NODE id="636" />DGfKM<NODE id="641" />), dem Berufsverband der Krisenmanager mit Sitz in <NODE id="692" />Hamburg<NODE id="699" />.
+<NODE id="701" />Herr Roselieb<NODE id="714" />, was macht generell gutes Krisenmarketing aus? 
+Marketing und Krise sind <NODE id="788" />zwei<NODE id="792" /> Begriffe, die nur schwer zusammenpassen. Wir würden eher von Krisennachbereitung oder vom Wiedergewinnen des Vertrauens sprechen. Notwendig sind im Kern
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.automobilwoche.de/article/20151130/NACHRICHTEN/151129970@2015-11-30T10:00:34.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-30T09:00:34Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T02:13:51.934Z" />
+<feature featureName="uri" featureValue="http://www.automobilwoche.de/article/20151130/NACHRICHTEN/151129970" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="25" type="date" surface="Montag, 30. November 2015" />
+<Entity id="1" startPos="27" endPos="36" type="time" surface="10.00 Uhr" />
+<Entity id="2" startPos="55" endPos="57" type="organization-company" surface="VW" />
+<Entity id="3" startPos="77" endPos="85" type="organization-company" surface="Mercedes" />
+<Entity id="4" startPos="115" endPos="129" type="person" surface="Frank Roselieb" />
+<Entity id="5" startPos="134" endPos="142" type="org-position" surface="Direktor" />
+<Entity id="6" startPos="147" endPos="192" type="organization" surface="Krisennavigator-Instituts für Krisenforschung" />
+<Entity id="7" startPos="198" endPos="206" type="trigger" surface="Spin-Off" />
+<Entity id="8" startPos="211" endPos="228" type="organization" surface="Universität Kiel " />
+<Entity id="9" startPos="232" endPos="249" type="org-position" surface="Vorstandsmitglied" />
+<Entity id="10" startPos="254" endPos="302" type="organization" surface="Deutschen Gesellschaft für Krisenmanagement e.V." />
+<Entity id="11" startPos="304" endPos="309" type="organization" surface="DGfKM" />
+<Entity id="12" startPos="312" endPos="326" type="organization-company" surface="Automobilwoche" />
+<Entity id="13" startPos="366" endPos="368" type="organization-company" surface="VW" />
+<Entity id="14" startPos="430" endPos="447" type="person" surface="Karl-Heinz Patzer" />
+<Entity id="15" startPos="448" endPos="462" type="person" surface="Frank Roselieb" />
+<Entity id="16" startPos="464" endPos="472" type="org-position" surface="Direktor" />
+<Entity id="17" startPos="477" endPos="523" type="organization" surface="Krisennavigator - Institut für Krisenforschung" />
+<Entity id="18" startPos="529" endPos="537" type="trigger" surface="Spin-Off" />
+<Entity id="19" startPos="542" endPos="558" type="organization" surface="Universität Kiel" />
+<Entity id="20" startPos="564" endPos="581" type="org-position" surface="Vorstandsmitglied" />
+<Entity id="21" startPos="586" endPos="634" type="organization" surface="Deutschen Gesellschaft für Krisenmanagement e.V." />
+<Entity id="22" startPos="636" endPos="641" type="organization" surface="DGfKM" />
+<Entity id="23" startPos="692" endPos="699" type="location-city" surface="Hamburg" />
+<Entity id="24" startPos="701" endPos="714" type="person" surface="Herr Roselieb" />
+<Entity id="25" startPos="788" endPos="792" type="number" surface="zwei" /></Entities><Relations>
+<Relation id="26" NAME="OrganizationLeadership">
+<Entity id="4" label="person" />
+<Entity id="10" label="organization" />
+<Entity id="9" label="position" />
+</Relation>
+<Relation id="27" NAME="OrganizationLeadership">
+<Entity id="4" label="person" />
+<Entity id="6" label="organization" />
+<Entity id="5" label="position" />
+</Relation>
+<Relation id="28" NAME="OrganizationLeadership">
+<Entity id="15" label="person" />
+<Entity id="17" label="organization" />
+<Entity id="16" label="position" />
+</Relation>
+<Relation id="29" NAME="OrganizationLeadership">
+<Entity id="15" label="person" />
+<Entity id="21" label="organization" />
+<Entity id="20" label="position" />
+</Relation>
+<Relation id="30" NAME="SpinOff">
+<Entity id="8" label="parent" />
+<Entity id="7" label="trigger" />
+<Entity id="6" label="child" />
+</Relation>
+<Relation id="31" NAME="SpinOff">
+<Entity id="19" label="parent" />
+<Entity id="18" label="trigger" />
+<Entity id="17" label="child" />
+</Relation></Relations>
+</Document>

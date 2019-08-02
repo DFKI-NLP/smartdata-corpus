@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @BibisBeauty: &amp; los geht die <NODE id="32" />6 stündige<NODE id="42" /> Fahrt .. &#x1f697;
+
+Hoffentlich kommen wir in keinen Stau, da hab ich ja jetzt mal gar kein Bock drauf &#x1f595;&#x1f3fb;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754667430480322560" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T13:21:51Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T13:22:00.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3085254770/status/754667430480322560" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="32" endPos="42" type="duration" surface="6 stündige" /></Entities><Relations />
+</Document>

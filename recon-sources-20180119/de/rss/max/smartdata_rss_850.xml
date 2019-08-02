@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A2<NODE id="2" /> <NODE id="3" />Hannover<NODE id="11" /> Richtung <NODE id="21" />Berlin<NODE id="27" /> zwischen<NODE id="36" /> Kreuz Hannover-Buchholz<NODE id="60" /> und <NODE id="65" />Kreuz Hannover-Ost<NODE id="83" /> <NODE id="84" />2 km<NODE id="88" /> <NODE id="89" />Stau<NODE id="93" /> wegen <NODE id="100" />Bauarbeiten<NODE id="111" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#1@2016-03-23T08:18:22.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-23T07:18:22Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T08:00:31.302Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A2" />
+<Entity id="1" startPos="3" endPos="11" type="location-city" surface="Hannover" />
+<Entity id="2" startPos="21" endPos="27" type="location-city" surface="Berlin" />
+<Entity id="3" startPos="36" endPos="60" type="location" surface=" Kreuz Hannover-Buchholz" />
+<Entity id="4" startPos="65" endPos="83" type="location" surface="Kreuz Hannover-Ost" />
+<Entity id="5" startPos="84" endPos="88" type="distance" surface="2 km" />
+<Entity id="6" startPos="89" endPos="93" type="trigger" surface="Stau" />
+<Entity id="7" startPos="100" endPos="111" type="trigger" surface="Bauarbeiten" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="7" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

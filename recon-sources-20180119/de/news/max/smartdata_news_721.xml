@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Twittern
+Foto: <NODE id="15" />dpa<NODE id="18" />/<NODE id="19" />AFP<NODE id="22" />/Archiv Kita-Betreuung soll flexibler werden
+Die Kita-Betreuung von Kleinkindern soll flexibler werden, um etwa unregelmäßige Arbeitszeiten der Eltern besser berücksichtigen zu können. Das ist das Ziel des Programms KitaPlus, das Bundesfamilienministerin <NODE id="277" />Manuela Schwesig<NODE id="293" /> und Arbeitsministerin <NODE id="316" />Andrea Nahles<NODE id="329" /> (beide <NODE id="337" />SPD<NODE id="340" />) am <NODE id="345" />Dienstag<NODE id="353" /> in <NODE id="357" />Berlin<NODE id="363" /> vorstellten. Ausgeweitet werden sollen demnach vor allem Angebote in Randzeiten.
+Berufstätige Eltern brauchen flexiblere Betreuungsangebote, erklärte Schwesig. Dabei gehe es nicht darum, die Dauer der Kita-Betreuung auszuweiten, die Kinder sind lediglich zu anderen Zeiten in der Kita oder bei einer Tagesmutter. Erleichtern soll dies beispielsweise die Kinderbetreuung von Erwerbstätigen in Schichtarbeit oder mit späten Arbeitszeiten.
+Viel zu oft scheitert heute das Durchstarten in einem neuen Job an fehlenden und unpassenden Betreuungsangeboten für die Kinder, er
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/newsticker/news1/article150940694/Kita-Betreuung-soll-flexibler-werden.html@2016-03-10T16:28:31.232+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T15:28:31.232Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T15:28:33.484Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/newsticker/news1/article150940694/Kita-Betreuung-soll-flexibler-werden.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="18" type="organization-company" surface="dpa" />
+<Entity id="1" startPos="19" endPos="22" type="organization-company" surface="AFP" />
+<Entity id="2" startPos="277" endPos="293" type="person" surface="Manuela Schwesig" />
+<Entity id="3" startPos="316" endPos="329" type="person" surface="Andrea Nahles" />
+<Entity id="4" startPos="337" endPos="340" type="organization" surface="SPD" />
+<Entity id="5" startPos="345" endPos="353" type="date" surface="Dienstag" />
+<Entity id="6" startPos="357" endPos="363" type="location-city" surface="Berlin" /></Entities><Relations />
+</Document>

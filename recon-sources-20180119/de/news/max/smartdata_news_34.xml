@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Flugausfälle wegen Lotsenstreiks in <NODE id="36" />Frankreich<NODE id="46" />
+schließen
++
+© <NODE id="61" />Ian Langsdon<NODE id="73" />
+Flugzeuge am <NODE id="87" />Pariser<NODE id="94" /> Flughafen<NODE id="104" /> in <NODE id="108" />Roissy<NODE id="114" />. Durch den Fluglotzenstreik in <NODE id="146" />Frankreich<NODE id="156" /> soll jede <NODE id="167" />fünfte<NODE id="173" /> Maschine am Boden bleiben. Foto: Ian Langsdon/Symbol
+© Ian Langsdon
+<NODE id="242" />Paris<NODE id="247" /> (dpa) - Wegen eines <NODE id="268" />Fluglotsenstreiks<NODE id="285" /> kommt es in <NODE id="298" />Frankreich<NODE id="308" /> zu <NODE id="312" />Flugausfällen<NODE id="325" /> und <NODE id="330" />Verspätungen<NODE id="342" />. Jede <NODE id="349" />fünfte<NODE id="355" /> Maschine soll durch den <NODE id="380" />heute<NODE id="385" /> begonnenen <NODE id="397" />Streik<NODE id="403" /> am Boden bleiben, wie der <NODE id="430" />französische<NODE id="442" /> Radiosender <NODE id="455" />France Info<NODE id="466" /> berichtete.
+Vor allem die Flughäfen in <NODE id="506" />Paris<NODE id="511" />, <NODE id="513" />Marseille<NODE id="522" />, <NODE id="524" />Nizza<NODE id="529" /> und <NODE id="534" />Toulouse<NODE id="542" /> seien davon betroffen. Zudem müssten Reisende mit Verspätungen von <NODE id="610" />zwanzig bis vierzig Minuten<NODE id="637" /> rechnen. Die <NODE id="651" />Gewerkschaft der <NODE id="668" />französischen<NODE id="681" /> Fluglotsen<NODE id="692" /> <NODE id="693" />protestiert<NODE id="704" /> gegen einen beschleunigten <NODE id="732" />Stellenabbau<NODE id="744" /> durch Nichtbesetzen frei werdender Stellen. 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rosenheim24.de/wirtschaft/flugausfaelle-wegen-lotsenstreiks-in-frankreich-zr-6238479.html?cmp=defrss@2016-03-20T12:49:56.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.rosenheim24.de/wirtschaft/flugausfaelle-wegen-lotsenstreiks-in-frankreich-zr-6238479.html?cmp=defrss" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="36" endPos="46" type="location" surface="Frankreich" />
+<Entity id="1" startPos="61" endPos="73" type="person" surface="Ian Langsdon" />
+<Entity id="2" startPos="87" endPos="94" type="location-city" surface="Pariser" />
+<Entity id="3" startPos="87" endPos="104" type="organization-company" surface="Pariser Flughafen" />
+<Entity id="4" startPos="108" endPos="114" type="location-city" surface="Roissy" />
+<Entity id="5" startPos="146" endPos="156" type="location" surface="Frankreich" />
+<Entity id="6" startPos="167" endPos="173" type="number" surface="fünfte" />
+<Entity id="7" startPos="242" endPos="247" type="location-city" surface="Paris" />
+<Entity id="8" startPos="268" endPos="285" type="trigger" surface="Fluglotsenstreiks" />
+<Entity id="9" startPos="298" endPos="308" type="location" surface="Frankreich" />
+<Entity id="10" startPos="312" endPos="325" type="trigger" surface="Flugausfällen" />
+<Entity id="11" startPos="330" endPos="342" type="trigger" surface="Verspätungen" />
+<Entity id="12" startPos="349" endPos="355" type="number" surface="fünfte" />
+<Entity id="13" startPos="380" endPos="385" type="date" surface="heute" />
+<Entity id="14" startPos="397" endPos="403" type="trigger" surface="Streik" />
+<Entity id="15" startPos="430" endPos="442" type="location" surface="französische" />
+<Entity id="16" startPos="455" endPos="466" type="organization" surface="France Info" />
+<Entity id="17" startPos="506" endPos="511" type="location-city" surface="Paris" />
+<Entity id="18" startPos="513" endPos="522" type="location-city" surface="Marseille" />
+<Entity id="19" startPos="524" endPos="529" type="location-city" surface="Nizza" />
+<Entity id="20" startPos="534" endPos="542" type="location-city" surface="Toulouse" />
+<Entity id="21" startPos="610" endPos="637" type="duration" surface="zwanzig bis vierzig Minuten" />
+<Entity id="22" startPos="651" endPos="692" type="organization" surface="Gewerkschaft der französischen Fluglotsen" />
+<Entity id="23" startPos="668" endPos="681" type="location" surface="französischen" />
+<Entity id="24" startPos="693" endPos="704" type="trigger" surface="protestiert" />
+<Entity id="25" startPos="732" endPos="744" type="trigger" surface="Stellenabbau" /></Entities><Relations>
+<Relation id="26" NAME="Delay">
+<Entity id="9" label="location" />
+<Entity id="11" label="trigger" />
+</Relation>
+<Relation id="27" NAME="Strike">
+<Entity id="23" label="location" />
+<Entity id="22" label="union" />
+<Entity id="24" label="trigger" />
+</Relation></Relations>
+</Document>

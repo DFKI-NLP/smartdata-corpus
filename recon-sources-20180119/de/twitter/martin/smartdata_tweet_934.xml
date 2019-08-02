@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@BlackadderBlog In der Kantine? Ich tippe, dass es <NODE id="51" />Montag<NODE id="57" /> wieder Penne mit Tomatensoße gibt. ;) /se
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743841328874782720" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T16:22:47Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T16:22:50.08Z" />
+<feature featureName="uri" featureValue="https://twitter.com/DB Personenverkehr/status/743841328874782720" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="51" endPos="57" type="date" surface="Montag" /></Entities><Relations />
+</Document>

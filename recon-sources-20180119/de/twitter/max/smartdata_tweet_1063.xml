@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />eurobahn<NODE id="12" />_info: #<NODE id="20" />RB50<NODE id="24" /> <NODE id="25" />Schienenersatzverkehr<NODE id="46" /> zwischen <NODE id="56" />Lünen Hbf <NODE id="66" />und <NODE id="70" />Dortmund Hbf<NODE id="82" /> vom <NODE id="87" />17.<NODE id="90" /> bis <NODE id="95" />21. Mai<NODE id="102" />. Nähere Informationen: https://t.co/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="732417673049571328" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-17T03:49:15Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T06:44:15.232Z" />
+<feature featureName="uri" featureValue="https://twitter.com/117812595/status/732417673049571328" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="12" type="organization-company" surface="eurobahn" />
+<Entity id="1" startPos="20" endPos="24" type="location-route" surface="RB50" />
+<Entity id="2" startPos="25" endPos="46" type="trigger" surface="Schienenersatzverkehr" />
+<Entity id="3" startPos="56" endPos="66" type="location-stop" surface="Lünen Hbf " />
+<Entity id="4" startPos="70" endPos="82" type="location-stop" surface="Dortmund Hbf" />
+<Entity id="5" startPos="87" endPos="90" type="date" surface="17." />
+<Entity id="6" startPos="95" endPos="102" type="date" surface="21. Mai" /></Entities><Relations>
+<Relation id="7" NAME="RailReplacementService">
+<Entity id="6" label="end_date" />
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="2" label="trigger" />
+<Entity id="5" label="start_date" />
+</Relation></Relations>
+</Document>

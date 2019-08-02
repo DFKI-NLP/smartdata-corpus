@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />Streik<NODE id="7" /> der #<NODE id="13" />Fluglotsen<NODE id="23" /> in #<NODE id="28" />Italien<NODE id="35" />: #<NODE id="38" />Alitalia<NODE id="46" /> #<NODE id="48" />Meridiana<NODE id="57" /> <NODE id="58" />streichen<NODE id="67" /> <NODE id="68" />Flüge<NODE id="73" /> nach #<NODE id="80" />Cagliari<NODE id="88" />, #<NODE id="91" />Olbia<NODE id="96" /> #<NODE id="98" />Alghero<NODE id="105" /> gestrichen https://t.co/3umm4kD8SP
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743775409372864512" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T12:00:50Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T12:01:57.689Z" />
+<feature featureName="uri" featureValue="https://twitter.com/sardinien.com Team/status/743775409372864512" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="7" type="trigger" surface="Streik" />
+<Entity id="1" startPos="13" endPos="23" type="organization" surface="Fluglotsen" />
+<Entity id="2" startPos="28" endPos="35" type="location" surface="Italien" />
+<Entity id="3" startPos="38" endPos="46" type="organization-company" surface="Alitalia" />
+<Entity id="4" startPos="48" endPos="57" type="organization-company" surface="Meridiana" />
+<Entity id="5" startPos="58" endPos="67" type="trigger" surface="streichen" />
+<Entity id="6" startPos="68" endPos="73" type="location-route" surface="Flüge" />
+<Entity id="7" startPos="80" endPos="88" type="location-city" surface="Cagliari" />
+<Entity id="8" startPos="91" endPos="96" type="location-city" surface="Olbia" />
+<Entity id="9" startPos="98" endPos="105" type="location-city" surface="Alghero" /></Entities><Relations>
+<Relation id="10" NAME="CanceledRoute">
+<Entity id="6" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="8" label="direction" />
+<Entity id="9" label="direction" />
+<Entity id="7" label="direction" />
+</Relation>
+<Relation id="11" NAME="CanceledRoute">
+<Entity id="6" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="8" label="direction" />
+</Relation>
+<Relation id="12" NAME="CanceledRoute">
+<Entity id="6" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="9" label="direction" />
+</Relation></Relations>
+</Document>

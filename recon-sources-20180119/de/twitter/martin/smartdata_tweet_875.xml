@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />srfmeteo<NODE id="12" />: Gewitterstrasse zwischen <NODE id="39" />Süditalien<NODE id="49" /> - <NODE id="52" />Serbien<NODE id="59" /> (gestern #<NODE id="70" />Tornado<NODE id="77" />) - <NODE id="81" />Ukraine<NODE id="88" /> und <NODE id="93" />Weissrussland<NODE id="106" /> (overshooting top). ^jr https://…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745133240567005184" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-21T05:56:23Z" />
+<feature featureName="indexDate" featureValue="2016-06-21T05:56:27.145Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="12" type="organization-company" surface="srfmeteo" />
+<Entity id="1" startPos="39" endPos="49" type="location" surface="Süditalien" />
+<Entity id="2" startPos="52" endPos="59" type="location" surface="Serbien" />
+<Entity id="3" startPos="70" endPos="77" type="disaster-type" surface="Tornado" />
+<Entity id="4" startPos="81" endPos="88" type="location" surface="Ukraine" />
+<Entity id="5" startPos="93" endPos="106" type="location" surface="Weissrussland" /></Entities><Relations />
+</Document>

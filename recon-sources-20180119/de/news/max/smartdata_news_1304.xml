@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> |  <NODE id="4" />21.03.2016<NODE id="14" />, <NODE id="16" />11:15<NODE id="21" />  | <NODE id="25" /> 140<NODE id="29" />   |  <NODE id="35" />0<NODE id="36" />   |  <NODE id="42" />1 <NODE id="44" />
+<NODE id="45" />1<NODE id="46" />
+Nordea-Wirtschaftsausblick: Globales Wachstum bleibt schwach
+<NODE id="108" />DGAP<NODE id="112" />-News: <NODE id="119" />Nordea Fonds Service GmbH<NODE id="144" /> / Schlagwort(e): Fonds/Sonstiges
+Nordea-Wirtschaftsausblick: Globales Wachstum bleibt schwach
+<NODE id="239" />21.03.2016<NODE id="249" /> / <NODE id="252" />11:15<NODE id="257" />
+Für den Inhalt der Mitteilung ist der Emittent verantwortlich.
+---------------------------------------------------------------------------
+Trotz des niedrigen Ölpreises, niedriger Zinsen und einer nachlassenden
+Belastung durch die Schwellenländer: Das globale Wirtschaftswachstum bleibt
+<NODE id="545" />2016<NODE id="549" /> und <NODE id="554" />2017<NODE id="558" /> wohl gedämpft. Zu dem Ergebnis kommt der neue
+Wirtschaftsausblick von <NODE id="629" />Nordea<NODE id="635" />. Betrachtet man die skandinavischen Länder,
+findet man allerdings eine Ausnahme: <NODE id="717" />Schweden<NODE id="725" />.
+Laut <NODE id="732" />Nordea<NODE id="738" />-Prognose steigt das weltweite Bruttoinlandsprodukt dieses Jahr
+um <NODE id="805" />3,1 Prozent<NODE id="816" />. <NODE id="818" />2017<NODE id="822" /> rechnen die Experten mit einem Wachstum von <NODE id="867" />3,2
+Prozent<NODE id="878" />. Diese Zahlen sind nur minimal größer als <NODE id="921" />2015<NODE id="925" /> und deu
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wallstreet-online.de/nachricht/8450672-dgap-news-nordea-wirtschaftsausblick-globales-wachstum-bleibt-schwach-deutsch@2016-03-21T11:15:15.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T10:15:15Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:30:26.699Z" />
+<feature featureName="uri" featureValue="http://www.wallstreet-online.de/nachricht/8450672-dgap-news-nordea-wirtschaftsausblick-globales-wachstum-bleibt-schwach-deutsch" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="date" surface="21.03.2016" />
+<Entity id="1" startPos="16" endPos="21" type="time" surface="11:15" />
+<Entity id="2" startPos="25" endPos="29" type="number" surface=" 140" />
+<Entity id="3" startPos="35" endPos="36" type="number" surface="0" />
+<Entity id="4" startPos="42" endPos="44" type="number" surface="1 " />
+<Entity id="5" startPos="45" endPos="46" type="number" surface="1" />
+<Entity id="6" startPos="108" endPos="112" type="organization" surface="DGAP" />
+<Entity id="7" startPos="119" endPos="144" type="organization-company" surface="Nordea Fonds Service GmbH" />
+<Entity id="8" startPos="239" endPos="249" type="date" surface="21.03.2016" />
+<Entity id="9" startPos="252" endPos="257" type="time" surface="11:15" />
+<Entity id="10" startPos="545" endPos="549" type="date" surface="2016" />
+<Entity id="11" startPos="554" endPos="558" type="date" surface="2017" />
+<Entity id="12" startPos="629" endPos="635" type="organization-company" surface="Nordea" />
+<Entity id="13" startPos="717" endPos="725" type="location" surface="Schweden" />
+<Entity id="14" startPos="732" endPos="738" type="organization-company" surface="Nordea" />
+<Entity id="15" startPos="805" endPos="816" type="number" surface="3,1 Prozent" />
+<Entity id="16" startPos="818" endPos="822" type="date" surface="2017" />
+<Entity id="17" startPos="867" endPos="878" type="number" surface="3,2&#xA;Prozent" />
+<Entity id="18" startPos="921" endPos="925" type="date" surface="2015" /></Entities><Relations />
+</Document>

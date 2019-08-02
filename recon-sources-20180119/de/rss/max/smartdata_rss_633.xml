@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wegen eines <NODE id="12" />Notarzteinsatzes<NODE id="28" /> ist die <NODE id="37" />Strecke<NODE id="44" /> zwischen <NODE id="54" />Geisenhausen<NODE id="66" /> und <NODE id="71" />Landshut<NODE id="79" /> <NODE id="80" />gesperrt<NODE id="88" />. Es fahren ersatzweise Busse. (<NODE id="120" />06:33<NODE id="125" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.br-online.de/aktuell/verkehr/verkehr-verkehrsmeldungen-staumeldungen-ID119730167093.xml@2016-02-27T08:59:32.419+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-27T07:59:32.419Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T07:59:43.137Z" />
+<feature featureName="uri" featureValue="http://www.br-online.de/aktuell/verkehr/verkehr-verkehrsmeldungen-staumeldungen-ID119730167093.xml" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="28" type="trigger" surface="Notarzteinsatzes" />
+<Entity id="1" startPos="37" endPos="44" type="location-route" surface="Strecke" />
+<Entity id="2" startPos="54" endPos="66" type="location-stop" surface="Geisenhausen" />
+<Entity id="3" startPos="71" endPos="79" type="location-stop" surface="Landshut" />
+<Entity id="4" startPos="80" endPos="88" type="trigger" surface="gesperrt" />
+<Entity id="5" startPos="120" endPos="125" type="time" surface="06:33" /></Entities><Relations>
+<Relation id="6" NAME="CanceledRoute">
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

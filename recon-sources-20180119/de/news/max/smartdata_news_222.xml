@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Der <NODE id="4" />deutsche<NODE id="12" /> Marktführer im Fernbus-Verkehr wächst weiter mit großem Tempo. Nach der Gründung eigener Tochtergesellschaften in <NODE id="127" />Frankreich<NODE id="137" /> und <NODE id="142" />Italien<NODE id="149" /> geht es nun im Nachbarland <NODE id="177" />Holland<NODE id="184" /> rund. mehr
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://fvw.de/flixbus-niederlaendischer-ableger-gegruendet/393/150487/18102@2015-11-26T11:28:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-26T10:28:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T02:19:42.954Z" />
+<feature featureName="uri" featureValue="http://fvw.de/flixbus-niederlaendischer-ableger-gegruendet/393/150487/18102" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="12" type="location" surface="deutsche" />
+<Entity id="1" startPos="127" endPos="137" type="location" surface="Frankreich" />
+<Entity id="2" startPos="142" endPos="149" type="location" surface="Italien" />
+<Entity id="3" startPos="177" endPos="184" type="location" surface="Holland" /></Entities><Relations />
+</Document>

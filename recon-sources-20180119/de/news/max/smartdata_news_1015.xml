@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Stadt <NODE id="6" />Herne<NODE id="11" /> lehnt Revierpark-Fusion ab
+<NODE id="39" />05.03.2016<NODE id="49" /> | <NODE id="52" />20:00 Uhr<NODE id="61" /> <NODE id="62" />2016-03-05<NODE id="72" />T<NODE id="73" />20:00:00+<NODE id="82" />01:00<NODE id="87" />
+Die Therme Lago – im Bild das Wellenbecken – gehört zum <NODE id="144" />Revierpark Gysenberg<NODE id="164" />. Die Stadt plant nun ein Bäderkonzept für alle Bäder, um Kosten zu sparen.Foto: <NODE id="245" />Joachim Haenisch<NODE id="261" />
+<NODE id="262" />Herne<NODE id="267" />.   Die Stadt <NODE id="281" />Herne<NODE id="286" /> will den <NODE id="296" />Revierpark Gysenberg<NODE id="316" /> weiter allein mit dem <NODE id="339" />RVR<NODE id="342" /> betreiben und ein eigenes Bäderkonzept für Herne erarbeiten.
+Der <NODE id="408" />Revierpark Gysenberg<NODE id="428" /> soll nicht unter das Dach der geplanten <NODE id="469" />Freizeitgesellschaft Metropole Ruhr<NODE id="504" /> mit Sitz in <NODE id="517" />Essen<NODE id="522" />. Dafür spricht sich die Stadt <NODE id="553" />Herne<NODE id="558" /> aus. Die Entscheidung trifft der Rat in seiner Sitzung am <NODE id="617" />15. März<NODE id="625" />.
+Wie berichtet, will der <NODE id="651" />Regionalverband Ruhr<NODE id="671" /> (<NODE id="673" />RVR<NODE id="676" />) die Revierparks in <NODE id="697" />Herne<NODE id="702" />, <NODE id="704" />Bottrop<NODE id="711" />/<NODE id="712" />Oberhausen<NODE id="722" />, <NODE id="724" />Duisburg<NODE id="732" /> und <NODE id="737" />Gelsenkirchen<NODE id="750" /> sowie ein Freizeitzentrum in <NODE id="780" />Bochum<NODE id="786" />/<NODE id="787" />Witten<NODE id="793" /> verschmelzen, um Kosten zu sparen. Die Einrichtungen, die bislang einzeln vom <NODE id="872" />RVR<NODE id="875" /> und den beteiligten Kommunen betrieben werden, sind seit Jahren defizitär. Nachdem 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.derwesten.de/staedte/nachrichten-aus-herne-und-wanne-eickel/stadt-herne-lehnt-revierpark-fusion-ab-id11622103.html@2016-03-05T20:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-05T19:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:32:12.952Z" />
+<feature featureName="uri" featureValue="http://www.derwesten.de/staedte/nachrichten-aus-herne-und-wanne-eickel/stadt-herne-lehnt-revierpark-fusion-ab-id11622103.html" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="11" type="location-city" surface="Herne" />
+<Entity id="1" startPos="39" endPos="49" type="date" surface="05.03.2016" />
+<Entity id="2" startPos="52" endPos="61" type="time" surface="20:00 Uhr" />
+<Entity id="3" startPos="62" endPos="72" type="date" surface="2016-03-05" />
+<Entity id="4" startPos="73" endPos="87" type="time" surface="20:00:00+01:00" />
+<Entity id="5" startPos="82" endPos="87" type="duration" surface="01:00" />
+<Entity id="6" startPos="144" endPos="164" type="location" surface="Revierpark Gysenberg" />
+<Entity id="7" startPos="245" endPos="261" type="person" surface="Joachim Haenisch" />
+<Entity id="8" startPos="262" endPos="267" type="location-city" surface="Herne" />
+<Entity id="9" startPos="281" endPos="286" type="location-city" surface="Herne" />
+<Entity id="10" startPos="296" endPos="316" type="location" surface="Revierpark Gysenberg" />
+<Entity id="11" startPos="339" endPos="342" type="organization" surface="RVR" />
+<Entity id="12" startPos="408" endPos="428" type="location" surface="Revierpark Gysenberg" />
+<Entity id="13" startPos="469" endPos="504" type="organization-company" surface="Freizeitgesellschaft Metropole Ruhr" />
+<Entity id="14" startPos="517" endPos="522" type="location-city" surface="Essen" />
+<Entity id="15" startPos="553" endPos="558" type="location-city" surface="Herne" />
+<Entity id="16" startPos="617" endPos="625" type="date" surface="15. März" />
+<Entity id="17" startPos="651" endPos="671" type="organization" surface="Regionalverband Ruhr" />
+<Entity id="18" startPos="673" endPos="676" type="organization" surface="RVR" />
+<Entity id="19" startPos="697" endPos="702" type="location-city" surface="Herne" />
+<Entity id="20" startPos="704" endPos="711" type="location-city" surface="Bottrop" />
+<Entity id="21" startPos="712" endPos="722" type="location-city" surface="Oberhausen" />
+<Entity id="22" startPos="724" endPos="732" type="location-city" surface="Duisburg" />
+<Entity id="23" startPos="737" endPos="750" type="location-city" surface="Gelsenkirchen" />
+<Entity id="24" startPos="780" endPos="786" type="location-city" surface="Bochum" />
+<Entity id="25" startPos="787" endPos="793" type="location-city" surface="Witten" />
+<Entity id="26" startPos="872" endPos="875" type="organization" surface="RVR" /></Entities><Relations />
+</Document>

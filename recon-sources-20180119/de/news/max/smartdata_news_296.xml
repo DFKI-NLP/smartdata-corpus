@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Tagesspiegel<NODE id="12" /> lokal
+<NODE id="19" />Zehlendorf<NODE id="29" />-Kiez
+<NODE id="35" />Zehlendorf<NODE id="45" /> – fein, langweilig, reich? Denkste! Wir hinterfragen gemeinsam mit Jugendlichen, Erwachsenen, Prominenten Klischees und schreiben spannende Geschichten aus dem Stadtteil: über Menschen, lokale Politik und ein Lebensgefühl mit Wasser und Wald. Schreiben Sie mit an unserer Seite über <NODE id="329" />Zehlendorf<NODE id="339" />!
+Zum Ortsteil <NODE id="354" />Zehlendorf<NODE id="364" />
+<NODE id="365" />Ku'damm<NODE id="372" />
+Alle reden vom neuen Aufschwung am berühmten <NODE id="418" />Berliner<NODE id="426" /> <NODE id="427" />Kurfürstendamm<NODE id="441" />. Wir zeigen die Fortschritte, aber auch Schattenseiten der Entwicklung in der westlichen Innenstadt und stellen die Menschen dort vor. Machen Sie mit bei unserer Seite zum <NODE id="614" />Ku'damm<NODE id="621" />-Kiez!
+Zum Ortsteil<NODE id="640" /> Ku'damm<NODE id="648" />
+<NODE id="649" />Spandau<NODE id="656" />
+Kaum ein Bezirk ist so kontrastreich wie das gallische Dorf am Westrand <NODE id="729" />Berlins<NODE id="736" />, vom riesigen Stadtforst bis zu bedeutenden Industriestandorten von Konzernen wie <NODE id="819" />BMW<NODE id="822" /> und <NODE id="827" />Siemens<NODE id="834" />, von Großsiedlungen wie dem <NODE id="863" />Falkenhagener Feld<NODE id="881" /> über das dörfliche <NODE id="901" />Gatow<NODE id="906" /> bis hin zu den <NODE id="922" />Kladower<NODE id="930" /> Villen. Unser Portal ist ein
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.tagesspiegel.de/12828550.html@2016-03-10T12:25:48.034+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:25:48.034Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:25:53.316Z" />
+<feature featureName="uri" featureValue="http://www.tagesspiegel.de/12828550.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="organization-company" surface="Tagesspiegel" />
+<Entity id="1" startPos="19" endPos="29" type="location" surface="Zehlendorf" />
+<Entity id="2" startPos="35" endPos="45" type="location" surface="Zehlendorf" />
+<Entity id="3" startPos="329" endPos="339" type="location" surface="Zehlendorf" />
+<Entity id="4" startPos="354" endPos="364" type="location" surface="Zehlendorf" />
+<Entity id="5" startPos="365" endPos="372" type="location-street" surface="Ku'damm" />
+<Entity id="6" startPos="418" endPos="426" type="location-city" surface="Berliner" />
+<Entity id="7" startPos="427" endPos="441" type="location-street" surface="Kurfürstendamm" />
+<Entity id="8" startPos="614" endPos="621" type="location-street" surface="Ku'damm" />
+<Entity id="9" startPos="640" endPos="648" type="location-street" surface=" Ku'damm" />
+<Entity id="10" startPos="649" endPos="656" type="location" surface="Spandau" />
+<Entity id="11" startPos="729" endPos="736" type="location-city" surface="Berlins" />
+<Entity id="12" startPos="819" endPos="822" type="organization-company" surface="BMW" />
+<Entity id="13" startPos="827" endPos="834" type="organization-company" surface="Siemens" />
+<Entity id="14" startPos="863" endPos="881" type="location" surface="Falkenhagener Feld" />
+<Entity id="15" startPos="901" endPos="906" type="location" surface="Gatow" />
+<Entity id="16" startPos="922" endPos="930" type="location" surface="Kladower" /></Entities><Relations />
+</Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: <NODE id="19" />Österreich<NODE id="29" />: Nach einem <NODE id="42" />Erdrutsch<NODE id="51" /> in <NODE id="55" />Rauris<NODE id="61" /> sind rund <NODE id="72" />5000<NODE id="76" /> Menschen vom Umland abgeschnitten http://t.co/Os0rK89Hte http:…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="624553349782892548" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="19" endPos="29" type="location" surface="Österreich" />
+<Entity id="2" startPos="42" endPos="51" type="disaster-type" surface="Erdrutsch" />
+<Entity id="3" startPos="55" endPos="61" type="location-city" surface="Rauris" />
+<Entity id="4" startPos="72" endPos="76" type="number" surface="5000" /></Entities><Relations>
+<Relation id="5" NAME="Disaster">
+<Entity id="3" label="location" />
+<Entity id="2" label="type" />
+<Entity id="4" label="victims" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Was ist heute bzw. gestern nur los gewesen... erst <NODE id="51" />Geiselnahme<NODE id="62" />, <NODE id="64" />Bombendrohung<NODE id="77" /> und dann <NODE id="87" />Erdbeben<NODE id="95" /> in <NODE id="99" />Japan<NODE id="104" />... #PrayFor<NODE id="116" />Japan<NODE id="121" /> #Pray4<NODE id="128" />Paris<NODE id="133" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="665361845998493696" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-14T02:53:20Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:41:53.905Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="51" endPos="62" type="disaster-type" surface="Geiselnahme" />
+<Entity id="1" startPos="64" endPos="77" type="disaster-type" surface="Bombendrohung" />
+<Entity id="2" startPos="87" endPos="95" type="disaster-type" surface="Erdbeben" />
+<Entity id="3" startPos="99" endPos="104" type="location" surface="Japan" />
+<Entity id="4" startPos="116" endPos="121" type="location" surface="Japan" />
+<Entity id="5" startPos="128" endPos="133" type="location-city" surface="Paris" /></Entities><Relations>
+<Relation id="6" NAME="Disaster">
+<Entity id="3" label="location" />
+<Entity id="2" label="type" />
+</Relation></Relations>
+</Document>

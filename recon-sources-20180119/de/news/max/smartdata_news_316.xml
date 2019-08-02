@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bowie<NODE id="5" /> wird immer in <NODE id="20" />Berlin<NODE id="26" /> sein
+<NODE id="32" />11.01.2016<NODE id="42" />
+von <NODE id="47" />Klaus Sturm<NODE id="58" />
+<NODE id="59" />Ende der Siebziger<NODE id="77" /> lebte <NODE id="84" />David Bowie<NODE id="95" /> für ein <NODE id="104" />paar Jahre<NODE id="114" /> in <NODE id="118" />Berlin<NODE id="124" />. Seitdem ist <NODE id="138" />David Bowie<NODE id="149" /> <NODE id="150" />Berlin<NODE id="156" /> und <NODE id="161" />Berlin<NODE id="167" /> ist <NODE id="172" />David Bowie<NODE id="183" /> – so hat es zumindest <NODE id="206" />SWR3<NODE id="210" />-Redakteur <NODE id="221" />Klaus Sturm<NODE id="232" /> immer wahrgenommen.
+Auf <NODE id="257" />Facebook<NODE id="265" /> teilen teilen Auf <NODE id="284" />Twitter<NODE id="291" /> teilen twittern Auf <NODE id="312" />Google+<NODE id="319" /> teilen teilen Bei <NODE id="338" />Whatsapp<NODE id="346" /> teilen teilen Per E-Mail teilen teilen
+Es gibt dieses eine Lied, das alles benennt, wofür ich <NODE id="441" />David Bowie<NODE id="452" /> so bewundert habe: „Changes“. Veränderung, Wandel, sich immer wieder neu erfinden, immer wieder seine eigene Welt schaffen, immer kreativ sein und niemals damit aufhören. <NODE id="624" />Bowie<NODE id="629" /> völlig abgedreht in Phantasiekostümen, völlig stilsicher als britischer Gentleman, völlig normalo damals in <NODE id="738" />Berlin<NODE id="744" /> im Dschungel – so smart, so cool, wie der Westteil von Berlin nur damals  war. Für die <NODE id="832" />Berliner<NODE id="840" /> wird <NODE id="846" />Bowie<NODE id="851" /> immer ein <NODE id="862" />Berliner<NODE id="870" /> bleiben, obwohl er nur ein <NODE id="898" />paar Jahre <NODE id="909" />wirklich da gelebt hat, <NODE id="933" />Ende der 70er<NODE id="946" /> – danach immer wied
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.swr3.de/aktuell/nachrichten/Bowie-wird-immer-in-Berlin-sein/-/id=47428/did=3675412/1jbza9z/index.html@2016-03-10T12:41:36.120+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:41:36.12Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:41:43.318Z" />
+<feature featureName="uri" featureValue="http://www.swr3.de/aktuell/nachrichten/Bowie-wird-immer-in-Berlin-sein/-/id=47428/did=3675412/1jbza9z/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="person" surface="Bowie" />
+<Entity id="1" startPos="20" endPos="26" type="location-city" surface="Berlin" />
+<Entity id="2" startPos="32" endPos="42" type="date" surface="11.01.2016" />
+<Entity id="3" startPos="47" endPos="58" type="person" surface="Klaus Sturm" />
+<Entity id="4" startPos="59" endPos="77" type="date" surface="Ende der Siebziger" />
+<Entity id="5" startPos="84" endPos="95" type="person" surface="David Bowie" />
+<Entity id="6" startPos="104" endPos="114" type="duration" surface="paar Jahre" />
+<Entity id="7" startPos="118" endPos="124" type="location-city" surface="Berlin" />
+<Entity id="8" startPos="138" endPos="149" type="person" surface="David Bowie" />
+<Entity id="9" startPos="150" endPos="156" type="location-city" surface="Berlin" />
+<Entity id="10" startPos="161" endPos="167" type="location-city" surface="Berlin" />
+<Entity id="11" startPos="172" endPos="183" type="person" surface="David Bowie" />
+<Entity id="12" startPos="206" endPos="210" type="organization-company" surface="SWR3" />
+<Entity id="13" startPos="221" endPos="232" type="person" surface="Klaus Sturm" />
+<Entity id="14" startPos="257" endPos="265" type="organization-company" surface="Facebook" />
+<Entity id="15" startPos="284" endPos="291" type="organization-company" surface="Twitter" />
+<Entity id="16" startPos="312" endPos="319" type="organization-company" surface="Google+" />
+<Entity id="17" startPos="338" endPos="346" type="organization-company" surface="Whatsapp" />
+<Entity id="18" startPos="441" endPos="452" type="person" surface="David Bowie" />
+<Entity id="19" startPos="624" endPos="629" type="person" surface="Bowie" />
+<Entity id="20" startPos="738" endPos="744" type="location-city" surface="Berlin" />
+<Entity id="21" startPos="832" endPos="840" type="location-city" surface="Berliner" />
+<Entity id="22" startPos="846" endPos="851" type="person" surface="Bowie" />
+<Entity id="23" startPos="862" endPos="870" type="location-city" surface="Berliner" />
+<Entity id="24" startPos="898" endPos="909" type="duration" surface="paar Jahre " />
+<Entity id="25" startPos="933" endPos="946" type="date" surface="Ende der 70er" /></Entities><Relations />
+</Document>

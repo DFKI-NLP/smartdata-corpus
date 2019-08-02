@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />BRUCK I.D.OBERPFALZ<NODE id="19" />, <NODE id="21" />LKR. SCHWANDORF<NODE id="36" />; Bislang unbekannte Täter drangen gegen <NODE id="77" />01.50 Uhr<NODE id="86" /> in eine Tankstelle an der <NODE id="113" />Mappacher Straße<NODE id="129" /> ein und flüchteten unerkannt- Zeugen gesucht.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.bayern.de/oberpfalz/news/presse/aktuell/index.html/237651@2016-03-06T23:37:21.805+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-06T22:37:21.805Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T06:54:24.514Z" />
+<feature featureName="uri" featureValue="http://www.polizei.bayern.de/oberpfalz/news/presse/aktuell/index.html/237651" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="19" type="location-city" surface="BRUCK I.D.OBERPFALZ" />
+<Entity id="1" startPos="21" endPos="36" type="location" surface="LKR. SCHWANDORF" />
+<Entity id="2" startPos="77" endPos="86" type="time" surface="01.50 Uhr" />
+<Entity id="3" startPos="113" endPos="129" type="location-street" surface="Mappacher Straße" /></Entities><Relations />
+</Document>

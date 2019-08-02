@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A3<NODE id="2" /> <NODE id="3" />Frankfurt<NODE id="12" /> Richtung <NODE id="22" />Köln<NODE id="26" /> zwischen <NODE id="36" />Lohmar-Nord<NODE id="47" /> und <NODE id="52" />Dreieck Heumar<NODE id="66" /> <NODE id="67" />7 km<NODE id="71" /> <NODE id="72" />Stau<NODE id="76" /> Wegen Bauarbeiten ist nur ein Fahrstreifen frei. (Zeitverlust: etwa eine Stunde)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#2@2016-03-26T12:22:32.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-26T11:22:32Z" />
+<feature featureName="indexDate" featureValue="2016-03-26T11:26:59.491Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A3" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Frankfurt" />
+<Entity id="2" startPos="22" endPos="26" type="location-city" surface="Köln" />
+<Entity id="3" startPos="36" endPos="47" type="location" surface="Lohmar-Nord" />
+<Entity id="4" startPos="52" endPos="66" type="location" surface="Dreieck Heumar" />
+<Entity id="5" startPos="67" endPos="71" type="distance" surface="7 km" />
+<Entity id="6" startPos="72" endPos="76" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

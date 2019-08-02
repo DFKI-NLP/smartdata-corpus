@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Modernes Logistikcenter in Rekordzeit in <NODE id="41" />Kölliken<NODE id="49" /> fertiggestellt….<NODE id="66" />
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.presseportal.ch/de/pm/100053189/100782574@2016-03-10T13:28:11.412+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:28:11.412Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:28:13.484Z" />
+<feature featureName="uri" featureValue="http://www.presseportal.ch/de/pm/100053189/100782574" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="66" type="sentence" surface="Modernes Logistikcenter in Rekordzeit in Kölliken fertiggestellt…." />
+<Entity id="1" startPos="41" endPos="49" type="location" surface="Kölliken" /></Entities><Relations />
+</Document>

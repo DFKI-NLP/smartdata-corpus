@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>&gt; <NODE id="2" />Verdi<NODE id="7" /> bestreikt Krankenhäuser in <NODE id="35" />NRW<NODE id="38" />
+<NODE id="39" />Verdi<NODE id="44" /> bestreikt Krankenhäuser in <NODE id="72" />NRW<NODE id="75" />
+<NODE id="76" />heute<NODE id="81" />, <NODE id="83" />05:50<NODE id="88" />
+<NODE id="89" />dpa-AFX<NODE id="96" />
+<NODE id="97" />DÜSSELDORF<NODE id="107" /> (<NODE id="109" />dpa-AFX<NODE id="116" />) - Rund <NODE id="125" />2000<NODE id="129" /> <NODE id="130" />Krankenhaus-Beschäftigte<NODE id="154" /> wollen am <NODE id="165" />Donnerstag<NODE id="175" /> (<NODE id="177" />06.00 Uhr<NODE id="186" />) in <NODE id="191" />Nordrhein-Westfalen<NODE id="210" /> <NODE id="211" />ganztägig<NODE id="220" /> in den <NODE id="228" />Warnstreik<NODE id="238" /> gehen. Start ist am frühen Morgen. Die Dienstleistungsgewerkschaft <NODE id="306" />Verdi<NODE id="311" /> hat das Personal von <NODE id="333" />50<NODE id="335" /> kommunalen Krankenhäusern und Kliniken der Landschaftsverbände aufgerufen. In <NODE id="414" />Köln<NODE id="418" /> (<NODE id="420" />10.00 Uhr<NODE id="429" />), <NODE id="432" />Dortmund<NODE id="440" /> (<NODE id="442" />10.30 Uhr<NODE id="451" />) und <NODE id="457" />Bad Oeynhausen<NODE id="471" /> (<NODE id="473" />11.00 Uhr<NODE id="482" />) sind am <NODE id="492" />Vormittag<NODE id="501" /> Kundgebungen und Demonstrationszüge geplant. Die Warnstreiks sind Teil eines <NODE id="579" />bundesweiten<NODE id="591" /> Aktionstages.
+<NODE id="606" />Verdi<NODE id="611" /> fordert für die Beschäftigten von Bund und Kommunen <NODE id="664" />sechs Prozent<NODE id="677" /> mehr Geld. Den bisherigen Vorschlag der Arbeitgeber von <NODE id="734" />drei Prozent<NODE id="746" /> mehr Lohn für <NODE id="761" />zwei Jahre<NODE id="771" /> lehnt <NODE id="778" />Verdi<NODE id="783" /> ab./wd/DP/zb
+Das könnte Sie auch interessieren
+<NODE id="831" />19.04.2016<NODE id="841" />, <NODE id="843" />16:41 Uhr<NODE id="852" />
+(<NODE id="854" />NORDDEUTSCHE LANDESBANK<NODE id="877" />)
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.onvista.de/news/verdi-bestreikt-krankenhaeuser-in-nrw-30637965@2016-04-21T05:49:24.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-21T03:49:24Z" />
+<feature featureName="indexDate" featureValue="2016-04-21T03:55:53.053Z" />
+<feature featureName="uri" featureValue="http://www.onvista.de/news/verdi-bestreikt-krankenhaeuser-in-nrw-30637965" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="2" endPos="7" type="organization" surface="Verdi" />
+<Entity id="1" startPos="35" endPos="38" type="location" surface="NRW" />
+<Entity id="2" startPos="39" endPos="44" type="organization" surface="Verdi" />
+<Entity id="3" startPos="72" endPos="75" type="location" surface="NRW" />
+<Entity id="4" startPos="76" endPos="81" type="date" surface="heute" />
+<Entity id="5" startPos="83" endPos="88" type="date" surface="05:50" />
+<Entity id="6" startPos="89" endPos="96" type="organization-company" surface="dpa-AFX" />
+<Entity id="7" startPos="97" endPos="107" type="location-city" surface="DÜSSELDORF" />
+<Entity id="8" startPos="109" endPos="116" type="organization-company" surface="dpa-AFX" />
+<Entity id="9" startPos="125" endPos="129" type="number" surface="2000" />
+<Entity id="10" startPos="130" endPos="154" type="person" surface="Krankenhaus-Beschäftigte" />
+<Entity id="11" startPos="165" endPos="175" type="date" surface="Donnerstag" />
+<Entity id="12" startPos="177" endPos="186" type="time" surface="06.00 Uhr" />
+<Entity id="13" startPos="191" endPos="210" type="location" surface="Nordrhein-Westfalen" />
+<Entity id="14" startPos="211" endPos="220" type="time" surface="ganztägig" />
+<Entity id="15" startPos="228" endPos="238" type="trigger" surface="Warnstreik" />
+<Entity id="16" startPos="306" endPos="311" type="organization" surface="Verdi" />
+<Entity id="17" startPos="333" endPos="335" type="number" surface="50" />
+<Entity id="18" startPos="414" endPos="418" type="location-city" surface="Köln" />
+<Entity id="19" startPos="420" endPos="429" type="time" surface="10.00 Uhr" />
+<Entity id="20" startPos="432" endPos="440" type="location-city" surface="Dortmund" />
+<Entity id="21" startPos="442" endPos="451" type="time" surface="10.30 Uhr" />
+<Entity id="22" startPos="457" endPos="471" type="location-city" surface="Bad Oeynhausen" />
+<Entity id="23" startPos="473" endPos="482" type="time" surface="11.00 Uhr" />
+<Entity id="24" startPos="492" endPos="501" type="time" surface="Vormittag" />
+<Entity id="25" startPos="579" endPos="591" type="location" surface="bundesweiten" />
+<Entity id="26" startPos="606" endPos="611" type="organization" surface="Verdi" />
+<Entity id="27" startPos="664" endPos="677" type="number" surface="sechs Prozent" />
+<Entity id="28" startPos="734" endPos="746" type="number" surface="drei Prozent" />
+<Entity id="29" startPos="761" endPos="771" type="duration" surface="zwei Jahre" />
+<Entity id="30" startPos="778" endPos="783" type="organization" surface="Verdi" />
+<Entity id="31" startPos="831" endPos="841" type="date" surface="19.04.2016" />
+<Entity id="32" startPos="843" endPos="852" type="time" surface="16:41 Uhr" />
+<Entity id="33" startPos="854" endPos="877" type="organization-company" surface="NORDDEUTSCHE LANDESBANK" /></Entities><Relations>
+<Relation id="34" NAME="Strike">
+<Entity id="12" label="date" />
+<Entity id="11" label="date" />
+<Entity id="14" label="date" />
+<Entity id="10" label="striker" />
+<Entity id="9" label="num_striking" />
+<Entity id="13" label="location" />
+<Entity id="15" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sie sind hier: Home &gt; Nachrichten &gt; Regionales &gt; <NODE id="49" />Sachsen<NODE id="56" /> &gt;
+<NODE id="59" />IG Metall<NODE id="68" /> will mit Warnstreiks Druck machen
+...
+t-online.de ist ein Angebot der <NODE id="139" />Ströer Content Group<NODE id="159" />
+Tarife  
+<NODE id="169" />IG Metall<NODE id="178" /> will mit Warnstreiks Druck machen
+<NODE id="213" />26.04.2016<NODE id="223" />, <NODE id="225" />15:38 Uhr<NODE id="234" /> | <NODE id="237" />dpa<NODE id="240" />
+Redaktion
+Die <NODE id="255" />IG Metall<NODE id="264" /> droht im Tarifstreit mit dem Verband der <NODE id="306" />Sächsischen Metall- und Elektroindustrie<NODE id="346" /> (<NODE id="348" />VSME<NODE id="352" />) mit Warnstreiks. Die Friedenspflicht endet in der Nacht vom <NODE id="414" />28.<NODE id="417" /> zum <NODE id="422" />29. April<NODE id="431" />, sagte Gewerkschaftssekräterin Franziska Wolf am <NODE id="481" />Dienstag<NODE id="489" />. Danach seien zügig erste Ausstände geplant. Welche Betriebe zuerst bestreikt werden, können wir noch nicht sagen, so die Sprecherin. Die <NODE id="628" />zweite<NODE id="634" /> Runde der Tarifverhandlungen zwischen der <NODE id="677" />IG Metall<NODE id="686" /> und dem Verband war <NODE id="707" />Mitte April<NODE id="718" /> nach nur <NODE id="728" />30 Minuten<NODE id="738" /> ergebnislos beendet worden. Die Gewerkschaft verlangt ein Plus von <NODE id="806" />5 Prozent<NODE id="815" />. Der <NODE id="821" />VSME<NODE id="825" /> legte das bundesweit abgestimmte Angebot von <NODE id="871" />1,2 Prozent<NODE id="882" /> Entgeltsteigerung vor.
+Mehr zu <NODE id="914" />Sachsen<NODE id="921" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.t-online.de/regionales/id_77665968/ig-metall-will-mit-warnstreiks-druck-machen.html@2016-04-26T15:41:23.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-26T13:41:23Z" />
+<feature featureName="indexDate" featureValue="2016-04-26T13:47:23.054Z" />
+<feature featureName="uri" featureValue="http://www.t-online.de/regionales/id_77665968/ig-metall-will-mit-warnstreiks-druck-machen.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="49" endPos="56" type="location" surface="Sachsen" />
+<Entity id="1" startPos="59" endPos="68" type="organization" surface="IG Metall" />
+<Entity id="2" startPos="139" endPos="159" type="organization-company" surface="Ströer Content Group" />
+<Entity id="3" startPos="169" endPos="178" type="organization" surface="IG Metall" />
+<Entity id="4" startPos="213" endPos="223" type="date" surface="26.04.2016" />
+<Entity id="5" startPos="225" endPos="234" type="time" surface="15:38 Uhr" />
+<Entity id="6" startPos="237" endPos="240" type="organization" surface="dpa" />
+<Entity id="7" startPos="255" endPos="264" type="organization" surface="IG Metall" />
+<Entity id="8" startPos="306" endPos="346" type="organization" surface="Sächsischen Metall- und Elektroindustrie" />
+<Entity id="9" startPos="348" endPos="352" type="organization" surface="VSME" />
+<Entity id="10" startPos="414" endPos="417" type="date" surface="28." />
+<Entity id="11" startPos="422" endPos="431" type="date" surface="29. April" />
+<Entity id="12" startPos="481" endPos="489" type="date" surface="Dienstag" />
+<Entity id="13" startPos="628" endPos="634" type="number" surface="zweite" />
+<Entity id="14" startPos="677" endPos="686" type="organization" surface="IG Metall" />
+<Entity id="15" startPos="707" endPos="718" type="date" surface="Mitte April" />
+<Entity id="16" startPos="728" endPos="738" type="duration" surface="30 Minuten" />
+<Entity id="17" startPos="806" endPos="815" type="number" surface="5 Prozent" />
+<Entity id="18" startPos="821" endPos="825" type="organization" surface="VSME" />
+<Entity id="19" startPos="871" endPos="882" type="number" surface="1,2 Prozent" />
+<Entity id="20" startPos="914" endPos="921" type="location" surface="Sachsen" /></Entities><Relations />
+</Document>

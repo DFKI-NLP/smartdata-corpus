@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bei <NODE id="4" />Lufthansa Technik<NODE id="21" /> droht <NODE id="28" />Stellenabbau<NODE id="40" />
+schließen
+Bei <NODE id="55" />Lufthansa Technik<NODE id="72" /> droht ein <NODE id="83" />Stellenabbau<NODE id="95" />. Hintergrund seien gravierende Marktveränderungen bei Triebwerken. Foto: <NODE id="169" />Bodo Marks<NODE id="179" />/Archiv
+© <NODE id="189" />Bodo Marks<NODE id="199" />
+<NODE id="200" />Hamburg<NODE id="207" /> (<NODE id="209" />dpa<NODE id="212" />) - Bei der <NODE id="224" />Technik-<NODE id="232" />Tochter<NODE id="239" /> des <NODE id="244" />Lufthansa<NODE id="253" />-Konzerns droht ein <NODE id="273" />Stellenabbau<NODE id="285" /> in <NODE id="289" />Deutschland<NODE id="300" />.
+Für die Bereiche Flugzeugüberholung und Triebwerksinstandhaltung liefen seit <NODE id="379" />einigen Wochen<NODE id="393" /> Gespräche zwischen der Konzernleitung von <NODE id="436" />Lufthansa Technik<NODE id="453" />, Gewerkschaften und Betriebsrat, sagte ein Unternehmenssprecher. <NODE id="519" />Der Spiegel<NODE id="530" /> hatte zuvor über einen drohenden massiven Arbeitsplatzabbau berichtet.
+Bei der Triebwerksinstandhaltung mit rund <NODE id="644" />1700<NODE id="648" /> Beschäftigten gehe es etwa um eine Anhebung der Wochenarbeitszeit und flexible Arbeitszeiten, erklärte der Sprecher. Es solle rund um die Uhr gearbeitet werden können, um die Anlagen besser auszulasten. Bei der Flugzeugüberholung mit etwa <NODE id="888" />350<NODE id="891" /> bis <NODE id="896" />400<NODE id="899" /> Beschäftigten in <NODE id="917" />Hamburg<NODE id="924" /> gehe es vor allem um Arbeitsze
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rosenheim24.de/wirtschaft/bei-lufthansa-technik-droht-stellenabbau-zr-6254711.html?cmp=defrss@2016-03-25T17:48:02.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-25T16:48:02Z" />
+<feature featureName="indexDate" featureValue="2016-03-25T18:09:01.936Z" />
+<feature featureName="uri" featureValue="http://www.rosenheim24.de/wirtschaft/bei-lufthansa-technik-droht-stellenabbau-zr-6254711.html?cmp=defrss" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="21" type="organization-company" surface="Lufthansa Technik" />
+<Entity id="1" startPos="28" endPos="40" type="trigger" surface="Stellenabbau" />
+<Entity id="2" startPos="55" endPos="72" type="organization-company" surface="Lufthansa Technik" />
+<Entity id="3" startPos="83" endPos="95" type="trigger" surface="Stellenabbau" />
+<Entity id="4" startPos="169" endPos="179" type="person" surface="Bodo Marks" />
+<Entity id="5" startPos="189" endPos="199" type="person" surface="Bodo Marks" />
+<Entity id="6" startPos="200" endPos="207" type="location-city" surface="Hamburg" />
+<Entity id="7" startPos="209" endPos="212" type="organization-company" surface="dpa" />
+<Entity id="8" startPos="224" endPos="239" type="organization-company" surface="Technik-Tochter" />
+<Entity id="9" startPos="232" endPos="239" type="trigger" surface="Tochter" />
+<Entity id="10" startPos="244" endPos="253" type="organization-company" surface="Lufthansa" />
+<Entity id="11" startPos="273" endPos="285" type="trigger" surface="Stellenabbau" />
+<Entity id="12" startPos="289" endPos="300" type="location" surface="Deutschland" />
+<Entity id="13" startPos="379" endPos="393" type="duration" surface="einigen Wochen" />
+<Entity id="14" startPos="436" endPos="453" type="organization-company" surface="Lufthansa Technik" />
+<Entity id="15" startPos="519" endPos="530" type="organization-company" surface="Der Spiegel" />
+<Entity id="16" startPos="644" endPos="648" type="number" surface="1700" />
+<Entity id="17" startPos="888" endPos="891" type="number" surface="350" />
+<Entity id="18" startPos="896" endPos="899" type="number" surface="400" />
+<Entity id="19" startPos="917" endPos="924" type="location-city" surface="Hamburg" /></Entities><Relations>
+<Relation id="20" NAME="CompanyRelationship">
+<Entity id="10" label="parent" />
+<Entity id="9" label="trigger" />
+<Entity id="8" label="child" />
+</Relation>
+<Relation id="21" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="8" label="target" />
+<Entity id="14" label="target" />
+<Entity id="2" label="target" />
+</Relation>
+<Relation id="22" NAME="Layoffs">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="23" NAME="Layoffs">
+<Entity id="2" label="company" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="24" NAME="Layoffs">
+<Entity id="8" label="company" />
+<Entity id="12" label="location" />
+<Entity id="11" label="trigger" />
+</Relation></Relations>
+</Document>

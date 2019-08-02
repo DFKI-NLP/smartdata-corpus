@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Lindau<NODE id="6" /> Richtung <NODE id="16" />München<NODE id="23" /> zwischen <NODE id="33" />Aitrach<NODE id="40" /> und Kreuz <NODE id="51" />Memmingen<NODE id="60" /> Unfall, <NODE id="69" />8 km<NODE id="73" /> Stau, Staulänge zunehmend
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=415ffb53-85dc-4825-b680-2df43bff15f4@2016-03-26T10:56:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-26T09:56:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-26T12:07:45.962Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=415ffb53-85dc-4825-b680-2df43bff15f4" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="location-city" surface="Lindau" />
+<Entity id="1" startPos="16" endPos="23" type="location-city" surface="München" />
+<Entity id="2" startPos="33" endPos="40" type="location" surface="Aitrach" />
+<Entity id="3" startPos="51" endPos="60" type="location" surface="Memmingen" />
+<Entity id="4" startPos="69" endPos="73" type="distance" surface="8 km" /></Entities><Relations />
+</Document>

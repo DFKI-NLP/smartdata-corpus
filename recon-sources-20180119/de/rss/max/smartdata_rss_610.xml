@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A1<NODE id="2" /> <NODE id="3" />Hamburg<NODE id="10" /> Richtung <NODE id="20" />Lübeck<NODE id="26" /> zwischen <NODE id="36" />Dreieck Hamburg-Südost<NODE id="58" /> und <NODE id="63" />Kreuz Hamburg-Ost<NODE id="80" /> <NODE id="81" />6 km<NODE id="85" /> <NODE id="86" />Stau<NODE id="90" /> nach einem <NODE id="102" />Unfall<NODE id="108" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#6@2016-03-17T18:01:52.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-17T17:01:52Z" />
+<feature featureName="indexDate" featureValue="2016-03-17T17:06:30.364Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A1" />
+<Entity id="1" startPos="3" endPos="10" type="location-city" surface="Hamburg" />
+<Entity id="2" startPos="20" endPos="26" type="location-city" surface="Lübeck" />
+<Entity id="3" startPos="36" endPos="58" type="location" surface="Dreieck Hamburg-Südost" />
+<Entity id="4" startPos="63" endPos="80" type="location" surface="Kreuz Hamburg-Ost" />
+<Entity id="5" startPos="81" endPos="85" type="distance" surface="6 km" />
+<Entity id="6" startPos="86" endPos="90" type="trigger" surface="Stau" />
+<Entity id="7" startPos="102" endPos="108" type="trigger" surface="Unfall" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="7" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

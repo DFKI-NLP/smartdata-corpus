@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Schlägerei <NODE id="11" />zweier<NODE id="17" /> Gruppen.
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.453930.php@2016-03-02T12:37:34.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-02T11:37:34Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:06:25.432Z" />
+<feature featureName="uri" featureValue="https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.453930.php" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="11" endPos="17" type="number" surface="zweier" /></Entities><Relations />
+</Document>

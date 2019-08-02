@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />A7<NODE id="6" /> <NODE id="7" />Kassel<NODE id="13" /> Richtung <NODE id="23" />Hannover<NODE id="31" /> ist zwischen <NODE id="45" />Lutterberg<NODE id="55" /> und <NODE id="60" />Hedemünden<NODE id="70" /> nach einem <NODE id="82" />Unfall<NODE id="88" /> bis zum <NODE id="97" />Mittag<NODE id="103" /> <NODE id="104" />gesperrt<NODE id="112" /> <NODE id="113" />9 km <NODE id="118" />Stau<NODE id="122" /> ab <NODE id="126" />Kassel-Ost<NODE id="136" />. Bitte weichen Sie weiträumig aus.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#11@2016-03-25T06:39:54.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-25T05:39:54Z" />
+<feature featureName="indexDate" featureValue="2016-03-25T08:51:10.322Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="location-street" surface="A7" />
+<Entity id="1" startPos="7" endPos="13" type="location-city" surface="Kassel" />
+<Entity id="2" startPos="23" endPos="31" type="location-city" surface="Hannover" />
+<Entity id="3" startPos="45" endPos="55" type="location" surface="Lutterberg" />
+<Entity id="4" startPos="60" endPos="70" type="location" surface="Hedemünden" />
+<Entity id="5" startPos="82" endPos="88" type="trigger" surface="Unfall" />
+<Entity id="6" startPos="97" endPos="103" type="time" surface="Mittag" />
+<Entity id="7" startPos="104" endPos="112" type="trigger" surface="gesperrt" />
+<Entity id="8" startPos="113" endPos="118" type="distance" surface="9 km " />
+<Entity id="9" startPos="118" endPos="122" type="trigger" surface="Stau" />
+<Entity id="10" startPos="126" endPos="136" type="location" surface="Kassel-Ost" /></Entities><Relations>
+<Relation id="11" NAME="Obstruction">
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation>
+<Relation id="12" NAME="TrafficJam">
+<Entity id="8" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="9" label="trigger" />
+<Entity id="2" label="direction" />
+<Entity id="10" label="end_loc" />
+</Relation></Relations>
+</Document>

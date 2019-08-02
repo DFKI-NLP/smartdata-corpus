@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Flugbegleitergewerkschaft <NODE id="26" />UFO<NODE id="29" /> weitet Streik bei <NODE id="48" />Lufthansa<NODE id="57" /> aus<NODE id="61" />
+<NODE id="62" />Epoch Times<NODE id="73" />, Sonntag, 8. November 2015 12:19<NODE id="106" />
+<NODE id="107" />Der Flughafen <NODE id="121" />München<NODE id="128" /> wird ebenfalls ab nächster Woche durch die Flugbegleiter bestreikt.<NODE id="196" /> <NODE id="197" />In <NODE id="200" />Frankfurt<NODE id="209" /> und <NODE id="214" />Düsseldorf<NODE id="224" /> geht der Streik weiter.<NODE id="248" />
+<NODE id="249" />Lufthansa<NODE id="258" />-Maschine am Flughafen<NODE id="280" />
+<NODE id="281" />Die Flugbegleitergewerkschaft <NODE id="311" />UFO<NODE id="314" /> weitet ihren Streik bei der <NODE id="343" />Lufthansa<NODE id="352" /> aus: Am Montag sollen nicht nur die Standorte <NODE id="399" />Frankfurt<NODE id="408" /> und <NODE id="413" />Düsseldorf<NODE id="423" />, sondern auch <NODE id="438" />München<NODE id="445" /> bestreikt werden, teilte die Gewerkschaft am Sonntag mit.<NODE id="503" />
+<NODE id="504" />Anzeige<NODE id="511" />
+<NODE id="512" />In <NODE id="515" />Frankfurt<NODE id="524" /> und <NODE id="529" />Düsseldorf<NODE id="539" /> soll von 04:30 bis 23:00 Uhr die Arbeit niedergelegt werden, in <NODE id="604" />München<NODE id="611" /> bis 24:00 Uhr.<NODE id="626" /> <NODE id="627" />Am Freitag und Samstag waren wegen des Arbeitskampfes Hunderte Flüge ausgefallen, Zehntausende Passagiere waren betroffen.<NODE id="749" />
+<NODE id="750" />Am Sonntag hatte die Gewerkschaft eine Streikpause eingelegt.<NODE id="811" /> <NODE id="812" />In dem Tarifstreit geht es um die Alters- und Übergangsversorgung der rund 19.000 <NODE id="894" />Lufthansa<NODE id="903" />-Flugbegleiter.<NODE id="918" /> <NODE id="919" />(<NODE id="920" />dts<NODE id="923" />)<NODE id="924" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.epochtimes.de/politik/deutschland/flugbegleitergewerkschaft-ufo-weitet-streik-bei-lufthansa-aus-a1282623.html@2016-03-10T17:27:25.682+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T16:27:25.682Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T16:27:33.317Z" />
+<feature featureName="uri" featureValue="http://www.epochtimes.de/politik/deutschland/flugbegleitergewerkschaft-ufo-weitet-streik-bei-lufthansa-aus-a1282623.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="61" type="sentence" surface="Flugbegleitergewerkschaft UFO weitet Streik bei Lufthansa aus" />
+<Entity id="1" startPos="26" endPos="29" type="organization" surface="UFO" />
+<Entity id="2" startPos="48" endPos="57" type="organization-company" surface="Lufthansa" />
+<Entity id="3" startPos="62" endPos="73" type="organization-company" surface="Epoch Times" />
+<Entity id="4" startPos="62" endPos="106" type="sentence" surface="Epoch Times, Sonntag, 8. November 2015 12:19" />
+<Entity id="5" startPos="107" endPos="196" type="sentence" surface="Der Flughafen München wird ebenfalls ab nächster Woche durch die Flugbegleiter bestreikt." />
+<Entity id="6" startPos="121" endPos="128" type="location-city" surface="München" />
+<Entity id="7" startPos="197" endPos="248" type="sentence" surface="In Frankfurt und Düsseldorf geht der Streik weiter." />
+<Entity id="8" startPos="200" endPos="209" type="location-city" surface="Frankfurt" />
+<Entity id="9" startPos="214" endPos="224" type="location-city" surface="Düsseldorf" />
+<Entity id="10" startPos="249" endPos="258" type="organization-company" surface="Lufthansa" />
+<Entity id="11" startPos="249" endPos="280" type="sentence" surface="Lufthansa-Maschine am Flughafen" />
+<Entity id="12" startPos="281" endPos="503" type="sentence" surface="Die Flugbegleitergewerkschaft UFO weitet ihren Streik bei der Lufthansa aus: Am Montag sollen nicht nur die Standorte Frankfurt und Düsseldorf, sondern auch München bestreikt werden, teilte die Gewerkschaft am Sonntag mit." />
+<Entity id="13" startPos="311" endPos="314" type="organization" surface="UFO" />
+<Entity id="14" startPos="343" endPos="352" type="organization-company" surface="Lufthansa" />
+<Entity id="15" startPos="399" endPos="408" type="location-city" surface="Frankfurt" />
+<Entity id="16" startPos="413" endPos="423" type="location-city" surface="Düsseldorf" />
+<Entity id="17" startPos="438" endPos="445" type="location-city" surface="München" />
+<Entity id="18" startPos="504" endPos="511" type="sentence" surface="Anzeige" />
+<Entity id="19" startPos="512" endPos="626" type="sentence" surface="In Frankfurt und Düsseldorf soll von 04:30 bis 23:00 Uhr die Arbeit niedergelegt werden, in München bis 24:00 Uhr." />
+<Entity id="20" startPos="515" endPos="524" type="location-city" surface="Frankfurt" />
+<Entity id="21" startPos="529" endPos="539" type="location-city" surface="Düsseldorf" />
+<Entity id="22" startPos="604" endPos="611" type="location-city" surface="München" />
+<Entity id="23" startPos="627" endPos="749" type="sentence" surface="Am Freitag und Samstag waren wegen des Arbeitskampfes Hunderte Flüge ausgefallen, Zehntausende Passagiere waren betroffen." />
+<Entity id="24" startPos="750" endPos="811" type="sentence" surface="Am Sonntag hatte die Gewerkschaft eine Streikpause eingelegt." />
+<Entity id="25" startPos="812" endPos="918" type="sentence" surface="In dem Tarifstreit geht es um die Alters- und Übergangsversorgung der rund 19.000 Lufthansa-Flugbegleiter." />
+<Entity id="26" startPos="894" endPos="903" type="organization-company" surface="Lufthansa" />
+<Entity id="27" startPos="919" endPos="924" type="sentence" surface="(dts)" />
+<Entity id="28" startPos="920" endPos="923" type="organization-company" surface="dts" /></Entities><Relations />
+</Document>

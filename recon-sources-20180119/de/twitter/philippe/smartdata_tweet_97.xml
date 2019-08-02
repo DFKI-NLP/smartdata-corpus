@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Hat Fahrern in der Nähe geholfen, mit der Meldung ein schwerer <NODE id="63" />stau<NODE id="67" /> auf <NODE id="72" />A46<NODE id="75" /> mit @waze - Fahre Sozial. https://t.co/dJaoHgYH6i
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667326088431992832" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="63" endPos="67" type="trigger" surface="stau" />
+<Entity id="1" startPos="72" endPos="75" type="location-street" surface="A46" /></Entities><Relations>
+<Relation id="2" NAME="TrafficJam">
+<Entity id="1" label="location" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

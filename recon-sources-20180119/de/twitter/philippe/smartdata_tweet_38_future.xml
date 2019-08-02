@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />HAZ<NODE id="7" />: Umstrukturierung: <NODE id="27" />Deutsche Bahn<NODE id="40" /> plant <NODE id="47" />Stellenabbau<NODE id="59" /> im Güterverkehr. http://t.co/KpJtsQzltw http://t.co/JWLMeC3Ct3
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="655674362876567552" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="organization-company" surface="HAZ" />
+<Entity id="1" startPos="27" endPos="40" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="2" startPos="47" endPos="59" type="trigger" surface="Stellenabbau" /></Entities><Relations>
+<Relation id="3" NAME="Layoffs">
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

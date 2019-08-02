@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Warum es zu Staus kommt - <NODE id="26" />sieben<NODE id="32" /> Fehler der Autofahrer: Wer einmal im Stau steckt, kommt so schnell nicht mehr... https://t.co/CrcCyNad3S
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669114419004084224" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-24T11:24:43Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:10:44.121Z" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="26" endPos="32" type="number" surface="sieben" /></Entities><Relations />
+</Document>

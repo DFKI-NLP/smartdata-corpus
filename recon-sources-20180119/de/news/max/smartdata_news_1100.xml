@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Presse
+Nötigung im Internet: <NODE id="29" />Villacher<NODE id="38" /> ausgeforscht
+Ein <NODE id="56" />26 Jahre<NODE id="64" /> alter <NODE id="71" />Villacher<NODE id="80" /> hat eine <NODE id="90" />21 Jahre<NODE id="98" /> alte <NODE id="104" />Kärntnerin<NODE id="114" /> mit der Veröffentlichung von Nacktfotos genötigt. Die Polizei konnte den Mann ausforschen, er zeigte sich geständig.
+Der <NODE id="236" />Villacher<NODE id="245" /> hatte der jungen <NODE id="263" />Kärntnerin<NODE id="273" /> gedroht, über ein soziales Netzwerk Nacktfotos von ihr zu veröffentlichen, wenn sie ihm nicht pornografische Aufnahmen von sich selbst übermittle. Die <NODE id="425" />Polizei Völkermarkt<NODE id="444" /> und das Landeskriminalamt konnten den Mann ausforschen.
+Drahtlose „Datenbank“
+„Cloud“ ist ein Speichermedium, ein Server, bei dem man sich Speicherplatz kauft, auf den man dann zum Beispiel via Smartphone und PC zugreifen kann.
+Er zeigte sich geständig, die Frau via <NODE id="712" />Facebook<NODE id="720" /> unter Verwendung eines Pseudonyms kontaktiert zu haben.
+Möglicherweise „Cloud“-Zugang geknackt
+Bei einer Hausdurchsuchung wurden bei dem <NODE id="858" />Villacher<NODE id="867" /> mehrere Datenträger und eine verbotene Stahlrute sichergestellt. Laut Angaben des Bes
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://kaernten.orf.at/news/stories/2764526/@2016-03-23T16:54:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-23T15:54:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:18:01.93Z" />
+<feature featureName="uri" featureValue="http://kaernten.orf.at/news/stories/2764526/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="29" endPos="38" type="location-city" surface="Villacher" />
+<Entity id="1" startPos="56" endPos="64" type="duration" surface="26 Jahre" />
+<Entity id="2" startPos="71" endPos="80" type="location-city" surface="Villacher" />
+<Entity id="3" startPos="90" endPos="98" type="duration" surface="21 Jahre" />
+<Entity id="4" startPos="104" endPos="114" type="location" surface="Kärntnerin" />
+<Entity id="5" startPos="236" endPos="245" type="location-city" surface="Villacher" />
+<Entity id="6" startPos="263" endPos="273" type="location" surface="Kärntnerin" />
+<Entity id="7" startPos="425" endPos="444" type="organization" surface="Polizei Völkermarkt" />
+<Entity id="8" startPos="712" endPos="720" type="organization-company" surface="Facebook" />
+<Entity id="9" startPos="858" endPos="867" type="location-city" surface="Villacher" /></Entities><Relations />
+</Document>

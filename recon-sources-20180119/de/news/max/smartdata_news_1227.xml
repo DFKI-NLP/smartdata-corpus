@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Ebay<NODE id="4" /> erfreut Investoren mit Quartalsbericht
+<NODE id="44" />Mittwoch, 20.07.2016<NODE id="64" /> <NODE id="65" />22:47<NODE id="70" /> von <NODE id="75" />dpa-AFX<NODE id="82" />
+  
+<NODE id="86" />SAN JOSE<NODE id="94" /> (<NODE id="96" />dpa-AFX<NODE id="103" />) - Die Handelsplattform <NODE id="128" />Ebay<NODE id="132" /> ( eBay Aktie ) sorgt mit angehobenen Jahresprognosen und einem ausgeweiteten Aktienrückkauf für Freude bei Anlegern. Die Aktie legte in einer <NODE id="275" />ersten<NODE id="281" /> Reaktion auf den Bericht zum <NODE id="311" />zweiten Quartal<NODE id="326" /> um fast <NODE id="335" />sechs Prozent<NODE id="348" /> zu. <NODE id="353" />Ebay<NODE id="357" /> steigerte den Quartalsumsatz im Jahresvergleich um <NODE id="409" />sechs Prozent<NODE id="422" /> auf <NODE id="427" />2,23 Milliarden Dollar<NODE id="449" />. Der Gewinn aus dem fortgeführten Geschäft legte von <NODE id="503" />430<NODE id="506" /> auf <NODE id="511" />437 Millionen Dollar<NODE id="531" /> ( Dollarkurs ) zu, wie <NODE id="555" />Ebay<NODE id="559" /> nach <NODE id="565" />US<NODE id="567" />-Börsenschluss am <NODE id="585" />Mittwoch<NODE id="593" /> mitteilte. Das Vorjahresquartal war das letzte vor der Abspaltung des Bezahldienstes <NODE id="679" />Paypal<NODE id="685" />.
+<NODE id="687" />Ebay<NODE id="691" /> kündigte ein zusätzliches Aktienrückkauf-Programm mit einem Volumen von <NODE id="764" />2,5 Milliarden Dollar<NODE id="785" /> an. Für das gesamte Jahr rechnet <NODE id="819" />Ebay<NODE id="823" /> mit einem Umsatz zwischen <NODE id="850" />8,85<NODE id="854" /> und <NODE id="859" />8,95 Milliarden Dollar<NODE id="881" />, was einem Zuwachs von <NODE id="905" />6<NODE id="906" /> bis <NODE id="911" />7 Prozent<NODE id="920" /> bei gleichbleibenden Währungskurs
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://Ariva.de/news/ebay-erfreut-investoren-mit-quartalsbericht-5819642@2016-07-20T22:47:49.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-20T20:47:49Z" />
+<feature featureName="indexDate" featureValue="2016-07-21T04:07:46.118Z" />
+<feature featureName="uri" featureValue="http://Ariva.de/news/ebay-erfreut-investoren-mit-quartalsbericht-5819642" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="organization-company" surface="Ebay" />
+<Entity id="1" startPos="44" endPos="64" type="date" surface="Mittwoch, 20.07.2016" />
+<Entity id="2" startPos="65" endPos="70" type="date" surface="22:47" />
+<Entity id="3" startPos="75" endPos="82" type="organization-company" surface="dpa-AFX" />
+<Entity id="4" startPos="86" endPos="94" type="location-city" surface="SAN JOSE" />
+<Entity id="5" startPos="96" endPos="103" type="organization-company" surface="dpa-AFX" />
+<Entity id="6" startPos="128" endPos="132" type="organization-company" surface="Ebay" />
+<Entity id="7" startPos="275" endPos="281" type="number" surface="ersten" />
+<Entity id="8" startPos="311" endPos="326" type="number" surface="zweiten Quartal" />
+<Entity id="9" startPos="335" endPos="348" type="number" surface="sechs Prozent" />
+<Entity id="10" startPos="353" endPos="357" type="organization-company" surface="Ebay" />
+<Entity id="11" startPos="409" endPos="422" type="number" surface="sechs Prozent" />
+<Entity id="12" startPos="427" endPos="449" type="number" surface="2,23 Milliarden Dollar" />
+<Entity id="13" startPos="503" endPos="506" type="number" surface="430" />
+<Entity id="14" startPos="511" endPos="531" type="number" surface="437 Millionen Dollar" />
+<Entity id="15" startPos="555" endPos="559" type="organization-company" surface="Ebay" />
+<Entity id="16" startPos="565" endPos="567" type="location" surface="US" />
+<Entity id="17" startPos="585" endPos="593" type="date" surface="Mittwoch" />
+<Entity id="18" startPos="679" endPos="685" type="organization-company" surface="Paypal" />
+<Entity id="19" startPos="687" endPos="691" type="organization-company" surface="Ebay" />
+<Entity id="20" startPos="764" endPos="785" type="number" surface="2,5 Milliarden Dollar" />
+<Entity id="21" startPos="819" endPos="823" type="organization-company" surface="Ebay" />
+<Entity id="22" startPos="850" endPos="854" type="number" surface="8,85" />
+<Entity id="23" startPos="859" endPos="881" type="number" surface="8,95 Milliarden Dollar" />
+<Entity id="24" startPos="905" endPos="906" type="number" surface="6" />
+<Entity id="25" startPos="911" endPos="920" type="number" surface="7 Prozent" /></Entities><Relations />
+</Document>

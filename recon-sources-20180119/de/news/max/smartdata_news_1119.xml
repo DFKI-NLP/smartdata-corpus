@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Layer Haus AG<NODE id="13" /> und <NODE id="18" />Layer Wohnen Bauträger GmbH &amp; Co. KG<NODE id="54" />:
+connektar.de Presseverteiler, <NODE id="86" />16. Februar 2016<NODE id="102" />
+Zufriedene Bauherren wirkungsvollste Erfolgsfaktoren des Unternehmens
+<NODE id="173" />Schwabmünchen<NODE id="186" />/<NODE id="187" />Meerbusch<NODE id="196" />. Die <NODE id="202" />Layer Haus AG <NODE id="216" />und <NODE id="220" />Layer Wohnen Bauträger GmbH<NODE id="247" /> mit Sitz in <NODE id="260" />Schwabmünchen<NODE id="273" /> sind in mehreren Geschäftsfeldern im Baubetreuungs- und Bauträgerbereich, sowohl im Einfamilienhaus- wie im Mehrfamilienhaus-/Geschosswohnungsbau tätig.
+Regionale Schwerpunkte sind neben <NODE id="461" />Schwabmünchen<NODE id="474" /> und <NODE id="479" />München<NODE id="486" /> Regionen um <NODE id="499" />Augsburg<NODE id="507" />, <NODE id="509" />Ingolstadt<NODE id="519" />, <NODE id="521" />Neuburg a.d. Donau<NODE id="539" />, <NODE id="541" />Mittenwald<NODE id="551" />. Konkrete Projekte gibt es aktuell u.a. auch in <NODE id="600" />Bad Füssen<NODE id="610" />, <NODE id="612" />Baldham<NODE id="619" />, <NODE id="621" />Biberach<NODE id="629" />, <NODE id="631" />Bobingen<NODE id="639" />, <NODE id="641" />Dachau<NODE id="647" />, <NODE id="649" />Donauwörth<NODE id="659" />, <NODE id="661" />Garmisch-Partenkirchen<NODE id="683" />, <NODE id="685" />Fischbach<NODE id="694" />, <NODE id="696" />Ingolstadt<NODE id="706" />, <NODE id="708" />Ismaning<NODE id="716" />, <NODE id="718" />Krumbach<NODE id="726" />, <NODE id="728" />Königsbrunn<NODE id="739" />, <NODE id="741" />Neufahrn<NODE id="749" />, <NODE id="751" />Oberhaching<NODE id="762" />, <NODE id="764" />Tutzing<NODE id="771" />, <NODE id="773" />Rohrbach<NODE id="781" /> und <NODE id="786" />Unterschleißheim<NODE id="802" />.
+Im Kunden-orientiert aufgestellten Unternehmen können sich die Bauherren jederzeit auf ein erfahrenes Team von Mitarbeitern und aus den Regionen stammen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.businessportal24.com/de/layer-haus-ag-und-layer-wohnen-bautraeger-gmbh-co-kg.html@2016-02-16T17:04:13.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-16T16:04:13Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:43:51.931Z" />
+<feature featureName="uri" featureValue="http://www.businessportal24.com/de/layer-haus-ag-und-layer-wohnen-bautraeger-gmbh-co-kg.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="organization-company" surface="Layer Haus AG" />
+<Entity id="1" startPos="18" endPos="54" type="organization-company" surface="Layer Wohnen Bauträger GmbH &amp; Co. KG" />
+<Entity id="2" startPos="86" endPos="102" type="date" surface="16. Februar 2016" />
+<Entity id="3" startPos="173" endPos="186" type="location-city" surface="Schwabmünchen" />
+<Entity id="4" startPos="187" endPos="196" type="location-city" surface="Meerbusch" />
+<Entity id="5" startPos="202" endPos="216" type="organization-company" surface="Layer Haus AG " />
+<Entity id="6" startPos="220" endPos="247" type="organization-company" surface="Layer Wohnen Bauträger GmbH" />
+<Entity id="7" startPos="260" endPos="273" type="location-city" surface="Schwabmünchen" />
+<Entity id="8" startPos="461" endPos="474" type="location-city" surface="Schwabmünchen" />
+<Entity id="9" startPos="479" endPos="486" type="location-city" surface="München" />
+<Entity id="10" startPos="499" endPos="507" type="location-city" surface="Augsburg" />
+<Entity id="11" startPos="509" endPos="519" type="location-city" surface="Ingolstadt" />
+<Entity id="12" startPos="521" endPos="539" type="location-city" surface="Neuburg a.d. Donau" />
+<Entity id="13" startPos="541" endPos="551" type="location-city" surface="Mittenwald" />
+<Entity id="14" startPos="600" endPos="610" type="location-city" surface="Bad Füssen" />
+<Entity id="15" startPos="612" endPos="619" type="location-city" surface="Baldham" />
+<Entity id="16" startPos="621" endPos="629" type="location-city" surface="Biberach" />
+<Entity id="17" startPos="631" endPos="639" type="location-city" surface="Bobingen" />
+<Entity id="18" startPos="641" endPos="647" type="location-city" surface="Dachau" />
+<Entity id="19" startPos="649" endPos="659" type="location-city" surface="Donauwörth" />
+<Entity id="20" startPos="661" endPos="683" type="location-city" surface="Garmisch-Partenkirchen" />
+<Entity id="21" startPos="685" endPos="694" type="location-city" surface="Fischbach" />
+<Entity id="22" startPos="696" endPos="706" type="location-city" surface="Ingolstadt" />
+<Entity id="23" startPos="708" endPos="716" type="location-city" surface="Ismaning" />
+<Entity id="24" startPos="718" endPos="726" type="location-city" surface="Krumbach" />
+<Entity id="25" startPos="728" endPos="739" type="location-city" surface="Königsbrunn" />
+<Entity id="26" startPos="741" endPos="749" type="location-city" surface="Neufahrn" />
+<Entity id="27" startPos="751" endPos="762" type="location-city" surface="Oberhaching" />
+<Entity id="28" startPos="764" endPos="771" type="location-city" surface="Tutzing" />
+<Entity id="29" startPos="773" endPos="781" type="location-city" surface="Rohrbach" />
+<Entity id="30" startPos="786" endPos="802" type="location-city" surface="Unterschleißheim" /></Entities><Relations />
+</Document>

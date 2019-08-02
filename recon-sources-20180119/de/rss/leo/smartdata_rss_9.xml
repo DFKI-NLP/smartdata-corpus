@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Im <NODE id="3" />Kreis Helmstedt<NODE id="18" /> ist die <NODE id="27" />Landesstraße<NODE id="39" /> zwischen <NODE id="49" />Neindorf<NODE id="57" /> und <NODE id="62" />Rhode<NODE id="67" /> nach einem <NODE id="79" />Unfall<NODE id="85" /> in beiden Richtungen <NODE id="107" />gesperrt<NODE id="115" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#31@2016-02-27T21:26:57.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="18" type="location" surface="Kreis Helmstedt" />
+<Entity id="1" startPos="27" endPos="39" type="location-street" surface="Landesstraße" />
+<Entity id="2" startPos="49" endPos="57" type="location-city" surface="Neindorf" />
+<Entity id="3" startPos="62" endPos="67" type="location-city" surface="Rhode" />
+<Entity id="4" startPos="79" endPos="85" type="trigger" surface="Unfall" />
+<Entity id="5" startPos="107" endPos="115" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="start_loc" />
+<Entity id="4" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

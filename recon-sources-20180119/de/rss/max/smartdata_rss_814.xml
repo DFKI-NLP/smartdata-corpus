@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Fahrplantabelle geändert
+von <NODE id="29" />Samstag, 27. Februar<NODE id="49" />, <NODE id="51" />1.10 Uhr<NODE id="59" /> bis <NODE id="64" />Montag, 29. Februar<NODE id="83" />, <NODE id="85" />4.40 Uhr<NODE id="93" />
+Meldung:
+ Die meisten <NODE id="116" />IC-Züge<NODE id="123" /> beginnen/enden in <NODE id="142" />Horb<NODE id="146" /> und <NODE id="151" />fallen<NODE id="157" /> zwischen <NODE id="167" />Stuttgart Hbf <NODE id="181" />und <NODE id="185" />Horb<NODE id="189" /> <NODE id="190" />aus<NODE id="193" />. Als Ersatz nutzen Sie bitte die Busse zwischen <NODE id="242" />Stuttgart Hbf<NODE id="255" /> und <NODE id="260" />Horb<NODE id="264" />.
+ Einige <NODE id="274" />IC-Züge<NODE id="281" /> beginnen/enden in <NODE id="300" />Singen (Hohentwiel)<NODE id="319" /> und <NODE id="324" />fallen<NODE id="330" /> zwischen <NODE id="340" />Stuttgart Hbf <NODE id="354" />und <NODE id="358" />Singen (Hohentwiel)<NODE id="377" /> <NODE id="378" />aus<NODE id="381" />.
+Hinweise: 
+ Die Fahrplantabelle finden Sie in diesem PDF-Dokument
+Grund:
+Brückenbauarbeiten <NODE id="475" />Böblingen<NODE id="484" /> – <NODE id="487" />Gärtringen<NODE id="497" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="567" />79<NODE id="569" /> kB)
+Sonderinformation zu dieser Meldung:
+Fahrplan (<NODE id="621" />Stuttgart Hbf<NODE id="634" /> – <NODE id="637" />Rottweil<NODE id="645" />), <NODE id="648" />20.02.<NODE id="654" /> – <NODE id="657" />28.02.2016<NODE id="667" /> (<NODE id="669" />546<NODE id="672" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_87-Stuttgart-Singen-Schaffhausen-Zuerich/44#0f1bd4c21eecea220742053a0234b728b40a5817@2016-02-29T01:19:27.853+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-29T00:19:27.853Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:27:14.483Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_87-Stuttgart-Singen-Schaffhausen-Zuerich/44#0f1bd4c21eecea220742053a0234b728b40a5817" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="29" endPos="49" type="date" surface="Samstag, 27. Februar" />
+<Entity id="1" startPos="51" endPos="59" type="time" surface="1.10 Uhr" />
+<Entity id="2" startPos="64" endPos="83" type="date" surface="Montag, 29. Februar" />
+<Entity id="3" startPos="85" endPos="93" type="time" surface="4.40 Uhr" />
+<Entity id="4" startPos="116" endPos="123" type="location-route" surface="IC-Züge" />
+<Entity id="5" startPos="142" endPos="146" type="location-stop" surface="Horb" />
+<Entity id="6" startPos="151" endPos="157" type="trigger" surface="fallen" />
+<Entity id="7" startPos="167" endPos="181" type="location-stop" surface="Stuttgart Hbf " />
+<Entity id="8" startPos="185" endPos="189" type="location-stop" surface="Horb" />
+<Entity id="9" startPos="190" endPos="193" type="trigger" surface="aus" />
+<Entity id="10" startPos="242" endPos="255" type="location-stop" surface="Stuttgart Hbf" />
+<Entity id="11" startPos="260" endPos="264" type="location-stop" surface="Horb" />
+<Entity id="12" startPos="274" endPos="281" type="location-route" surface="IC-Züge" />
+<Entity id="13" startPos="300" endPos="319" type="location-stop" surface="Singen (Hohentwiel)" />
+<Entity id="14" startPos="324" endPos="330" type="trigger" surface="fallen" />
+<Entity id="15" startPos="340" endPos="354" type="location-stop" surface="Stuttgart Hbf " />
+<Entity id="16" startPos="358" endPos="377" type="location-stop" surface="Singen (Hohentwiel)" />
+<Entity id="17" startPos="378" endPos="381" type="trigger" surface="aus" />
+<Entity id="18" startPos="475" endPos="484" type="location-stop" surface="Böblingen" />
+<Entity id="19" startPos="487" endPos="497" type="location-stop" surface="Gärtringen" />
+<Entity id="20" startPos="567" endPos="569" type="number" surface="79" />
+<Entity id="21" startPos="621" endPos="634" type="location-stop" surface="Stuttgart Hbf" />
+<Entity id="22" startPos="637" endPos="645" type="location-stop" surface="Rottweil" />
+<Entity id="23" startPos="648" endPos="654" type="date" surface="20.02." />
+<Entity id="24" startPos="657" endPos="667" type="date" surface="28.02.2016" />
+<Entity id="25" startPos="669" endPos="672" type="number" surface="546" /></Entities><Relations>
+<Relation id="26" NAME="CanceledRoute">
+<Entity id="8" label="end_loc" />
+<Entity id="7" label="start_loc" />
+<Entity id="4" label="location" />
+<Entity id="9" label="trigger" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="27" NAME="CanceledRoute">
+<Entity id="16" label="end_loc" />
+<Entity id="15" label="start_loc" />
+<Entity id="12" label="location" />
+<Entity id="14" label="trigger" />
+<Entity id="17" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>von <NODE id="4" />Sonntag, 1. Mai<NODE id="19" />, <NODE id="21" />16.00 Uhr<NODE id="30" /> bis <NODE id="35" />Mittwoch, 18. Mai<NODE id="52" />, <NODE id="54" />5.00 Uhr<NODE id="62" />
+Meldung:
+Mehrere <NODE id="80" />ICE-Züge<NODE id="88" /> <NODE id="89" />verspäten<NODE id="98" /> sich von <NODE id="108" />Hamburg-Harburg<NODE id="123" /> bis <NODE id="128" />Hamburg-Altona<NODE id="142" /> um bis zu <NODE id="153" />10 Min.<NODE id="160" />
+Grund:
+Schwellenauswechslung <NODE id="190" />Hannover Hbf<NODE id="202" /> – <NODE id="205" />Celle<NODE id="210" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="280" />83<NODE id="282" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_22-Kiel-Hamburg-Hannover-Kassel-Fulda-Frankfurt_M-Mannheim-Stuttgart/9#bbe78b1caf6e7bdf70a4d939d8e800ee2b0e342b@2016-02-18T13:35:03.411+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-18T12:35:03.411Z" />
+<feature featureName="indexDate" featureValue="2016-03-18T15:27:43.781Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_22-Kiel-Hamburg-Hannover-Kassel-Fulda-Frankfurt_M-Mannheim-Stuttgart/9#bbe78b1caf6e7bdf70a4d939d8e800ee2b0e342b" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="19" type="date" surface="Sonntag, 1. Mai" />
+<Entity id="1" startPos="21" endPos="30" type="time" surface="16.00 Uhr" />
+<Entity id="2" startPos="35" endPos="52" type="date" surface="Mittwoch, 18. Mai" />
+<Entity id="3" startPos="54" endPos="62" type="time" surface="5.00 Uhr" />
+<Entity id="4" startPos="80" endPos="88" type="location-route" surface="ICE-Züge" />
+<Entity id="5" startPos="89" endPos="98" type="trigger" surface="verspäten" />
+<Entity id="6" startPos="108" endPos="123" type="location-stop" surface="Hamburg-Harburg" />
+<Entity id="7" startPos="128" endPos="142" type="location-stop" surface="Hamburg-Altona" />
+<Entity id="8" startPos="153" endPos="160" type="duration" surface="10 Min." />
+<Entity id="9" startPos="190" endPos="202" type="location-stop" surface="Hannover Hbf" />
+<Entity id="10" startPos="205" endPos="210" type="location-stop" surface="Celle" />
+<Entity id="11" startPos="280" endPos="282" type="number" surface="83" /></Entities><Relations>
+<Relation id="12" NAME="Delay">
+<Entity id="8" label="delay" />
+<Entity id="7" label="end_loc" />
+<Entity id="6" label="start_loc" />
+<Entity id="4" label="location" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

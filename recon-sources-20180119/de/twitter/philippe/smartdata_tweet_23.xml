@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Die Familie des getöteten Jungen Elias empört sich über den Potsdamer <NODE id="89" />Pegida<NODE id="95" />-Ableger https://t.co/dzLSOiBjlV
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="695590757462368256" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="89" endPos="95" type="organization" surface="Pegida" /></Entities><Relations />
+</Document>

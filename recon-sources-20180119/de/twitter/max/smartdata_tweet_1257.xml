@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Verbrennungen nach Konzert-Unfall: <NODE id="35" />Andrea Berg<NODE id="46" /> spricht mit feuerspeiendem Drachen #<NODE id="83" />Munchen<NODE id="90" /> https://t.co/t6hfLYjXTj
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755105307852992516" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T18:21:49Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T18:21:54.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2545729255/status/755105307852992516" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="35" endPos="46" type="person" surface="Andrea Berg" />
+<Entity id="1" startPos="83" endPos="90" type="location-city" surface="Munchen" /></Entities><Relations />
+</Document>

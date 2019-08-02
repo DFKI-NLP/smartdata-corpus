@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht auf der <NODE id="17" />A7<NODE id="19" /> <NODE id="20" />Ulm<NODE id="23" /> Richtung <NODE id="33" />Füssen<NODE id="39" /> in Höhe <NODE id="48" />Bad Grönenbach<NODE id="62" /> steht ein defekter LKW!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#9@2016-03-11T07:36:38.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T06:36:38Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T06:36:59.777Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="19" type="location-street" surface="A7" />
+<Entity id="1" startPos="20" endPos="23" type="location-city" surface="Ulm" />
+<Entity id="2" startPos="33" endPos="39" type="location-city" surface="Füssen" />
+<Entity id="3" startPos="48" endPos="62" type="location-city" surface="Bad Grönenbach" /></Entities><Relations />
+</Document>

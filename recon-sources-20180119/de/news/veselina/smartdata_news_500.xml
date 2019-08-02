@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />1 von 4<NODE id="7" />
+<NODE id="8" />1 von 4<NODE id="15" />
+<NODE id="16" />Neumünster<NODE id="26" /> |<NODE id="28" /> <NODE id="29" />Die Aufregung im <NODE id="46" />Hause Seidenberg<NODE id="62" /> war groß: Im September war ein Kamerateam des Fernsehsenders <NODE id="124" />RTL2<NODE id="128" /> bei der <NODE id="137" />Neumünsteraner<NODE id="151" /> Familie zu Gast , um eine Folge für die Sendung „Zuhause im Glück – unser Einzug in ein neues Leben“ zu drehen.<NODE id="263" /> <NODE id="264" />Jetzt wurde die Episode ausgestrahlt.<NODE id="301" /> <NODE id="302" />Die Seidenbergs<NODE id="317" /> selbst hatten die Folge vorab noch nicht gesehen.<NODE id="367" /> <NODE id="368" />„Wir sind völlig unbedarft und wissen nicht, was kommt“, sagte <NODE id="431" />Britta Seidenberg<NODE id="448" /> .<NODE id="450" /> <NODE id="451" />Die Familie hatte einen Raum im <NODE id="483" />Restaurant Pagoni<NODE id="500" /> gemietet, um sich die Sendung gemeinsam mit Freunden per Beamer auf einer großen Leinwand anzusehen.<NODE id="601" />
+<NODE id="602" />Doch dann kommt alles anders als gedacht: Dienstagabend, 20 Uhr.<NODE id="666" /> <NODE id="667" />Der Fernseher streikt.<NODE id="689" /> <NODE id="690" />Erwartungsvoll sitzen Freunde, Verwandte und die fünfköpfige Familie im Restaurant.<NODE id="773" /> <NODE id="774" />30 Leute, zwischen fünf und 50 Jahren, blicken gespannt auf die Mattscheibe, doch die zeigt sich von ihrer dunklen Seite.<NODE id="895" /> <NODE id="896" />Statt bunter Bilder, reines Schwarz.<NODE id="932" /> <NODE id="933" />Und das bereits seit 20 M<NODE id="958" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.shz.de/lokales/holsteinischer-courier/die-seidenbergs-aus-neumuenster-im-glueck-id12289796.html@2016-03-10T12:40:49.793+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:40:49.793Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:40:53.318Z" />
+<feature featureName="uri" featureValue="http://www.shz.de/lokales/holsteinischer-courier/die-seidenbergs-aus-neumuenster-im-glueck-id12289796.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="sentence" surface="1 von 4" />
+<Entity id="1" startPos="8" endPos="15" type="sentence" surface="1 von 4" />
+<Entity id="2" startPos="16" endPos="26" type="location-city" surface="Neumünster" />
+<Entity id="3" startPos="16" endPos="28" type="sentence" surface="Neumünster |" />
+<Entity id="4" startPos="29" endPos="263" type="sentence" surface="Die Aufregung im Hause Seidenberg war groß: Im September war ein Kamerateam des Fernsehsenders RTL2 bei der Neumünsteraner Familie zu Gast , um eine Folge für die Sendung „Zuhause im Glück – unser Einzug in ein neues Leben“ zu drehen." />
+<Entity id="5" startPos="46" endPos="62" type="person" surface="Hause Seidenberg" />
+<Entity id="6" startPos="124" endPos="128" type="organization-company" surface="RTL2" />
+<Entity id="7" startPos="137" endPos="151" type="location-city" surface="Neumünsteraner" />
+<Entity id="8" startPos="264" endPos="301" type="sentence" surface="Jetzt wurde die Episode ausgestrahlt." />
+<Entity id="9" startPos="302" endPos="317" type="person" surface="Die Seidenbergs" />
+<Entity id="10" startPos="302" endPos="367" type="sentence" surface="Die Seidenbergs selbst hatten die Folge vorab noch nicht gesehen." />
+<Entity id="11" startPos="368" endPos="450" type="sentence" surface="„Wir sind völlig unbedarft und wissen nicht, was kommt“, sagte Britta Seidenberg ." />
+<Entity id="12" startPos="431" endPos="448" type="person" surface="Britta Seidenberg" />
+<Entity id="13" startPos="451" endPos="601" type="sentence" surface="Die Familie hatte einen Raum im Restaurant Pagoni gemietet, um sich die Sendung gemeinsam mit Freunden per Beamer auf einer großen Leinwand anzusehen." />
+<Entity id="14" startPos="483" endPos="500" type="organization-company" surface="Restaurant Pagoni" />
+<Entity id="15" startPos="602" endPos="666" type="sentence" surface="Doch dann kommt alles anders als gedacht: Dienstagabend, 20 Uhr." />
+<Entity id="16" startPos="667" endPos="689" type="sentence" surface="Der Fernseher streikt." />
+<Entity id="17" startPos="690" endPos="773" type="sentence" surface="Erwartungsvoll sitzen Freunde, Verwandte und die fünfköpfige Familie im Restaurant." />
+<Entity id="18" startPos="774" endPos="895" type="sentence" surface="30 Leute, zwischen fünf und 50 Jahren, blicken gespannt auf die Mattscheibe, doch die zeigt sich von ihrer dunklen Seite." />
+<Entity id="19" startPos="896" endPos="932" type="sentence" surface="Statt bunter Bilder, reines Schwarz." />
+<Entity id="20" startPos="933" endPos="958" type="sentence" surface="Und das bereits seit 20 M" /></Entities><Relations />
+</Document>

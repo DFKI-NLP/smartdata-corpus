@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Twittern
+Foto: dpa
+<NODE id="19" />Stuttgart<NODE id="28" /> (dpa/lsw) - Über Projekte am Arbeitsplatz will das <NODE id="80" />Land<NODE id="84" /> mehr Analphabeten aus der Isolation helfen. Rund <NODE id="134" />57 Prozent<NODE id="144" /> der etwa <NODE id="154" />eine Million<NODE id="166" /> Analphabeten in <NODE id="183" />Baden-Württemberg<NODE id="200" /> seien erwerbstätig, betonte Kultus-Staatssekretärin <NODE id="253" />Marion von Wartenberg<NODE id="274" /> (<NODE id="276" />SPD<NODE id="279" />) am <NODE id="284" />Freitag<NODE id="291" /> in <NODE id="295" />Stuttgart<NODE id="304" />.
+Diese sollten gezielt mit einer Kampagne erreicht und ermutigt werden, besser Schreiben und Lesen zu können. <NODE id="415" />1,2 Millionen Euro<NODE id="433" /> aus Mitteln des Europäischen Sozialfonds (ESF) stünden bis <NODE id="493" />2018<NODE id="497" /> <NODE id="498" />landesweit<NODE id="508" /> für Angebote von <NODE id="526" />zwölf<NODE id="531" /> Trägern zur Verfügung.
+Das Projekt «Arobi - Arbeitsplatzorientierte Grundbildung» der <NODE id="618" />Volkshochschule Stuttgart<NODE id="643" /> soll helfen, dass sich die Betroffenen für Grundbildungskurse öffnen. Direkt nach der Schule sei es schwer, die jungen Menschen zu erreichen, da viele nach schlechten Erfahrungen alles Schulische strikt ablehnten. Die Hoffnung liege nun beim Weg über den Arbeitsplatz. Dazu wolle man die Unternehm
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/regionales/baden-wuerttemberg/article150770480/Kurse-am-Arbeitsplatz.html@2016-03-10T15:40:06.929+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.welt.de/regionales/baden-wuerttemberg/article150770480/Kurse-am-Arbeitsplatz.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="28" type="location-city" surface="Stuttgart" />
+<Entity id="1" startPos="80" endPos="84" type="location" surface="Land" />
+<Entity id="2" startPos="134" endPos="144" type="number" surface="57 Prozent" />
+<Entity id="3" startPos="154" endPos="166" type="number" surface="eine Million" />
+<Entity id="4" startPos="183" endPos="200" type="location" surface="Baden-Württemberg" />
+<Entity id="5" startPos="253" endPos="274" type="person" surface="Marion von Wartenberg" />
+<Entity id="6" startPos="276" endPos="279" type="organization" surface="SPD" />
+<Entity id="7" startPos="284" endPos="291" type="date" surface="Freitag" />
+<Entity id="8" startPos="295" endPos="304" type="location-city" surface="Stuttgart" />
+<Entity id="9" startPos="415" endPos="433" type="number" surface="1,2 Millionen Euro" />
+<Entity id="10" startPos="493" endPos="497" type="date" surface="2018" />
+<Entity id="11" startPos="498" endPos="508" type="location" surface="landesweit" />
+<Entity id="12" startPos="526" endPos="531" type="number" surface="zwölf" />
+<Entity id="13" startPos="618" endPos="643" type="organization" surface="Volkshochschule Stuttgart" /></Entities><Relations />
+</Document>

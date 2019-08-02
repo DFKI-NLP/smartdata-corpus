@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Frankfurter Rundschau<NODE id="21" />: Kommentar zu Gabriels Streit mit dem OLG wegen der <NODE id="74" />Fusion<NODE id="80" /> <NODE id="81" />Tengelmann<NODE id="91" />/<NODE id="92" />Edeka<NODE id="97" />
+Erschienen am <NODE id="112" />Freitag, 22. Juli 2016<NODE id="134" /> um <NODE id="138" />14:18 Uhr - GMT<NODE id="153" />
+<NODE id="154" />Frankfurter Rundschau<NODE id="175" /> [Newsroom]<NODE id="186" />Frankfurt<NODE id="195" /> (ots) - Was Sigmar Gabriel (<NODE id="224" />SPD<NODE id="227" />) kann, kann nur Sigmar Gabriel. Zum Beispiel kann der Bundeswirtschaftsminister im Streit mit dem <NODE id="326" />Oberlandesgericht Düsseldorf<NODE id="354" /> (<NODE id="356" />OLG<NODE id="359" />) um den <NODE id="368" />Verkauf<NODE id="375" /> von <NODE id="380" />Kaiser's Tengelmann<NODE id="399" /> an <NODE id="403" />Edeka<NODE id="408" /> nichts gewinnen, aber er ... Lesen Sie hier weiter...
+Hinzugefügt von SW · abgelegt unter: Alle Agenturen , Politik  
+Kommentare
+Sie haben etwas zu sagen?
+Name (required)
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://pressenachrichten.com/nachrichten/frankfurter-rundschau-kommentar-zu-gabriels-streit-mit-dem-olg-wegen-der-fusion-tengelmannedeka-3723892/@2016-07-22T16:18:30.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-22T14:18:30Z" />
+<feature featureName="indexDate" featureValue="2016-07-22T17:17:35.382Z" />
+<feature featureName="uri" featureValue="https://pressenachrichten.com/nachrichten/frankfurter-rundschau-kommentar-zu-gabriels-streit-mit-dem-olg-wegen-der-fusion-tengelmannedeka-3723892/" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="21" type="organization-company" surface="Frankfurter Rundschau" />
+<Entity id="1" startPos="74" endPos="80" type="trigger" surface="Fusion" />
+<Entity id="2" startPos="81" endPos="91" type="organization-company" surface="Tengelmann" />
+<Entity id="3" startPos="92" endPos="97" type="organization-company" surface="Edeka" />
+<Entity id="4" startPos="112" endPos="134" type="date" surface="Freitag, 22. Juli 2016" />
+<Entity id="5" startPos="138" endPos="153" type="time" surface="14:18 Uhr - GMT" />
+<Entity id="6" startPos="154" endPos="175" type="organization-company" surface="Frankfurter Rundschau" />
+<Entity id="7" startPos="186" endPos="195" type="location-city" surface="Frankfurt" />
+<Entity id="8" startPos="224" endPos="227" type="organization" surface="SPD" />
+<Entity id="9" startPos="326" endPos="354" type="organization" surface="Oberlandesgericht Düsseldorf" />
+<Entity id="10" startPos="356" endPos="359" type="organization" surface="OLG" />
+<Entity id="11" startPos="368" endPos="375" type="trigger" surface="Verkauf" />
+<Entity id="12" startPos="380" endPos="399" type="organization-company" surface="Kaiser's Tengelmann" />
+<Entity id="13" startPos="403" endPos="408" type="organization-company" surface="Edeka" /></Entities><Relations>
+<Relation id="14" NAME="Acquisition">
+<Entity id="11" label="trigger" />
+<Entity id="12" label="acquired" />
+<Entity id="13" label="buyer" />
+</Relation>
+<Relation id="15" NAME="Merger">
+<Entity id="2" label="old" />
+<Entity id="3" label="old" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

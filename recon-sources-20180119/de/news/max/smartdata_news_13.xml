@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Zurück zur Übersicht
+Sitten: Annahme der <NODE id="41" />Gommer<NODE id="47" /> Fusion
+<NODE id="55" />Vier<NODE id="59" /> der <NODE id="64" />fünf<NODE id="68" /> Präsidenten der fusionierenden Gemeinden im <NODE id="113" />Goms<NODE id="117" /> wohnten der Abstimmung im Parlament in <NODE id="157" />Sitten<NODE id="163" /> bei. Quelle: rro
+Das Parlament stimmte dem Gesetz zur Fusion der <NODE id="229" />fünf<NODE id="233" /> <NODE id="234" />Gommer<NODE id="240" /> Gemeinden mit grosser Mehrheit zu. <NODE id="276" />Vier<NODE id="280" /> Gemeindepräsidenten wohnten der Abstimmung bei.
+<NODE id="329" />09.03.2016<NODE id="339" />, <NODE id="341" />11:29<NODE id="346" />
+Am <NODE id="350" />14. Juni 2015<NODE id="363" /> stimmte die Bevölkerung der Gemeinden <NODE id="402" />Blitzingen<NODE id="412" />, <NODE id="414" />Grafschaft<NODE id="424" />, <NODE id="426" />Münster-Geschinen<NODE id="443" />, <NODE id="445" />Niederwald<NODE id="455" /> und <NODE id="460" />Reckingen-Gluringen<NODE id="479" /> einer Fusion zu. Nach der Eintretensdebatte zu Beginn der Märzsession machte sich bemerkbar, dass es auch im Parlament kaum Widerstände gegen die Fusion der <NODE id="637" />fünf<NODE id="641" /> <NODE id="642" />Gommer<NODE id="648" /> Gemeinden gibt. Das Parlament setzte nun am <NODE id="693" />Mittwochmorgen<NODE id="707" /> einen Schlussstrich unter die Gesetzesfrage. Denn der Zusammenschluss der <NODE id="782" />fünf<NODE id="786" /> <NODE id="787" />Gommer<NODE id="793" /> Gemeinden ohne das <NODE id="813" />Obergoms<NODE id="821" /> ist nun geregelt. Mit <NODE id="844" />90<NODE id="846" /> zu <NODE id="850" />0<NODE id="851" /> Stimmen bei einer Enthaltung nahm das Parlament die Fusion an und schloss damit die Formalitäten ab. Zur Freude 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rro.ch/cms/?page=news&amp;detail=83839#pos@2016-03-09T13:49:53.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.rro.ch/cms/?page=news&amp;detail=83839#pos" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="41" endPos="47" type="location" surface="Gommer" />
+<Entity id="1" startPos="55" endPos="59" type="number" surface="Vier" />
+<Entity id="2" startPos="64" endPos="68" type="number" surface="fünf" />
+<Entity id="3" startPos="113" endPos="117" type="location" surface="Goms" />
+<Entity id="4" startPos="157" endPos="163" type="location-city" surface="Sitten" />
+<Entity id="5" startPos="229" endPos="233" type="number" surface="fünf" />
+<Entity id="6" startPos="234" endPos="240" type="location" surface="Gommer" />
+<Entity id="7" startPos="276" endPos="280" type="number" surface="Vier" />
+<Entity id="8" startPos="329" endPos="339" type="date" surface="09.03.2016" />
+<Entity id="9" startPos="341" endPos="346" type="time" surface="11:29" />
+<Entity id="10" startPos="350" endPos="363" type="date" surface="14. Juni 2015" />
+<Entity id="11" startPos="402" endPos="412" type="location-city" surface="Blitzingen" />
+<Entity id="12" startPos="414" endPos="424" type="location-city" surface="Grafschaft" />
+<Entity id="13" startPos="426" endPos="443" type="location-city" surface="Münster-Geschinen" />
+<Entity id="14" startPos="445" endPos="455" type="location-city" surface="Niederwald" />
+<Entity id="15" startPos="460" endPos="479" type="location-city" surface="Reckingen-Gluringen" />
+<Entity id="16" startPos="637" endPos="641" type="number" surface="fünf" />
+<Entity id="17" startPos="642" endPos="648" type="location" surface="Gommer" />
+<Entity id="18" startPos="693" endPos="707" type="date" surface="Mittwochmorgen" />
+<Entity id="19" startPos="782" endPos="786" type="number" surface="fünf" />
+<Entity id="20" startPos="787" endPos="793" type="location" surface="Gommer" />
+<Entity id="21" startPos="813" endPos="821" type="location" surface="Obergoms" />
+<Entity id="22" startPos="844" endPos="846" type="number" surface="90" />
+<Entity id="23" startPos="850" endPos="851" type="number" surface="0" /></Entities><Relations />
+</Document>

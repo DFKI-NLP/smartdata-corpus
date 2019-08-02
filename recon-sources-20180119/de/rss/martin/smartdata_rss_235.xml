@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Kiel<NODE id="4" />: Die <NODE id="10" />Kiellinie<NODE id="19" /> ist zwischen <NODE id="33" />Bernhard-Harms-Weg<NODE id="51" /> und <NODE id="56" />Feldstraße<NODE id="66" /> wegen eines Marathons bis <NODE id="93" />ca. 16:30 Uhr<NODE id="106" /> <NODE id="107" />gesperrt<NODE id="115" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#45@2016-02-27T12:39:03.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-27T11:39:03Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T08:11:37.591Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="location-city" surface="Kiel" />
+<Entity id="1" startPos="10" endPos="19" type="location-street" surface="Kiellinie" />
+<Entity id="2" startPos="33" endPos="51" type="location-street" surface="Bernhard-Harms-Weg" />
+<Entity id="3" startPos="56" endPos="66" type="location-street" surface="Feldstraße" />
+<Entity id="4" startPos="93" endPos="106" type="time" surface="ca. 16:30 Uhr" />
+<Entity id="5" startPos="107" endPos="115" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="4" label="end_date" />
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

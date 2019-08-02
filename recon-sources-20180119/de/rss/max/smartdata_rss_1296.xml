@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A72<NODE id="3" /> <NODE id="4" />Zwickau<NODE id="11" /> Richtung <NODE id="21" />Plauen<NODE id="27" /> zwischen <NODE id="37" />Treuen<NODE id="43" /> und <NODE id="48" />Plauen-Ost<NODE id="58" /> defekter LKW auf der rechten Fahrspur, Reifenschaden
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#67@2016-05-21T12:26:19.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-21T10:26:19Z" />
+<feature featureName="indexDate" featureValue="2016-05-21T10:28:33.964Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A72" />
+<Entity id="1" startPos="4" endPos="11" type="location-city" surface="Zwickau" />
+<Entity id="2" startPos="21" endPos="27" type="location-city" surface="Plauen" />
+<Entity id="3" startPos="37" endPos="43" type="location" surface="Treuen" />
+<Entity id="4" startPos="48" endPos="58" type="location" surface="Plauen-Ost" /></Entities><Relations />
+</Document>

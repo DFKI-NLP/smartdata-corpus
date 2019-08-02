@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Insbesondere auf folgenden Strecken besteht Gefahr durch <NODE id="57" />Hochwasser<NODE id="67" /> - auf der <NODE id="78" />A8<NODE id="80" /> <NODE id="81" />Saarlouis<NODE id="90" />- <NODE id="92" />Luxemburg<NODE id="101" /> zwischen <NODE id="111" />Merzig-Wellingen<NODE id="127" /> und <NODE id="132" />Merzig-Schwemlingen<NODE id="151" /> - auf der <NODE id="162" />A620<NODE id="166" /> <NODE id="167" />Saarlouis<NODE id="176" />- <NODE id="178" />Saarbrücken<NODE id="189" /> in Höhe <NODE id="198" />Völklingen<NODE id="208" /> - auf der <NODE id="219" />B269<NODE id="223" /> zwischen <NODE id="233" />Alsweiler<NODE id="242" /> und <NODE id="247" />Winterbach<NODE id="257" /> - auf der <NODE id="268" />L369<NODE id="272" /> zwischen <NODE id="282" />Wahlen<NODE id="288" /> und <NODE id="293" />Oppen<NODE id="298" /> - in <NODE id="304" />Landsweiler<NODE id="315" /> - in <NODE id="321" />Gehweiler<NODE id="330" /> - in <NODE id="336" />Lebach<NODE id="342" /> - in <NODE id="348" />Nalbach<NODE id="355" /> - und in <NODE id="365" />Walpershofen<NODE id="377" />Die folgenden Strecken sind bereits <NODE id="413" />gesperrt<NODE id="421" /> - die <NODE id="428" />Lebacher Straße<NODE id="443" /> in <NODE id="447" />Körprich<NODE id="455" />zwischen zwischen <NODE id="473" />Waldstraße<NODE id="483" /> und <NODE id="488" />Bahnhofstraße<NODE id="501" /> - die <NODE id="508" />L111<NODE id="512" /> zwischen <NODE id="522" />Bierbach<NODE id="530" /> und der <NODE id="539" />B423<NODE id="543" /> Richtung <NODE id="553" />Einöd<NODE id="558" />, - die <NODE id="566" />L127<NODE id="570" /> zwischen <NODE id="580" />Saarbrücken-Rußhütte<NODE id="600" /> und dem <NODE id="609" />Netzbachweiher<NODE id="623" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#43@2016-02-09T15:11:28.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-09T14:11:28Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:26:27.33Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="57" endPos="67" type="disaster-type" surface="Hochwasser" />
+<Entity id="1" startPos="78" endPos="80" type="location-street" surface="A8" />
+<Entity id="2" startPos="81" endPos="90" type="location-city" surface="Saarlouis" />
+<Entity id="3" startPos="92" endPos="101" type="location-city" surface="Luxemburg" />
+<Entity id="4" startPos="111" endPos="127" type="location" surface="Merzig-Wellingen" />
+<Entity id="5" startPos="132" endPos="151" type="location" surface="Merzig-Schwemlingen" />
+<Entity id="6" startPos="162" endPos="166" type="location-street" surface="A620" />
+<Entity id="7" startPos="167" endPos="176" type="location-city" surface="Saarlouis" />
+<Entity id="8" startPos="178" endPos="189" type="location-city" surface="Saarbrücken" />
+<Entity id="9" startPos="198" endPos="208" type="location" surface="Völklingen" />
+<Entity id="10" startPos="219" endPos="223" type="location-street" surface="B269" />
+<Entity id="11" startPos="233" endPos="242" type="location" surface="Alsweiler" />
+<Entity id="12" startPos="247" endPos="257" type="location" surface="Winterbach" />
+<Entity id="13" startPos="268" endPos="272" type="location-street" surface="L369" />
+<Entity id="14" startPos="282" endPos="288" type="location" surface="Wahlen" />
+<Entity id="15" startPos="293" endPos="298" type="location" surface="Oppen" />
+<Entity id="16" startPos="304" endPos="315" type="location" surface="Landsweiler" />
+<Entity id="17" startPos="321" endPos="330" type="location" surface="Gehweiler" />
+<Entity id="18" startPos="336" endPos="342" type="location" surface="Lebach" />
+<Entity id="19" startPos="348" endPos="355" type="location" surface="Nalbach" />
+<Entity id="20" startPos="365" endPos="377" type="location" surface="Walpershofen" />
+<Entity id="21" startPos="413" endPos="421" type="trigger" surface="gesperrt" />
+<Entity id="22" startPos="428" endPos="443" type="location-street" surface="Lebacher Straße" />
+<Entity id="23" startPos="447" endPos="455" type="location-city" surface="Körprich" />
+<Entity id="24" startPos="473" endPos="483" type="location-street" surface="Waldstraße" />
+<Entity id="25" startPos="488" endPos="501" type="location-street" surface="Bahnhofstraße" />
+<Entity id="26" startPos="508" endPos="512" type="location-street" surface="L111" />
+<Entity id="27" startPos="522" endPos="530" type="location" surface="Bierbach" />
+<Entity id="28" startPos="539" endPos="543" type="location-street" surface="B423" />
+<Entity id="29" startPos="553" endPos="558" type="location" surface="Einöd" />
+<Entity id="30" startPos="566" endPos="570" type="location-street" surface="L127" />
+<Entity id="31" startPos="580" endPos="600" type="location" surface="Saarbrücken-Rußhütte" />
+<Entity id="32" startPos="609" endPos="623" type="location" surface="Netzbachweiher" /></Entities><Relations>
+<Relation id="33" NAME="Obstruction">
+<Entity id="28" label="end_loc" />
+<Entity id="27" label="start_loc" />
+<Entity id="26" label="location" />
+<Entity id="21" label="trigger" />
+<Entity id="29" label="direction" />
+</Relation>
+<Relation id="34" NAME="Obstruction">
+<Entity id="25" label="end_loc" />
+<Entity id="24" label="start_loc" />
+<Entity id="22" label="location" />
+<Entity id="21" label="trigger" />
+</Relation>
+<Relation id="35" NAME="Obstruction">
+<Entity id="32" label="end_loc" />
+<Entity id="31" label="start_loc" />
+<Entity id="30" label="location" />
+<Entity id="21" label="trigger" />
+</Relation></Relations>
+</Document>

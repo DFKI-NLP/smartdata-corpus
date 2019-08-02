@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Vorsicht<NODE id="8" /> bitte in <NODE id="18" />beiden Richtungen<NODE id="35" /> auf der <NODE id="44" />A20<NODE id="47" /> <NODE id="48" />Lübeck<NODE id="54" /> - <NODE id="57" />Rostock<NODE id="64" /> zwischen <NODE id="74" />Grevesmühlen<NODE id="86" /> und <NODE id="91" />Rastplatz Bretthäger Wisch<NODE id="117" /> laufen <NODE id="125" />Tiere<NODE id="130" />!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#0@2016-02-18T11:43:07.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-18T10:43:07Z" />
+<feature featureName="indexDate" featureValue="2016-03-18T15:17:52.276Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="trigger" surface="Vorsicht" />
+<Entity id="1" startPos="18" endPos="35" type="location" surface="beiden Richtungen" />
+<Entity id="2" startPos="44" endPos="47" type="location-street" surface="A20" />
+<Entity id="3" startPos="48" endPos="54" type="location-city" surface="Lübeck" />
+<Entity id="4" startPos="57" endPos="64" type="location-city" surface="Rostock" />
+<Entity id="5" startPos="74" endPos="86" type="location" surface="Grevesmühlen" />
+<Entity id="6" startPos="91" endPos="117" type="location" surface="Rastplatz Bretthäger Wisch" />
+<Entity id="7" startPos="125" endPos="130" type="trigger" surface="Tiere" /></Entities><Relations>
+<Relation id="8" NAME="Obstruction">
+<Entity id="6" label="end_loc" />
+<Entity id="7" label="cause" />
+<Entity id="5" label="start_loc" />
+<Entity id="2" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="1" label="direction" />
+</Relation></Relations>
+</Document>

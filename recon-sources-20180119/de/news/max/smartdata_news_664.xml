@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>vom <NODE id="4" />12.11.2015<NODE id="14" /> <NODE id="15" />18:26<NODE id="20" />
+<NODE id="21" />Lufthansa<NODE id="30" />-<NODE id="31" />Flugbegleiter<NODE id="44" /> ziehen <NODE id="52" />Streik<NODE id="58" /> bis <NODE id="63" />Freitagnacht<NODE id="75" /> durch
+Die <NODE id="86" />Flugbegleiter<NODE id="99" /> der <NODE id="104" />Lufthansa<NODE id="113" /> ziehen ihren <NODE id="127" />Rekordstreik<NODE id="139" /> wie geplant bis zum Betriebsschluss am <NODE id="179" />Freitag<NODE id="186" /> durch. Er sehe nach der unnachgiebigen Haltung der <NODE id="238" />Lufthansa<NODE id="247" /> keinen Anlass, den <NODE id="267" />Streik<NODE id="273" /> jetzt noch abzubrechen, erklärte der <NODE id="311" />Chef<NODE id="315" /> der Gewerkschaft <NODE id="333" />Ufo<NODE id="336" />, <NODE id="338" />Nicoley Baublies<NODE id="354" />.
+Bei einer Kundgebung vor der <NODE id="385" />Lufthansa<NODE id="394" />-Zentrale in <NODE id="407" />Frankfurt<NODE id="416" /> werde die Gewerkschaft am <NODE id="443" />Freitag<NODE id="450" /> ihre weitere Vorgehensweise bekanntgeben. „Wenn es bei der Sprachlosigkeit bleibt, können wir nichts ausschließen“, sagte der <NODE id="577" />Ufo<NODE id="580" />-Chef.
+Erneut werden die Fluggäste in Mitleidenschaft gezogen: Das Unternehmen hat angekündigt, an diesem <NODE id="686" />Freitag<NODE id="693" /> als <NODE id="698" />siebten<NODE id="705" /> und letzten Streiktag noch einmal <NODE id="740" />941<NODE id="743" /> Flüge aus dem Programm zu nehmen, auf die <NODE id="786" />111 000<NODE id="793" /> Gäste gebucht waren. Insgesamt steigt bei rund <NODE id="841" />4700<NODE id="845" /> abgesagten Flügen damit die Zahl der vom <NODE id="887" />Streik<NODE id="893" /> betroffenen Passagiere auf rund <NODE id="926" />550 000<NODE id="933" />.
+De
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.uena.de/nachrichten/wirtschaft/4554250/lufthansa-flugbegleiter-ziehen-streik-bis-freitagnacht-durch@2016-03-10T16:17:05.179+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T15:17:05.179Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T15:17:13.484Z" />
+<feature featureName="uri" featureValue="http://www.uena.de/nachrichten/wirtschaft/4554250/lufthansa-flugbegleiter-ziehen-streik-bis-freitagnacht-durch" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="date" surface="12.11.2015" />
+<Entity id="1" startPos="15" endPos="20" type="time" surface="18:26" />
+<Entity id="2" startPos="21" endPos="30" type="organization-company" surface="Lufthansa" />
+<Entity id="3" startPos="31" endPos="44" type="person" surface="Flugbegleiter" />
+<Entity id="4" startPos="52" endPos="58" type="trigger" surface="Streik" />
+<Entity id="5" startPos="63" endPos="75" type="date" surface="Freitagnacht" />
+<Entity id="6" startPos="86" endPos="99" type="person" surface="Flugbegleiter" />
+<Entity id="7" startPos="104" endPos="113" type="organization-company" surface="Lufthansa" />
+<Entity id="8" startPos="127" endPos="139" type="trigger" surface="Rekordstreik" />
+<Entity id="9" startPos="179" endPos="186" type="date" surface="Freitag" />
+<Entity id="10" startPos="238" endPos="247" type="organization-company" surface="Lufthansa" />
+<Entity id="11" startPos="267" endPos="273" type="trigger" surface="Streik" />
+<Entity id="12" startPos="311" endPos="315" type="org-position" surface="Chef" />
+<Entity id="13" startPos="333" endPos="336" type="organization" surface="Ufo" />
+<Entity id="14" startPos="338" endPos="354" type="person" surface="Nicoley Baublies" />
+<Entity id="15" startPos="385" endPos="394" type="organization-company" surface="Lufthansa" />
+<Entity id="16" startPos="407" endPos="416" type="location-city" surface="Frankfurt" />
+<Entity id="17" startPos="443" endPos="450" type="date" surface="Freitag" />
+<Entity id="18" startPos="577" endPos="580" type="organization" surface="Ufo" />
+<Entity id="19" startPos="686" endPos="693" type="date" surface="Freitag" />
+<Entity id="20" startPos="698" endPos="705" type="number" surface="siebten" />
+<Entity id="21" startPos="740" endPos="743" type="number" surface="941" />
+<Entity id="22" startPos="786" endPos="793" type="number" surface="111 000" />
+<Entity id="23" startPos="841" endPos="845" type="number" surface="4700" />
+<Entity id="24" startPos="887" endPos="893" type="trigger" surface="Streik" />
+<Entity id="25" startPos="926" endPos="933" type="number" surface="550 000" /></Entities><Relations>
+<Relation id="26" NAME="OrganizationLeadership">
+<Entity id="14" label="person" />
+<Entity id="13" label="organization" />
+<Entity id="12" label="position" />
+</Relation>
+<Relation id="27" NAME="Strike">
+<Entity id="5" label="date" />
+<Entity id="3" label="striker" />
+<Entity id="2" label="company" />
+<Entity id="4" label="trigger" />
+</Relation>
+<Relation id="28" NAME="Strike">
+<Entity id="9" label="date" />
+<Entity id="6" label="striker" />
+<Entity id="7" label="company" />
+<Entity id="8" label="trigger" />
+</Relation>
+<Relation id="29" NAME="Strike">
+<Entity id="10" label="company" />
+<Entity id="11" label="trigger" />
+<Entity id="13" label="union" />
+</Relation></Relations>
+</Document>

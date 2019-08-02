@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>ORF.at im Überblick
+<NODE id="20" />Chinesen<NODE id="28" /> kaufen <NODE id="36" />deutschen<NODE id="45" /> Müllentsorger für <NODE id="64" />1,8 Mrd. Euro<NODE id="77" />
+In <NODE id="81" />Deutschland<NODE id="92" /> bahnt sich die erste Milliardenübernahme durch ein Unternehmen aus <NODE id="160" />China<NODE id="165" /> an. Die <NODE id="174" />chinesische<NODE id="185" /> Holding <NODE id="194" />Beijing Enterprises<NODE id="213" /> <NODE id="214" />kauft<NODE id="219" /> den Abfallkonzern <NODE id="238" />EEW Energy from Waste<NODE id="259" /> aus <NODE id="264" />Helmstedt<NODE id="273" /> für <NODE id="278" />1,438 Mrd. Euro<NODE id="293" />. Das teilte der <NODE id="310" />EEW<NODE id="313" />-<NODE id="314" />Mutterkonzern<NODE id="327" />, der <NODE id="333" />schwedische<NODE id="344" /> Investor <NODE id="354" />EQT<NODE id="357" />, heute mit.
+<NODE id="370" />EQT<NODE id="373" /> zufolge handelt es sich dabei um die bisher größte <NODE id="425" />chinesische<NODE id="436" /> Direktinvestition in ein <NODE id="462" />deutsches<NODE id="471" /> Unternehmen überhaupt. Die Kaufsumme übertrifft die bisherigen Rekorde klar.
+Einkaufstour in <NODE id="565" />Europa<NODE id="571" />
+<NODE id="572" />Chinesische<NODE id="583" /> Konzerne sind seit Jahren auf Einkaufstour in <NODE id="630" />Europa<NODE id="636" /> und haben es dabei vor allem auf <NODE id="670" />deutsche<NODE id="678" /> Technologie abgesehen. <NODE id="702" />Gestern<NODE id="709" /> hatte der Chemieriese <NODE id="732" />ChemChina<NODE id="741" /> mit der <NODE id="750" />43 Mrd. Euro<NODE id="762" /> schweren Übernahme des <NODE id="786" />Schweizer<NODE id="795" /> Saatgut- und Pflanzenschutzkonzerns <NODE id="832" />Syngenta<NODE id="840" /> für Aufsehen gesorgt.
+Allein <NODE id="870" />2015<NODE id="874" /> kauften <NODE id="883" />chinesische<NODE id="894" /> Firmen <NODE id="902" />36<NODE id="904" /> <NODE id="905" />deutsche<NODE id="913" /> Unternehmen. Oft kamen sie in B
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://orf.at/stories/2322605/@2016-02-04T13:34:46.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://orf.at/stories/2322605/" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="28" type="location" surface="Chinesen" />
+<Entity id="1" startPos="36" endPos="45" type="location" surface="deutschen" />
+<Entity id="2" startPos="64" endPos="77" type="number" surface="1,8 Mrd. Euro" />
+<Entity id="3" startPos="81" endPos="92" type="location" surface="Deutschland" />
+<Entity id="4" startPos="160" endPos="165" type="location" surface="China" />
+<Entity id="5" startPos="174" endPos="185" type="location" surface="chinesische" />
+<Entity id="6" startPos="194" endPos="213" type="organization-company" surface="Beijing Enterprises" />
+<Entity id="7" startPos="214" endPos="219" type="trigger" surface="kauft" />
+<Entity id="8" startPos="238" endPos="259" type="organization-company" surface="EEW Energy from Waste" />
+<Entity id="9" startPos="264" endPos="273" type="location-city" surface="Helmstedt" />
+<Entity id="10" startPos="278" endPos="293" type="number" surface="1,438 Mrd. Euro" />
+<Entity id="11" startPos="310" endPos="313" type="organization-company" surface="EEW" />
+<Entity id="12" startPos="314" endPos="327" type="trigger" surface="Mutterkonzern" />
+<Entity id="13" startPos="333" endPos="344" type="location" surface="schwedische" />
+<Entity id="14" startPos="354" endPos="357" type="organization-company" surface="EQT" />
+<Entity id="15" startPos="370" endPos="373" type="organization-company" surface="EQT" />
+<Entity id="16" startPos="425" endPos="436" type="location" surface="chinesische" />
+<Entity id="17" startPos="462" endPos="471" type="location" surface="deutsches" />
+<Entity id="18" startPos="565" endPos="571" type="location" surface="Europa" />
+<Entity id="19" startPos="572" endPos="583" type="location" surface="Chinesische" />
+<Entity id="20" startPos="630" endPos="636" type="location" surface="Europa" />
+<Entity id="21" startPos="670" endPos="678" type="location" surface="deutsche" />
+<Entity id="22" startPos="702" endPos="709" type="date" surface="Gestern" />
+<Entity id="23" startPos="732" endPos="741" type="organization-company" surface="ChemChina" />
+<Entity id="24" startPos="750" endPos="762" type="number" surface="43 Mrd. Euro" />
+<Entity id="25" startPos="786" endPos="795" type="location" surface="Schweizer" />
+<Entity id="26" startPos="832" endPos="840" type="organization-company" surface="Syngenta" />
+<Entity id="27" startPos="870" endPos="874" type="date" surface="2015" />
+<Entity id="28" startPos="883" endPos="894" type="location" surface="chinesische" />
+<Entity id="29" startPos="902" endPos="904" type="number" surface="36" />
+<Entity id="30" startPos="905" endPos="913" type="location" surface="deutsche" /></Entities><Relations>
+<Relation id="31" NAME="Acquisition">
+<Entity id="10" label="price" />
+<Entity id="7" label="trigger" />
+<Entity id="8" label="acquired" />
+<Entity id="6" label="buyer" />
+</Relation>
+<Relation id="32" NAME="Acquisition">
+<Entity id="22" label="date" />
+<Entity id="24" label="price" />
+<Entity id="26" label="acquired" />
+<Entity id="23" label="buyer" />
+</Relation>
+<Relation id="33" NAME="CompanyRelationship">
+<Entity id="14" label="parent" />
+<Entity id="12" label="trigger" />
+<Entity id="11" label="child" />
+</Relation></Relations>
+</Document>

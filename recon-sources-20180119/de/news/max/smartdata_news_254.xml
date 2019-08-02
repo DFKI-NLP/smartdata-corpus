@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>E-Mail
+Tornados in <NODE id="19" />Büchel<NODE id="25" /> <NODE id="26" />Syrien<NODE id="32" />-Einsatz startet <NODE id="49" />Anfang Januar<NODE id="62" />
+<NODE id="63" />Anfang Januar <NODE id="77" />starten <NODE id="85" />zwei<NODE id="89" /> Tornado-Aufklärungsjets vom Fliegerhorst in <NODE id="134" />Büchel<NODE id="140" /> in den <NODE id="148" />Syrien<NODE id="154" />-Einsatz. Etwa <NODE id="169" />20<NODE id="171" /> Soldaten aus <NODE id="185" />Büchel<NODE id="191" /> brechen schon davor in die <NODE id="219" />Türkei<NODE id="225" /> auf.
+Um das Video     abspielen zu können, benötigen Sie Javascript. Bitte aktivieren Sie dies in Ihrem Browser.
+<NODE id="339" />2:10 min<NODE id="347" /> | <NODE id="350" />Do, 10.12.2015<NODE id="364" /> | <NODE id="367" />19.30 Uhr<NODE id="376" /> | <NODE id="379" />SWR<NODE id="382" /> Fernsehen in <NODE id="396" />Rheinland-Pfalz<NODE id="411" />
+Mehr Info
+Bundeswehreinsatz gegen <NODE id="446" />IS<NODE id="448" />
+In <NODE id="452" />Büchel<NODE id="458" /> laufen die Vorbereitungen
+Am <NODE id="488" />Donnerstagmorgen<NODE id="504" /> hat ein gefährlicher Bundeswehreinsatz gegen den <NODE id="554" />IS<NODE id="556" /> in <NODE id="560" />Syrien<NODE id="566" /> begonnen. Die ersten Tornados sind in <NODE id="605" />Schleswig-Holstein<NODE id="623" /> losgeflogen. In <NODE id="640" />Büchel<NODE id="646" /> starten die Tornados ab <NODE id="671" />Januar<NODE id="677" />.
+Am <NODE id="682" />Donnerstag<NODE id="692" /> informierte das <NODE id="709" />Taktische Luftwaffengeschwader 33<NODE id="742" /> Journalisten über den Einsatz. <NODE id="774" />Zwei<NODE id="778" /> Tornados sollen von <NODE id="799" />Büchel<NODE id="805" /> aus an <NODE id="813" />Januar<NODE id="819" /> Aufklärungsflüge unternehmen. Der Kommodore des <NODE id="868" />Taktischen Luftwaffengeschwaders<NODE id="900" />, <NODE id="902" />Holger Radmann<NODE id="916" />, sagte, er werde sich gut auf
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.swr.de/landesschau-aktuell/rp/koblenz/luftwaffe-in-bpchel-informiert-ueber-tornado-einsatz-in-syrien/-/id=1642/did=16621210/nid=1642/1uh2deg/@2016-03-11T01:50:08.142+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T00:50:08.142Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T00:50:13.484Z" />
+<feature featureName="uri" featureValue="http://www.swr.de/landesschau-aktuell/rp/koblenz/luftwaffe-in-bpchel-informiert-ueber-tornado-einsatz-in-syrien/-/id=1642/did=16621210/nid=1642/1uh2deg/" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="25" type="location-city" surface="Büchel" />
+<Entity id="1" startPos="26" endPos="32" type="location" surface="Syrien" />
+<Entity id="2" startPos="49" endPos="62" type="date" surface="Anfang Januar" />
+<Entity id="3" startPos="63" endPos="77" type="date" surface="Anfang Januar " />
+<Entity id="4" startPos="85" endPos="89" type="number" surface="zwei" />
+<Entity id="5" startPos="134" endPos="140" type="location-city" surface="Büchel" />
+<Entity id="6" startPos="148" endPos="154" type="location" surface="Syrien" />
+<Entity id="7" startPos="169" endPos="171" type="number" surface="20" />
+<Entity id="8" startPos="185" endPos="191" type="location-city" surface="Büchel" />
+<Entity id="9" startPos="219" endPos="225" type="location" surface="Türkei" />
+<Entity id="10" startPos="339" endPos="347" type="duration" surface="2:10 min" />
+<Entity id="11" startPos="350" endPos="364" type="date" surface="Do, 10.12.2015" />
+<Entity id="12" startPos="367" endPos="376" type="time" surface="19.30 Uhr" />
+<Entity id="13" startPos="379" endPos="382" type="organization" surface="SWR" />
+<Entity id="14" startPos="396" endPos="411" type="location" surface="Rheinland-Pfalz" />
+<Entity id="15" startPos="446" endPos="448" type="organization" surface="IS" />
+<Entity id="16" startPos="452" endPos="458" type="location-city" surface="Büchel" />
+<Entity id="17" startPos="488" endPos="504" type="date" surface="Donnerstagmorgen" />
+<Entity id="18" startPos="554" endPos="556" type="organization" surface="IS" />
+<Entity id="19" startPos="560" endPos="566" type="location" surface="Syrien" />
+<Entity id="20" startPos="605" endPos="623" type="location" surface="Schleswig-Holstein" />
+<Entity id="21" startPos="640" endPos="646" type="location-city" surface="Büchel" />
+<Entity id="22" startPos="671" endPos="677" type="date" surface="Januar" />
+<Entity id="23" startPos="682" endPos="692" type="date" surface="Donnerstag" />
+<Entity id="24" startPos="709" endPos="742" type="organization" surface="Taktische Luftwaffengeschwader 33" />
+<Entity id="25" startPos="774" endPos="778" type="number" surface="Zwei" />
+<Entity id="26" startPos="799" endPos="805" type="location-city" surface="Büchel" />
+<Entity id="27" startPos="813" endPos="819" type="date" surface="Januar" />
+<Entity id="28" startPos="868" endPos="900" type="organization" surface="Taktischen Luftwaffengeschwaders" />
+<Entity id="29" startPos="902" endPos="916" type="person" surface="Holger Radmann" /></Entities><Relations />
+</Document>

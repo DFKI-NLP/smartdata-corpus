@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @bensack: Verdächtiger Koffer im <NODE id="36" />Hbf #Düsseldorf<NODE id="51" /> gefunden. Gesperrt deswegen Gleise <NODE id="87" />11<NODE id="89" />+<NODE id="90" />12<NODE id="92" />, <NODE id="94" />13<NODE id="96" />+<NODE id="97" />14<NODE id="99" /> &amp; Schließfachbereich https://t.co/8jMuN…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666949655415136256" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-18T12:02:43Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:54:54.121Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="36" endPos="51" type="location-stop" surface="Hbf #Düsseldorf" />
+<Entity id="1" startPos="87" endPos="89" type="number" surface="11" />
+<Entity id="2" startPos="90" endPos="92" type="number" surface="12" />
+<Entity id="3" startPos="94" endPos="96" type="number" surface="13" />
+<Entity id="4" startPos="97" endPos="99" type="number" surface="14" /></Entities><Relations />
+</Document>

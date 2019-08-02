@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: UPDATE: Der Angreifer von <NODE id="45" />Würzburg<NODE id="53" /> soll ein <NODE id="63" />17-jähriger<NODE id="74" /> <NODE id="75" />Afghane<NODE id="82" /> gewesen sein. https://t.co/RVUaX7lpQc
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755161233930747905" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T22:04:03Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T22:04:04.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2710762816/status/755161233930747905" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="45" endPos="53" type="location-city" surface="Würzburg" />
+<Entity id="2" startPos="63" endPos="74" type="duration" surface="17-jähriger" />
+<Entity id="3" startPos="75" endPos="82" type="location" surface="Afghane" /></Entities><Relations />
+</Document>

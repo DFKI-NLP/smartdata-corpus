@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bauarbeiten<NODE id="11" /> in <NODE id="15" />Dover<NODE id="20" /> (<NODE id="22" />A20<NODE id="25" />): Bitte planen Sie mehr Zeit für Ihre Anreise ein. Folgen Sie diesem Link für mehr Info: https://t.co/8iBcZr1oIr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="746720218483986432" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-25T15:02:28Z" />
+<feature featureName="indexDate" featureValue="2016-06-27T08:47:53.701Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2799795081/status/746720218483986432" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="trigger" surface="Bauarbeiten" />
+<Entity id="1" startPos="15" endPos="20" type="location" surface="Dover" />
+<Entity id="2" startPos="22" endPos="25" type="location-street" surface="A20" /></Entities><Relations>
+<Relation id="3" NAME="Obstruction">
+<Entity id="1" label="location" />
+<Entity id="2" label="location" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

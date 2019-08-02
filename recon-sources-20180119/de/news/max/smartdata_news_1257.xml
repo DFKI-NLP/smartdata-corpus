@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Autor: Redaktion
+Autor folgen:
+Eine schwere <NODE id="44" />Dürre<NODE id="49" />, für die das Klimaphänomen El Niño verantwortlich gemacht wird, sorgt in <NODE id="123" />18<NODE id="125" /> Wasserkraftwerken <NODE id="144" />Venezuela<NODE id="153" /> für extrem niedrige Wasserstände. Die Regierung kündigte staatliche Energierationierungen an, die Energiegesellschaft (<NODE id="273" />Corpoelec<NODE id="282" />) will zweimal am Tag (von <NODE id="309" />13.00<NODE id="314" /> bis <NODE id="319" />15.00 Uhr<NODE id="328" /> und von <NODE id="337" />19.00<NODE id="342" /> bis <NODE id="347" />21.00 Uhr<NODE id="356" />) den Strom abschalten. Der Einzelhandelsverband der  <NODE id="410" />venezolanischen<NODE id="425" /> Handelszentren (<NODE id="442" />Cavececo<NODE id="450" />) kündigte am <NODE id="464" />Montag<NODE id="470" /> (<NODE id="472" />8.<NODE id="474" />) an, dass die Einkaufszentren in der <NODE id="512" />venezolanischen<NODE id="527" /> Hauptstadt <NODE id="539" />Caracas<NODE id="546" /> ihre Öffnungszeiten am Tag halbieren werden. Ein Sprecher des Branchenverbandes betonte, dass der Rückgang der Arbeitszeit Auswirkungen auf die Arbeitsplätze haben wird.
+Auf einen Alternativvorschlag des Verbandes, die Geschäfte täglich erst um <NODE id="792" />12:00 Uhr<NODE id="801" /> zu öffnen, ging die Regierung nicht ein. „Wenn der Strom ab <NODE id="862" />13:00 Uhr<NODE id="871" /> abgeschaltet wird, ist dies eine Katastrophe. Der von der 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://latina-press.com/news/214894-krise-in-venezuela-einkaufszentren-werden-oeffnungszeiten-halbieren/@2016-02-08T12:45:18.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-08T11:45:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T21:12:02.953Z" />
+<feature featureName="uri" featureValue="http://latina-press.com/news/214894-krise-in-venezuela-einkaufszentren-werden-oeffnungszeiten-halbieren/" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="44" endPos="49" type="disaster-type" surface="Dürre" />
+<Entity id="1" startPos="123" endPos="125" type="number" surface="18" />
+<Entity id="2" startPos="144" endPos="153" type="location" surface="Venezuela" />
+<Entity id="3" startPos="273" endPos="282" type="organization" surface="Corpoelec" />
+<Entity id="4" startPos="309" endPos="314" type="time" surface="13.00" />
+<Entity id="5" startPos="319" endPos="328" type="time" surface="15.00 Uhr" />
+<Entity id="6" startPos="337" endPos="342" type="time" surface="19.00" />
+<Entity id="7" startPos="347" endPos="356" type="time" surface="21.00 Uhr" />
+<Entity id="8" startPos="410" endPos="425" type="location" surface="venezolanischen" />
+<Entity id="9" startPos="442" endPos="450" type="organization" surface="Cavececo" />
+<Entity id="10" startPos="464" endPos="470" type="date" surface="Montag" />
+<Entity id="11" startPos="472" endPos="474" type="date" surface="8." />
+<Entity id="12" startPos="512" endPos="527" type="location" surface="venezolanischen" />
+<Entity id="13" startPos="539" endPos="546" type="location-city" surface="Caracas" />
+<Entity id="14" startPos="792" endPos="801" type="time" surface="12:00 Uhr" />
+<Entity id="15" startPos="862" endPos="871" type="time" surface="13:00 Uhr" /></Entities><Relations>
+<Relation id="16" NAME="Disaster">
+<Entity id="2" label="location" />
+<Entity id="0" label="type" />
+</Relation></Relations>
+</Document>

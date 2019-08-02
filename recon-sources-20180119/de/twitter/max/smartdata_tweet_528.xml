@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />46 jähriger<NODE id="11" /> mit über <NODE id="21" />1,1 Promille<NODE id="33" /> auf Autobahn unterwegs https://t.co/AmHVfI84Ep
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667218453434990592" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-19T05:50:50Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:57:14.958Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="duration" surface="46 jähriger" />
+<Entity id="1" startPos="21" endPos="33" type="number" surface="1,1 Promille" /></Entities><Relations />
+</Document>

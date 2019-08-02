@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Yahoo<NODE id="5" /> steckt in der Krise, weil das einst beliebte Online-Portal den Anschluss an Konkurrenten wie die <NODE id="103" />Alphabet<NODE id="111" />-Tochter<NODE id="119" /> <NODE id="120" />Google<NODE id="126" /> und <NODE id="131" />Facebook<NODE id="139" /> verloren hat.
+Foto: <NODE id="160" />Ken Wolter<NODE id="170" /> - shutterstock.com
+<NODE id="190" />Vorstandschefin<NODE id="205" /> <NODE id="206" />Marissa Mayer<NODE id="219" /> dürfte nach Vorlage der Quartalszahlen am Dienstag ankündigen, dass <NODE id="288" />15 Prozent<NODE id="298" /> der Arbeitsplätze gestrichen und mehrere Geschäftsbereiche geschlossen werden, berichtete das <NODE id="393" />Wall Street Journal<NODE id="412" /> am <NODE id="416" />Montag<NODE id="422" /> unter Berufung auf eingeweihte Kreise. Zuletzt habe der Konzern etwa <NODE id="492" />10 700<NODE id="498" /> Mitarbeiter gehabt. Eine Stellungnahme von <NODE id="542" />Yahoo<NODE id="547" /> gab es zunächst nicht.
+<NODE id="571" />Mayer<NODE id="576" /> war <NODE id="581" />vor rund drei Jahren<NODE id="601" /> angetreten, um das Internet-Urgestein wieder auf Kurs zu bringen. Bislang hatte sie dabei aber keinen Erfolg, was zunehmend für Kritik von Investoren sorgt. Auch andere <NODE id="771" />US<NODE id="773" />-Medien, wie die <NODE id="790" />New York Post<NODE id="803" /> und der Tech-Blog <NODE id="822" />Recode<NODE id="828" />, hatten bereits über einen geplanten <NODE id="866" />Stellenabbau<NODE id="878" /> berichtet. (dpa/rs)
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.cio.de/a/zeitung-yahoo-will-15-prozent-seiner-stellen-streichen,3222751@2016-02-02T18:53:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.cio.de/a/zeitung-yahoo-will-15-prozent-seiner-stellen-streichen,3222751" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="organization-company" surface="Yahoo" />
+<Entity id="1" startPos="103" endPos="111" type="organization-company" surface="Alphabet" />
+<Entity id="2" startPos="103" endPos="119" type="trigger" surface="Alphabet-Tochter" />
+<Entity id="3" startPos="120" endPos="126" type="organization-company" surface="Google" />
+<Entity id="4" startPos="131" endPos="139" type="organization-company" surface="Facebook" />
+<Entity id="5" startPos="160" endPos="170" type="person" surface="Ken Wolter" />
+<Entity id="6" startPos="190" endPos="205" type="org-position" surface="Vorstandschefin" />
+<Entity id="7" startPos="206" endPos="219" type="person" surface="Marissa Mayer" />
+<Entity id="8" startPos="288" endPos="298" type="number" surface="15 Prozent" />
+<Entity id="9" startPos="393" endPos="412" type="organization-company" surface="Wall Street Journal" />
+<Entity id="10" startPos="416" endPos="422" type="date" surface="Montag" />
+<Entity id="11" startPos="492" endPos="498" type="number" surface="10 700" />
+<Entity id="12" startPos="542" endPos="547" type="organization-company" surface="Yahoo" />
+<Entity id="13" startPos="571" endPos="576" type="person" surface="Mayer" />
+<Entity id="14" startPos="581" endPos="601" type="date" surface="vor rund drei Jahren" />
+<Entity id="15" startPos="771" endPos="773" type="location" surface="US" />
+<Entity id="16" startPos="790" endPos="803" type="organization-company" surface="New York Post" />
+<Entity id="17" startPos="822" endPos="828" type="organization-company" surface="Recode" />
+<Entity id="18" startPos="866" endPos="878" type="trigger" surface="Stellenabbau" /></Entities><Relations>
+<Relation id="19" NAME="SpinOff">
+<Entity id="1" label="parent" />
+<Entity id="2" label="trigger" />
+<Entity id="3" label="child" />
+</Relation></Relations>
+</Document>

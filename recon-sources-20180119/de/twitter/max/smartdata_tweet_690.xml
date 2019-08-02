@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Lübecker Hbf<NODE id="12" /> wg. herrenloser Tasche im Zug gesperrt. https://t.co/ySmP9HbBic
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672129489850122241" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T19:05:32Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:30:14.121Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="location-stop" surface="Lübecker Hbf" /></Entities><Relations />
+</Document>

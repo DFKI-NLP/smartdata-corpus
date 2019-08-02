@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Deutsche Börse <NODE id="15" />und <NODE id="19" />LSE<NODE id="22" /> machen Ernst mit <NODE id="40" />Fusionsplänen<NODE id="53" />
+<NODE id="54" />16. März 2016<NODE id="67" /> <NODE id="68" />08:10 Uhr<NODE id="77" />
+<NODE id="78" />Deutsche Börse<NODE id="92" /> und <NODE id="97" />LSE<NODE id="100" /> machen Ernst mit Fusionsplänen
+<NODE id="132" />Frankfurt/Main<NODE id="146" /> - Die <NODE id="153" />Deutsche Börse <NODE id="168" />und die <NODE id="176" />Londoner LSE<NODE id="188" /> machen Ernst mit ihren <NODE id="212" />Fusionsplänen<NODE id="225" />. Der Vorstand der <NODE id="244" />Deutsche Börse <NODE id="259" />habe mit Zustimmung des Aufsichtsrates eine Vereinbarung über einen Zusammenschluss auf Augenhöhe abgeschlossen. Das teilte der Dax-Konzern heute mit.
+Die <NODE id="414" />Deutsche Börse<NODE id="428" /> und die <NODE id="437" />Londoner LSE<NODE id="449" /> machen Ernst mit ihren Fusionsplänen. Der Vorstand der <NODE id="505" />Deutsche Börse <NODE id="520" />habe mit Zustimmung des Aufsichtsrates eine Vereinbarung über einen Zusammenschluss auf Augenhöhe abgeschlossen. Das teilte der Dax-Konzern heute mit.
+dpa
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.stern.de/panorama/deutsche-boerse-und-lse-machen-ernst-mit-fusionsplaenen-6749472.html@2016-03-16T08:10:30.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-16T07:10:30Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:18:51.928Z" />
+<feature featureName="uri" featureValue="http://www.stern.de/panorama/deutsche-boerse-und-lse-machen-ernst-mit-fusionsplaenen-6749472.html" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="15" type="organization-company" surface="Deutsche Börse " />
+<Entity id="1" startPos="19" endPos="22" type="organization-company" surface="LSE" />
+<Entity id="2" startPos="40" endPos="53" type="trigger" surface="Fusionsplänen" />
+<Entity id="3" startPos="54" endPos="67" type="date" surface="16. März 2016" />
+<Entity id="4" startPos="68" endPos="77" type="time" surface="08:10 Uhr" />
+<Entity id="5" startPos="78" endPos="92" type="organization-company" surface="Deutsche Börse" />
+<Entity id="6" startPos="97" endPos="100" type="organization-company" surface="LSE" />
+<Entity id="7" startPos="132" endPos="146" type="location-city" surface="Frankfurt/Main" />
+<Entity id="8" startPos="153" endPos="168" type="organization-company" surface="Deutsche Börse " />
+<Entity id="9" startPos="176" endPos="188" type="organization-company" surface="Londoner LSE" />
+<Entity id="10" startPos="212" endPos="225" type="trigger" surface="Fusionsplänen" />
+<Entity id="11" startPos="244" endPos="259" type="organization-company" surface="Deutsche Börse " />
+<Entity id="12" startPos="414" endPos="428" type="organization-company" surface="Deutsche Börse" />
+<Entity id="13" startPos="437" endPos="449" type="organization-company" surface="Londoner LSE" />
+<Entity id="14" startPos="505" endPos="520" type="organization-company" surface="Deutsche Börse " /></Entities><Relations>
+<Relation id="15" NAME="Merger">
+<Entity id="1" label="old" />
+<Entity id="0" label="old" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="16" NAME="Merger">
+<Entity id="9" label="old" />
+<Entity id="8" label="old" />
+<Entity id="10" label="trigger" />
+</Relation></Relations>
+</Document>

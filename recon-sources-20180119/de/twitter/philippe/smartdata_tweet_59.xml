@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Linie <NODE id="6" />3<NODE id="7" /> und <NODE id="12" />4<NODE id="13" /> * <NODE id="16" />Verkehrsunfall<NODE id="30" /> im Bereich <NODE id="42" />Gotenring<NODE id="51" /> * Die Bahnen sind dort zurzeit an der Weiterfahrt gehindert * https://t.co/E5zFmSkS61
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668736625669722112" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="7" type="location-route" surface="3" />
+<Entity id="1" startPos="12" endPos="13" type="location-route" surface="4" />
+<Entity id="2" startPos="16" endPos="30" type="trigger" surface="Verkehrsunfall" />
+<Entity id="3" startPos="42" endPos="51" type="location-street" surface="Gotenring" /></Entities><Relations>
+<Relation id="4" NAME="Accident">
+<Entity id="3" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

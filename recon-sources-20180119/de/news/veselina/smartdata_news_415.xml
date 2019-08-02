@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Börsen-Zeitung<NODE id="14" />: Gelebte Kapitalmarktunion, Kommentar zu <NODE id="56" />Deutschen Börse<NODE id="71" />/<NODE id="72" />LSE<NODE id="75" /> von <NODE id="80" />Claus Döring<NODE id="92" />
+<NODE id="93" />23.02.16 20:50<NODE id="107" />
+<NODE id="108" />Frankfurt<NODE id="117" /> (ots) - Was dem einstigen <NODE id="144" />Deutsche-Börse<NODE id="158" />-<NODE id="159" />Chef<NODE id="163" /> <NODE id="164" />Werner
+Seifert<NODE id="178" /> vor elf Jahren nicht gelang, will nun <NODE id="217" />Carsten Kengeter<NODE id="233" /> mit
+einem neuen Anlauf schaffen: mit der <NODE id="275" />London Stock Exchange<NODE id="296" /> (<NODE id="298" />LSE<NODE id="301" />) und
+der <NODE id="311" />Deutschen Börse<NODE id="326" /> die beiden führenden Börsenbetreiber <NODE id="364" />Europas<NODE id="371" />
+zusammenführen. <NODE id="388" />Nach den zweimonatigen Sondierungen stehen zwar erst
+die groben Umrisse der ins Auge gefassten Verbindung, doch die Chance
+zum Gelingen scheint dieses Mal größer als damals.<NODE id="561" />
+<NODE id="562" />Erstens handelt es sich jetzt um einen Merger of Equals und nicht
+um eine Übernahme der <NODE id="650" />LSE<NODE id="653" />, die seinerzeit ja nicht nur
+Empfindlichkeiten in der <NODE id="708" />Londoner City<NODE id="721" /> auslöste, sondern auch gegen
+die Fusion wettende Hedgefonds mit <NODE id="786" />TCI<NODE id="789" /> an der Spitze auf den Plan
+rief.<NODE id="822" />
+<NODE id="823" />Zweitens soll sich an den rechtlichen Verhältnissen und
+aufsichtlichen Zuständigkeiten der Börsenbetreiber e<NODE id="931" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.aktiencheck.de/news/Artikel-Boersen_Zeitung_Gelebte_Kapitalmarktunion_Kommentar_Deutschen_Boerse_LSE_von_Claus_Doering-7037617@2016-02-23T21:29:46.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T20:29:46Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:42:20.909Z" />
+<feature featureName="uri" featureValue="http://www.aktiencheck.de/news/Artikel-Boersen_Zeitung_Gelebte_Kapitalmarktunion_Kommentar_Deutschen_Boerse_LSE_von_Claus_Doering-7037617" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="organization-company" surface="Börsen-Zeitung" />
+<Entity id="1" startPos="0" endPos="92" type="sentence" surface="Börsen-Zeitung: Gelebte Kapitalmarktunion, Kommentar zu Deutschen Börse/LSE von Claus Döring" />
+<Entity id="2" startPos="56" endPos="71" type="organization-company" surface="Deutschen Börse" />
+<Entity id="3" startPos="72" endPos="75" type="organization-company" surface="LSE" />
+<Entity id="4" startPos="80" endPos="92" type="person" surface="Claus Döring" />
+<Entity id="5" startPos="93" endPos="107" type="sentence" surface="23.02.16 20:50" />
+<Entity id="6" startPos="108" endPos="117" type="location-city" surface="Frankfurt" />
+<Entity id="7" startPos="108" endPos="388" type="sentence" surface="Frankfurt (ots) - Was dem einstigen Deutsche-Börse-Chef Werner&#xA;Seifert vor elf Jahren nicht gelang, will nun Carsten Kengeter mit&#xA;einem neuen Anlauf schaffen: mit der London Stock Exchange (LSE) und&#xA;der Deutschen Börse die beiden führenden Börsenbetreiber Europas&#xA;zusammenführen. " />
+<Entity id="8" startPos="144" endPos="158" type="organization-company" surface="Deutsche-Börse" />
+<Entity id="9" startPos="159" endPos="163" type="org-position" surface="Chef" />
+<Entity id="10" startPos="164" endPos="178" type="person" surface="Werner&#xA;Seifert" />
+<Entity id="11" startPos="217" endPos="233" type="person" surface="Carsten Kengeter" />
+<Entity id="12" startPos="275" endPos="296" type="organization-company" surface="London Stock Exchange" />
+<Entity id="13" startPos="298" endPos="301" type="organization-company" surface="LSE" />
+<Entity id="14" startPos="311" endPos="326" type="organization-company" surface="Deutschen Börse" />
+<Entity id="15" startPos="364" endPos="371" type="location" surface="Europas" />
+<Entity id="16" startPos="388" endPos="561" type="sentence" surface="Nach den zweimonatigen Sondierungen stehen zwar erst&#xA;die groben Umrisse der ins Auge gefassten Verbindung, doch die Chance&#xA;zum Gelingen scheint dieses Mal größer als damals." />
+<Entity id="17" startPos="562" endPos="822" type="sentence" surface="Erstens handelt es sich jetzt um einen Merger of Equals und nicht&#xA;um eine Übernahme der LSE, die seinerzeit ja nicht nur&#xA;Empfindlichkeiten in der Londoner City auslöste, sondern auch gegen&#xA;die Fusion wettende Hedgefonds mit TCI an der Spitze auf den Plan&#xA;rief." />
+<Entity id="18" startPos="650" endPos="653" type="organization-company" surface="LSE" />
+<Entity id="19" startPos="708" endPos="721" type="location" surface="Londoner City" />
+<Entity id="20" startPos="786" endPos="789" type="organization-company" surface="TCI" />
+<Entity id="21" startPos="823" endPos="931" type="sentence" surface="Zweitens soll sich an den rechtlichen Verhältnissen und&#xA;aufsichtlichen Zuständigkeiten der Börsenbetreiber e" /></Entities><Relations>
+<Relation id="22" NAME="OrganizationLeadership">
+<Entity id="10" label="person" />
+<Entity id="8" label="organization" />
+<Entity id="9" label="position" />
+</Relation>
+<Relation id="23" NAME="OrganizationLeadership">
+<Entity id="11" label="person" />
+<Entity id="8" label="organization" />
+<Entity id="9" label="position" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />DB_Bahn<NODE id="8" />  Bei <NODE id="14" />Facebook<NODE id="22" /> kursiert das Gerücht, dass <NODE id="50" />nächste Woche<NODE id="63" /> wieder <NODE id="71" />gestreikt<NODE id="80" /> wird? Stimmt das????
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="614397559155630080" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-26T11:39:27Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T23:48:35.729Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="8" type="organization-company" surface="DB_Bahn" />
+<Entity id="1" startPos="14" endPos="22" type="organization-company" surface="Facebook" />
+<Entity id="2" startPos="50" endPos="63" type="date" surface="nächste Woche" />
+<Entity id="3" startPos="71" endPos="80" type="trigger" surface="gestreikt" /></Entities><Relations>
+<Relation id="4" NAME="Strike">
+<Entity id="2" label="date" />
+<Entity id="0" label="company" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

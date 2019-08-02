@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Wiesbaden<NODE id="9" />: Warnung vor verstopften Bächen
+<NODE id="42" />Städtisches Umweltamt<NODE id="63" /> bittet Gartenbesitzer, Ablagerungen in Gewässernähe zu entfernen.
+Drucken per Mail
+Um Hochwasser vorzubeugen, hat das <NODE id="182" />städtische Umweltamt<NODE id="202" /> alle Gartenbesitzer aufgefordert, Ablagerungen in Gewässernähe rasch zu entfernen. Man werde die Gewässer in Zukunft verstärkt kontrollieren, heißt es in einer Pressemitteilung der Stadt.
+Aufgrund globaler Klimaveränderungen müsse häufiger mit Starkregen und Hochwasser gerechnet werden. Flüsse wie der <NODE id="506" />Main<NODE id="510" /> und der <NODE id="519" />Rhein<NODE id="524" /> seien davon besonders betroffen. Bei kleinen Gewässern genüge schon ein Gewitter mit Starkregen. In einem solchen Fall seien Vorwarnungen nahezu unmöglich. „Wenn Starkregen kleine Bäche über die Ufer treten lässt, gelangen am Ufer abgelagerter Grünschnitt und Gartenabfälle in den Wasserstrom und verstopfen Engstellen“, warnt das <NODE id="856" />Umweltamt<NODE id="865" />.
+Es droht Bußgeld
+Oft deponierten Gartennutzer Äste und Zweige, den Komposthaufen oder so
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.fr-online.de/wiesbaden/wiesbaden-warnung-vor-verstopften-baechen,1472860,33930920.html@2016-03-09T18:20:57.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.fr-online.de/wiesbaden/wiesbaden-warnung-vor-verstopften-baechen,1472860,33930920.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Wiesbaden" />
+<Entity id="1" startPos="42" endPos="63" type="organization" surface="Städtisches Umweltamt" />
+<Entity id="2" startPos="182" endPos="202" type="organization" surface="städtische Umweltamt" />
+<Entity id="3" startPos="506" endPos="510" type="location" surface="Main" />
+<Entity id="4" startPos="519" endPos="524" type="location" surface="Rhein" />
+<Entity id="5" startPos="856" endPos="865" type="organization" surface="Umweltamt" /></Entities><Relations />
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bitte geben Sie eine gültige Email-Adresse ein
+Bitte geben Sie einen Link an.
+Fehler beim Einsenden des Links.
+Ihr Link wurde erfolgreich eingesendet.
+*Pflichtfeld
+<NODE id="164" />Vier Tage<NODE id="173" /> nach dem erfolgreich bestrittenen <NODE id="208" />Wiener<NODE id="214" /> Derby steht für <NODE id="231" />Rapid<NODE id="236" /> schon das nächste Highlight in dem noch jungen Jahr auf dem Programm: <NODE id="307" />Donnerstagnacht<NODE id="322" /> gastiert die Mannschaft von Trainer <NODE id="359" />Zoran Barišić<NODE id="372" /> ab <NODE id="376" />21:05 Uhr<NODE id="385" /> (live auf <NODE id="396" />Puls 4<NODE id="402" />, <NODE id="404" />Sky<NODE id="407" /> und im <NODE id="415" />VIENNA.at<NODE id="424" /> -Ticker) im <NODE id="437" />Mestalla-Stadion<NODE id="453" /> des <NODE id="458" />FC Valencia<NODE id="469" /> .
+Nach den Gruppenduellen mit <NODE id="500" />Villarreal<NODE id="510" /> läutet die Partie in der nur <NODE id="540" />60 Kilometer<NODE id="552" /> entfernten Provinzhauptstadt den <NODE id="586" />zweiten<NODE id="593" /> Teil von <NODE id="603" />Rapids<NODE id="609" /> <NODE id="610" />spanischen<NODE id="620" /> Wochen in der <NODE id="635" />Europa League<NODE id="648" /> ein. Zuvor waren die <NODE id="670" />Wiener<NODE id="676" /> <NODE id="677" />34 Jahre<NODE id="685" /> lang auf keinen Gegner aus der Liga der Fußballmacht der <NODE id="743" />iberischen Halbinsel<NODE id="763" /> getroffen.
+In diesem Artikel möchten wir Ihnen einen illustrierten Einblick in die Geschichte des traditionsreichen <NODE id="880" />Mestalla-Stadions<NODE id="897" /> von <NODE id="902" />Valencia<NODE id="910" /> gewähren.
+VALENCIACF.COM/Láz
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.austria.com/rapids-naechstes-spanien-gastspiel-das-imposante-mestalla-stadion-von-valencia/4612222@2016-02-17T05:14:11.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-17T04:14:11Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T10:59:31.93Z" />
+<feature featureName="uri" featureValue="http://www.austria.com/rapids-naechstes-spanien-gastspiel-das-imposante-mestalla-stadion-von-valencia/4612222" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="164" endPos="173" type="duration" surface="Vier Tage" />
+<Entity id="1" startPos="208" endPos="214" type="location-city" surface="Wiener" />
+<Entity id="2" startPos="231" endPos="236" type="organization" surface="Rapid" />
+<Entity id="3" startPos="307" endPos="322" type="date" surface="Donnerstagnacht" />
+<Entity id="4" startPos="359" endPos="372" type="person" surface="Zoran Barišić" />
+<Entity id="5" startPos="376" endPos="385" type="person" surface="21:05 Uhr" />
+<Entity id="6" startPos="396" endPos="402" type="organization-company" surface="Puls 4" />
+<Entity id="7" startPos="404" endPos="407" type="organization-company" surface="Sky" />
+<Entity id="8" startPos="415" endPos="424" type="organization-company" surface="VIENNA.at" />
+<Entity id="9" startPos="437" endPos="453" type="location" surface="Mestalla-Stadion" />
+<Entity id="10" startPos="458" endPos="469" type="organization" surface="FC Valencia" />
+<Entity id="11" startPos="500" endPos="510" type="organization" surface="Villarreal" />
+<Entity id="12" startPos="540" endPos="552" type="distance" surface="60 Kilometer" />
+<Entity id="13" startPos="586" endPos="593" type="number" surface="zweiten" />
+<Entity id="14" startPos="603" endPos="609" type="organization" surface="Rapids" />
+<Entity id="15" startPos="610" endPos="620" type="location" surface="spanischen" />
+<Entity id="16" startPos="635" endPos="648" type="organization" surface="Europa League" />
+<Entity id="17" startPos="670" endPos="676" type="organization" surface="Wiener" />
+<Entity id="18" startPos="677" endPos="685" type="duration" surface="34 Jahre" />
+<Entity id="19" startPos="743" endPos="763" type="location" surface="iberischen Halbinsel" />
+<Entity id="20" startPos="880" endPos="897" type="location" surface="Mestalla-Stadions" />
+<Entity id="21" startPos="902" endPos="910" type="location-city" surface="Valencia" /></Entities><Relations />
+</Document>

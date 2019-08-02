@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />10.12.15<NODE id="8" /> | <NODE id="11" />07:22 Uhr<NODE id="20" /> | <NODE id="23" />4 <NODE id="25" />mal gelesen | <NODE id="39" />dpa.de<NODE id="45" />
+<NODE id="46" />FRANKFURT<NODE id="55" /> (<NODE id="57" />dpa-AFX<NODE id="64" />) - Der Rekord-<NODE id="79" />Streik<NODE id="85" /> der <NODE id="90" />Lufthansa<NODE id="99" />-Flugbegleiter hat am <NODE id="121" />Frankfurter Flughafen<NODE id="142" /> im <NODE id="146" />November<NODE id="154" /> ...
+Bild: © <NODE id="167" />Fotolia.com<NODE id="178" /> / Romanchuck
+<NODE id="192" />Lufthansa<NODE id="201" />-<NODE id="202" />Streik<NODE id="208" /> trifft Flughafenbetreiber <NODE id="235" />Fraport<NODE id="242" /> deutlich
+<NODE id="252" />FRANKFURT<NODE id="261" /> (dpa-AFX) - Der <NODE id="278" />Rekord-Streik<NODE id="291" /> der <NODE id="296" />Lufthansa<NODE id="305" />-<NODE id="306" />Flugbegleiter<NODE id="319" />  hat am <NODE id="328" />Frankfurter Flughafen<NODE id="349" /> im <NODE id="353" />November<NODE id="361" /> deutliche Spuren hinterlassen. Im Vergleich zum Vorjahresmonat ging die Zahl der Fluggäste um <NODE id="456" />11,3 Prozent<NODE id="468" /> auf gut <NODE id="477" />3,9 Millionen<NODE id="490" /> zurück, wie der Flughafenbetreiber <NODE id="526" />Fraport<NODE id="533" />  am <NODE id="538" />Donnerstag<NODE id="548" /> in <NODE id="552" />Frankfurt<NODE id="561" /> mitteilte. Im Frachtgeschäft sank die abgefertigte Fracht- und Luftpostmenge um <NODE id="642" />3,9 Prozent<NODE id="653" /> auf rund <NODE id="663" />191 400 Tonnen<NODE id="677" />. Die <NODE id="683" />Lufthansa<NODE id="692" /> befördert rund die Hälfte ihrer Fracht in den Bäuchen der Passagiermaschinen, von denen im <NODE id="784" />November<NODE id="792" /> viele nicht abhoben.
+Die Flugbegleitergewerkschaft <NODE id="844" />Ufo<NODE id="847" /> hatte ihre Mitglieder <NODE id="870" />Anfang November<NODE id="885" /> an <NODE id="889" />sieben Tagen<NODE id="901" /> in den bislang härtesten Arbeitskampf in der Gesc
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ad-hoc-news.de/frankfurt-dpa-afx-der-rekord-streik-der-lufthansa-flugbegleiter-hat-am--/de/News/47356113@2016-03-10T13:42:55.809+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:42:55.809Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:43:03.317Z" />
+<feature featureName="uri" featureValue="http://www.ad-hoc-news.de/frankfurt-dpa-afx-der-rekord-streik-der-lufthansa-flugbegleiter-hat-am--/de/News/47356113" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="date" surface="10.12.15" />
+<Entity id="1" startPos="11" endPos="20" type="time" surface="07:22 Uhr" />
+<Entity id="2" startPos="23" endPos="25" type="number" surface="4 " />
+<Entity id="3" startPos="39" endPos="45" type="time" surface="dpa.de" />
+<Entity id="4" startPos="46" endPos="55" type="location-city" surface="FRANKFURT" />
+<Entity id="5" startPos="57" endPos="64" type="organization-company" surface="dpa-AFX" />
+<Entity id="6" startPos="79" endPos="85" type="trigger" surface="Streik" />
+<Entity id="7" startPos="90" endPos="99" type="organization-company" surface="Lufthansa" />
+<Entity id="8" startPos="121" endPos="142" type="location" surface="Frankfurter Flughafen" />
+<Entity id="9" startPos="146" endPos="154" type="date" surface="November" />
+<Entity id="10" startPos="167" endPos="178" type="organization-company" surface="Fotolia.com" />
+<Entity id="11" startPos="192" endPos="201" type="organization-company" surface="Lufthansa" />
+<Entity id="12" startPos="202" endPos="208" type="trigger" surface="Streik" />
+<Entity id="13" startPos="235" endPos="242" type="location" surface="Fraport" />
+<Entity id="14" startPos="252" endPos="261" type="location-city" surface="FRANKFURT" />
+<Entity id="15" startPos="278" endPos="291" type="trigger" surface="Rekord-Streik" />
+<Entity id="16" startPos="296" endPos="305" type="organization-company" surface="Lufthansa" />
+<Entity id="17" startPos="306" endPos="319" type="person" surface="Flugbegleiter" />
+<Entity id="18" startPos="328" endPos="349" type="location" surface="Frankfurter Flughafen" />
+<Entity id="19" startPos="353" endPos="361" type="date" surface="November" />
+<Entity id="20" startPos="456" endPos="468" type="number" surface="11,3 Prozent" />
+<Entity id="21" startPos="477" endPos="490" type="number" surface="3,9 Millionen" />
+<Entity id="22" startPos="526" endPos="533" type="organization-company" surface="Fraport" />
+<Entity id="23" startPos="538" endPos="548" type="date" surface="Donnerstag" />
+<Entity id="24" startPos="552" endPos="561" type="location-city" surface="Frankfurt" />
+<Entity id="25" startPos="642" endPos="653" type="number" surface="3,9 Prozent" />
+<Entity id="26" startPos="663" endPos="677" type="number" surface="191 400 Tonnen" />
+<Entity id="27" startPos="683" endPos="692" type="organization-company" surface="Lufthansa" />
+<Entity id="28" startPos="784" endPos="792" type="date" surface="November" />
+<Entity id="29" startPos="844" endPos="847" type="organization" surface="Ufo" />
+<Entity id="30" startPos="870" endPos="885" type="date" surface="Anfang November" />
+<Entity id="31" startPos="889" endPos="901" type="number" surface="sieben Tagen" /></Entities><Relations>
+<Relation id="32" NAME="Strike">
+<Entity id="9" label="date" />
+<Entity id="7" label="company" />
+<Entity id="8" label="location" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="33" NAME="Strike">
+<Entity id="11" label="company" />
+<Entity id="13" label="location" />
+<Entity id="12" label="trigger" />
+</Relation>
+<Relation id="34" NAME="Strike">
+<Entity id="19" label="date" />
+<Entity id="17" label="striker" />
+<Entity id="16" label="company" />
+<Entity id="18" label="location" />
+<Entity id="15" label="trigger" />
+</Relation></Relations>
+</Document>

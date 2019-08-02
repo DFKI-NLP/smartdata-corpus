@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@Pokerbeats <NODE id="12" />100<NODE id="15" /> Favs!
+
+Dein Tweet wurde von <NODE id="44" />100<NODE id="47" /> Leuten gefavt! https://t.co/PStearaYFk
+
+https://t.co/ls7dGBoeJ5
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743479974640812037" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T16:26:53Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T16:27:00.206Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Favstar Bot/status/743479974640812037" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="15" type="number" surface="100" />
+<Entity id="1" startPos="44" endPos="47" type="number" surface="100" /></Entities><Relations />
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />BMVI<NODE id="5" /> <NODE id="6" />15 km<NODE id="11" /> stau wegen vollsperrung der autobahn richtung <NODE id="58" />oberhausen<NODE id="68" /> flug verpasst danke super weiter ueberall einfach vollsperren....&#x1f621;&#x1f44d;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="747268451895480321" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-27T03:20:57Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T06:09:22.596Z" />
+<feature featureName="uri" featureValue="https://twitter.com/230489973/status/747268451895480321" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="5" type="organization" surface="BMVI" />
+<Entity id="1" startPos="6" endPos="11" type="distance" surface="15 km" />
+<Entity id="2" startPos="58" endPos="68" type="location-city" surface="oberhausen" /></Entities><Relations />
+</Document>

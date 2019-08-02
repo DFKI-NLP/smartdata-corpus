@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Analysen<NODE id="8" />
+<NODE id="9" />Top Themen Heute<NODE id="25" />
+<NODE id="26" />-1 of 2- 03 Nov 2015 07:00:00 UTC  DJ MORNING BRIEFING - <NODE id="83" />USA<NODE id="86" />/<NODE id="87" />Asien<NODE id="92" />
+   <NODE id="96" />Der Markt-�berblick am Morgen, zusammengestellt von Dow Jones Newswires:<NODE id="168" />
+<NODE id="169" />===    +++++ FEIERTAGSHINWEIS +++++<NODE id="204" />
+   <NODE id="208" />DIENSTAG: In <NODE id="221" />Japan<NODE id="226" /> bleiben die B�rsen aufgrund des Tages der Kultur geschlossen.<NODE id="288" />
+   <NODE id="292" />+++++ TAGESTHEMA +++++<NODE id="314" />
+   <NODE id="318" />Der <NODE id="322" />US<NODE id="324" />-Versicherungskonzern <NODE id="346" />American International Group<NODE id="374" /> (<NODE id="376" />AIG<NODE id="379" />) will nach einem Abrutschen in die Verlustzone einige Stellen streichen.<NODE id="452" /> <NODE id="453" />Bestimmte Investitionen und die generelle Marktvolatilit�t h�tten das Nettoergebnis im dritten Quartal auf minus 231 Millionen US-Dollar gedr�ckt, teilte <NODE id="607" />AIG<NODE id="610" /> mit.<NODE id="615" /> <NODE id="616" />Im Vorjahreszeitraum hatte der Versicherer noch 2,2 Milliarden Dollar verdient.<NODE id="695" /> <NODE id="696" />AIG<NODE id="699" /> wolle nun 20 Prozent der Positionen im oberen Management streichen, berichtete ein Informant.<NODE id="793" /> <NODE id="794" />Betroffen seien 300 bis 400 h�here Manager.<NODE id="837" /> <NODE id="838" />Weitere K�rzungen solle es im kommenden Jahr geben.<NODE id="889" /> <NODE id="890" />Das schwache Ergebnis und der Stellenabbau kommen in einer Zeit, in der die b<NODE id="967" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzen.net/nachricht/aktien/MORNING-BRIEFING-USA-Asien-4587923@2016-03-10T17:07:25.037+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T16:07:25.037Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T16:07:33.317Z" />
+<feature featureName="uri" featureValue="http://www.finanzen.net/nachricht/aktien/MORNING-BRIEFING-USA-Asien-4587923" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="sentence" surface="Analysen" />
+<Entity id="1" startPos="9" endPos="25" type="sentence" surface="Top Themen Heute" />
+<Entity id="2" startPos="26" endPos="92" type="sentence" surface="-1 of 2- 03 Nov 2015 07:00:00 UTC  DJ MORNING BRIEFING - USA/Asien" />
+<Entity id="3" startPos="83" endPos="86" type="location" surface="USA" />
+<Entity id="4" startPos="87" endPos="92" type="location" surface="Asien" />
+<Entity id="5" startPos="96" endPos="168" type="sentence" surface="Der Markt-�berblick am Morgen, zusammengestellt von Dow Jones Newswires:" />
+<Entity id="6" startPos="169" endPos="204" type="sentence" surface="===    +++++ FEIERTAGSHINWEIS +++++" />
+<Entity id="7" startPos="208" endPos="288" type="sentence" surface="DIENSTAG: In Japan bleiben die B�rsen aufgrund des Tages der Kultur geschlossen." />
+<Entity id="8" startPos="221" endPos="226" type="location" surface="Japan" />
+<Entity id="9" startPos="292" endPos="314" type="sentence" surface="+++++ TAGESTHEMA +++++" />
+<Entity id="10" startPos="318" endPos="452" type="sentence" surface="Der US-Versicherungskonzern American International Group (AIG) will nach einem Abrutschen in die Verlustzone einige Stellen streichen." />
+<Entity id="11" startPos="322" endPos="324" type="location" surface="US" />
+<Entity id="12" startPos="346" endPos="374" type="organization-company" surface="American International Group" />
+<Entity id="13" startPos="376" endPos="379" type="organization-company" surface="AIG" />
+<Entity id="14" startPos="453" endPos="615" type="sentence" surface="Bestimmte Investitionen und die generelle Marktvolatilit�t h�tten das Nettoergebnis im dritten Quartal auf minus 231 Millionen US-Dollar gedr�ckt, teilte AIG mit." />
+<Entity id="15" startPos="607" endPos="610" type="organization-company" surface="AIG" />
+<Entity id="16" startPos="616" endPos="695" type="sentence" surface="Im Vorjahreszeitraum hatte der Versicherer noch 2,2 Milliarden Dollar verdient." />
+<Entity id="17" startPos="696" endPos="699" type="organization-company" surface="AIG" />
+<Entity id="18" startPos="696" endPos="793" type="sentence" surface="AIG wolle nun 20 Prozent der Positionen im oberen Management streichen, berichtete ein Informant." />
+<Entity id="19" startPos="794" endPos="837" type="sentence" surface="Betroffen seien 300 bis 400 h�here Manager." />
+<Entity id="20" startPos="838" endPos="889" type="sentence" surface="Weitere K�rzungen solle es im kommenden Jahr geben." />
+<Entity id="21" startPos="890" endPos="967" type="sentence" surface="Das schwache Ergebnis und der Stellenabbau kommen in einer Zeit, in der die b" /></Entities><Relations />
+</Document>

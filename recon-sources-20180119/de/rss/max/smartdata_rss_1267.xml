@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>von <NODE id="4" />Montag, 11. April<NODE id="21" />, <NODE id="23" />1.30 Uhr<NODE id="31" /> bis <NODE id="36" />Montag, 25. April<NODE id="53" />, <NODE id="55" />4.00 Uhr<NODE id="63" />
+Meldung:
+Die <NODE id="77" />ICE<NODE id="80" />- und <NODE id="86" />IC-Züge<NODE id="93" /> beginnen/enden in <NODE id="112" />Berlin Hbf<NODE id="122" /> und <NODE id="127" />fallen<NODE id="133" /> zwischen <NODE id="143" />Berlin Ostbahnhof<NODE id="160" /> und <NODE id="165" />Berlin Hbf<NODE id="175" /> <NODE id="176" />aus<NODE id="179" />.
+Grund:
+Bauarbeiten <NODE id="200" />Berlin-Charlottenburg<NODE id="221" /> – <NODE id="224" />Berlin-Spandau<NODE id="238" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="308" />187<NODE id="311" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_77-Berlin-Stendal_-Hannover-Amsterdam/37#5b655a206e21667bbb7c5f9d641b3ad4fa648a1e@2016-04-19T23:59:37.587+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-19T21:59:37.587Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T15:42:21.72Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_77-Berlin-Stendal_-Hannover-Amsterdam/37#5b655a206e21667bbb7c5f9d641b3ad4fa648a1e" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="21" type="date" surface="Montag, 11. April" />
+<Entity id="1" startPos="23" endPos="31" type="time" surface="1.30 Uhr" />
+<Entity id="2" startPos="36" endPos="53" type="date" surface="Montag, 25. April" />
+<Entity id="3" startPos="55" endPos="63" type="time" surface="4.00 Uhr" />
+<Entity id="4" startPos="77" endPos="80" type="location-route" surface="ICE" />
+<Entity id="5" startPos="86" endPos="93" type="location-route" surface="IC-Züge" />
+<Entity id="6" startPos="112" endPos="122" type="location-stop" surface="Berlin Hbf" />
+<Entity id="7" startPos="127" endPos="133" type="trigger" surface="fallen" />
+<Entity id="8" startPos="143" endPos="160" type="location-stop" surface="Berlin Ostbahnhof" />
+<Entity id="9" startPos="165" endPos="175" type="location-stop" surface="Berlin Hbf" />
+<Entity id="10" startPos="176" endPos="179" type="trigger" surface="aus" />
+<Entity id="11" startPos="200" endPos="221" type="location-stop" surface="Berlin-Charlottenburg" />
+<Entity id="12" startPos="224" endPos="238" type="location-stop" surface="Berlin-Spandau" />
+<Entity id="13" startPos="308" endPos="311" type="number" surface="187" /></Entities><Relations>
+<Relation id="14" NAME="CanceledRoute">
+<Entity id="5" label="location" />
+<Entity id="4" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="10" label="trigger" />
+<Entity id="8" label="end_loc" />
+<Entity id="9" label="end_loc" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Heidelberg<NODE id="10" /> Richtung <NODE id="20" />Darmstadt<NODE id="29" /> in Höhe <NODE id="38" />Kreuz Heidelberg<NODE id="54" /> Gefahr durch defekten LKW auf dem rechten Fahrstreifen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=a842dd19-d12e-41ff-9cfb-32f0e28b08c9@2016-03-14T17:33:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=a842dd19-d12e-41ff-9cfb-32f0e28b08c9" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="location-city" surface="Heidelberg" />
+<Entity id="1" startPos="20" endPos="29" type="location-city" surface="Darmstadt" />
+<Entity id="2" startPos="38" endPos="54" type="location" surface="Kreuz Heidelberg" /></Entities><Relations />
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />SPIEGELONLINE<NODE id="14" /> @<NODE id="16" />ThyssenKrupp<NODE id="28" /> 
+STOPPT <NODE id="37" />MERKEL<NODE id="43" /> !!!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667232439773880320" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-19T06:46:24Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:57:14.958Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="14" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="16" endPos="28" type="organization-company" surface="ThyssenKrupp" />
+<Entity id="2" startPos="37" endPos="43" type="organization" surface="MERKEL" /></Entities><Relations />
+</Document>

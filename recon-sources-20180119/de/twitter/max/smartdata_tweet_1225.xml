@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wenn sich aus der <NODE id="18" />AfD<NODE id="21" /> jetzt noch ne <NODE id="36" />dritte<NODE id="42" /> Abspaltung ergibt, dann fände ich es nur fair wenn die @<NODE id="99" />acidpartei<NODE id="109" /> auch anerkannt würde.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="756401308018540544" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-22T08:11:39Z" />
+<feature featureName="indexDate" featureValue="2016-07-22T08:11:47.364Z" />
+<feature featureName="uri" featureValue="https://twitter.com/78375754/status/756401308018540544" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="21" type="organization" surface="AfD" />
+<Entity id="1" startPos="36" endPos="42" type="number" surface="dritte" />
+<Entity id="2" startPos="99" endPos="109" type="organization" surface="acidpartei" /></Entities><Relations />
+</Document>

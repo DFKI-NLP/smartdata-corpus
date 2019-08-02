@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Kontakt
+Große Verunsicherung bei <NODE id="33" />Bank Austria<NODE id="45" />
+Nach der Bekanntgabe der Sparpläne bei der <NODE id="89" />UniCredit<NODE id="98" />-<NODE id="99" />Tochter<NODE id="106" /> <NODE id="107" />Bank Austria<NODE id="119" /> drohen die Arbeitnehmervertreter mit Arbeitskampf. Kündigungen - das gilt auch für die knapp <NODE id="213" />400<NODE id="216" /> <NODE id="217" />steirischen<NODE id="228" /> Mitarbeiter - sollen verhindert werden.
+Die Sparpläne der <NODE id="287" />italienischen<NODE id="300" /> Großbank <NODE id="310" />UniCredit<NODE id="319" />, des <NODE id="325" />Mutterkonzerns<NODE id="339" /> der <NODE id="344" />Bank Austria<NODE id="356" />, sind noch drastischer als angenommen: In den nächsten <NODE id="412" />drei Jahren<NODE id="423" /> sollen <NODE id="431" />18.200<NODE id="437" /> Stellen abgebaut werden. Die <NODE id="467" />Bank Austria<NODE id="479" /> ist sehr stark betroffen - mehr dazu in <NODE id="520" />UniCredit<NODE id="529" /> stutzt <NODE id="537" />Bank Austria<NODE id="549" /> (news.ORF.at).
+APA/GEORG HOCHMUTH
+Debatte: <NODE id="593" />Bank Austria<NODE id="605" />: Was kommt auf die Kunden zu?
+Nach wie vor nicht vom Tisch ist da der Verkauf des Privatkundengeschäfts der <NODE id="714" />Bank Austria<NODE id="726" /> - und das wiederum würde die <NODE id="756" />Steiermark<NODE id="766" /> betreffen: Die Betreuung von Firmen- und besonders vermögenden Privatkunden macht <NODE id="849" />drei Viertel<NODE id="861" /> des <NODE id="866" />steirischen<NODE id="877" /> Geschäfts der <NODE id="892" />Bank Austria<NODE id="904" /> aus, doch mehr als die Hälfte der <NODE id="939" />365<NODE id="942" /> <NODE id="943" />steirischen<NODE id="954" /> Bank-
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://steiermark.orf.at/news/stories/2741937/@2016-03-10T14:22:40.594+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://steiermark.orf.at/news/stories/2741937/" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="33" endPos="45" type="organization-company" surface="Bank Austria" />
+<Entity id="1" startPos="89" endPos="98" type="organization-company" surface="UniCredit" />
+<Entity id="2" startPos="99" endPos="106" type="trigger" surface="Tochter" />
+<Entity id="3" startPos="107" endPos="119" type="organization-company" surface="Bank Austria" />
+<Entity id="4" startPos="213" endPos="216" type="number" surface="400" />
+<Entity id="5" startPos="217" endPos="228" type="location" surface="steirischen" />
+<Entity id="6" startPos="287" endPos="300" type="location" surface="italienischen" />
+<Entity id="7" startPos="310" endPos="319" type="organization-company" surface="UniCredit" />
+<Entity id="8" startPos="325" endPos="339" type="trigger" surface="Mutterkonzerns" />
+<Entity id="9" startPos="344" endPos="356" type="organization-company" surface="Bank Austria" />
+<Entity id="10" startPos="412" endPos="423" type="duration" surface="drei Jahren" />
+<Entity id="11" startPos="431" endPos="437" type="number" surface="18.200" />
+<Entity id="12" startPos="467" endPos="479" type="organization-company" surface="Bank Austria" />
+<Entity id="13" startPos="520" endPos="529" type="organization-company" surface="UniCredit" />
+<Entity id="14" startPos="537" endPos="549" type="organization-company" surface="Bank Austria" />
+<Entity id="15" startPos="593" endPos="605" type="organization-company" surface="Bank Austria" />
+<Entity id="16" startPos="714" endPos="726" type="organization-company" surface="Bank Austria" />
+<Entity id="17" startPos="756" endPos="766" type="location" surface="Steiermark" />
+<Entity id="18" startPos="849" endPos="861" type="number" surface="drei Viertel" />
+<Entity id="19" startPos="866" endPos="877" type="location" surface="steirischen" />
+<Entity id="20" startPos="892" endPos="904" type="organization-company" surface="Bank Austria" />
+<Entity id="21" startPos="939" endPos="942" type="number" surface="365" />
+<Entity id="22" startPos="943" endPos="954" type="location" surface="steirischen" /></Entities><Relations>
+<Relation id="23" NAME="CompanyRelationship">
+<Entity id="1" label="parent" />
+<Entity id="2" label="trigger" />
+<Entity id="3" label="child" />
+</Relation>
+<Relation id="24" NAME="CompanyRelationship">
+<Entity id="7" label="parent" />
+<Entity id="8" label="trigger" />
+<Entity id="9" label="child" />
+</Relation></Relations>
+</Document>

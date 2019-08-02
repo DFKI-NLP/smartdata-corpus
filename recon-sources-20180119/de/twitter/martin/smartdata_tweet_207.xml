@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />sz<NODE id="3" /> Es verwundert nicht wirklich, daß nach Nazi-<NODE id="48" />Deutschland<NODE id="59" /> dem„neuen“ <NODE id="71" />D.<NODE id="73" /> durch die Übernahme vieler Richter das rechte Auge verbunden wurde
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="703254792643223552" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-26T16:26:23Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T17:57:53.244Z" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="3" type="organization-company" surface="sz" />
+<Entity id="1" startPos="48" endPos="59" type="location" surface="Deutschland" />
+<Entity id="2" startPos="71" endPos="73" type="location" surface="D." /></Entities><Relations />
+</Document>

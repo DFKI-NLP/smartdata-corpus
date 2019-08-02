@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Umleitung <NODE id="10" />Frankfurt (Main) Hbf <NODE id="31" />
+ Zugausfall <NODE id="44" />Frankfurt (Main) Hbf <NODE id="65" />
+von <NODE id="70" />Freitag, 8. Juli<NODE id="86" />, <NODE id="88" />20.30 Uhr<NODE id="97" /> bis <NODE id="102" />Montag, 11. Juli<NODE id="118" />, <NODE id="120" />8.00 Uhr<NODE id="128" />
+Meldung:
+ Mehrere <NODE id="147" />ICE-Züge<NODE id="155" /> werden zwischen <NODE id="172" />Frankfurt (Main) Hbf <NODE id="193" />und <NODE id="197" />Aschaffenburg Hbf <NODE id="215" />umgeleitet und <NODE id="230" />halten nicht<NODE id="242" /> in <NODE id="246" />Hanau Hbf<NODE id="255" />. Aufgrund der Umleitung verspäten sich die Züge in Richtung <NODE id="316" />Norden<NODE id="322" /> um <NODE id="326" />30 Min.<NODE id="333" /> In der Gegenrichtung fahren die Züge bis zu <NODE id="378" />30 Min.<NODE id="385" /> früher in ihren Startbahnhöfen (<NODE id="418" />Hamburg-Altona<NODE id="432" />, <NODE id="434" />Dortmund Hbf<NODE id="446" />) ab.
+ Einige <NODE id="460" />ICE-Züge<NODE id="468" /> beginnen/enden in <NODE id="487" />Würzburg Hbf <NODE id="500" />und <NODE id="504" />fallen<NODE id="510" /> zwischen <NODE id="520" />Frankfurt (Main) Hbf<NODE id="540" /> und <NODE id="545" />Würzburg Hbf<NODE id="557" /> <NODE id="558" />aus<NODE id="561" />.
+Grund:
+Brückenarbeiten <NODE id="586" />Kahl (Main) <NODE id="598" />–<NODE id="599" /> Dettingen (Main)<NODE id="616" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="686" />183<NODE id="689" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_91-Dortmund-Koeln_-_Frankfurt_M-Nuernberg-Passau-Wien/48#1a5362045edaa10ef8c03bb1eed3570a9c5de0fe@2016-06-02T15:27:37.927+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-02T13:27:37.927Z" />
+<feature featureName="indexDate" featureValue="2016-06-02T13:27:53.176Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_91-Dortmund-Koeln_-_Frankfurt_M-Nuernberg-Passau-Wien/48#1a5362045edaa10ef8c03bb1eed3570a9c5de0fe" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="10" endPos="31" type="location-stop" surface="Frankfurt (Main) Hbf " />
+<Entity id="1" startPos="44" endPos="65" type="location-stop" surface="Frankfurt (Main) Hbf " />
+<Entity id="2" startPos="70" endPos="86" type="date" surface="Freitag, 8. Juli" />
+<Entity id="3" startPos="88" endPos="97" type="time" surface="20.30 Uhr" />
+<Entity id="4" startPos="102" endPos="118" type="date" surface="Montag, 11. Juli" />
+<Entity id="5" startPos="120" endPos="128" type="time" surface="8.00 Uhr" />
+<Entity id="6" startPos="147" endPos="155" type="location-route" surface="ICE-Züge" />
+<Entity id="7" startPos="172" endPos="193" type="location-stop" surface="Frankfurt (Main) Hbf " />
+<Entity id="8" startPos="197" endPos="215" type="location-stop" surface="Aschaffenburg Hbf " />
+<Entity id="9" startPos="230" endPos="242" type="trigger" surface="halten nicht" />
+<Entity id="10" startPos="246" endPos="255" type="location-stop" surface="Hanau Hbf" />
+<Entity id="11" startPos="316" endPos="322" type="location" surface="Norden" />
+<Entity id="12" startPos="326" endPos="333" type="duration" surface="30 Min." />
+<Entity id="13" startPos="378" endPos="385" type="duration" surface="30 Min." />
+<Entity id="14" startPos="418" endPos="432" type="location-stop" surface="Hamburg-Altona" />
+<Entity id="15" startPos="434" endPos="446" type="location-stop" surface="Dortmund Hbf" />
+<Entity id="16" startPos="460" endPos="468" type="location-route" surface="ICE-Züge" />
+<Entity id="17" startPos="487" endPos="500" type="location-stop" surface="Würzburg Hbf " />
+<Entity id="18" startPos="504" endPos="510" type="trigger" surface="fallen" />
+<Entity id="19" startPos="520" endPos="540" type="location-stop" surface="Frankfurt (Main) Hbf" />
+<Entity id="20" startPos="545" endPos="557" type="location-stop" surface="Würzburg Hbf" />
+<Entity id="21" startPos="558" endPos="561" type="trigger" surface="aus" />
+<Entity id="22" startPos="586" endPos="598" type="location-stop" surface="Kahl (Main) " />
+<Entity id="23" startPos="599" endPos="616" type="location-stop" surface=" Dettingen (Main)" />
+<Entity id="24" startPos="686" endPos="689" type="number" surface="183" /></Entities><Relations>
+<Relation id="25" NAME="CanceledRoute">
+<Entity id="20" label="end_loc" />
+<Entity id="19" label="start_loc" />
+<Entity id="16" label="location" />
+<Entity id="18" label="trigger" />
+</Relation>
+<Relation id="26" NAME="CanceledStop">
+<Entity id="6" label="route" />
+<Entity id="10" label="location" />
+<Entity id="9" label="trigger" />
+</Relation></Relations>
+</Document>

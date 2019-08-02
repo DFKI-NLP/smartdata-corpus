@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Hamburg<NODE id="7" />: An der Kreuzung <NODE id="25" />Schröderstiftstraße<NODE id="44" /> / <NODE id="47" />Rentzelstraße<NODE id="60" /> sind die Ampeln außer Betrieb.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#67@2016-03-02T08:23:21.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="25" endPos="44" type="location-street" surface="Schröderstiftstraße" />
+<Entity id="2" startPos="47" endPos="60" type="location-street" surface="Rentzelstraße" /></Entities><Relations />
+</Document>

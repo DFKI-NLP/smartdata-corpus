@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />SPD<NODE id="3" />  erfreut über Verlängerung der Linie <NODE id="41" />3<NODE id="42" />
+<NODE id="43" />https://t.co/DibXRk0pfI<NODE id="66" />
+
+<NODE id="68" />#<NODE id="69" />Augsburg<NODE id="77" /> #<NODE id="79" />Haunstetten<NODE id="90" /> #<NODE id="92" />SPD<NODE id="95" /> #Verkehr #<NODE id="106" />Königsbrunn<NODE id="117" /> #Straßenbahn #ÖPNV<NODE id="136" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671685252436373504" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-01T13:40:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:27:15.73Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization" surface="SPD" />
+<Entity id="1" startPos="0" endPos="42" type="sentence" surface="SPD  erfreut über Verlängerung der Linie 3" />
+<Entity id="2" startPos="41" endPos="42" type="location-route" surface="3" />
+<Entity id="3" startPos="43" endPos="66" type="sentence" surface="https://t.co/DibXRk0pfI" />
+<Entity id="4" startPos="68" endPos="136" type="sentence" surface="#Augsburg #Haunstetten #SPD #Verkehr #Königsbrunn #Straßenbahn #ÖPNV" />
+<Entity id="5" startPos="69" endPos="77" type="location-city" surface="Augsburg" />
+<Entity id="6" startPos="79" endPos="90" type="location" surface="Haunstetten" />
+<Entity id="7" startPos="92" endPos="95" type="organization" surface="SPD" />
+<Entity id="8" startPos="106" endPos="117" type="location-city" surface="Königsbrunn" /></Entities><Relations />
+</Document>

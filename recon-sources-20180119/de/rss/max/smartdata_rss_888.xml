@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Auf der <NODE id="8" />A61<NODE id="11" /> <NODE id="12" />Koblenz<NODE id="19" /> Richtung <NODE id="29" />Mönchengladbach<NODE id="44" /> fährt zwischen <NODE id="60" />Kreuz Kerpen<NODE id="72" /> und <NODE id="77" />Jackerath<NODE id="86" /> ein Schwertransport, der nicht überholt werden kann.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#17@2016-03-17T05:21:01.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-17T04:21:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-17T04:24:47.419Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="11" type="location-street" surface="A61" />
+<Entity id="1" startPos="12" endPos="19" type="location-city" surface="Koblenz" />
+<Entity id="2" startPos="29" endPos="44" type="location-city" surface="Mönchengladbach" />
+<Entity id="3" startPos="60" endPos="72" type="location" surface="Kreuz Kerpen" />
+<Entity id="4" startPos="77" endPos="86" type="location" surface="Jackerath" /></Entities><Relations />
+</Document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Abspaltung: <NODE id="12" />RWE<NODE id="15" />-<NODE id="16" />Tochter<NODE id="23" /> <NODE id="24" />Innogy<NODE id="30" /> lockt Anleger mit hoher Dividende https://t.co/9kBKUIqf6t via @<NODE id="94" />SPIEGELONLINE<NODE id="107" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="748592104587333632" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-30T19:00:40Z" />
+<feature featureName="indexDate" featureValue="2016-06-30T19:00:44.035Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2303374616/status/748592104587333632" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="15" type="organization-company" surface="RWE" />
+<Entity id="1" startPos="16" endPos="23" type="trigger" surface="Tochter" />
+<Entity id="2" startPos="24" endPos="30" type="organization-company" surface="Innogy" />
+<Entity id="3" startPos="94" endPos="107" type="organization-company" surface="SPIEGELONLINE" /></Entities><Relations>
+<Relation id="4" NAME="SpinOff">
+<Entity id="0" label="parent" />
+<Entity id="1" label="trigger" />
+<Entity id="2" label="child" />
+</Relation></Relations>
+</Document>

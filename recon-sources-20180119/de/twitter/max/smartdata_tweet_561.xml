@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: In einer <NODE id="28" />Kölner<NODE id="34" /> Kneipe hat es eine Schießerei gegeben https://t.co/kHRc3vPZXM
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667618279645700096" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-20T08:19:36Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:00:14.119Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="28" endPos="34" type="location-city" surface="Kölner" /></Entities><Relations />
+</Document>

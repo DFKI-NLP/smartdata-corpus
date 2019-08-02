@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wegen eines <NODE id="12" />Notarzteinsatzes<NODE id="28" /> ist auf der <NODE id="41" />Bahnstrecke Kempten-Immenstadt<NODE id="71" /> der Streckenabschnitt zwischen <NODE id="103" />Immenstadt<NODE id="113" /> und <NODE id="118" />Martinszell<NODE id="129" /> im Moment <NODE id="140" />gesperrt<NODE id="148" />. Ein Schienenersatzverkehr ist eingerichtet (<NODE id="194" />20:21<NODE id="199" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.br-online.de/aktuell/verkehr/verkehr-verkehrsmeldungen-staumeldungen-ID119730167093.xml@2016-04-09T21:47:29.455+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.br-online.de/aktuell/verkehr/verkehr-verkehrsmeldungen-staumeldungen-ID119730167093.xml" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="28" type="trigger" surface="Notarzteinsatzes" />
+<Entity id="1" startPos="41" endPos="71" type="location-route" surface="Bahnstrecke Kempten-Immenstadt" />
+<Entity id="2" startPos="103" endPos="113" type="location-stop" surface="Immenstadt" />
+<Entity id="3" startPos="118" endPos="129" type="location-stop" surface="Martinszell" />
+<Entity id="4" startPos="140" endPos="148" type="trigger" surface="gesperrt" />
+<Entity id="5" startPos="194" endPos="199" type="time" surface="20:21" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="start_loc" />
+<Entity id="0" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Zwahlen &amp; Mayr<NODE id="14" /> <NODE id="15" />streicht Stellen<NODE id="31" /> wegen roter Zahlen
+<NODE id="51" />25.09.2015<NODE id="61" /> <NODE id="62" />08:13<NODE id="67" />
+Die im Stahlbau und der Edelstahlproduktion tätige <NODE id="119" />Zwahlen &amp; Mayr<NODE id="133" /> ist im <NODE id="141" />ersten Halbjahr 2015<NODE id="161" /> trotz eines <NODE id="174" />8 Prozent<NODE id="183" /> höheren Umsatzes von <NODE id="205" />34,2 Millionen Franken<NODE id="227" /> tiefer in die roten Zahlen gerutscht.
+Der Verlust vergrösserte sich von <NODE id="300" />977'000<NODE id="307" /> auf <NODE id="312" />2,8 Millionen Franken<NODE id="333" />. Das <NODE id="339" />Waadtländer Unternehmen<NODE id="362" /> <NODE id="363" />streicht<NODE id="371" /> deshalb <NODE id="380" />Stellen<NODE id="387" />. Konkrete Angaben zum Umfang des Stellenabbau würden zu einem späteren Zeitpunkt gemacht, sagte ein Sprecher von <NODE id="501" />Zwahlen &amp; Mayr<NODE id="515" /> am <NODE id="519" />Freitag<NODE id="526" /> der Nachrichtenagentur <NODE id="550" />sda<NODE id="553" />.
+<NODE id="555" />Zwahlen &amp; Mayr<NODE id="569" /> hatte bereits <NODE id="584" />Ende Juni<NODE id="593" /> ein stark negatives Halbjahresergebnis in Aussicht gestellt und dieses mit dem starken Franken seit der Aufhebung des Euro-Mindestkurses durch die <NODE id="741" />SNB<NODE id="744" /> <NODE id="745" />Mitte Januar<NODE id="757" /> begründet.
+Die Situation sollte sich nach Unternehmensangaben in der <NODE id="827" />zweiten Jahreshälfte<NODE id="847" /> wegen der per <NODE id="862" />Anfang Juli<NODE id="873" /> getroffenen Sparmassnahmen etwas verbessern. Gemäss früheren Angaben so
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.cash.ch/news/alle/rss/zwahlen_mayr_streicht_stellen_wegen_roter_zahlen-3372096-448@2016-03-10T21:38:47.650+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T20:38:47.65Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T20:38:53.318Z" />
+<feature featureName="uri" featureValue="http://www.cash.ch/news/alle/rss/zwahlen_mayr_streicht_stellen_wegen_roter_zahlen-3372096-448" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="organization-company" surface="Zwahlen &amp; Mayr" />
+<Entity id="1" startPos="15" endPos="31" type="trigger" surface="streicht Stellen" />
+<Entity id="2" startPos="51" endPos="61" type="date" surface="25.09.2015" />
+<Entity id="3" startPos="62" endPos="67" type="time" surface="08:13" />
+<Entity id="4" startPos="119" endPos="133" type="organization-company" surface="Zwahlen &amp; Mayr" />
+<Entity id="5" startPos="141" endPos="161" type="date" surface="ersten Halbjahr 2015" />
+<Entity id="6" startPos="174" endPos="183" type="number" surface="8 Prozent" />
+<Entity id="7" startPos="205" endPos="227" type="number" surface="34,2 Millionen Franken" />
+<Entity id="8" startPos="300" endPos="307" type="number" surface="977'000" />
+<Entity id="9" startPos="312" endPos="333" type="number" surface="2,8 Millionen Franken" />
+<Entity id="10" startPos="339" endPos="362" type="organization-company" surface="Waadtländer Unternehmen" />
+<Entity id="11" startPos="363" endPos="371" type="trigger" surface="streicht" />
+<Entity id="12" startPos="380" endPos="387" type="trigger" surface="Stellen" />
+<Entity id="13" startPos="501" endPos="515" type="organization-company" surface="Zwahlen &amp; Mayr" />
+<Entity id="14" startPos="519" endPos="526" type="date" surface="Freitag" />
+<Entity id="15" startPos="550" endPos="553" type="organization-company" surface="sda" />
+<Entity id="16" startPos="555" endPos="569" type="organization-company" surface="Zwahlen &amp; Mayr" />
+<Entity id="17" startPos="584" endPos="593" type="date" surface="Ende Juni" />
+<Entity id="18" startPos="741" endPos="744" type="organization-company" surface="SNB" />
+<Entity id="19" startPos="745" endPos="757" type="date" surface="Mitte Januar" />
+<Entity id="20" startPos="827" endPos="847" type="date" surface="zweiten Jahreshälfte" />
+<Entity id="21" startPos="862" endPos="873" type="date" surface="Anfang Juli" /></Entities><Relations>
+<Relation id="22" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="4" label="target" />
+<Entity id="16" label="target" />
+<Entity id="13" label="target" />
+<Entity id="10" label="target" />
+</Relation>
+<Relation id="23" NAME="Layoffs">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="24" NAME="Layoffs">
+<Entity id="10" label="company" />
+<Entity id="11" label="trigger" />
+<Entity id="12" label="trigger" />
+</Relation></Relations>
+</Document>

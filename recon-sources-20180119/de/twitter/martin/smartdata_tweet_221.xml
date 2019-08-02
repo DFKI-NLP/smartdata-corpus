@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />de_sputnik<NODE id="14" />: #<NODE id="17" />Poroschenko<NODE id="28" />: „Ich lasse niemals ein #Referendum über #<NODE id="71" />Donbass<NODE id="78" />-Abspaltung zu“ http://t.co/vRlvfsEaNZ http://t.co/TDgwFba0nG
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="606803851409260544" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-05T12:44:46Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T04:57:00.343Z" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="organization-company" surface="de_sputnik" />
+<Entity id="1" startPos="17" endPos="28" type="person" surface="Poroschenko" />
+<Entity id="2" startPos="71" endPos="78" type="location" surface="Donbass" /></Entities><Relations />
+</Document>

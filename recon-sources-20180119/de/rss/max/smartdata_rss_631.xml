@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sonstiges
+Abschnitt: <NODE id="21" />Charlottenburg<NODE id="35" /> (<NODE id="37" />Berlin<NODE id="43" />)
+Gültig ab: <NODE id="56" />03.04.2016<NODE id="66" /> <NODE id="67" />21:29<NODE id="72" />
+rechter Fahrstreifen gesperrt, Reinigungsarbeiten
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_64092@2016-04-03T22:29:57.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-03T20:29:57Z" />
+<feature featureName="indexDate" featureValue="2016-04-03T20:54:54.924Z" />
+<feature featureName="uri" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_64092" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="21" endPos="35" type="location" surface="Charlottenburg" />
+<Entity id="1" startPos="37" endPos="43" type="location-city" surface="Berlin" />
+<Entity id="2" startPos="56" endPos="66" type="date" surface="03.04.2016" />
+<Entity id="3" startPos="67" endPos="72" type="time" surface="21:29" /></Entities><Relations />
+</Document>

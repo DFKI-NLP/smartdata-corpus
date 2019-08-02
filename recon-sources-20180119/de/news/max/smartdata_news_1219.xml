@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Weiter zum Artikel
+<NODE id="19" />Houston<NODE id="26" /> (<NODE id="28" />Texas<NODE id="33" />), <NODE id="36" />20.07.2016<NODE id="46" />
+Die gescheiterte Übernahme des Rivalen <NODE id="86" />Baker Hughes<NODE id="98" /> hat dem <NODE id="107" />US<NODE id="109" />-Öldienstleister <NODE id="126" />Halliburton<NODE id="137" /> einen Milliarden-Verlust eingebrockt. Der Konzern wies für das <NODE id="201" />zweite Quartal<NODE id="215" /> einen Fehlbetrag von <NODE id="237" />3,21 Mrd. Dollar<NODE id="253" /> (<NODE id="255" />2,9 Mrd. Euro<NODE id="268" />) aus - nach <NODE id="281" />54 Mio. Dollar<NODE id="295" /> Gewinn vor Jahresfrist.
+Analysten hatten tiefrote Zahlen aber erwartet, weil <NODE id="373" />Halliburton<NODE id="384" /> schon beim Scheitern der Übernahme im <NODE id="423" />Mai<NODE id="426" /> erklärt hatte, nun <NODE id="446" />3,5 Mrd. Dollar<NODE id="461" /> Vertragsstrafe an <NODE id="480" />Baker Hughes<NODE id="492" /> zahlen zu müssen. Die <NODE id="515" />35 Mrd. Dollar<NODE id="529" /> schwere Fusion der globalen Nummern <NODE id="566" />zwei<NODE id="570" /> und <NODE id="575" />drei<NODE id="579" /> der Branche war am Widerstand der Aufseher gescheitert. <NODE id="636" />Halliburton<NODE id="647" />-Aktien gaben vorbörslich um rund <NODE id="681" />ein Prozent<NODE id="692" /> nach.
+Dem Konzern machte auch im <NODE id="726" />zweiten Quartal<NODE id="741" /> zu schaffen, dass sich Ölfirmen wegen des niedrigen Ölpreises mit Investitionen zurückhielten. So sank der Umsatz um <NODE id="859" />35 Prozent<NODE id="869" /> auf <NODE id="874" />3,8 Mrd. Dollar<NODE id="889" />. Im operativen Geschäft fiel ein Verlust je Aktie 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.energynewsmagazine.at/de/tiefrote+zahlen+bei+halliburton+nach+geplatzter+%C3%9Cbernahme_n8962@2016-07-20T16:43:27.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-20T14:43:27Z" />
+<feature featureName="indexDate" featureValue="2016-07-20T14:48:11.359Z" />
+<feature featureName="uri" featureValue="http://www.energynewsmagazine.at/de/tiefrote+zahlen+bei+halliburton+nach+geplatzter+%C3%9Cbernahme_n8962" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="26" type="location-city" surface="Houston" />
+<Entity id="1" startPos="28" endPos="33" type="location" surface="Texas" />
+<Entity id="2" startPos="36" endPos="46" type="date" surface="20.07.2016" />
+<Entity id="3" startPos="86" endPos="98" type="organization-company" surface="Baker Hughes" />
+<Entity id="4" startPos="107" endPos="109" type="location" surface="US" />
+<Entity id="5" startPos="126" endPos="137" type="organization-company" surface="Halliburton" />
+<Entity id="6" startPos="201" endPos="215" type="number" surface="zweite Quartal" />
+<Entity id="7" startPos="237" endPos="253" type="number" surface="3,21 Mrd. Dollar" />
+<Entity id="8" startPos="255" endPos="268" type="number" surface="2,9 Mrd. Euro" />
+<Entity id="9" startPos="281" endPos="295" type="number" surface="54 Mio. Dollar" />
+<Entity id="10" startPos="373" endPos="384" type="organization-company" surface="Halliburton" />
+<Entity id="11" startPos="423" endPos="426" type="date" surface="Mai" />
+<Entity id="12" startPos="446" endPos="461" type="number" surface="3,5 Mrd. Dollar" />
+<Entity id="13" startPos="480" endPos="492" type="organization-company" surface="Baker Hughes" />
+<Entity id="14" startPos="515" endPos="529" type="number" surface="35 Mrd. Dollar" />
+<Entity id="15" startPos="566" endPos="570" type="number" surface="zwei" />
+<Entity id="16" startPos="575" endPos="579" type="number" surface="drei" />
+<Entity id="17" startPos="636" endPos="647" type="organization-company" surface="Halliburton" />
+<Entity id="18" startPos="681" endPos="692" type="number" surface="ein Prozent" />
+<Entity id="19" startPos="726" endPos="741" type="number" surface="zweiten Quartal" />
+<Entity id="20" startPos="859" endPos="869" type="number" surface="35 Prozent" />
+<Entity id="21" startPos="874" endPos="889" type="number" surface="3,8 Mrd. Dollar" /></Entities><Relations />
+</Document>

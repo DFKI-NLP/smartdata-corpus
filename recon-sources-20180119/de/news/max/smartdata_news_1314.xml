@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Kommentar schreiben
+Top Themen Heute
+<NODE id="37" />Berlin<NODE id="43" /> (ots) -
+- Querverweis: Bildmaterial wird über obs versandt und ist      abrufbar unter http://www.presseportal.de/bilder -
+<NODE id="167" />Bayerns<NODE id="174" /> Wirtschafts- und Energieministerin <NODE id="210" />Ilse Aigner<NODE id="221" /> hat am  <NODE id="230" />Montag<NODE id="236" /> eines der Unternehmen in <NODE id="262" />Bayern<NODE id="268" /> besucht, das bereits seinen  Stromverbrauch an die aktuelle Situation im Stromsystem anpasst. Der  Papierhersteller <NODE id="385" />UPM GmbH<NODE id="393" /> in <NODE id="397" />Schongau<NODE id="405" /> gehört zu den  Vorreiterunternehmen, die derzeit in einem Pilotprojekt der <NODE id="481" />Deutschen Energie-Agentur<NODE id="506" /> (<NODE id="508" />dena<NODE id="512" />) und des <NODE id="522" />Bayerischen Wirtschaftsministeriums<NODE id="557" />  das sogenannte Demand Side Management (DSM) erproben. Wie DSM  erfolgreich in der Praxis funktionieren kann, hat sich  Energieministerin Aigner vor Ort am Beispiel der Holzstoffproduktion  bei <NODE id="752" />UPM<NODE id="755" /> erläutern lassen.
+Pilotprojekt liefert wertvolle Erfahrungen für Marktentwicklung
+Damit die Energiewende ein Erfolg wird, müssen wir die  Erneuerbaren besser in das Gesamtsys
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzen.net/nachricht/aktien/Papierhersteller-UPM-unterstuetzt-Energiewende-in-Bayern-Bayerns-Wirtschafsministerin-Aigner-besucht-Teilnehmer-des-dena-Pilotprojekts-Demand-Side-Management-Bayern-FOTO-4756323@2016-02-29T14:02:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-29T13:02:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:09:43.427Z" />
+<feature featureName="uri" featureValue="http://www.finanzen.net/nachricht/aktien/Papierhersteller-UPM-unterstuetzt-Energiewende-in-Bayern-Bayerns-Wirtschafsministerin-Aigner-besucht-Teilnehmer-des-dena-Pilotprojekts-Demand-Side-Management-Bayern-FOTO-4756323" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="37" endPos="43" type="location-city" surface="Berlin" />
+<Entity id="1" startPos="167" endPos="174" type="location" surface="Bayerns" />
+<Entity id="2" startPos="210" endPos="221" type="person" surface="Ilse Aigner" />
+<Entity id="3" startPos="230" endPos="236" type="date" surface="Montag" />
+<Entity id="4" startPos="262" endPos="268" type="location" surface="Bayern" />
+<Entity id="5" startPos="385" endPos="393" type="organization-company" surface="UPM GmbH" />
+<Entity id="6" startPos="397" endPos="405" type="location-city" surface="Schongau" />
+<Entity id="7" startPos="481" endPos="506" type="organization" surface="Deutschen Energie-Agentur" />
+<Entity id="8" startPos="508" endPos="512" type="organization" surface="dena" />
+<Entity id="9" startPos="522" endPos="557" type="organization" surface="Bayerischen Wirtschaftsministeriums" />
+<Entity id="10" startPos="752" endPos="755" type="organization-company" surface="UPM" /></Entities><Relations />
+</Document>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />Münchner Feuerwehr<NODE id="22" /> musste nach einem Unfall mit einem Toilettensitz zu einem kuriosen Einsatz ausrücken. https://t.co/jWguZOmMx1 (nal)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671317156827648001" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="22" type="organization" surface="Münchner Feuerwehr" /></Entities><Relations />
+</Document>

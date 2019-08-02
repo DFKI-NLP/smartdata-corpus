@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bombe in <NODE id="9" />Leipzig<NODE id="16" /> gefunden: Sprengung des Blindgängers war erfolgreich
+<NODE id="70" />14.01.2016<NODE id="80" /> <NODE id="81" />06:08 Uhr<NODE id="90" />               | Aktualisiert <NODE id="120" />14.01.2016<NODE id="130" /> <NODE id="131" />17:25 Uhr<NODE id="140" />
+Eine Fliegerbombe aus dem <NODE id="167" />2<NODE id="168" />. Weltkrieg wird am <NODE id="188" />14.01.2016<NODE id="198" /> in <NODE id="202" />Leipzig<NODE id="209" /> (<NODE id="211" />Sachsen<NODE id="218" />) gesprengt.
+(BILD: dpa)
+Mit <NODE id="247" />einigen Stunden<NODE id="262" /> Verspätung wurde am <NODE id="283" />Donnerstagnachmittag<NODE id="303" /> kurz nach <NODE id="314" />15 Uhr<NODE id="320" /> die Bombe gesprengt. Der Bombenblindgänger aus dem<NODE id="371" /> Zweiten<NODE id="379" /> Weltkrieg war am <NODE id="397" />Mittwoch<NODE id="405" /> auf dem Bahnhofsgelände in <NODE id="433" />Leipzig-Wahren<NODE id="447" /> gefunden worden.
+Drucken per Mail
+<NODE id="482" />Leipzig<NODE id="489" />. 
+Gegen <NODE id="498" />15 Uhr<NODE id="504" /> war es endlich so weit: Der Bombenblindgänger aus dem <NODE id="559" />Zweiten<NODE id="566" /> Weltkrieg wurde in <NODE id="586" />Leipzig-Wahren<NODE id="600" /> kontrolliert gesprengt. Ursprünglich war die Sprengung bereits gegen <NODE id="670" />13 Uhr<NODE id="676" /> geplant. Da sich jedoch das befüllen von Wassersäcken verzögerte, gab es den großen Knall erst am <NODE id="775" />Nachmittag<NODE id="785" />. Die Bombe wurde mit Wassersäcken gedämmt, die insgesamt <NODE id="843" />40.000 Liter<NODE id="855" /> enthalten. Sie sollten die Sprengung dämpfen.
+Am <NODE id="905" />Morgen<NODE id="911" /> wurden <NODE id="919" />Hundert<NODE id="926" /> Menschen in Siche
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.mz-web.de/leipzig/bombe-in-leipzig-gefunden-sprengung-verzoegert-sich-immer-weiter,31429772,33519974.html@2016-03-10T11:59:13.427+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T10:59:13.427Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:59:23.486Z" />
+<feature featureName="uri" featureValue="http://www.mz-web.de/leipzig/bombe-in-leipzig-gefunden-sprengung-verzoegert-sich-immer-weiter,31429772,33519974.html" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="16" type="location-city" surface="Leipzig" />
+<Entity id="1" startPos="70" endPos="80" type="date" surface="14.01.2016" />
+<Entity id="2" startPos="81" endPos="90" type="time" surface="06:08 Uhr" />
+<Entity id="3" startPos="120" endPos="130" type="date" surface="14.01.2016" />
+<Entity id="4" startPos="131" endPos="140" type="time" surface="17:25 Uhr" />
+<Entity id="5" startPos="167" endPos="168" type="number" surface="2" />
+<Entity id="6" startPos="188" endPos="198" type="date" surface="14.01.2016" />
+<Entity id="7" startPos="202" endPos="209" type="location-city" surface="Leipzig" />
+<Entity id="8" startPos="211" endPos="218" type="location" surface="Sachsen" />
+<Entity id="9" startPos="247" endPos="262" type="duration" surface="einigen Stunden" />
+<Entity id="10" startPos="283" endPos="303" type="date" surface="Donnerstagnachmittag" />
+<Entity id="11" startPos="314" endPos="320" type="time" surface="15 Uhr" />
+<Entity id="12" startPos="371" endPos="379" type="number" surface=" Zweiten" />
+<Entity id="13" startPos="397" endPos="405" type="date" surface="Mittwoch" />
+<Entity id="14" startPos="433" endPos="447" type="location" surface="Leipzig-Wahren" />
+<Entity id="15" startPos="482" endPos="489" type="location-city" surface="Leipzig" />
+<Entity id="16" startPos="498" endPos="504" type="time" surface="15 Uhr" />
+<Entity id="17" startPos="559" endPos="566" type="number" surface="Zweiten" />
+<Entity id="18" startPos="586" endPos="600" type="location" surface="Leipzig-Wahren" />
+<Entity id="19" startPos="670" endPos="676" type="time" surface="13 Uhr" />
+<Entity id="20" startPos="775" endPos="785" type="date" surface="Nachmittag" />
+<Entity id="21" startPos="843" endPos="855" type="number" surface="40.000 Liter" />
+<Entity id="22" startPos="905" endPos="911" type="date" surface="Morgen" />
+<Entity id="23" startPos="919" endPos="926" type="number" surface="Hundert" /></Entities><Relations />
+</Document>

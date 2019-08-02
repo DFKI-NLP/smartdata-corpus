@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />01.03.2016<NODE id="10" /> - <NODE id="13" />05:35 Uhr<NODE id="22" />
+Anschlussflug verpasst: Zubringer-Airline muss zahlen
+Das passiert nicht nur bei der Bahn, sonder auch im Flugverkehr. Die Maschine hat Verspätung. Der Anschlussflug wird verpasst. Wie sieht es mit einer Entschädigung aus? Dazu hat das Landgericht <NODE id="271" />Berlin<NODE id="277" /> ein Urteil gesprochen.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.direktbroker.de/news/anschlussflug-verpasst-zubringer-airline-muss-zahlen-48652228@2016-03-01T05:35:54.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-01T04:35:54Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T07:24:01.931Z" />
+<feature featureName="uri" featureValue="http://www.direktbroker.de/news/anschlussflug-verpasst-zubringer-airline-muss-zahlen-48652228" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="01.03.2016" />
+<Entity id="1" startPos="13" endPos="22" type="time" surface="05:35 Uhr" />
+<Entity id="2" startPos="271" endPos="277" type="location-city" surface="Berlin" /></Entities><Relations />
+</Document>

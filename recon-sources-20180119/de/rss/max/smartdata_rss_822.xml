@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Waldshut-Tiengen<NODE id="16" /> Richtung <NODE id="26" />Singen<NODE id="32" /> zwischen <NODE id="42" />Eggingen<NODE id="50" /> und <NODE id="55" />Stühlingen-Weizen<NODE id="72" />/<NODE id="73" />Am Bahnhof<NODE id="83" />/<NODE id="84" />B315<NODE id="88" /> Gefahr durch Überflutung, Gefahr durch Gegenstände auf der Fahrbahn, Richtungsfahrbahn für PKW gesperrt, eine örtliche Umleitung ist eingerichtet
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=66b14e4f-e7f7-4fb3-8a0b-c42beaf09f78@2016-06-25T07:17:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-25T05:17:00Z" />
+<feature featureName="indexDate" featureValue="2016-06-25T06:54:57.322Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=66b14e4f-e7f7-4fb3-8a0b-c42beaf09f78" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="16" type="location-city" surface="Waldshut-Tiengen" />
+<Entity id="1" startPos="26" endPos="32" type="location-city" surface="Singen" />
+<Entity id="2" startPos="42" endPos="50" type="location" surface="Eggingen" />
+<Entity id="3" startPos="55" endPos="72" type="location" surface="Stühlingen-Weizen" />
+<Entity id="4" startPos="73" endPos="83" type="location-street" surface="Am Bahnhof" />
+<Entity id="5" startPos="84" endPos="88" type="location-street" surface="B315" /></Entities><Relations />
+</Document>

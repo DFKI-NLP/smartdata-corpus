@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Twittern
+Freie Fahrt auf der <NODE id="29" />Kreisstraße 14<NODE id="43" /> ab Mittwoch
+Der Ausbau der Straße zwischen den Gemeinden <NODE id="101" />Astert<NODE id="107" /> und <NODE id="112" />Heuzert<NODE id="119" /> wird am <NODE id="128" />20. April <NODE id="138" />für den Verkehr freigegeben. Erhebliche Umwege mussten die Verkehrsteilnehmer monatelang in Kauf nehmen, weil die <NODE id="252" />Kreisstraße 14<NODE id="266" /> wegen Ausbaumaßnahmen für den Verkehr gesperrt wurde.
+Foto der freigegebenen Strecke: <NODE id="353" />Reinhard Panthel<NODE id="369" />.
+<NODE id="371" />Astert<NODE id="377" />/<NODE id="378" />Heuzert<NODE id="385" />. Der Landesbetrieb Mobilität Diez begründete die Verzögerungen während der Baumaßnahme mit witterungsbedingten Einflüssen. Die nur etwa <NODE id="522" />einen Kilometer<NODE id="537" /> lange Strecke erhielt eine neue Asphaltdecke. Zusätzlich wurden entlang der gesamten Strecke Entwässerungseinrichtungen erneuert und für die Verkehrssicherheit neue Leitplanken angebracht. Die Gesamtkosten wurden mit etwa <NODE id="760" />260.000 Euro<NODE id="772" /> beziffert.
+Endlich ist die Straße fertig, freuten sich die ersten Nutzer, die auch während der Ausbauphase schon einmal eine Probefahrt unternahmen. Die kurvenreiche Strecke, f
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ww-kurier.de/artikel/47134-freie-fahrt-auf-der-kreisstrasse-14-ab-mittwoch@2016-04-19T22:15:59.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-19T20:15:59Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T08:50:49.603Z" />
+<feature featureName="uri" featureValue="http://www.ww-kurier.de/artikel/47134-freie-fahrt-auf-der-kreisstrasse-14-ab-mittwoch" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="29" endPos="43" type="location-street" surface="Kreisstraße 14" />
+<Entity id="1" startPos="101" endPos="107" type="location" surface="Astert" />
+<Entity id="2" startPos="112" endPos="119" type="location" surface="Heuzert" />
+<Entity id="3" startPos="128" endPos="138" type="date" surface="20. April " />
+<Entity id="4" startPos="252" endPos="266" type="location-street" surface="Kreisstraße 14" />
+<Entity id="5" startPos="353" endPos="369" type="person" surface="Reinhard Panthel" />
+<Entity id="6" startPos="371" endPos="377" type="location" surface="Astert" />
+<Entity id="7" startPos="378" endPos="385" type="location" surface="Heuzert" />
+<Entity id="8" startPos="522" endPos="537" type="distance" surface="einen Kilometer" />
+<Entity id="9" startPos="760" endPos="772" type="number" surface="260.000 Euro" /></Entities><Relations />
+</Document>

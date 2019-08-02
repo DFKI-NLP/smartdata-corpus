@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Gesprengte Bancomaten
+Immer dreistere Panzerknacker
+Klassische Banküberfälle gibt es zwar immer weniger. Dafür aber brachten Diebe <NODE id="131" />2015<NODE id="135" /> in <NODE id="139" />Deutschland<NODE id="150" /> <NODE id="151" />151<NODE id="154" /> Bancomaten zur Explosion. Und soeben haben sie eine neue brachiale Methode entdeckt.
+Kolumne
+<NODE id="248" />5.3.2016<NODE id="256" />, <NODE id="258" />10:00 Uhr<NODE id="267" />
+Die Einbrecher lassen sich neue, brachiale Methoden einfallen. (Bild: Imago)
+Zuerst die gute Nachricht: «Klassische» Banküberfälle sind immer seltener. In  den Filialen liegt nicht mehr stapelweise Geld in einem einfach zugänglichen  Tresor. Moderne Automaten zahlen mit Zeitverzögerung nur kleinere Summen aus.  Die Zahl  der Banküberfälle ist deshalb in <NODE id="624" />Deutschland<NODE id="635" /> von <NODE id="640" />767<NODE id="643" /> im Jahr <NODE id="652" />2003<NODE id="656" /> auf <NODE id="661" />193<NODE id="664" /> im  Jahr <NODE id="674" />2014<NODE id="678" /> gesunken. Es gibt aber auch eine schlechte Nachricht: Diebe bringen  immer öfter Bancomaten zur Explosion. Waren es <NODE id="795" />2011<NODE id="799" /> erst <NODE id="805" />38<NODE id="807" /> Fälle, sind es <NODE id="823" />2015<NODE id="827" />  schon <NODE id="835" />151<NODE id="838" />. In der <NODE id="847" />Schweiz<NODE id="854" /> sind bis jetzt nur Einzelfälle bekannt wie jüngst aus  dem <NODE id="914" />jurassischen<NODE id="926" /> <NODE id="927" />Le  Noirmont<NODE id="939" />. Die 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nzz.ch/wirtschaft/wirtschaftspolitik/gesprengte-bancomaten-immer-dreistere-panzerknacker-ld.6284@2016-03-05T10:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-05T09:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:15:32.952Z" />
+<feature featureName="uri" featureValue="http://www.nzz.ch/wirtschaft/wirtschaftspolitik/gesprengte-bancomaten-immer-dreistere-panzerknacker-ld.6284" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="131" endPos="135" type="date" surface="2015" />
+<Entity id="1" startPos="139" endPos="150" type="location" surface="Deutschland" />
+<Entity id="2" startPos="151" endPos="154" type="number" surface="151" />
+<Entity id="3" startPos="248" endPos="256" type="date" surface="5.3.2016" />
+<Entity id="4" startPos="258" endPos="267" type="time" surface="10:00 Uhr" />
+<Entity id="5" startPos="624" endPos="635" type="location" surface="Deutschland" />
+<Entity id="6" startPos="640" endPos="643" type="number" surface="767" />
+<Entity id="7" startPos="652" endPos="656" type="date" surface="2003" />
+<Entity id="8" startPos="661" endPos="664" type="number" surface="193" />
+<Entity id="9" startPos="674" endPos="678" type="date" surface="2014" />
+<Entity id="10" startPos="795" endPos="799" type="date" surface="2011" />
+<Entity id="11" startPos="805" endPos="807" type="number" surface="38" />
+<Entity id="12" startPos="823" endPos="827" type="date" surface="2015" />
+<Entity id="13" startPos="835" endPos="838" type="number" surface="151" />
+<Entity id="14" startPos="847" endPos="854" type="location" surface="Schweiz" />
+<Entity id="15" startPos="914" endPos="926" type="location" surface="jurassischen" />
+<Entity id="16" startPos="927" endPos="939" type="location-city" surface="Le  Noirmont" /></Entities><Relations />
+</Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />S73<NODE id="3" /> <NODE id="4" />Dresden-Pieschen<NODE id="20" />, <NODE id="22" />Washingtonstraße<NODE id="38" /> in Höhe <NODE id="47" />Scharfenberger Straße<NODE id="68" />
+alle Unfallstellen geräumt, keine Verkehrsbehinderung mehr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp@2016-04-01T10:04:46.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-01T08:04:46Z" />
+<feature featureName="indexDate" featureValue="2016-04-01T08:14:49.522Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-route" surface="S73" />
+<Entity id="1" startPos="4" endPos="20" type="location-stop" surface="Dresden-Pieschen" />
+<Entity id="2" startPos="22" endPos="38" type="location-street" surface="Washingtonstraße" />
+<Entity id="3" startPos="47" endPos="68" type="location-street" surface="Scharfenberger Straße" /></Entities><Relations />
+</Document>

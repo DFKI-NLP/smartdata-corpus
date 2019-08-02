@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />DGAP<NODE id="4" />-News: <NODE id="11" />IMMOFINANZ AG<NODE id="24" /> / Schlagwort(e): Immobilien/Sonstiges
+<NODE id="63" />IMMOFINANZ<NODE id="73" /> mit weiterer Großvermietung in Düsseldorf: <NODE id="117" />Uniper<NODE id="123" /> bezieht rund
+<NODE id="137" />28.000 m²<NODE id="146" /> im Bürokomplex FLOAT
+<NODE id="168" />11.01.2016<NODE id="178" /> / <NODE id="181" />10:15<NODE id="186" />
+Für den Inhalt der Mitteilung ist der Emittent verantwortlich.
+---------------------------------------------------------------------------
+Die <NODE id="330" />IMMOFINANZ<NODE id="340" /> hat für ihr im <NODE id="356" />Düsseldorfer<NODE id="368" /> Medienhafen gelegenes
+Büroprojekt FLOAT einen großflächigen Mietvertrag abgeschlossen: Der
+Energieanbieter <NODE id="476" />Uniper Kraftwerke GmbH<NODE id="498" />, eine <NODE id="505" />100%<NODE id="509" />-<NODE id="510" />Tochter<NODE id="517" /> der<NODE id="521" /> E.ON SE<NODE id="529" />,
+mietet rund <NODE id="543" />28.000 m²<NODE id="552" /> und somit die gesamte Bürofläche des Gebäudes. Die
+Fertigstellung des von Stararchitekt <NODE id="641" />Renzo Piano<NODE id="652" /> entworfenen Bürokomplexes
+ist bis <NODE id="687" />Mitte 2018<NODE id="697" /> geplant.
+Mit <NODE id="711" />Uniper<NODE id="717" /> und <NODE id="722" />trivago<NODE id="729" /> haben sich <NODE id="741" />binnen weniger Monate<NODE id="762" /> <NODE id="763" />zwei<NODE id="767" /> renommierte
+Konzerne für <NODE id="793" />IMMOFINANZ<NODE id="803" />-Immobilien in <NODE id="818" />Düsseldorf<NODE id="828" /> als künftige
+Firmenzentralen entschieden. Das bestätigt die hochwertige Positionierung
+unseres Büroportfolios. Die
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wallstreet-online.de/nachricht/8246682-dgap-news-immofinanz-grossvermietung-duesseldorf-uniper-bezieht-28-000-m-buerokomplex-float@2016-03-10T15:12:07.477+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:12:07.477Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:12:13.319Z" />
+<feature featureName="uri" featureValue="http://www.wallstreet-online.de/nachricht/8246682-dgap-news-immofinanz-grossvermietung-duesseldorf-uniper-bezieht-28-000-m-buerokomplex-float" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="organization-company" surface="DGAP" />
+<Entity id="1" startPos="11" endPos="24" type="organization-company" surface="IMMOFINANZ AG" />
+<Entity id="2" startPos="63" endPos="73" type="organization-company" surface="IMMOFINANZ" />
+<Entity id="3" startPos="117" endPos="123" type="organization-company" surface="Uniper" />
+<Entity id="4" startPos="137" endPos="146" type="number" surface="28.000 m²" />
+<Entity id="5" startPos="168" endPos="178" type="date" surface="11.01.2016" />
+<Entity id="6" startPos="181" endPos="186" type="date" surface="10:15" />
+<Entity id="7" startPos="330" endPos="340" type="organization-company" surface="IMMOFINANZ" />
+<Entity id="8" startPos="356" endPos="368" type="location-city" surface="Düsseldorfer" />
+<Entity id="9" startPos="476" endPos="498" type="organization-company" surface="Uniper Kraftwerke GmbH" />
+<Entity id="10" startPos="505" endPos="509" type="number" surface="100%" />
+<Entity id="11" startPos="510" endPos="517" type="trigger" surface="Tochter" />
+<Entity id="12" startPos="521" endPos="529" type="organization-company" surface=" E.ON SE" />
+<Entity id="13" startPos="543" endPos="552" type="number" surface="28.000 m²" />
+<Entity id="14" startPos="641" endPos="652" type="person" surface="Renzo Piano" />
+<Entity id="15" startPos="687" endPos="697" type="date" surface="Mitte 2018" />
+<Entity id="16" startPos="711" endPos="717" type="organization-company" surface="Uniper" />
+<Entity id="17" startPos="722" endPos="729" type="organization-company" surface="trivago" />
+<Entity id="18" startPos="741" endPos="762" type="duration" surface="binnen weniger Monate" />
+<Entity id="19" startPos="763" endPos="767" type="number" surface="zwei" />
+<Entity id="20" startPos="793" endPos="803" type="organization-company" surface="IMMOFINANZ" />
+<Entity id="21" startPos="818" endPos="828" type="location-city" surface="Düsseldorf" /></Entities><Relations>
+<Relation id="22" NAME="CompanyRelationship">
+<Entity id="12" label="parent" />
+<Entity id="11" label="trigger" />
+<Entity id="9" label="child" />
+</Relation></Relations>
+</Document>

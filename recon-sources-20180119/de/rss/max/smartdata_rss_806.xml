@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A59<NODE id="3" /> <NODE id="4" />Bonn<NODE id="8" /> Richtung <NODE id="18" />Köln<NODE id="22" /> zwischen <NODE id="32" />Wahn<NODE id="36" /> und <NODE id="41" />Flughafen<NODE id="50" /> <NODE id="51" />2 km <NODE id="56" />Stau<NODE id="60" /> wegen <NODE id="67" />Bergungsarbeiten<NODE id="83" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#29@2016-03-26T13:53:07.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-26T12:53:07Z" />
+<feature featureName="indexDate" featureValue="2016-03-26T12:58:48.584Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A59" />
+<Entity id="1" startPos="4" endPos="8" type="location-city" surface="Bonn" />
+<Entity id="2" startPos="18" endPos="22" type="location-city" surface="Köln" />
+<Entity id="3" startPos="32" endPos="36" type="location" surface="Wahn" />
+<Entity id="4" startPos="41" endPos="50" type="location" surface="Flughafen" />
+<Entity id="5" startPos="51" endPos="56" type="distance" surface="2 km " />
+<Entity id="6" startPos="56" endPos="60" type="trigger" surface="Stau" />
+<Entity id="7" startPos="67" endPos="83" type="trigger" surface="Bergungsarbeiten" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="7" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

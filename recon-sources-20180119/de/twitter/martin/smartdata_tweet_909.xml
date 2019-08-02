@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wegducken hilft nicht. Senat ist verantwortlich für angestellte #Lehrer*innen #Streik #Warnstreik @senfin @<NODE id="107" />spdberlin<NODE id="116" /> https://t.co/X4pdbVqLnh
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744490340254650368" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T11:21:43Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T11:21:50.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/GEW BERLIN/status/744490340254650368" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="107" endPos="116" type="organization" surface="spdberlin" /></Entities><Relations />
+</Document>

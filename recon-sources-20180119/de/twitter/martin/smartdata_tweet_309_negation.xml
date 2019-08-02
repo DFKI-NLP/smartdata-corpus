@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />StZ_NEWS<NODE id="12" />: Der Flughafen in #<NODE id="32" />Stuttgart<NODE id="41" /> soll vom #Streik nicht betroffen sein http://t.co/fbDfmFmiAX
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="640808545328463872" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-09-07T08:47:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T20:37:35.728Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="12" type="organization-company" surface="StZ_NEWS" />
+<Entity id="1" startPos="32" endPos="41" type="location-city" surface="Stuttgart" /></Entities><Relations />
+</Document>

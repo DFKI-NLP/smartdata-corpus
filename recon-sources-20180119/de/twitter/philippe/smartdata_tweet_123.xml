@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />BarbaraKube<NODE id="15" />: Beamte packen aus: #Flughafen-#Zoll vor #Kollaps
+https://t.co/KhQZLHql8s
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671455080462327817" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="15" type="person" surface="BarbaraKube" /></Entities><Relations />
+</Document>

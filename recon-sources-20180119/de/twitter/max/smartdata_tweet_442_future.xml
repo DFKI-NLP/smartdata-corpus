@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />rbb<NODE id="7" />abendschau: Flughafengesellschaft bereitete sich offenbar seit <NODE id="70" />Monaten<NODE id="77" /> auf #<NODE id="83" />Imtech<NODE id="89" />-<NODE id="90" />Pleite<NODE id="96" /> vor: http://t.co/lDjlENFGTW #BER
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="631557012464254977" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-12T20:05:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:43:24.126Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="organization-company" surface="rbb" />
+<Entity id="1" startPos="70" endPos="77" type="duration" surface="Monaten" />
+<Entity id="2" startPos="83" endPos="89" type="organization-company" surface="Imtech" />
+<Entity id="3" startPos="90" endPos="96" type="trigger" surface="Pleite" /></Entities><Relations>
+<Relation id="4" NAME="Insolvency">
+<Entity id="2" label="company" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />F24 AG<NODE id="10" /> entwickelt und betreibt hochsichere Alarmierungs- und
+Krisenmanagementlösungen für das Notfall-, Krisen- und Business Continuity
+Management mittlerer und großer Unternehmen sowie öffentlicher
+Organisationen weltweit. Im Ernstfall nutzen die Kunden den Cloud Service
+<NODE id="277" />FACT24<NODE id="283" /> vom Ausbruch der Krise über die erfolgreiche Bewältigung bis hin zur
+Nachbereitung.
+Die <NODE id="372" />F24<NODE id="375" /> unterstützt bislang gemeinsam mit den vier
+Auslandstochtergesellschaften in <NODE id="452" />Großbritannien<NODE id="466" /> , <NODE id="469" />Frankreich<NODE id="479" />, <NODE id="481" />Spanien<NODE id="488" /> und
+<NODE id="493" />Tschechien<NODE id="503" /> über <NODE id="509" />600<NODE id="512" /> Unternehmen und Organisationen weltweit. Die Kunden
+stammen aus den Bereichen Energie &amp; Industrie, Gesundheit &amp; Pharma, Verkehr
+&amp; Logistik, Handel, Banken &amp; Versicherungen, IT &amp; Telekommunikation sowie
+öffentlichen Organisationen. Die Tochtergesellschaft <NODE id="768" />TrustCase GmbH<NODE id="782" />
+bereichert das Service-Portfolio um eine hochsichere, mobile Messaging- und
+Kollaborationslösung.
+Mit der Akquisiti
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wallstreet-online.de/nachricht/8521747-dgap-news-f24-ag-geschaeftsjahr-2015-starkem-umsatzplus-18-ergebnissteigerung-ebitda-82-aussicht-umsatzverdopplung-2016@2016-04-19T10:00:01.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-19T08:00:01Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T09:29:49.603Z" />
+<feature featureName="uri" featureValue="http://www.wallstreet-online.de/nachricht/8521747-dgap-news-f24-ag-geschaeftsjahr-2015-starkem-umsatzplus-18-ergebnissteigerung-ebitda-82-aussicht-umsatzverdopplung-2016" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="F24 AG" />
+<Entity id="1" startPos="277" endPos="283" type="organization-company" surface="FACT24" />
+<Entity id="2" startPos="372" endPos="375" type="organization-company" surface="F24" />
+<Entity id="3" startPos="452" endPos="466" type="location" surface="Großbritannien" />
+<Entity id="4" startPos="469" endPos="479" type="location" surface="Frankreich" />
+<Entity id="5" startPos="481" endPos="488" type="location" surface="Spanien" />
+<Entity id="6" startPos="493" endPos="503" type="location" surface="Tschechien" />
+<Entity id="7" startPos="509" endPos="512" type="number" surface="600" />
+<Entity id="8" startPos="768" endPos="782" type="organization-company" surface="TrustCase GmbH" /></Entities><Relations />
+</Document>

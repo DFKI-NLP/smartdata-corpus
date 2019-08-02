@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A42<NODE id="3" /> <NODE id="4" />Dortmund<NODE id="12" /> Richtung <NODE id="22" />Kamp-Lintfort<NODE id="35" /> zwischen <NODE id="45" />Herne-Crange<NODE id="57" /> und <NODE id="62" />Gelsenkirchen-Zentrum<NODE id="83" /> <NODE id="84" />6 km<NODE id="88" /> <NODE id="89" />stockender Verkehr<NODE id="107" /> Wegen Bauarbeiten ist nur ein Fahrstreifen frei. (Zeitverlust: etwa eine <NODE id="181" />Viertelstunde<NODE id="194" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#10@2016-02-17T10:25:55.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-17T09:25:55Z" />
+<feature featureName="indexDate" featureValue="2016-03-09T23:43:40.377Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A42" />
+<Entity id="1" startPos="4" endPos="12" type="location-city" surface="Dortmund" />
+<Entity id="2" startPos="22" endPos="35" type="location-city" surface="Kamp-Lintfort" />
+<Entity id="3" startPos="45" endPos="57" type="location" surface="Herne-Crange" />
+<Entity id="4" startPos="62" endPos="83" type="location" surface="Gelsenkirchen-Zentrum" />
+<Entity id="5" startPos="84" endPos="88" type="distance" surface="6 km" />
+<Entity id="6" startPos="89" endPos="107" type="trigger" surface="stockender Verkehr" />
+<Entity id="7" startPos="181" endPos="194" type="duration" surface="Viertelstunde" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

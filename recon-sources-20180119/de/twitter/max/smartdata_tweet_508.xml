@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@Sassy3009 Aufgrund des hohen Eingangsvolumens durch den Streik, kann es zwischen <NODE id="82" />4<NODE id="83" /> und<NODE id="87" /> <NODE id="88" />6 Wochen<NODE id="96" /> <NODE id="97" />dauern. Bitte noch ein wenig gedulden. /an
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="604172651632939008" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-05-29T06:29:19Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T03:58:04.976Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="82" endPos="83" type="duration" surface="4" />
+<Entity id="1" startPos="87" endPos="97" type="date" surface=" 6 Wochen " />
+<Entity id="2" startPos="88" endPos="96" type="duration" surface="6 Wochen" /></Entities><Relations />
+</Document>

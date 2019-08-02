@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A7<NODE id="25" /> <NODE id="26" />Flensburg<NODE id="35" /> Richtung <NODE id="45" />Hamburg<NODE id="52" /> in Höhe <NODE id="61" />Bad Bramstedt<NODE id="74" /> liegt ein Spanngurt!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#2@2016-02-19T13:36:03.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-19T12:36:03Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T05:06:28.951Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="25" type="location-street" surface="A7" />
+<Entity id="1" startPos="26" endPos="35" type="location-city" surface="Flensburg" />
+<Entity id="2" startPos="45" endPos="52" type="location-city" surface="Hamburg" />
+<Entity id="3" startPos="61" endPos="74" type="location" surface="Bad Bramstedt" /></Entities><Relations />
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Werde meine #Verspätungen als #Statistik mal veröffentlichen. #<NODE id="63" />Bahn<NODE id="67" /> #<NODE id="69" />DeutscheBahn<NODE id="81" /> #Abenteuer #<NODE id="94" />DB<NODE id="96" /> #Chaos #Zugausfall
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755276242237218816" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-19T05:41:03Z" />
+<feature featureName="indexDate" featureValue="2016-07-19T05:41:12.351Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2172146480/status/755276242237218816" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="63" endPos="67" type="organization-company" surface="Bahn" />
+<Entity id="1" startPos="69" endPos="81" type="organization-company" surface="DeutscheBahn" />
+<Entity id="2" startPos="94" endPos="96" type="organization-company" surface="DB" /></Entities><Relations />
+</Document>

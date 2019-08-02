@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>83metoo Parkplatz auf dem Supermarkt Parkplatz: https://t.co/PhdWjNeJ2n über @<NODE id="78" />YouTube<NODE id="85" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672170323509428224" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T21:47:48Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:31:04.088Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="78" endPos="85" type="organization-company" surface="YouTube" /></Entities><Relations />
+</Document>

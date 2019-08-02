@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Feuerpause in <NODE id="14" />Syrien<NODE id="20" /> ist in Kraft - neue Friedensgespräche geplant
+sda
+Zuletzt aktualisiert am <NODE id="95" />26.2.2016<NODE id="104" /> um <NODE id="108" />23:47 Uhr<NODE id="117" />
+Seit <NODE id="123" />Mitternacht<NODE id="134" /> gilt im Bürgerkriegsland <NODE id="160" />Syrien<NODE id="166" /> offiziell eine Waffenruhe - zuvor hatten <NODE id="208" />Russland<NODE id="216" /> und das <NODE id="225" />syrische<NODE id="233" /> Regime ihre Angriffe noch einmal verstärkt. (Archiv)
+© KEYSTONE/AP/NATALIA SANCHA
+Nach <NODE id="321" />fünf Jahren <NODE id="333" />Bürgerkrieg<NODE id="344" /> mit über <NODE id="354" />250'000 <NODE id="362" />Toten ist in <NODE id="375" />Syrien<NODE id="381" /> um <NODE id="385" />Mitternacht<NODE id="396" /> Ortszeit eine Waffenruhe in Kraft getreten. Zuvor griffen <NODE id="455" />Russland<NODE id="463" /> und die Staatsführung in <NODE id="489" />Damaskus<NODE id="497" /> ihre Gegner noch einmal verstärkt an. Am <NODE id="539" />7. März<NODE id="546" /> sind neue Friedensgespräche geplant.
+Die <NODE id="588" />USA<NODE id="591" /> und <NODE id="596" />Russland<NODE id="604" /> hatten sich Anfang der Woche auf die Feuerpause geeinigt. Die <NODE id="667" />syrische<NODE id="675" /> Regierung, das in der <NODE id="698" />saudischen<NODE id="708" /> Hauptstadt <NODE id="720" />Riad<NODE id="724" /> ansässige <NODE id="735" />Hohe Verhandlungskomitee <NODE id="760" />(<NODE id="761" />HNC<NODE id="764" />) der Regimegegner und rund <NODE id="792" />100<NODE id="795" /> Milizen haben der Waffenruhe zugestimmt. Ausgenommen von ihr sind die Terrormiliz <NODE id="878" />Islamischer Staat<NODE id="895" /> (<NODE id="897" />IS<NODE id="899" />) und die <NODE id="909" />Al-Nusra-Front<NODE id="923" />, ein Ableger des Terrornetzwerks
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.aargauerzeitung.ch/ausland/feuerpause-in-syrien-ist-in-kraft-neue-friedensgespraeche-geplant-130093687@2016-02-26T23:50:25.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-26T22:50:25Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:52:02.952Z" />
+<feature featureName="uri" featureValue="http://www.aargauerzeitung.ch/ausland/feuerpause-in-syrien-ist-in-kraft-neue-friedensgespraeche-geplant-130093687" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="20" type="location" surface="Syrien" />
+<Entity id="1" startPos="95" endPos="104" type="date" surface="26.2.2016" />
+<Entity id="2" startPos="108" endPos="117" type="time" surface="23:47 Uhr" />
+<Entity id="3" startPos="123" endPos="134" type="date" surface="Mitternacht" />
+<Entity id="4" startPos="160" endPos="166" type="location" surface="Syrien" />
+<Entity id="5" startPos="208" endPos="216" type="location" surface="Russland" />
+<Entity id="6" startPos="225" endPos="233" type="location" surface="syrische" />
+<Entity id="7" startPos="321" endPos="333" type="duration" surface="fünf Jahren " />
+<Entity id="8" startPos="333" endPos="344" type="disaster-type" surface="Bürgerkrieg" />
+<Entity id="9" startPos="354" endPos="362" type="number" surface="250'000 " />
+<Entity id="10" startPos="375" endPos="381" type="location" surface="Syrien" />
+<Entity id="11" startPos="385" endPos="396" type="date" surface="Mitternacht" />
+<Entity id="12" startPos="455" endPos="463" type="location" surface="Russland" />
+<Entity id="13" startPos="489" endPos="497" type="location-city" surface="Damaskus" />
+<Entity id="14" startPos="539" endPos="546" type="date" surface="7. März" />
+<Entity id="15" startPos="588" endPos="591" type="location" surface="USA" />
+<Entity id="16" startPos="596" endPos="604" type="location" surface="Russland" />
+<Entity id="17" startPos="667" endPos="675" type="location" surface="syrische" />
+<Entity id="18" startPos="698" endPos="708" type="location" surface="saudischen" />
+<Entity id="19" startPos="720" endPos="724" type="location-city" surface="Riad" />
+<Entity id="20" startPos="735" endPos="760" type="organization" surface="Hohe Verhandlungskomitee " />
+<Entity id="21" startPos="761" endPos="764" type="organization" surface="HNC" />
+<Entity id="22" startPos="792" endPos="795" type="number" surface="100" />
+<Entity id="23" startPos="878" endPos="895" type="organization" surface="Islamischer Staat" />
+<Entity id="24" startPos="897" endPos="899" type="organization" surface="IS" />
+<Entity id="25" startPos="909" endPos="923" type="organization" surface="Al-Nusra-Front" /></Entities><Relations>
+<Relation id="26" NAME="Disaster">
+<Entity id="10" label="location" />
+<Entity id="8" label="type" />
+<Entity id="9" label="victims" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> <NODE id="1" />B2<NODE id="3" /> <NODE id="4" />Donauwörth<NODE id="14" /> Richtung <NODE id="24" />Augsburg<NODE id="32" />, <NODE id="34" />stockender Verkehr<NODE id="52" /> ab <NODE id="56" />Stettenhofen<NODE id="68" /> und weiter auf der <NODE id="88" />B17<NODE id="91" />, <NODE id="93" />stockender Verkehr<NODE id="111" /> zwischen <NODE id="121" />Stadtbergen<NODE id="132" /> und <NODE id="137" />Göggingen<NODE id="146" /> (<NODE id="148" />07:45 Uhr<NODE id="157" />).
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rt1.de/verkehr.html@2016-02-01T08:18:40.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-01T07:18:40Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T02:22:33.429Z" />
+<feature featureName="uri" featureValue="http://www.rt1.de/verkehr.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="3" type="location-street" surface="B2" />
+<Entity id="1" startPos="4" endPos="14" type="location-city" surface="Donauwörth" />
+<Entity id="2" startPos="24" endPos="32" type="location-city" surface="Augsburg" />
+<Entity id="3" startPos="34" endPos="52" type="trigger" surface="stockender Verkehr" />
+<Entity id="4" startPos="56" endPos="68" type="location" surface="Stettenhofen" />
+<Entity id="5" startPos="88" endPos="91" type="location-street" surface="B17" />
+<Entity id="6" startPos="93" endPos="111" type="trigger" surface="stockender Verkehr" />
+<Entity id="7" startPos="121" endPos="132" type="location" surface="Stadtbergen" />
+<Entity id="8" startPos="137" endPos="146" type="location" surface="Göggingen" />
+<Entity id="9" startPos="148" endPos="157" type="time" surface="07:45 Uhr" /></Entities><Relations>
+<Relation id="10" NAME="TrafficJam">
+<Entity id="4" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="3" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation>
+<Relation id="11" NAME="TrafficJam">
+<Entity id="8" label="end_loc" />
+<Entity id="7" label="start_loc" />
+<Entity id="5" label="location" />
+<Entity id="6" label="trigger" />
+</Relation></Relations>
+</Document>

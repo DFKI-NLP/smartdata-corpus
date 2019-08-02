@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bei Unfall leicht verletzt
+
+<NODE id="28" />Bretnig<NODE id="35" />. Am <NODE id="40" />Montagmorgen<NODE id="52" /> hat sich eine <NODE id="67" />50-jährige<NODE id="77" /> Autofahrerin bei einem Unfall in... https://t.co/FvDWRLPUkR
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669877393801281536" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="28" endPos="35" type="location-city" surface="Bretnig" />
+<Entity id="1" startPos="40" endPos="52" type="date" surface="Montagmorgen" />
+<Entity id="2" startPos="67" endPos="77" type="duration" surface="50-jährige" /></Entities><Relations />
+</Document>

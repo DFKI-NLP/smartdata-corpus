@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A1<NODE id="2" /> <NODE id="3" />Euskirchen<NODE id="13" /> Richtung <NODE id="23" />Dortmund<NODE id="31" /> zwischen <NODE id="41" />Kreuz Köln-Nord<NODE id="56" /> und <NODE id="61" />Kreuz Leverkusen-West<NODE id="82" /> <NODE id="83" />2 km<NODE id="87" /> <NODE id="88" />Stau<NODE id="92" /> Wegen Bauarbeiten ist nur ein Fahrstreifen frei.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#3@2016-02-27T01:33:26.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-27T00:33:26Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T07:46:17.326Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A1" />
+<Entity id="1" startPos="3" endPos="13" type="location-city" surface="Euskirchen" />
+<Entity id="2" startPos="23" endPos="31" type="location-city" surface="Dortmund" />
+<Entity id="3" startPos="41" endPos="56" type="location" surface="Kreuz Köln-Nord" />
+<Entity id="4" startPos="61" endPos="82" type="location" surface="Kreuz Leverkusen-West" />
+<Entity id="5" startPos="83" endPos="87" type="distance" surface="2 km" />
+<Entity id="6" startPos="88" endPos="92" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

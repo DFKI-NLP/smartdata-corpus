@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die Retter vom <NODE id="15" />Feldberg<NODE id="23" /> / 3-teilige <NODE id="36" />SWR<NODE id="39" />-Dokuserieüber die <NODE id="58" />Bergwacht<NODE id="67" /> im <NODE id="71" />Schwarzwald<NODE id="82" /> ab <NODE id="86" />20. Januar 2016<NODE id="101" />, <NODE id="103" />mittwochs<NODE id="112" /> um <NODE id="116" />21<NODE id="118" /> Uhr (FOTO)
+<NODE id="130" />7. Januar 2016<NODE id="144" /> | Abgelegt unter: Arbeit | Beitrag von: Presse
+„Wenn man Angst entwickelt, ist das schlecht in unserem Job“,
+erzählt <NODE id="262" />Caro Schütz<NODE id="273" /> von der <NODE id="282" />Bergwacht<NODE id="291" /> im <NODE id="295" />Schwarzwald<NODE id="306" />. Kurz darauf
+kommt per Funk auch schon der erste Notruf.  Eine Lawine ist
+abgegangen und hat <NODE id="400" />zwei<NODE id="404" /> Menschen unter sich begraben. Ein
+gefährlicher Einsatz für <NODE id="464" />Caro Schütz<NODE id="475" /> und ihr Team steht bevor.
+Die dreiteilige <NODE id="518" />SWR<NODE id="521" />-Dokuserie „Die Retter vom <NODE id="548" />Feldberg<NODE id="556" />“ begleitet
+das Team der <NODE id="581" />Bergwacht<NODE id="590" /> eine Saison lang bei seinen Einsätzen. Die
+Zuschauerinnen und Zuschauer erleben ab <NODE id="674" />20. Januar 2016<NODE id="689" /> jeweils
+<NODE id="698" />mittwochs<NODE id="707" /> um <NODE id="711" />21 Uhr<NODE id="717" /> dramatische Rettungsaktionen und
+nervenaufreibende Einsätze. Sie lernen engagierte und mutige Helfer
+kennen, die, während sie Leben retten, selbst um ihr eigenes
+finanzielles Überleben kämpfen müssen.
+Die <NODE id="923" />Bergwacht<NODE id="932" /> ist zur Stelle, wo Rettu
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.politikexpress.de/die-retter-vom-feldberg-3-teilige-swr-dokuserieuber-die-bergwacht-im-schwarzwald-ab-20-januar-2016-mittwochs-um-21-uhr-foto-1305971.html@2016-03-10T22:25:43.821+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.politikexpress.de/die-retter-vom-feldberg-3-teilige-swr-dokuserieuber-die-bergwacht-im-schwarzwald-ab-20-januar-2016-mittwochs-um-21-uhr-foto-1305971.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="23" type="location" surface="Feldberg" />
+<Entity id="1" startPos="36" endPos="39" type="organization-company" surface="SWR" />
+<Entity id="2" startPos="58" endPos="67" type="organization" surface="Bergwacht" />
+<Entity id="3" startPos="71" endPos="82" type="location" surface="Schwarzwald" />
+<Entity id="4" startPos="86" endPos="101" type="date" surface="20. Januar 2016" />
+<Entity id="5" startPos="103" endPos="112" type="date" surface="mittwochs" />
+<Entity id="6" startPos="116" endPos="118" type="date" surface="21" />
+<Entity id="7" startPos="130" endPos="144" type="date" surface="7. Januar 2016" />
+<Entity id="8" startPos="262" endPos="273" type="person" surface="Caro Schütz" />
+<Entity id="9" startPos="282" endPos="291" type="organization" surface="Bergwacht" />
+<Entity id="10" startPos="295" endPos="306" type="location" surface="Schwarzwald" />
+<Entity id="11" startPos="400" endPos="404" type="number" surface="zwei" />
+<Entity id="12" startPos="464" endPos="475" type="person" surface="Caro Schütz" />
+<Entity id="13" startPos="518" endPos="521" type="organization-company" surface="SWR" />
+<Entity id="14" startPos="548" endPos="556" type="location" surface="Feldberg" />
+<Entity id="15" startPos="581" endPos="590" type="organization" surface="Bergwacht" />
+<Entity id="16" startPos="674" endPos="689" type="date" surface="20. Januar 2016" />
+<Entity id="17" startPos="698" endPos="707" type="set" surface="mittwochs" />
+<Entity id="18" startPos="711" endPos="717" type="time" surface="21 Uhr" />
+<Entity id="19" startPos="923" endPos="932" type="organization" surface="Bergwacht" /></Entities><Relations />
+</Document>

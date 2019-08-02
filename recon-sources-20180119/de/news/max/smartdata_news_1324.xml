@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />15:02<NODE id="5" />
+<NODE id="6" />Großbrand<NODE id="15" /> bringt Maschinenhalle zum Einsturz
+Ein <NODE id="55" />Feuer<NODE id="60" /> hat eine Maschinenhalle der <NODE id="89" />Technischen Universität Aachen<NODE id="119" /> zum Einsturz gebracht. Die Flammen loderten noch bis in die Morgenstunden. Warum es brannte, muss noch ermittelt werden.
+Twittern
+Foto: <NODE id="256" />dpa<NODE id="259" /> Die Feuerwehr war in der Nacht mit rund <NODE id="300" />30<NODE id="302" /> Fahrzeugen und bis zu <NODE id="325" />160<NODE id="328" /> Einsatzkräften ausgerückt
+Ein großes <NODE id="366" />Feuer<NODE id="371" /> hat eine Forschungshalle der <NODE id="401" />Technischen Hochschule Aachen<NODE id="430" /> zerstört und großen Schaden angerichtet. In der Nacht zu <NODE id="488" />Freitag<NODE id="495" /> brachten die Flammen das Gebäudedach zum Einsturz. Die Halle brannte aus und ist nicht mehr benutzbar, wie eine Hochschulsprecherin am <NODE id="631" />Freitag<NODE id="638" /> sagte. Wie es zu dem Großbrand kam, blieb zunächst unklar.
+Die Feuerwehr war in der Nacht mit rund <NODE id="738" />30<NODE id="740" /> Fahrzeugen und bis zu <NODE id="763" />160<NODE id="766" /> Einsatzkräften ausgerückt. Wegen des eingestürzten Daches habe es Schwierigkeiten bei den Löscharbeiten gegeben, sagte ein Sprecher. Erst am Morgen sei das Feuer unter
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/regionales/nrw/article151880636/Grossbrand-bringt-Maschinenhalle-zum-Einsturz.html@2016-02-05T15:02:08.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-05T14:02:08Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:14:13.427Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/regionales/nrw/article151880636/Grossbrand-bringt-Maschinenhalle-zum-Einsturz.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="time" surface="15:02" />
+<Entity id="1" startPos="6" endPos="15" type="disaster-type" surface="Großbrand" />
+<Entity id="2" startPos="55" endPos="60" type="disaster-type" surface="Feuer" />
+<Entity id="3" startPos="89" endPos="119" type="location" surface="Technischen Universität Aachen" />
+<Entity id="4" startPos="256" endPos="259" type="organization-company" surface="dpa" />
+<Entity id="5" startPos="300" endPos="302" type="number" surface="30" />
+<Entity id="6" startPos="325" endPos="328" type="number" surface="160" />
+<Entity id="7" startPos="366" endPos="371" type="disaster-type" surface="Feuer" />
+<Entity id="8" startPos="401" endPos="430" type="location" surface="Technischen Hochschule Aachen" />
+<Entity id="9" startPos="488" endPos="495" type="date" surface="Freitag" />
+<Entity id="10" startPos="631" endPos="638" type="date" surface="Freitag" />
+<Entity id="11" startPos="738" endPos="740" type="number" surface="30" />
+<Entity id="12" startPos="763" endPos="766" type="number" surface="160" /></Entities><Relations>
+<Relation id="13" NAME="Disaster">
+<Entity id="3" label="location" />
+<Entity id="2" label="type" />
+</Relation>
+<Relation id="14" NAME="Disaster">
+<Entity id="8" label="location" />
+<Entity id="7" label="type" />
+</Relation></Relations>
+</Document>

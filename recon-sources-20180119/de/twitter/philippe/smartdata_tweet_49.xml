@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />SZ<NODE id="3" />  <NODE id="5" />GR<NODE id="7" /> kann inmitten der Eurozone <NODE id="35" />Pleite<NODE id="41" /> machen. Das heisst,Glaeubiger bekommen nichts mehr und <NODE id="97" />GR<NODE id="99" /> kann von freundlichen Laendern wieder
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="618073439199449088" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="3" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="5" endPos="7" type="location" surface="GR" />
+<Entity id="2" startPos="35" endPos="41" type="trigger" surface="Pleite" />
+<Entity id="3" startPos="97" endPos="99" type="location" surface="GR" /></Entities><Relations />
+</Document>

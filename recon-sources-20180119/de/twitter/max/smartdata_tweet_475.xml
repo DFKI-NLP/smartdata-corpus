@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@thfrank kommt hin. Zumindest die Bahn hier ist ausnahmslos pünktlich, wenn sich nicht wer vorn Zug wirft oder es zuvor ein <NODE id="124" />Erdbeben<NODE id="132" /> gab
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="631696984458444800" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-13T05:21:12Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:42:45.73Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="124" endPos="132" type="disaster-type" surface="Erdbeben" /></Entities><Relations />
+</Document>

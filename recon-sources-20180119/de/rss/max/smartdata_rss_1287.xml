@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Zu einem grenzüberschreitenden Informationsaustausch trafen sich im Gemeinsamen Zentrum Schwandorf der <NODE id="103" />bayerische<NODE id="113" /> Landespolizeipräsident, Prof. Dr. Wilhelm Schmidbauer, und der Polizeipräsident der <NODE id="198" />Tschechischen Republik<NODE id="220" />, Herr Brigadegeneral Tomas Tuhý.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.bayern.de/oberpfalz/news/presse/aktuell/index.html/240926@2016-05-05T00:15:41.979+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-04T22:15:41.979Z" />
+<feature featureName="indexDate" featureValue="2016-05-04T22:16:47.856Z" />
+<feature featureName="uri" featureValue="http://www.polizei.bayern.de/oberpfalz/news/presse/aktuell/index.html/240926" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="103" endPos="113" type="location" surface="bayerische" />
+<Entity id="1" startPos="198" endPos="220" type="location" surface="Tschechischen Republik" /></Entities><Relations />
+</Document>

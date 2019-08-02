@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />20.12.15<NODE id="8" />
+<NODE id="9" />Frontzeck<NODE id="18" /> laut Medien in <NODE id="34" />Hannover<NODE id="42" /> vor dem Aus
+Die erste Zeitung vermeldete bereits die Entlassung von <NODE id="111" />96<NODE id="113" />-Trainer <NODE id="122" />Frontzeck<NODE id="131" />, Geschäftsführer <NODE id="149" />Bader<NODE id="154" /> dementierte zwar. Doch die Tage in <NODE id="190" />Hannover<NODE id="198" /> sind turbulent. Diese und mehr Sport-News im Ticker.
+Twittern
+FUSSBALL Medienbericht: Frontzeck in <NODE id="298" />Hannover<NODE id="306" /> entlassen
+Die Tage von Trainer Michael Frontzeck beim Fußball-Bundesligisten <NODE id="384" />Hannover 96<NODE id="395" /> scheinen gezählt. Wie die Neue Presse berichtet, ist die Trennung bereits beschlossene Sache. Einen Tag nach der Niederlage gegen die <NODE id="530" />Bayern<NODE id="536" /> soll Geschäftsführer <NODE id="558" />Martin Bader<NODE id="570" /> <NODE id="571" />Frontzeck<NODE id="580" /> die Entscheidung mitgeteilt haben gegeben. Zuvor soll sich <NODE id="640" />Bader<NODE id="645" /> mit Klubboss <NODE id="659" />Martin Kind<NODE id="670" /> beraten haben. <NODE id="686" />Hannover<NODE id="694" /> liegt nach einer schwachen Vorrunde mit <NODE id="735" />14<NODE id="737" /> Punkten auf dem <NODE id="754" />17<NODE id="756" />. Tabellenplatz. Frontzeck hatte die Mannschaft in der vergangenen Saison übernommen und vor dem Abstieg bewahrt. Bader dementierte den Bericht.
+Sind die Tage von <NODE id="919" />Michael Frontzeck<NODE id="936" /> als Trainer vo
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/sport/article149691264/Derbe-Pleite-fuer-Nowitzki-und-Dallas.html@2016-03-10T22:31:24.185+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T21:31:24.185Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T21:31:33.317Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/sport/article149691264/Derbe-Pleite-fuer-Nowitzki-und-Dallas.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="date" surface="20.12.15" />
+<Entity id="1" startPos="9" endPos="18" type="person" surface="Frontzeck" />
+<Entity id="2" startPos="34" endPos="42" type="organization" surface="Hannover" />
+<Entity id="3" startPos="111" endPos="113" type="organization" surface="96" />
+<Entity id="4" startPos="122" endPos="131" type="person" surface="Frontzeck" />
+<Entity id="5" startPos="149" endPos="154" type="person" surface="Bader" />
+<Entity id="6" startPos="190" endPos="198" type="location-city" surface="Hannover" />
+<Entity id="7" startPos="298" endPos="306" type="organization" surface="Hannover" />
+<Entity id="8" startPos="384" endPos="395" type="organization" surface="Hannover 96" />
+<Entity id="9" startPos="530" endPos="536" type="organization" surface="Bayern" />
+<Entity id="10" startPos="558" endPos="570" type="person" surface="Martin Bader" />
+<Entity id="11" startPos="571" endPos="580" type="person" surface="Frontzeck" />
+<Entity id="12" startPos="640" endPos="645" type="person" surface="Bader" />
+<Entity id="13" startPos="659" endPos="670" type="person" surface="Martin Kind" />
+<Entity id="14" startPos="686" endPos="694" type="organization" surface="Hannover" />
+<Entity id="15" startPos="735" endPos="737" type="number" surface="14" />
+<Entity id="16" startPos="754" endPos="756" type="number" surface="17" />
+<Entity id="17" startPos="919" endPos="936" type="person" surface="Michael Frontzeck" /></Entities><Relations />
+</Document>

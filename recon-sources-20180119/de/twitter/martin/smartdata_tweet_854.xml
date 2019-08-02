@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @badeboom: Woooaa... <NODE id="24" />Anton Yelchin<NODE id="37" /> (Star Trek, Green Room) ist gerade bei einem Autounfall ums Leben bekommen. Er wurde <NODE id="123" />27<NODE id="125" />. :(  https://…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744629825437048833" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T20:35:59Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T20:36:04.492Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Andy_Flow/status/744629825437048833" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="24" endPos="37" type="person" surface="Anton Yelchin" />
+<Entity id="1" startPos="123" endPos="125" type="number" surface="27" /></Entities><Relations />
+</Document>

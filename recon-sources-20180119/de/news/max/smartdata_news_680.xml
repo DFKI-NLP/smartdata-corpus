@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Japan<NODE id="5" />: Unterführung für Schildkröten
+Schildkröten in Japan können künftig die Gleise in einer Unterführung überqueren.  Foto: <NODE id="126" />AFP<NODE id="129" />
+Die Bahngesellschaft in <NODE id="154" />Japan<NODE id="159" /> hat für Schildkröten eine Unterführung gebaut. Die Tiere waren stets auf den Gleisen verunglückt und hatten so für eine Verspätung der Züge gesorgt.
+Drucken per Mail
+<NODE id="326" />Tokio<NODE id="331" /> –  
+Schildkröten, die beim Überqueren von Bahngleisen verunglückten, haben in <NODE id="410" />Japan<NODE id="415" /> immer wieder für Verspätungen im Zugverkehr gesorgt - jetzt gibt es eine Lösung für die Tiere und die Bahn: In Zusammenarbeit mit einem Aquarium in der Stadt <NODE id="574" />Kobe<NODE id="578" /> entwickelte das Unternehmen <NODE id="607" />West Japan Railways<NODE id="626" /> spezielle Unterführungen für die langsamen Tiere. In der westlichen Präfektur <NODE id="705" />Nara<NODE id="709" /> brachten zwischen den Jahren <NODE id="739" />2002 <NODE id="744" />und <NODE id="748" />2014<NODE id="752" /> Schildkröten <NODE id="766" />13 <NODE id="769" />Mal den Zugverkehr durcheinander, weil sie beim Verstellen von Weichen zerquetscht wurden.
+Die Schildkröten gehen einfach ihren täglichen Geschäften nach und müssen über die Gleise, um zum n
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.fr-online.de/panorama/japan-unterfuehrung-fuer-schildkroeten,1472782,32676984.html@2015-12-01T12:23:16.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-01T11:23:16Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T08:54:00.478Z" />
+<feature featureName="uri" featureValue="http://www.fr-online.de/panorama/japan-unterfuehrung-fuer-schildkroeten,1472782,32676984.html" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="location" surface="Japan" />
+<Entity id="1" startPos="126" endPos="129" type="organization-company" surface="AFP" />
+<Entity id="2" startPos="154" endPos="159" type="location" surface="Japan" />
+<Entity id="3" startPos="326" endPos="331" type="location-city" surface="Tokio" />
+<Entity id="4" startPos="410" endPos="415" type="location" surface="Japan" />
+<Entity id="5" startPos="574" endPos="578" type="location-city" surface="Kobe" />
+<Entity id="6" startPos="607" endPos="626" type="organization-company" surface="West Japan Railways" />
+<Entity id="7" startPos="705" endPos="709" type="location" surface="Nara" />
+<Entity id="8" startPos="739" endPos="744" type="date" surface="2002 " />
+<Entity id="9" startPos="748" endPos="752" type="date" surface="2014" />
+<Entity id="10" startPos="766" endPos="769" type="number" surface="13 " /></Entities><Relations />
+</Document>

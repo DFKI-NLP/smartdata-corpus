@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Wetter: Schneeschauer,  <NODE id="24" />-3<NODE id="26" /> bis <NODE id="31" />2 °C<NODE id="35" />
+<NODE id="36" />Der Artikel wurde zur Merkliste hinzugefügt.<NODE id="80" />
+<NODE id="81" />Die Merkliste finden Sie oben links auf der Seite.<NODE id="131" />
+<NODE id="132" />Mindestens zwei Tage Nächster Streik bei der <NODE id="177" />Lufthansa<NODE id="186" />
+<NODE id="187" />Bei der <NODE id="195" />Lufthansa<NODE id="204" /> steht zur Adventszeit schon wieder ein Streik auf dem Programm.<NODE id="268" /> <NODE id="269" />Keine zwei Wochen nach dem bislang härtesten Arbeitskampf in der Geschichte des Unternehmens hat die Gewerkschaft <NODE id="383" />Ufo<NODE id="386" /> die Flugbegleiter zur erneuten Arbeitsniederlegung aufgerufen.<NODE id="449" />
+<NODE id="450" />0<NODE id="451" />
+<NODE id="452" />0<NODE id="453" />
+<NODE id="454" />Die Gewerkschaft <NODE id="471" />Ufo<NODE id="474" /> ruft wieder zum Streik auf.<NODE id="502" /> <NODE id="503" />Foto: <NODE id="509" />Matthias Balk<NODE id="522" /> (<NODE id="524" />dpa<NODE id="527" />)<NODE id="528" />
+<NODE id="529" />Die Passagiere müssen sich auf einen Streik zunächst an diesem Donnerstag und Freitag (26./27. November) einrichten, der aber auch noch am darauffolgenden Montag fortgesetzt werde könne, wie die Gewerkschaft mitteilte.<NODE id="747" /> <NODE id="748" />Der genaue Umfang stehe noch nicht fest, werde aber spätestens am Dienstag bekanntgegeben, sagte <NODE id="845" />Ufo<NODE id="848" />-<NODE id="849" />Chef<NODE id="853" /> <NODE id="854" />Nicoley Baublies<NODE id="870" />.<NODE id="871" />
+<NODE id="872" />Ufo<NODE id="875" /> begründete den abermaligen Streikaufruf damit, dass bei ihr kein verb<NODE id="945" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.weser-kurier.de/deutschland-welt/deutschland-welt-wirtschaft_artikel,-Flugbegleiter-kuendigen-neuen-Streik-bei-Lufthansa-an-_arid,1258491.html@2016-03-10T14:03:44.173+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:03:44.173Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:03:53.485Z" />
+<feature featureName="uri" featureValue="http://www.weser-kurier.de/deutschland-welt/deutschland-welt-wirtschaft_artikel,-Flugbegleiter-kuendigen-neuen-Streik-bei-Lufthansa-an-_arid,1258491.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="35" type="sentence" surface="Wetter: Schneeschauer,  -3 bis 2 °C" />
+<Entity id="1" startPos="24" endPos="26" type="number" surface="-3" />
+<Entity id="2" startPos="31" endPos="35" type="number" surface="2 °C" />
+<Entity id="3" startPos="36" endPos="80" type="sentence" surface="Der Artikel wurde zur Merkliste hinzugefügt." />
+<Entity id="4" startPos="81" endPos="131" type="sentence" surface="Die Merkliste finden Sie oben links auf der Seite." />
+<Entity id="5" startPos="132" endPos="186" type="sentence" surface="Mindestens zwei Tage Nächster Streik bei der Lufthansa" />
+<Entity id="6" startPos="177" endPos="186" type="organization-company" surface="Lufthansa" />
+<Entity id="7" startPos="187" endPos="268" type="sentence" surface="Bei der Lufthansa steht zur Adventszeit schon wieder ein Streik auf dem Programm." />
+<Entity id="8" startPos="195" endPos="204" type="organization-company" surface="Lufthansa" />
+<Entity id="9" startPos="269" endPos="449" type="sentence" surface="Keine zwei Wochen nach dem bislang härtesten Arbeitskampf in der Geschichte des Unternehmens hat die Gewerkschaft Ufo die Flugbegleiter zur erneuten Arbeitsniederlegung aufgerufen." />
+<Entity id="10" startPos="383" endPos="386" type="organization" surface="Ufo" />
+<Entity id="11" startPos="450" endPos="451" type="sentence" surface="0" />
+<Entity id="12" startPos="452" endPos="453" type="sentence" surface="0" />
+<Entity id="13" startPos="454" endPos="502" type="sentence" surface="Die Gewerkschaft Ufo ruft wieder zum Streik auf." />
+<Entity id="14" startPos="471" endPos="474" type="organization" surface="Ufo" />
+<Entity id="15" startPos="503" endPos="528" type="sentence" surface="Foto: Matthias Balk (dpa)" />
+<Entity id="16" startPos="509" endPos="522" type="person" surface="Matthias Balk" />
+<Entity id="17" startPos="524" endPos="527" type="organization-company" surface="dpa" />
+<Entity id="18" startPos="529" endPos="747" type="sentence" surface="Die Passagiere müssen sich auf einen Streik zunächst an diesem Donnerstag und Freitag (26./27. November) einrichten, der aber auch noch am darauffolgenden Montag fortgesetzt werde könne, wie die Gewerkschaft mitteilte." />
+<Entity id="19" startPos="748" endPos="871" type="sentence" surface="Der genaue Umfang stehe noch nicht fest, werde aber spätestens am Dienstag bekanntgegeben, sagte Ufo-Chef Nicoley Baublies." />
+<Entity id="20" startPos="845" endPos="848" type="organization" surface="Ufo" />
+<Entity id="21" startPos="849" endPos="853" type="org-position" surface="Chef" />
+<Entity id="22" startPos="854" endPos="870" type="person" surface="Nicoley Baublies" />
+<Entity id="23" startPos="872" endPos="875" type="organization" surface="Ufo" />
+<Entity id="24" startPos="872" endPos="945" type="sentence" surface="Ufo begründete den abermaligen Streikaufruf damit, dass bei ihr kein verb" /></Entities><Relations>
+<Relation id="25" NAME="OrganizationLeadership">
+<Entity id="22" label="person" />
+<Entity id="20" label="organization" />
+<Entity id="21" label="position" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Ein <NODE id="23" />chinesischer Konzern<NODE id="43" /> hat einen <NODE id="54" />US-Chiphersteller<NODE id="71" /> <NODE id="72" />im Visier<NODE id="81" /> - für <NODE id="88" />23 Milliarden $<NODE id="103" />. Die Übernahme wäre ein Rekord. htt…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="620879886832562176" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="23" endPos="43" type="organization-company" surface="chinesischer Konzern" />
+<Entity id="2" startPos="54" endPos="71" type="organization-company" surface="US-Chiphersteller" />
+<Entity id="3" startPos="72" endPos="81" type="trigger" surface="im Visier" />
+<Entity id="4" startPos="88" endPos="103" type="number" surface="23 Milliarden $" /></Entities><Relations>
+<Relation id="5" NAME="Acquisition">
+<Entity id="4" label="price" />
+<Entity id="3" label="trigger" />
+<Entity id="2" label="acquired" />
+<Entity id="1" label="buyer" />
+</Relation></Relations>
+</Document>

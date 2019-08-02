@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A8<NODE id="2" /> <NODE id="3" />Karlsruhe<NODE id="12" /> Richtung <NODE id="22" />Stuttgart<NODE id="31" /> zwischen <NODE id="41" />Rutesheim<NODE id="50" /> und <NODE id="55" />Leonberg-West<NODE id="68" /> ein defekter LKW, die rechte Spur ist <NODE id="107" />gesperrt<NODE id="115" />, <NODE id="117" />2 km<NODE id="121" /> <NODE id="122" />Stau<NODE id="126" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#14@2016-03-21T17:42:15.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T16:42:15Z" />
+<feature featureName="indexDate" featureValue="2016-03-21T16:43:57.997Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A8" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Karlsruhe" />
+<Entity id="2" startPos="22" endPos="31" type="location-city" surface="Stuttgart" />
+<Entity id="3" startPos="41" endPos="50" type="location" surface="Rutesheim" />
+<Entity id="4" startPos="55" endPos="68" type="location" surface="Leonberg-West" />
+<Entity id="5" startPos="107" endPos="115" type="trigger" surface="gesperrt" />
+<Entity id="6" startPos="117" endPos="121" type="distance" surface="2 km" />
+<Entity id="7" startPos="122" endPos="126" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="jam_length" />
+<Entity id="7" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

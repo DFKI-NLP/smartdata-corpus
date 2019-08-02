@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Domino-Effekt nach <NODE id="19" />Kärntens<NODE id="27" /> Pleite: Firmen-Insolvenzen, Beamten-Kündigungen und Pensionskürzungen?
+Gastbeitrag von <NODE id="115" />Anton Karl<NODE id="125" />
+Viel wurde über eine mögliche Pleite <NODE id="163" />Kärntens<NODE id="171" /> in den letzten Wochen geschrieben. Wenig über die gravierenden Auswirkungen für die Menschen in <NODE id="268" />Kärnten<NODE id="275" />. Nicht nur Firmen mit Landes-Aufträgen könnten nach einem Zahlungsausfall des Landes   in Bedrängnis kommen und Mitarbeiter entlassen, auch Beamte im Landesdienst könnten gekündigt werden und die Pension gekürzt bekommen!
++ Sind die <NODE id="509" />Kärntner<NODE id="517" /> Landeshaftungen überhaupt gültig?
++ Negativ-Zinsen bei der <NODE id="577" />EZB<NODE id="580" />, <NODE id="582" />8 %<NODE id="585" /> Zinsen von <NODE id="597" />Kärnten<NODE id="604" />!
++ Gläubiger-Forderungen deshalb auf <NODE id="642" />108 %<NODE id="647" /> gestiegen
++ Landesbedienstete in <NODE id="681" />Kärnten<NODE id="688" />: <NODE id="690" />14.000<NODE id="696" /> Kündigungen möglich
++ Pensionskürzungen für Beamte?
++ Wie in <NODE id="758" />Griechenland<NODE id="770" />: Gläubiger-Troika steuert <NODE id="797" />Kärnten<NODE id="804" /> und die Regierung muss Vorgaben umsetzen
++ <NODE id="848" />Kärnten<NODE id="855" />-Tourismus in Gefahr?
++ <NODE id="879" />Kärntens<NODE id="887" /> Vermögenswerte werden verpfändet und warum der Verglei
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanznachrichten.de/nachrichten-2016-04/37030606-domino-effekt-nach-kaerntens-pleite-firmen-insolvenzen-beamten-kuendigungen-und-pensionskuerzungen-179.htm@2016-04-11T18:40:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-11T16:40:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-11T16:47:42.437Z" />
+<feature featureName="uri" featureValue="http://www.finanznachrichten.de/nachrichten-2016-04/37030606-domino-effekt-nach-kaerntens-pleite-firmen-insolvenzen-beamten-kuendigungen-und-pensionskuerzungen-179.htm" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="27" type="location" surface="Kärntens" />
+<Entity id="1" startPos="115" endPos="125" type="person" surface="Anton Karl" />
+<Entity id="2" startPos="163" endPos="171" type="location" surface="Kärntens" />
+<Entity id="3" startPos="268" endPos="275" type="location" surface="Kärnten" />
+<Entity id="4" startPos="509" endPos="517" type="location" surface="Kärntner" />
+<Entity id="5" startPos="577" endPos="580" type="organization" surface="EZB" />
+<Entity id="6" startPos="582" endPos="585" type="number" surface="8 %" />
+<Entity id="7" startPos="597" endPos="604" type="location" surface="Kärnten" />
+<Entity id="8" startPos="642" endPos="647" type="number" surface="108 %" />
+<Entity id="9" startPos="681" endPos="688" type="location" surface="Kärnten" />
+<Entity id="10" startPos="690" endPos="696" type="number" surface="14.000" />
+<Entity id="11" startPos="758" endPos="770" type="location" surface="Griechenland" />
+<Entity id="12" startPos="797" endPos="804" type="location" surface="Kärnten" />
+<Entity id="13" startPos="848" endPos="855" type="location" surface="Kärnten" />
+<Entity id="14" startPos="879" endPos="887" type="location" surface="Kärntens" /></Entities><Relations />
+</Document>

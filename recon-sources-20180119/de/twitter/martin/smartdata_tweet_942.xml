@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Das Spiel ist aus. <NODE id="38" />Portugal<NODE id="46" /> und <NODE id="51" />Österreich<NODE id="61" /> trennen sich mit einem torlosen Unentschieden. #<NODE id="110" />POR<NODE id="113" />AUT<NODE id="116" /> https://t.co/91PQbAOKvn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744272556232892416" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-18T20:56:19Z" />
+<feature featureName="indexDate" featureValue="2016-06-18T20:56:24.725Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Lexi/status/744272556232892416" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="38" endPos="46" type="organization" surface="Portugal" />
+<Entity id="2" startPos="51" endPos="61" type="organization" surface="Österreich" />
+<Entity id="3" startPos="110" endPos="113" type="organization" surface="POR" />
+<Entity id="4" startPos="113" endPos="116" type="organization" surface="AUT" /></Entities><Relations />
+</Document>

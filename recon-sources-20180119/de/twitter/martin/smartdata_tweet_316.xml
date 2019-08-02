@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Nach Mitternacht<NODE id="16" /> kam es bei Zügen der Linie <NODE id="44" />S2<NODE id="46" /> zu größeren <NODE id="59" />Verspätungen<NODE id="71" /> wegen einer <NODE id="84" />technischen Störung<NODE id="103" /> am <NODE id="107" />RE 19463<NODE id="115" /> nach <NODE id="121" />Aalen<NODE id="126" /> #<NODE id="128" />SBahnStgt<NODE id="137" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667951643409965057" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-21T06:24:16Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:03:24.123Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="16" type="time" surface="Nach Mitternacht" />
+<Entity id="1" startPos="44" endPos="46" type="location-route" surface="S2" />
+<Entity id="2" startPos="59" endPos="71" type="trigger" surface="Verspätungen" />
+<Entity id="3" startPos="84" endPos="103" type="trigger" surface="technischen Störung" />
+<Entity id="4" startPos="107" endPos="115" type="location-route" surface="RE 19463" />
+<Entity id="5" startPos="121" endPos="126" type="location" surface="Aalen" />
+<Entity id="6" startPos="128" endPos="137" type="organization-company" surface="SBahnStgt" /></Entities><Relations>
+<Relation id="7" NAME="Delay">
+<Entity id="3" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="2" label="trigger" />
+<Entity id="0" label="start_date" />
+</Relation></Relations>
+</Document>

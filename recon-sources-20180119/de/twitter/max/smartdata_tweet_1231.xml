@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />ntvde<NODE id="9" />: <NODE id="11" />7000<NODE id="15" /> Festnahmen, <NODE id="28" />13.000<NODE id="34" /> Entlassungen: <NODE id="49" />Türkei<NODE id="55" /> erwägt Todesstrafe für Putschisten https://t.co/ZzFTIxVig0  (Video) https://t.co/Ly…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755069330010869760" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T15:58:51Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T15:58:52.352Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2270832549/status/755069330010869760" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="9" type="organization-company" surface="ntvde" />
+<Entity id="1" startPos="11" endPos="15" type="number" surface="7000" />
+<Entity id="2" startPos="28" endPos="34" type="number" surface="13.000" />
+<Entity id="3" startPos="49" endPos="55" type="location" surface="Türkei" /></Entities><Relations />
+</Document>

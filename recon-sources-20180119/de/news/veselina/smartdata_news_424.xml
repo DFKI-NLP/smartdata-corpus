@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />© <NODE id="2" />Sebastian Willnow<NODE id="19" /> (<NODE id="21" />dpa<NODE id="24" />)<NODE id="25" />
+<NODE id="26" />Lichterkette <NODE id="39" />Leipzig<NODE id="46" /> bleibt helle<NODE id="59" />
+<NODE id="60" />Mit einer Lichterkette um den <NODE id="90" />Leipziger<NODE id="99" /> Innenstadtring wollen Vertreter aus Kirche und Gesellschaft am Montag ein Zeichen für Demokratie und gegen Gewalt setzen.<NODE id="221" /> <NODE id="222" />Die Veranstaltung unter dem Motto <NODE id="256" />Leipzig<NODE id="263" /> bleibt helle sollte am Nachmittag mit dem Montagsgebet in der <NODE id="326" />Nikolaikirche<NODE id="339" /> beginnen.<NODE id="349" /> <NODE id="350" />Anlass ist der Jahrestag des ersten Legida-Marsches in der Stadt.<NODE id="415" /> <NODE id="416" />Der Ableger der islam- und fremdenfeindlichen Pegida-Bewegung war am 12. Januar 2015 erstmals durch die Messestadt gezogen.<NODE id="539" />
+<NODE id="540" />Das Friedensgebet in der <NODE id="565" />Nikolaikirche<NODE id="578" /> und der Aufzug auf dem Innenstadtring haben wegen der Ereignisse während der friedlichen Revolution 1989 eine hohe symbolische Bedeutung.<NODE id="716" /> <NODE id="717" />Oberbürgermeister <NODE id="735" />Burkhard Jung<NODE id="748" /> (<NODE id="750" />SPD<NODE id="753" />) unterstrich, es sei gerade in diesen Tagen wichtig zu zeigen, dass <NODE id="822" />Leipzig<NODE id="829" /> eine weltoffene Stadt sei.<NODE id="856" />
+<NODE id="857" />(<NODE id="858" />epd<NODE id="861" />)<NODE id="862" />
+<NODE id="863" />11.01.2016<NODE id="873" />
+<NODE id="874" />Pfarrer <NODE id="882" />Wolff<NODE id="887" /> zu den Protesten in <NODE id="908" />Leipzig<NODE id="915" /> Eine Logik, die über<NODE id="936" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.domradio.de/themen/kirche-und-politik/2016-01-11/pfarrer-wolff-zu-den-protesten-leipzig@2016-01-11T15:24:11.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-11T14:24:11Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T18:29:11.93Z" />
+<feature featureName="uri" featureValue="https://www.domradio.de/themen/kirche-und-politik/2016-01-11/pfarrer-wolff-zu-den-protesten-leipzig" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="25" type="sentence" surface="© Sebastian Willnow (dpa)" />
+<Entity id="1" startPos="2" endPos="19" type="person" surface="Sebastian Willnow" />
+<Entity id="2" startPos="21" endPos="24" type="organization-company" surface="dpa" />
+<Entity id="3" startPos="26" endPos="59" type="sentence" surface="Lichterkette Leipzig bleibt helle" />
+<Entity id="4" startPos="39" endPos="46" type="location-city" surface="Leipzig" />
+<Entity id="5" startPos="60" endPos="221" type="sentence" surface="Mit einer Lichterkette um den Leipziger Innenstadtring wollen Vertreter aus Kirche und Gesellschaft am Montag ein Zeichen für Demokratie und gegen Gewalt setzen." />
+<Entity id="6" startPos="90" endPos="99" type="location-city" surface="Leipziger" />
+<Entity id="7" startPos="222" endPos="349" type="sentence" surface="Die Veranstaltung unter dem Motto Leipzig bleibt helle sollte am Nachmittag mit dem Montagsgebet in der Nikolaikirche beginnen." />
+<Entity id="8" startPos="256" endPos="263" type="location-city" surface="Leipzig" />
+<Entity id="9" startPos="326" endPos="339" type="location" surface="Nikolaikirche" />
+<Entity id="10" startPos="350" endPos="415" type="sentence" surface="Anlass ist der Jahrestag des ersten Legida-Marsches in der Stadt." />
+<Entity id="11" startPos="416" endPos="539" type="sentence" surface="Der Ableger der islam- und fremdenfeindlichen Pegida-Bewegung war am 12. Januar 2015 erstmals durch die Messestadt gezogen." />
+<Entity id="12" startPos="540" endPos="716" type="sentence" surface="Das Friedensgebet in der Nikolaikirche und der Aufzug auf dem Innenstadtring haben wegen der Ereignisse während der friedlichen Revolution 1989 eine hohe symbolische Bedeutung." />
+<Entity id="13" startPos="565" endPos="578" type="location" surface="Nikolaikirche" />
+<Entity id="14" startPos="717" endPos="856" type="sentence" surface="Oberbürgermeister Burkhard Jung (SPD) unterstrich, es sei gerade in diesen Tagen wichtig zu zeigen, dass Leipzig eine weltoffene Stadt sei." />
+<Entity id="15" startPos="735" endPos="748" type="person" surface="Burkhard Jung" />
+<Entity id="16" startPos="750" endPos="753" type="organization" surface="SPD" />
+<Entity id="17" startPos="822" endPos="829" type="location" surface="Leipzig" />
+<Entity id="18" startPos="857" endPos="862" type="sentence" surface="(epd)" />
+<Entity id="19" startPos="858" endPos="861" type="organization-company" surface="epd" />
+<Entity id="20" startPos="863" endPos="873" type="sentence" surface="11.01.2016" />
+<Entity id="21" startPos="874" endPos="936" type="sentence" surface="Pfarrer Wolff zu den Protesten in Leipzig Eine Logik, die über" />
+<Entity id="22" startPos="882" endPos="887" type="person" surface="Wolff" />
+<Entity id="23" startPos="908" endPos="915" type="location-city" surface="Leipzig" /></Entities><Relations />
+</Document>

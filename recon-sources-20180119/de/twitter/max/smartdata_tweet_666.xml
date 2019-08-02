@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sperrung in beide Richtungen. Schienenersatzverkehr ist aufgrund von Baustelle in <NODE id="82" />Johannisplatz<NODE id="95" /> nicht möglich. Die voraussichtliche Dauer de
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="644018988285038592" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-09-16T05:24:26Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:39:05.728Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="82" endPos="95" type="location-stop" surface="Johannisplatz" /></Entities><Relations />
+</Document>

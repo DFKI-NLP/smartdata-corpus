@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sie sind hier: Home &gt; Wirtschaft &gt;
+Zins-Tief der <NODE id="49" />EZB<NODE id="52" /> trifft Sparer: Woher soll die Rendite kommen?
+...
+t-online.de ist ein Angebot der<NODE id="134" /> Ströer Content Group<NODE id="155" />
+Zins-Tief trifft Sparer  
+Woher soll die Rendite kommen?
+<NODE id="213" />15.03.2016<NODE id="223" />, <NODE id="225" />10:41 Uhr<NODE id="234" /> | <NODE id="237" />Falk Zielke<NODE id="248" />, <NODE id="250" />dpa<NODE id="253" />
+Immer weniger Rendite: Gibt es noch Alternativen für Sparer? (Quelle:  Thinkstock by Getty-Images)
+Die <NODE id="357" />Europäische Zentralbank<NODE id="380" /> ( <NODE id="383" />EZB<NODE id="386" /> ) hat die Leitzinsen überraschend auf <NODE id="425" />Null<NODE id="429" /> gesenkt. Die Suche für Sparer nach lohnenden und gewinnbringenden Anlagen wird schwieriger. Anleger müssen jetzt noch genauer hinschauen, wo sie ihr Geld anlegen.
+Mehr zum Thema
+Analyse zur <NODE id="620" />EZB<NODE id="623" />-Entscheidung: Im Teufelskreis der Minizinsen
+Zugegeben: Groß war der Zinsschritt nicht, den die Europäische Zentralbank nach ihrer letzten Sitzung gegangen ist. Die Währungshüter senkten den Leitzins von <NODE id="828" />0,05 Prozent<NODE id="840" /> auf <NODE id="845" />null Prozent<NODE id="857" />. Für Sparer sind das dennoch keine guten Nachrichten. Der Zinsschritt verändert zwar nicht mehr viel an der 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.t-online.de/wirtschaft/id_77271254/zins-tief-der-ezb-trifft-sparer-woher-soll-die-rendite-kommen-.html@2016-03-15T10:41:29.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-15T09:41:29Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:52:31.929Z" />
+<feature featureName="uri" featureValue="http://www.t-online.de/wirtschaft/id_77271254/zins-tief-der-ezb-trifft-sparer-woher-soll-die-rendite-kommen-.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="49" endPos="52" type="organization" surface="EZB" />
+<Entity id="1" startPos="134" endPos="155" type="organization-company" surface=" Ströer Content Group" />
+<Entity id="2" startPos="213" endPos="223" type="date" surface="15.03.2016" />
+<Entity id="3" startPos="225" endPos="234" type="time" surface="10:41 Uhr" />
+<Entity id="4" startPos="237" endPos="248" type="person" surface="Falk Zielke" />
+<Entity id="5" startPos="250" endPos="253" type="organization-company" surface="dpa" />
+<Entity id="6" startPos="357" endPos="380" type="organization" surface="Europäische Zentralbank" />
+<Entity id="7" startPos="383" endPos="386" type="organization" surface="EZB" />
+<Entity id="8" startPos="425" endPos="429" type="number" surface="Null" />
+<Entity id="9" startPos="620" endPos="623" type="organization" surface="EZB" />
+<Entity id="10" startPos="828" endPos="840" type="number" surface="0,05 Prozent" />
+<Entity id="11" startPos="845" endPos="857" type="number" surface="null Prozent" /></Entities><Relations />
+</Document>

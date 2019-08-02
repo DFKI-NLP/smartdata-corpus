@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bocholt<NODE id="7" /> <NODE id="8" />Gigaset<NODE id="15" /> <NODE id="16" />streicht<NODE id="24" /> mehr als <NODE id="34" />300 Stellen<NODE id="45" /> in <NODE id="49" />Bocholt<NODE id="56" />
+<NODE id="57" />Gigaset<NODE id="64" /> in <NODE id="68" />Bocholt<NODE id="75" /> Foto:  <NODE id="83" />Sven Betz<NODE id="92" />
+<NODE id="93" />Bocholt<NODE id="100" /> -<NODE id="102" /> 
+<NODE id="104" />Im November hatte die <NODE id="126" />Gigaset AG<NODE id="136" /> angekündigt , weltweit rund 550 ihrer 1250 Stellen abzubauen.<NODE id="198" /> <NODE id="199" />Am Montag stellte der Telefonhersteller in <NODE id="242" />Bocholt<NODE id="249" /> bei einer außerordentlichen Betriebsversammlung die Eckpunkte des Unternehmensumbaus vor.<NODE id="339" />
+<NODE id="340" />Von <NODE id="344" />Ludwig van der Linde<NODE id="364" />
+<NODE id="365" />Demnach werden an den Standorten <NODE id="398" />Bocholt<NODE id="405" />, <NODE id="407" />Düsseldorf<NODE id="417" /> und <NODE id="422" />München<NODE id="429" /> 325 Stellen gestrichen.<NODE id="453" /> <NODE id="454" />Weitere 35 Jobs werden in Altersteilzeitstellen umgewandelt.<NODE id="514" /> <NODE id="515" />Besonders betroffen von den Entlassungen ist der Produktionsstandort <NODE id="584" />Bocholt<NODE id="591" /> mit knapp 1000 Mitarbeitern.<NODE id="620" /> <NODE id="621" />Hier verliert nahezu jeder dritte Arbeitnehmer seinen Job, da rund 310 Stellen gestrichen werden.<NODE id="718" /> <NODE id="719" />Die Kündigungen erfolgen bis Ende 2017 in mehreren Wellen.<NODE id="777" /> <NODE id="778" />Die erste beginnt am 1. Juli.<NODE id="807" />
+<NODE id="808" />Der <NODE id="812" />Gigaset<NODE id="819" />-Vorstand und die Arbeitnehmervertreter einigten sich auch auf einen neuen Sondertarifvertrag, der seit dem 1. März in Kraft ist<NODE id="947" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wn.de/NRW/Wirtschaft/2294734-Bocholt-Gigaset-streicht-mehr-als-300-Stellen-in-Bocholt@2016-03-07T18:27:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-07T17:27:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T08:37:42.951Z" />
+<feature featureName="uri" featureValue="http://www.wn.de/NRW/Wirtschaft/2294734-Bocholt-Gigaset-streicht-mehr-als-300-Stellen-in-Bocholt" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="Bocholt" />
+<Entity id="1" startPos="0" endPos="56" type="sentence" surface="Bocholt Gigaset streicht mehr als 300 Stellen in Bocholt" />
+<Entity id="2" startPos="8" endPos="15" type="organization-company" surface="Gigaset" />
+<Entity id="3" startPos="16" endPos="24" type="trigger" surface="streicht" />
+<Entity id="4" startPos="34" endPos="45" type="number" surface="300 Stellen" />
+<Entity id="5" startPos="49" endPos="56" type="location-city" surface="Bocholt" />
+<Entity id="6" startPos="57" endPos="64" type="organization-company" surface="Gigaset" />
+<Entity id="7" startPos="57" endPos="92" type="sentence" surface="Gigaset in Bocholt Foto:  Sven Betz" />
+<Entity id="8" startPos="68" endPos="75" type="location-city" surface="Bocholt" />
+<Entity id="9" startPos="83" endPos="92" type="person" surface="Sven Betz" />
+<Entity id="10" startPos="93" endPos="100" type="location-city" surface="Bocholt" />
+<Entity id="11" startPos="93" endPos="102" type="sentence" surface="Bocholt -" />
+<Entity id="12" startPos="104" endPos="198" type="sentence" surface="Im November hatte die Gigaset AG angekündigt , weltweit rund 550 ihrer 1250 Stellen abzubauen." />
+<Entity id="13" startPos="126" endPos="136" type="organization-company" surface="Gigaset AG" />
+<Entity id="14" startPos="199" endPos="339" type="sentence" surface="Am Montag stellte der Telefonhersteller in Bocholt bei einer außerordentlichen Betriebsversammlung die Eckpunkte des Unternehmensumbaus vor." />
+<Entity id="15" startPos="242" endPos="249" type="location-city" surface="Bocholt" />
+<Entity id="16" startPos="340" endPos="364" type="sentence" surface="Von Ludwig van der Linde" />
+<Entity id="17" startPos="344" endPos="364" type="person" surface="Ludwig van der Linde" />
+<Entity id="18" startPos="365" endPos="453" type="sentence" surface="Demnach werden an den Standorten Bocholt, Düsseldorf und München 325 Stellen gestrichen." />
+<Entity id="19" startPos="398" endPos="405" type="location-city" surface="Bocholt" />
+<Entity id="20" startPos="407" endPos="417" type="location-city" surface="Düsseldorf" />
+<Entity id="21" startPos="422" endPos="429" type="location-city" surface="München" />
+<Entity id="22" startPos="454" endPos="514" type="sentence" surface="Weitere 35 Jobs werden in Altersteilzeitstellen umgewandelt." />
+<Entity id="23" startPos="515" endPos="620" type="sentence" surface="Besonders betroffen von den Entlassungen ist der Produktionsstandort Bocholt mit knapp 1000 Mitarbeitern." />
+<Entity id="24" startPos="584" endPos="591" type="location-city" surface="Bocholt" />
+<Entity id="25" startPos="621" endPos="718" type="sentence" surface="Hier verliert nahezu jeder dritte Arbeitnehmer seinen Job, da rund 310 Stellen gestrichen werden." />
+<Entity id="26" startPos="719" endPos="777" type="sentence" surface="Die Kündigungen erfolgen bis Ende 2017 in mehreren Wellen." />
+<Entity id="27" startPos="778" endPos="807" type="sentence" surface="Die erste beginnt am 1. Juli." />
+<Entity id="28" startPos="808" endPos="947" type="sentence" surface="Der Gigaset-Vorstand und die Arbeitnehmervertreter einigten sich auch auf einen neuen Sondertarifvertrag, der seit dem 1. März in Kraft ist" />
+<Entity id="29" startPos="812" endPos="819" type="organization-company" surface="Gigaset" /></Entities><Relations>
+<Relation id="30" NAME="Layoffs">
+<Entity id="4" label="num_laid_off" />
+<Entity id="2" label="company" />
+<Entity id="5" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

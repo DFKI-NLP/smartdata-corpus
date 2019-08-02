@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Tarantino stellt «The Hateful 8» in <NODE id="36" />Berlin<NODE id="42" /> vor
+Von <NODE id="51" />Elke Vogel<NODE id="61" />, dpa
+«The Hateful 8» ist der <NODE id="91" />achte<NODE id="96" /> Film von Quentin Tarantino. Foto: <NODE id="131" />Paul Miller<NODE id="142" />/Archiv Bild: <NODE id="156" />dpa-infocom GmbH<NODE id="172" />
+Rache im wirklichen Leben? Keine gute Idee, findet <NODE id="224" />Quentin Tarantino<NODE id="241" />. «Im echten Leben ist Rache, was immer sie ist: eine Art von Dummheit», sagt der für seine blutigen Rachefeldzüge im Film berühmte US-Regisseur («Inglourious Basterds»).
+«Rache ist ein finsterer Wald, in dem man sich leicht verliert», so der <NODE id="484" />52-Jährige<NODE id="494" />. «Aber im Film ist Rache großartig!»
+Wenn <NODE id="537" />Tarantino<NODE id="546" />, wie am <NODE id="555" />Dienstag<NODE id="563" /> in <NODE id="567" />Berlin<NODE id="573" />, über seinen <NODE id="587" />achten<NODE id="593" /> Film «The Hateful 8» spricht, dann versprüht der Mann im Schlabber-T-Shirt und mit schwarzer Kapuzenjacke eine ungeheure Energie. Die ist im Pressekonferenzsaal auch noch in der letzten Reihe zu spüren - dort, wo als Gast ganz unauffällig Fußball-Bundestrainer <NODE id="855" />Joachim Löw<NODE id="866" /> Platz genommen hat.
+Aufmerksam lauscht er, was <NODE id="914" />Tarantino<NODE id="923" /> über seinen blutigen Western zu 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nwzonline.de/panorama/tarantino-stellt-the-hateful-8-in-berlin-vor_a_6,0,3513358051.html@2016-01-26T08:43:31.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-26T07:43:31Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:51:27.616Z" />
+<feature featureName="uri" featureValue="http://www.nwzonline.de/panorama/tarantino-stellt-the-hateful-8-in-berlin-vor_a_6,0,3513358051.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="36" endPos="42" type="location-city" surface="Berlin" />
+<Entity id="1" startPos="51" endPos="61" type="person" surface="Elke Vogel" />
+<Entity id="2" startPos="91" endPos="96" type="number" surface="achte" />
+<Entity id="3" startPos="131" endPos="142" type="person" surface="Paul Miller" />
+<Entity id="4" startPos="156" endPos="172" type="organization-company" surface="dpa-infocom GmbH" />
+<Entity id="5" startPos="224" endPos="241" type="person" surface="Quentin Tarantino" />
+<Entity id="6" startPos="484" endPos="494" type="number" surface="52-Jährige" />
+<Entity id="7" startPos="537" endPos="546" type="person" surface="Tarantino" />
+<Entity id="8" startPos="555" endPos="563" type="date" surface="Dienstag" />
+<Entity id="9" startPos="567" endPos="573" type="location-city" surface="Berlin" />
+<Entity id="10" startPos="587" endPos="593" type="number" surface="achten" />
+<Entity id="11" startPos="855" endPos="866" type="person" surface="Joachim Löw" />
+<Entity id="12" startPos="914" endPos="923" type="person" surface="Tarantino" /></Entities><Relations />
+</Document>

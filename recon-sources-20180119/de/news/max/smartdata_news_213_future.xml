@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Europa<NODE id="6" /> fällt bei Übernahmen zurück
+Eine Mega-Fusion bahnt sich an: Bier-Gigant <NODE id="79" />Anheuser Busch Inbev<NODE id="99" /> will <NODE id="105" />SABMiller<NODE id="114" /> <NODE id="115" />übernehmen<NODE id="125" />.
+Bild:
+<NODE id="133" />13.12.2015<NODE id="143" /> <NODE id="144" />06:45<NODE id="149" />
+In einem Rekordjahr für Fusionen und Übernahmen hinken die <NODE id="209" />europäischen<NODE id="221" /> Unternehmen hinterher. Das hat mit der Wirtschaftserholung, aber auch mit strengeren Vorschriften zu tun.
+Übernahmeziele aus <NODE id="347" />Europa<NODE id="353" /> machten einen so geringen Anteil am Gesamtvolumen aus wie seit <NODE id="417" />17 Jahren<NODE id="426" /> nicht mehr, zeigen von <NODE id="450" />Bloomberg<NODE id="459" /> zusammengestellte Daten. Die Kaufvereinbarungen für <NODE id="512" />europäische<NODE id="523" /> Übernahmeobjekte summieren sich im bisherigen Jahresverlauf auf <NODE id="588" />763,3 Mrd. Dollar<NODE id="605" />, was etwa <NODE id="616" />22 Prozent<NODE id="626" /> der Gesamtsumme von<NODE id="646" /> 3,49 Billionen Dollar<NODE id="668" /> entspricht. Im Jahr <NODE id="689" />2007<NODE id="693" />, dem vorigen Spitzenjahr für Transaktionen, waren es noch <NODE id="752" />41 Prozent<NODE id="762" /> gewesen.
+Verglichen mit den <NODE id="791" />USA<NODE id="794" />, wo seit Jahresbeginn Unternehmen für insgesamt <NODE id="843" />zwei Billionen Dollar<NODE id="864" /> übernommen wurden, haben ihre Wettbewerber in <NODE id="911" />Europa<NODE id="917" /> mit einer schwächeren Wirtschaftserholung und
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://feeds.cash.ch/c/32619/f/501847/s/4c31e6e3/sc/3/l/0L0Scash0Bch0Cnews0Ctop0Inews0Crss0Ceuropa0Ifaellt0Ibei0Iuebernahmen0Izurueck0E33977780E771/story01.htm@2015-12-13T06:45:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-13T05:45:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T02:33:02.954Z" />
+<feature featureName="uri" featureValue="http://feeds.cash.ch/c/32619/f/501847/s/4c31e6e3/sc/3/l/0L0Scash0Bch0Cnews0Ctop0Inews0Crss0Ceuropa0Ifaellt0Ibei0Iuebernahmen0Izurueck0E33977780E771/story01.htm" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="location" surface="Europa" />
+<Entity id="1" startPos="79" endPos="99" type="organization-company" surface="Anheuser Busch Inbev" />
+<Entity id="2" startPos="105" endPos="114" type="organization-company" surface="SABMiller" />
+<Entity id="3" startPos="115" endPos="125" type="trigger" surface="übernehmen" />
+<Entity id="4" startPos="133" endPos="143" type="date" surface="13.12.2015" />
+<Entity id="5" startPos="144" endPos="149" type="time" surface="06:45" />
+<Entity id="6" startPos="209" endPos="221" type="location" surface="europäischen" />
+<Entity id="7" startPos="347" endPos="353" type="location" surface="Europa" />
+<Entity id="8" startPos="417" endPos="426" type="number" surface="17 Jahren" />
+<Entity id="9" startPos="450" endPos="459" type="organization-company" surface="Bloomberg" />
+<Entity id="10" startPos="512" endPos="523" type="location" surface="europäische" />
+<Entity id="11" startPos="588" endPos="605" type="number" surface="763,3 Mrd. Dollar" />
+<Entity id="12" startPos="616" endPos="626" type="number" surface="22 Prozent" />
+<Entity id="13" startPos="646" endPos="668" type="number" surface=" 3,49 Billionen Dollar" />
+<Entity id="14" startPos="689" endPos="693" type="date" surface="2007" />
+<Entity id="15" startPos="752" endPos="762" type="number" surface="41 Prozent" />
+<Entity id="16" startPos="791" endPos="794" type="location" surface="USA" />
+<Entity id="17" startPos="843" endPos="864" type="number" surface="zwei Billionen Dollar" />
+<Entity id="18" startPos="911" endPos="917" type="location" surface="Europa" /></Entities><Relations>
+<Relation id="19" NAME="Acquisition">
+<Entity id="3" label="trigger" />
+<Entity id="2" label="acquired" />
+<Entity id="1" label="buyer" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: Der frühere <NODE id="24" />CDU<NODE id="27" />-Spitzenmann <NODE id="40" />Friedrich Merz<NODE id="54" /> wird Lobbyist beim <NODE id="74" />deutschen<NODE id="83" /> <NODE id="84" />Ableger<NODE id="91" /> von <NODE id="96" />Blackrock<NODE id="105" />. https://t.co/L8N7pQoYk9
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710536963376422912" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-17T18:43:07Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T15:25:25.04Z" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="24" endPos="27" type="organization" surface="CDU" />
+<Entity id="2" startPos="40" endPos="54" type="person" surface="Friedrich Merz" />
+<Entity id="3" startPos="74" endPos="83" type="location" surface="deutschen" />
+<Entity id="4" startPos="74" endPos="91" type="organization-company" surface="deutschen Ableger" />
+<Entity id="5" startPos="84" endPos="91" type="trigger" surface="Ableger" />
+<Entity id="6" startPos="96" endPos="105" type="organization-company" surface="Blackrock" /></Entities><Relations>
+<Relation id="7" NAME="SpinOff">
+<Entity id="6" label="parent" />
+<Entity id="5" label="trigger" />
+<Entity id="4" label="child" />
+</Relation></Relations>
+</Document>

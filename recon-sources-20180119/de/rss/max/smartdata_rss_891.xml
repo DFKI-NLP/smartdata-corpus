@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A99<NODE id="3" /> <NODE id="4" />Ostumfahrung München<NODE id="24" /> Richtung <NODE id="34" />Nürnberg<NODE id="42" /> zwischen <NODE id="52" />Haar<NODE id="56" /> und <NODE id="61" />Kreuz München-Nord<NODE id="79" /> <NODE id="80" />14 km<NODE id="85" /> <NODE id="86" />stockender Verkehr<NODE id="104" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#65@2016-04-19T09:10:08.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-19T07:10:08Z" />
+<feature featureName="indexDate" featureValue="2016-04-19T07:15:58.151Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A99" />
+<Entity id="1" startPos="4" endPos="24" type="location-street" surface="Ostumfahrung München" />
+<Entity id="2" startPos="34" endPos="42" type="location-city" surface="Nürnberg" />
+<Entity id="3" startPos="52" endPos="56" type="location" surface="Haar" />
+<Entity id="4" startPos="61" endPos="79" type="location" surface="Kreuz München-Nord" />
+<Entity id="5" startPos="80" endPos="85" type="distance" surface="14 km" />
+<Entity id="6" startPos="86" endPos="104" type="trigger" surface="stockender Verkehr" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="1" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

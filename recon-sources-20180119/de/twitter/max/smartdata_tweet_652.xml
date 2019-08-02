@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Hab gerade das erste mal einen Geisterfahrer hier auf der #<NODE id="59" />A7<NODE id="61" /> in Richtung #<NODE id="75" />Hannover<NODE id="83" /> gesehen.
+Die Polizei hatte ihn aber gut gesichert.&#x1f640;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667212663940845568" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-19T05:27:49Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:57:14.958Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="59" endPos="61" type="location-street" surface="A7" />
+<Entity id="1" startPos="75" endPos="83" type="location-city" surface="Hannover" /></Entities><Relations />
+</Document>

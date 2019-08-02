@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Warum essen wir Fleisch? Weil wir es können. Wir könnten es aber auch lassen, findet @<NODE id="105" />SibylleBerg<NODE id="116" />. https://t.co/AEIavSj5…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754544017577312256" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T05:11:27Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T05:11:29.879Z" />
+<feature featureName="uri" featureValue="https://twitter.com/1048688502/status/754544017577312256" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="105" endPos="116" type="person" surface="SibylleBerg" /></Entities><Relations />
+</Document>

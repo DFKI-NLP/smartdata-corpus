@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />München<NODE id="7" /> Richtung <NODE id="17" />Stuttgart<NODE id="26" /> zwischen <NODE id="36" />Stuttgart-Flughafen/Messe<NODE id="61" /> und <NODE id="66" />Stuttgart-Degerloch<NODE id="85" /> Verkehrsbehinderung, Unfall auf dem linken Fahrstreifen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=67579445-a565-40e0-9c1d-c052ab91d2e5@2016-03-18T13:46:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-18T12:46:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-18T14:05:54.477Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=67579445-a565-40e0-9c1d-c052ab91d2e5" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="München" />
+<Entity id="1" startPos="17" endPos="26" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="36" endPos="61" type="location" surface="Stuttgart-Flughafen/Messe" />
+<Entity id="3" startPos="66" endPos="85" type="location" surface="Stuttgart-Degerloch" /></Entities><Relations />
+</Document>

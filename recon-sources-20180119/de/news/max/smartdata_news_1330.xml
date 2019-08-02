@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>PresseBox &gt; <NODE id="12" />KION GROUP GmbH<NODE id="27" /> &gt; <NODE id="30" />KION Group<NODE id="40" /> erzielt <NODE id="49" />2015<NODE id="53" /> neue Bestmarken
+Pressemitteilung BoxID 779106
+<NODE id="100" />KION Group<NODE id="110" /> erzielt <NODE id="119" />2015<NODE id="123" /> neue Bestmarken
+(PresseBox) (<NODE id="153" />Wiesbaden<NODE id="162" />,
+) .
+- Jahresprognose nach vorläufigen und ungeprüften Zahlen vollständig erreicht
+- <NODE id="248" />KION<NODE id="252" /> Wachstum erneut über Weltmarkt: Neufahrzeugbestellungen dank der Dynamik in <NODE id="329" />Westeuropa<NODE id="339" /> im Gesamtjahr <NODE id="354" />7,0 Prozent<NODE id="365" /> im Plus
+- Wertmäßiger Auftragseingang steigt <NODE id="411" />2015<NODE id="415" /> um <NODE id="419" />9,3 Prozent<NODE id="430" />
+- Umsatz <NODE id="440" />9,0 Prozent<NODE id="451" /> über Vorjahreswert und erstmals über <NODE id="489" />5 Mrd. Euro<NODE id="500" />
+- EBIT[<NODE id="508" />1<NODE id="509" />] legt im Gesamtjahr <NODE id="530" />9,0 Prozent<NODE id="541" /> auf rund <NODE id="551" />483 Mio. Euro<NODE id="564" /> zu, EBIT[<NODE id="574" />1<NODE id="575" />]-Marge mit <NODE id="587" />9,5 Prozent<NODE id="598" /> weiter auf hohem Niveau
+- Erwartetes Konzernergebnis steigt um <NODE id="662" />24,0 Prozent<NODE id="674" /> auf rund <NODE id="684" />221 Mio. Euro<NODE id="697" />
+- Free Cashflow verbessert sich auf rund <NODE id="739" />333 Mio. Euro<NODE id="752" />
+- Rekordmarge in sehr starkem <NODE id="783" />4. Quartal 2015<NODE id="798" /> erzielt
+Neue Bestmarken für die <NODE id="831" />KION Group<NODE id="841" />: Nach vorläufigen und ungeprüften Zahlen hat das <NODE id="891" />Wiesbadener<NODE id="902" /> Unternehmen seine Prognose für <NODE id="934" />2015<NODE id="938" /> überall erreicht. B
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.pressebox.de/inaktiv/kion-group-gmbh/KION-Group-erzielt-2015-neue-Bestmarken/boxid/779106@2016-02-11T07:50:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-11T06:50:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:40:02.952Z" />
+<feature featureName="uri" featureValue="http://www.pressebox.de/inaktiv/kion-group-gmbh/KION-Group-erzielt-2015-neue-Bestmarken/boxid/779106" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="27" type="organization-company" surface="KION GROUP GmbH" />
+<Entity id="1" startPos="30" endPos="40" type="organization-company" surface="KION Group" />
+<Entity id="2" startPos="49" endPos="53" type="date" surface="2015" />
+<Entity id="3" startPos="100" endPos="110" type="organization-company" surface="KION Group" />
+<Entity id="4" startPos="119" endPos="123" type="date" surface="2015" />
+<Entity id="5" startPos="153" endPos="162" type="location-city" surface="Wiesbaden" />
+<Entity id="6" startPos="248" endPos="252" type="organization-company" surface="KION" />
+<Entity id="7" startPos="329" endPos="339" type="location" surface="Westeuropa" />
+<Entity id="8" startPos="354" endPos="365" type="number" surface="7,0 Prozent" />
+<Entity id="9" startPos="411" endPos="415" type="date" surface="2015" />
+<Entity id="10" startPos="419" endPos="430" type="number" surface="9,3 Prozent" />
+<Entity id="11" startPos="440" endPos="451" type="number" surface="9,0 Prozent" />
+<Entity id="12" startPos="489" endPos="500" type="number" surface="5 Mrd. Euro" />
+<Entity id="13" startPos="508" endPos="509" type="number" surface="1" />
+<Entity id="14" startPos="530" endPos="541" type="number" surface="9,0 Prozent" />
+<Entity id="15" startPos="551" endPos="564" type="number" surface="483 Mio. Euro" />
+<Entity id="16" startPos="574" endPos="575" type="number" surface="1" />
+<Entity id="17" startPos="587" endPos="598" type="number" surface="9,5 Prozent" />
+<Entity id="18" startPos="662" endPos="674" type="number" surface="24,0 Prozent" />
+<Entity id="19" startPos="684" endPos="697" type="number" surface="221 Mio. Euro" />
+<Entity id="20" startPos="739" endPos="752" type="number" surface="333 Mio. Euro" />
+<Entity id="21" startPos="783" endPos="798" type="date" surface="4. Quartal 2015" />
+<Entity id="22" startPos="831" endPos="841" type="organization-company" surface="KION Group" />
+<Entity id="23" startPos="891" endPos="902" type="location-city" surface="Wiesbadener" />
+<Entity id="24" startPos="934" endPos="938" type="date" surface="2015" /></Entities><Relations />
+</Document>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Deutschland<NODE id="11" /> Anleger der <NODE id="24" />insolventen<NODE id="35" /> <NODE id="36" />Maple Bank<NODE id="46" /> werden entschädigt
+Von <NODE id="70" />dpa<NODE id="73" /> 
+<NODE id="75" />12. Februar 2016 - 13:51 Uhr<NODE id="103" />
+<NODE id="104" />Frankfurt/Main<NODE id="118" /> - Anleger der von der Finanzaufsicht geschlossenen und <NODE id="174" />insolventen<NODE id="185" /> <NODE id="186" />Maple Bank<NODE id="196" /> können auf Rückzahlung ihrer Einlagen hoffen.
+Die <NODE id="247" />deutsche<NODE id="255" /> <NODE id="256" />Maple Bank GmbH<NODE id="271" /> mit <NODE id="276" />kanadischen<NODE id="287" /> Wurzeln war am vergangenen Wochenende für den Geschäftsverkehr geschlossen worden. Foto: <NODE id="377" />Frank Rumpenhorst<NODE id="394" />
+<NODE id="395" />Frankfurt/Main<NODE id="409" /> - Anleger der von der Finanzaufsicht geschlossenen und <NODE id="465" />insolventen<NODE id="476" /> <NODE id="477" />Maple Bank<NODE id="487" /> können auf Rückzahlung ihrer Einlagen hoffen.
+Die Finanzaufsicht <NODE id="553" />Bafin<NODE id="558" /> hat den Entschädigungsfall festgestellt und gleichzeitig ein <NODE id="620" />Insolvenzverfahren<NODE id="638" /> über das <NODE id="648" />Frankfurter Institut<NODE id="668" /> <NODE id="669" />beantragt<NODE id="678" />. Das <NODE id="684" />Amtsgericht Frankfurt<NODE id="705" /> hat bereits das Verfahren eröffnet und einen Insolvenzverwalter bestellt, wie die <NODE id="788" />Bafin<NODE id="793" /> am <NODE id="797" />Freitag<NODE id="804" /> mitteilte.
+Die <NODE id="820" />Maple Bank GmbH<NODE id="835" /> mit <NODE id="840" />kanadischen<NODE id="851" /> Wurzeln war von der <NODE id="872" />Bafin<NODE id="877" /> bereits am <NODE id="889" />vergangenen Wochenende<NODE id="911" /> für den Geschäftsverkehr gesch
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.stuttgarter-zeitung.de/inhalt.deutschland-anleger-der-insolventen-maple-bank-werden-entschaedigt.d8f4326f-4fe4-4a63-85dc-92ae674476f1.html@2016-02-12T13:51:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-12T12:51:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:41:21.929Z" />
+<feature featureName="uri" featureValue="http://www.stuttgarter-zeitung.de/inhalt.deutschland-anleger-der-insolventen-maple-bank-werden-entschaedigt.d8f4326f-4fe4-4a63-85dc-92ae674476f1.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="location" surface="Deutschland" />
+<Entity id="1" startPos="24" endPos="35" type="trigger" surface="insolventen" />
+<Entity id="2" startPos="36" endPos="46" type="organization-company" surface="Maple Bank" />
+<Entity id="3" startPos="70" endPos="73" type="organization-company" surface="dpa" />
+<Entity id="4" startPos="75" endPos="103" type="date" surface="12. Februar 2016 - 13:51 Uhr" />
+<Entity id="5" startPos="104" endPos="118" type="location-city" surface="Frankfurt/Main" />
+<Entity id="6" startPos="174" endPos="185" type="trigger" surface="insolventen" />
+<Entity id="7" startPos="186" endPos="196" type="organization-company" surface="Maple Bank" />
+<Entity id="8" startPos="247" endPos="255" type="location" surface="deutsche" />
+<Entity id="9" startPos="256" endPos="271" type="organization-company" surface="Maple Bank GmbH" />
+<Entity id="10" startPos="276" endPos="287" type="location" surface="kanadischen" />
+<Entity id="11" startPos="377" endPos="394" type="person" surface="Frank Rumpenhorst" />
+<Entity id="12" startPos="395" endPos="409" type="location-city" surface="Frankfurt/Main" />
+<Entity id="13" startPos="465" endPos="476" type="trigger" surface="insolventen" />
+<Entity id="14" startPos="477" endPos="487" type="organization-company" surface="Maple Bank" />
+<Entity id="15" startPos="553" endPos="558" type="organization" surface="Bafin" />
+<Entity id="16" startPos="620" endPos="638" type="trigger" surface="Insolvenzverfahren" />
+<Entity id="17" startPos="648" endPos="668" type="organization-company" surface="Frankfurter Institut" />
+<Entity id="18" startPos="669" endPos="678" type="trigger" surface="beantragt" />
+<Entity id="19" startPos="684" endPos="705" type="organization" surface="Amtsgericht Frankfurt" />
+<Entity id="20" startPos="788" endPos="793" type="organization" surface="Bafin" />
+<Entity id="21" startPos="797" endPos="804" type="date" surface="Freitag" />
+<Entity id="22" startPos="820" endPos="835" type="organization-company" surface="Maple Bank GmbH" />
+<Entity id="23" startPos="840" endPos="851" type="location" surface="kanadischen" />
+<Entity id="24" startPos="872" endPos="877" type="organization" surface="Bafin" />
+<Entity id="25" startPos="889" endPos="911" type="date" surface="vergangenen Wochenende" /></Entities><Relations>
+<Relation id="26" NAME="Identity">
+<Entity id="9" label="source" />
+<Entity id="2" label="target" />
+<Entity id="14" label="target" />
+<Entity id="22" label="target" />
+<Entity id="17" label="target" />
+<Entity id="7" label="target" />
+</Relation>
+<Relation id="27" NAME="Insolvency">
+<Entity id="2" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="28" NAME="Insolvency">
+<Entity id="7" label="company" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="29" NAME="Insolvency">
+<Entity id="14" label="company" />
+<Entity id="13" label="trigger" />
+</Relation>
+<Relation id="30" NAME="Insolvency">
+<Entity id="17" label="company" />
+<Entity id="18" label="trigger" />
+<Entity id="16" label="trigger" />
+</Relation></Relations>
+</Document>

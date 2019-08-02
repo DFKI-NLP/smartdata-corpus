@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Ransomware - So schützen Sie sich vor Erpresser-Software<NODE id="56" />
+<NODE id="57" />7. März 2016, 16:48 Uhr<NODE id="80" />
+<NODE id="81" />Ransomware So schützen Sie sich vor Erpresser-Software<NODE id="135" />
+<NODE id="136" />Feedback<NODE id="144" />
+<NODE id="145" />Anzeige<NODE id="152" />
+<NODE id="153" />Erpresser verschlüsseln die Computer ihrer Opfer und sabotieren so selbst Krankenhäuser.<NODE id="241" /> <NODE id="242" />Nun sind auch Macs nicht mehr sicher.<NODE id="279" /> <NODE id="280" />Tipps gegen Ransomware.<NODE id="303" />
+<NODE id="304" />Von <NODE id="308" />Helmut Martin-Jung<NODE id="326" />
+<NODE id="327" />Helmut Martin-Jung<NODE id="345" />
+<NODE id="346" />Wollte erst doch nicht Musiker, dann auch nicht Lehrer werden und hatte beim Start in den Traumberuf das unverschämte Glück, dass die nächste große Zeitung gleichzeitig die beste war.<NODE id="529" /> <NODE id="530" />Begann im Lokalen, es folgten Stationen beim Chef vom Dienst und in der Nachrichtenredaktion.<NODE id="623" /> <NODE id="624" />Verbrachte zwischendurch sieben aufregende, manchmal auch verflixte Jahre beim Online-Ableger <NODE id="718" />sueddeutsche.de<NODE id="733" /> und schreibt über Technik, die den Alltag prägt: Von Supercomputern, die die Wettervorhersage berechnen bis hin zu Telefonen, auf denen man sie abrufen kann.<NODE id="891" />
+<NODE id="892" />Mail schreiben<NODE id="906" />
+<NODE id="907" />Schon mal was von Bittorrent gehört?<NODE id="943" /> <NODE id="944" />Nein?<NODE id="949" /> <NODE id="950" />Dann<NODE id="954" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.sueddeutsche.de/digital/ransomware-so-schuetzen-sie-sich-vor-erpresser-software-1.2895883@2016-03-07T16:48:53.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-07T15:48:53Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T08:33:32.953Z" />
+<feature featureName="uri" featureValue="http://www.sueddeutsche.de/digital/ransomware-so-schuetzen-sie-sich-vor-erpresser-software-1.2895883" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="56" type="sentence" surface="Ransomware - So schützen Sie sich vor Erpresser-Software" />
+<Entity id="1" startPos="57" endPos="80" type="sentence" surface="7. März 2016, 16:48 Uhr" />
+<Entity id="2" startPos="81" endPos="135" type="sentence" surface="Ransomware So schützen Sie sich vor Erpresser-Software" />
+<Entity id="3" startPos="136" endPos="144" type="sentence" surface="Feedback" />
+<Entity id="4" startPos="145" endPos="152" type="sentence" surface="Anzeige" />
+<Entity id="5" startPos="153" endPos="241" type="sentence" surface="Erpresser verschlüsseln die Computer ihrer Opfer und sabotieren so selbst Krankenhäuser." />
+<Entity id="6" startPos="242" endPos="279" type="sentence" surface="Nun sind auch Macs nicht mehr sicher." />
+<Entity id="7" startPos="280" endPos="303" type="sentence" surface="Tipps gegen Ransomware." />
+<Entity id="8" startPos="304" endPos="326" type="sentence" surface="Von Helmut Martin-Jung" />
+<Entity id="9" startPos="308" endPos="326" type="person" surface="Helmut Martin-Jung" />
+<Entity id="10" startPos="327" endPos="345" type="person" surface="Helmut Martin-Jung" />
+<Entity id="11" startPos="327" endPos="345" type="sentence" surface="Helmut Martin-Jung" />
+<Entity id="12" startPos="346" endPos="529" type="sentence" surface="Wollte erst doch nicht Musiker, dann auch nicht Lehrer werden und hatte beim Start in den Traumberuf das unverschämte Glück, dass die nächste große Zeitung gleichzeitig die beste war." />
+<Entity id="13" startPos="530" endPos="623" type="sentence" surface="Begann im Lokalen, es folgten Stationen beim Chef vom Dienst und in der Nachrichtenredaktion." />
+<Entity id="14" startPos="624" endPos="891" type="sentence" surface="Verbrachte zwischendurch sieben aufregende, manchmal auch verflixte Jahre beim Online-Ableger sueddeutsche.de und schreibt über Technik, die den Alltag prägt: Von Supercomputern, die die Wettervorhersage berechnen bis hin zu Telefonen, auf denen man sie abrufen kann." />
+<Entity id="15" startPos="718" endPos="733" type="organization-company" surface="sueddeutsche.de" />
+<Entity id="16" startPos="892" endPos="906" type="sentence" surface="Mail schreiben" />
+<Entity id="17" startPos="907" endPos="943" type="sentence" surface="Schon mal was von Bittorrent gehört?" />
+<Entity id="18" startPos="944" endPos="949" type="sentence" surface="Nein?" />
+<Entity id="19" startPos="950" endPos="954" type="sentence" surface="Dann" /></Entities><Relations />
+</Document>

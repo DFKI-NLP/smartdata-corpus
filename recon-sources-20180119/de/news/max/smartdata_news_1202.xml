@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Büro
+<NODE id="5" />Cornerstone<NODE id="16" /> hat in <NODE id="24" />Deutschland<NODE id="35" /> Fuß gefasst
+<NODE id="48" />2014<NODE id="52" /> hatte der <NODE id="63" />US-amerikanische<NODE id="79" /> Investmentmanager <NODE id="98" />Cornerstone<NODE id="109" /> mit der <NODE id="118" />Übernahme<NODE id="127" /> des Asset-Managers <NODE id="147" />Pamera<NODE id="153" /> seinen Markteintritt in <NODE id="178" />Deutschland<NODE id="189" /> vollzogen. <NODE id="201" />2015<NODE id="205" /> wurden von <NODE id="217" />Cornerstone<NODE id="228" /> hierzulande bereits Transaktionen im Volumen von <NODE id="278" />551 Mio. Euro<NODE id="291" /> begleitet (+<NODE id="304" />66%<NODE id="307" /> gegenüber <NODE id="318" />2014<NODE id="322" />). Das entspricht gut <NODE id="344" />einem Drittel<NODE id="357" /> des gesamten von <NODE id="375" />Cornerstone<NODE id="386" /> in <NODE id="390" />Europa<NODE id="396" /> erreichten Transaktionsvolumens (<NODE id="430" />1,4 Mrd. Euro<NODE id="443" />). Dabei hielten sich An- und Verkäufe in etwa die Waage. Alle Objekte, die für Kunden (Private-Equity-Fonds und Spezialfonds) erworben wurden, werden anschließend von <NODE id="611" />Cornerstone Deutschland<NODE id="634" /> als Asset-Manager betreut.
+Aktuell managt <NODE id="677" />Cornerstone Deutschland<NODE id="700" /> <NODE id="701" />31<NODE id="703" /> meist bürogenutzte Immobilien mit einer Gesamtmietfläche von über <NODE id="770" />500.000 qm<NODE id="780" /> und einem Wert von rund <NODE id="805" />1,24 Mrd. Euro<NODE id="819" />. <NODE id="821" />2015<NODE id="825" /> wurden Mietverträge über ca. <NODE id="855" />107.000 qm<NODE id="865" /> neu- oder anschlussvermietet. Im laufenden Jahr möchte <NODE id="921" />Cornerstone<NODE id="932" />-Deutschlandchef Christ
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.immobilien-zeitung.de/1000031598/cornerstone-hat-in-deutschland-fuss-gefasst@2016-03-14T12:05:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T11:05:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:46:01.933Z" />
+<feature featureName="uri" featureValue="http://www.immobilien-zeitung.de/1000031598/cornerstone-hat-in-deutschland-fuss-gefasst" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="5" endPos="16" type="organization-company" surface="Cornerstone" />
+<Entity id="1" startPos="24" endPos="35" type="location" surface="Deutschland" />
+<Entity id="2" startPos="48" endPos="52" type="date" surface="2014" />
+<Entity id="3" startPos="63" endPos="79" type="location" surface="US-amerikanische" />
+<Entity id="4" startPos="98" endPos="109" type="organization-company" surface="Cornerstone" />
+<Entity id="5" startPos="118" endPos="127" type="trigger" surface="Übernahme" />
+<Entity id="6" startPos="147" endPos="153" type="organization-company" surface="Pamera" />
+<Entity id="7" startPos="178" endPos="189" type="location" surface="Deutschland" />
+<Entity id="8" startPos="201" endPos="205" type="date" surface="2015" />
+<Entity id="9" startPos="217" endPos="228" type="organization-company" surface="Cornerstone" />
+<Entity id="10" startPos="278" endPos="291" type="number" surface="551 Mio. Euro" />
+<Entity id="11" startPos="304" endPos="307" type="number" surface="66%" />
+<Entity id="12" startPos="318" endPos="322" type="date" surface="2014" />
+<Entity id="13" startPos="344" endPos="357" type="number" surface="einem Drittel" />
+<Entity id="14" startPos="375" endPos="386" type="organization-company" surface="Cornerstone" />
+<Entity id="15" startPos="390" endPos="396" type="location" surface="Europa" />
+<Entity id="16" startPos="430" endPos="443" type="number" surface="1,4 Mrd. Euro" />
+<Entity id="17" startPos="611" endPos="634" type="organization-company" surface="Cornerstone Deutschland" />
+<Entity id="18" startPos="677" endPos="700" type="organization-company" surface="Cornerstone Deutschland" />
+<Entity id="19" startPos="701" endPos="703" type="number" surface="31" />
+<Entity id="20" startPos="770" endPos="780" type="number" surface="500.000 qm" />
+<Entity id="21" startPos="805" endPos="819" type="number" surface="1,24 Mrd. Euro" />
+<Entity id="22" startPos="821" endPos="825" type="date" surface="2015" />
+<Entity id="23" startPos="855" endPos="865" type="number" surface="107.000 qm" />
+<Entity id="24" startPos="921" endPos="932" type="organization-company" surface="Cornerstone" /></Entities><Relations>
+<Relation id="25" NAME="Acquisition">
+<Entity id="5" label="trigger" />
+<Entity id="6" label="acquired" />
+<Entity id="4" label="buyer" />
+</Relation></Relations>
+</Document>

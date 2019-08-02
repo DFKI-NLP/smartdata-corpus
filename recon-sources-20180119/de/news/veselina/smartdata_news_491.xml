@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Abmahnung <NODE id="10" />Waldorf Frommer<NODE id="25" /> - Jupiter Ascending - <NODE id="48" />Warner Bros. Entertainment GmbH<NODE id="79" /> wegen Filesharing<NODE id="97" />
+<NODE id="98" />Fachartikel aus dem Bereich Abmahnung und Filesharing - 16.01.2016 - 32 mal gelesen.<NODE id="182" />
+<NODE id="183" />Hilfreiche Tipps bei Filesharingabmahnung. Beratung auch am Wochenende!<NODE id="254" />
+<NODE id="255" />Die <NODE id="259" />Münchener<NODE id="268" /> Anwaltskanzlei <NODE id="284" />Waldorf Frommer<NODE id="299" /> mahnt nach wie vor Internetanschlussinhaber wegen des sog. Filesharings ab.<NODE id="375" />
+<NODE id="376" />Konkret wird den Anschlussinhabern vorgeworfen, über Filesharingportale wie z.B. BitTorrent Filme wie „Jupiter Ascending“ bereitgestellt und zum Download angeboten zu haben.<NODE id="549" /> <NODE id="550" />Der Rechteinhaber ist hier die <NODE id="581" />Warner Bros. Entertainment GmbH<NODE id="612" />.<NODE id="613" />
+<NODE id="614" />Jupiter Ascending ist ein US-amerikanischer Science-Fiction-Film unter der Regie der <NODE id="699" />Wachowski-Geschwister<NODE id="720" />.<NODE id="721" /> <NODE id="722" />In den Hauptrollen sind <NODE id="746" />Channing Tatum<NODE id="760" />, <NODE id="762" />Mila Kunis<NODE id="772" /> und <NODE id="777" />Sean Bean<NODE id="786" /> zu sehen.<NODE id="796" />
+<NODE id="797" />Was wird verlangt?<NODE id="815" />
+<NODE id="816" />1) eine Abgabe einer strafbewehrten Unterlassungserklärung (eine vorgefertigte liegt dem Schreiben bei)<NODE id="919" />
+<NODE id="920" />2) die Begleichun<NODE id="937" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.anwalt24.de/beitraege-news/fachartikel/abmahnung-waldorf-frommer-jupiter-ascending-warner-bros-entertainment-gmbh-wegen-filesharing@2016-03-10T14:31:23.888+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:31:23.888Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:31:33.484Z" />
+<feature featureName="uri" featureValue="http://www.anwalt24.de/beitraege-news/fachartikel/abmahnung-waldorf-frommer-jupiter-ascending-warner-bros-entertainment-gmbh-wegen-filesharing" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="97" type="sentence" surface="Abmahnung Waldorf Frommer - Jupiter Ascending - Warner Bros. Entertainment GmbH wegen Filesharing" />
+<Entity id="1" startPos="10" endPos="25" type="organization" surface="Waldorf Frommer" />
+<Entity id="2" startPos="48" endPos="79" type="organization-company" surface="Warner Bros. Entertainment GmbH" />
+<Entity id="3" startPos="98" endPos="182" type="sentence" surface="Fachartikel aus dem Bereich Abmahnung und Filesharing - 16.01.2016 - 32 mal gelesen." />
+<Entity id="4" startPos="183" endPos="254" type="sentence" surface="Hilfreiche Tipps bei Filesharingabmahnung. Beratung auch am Wochenende!" />
+<Entity id="5" startPos="255" endPos="375" type="sentence" surface="Die Münchener Anwaltskanzlei Waldorf Frommer mahnt nach wie vor Internetanschlussinhaber wegen des sog. Filesharings ab." />
+<Entity id="6" startPos="259" endPos="268" type="location-city" surface="Münchener" />
+<Entity id="7" startPos="284" endPos="299" type="organization" surface="Waldorf Frommer" />
+<Entity id="8" startPos="376" endPos="549" type="sentence" surface="Konkret wird den Anschlussinhabern vorgeworfen, über Filesharingportale wie z.B. BitTorrent Filme wie „Jupiter Ascending“ bereitgestellt und zum Download angeboten zu haben." />
+<Entity id="9" startPos="550" endPos="613" type="sentence" surface="Der Rechteinhaber ist hier die Warner Bros. Entertainment GmbH." />
+<Entity id="10" startPos="581" endPos="612" type="organization-company" surface="Warner Bros. Entertainment GmbH" />
+<Entity id="11" startPos="614" endPos="721" type="sentence" surface="Jupiter Ascending ist ein US-amerikanischer Science-Fiction-Film unter der Regie der Wachowski-Geschwister." />
+<Entity id="12" startPos="699" endPos="720" type="person" surface="Wachowski-Geschwister" />
+<Entity id="13" startPos="722" endPos="796" type="sentence" surface="In den Hauptrollen sind Channing Tatum, Mila Kunis und Sean Bean zu sehen." />
+<Entity id="14" startPos="746" endPos="760" type="person" surface="Channing Tatum" />
+<Entity id="15" startPos="762" endPos="772" type="person" surface="Mila Kunis" />
+<Entity id="16" startPos="777" endPos="786" type="person" surface="Sean Bean" />
+<Entity id="17" startPos="797" endPos="815" type="sentence" surface="Was wird verlangt?" />
+<Entity id="18" startPos="816" endPos="919" type="sentence" surface="1) eine Abgabe einer strafbewehrten Unterlassungserklärung (eine vorgefertigte liegt dem Schreiben bei)" />
+<Entity id="19" startPos="920" endPos="937" type="sentence" surface="2) die Begleichun" /></Entities><Relations />
+</Document>

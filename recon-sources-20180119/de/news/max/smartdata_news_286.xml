@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>0
+Bewertungen)
+<NODE id="15" />FRANKFURT<NODE id="24" /> (dpa-AFX) - Der <NODE id="41" />deutsche<NODE id="49" /> Aktienmarkt hat am <NODE id="69" />Dienstag<NODE id="77" /> nach seinem turbulenten Jahresauftakt einen erneuten Erholungsversuch gestartet. Der Dax stieg in den ersten Minuten um <NODE id="198" />0,55 Prozent <NODE id="211" />auf <NODE id="215" />9879,32<NODE id="222" /> Punkte. Der deutsche Leitindex war nach einem Minus von mehr als <NODE id="288" />8 Prozent <NODE id="298" />in der   <NODE id="307" />ersten<NODE id="313" /> Handelswoche des Jahres bereits am <NODE id="349" />Montag<NODE id="355" /> gestiegen, bevor ihm die Kraft ausging und er leicht im Minus schloss. Die Anleger sorgen sich um <NODE id="454" />Chinas<NODE id="460" /> Wirtschaft.
+Der MDax der mittelgroßen Werte gewann am <NODE id="515" />Dienstag<NODE id="523" /> <NODE id="524" />0,33 Prozent<NODE id="536" /> auf <NODE id="541" />19 283,77 <NODE id="551" />Punkte und Technologiewerte-Index TecDax trat mit plus <NODE id="606" />0,02   Prozent<NODE id="620" /> auf <NODE id="625" />1698,48<NODE id="632" /> Zähler nahezu auf der Stelle. Der Eurozonen-Leitindex EuroStoxx 50 stieg moderat.
+Die Anleger blieben nach dem schwierigen Start ins Jahr <NODE id="771" />2016<NODE id="775" /> vorsichtig, sagte Analyst <NODE id="802" />Craig Erlam<NODE id="813" /> vom Broker <NODE id="825" />Oanda<NODE id="830" />. Es gebe aber einige Anzeichen, dass die Märkte auf die Füße kämen. Die jüngste   Stabilisierung der chi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wallstreet-online.de/nachricht/8250201-aktien-frankfurt-eroeffnung-anleger-greifen-vorsichtig@2016-03-10T12:15:05.315+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:15:05.315Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:15:13.318Z" />
+<feature featureName="uri" featureValue="http://www.wallstreet-online.de/nachricht/8250201-aktien-frankfurt-eroeffnung-anleger-greifen-vorsichtig" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="24" type="location-city" surface="FRANKFURT" />
+<Entity id="1" startPos="41" endPos="49" type="location" surface="deutsche" />
+<Entity id="2" startPos="69" endPos="77" type="date" surface="Dienstag" />
+<Entity id="3" startPos="198" endPos="211" type="number" surface="0,55 Prozent " />
+<Entity id="4" startPos="215" endPos="222" type="number" surface="9879,32" />
+<Entity id="5" startPos="288" endPos="298" type="number" surface="8 Prozent " />
+<Entity id="6" startPos="307" endPos="313" type="number" surface="ersten" />
+<Entity id="7" startPos="349" endPos="355" type="date" surface="Montag" />
+<Entity id="8" startPos="454" endPos="460" type="location" surface="Chinas" />
+<Entity id="9" startPos="515" endPos="523" type="date" surface="Dienstag" />
+<Entity id="10" startPos="524" endPos="536" type="number" surface="0,33 Prozent" />
+<Entity id="11" startPos="541" endPos="551" type="number" surface="19 283,77 " />
+<Entity id="12" startPos="606" endPos="620" type="number" surface="0,02   Prozent" />
+<Entity id="13" startPos="625" endPos="632" type="number" surface="1698,48" />
+<Entity id="14" startPos="771" endPos="775" type="date" surface="2016" />
+<Entity id="15" startPos="802" endPos="813" type="person" surface="Craig Erlam" />
+<Entity id="16" startPos="825" endPos="830" type="organization-company" surface="Oanda" /></Entities><Relations />
+</Document>

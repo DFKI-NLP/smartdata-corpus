@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Klausur fertig! jetzt ab zum Flughafen! <NODE id="40" />New York<NODE id="48" /> ich komme!!!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670882993460916224" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-29T08:32:24Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:22:13.521Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="40" endPos="48" type="location-city" surface="New York" /></Entities><Relations />
+</Document>

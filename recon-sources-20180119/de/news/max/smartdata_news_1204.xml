@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Etwas verspätet: <NODE id="17" />BMW<NODE id="20" /> <NODE id="21" />Dingolfing<NODE id="31" /> feiert
+Artikel vom <NODE id="51" />10.03.2016<NODE id="61" /> Regionalnachrichten
+Jetzt ist auch <NODE id="97" />Dingolfing<NODE id="107" /> dran: Heute dürfen die <NODE id="131" />BMW<NODE id="134" />´ler im <NODE id="142" />Dingolfinger<NODE id="154" /> Werk den <NODE id="164" />100.<NODE id="168" /> Unternehmensgeburtstag feiern.
+Während am Montag die große Jubiläumsfeier in <NODE id="246" />München<NODE id="253" /> stieg, liefen in <NODE id="271" />Dingolfing<NODE id="281" /> die Bänder weiter.
+Einige Mitarbeiter waren darum sauer.
+Denn in anderen <NODE id="355" />BMW<NODE id="358" />-Werken wie <NODE id="370" />Landshut<NODE id="378" /> wurde nicht gearbeitet.
+Heute also die Feier im <NODE id="427" />Dingolfinger<NODE id="439" /> Werk.
+Dort gibt es mehrere Betriebsversammlungen für die über <NODE id="502" />18 000<NODE id="508" /> Mitarbeiter in den Kantinen.
+Da können sich die Mitarbeiter einen Mitschnitt des Festaktes in <NODE id="603" />München<NODE id="610" /> anschauen.
+Im nächsten Jahr steht das nächste Jubiläum vor der Tür.
+Dann jährt sich zum <NODE id="699" />50.<NODE id="702" /> Mal die <NODE id="711" />Übernahme<NODE id="720" /> der <NODE id="725" />Hans Glas GmbH<NODE id="739" /> in <NODE id="743" />Landshut<NODE id="751" /> und <NODE id="756" />Dingolfing<NODE id="766" /> durch <NODE id="773" />BMW<NODE id="776" />.
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.radio-trausnitz.de/nachrichten/newsdetail/etwas-verspaetet-bmw-dingolfing-feiert.html@2016-03-10T09:41:55.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T08:41:55Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T00:19:42.952Z" />
+<feature featureName="uri" featureValue="http://www.radio-trausnitz.de/nachrichten/newsdetail/etwas-verspaetet-bmw-dingolfing-feiert.html" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="20" type="organization-company" surface="BMW" />
+<Entity id="1" startPos="21" endPos="31" type="location-city" surface="Dingolfing" />
+<Entity id="2" startPos="51" endPos="61" type="date" surface="10.03.2016" />
+<Entity id="3" startPos="97" endPos="107" type="location-city" surface="Dingolfing" />
+<Entity id="4" startPos="131" endPos="134" type="organization-company" surface="BMW" />
+<Entity id="5" startPos="142" endPos="154" type="location-city" surface="Dingolfinger" />
+<Entity id="6" startPos="164" endPos="168" type="number" surface="100." />
+<Entity id="7" startPos="246" endPos="253" type="location-city" surface="München" />
+<Entity id="8" startPos="271" endPos="281" type="location-city" surface="Dingolfing" />
+<Entity id="9" startPos="355" endPos="358" type="organization-company" surface="BMW" />
+<Entity id="10" startPos="370" endPos="378" type="location-city" surface="Landshut" />
+<Entity id="11" startPos="427" endPos="439" type="location-city" surface="Dingolfinger" />
+<Entity id="12" startPos="502" endPos="508" type="number" surface="18 000" />
+<Entity id="13" startPos="603" endPos="610" type="location-city" surface="München" />
+<Entity id="14" startPos="699" endPos="702" type="number" surface="50." />
+<Entity id="15" startPos="711" endPos="720" type="trigger" surface="Übernahme" />
+<Entity id="16" startPos="725" endPos="739" type="organization-company" surface="Hans Glas GmbH" />
+<Entity id="17" startPos="743" endPos="751" type="location-city" surface="Landshut" />
+<Entity id="18" startPos="756" endPos="766" type="location-city" surface="Dingolfing" />
+<Entity id="19" startPos="773" endPos="776" type="organization-company" surface="BMW" /></Entities><Relations>
+<Relation id="20" NAME="Acquisition">
+<Entity id="15" label="trigger" />
+<Entity id="16" label="acquired" />
+<Entity id="19" label="buyer" />
+</Relation>
+<Relation id="21" NAME="CompanyFacility">
+<Entity id="0" label="company" />
+<Entity id="1" label="location" />
+</Relation>
+<Relation id="22" NAME="CompanyFacility">
+<Entity id="9" label="company" />
+<Entity id="10" label="location" />
+</Relation></Relations>
+</Document>

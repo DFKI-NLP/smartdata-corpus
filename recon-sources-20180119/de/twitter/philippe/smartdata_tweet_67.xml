@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />Berlin<NODE id="7" />-News-Ticker +++ <NODE id="24" />Ersatzverkehr<NODE id="37" /> auf <NODE id="42" />S3<NODE id="44" /> +++ Böllerverbot vor Flüchtlingsheimen? https://t.co/JACYSJCSwE
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="674481718896812032" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="7" type="location-city" surface="Berlin" />
+<Entity id="1" startPos="24" endPos="37" type="trigger" surface="Ersatzverkehr" />
+<Entity id="2" startPos="42" endPos="44" type="location-route" surface="S3" /></Entities><Relations>
+<Relation id="3" NAME="RailReplacementService">
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

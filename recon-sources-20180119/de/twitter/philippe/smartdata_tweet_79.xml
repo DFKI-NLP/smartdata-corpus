@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />WDR<NODE id="7" />: Nach @<NODE id="15" />WDR<NODE id="18" />- und @<NODE id="25" />SZ<NODE id="27" />-Recherchen: Schwerer <NODE id="49" />Unfall<NODE id="55" /> im #<NODE id="60" />AKW #<NODE id="65" />Fessenheim<NODE id="75" /> nach <NODE id="81" />Überschwemmung<NODE id="95" /> <NODE id="96" />2014<NODE id="100" /> offenbar vertuscht https://t.co/dpkYmi…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="706556741987803140" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="organization-company" surface="WDR" />
+<Entity id="1" startPos="15" endPos="18" type="organization-company" surface="WDR" />
+<Entity id="2" startPos="25" endPos="27" type="organization-company" surface="SZ" />
+<Entity id="3" startPos="49" endPos="55" type="disaster-type" surface="Unfall" />
+<Entity id="4" startPos="60" endPos="75" type="location" surface="AKW #Fessenheim" />
+<Entity id="5" startPos="65" endPos="75" type="location-city" surface="Fessenheim" />
+<Entity id="6" startPos="81" endPos="95" type="disaster-type" surface="Überschwemmung" />
+<Entity id="7" startPos="96" endPos="100" type="date" surface="2014" /></Entities><Relations>
+<Relation id="8" NAME="Disaster">
+<Entity id="7" label="date" />
+<Entity id="4" label="location" />
+<Entity id="3" label="type" />
+</Relation>
+<Relation id="9" NAME="Disaster">
+<Entity id="7" label="date" />
+<Entity id="5" label="location" />
+<Entity id="6" label="type" />
+</Relation></Relations>
+</Document>

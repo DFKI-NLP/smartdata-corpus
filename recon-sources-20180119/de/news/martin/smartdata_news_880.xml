@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Hail, Berlinale!
+Foto:             <NODE id="35" />Andreas Dosch<NODE id="48" />
+<NODE id="49" />Journal<NODE id="56" />-Kinoredakteur <NODE id="71" />Andreas Dosch<NODE id="84" /> ist in <NODE id="92" />Berlin<NODE id="98" />. Nicht ohne Grund natürlich, denn es ist Berlinale-Time. Dort traf er unter anderem <NODE id="183" />Clooney<NODE id="190" />, eine Journalistin, die Liebe machen will mit dessen Film und weiteres filmreifes Personal.
+Sowas kennt man sonst nur aus einschlägigen Filmproduktionen: Die Maschine startet mit <NODE id="370" />15 Minuten<NODE id="380" /> Verspätung, lähmende Wartezeit, dann folgt die Stimme des Captains: Meine Damen und Herren: Da mit Turbulenzen zu rechnen ist, bitten wir Sie, während des gesamten Fluges angeschnallt zu bleiben. (Lajies an Dschenelmänn, du to türbjulenses plis keep jur sietbelts on, thank ju...krrr) Kurze Zeit später, gerade mal die Flughöhe erreicht: Falls ein Arzt an Bord ist, bitten wir Sie, sich zu melden! (If there's a doctor on bord plisidentfyimmidietli ...krrr) Derweil rennt der Flugbegleiter durch die Reihen und macht lächelnd auf Beobachtungsgeste.
+Alles halb so wild? Keine Ahnung. Ich saß z
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.direktbroker.de/news/anschlussflug-verpasst-zubringer-airline-muss-zahlen-48652228@2016-03-01T05:35:54.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-12T15:12:52Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:30:21.931Z" />
+<feature featureName="uri" featureValue="http://www.journal-frankfurt.de/?src=journal_news_einzel&amp;id=26391&amp;from=feed" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="35" endPos="48" type="person" surface="Andreas Dosch" />
+<Entity id="1" startPos="49" endPos="56" type="organization-company" surface="Journal" />
+<Entity id="2" startPos="71" endPos="84" type="person" surface="Andreas Dosch" />
+<Entity id="3" startPos="92" endPos="98" type="location-city" surface="Berlin" />
+<Entity id="4" startPos="183" endPos="190" type="person" surface="Clooney" />
+<Entity id="5" startPos="370" endPos="380" type="duration" surface="15 Minuten" /></Entities><Relations />
+</Document>

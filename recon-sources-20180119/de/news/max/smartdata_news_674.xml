@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sturm Niels sorgt für Streckensperrungen und Verspätungen bei <NODE id="62" />BOB<NODE id="65" /> und <NODE id="70" />Meridian<NODE id="78" />
+☺ ? ⛅
+<NODE id="85" />BOB<NODE id="88" /> und <NODE id="93" />Meridian<NODE id="101" />
+Sturm Niels sorgt für Streckensperrungen und Verspätungen
+Landkreis - Der seit Tagen anhaltende Sturm wirkt sich auch auf den Betrieb von <NODE id="240" />Meridian<NODE id="248" /> und <NODE id="253" />BOB<NODE id="256" /> aus. Derzeit sind mehrere Abschnitte im Streckennetz gesperrt.
+Aufgrund des aktuellen Sturmtiefs kommt es streckenweise zu Geschwindigkeitsbeschränkungen für die Züge und kurzfristige Streckensperrungen durch umgestürzte Bäume oder in den Gleisbereich gewehte Gegenstände, teilt das Unternehmen in einer Presseerklärung mit. So musste unter anderem am heutigen Morgen die Strecke zwischen <NODE id="646" />Holzkirchen<NODE id="657" /> und <NODE id="662" />Westerham<NODE id="671" />, <NODE id="673" />Deisenhofen<NODE id="684" /> und <NODE id="689" />Solln<NODE id="694" /> sowie <NODE id="701" />Rosenheim<NODE id="710" /> und <NODE id="715" />Ostermünchen<NODE id="727" /> gesperrt werden. Teilweise können Streckenabschnitte nur eingleisig befahren werden, und es werden Busnotverkehre durchgeführt.
+Bei der <NODE id="864" />BOB<NODE id="867" /> enden seit etwa <NODE id="884" />8 Uhr<NODE id="889" /> alle Züge in <NODE id="903" />Schliersee<NODE id="913" />. Zwischen <NODE id="924" />Schliersee<NODE id="934" /> und B
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.merkur.de/lokales/region-miesbach/miesbach/sturm-niels-sorgt-streckensperrungen-verspaetungen-meridian-5918179.html?cmp=defrss@2016-03-11T02:17:11.012+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T01:17:11.012Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T01:17:13.487Z" />
+<feature featureName="uri" featureValue="http://www.merkur.de/lokales/region-miesbach/miesbach/sturm-niels-sorgt-streckensperrungen-verspaetungen-meridian-5918179.html?cmp=defrss" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="62" endPos="65" type="organization-company" surface="BOB" />
+<Entity id="1" startPos="70" endPos="78" type="organization-company" surface="Meridian" />
+<Entity id="2" startPos="85" endPos="88" type="organization-company" surface="BOB" />
+<Entity id="3" startPos="93" endPos="101" type="organization-company" surface="Meridian" />
+<Entity id="4" startPos="240" endPos="248" type="organization-company" surface="Meridian" />
+<Entity id="5" startPos="253" endPos="256" type="organization-company" surface="BOB" />
+<Entity id="6" startPos="646" endPos="657" type="location-stop" surface="Holzkirchen" />
+<Entity id="7" startPos="662" endPos="671" type="location-stop" surface="Westerham" />
+<Entity id="8" startPos="673" endPos="684" type="location-stop" surface="Deisenhofen" />
+<Entity id="9" startPos="689" endPos="694" type="location-stop" surface="Solln" />
+<Entity id="10" startPos="701" endPos="710" type="location-stop" surface="Rosenheim" />
+<Entity id="11" startPos="715" endPos="727" type="location-stop" surface="Ostermünchen" />
+<Entity id="12" startPos="864" endPos="867" type="organization-company" surface="BOB" />
+<Entity id="13" startPos="884" endPos="889" type="time" surface="8 Uhr" />
+<Entity id="14" startPos="903" endPos="913" type="location-stop" surface="Schliersee" />
+<Entity id="15" startPos="924" endPos="934" type="location-stop" surface="Schliersee" /></Entities><Relations />
+</Document>

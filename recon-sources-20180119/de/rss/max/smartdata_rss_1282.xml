@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht auf der <NODE id="17" />A8<NODE id="19" /> <NODE id="20" />München<NODE id="27" /> Richtung <NODE id="37" />Karlsruhe<NODE id="46" /> zwischen <NODE id="56" />Stuttgart-Flughafen/Messe<NODE id="81" /> und <NODE id="86" />Kreuz Stuttgart<NODE id="101" /> ist eine Ölspur auf der rechten Spur!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#22@2016-05-10T10:38:31.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-10T08:38:31Z" />
+<feature featureName="indexDate" featureValue="2016-05-10T08:41:05.389Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="19" type="location-street" surface="A8" />
+<Entity id="1" startPos="20" endPos="27" type="location-city" surface="München" />
+<Entity id="2" startPos="37" endPos="46" type="location-city" surface="Karlsruhe" />
+<Entity id="3" startPos="56" endPos="81" type="location" surface="Stuttgart-Flughafen/Messe" />
+<Entity id="4" startPos="86" endPos="101" type="location" surface="Kreuz Stuttgart" /></Entities><Relations />
+</Document>

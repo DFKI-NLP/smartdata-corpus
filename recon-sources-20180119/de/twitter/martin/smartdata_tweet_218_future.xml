@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Der Verlag @<NODE id="31" />axelspringer<NODE id="43" /> und der TV-Sender @<NODE id="63" />ProSieben<NODE id="72" /> verhandeln offenbar über eine <NODE id="103" />Fusion<NODE id="109" /> http://t.co/gBvqb5glj1
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="618160016248451073" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-07-06T20:50:07Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T00:50:24.12Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="31" endPos="43" type="organization-company" surface="axelspringer" />
+<Entity id="2" startPos="63" endPos="72" type="organization-company" surface="ProSieben" />
+<Entity id="3" startPos="103" endPos="109" type="trigger" surface="Fusion" /></Entities><Relations>
+<Relation id="4" NAME="Merger">
+<Entity id="1" label="old" />
+<Entity id="2" label="old" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

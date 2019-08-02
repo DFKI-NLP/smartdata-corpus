@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A270<NODE id="27" /> <NODE id="28" />Lesumer Schnellweg<NODE id="46" />, <NODE id="48" />Blumenthal<NODE id="58" /> Richtung <NODE id="68" />Ihlpohl <NODE id="76" />zwischen <NODE id="85" />Ihletal<NODE id="92" /> und Übergang zur <NODE id="110" />Bremerhavener Heerstraße<NODE id="134" /> steht ein defektes Fahrzeug!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#2@2016-04-19T23:38:13.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-19T21:38:13Z" />
+<feature featureName="indexDate" featureValue="2016-04-19T21:39:52.492Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="27" type="location-street" surface="A270" />
+<Entity id="1" startPos="28" endPos="46" type="location-street" surface="Lesumer Schnellweg" />
+<Entity id="2" startPos="48" endPos="58" type="location" surface="Blumenthal" />
+<Entity id="3" startPos="68" endPos="76" type="location" surface="Ihlpohl " />
+<Entity id="4" startPos="85" endPos="92" type="location" surface="Ihletal" />
+<Entity id="5" startPos="110" endPos="134" type="location-street" surface="Bremerhavener Heerstraße" /></Entities><Relations />
+</Document>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>.@Linuzifer und die Athleten hätten am #<NODE id="40" />BER<NODE id="43" /> landen können.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671074696645971968" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="40" endPos="43" type="location-stop" surface="BER" /></Entities><Relations />
+</Document>

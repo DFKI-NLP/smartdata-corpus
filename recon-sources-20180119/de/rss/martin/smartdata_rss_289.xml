@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Mannheim<NODE id="8" /> Richtung <NODE id="18" />Heilbronn<NODE id="27" /> zwischen <NODE id="37" />Viernheimer Kreuz<NODE id="54" /> und <NODE id="59" />Kreuz Mannheim<NODE id="73" /> alle Fahrbahnen wieder frei
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=bca6c021-46c7-4f40-86e2-99d8d0e8edce@2016-04-08T15:14:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-08T13:14:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-08T13:19:22.611Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=bca6c021-46c7-4f40-86e2-99d8d0e8edce" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-city" surface="Mannheim" />
+<Entity id="1" startPos="18" endPos="27" type="location-city" surface="Heilbronn" />
+<Entity id="2" startPos="37" endPos="54" type="location" surface="Viernheimer Kreuz" />
+<Entity id="3" startPos="59" endPos="73" type="location" surface="Kreuz Mannheim" /></Entities><Relations />
+</Document>

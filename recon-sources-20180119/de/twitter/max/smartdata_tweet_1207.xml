@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @nachtnebel: #: <NODE id="20" />iPhone<NODE id="26" />-Chips ausschließlich von <NODE id="52" />TSMC<NODE id="56" /> – <NODE id="59" />ARM<NODE id="62" />-Übernahme besiegelt https://t.co/hlYP7LOkBu #<NODE id="108" />Apple<NODE id="113" /> #<NODE id="115" />A9<NODE id="117" /> https://t.co/pYzbxwvG…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755040112933830657" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T14:02:45Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T14:02:54.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2238793433/status/755040112933830657" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="26" type="product" surface="iPhone" />
+<Entity id="1" startPos="52" endPos="56" type="organization-company" surface="TSMC" />
+<Entity id="2" startPos="59" endPos="62" type="organization-company" surface="ARM" />
+<Entity id="3" startPos="108" endPos="113" type="organization-company" surface="Apple" />
+<Entity id="4" startPos="115" endPos="117" type="organization-company" surface="A9" /></Entities><Relations />
+</Document>

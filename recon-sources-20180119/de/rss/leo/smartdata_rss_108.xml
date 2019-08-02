@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A17<NODE id="3" /> <NODE id="4" />Prag<NODE id="8" /> Richtung <NODE id="18" />Dresden<NODE id="25" /> <NODE id="26" />Tunnel Coschütz<NODE id="41" />
+defekter LKW auf dem rechten Fahrstreifen, Reifenschaden, Gefahr durch Reifenteile auf der Fahrbahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp@2016-02-16T19:37:06.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A17" />
+<Entity id="1" startPos="4" endPos="8" type="location-city" surface="Prag" />
+<Entity id="2" startPos="18" endPos="25" type="location-city" surface="Dresden" />
+<Entity id="3" startPos="26" endPos="41" type="location" surface="Tunnel Coschütz" /></Entities><Relations />
+</Document>

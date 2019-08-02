@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Der Nachtbus <NODE id="13" />N10<NODE id="16" /> hat für seine Abfahrt <NODE id="39" />01:35<NODE id="44" /> Uhr ab <NODE id="52" />Hauptbahnhof<NODE id="64" /> ca. <NODE id="69" />15 Minuten<NODE id="79" /> <NODE id="80" />Verspätung<NODE id="90" />. mhk (<NODE id="97" />01:23<NODE id="102" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="728726787723808769" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-06T23:22:59Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T04:30:55.537Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2860669497/status/728726787723808769" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="13" endPos="16" type="location-route" surface="N10" />
+<Entity id="1" startPos="39" endPos="44" type="time" surface="01:35" />
+<Entity id="2" startPos="52" endPos="64" type="location-stop" surface="Hauptbahnhof" />
+<Entity id="3" startPos="69" endPos="79" type="duration" surface="15 Minuten" />
+<Entity id="4" startPos="80" endPos="90" type="trigger" surface="Verspätung" />
+<Entity id="5" startPos="97" endPos="102" type="time" surface="01:23" /></Entities><Relations>
+<Relation id="6" NAME="Delay">
+<Entity id="3" label="delay" />
+<Entity id="2" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="4" label="trigger" />
+<Entity id="1" label="start_date" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />Polizei_Ffm<NODE id="15" />: ZEUGEN gesucht nach tödlichem <NODE id="47" />Verkehrsunfall<NODE id="61" /> in #<NODE id="66" />Frankfurt<NODE id="75" /> #<NODE id="77" />Bornheim<NODE id="85" /> am <NODE id="89" />09.02.16<NODE id="97" /> Mehr dazu: https://t.co/smRha6QDQo https:…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="697458799016329216" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="15" type="organization" surface="Polizei_Ffm" />
+<Entity id="1" startPos="47" endPos="61" type="trigger" surface="Verkehrsunfall" />
+<Entity id="2" startPos="66" endPos="75" type="location-city" surface="Frankfurt" />
+<Entity id="3" startPos="77" endPos="85" type="location-city" surface="Bornheim" />
+<Entity id="4" startPos="89" endPos="97" type="date" surface="09.02.16" /></Entities><Relations>
+<Relation id="5" NAME="Accident">
+<Entity id="3" label="location" />
+<Entity id="1" label="trigger" />
+<Entity id="4" label="start_date" />
+</Relation></Relations>
+</Document>

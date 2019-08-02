@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />17.06.2016<NODE id="10" /> <NODE id="11" />16:21:45<NODE id="19" />
+### PERSON ### <NODE id="35" />2<NODE id="36" /> ###
+VERKEHRSUNFALL EINGEKLEMMTE PERSON
+RO - 
+Details:
+https://t.co/b6JqmefbV6
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743811241517408256" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T14:23:13Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T14:23:14.727Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Einsätze - LFKOÖ/status/743811241517408256" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="17.06.2016" />
+<Entity id="1" startPos="11" endPos="19" type="time" surface="16:21:45" />
+<Entity id="2" startPos="35" endPos="36" type="number" surface="2" /></Entities><Relations />
+</Document>

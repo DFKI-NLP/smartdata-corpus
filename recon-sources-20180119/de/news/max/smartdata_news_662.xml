@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />pnp.de<NODE id="6" /> ist nicht verantwortlich für die Inhalte externer Internetseiten.
+ES WIRD TATSÄCHLICH MEHR UND AN EMPFINDLICHEN STELLEN GESTREIKT.
+Nach Berechnungen des arbeitgebernahen <NODE id="177" />Institut der Wirtschaft Köln<NODE id="205" /> sind in diesem Jahr in <NODE id="229" />Deutschland<NODE id="240" /> an die <NODE id="248" />960 000<NODE id="255" /> Arbeitstage durch Streiks ausgefallen. Seit der Wiedervereinigung wurde nur <NODE id="332" />1992<NODE id="336" /> mehr gestreikt, sagt das <NODE id="362" />IW<NODE id="364" />. <NODE id="366" />Heiner Dribbusch<NODE id="382" /> vom gewerkschaftsnahen <NODE id="406" />WSI-Tarifarchiv<NODE id="421" /> kommt in einer ersten Schätzung sogar auf <NODE id="464" />1,7 Millionen<NODE id="477" /> Streiktage, will aber den Vergleich zur amtlichen Statistik <NODE id="538" />1992<NODE id="542" /> nicht ziehen, die tendenziell eher zu niedrig liege. Rund <NODE id="601" />1,5 Millionen<NODE id="614" /> Streiktage seien <NODE id="632" />2015<NODE id="636" /> allein auf <NODE id="648" />Streiks<NODE id="655" /> im Organisationsbereich von <NODE id="684" />Verdi<NODE id="689" /> entfallen, darunter die langen Konflikte bei der <NODE id="739" />Post<NODE id="743" /> und im Sozial- und Erziehungsdienst. Viele der kleineren Streiks trafen empfindliche Stellen der Infrastruktur wie das Bahnnetz oder die Flugverbindungen, so dass sehr viele Menschen betroffen waren un
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.pnp.de/nachrichten/wirtschaft/wirtschaft/1918538_Rueckblick2015-Fuenf-gute-Gruende-fuer-das-heftige-Streikjahr.html@2016-03-10T12:25:53.415+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:25:53.415Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:26:03.318Z" />
+<feature featureName="uri" featureValue="http://www.pnp.de/nachrichten/wirtschaft/wirtschaft/1918538_Rueckblick2015-Fuenf-gute-Gruende-fuer-das-heftige-Streikjahr.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization-company" surface="pnp.de" />
+<Entity id="1" startPos="177" endPos="205" type="organization" surface="Institut der Wirtschaft Köln" />
+<Entity id="2" startPos="229" endPos="240" type="location" surface="Deutschland" />
+<Entity id="3" startPos="248" endPos="255" type="number" surface="960 000" />
+<Entity id="4" startPos="332" endPos="336" type="date" surface="1992" />
+<Entity id="5" startPos="362" endPos="364" type="organization" surface="IW" />
+<Entity id="6" startPos="366" endPos="382" type="person" surface="Heiner Dribbusch" />
+<Entity id="7" startPos="406" endPos="421" type="organization" surface="WSI-Tarifarchiv" />
+<Entity id="8" startPos="464" endPos="477" type="number" surface="1,7 Millionen" />
+<Entity id="9" startPos="538" endPos="542" type="date" surface="1992" />
+<Entity id="10" startPos="601" endPos="614" type="number" surface="1,5 Millionen" />
+<Entity id="11" startPos="632" endPos="636" type="date" surface="2015" />
+<Entity id="12" startPos="648" endPos="655" type="trigger" surface="Streiks" />
+<Entity id="13" startPos="684" endPos="689" type="organization" surface="Verdi" />
+<Entity id="14" startPos="739" endPos="743" type="organization-company" surface="Post" /></Entities><Relations>
+<Relation id="15" NAME="Strike">
+<Entity id="11" label="date" />
+<Entity id="14" label="company" />
+<Entity id="12" label="trigger" />
+</Relation></Relations>
+</Document>

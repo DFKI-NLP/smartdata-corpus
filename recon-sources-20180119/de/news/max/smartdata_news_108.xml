@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>CES in Las Vegas: Die neue Messe der Automobil-Zukunft
+<NODE id="55" />04.01.2016<NODE id="65" /> <NODE id="66" />15:59 Uhr<NODE id="75" />
+Die CES dürfte auch diesmal wieder einigen Automessen die Schau stehlen. Foto: <NODE id="155" />Michael Nelson<NODE id="169" />
+Die CES dürfte auch diesmal wieder einigen Automessen die Schau stehlen. Foto: <NODE id="249" />Michael Nelson<NODE id="263" />
+<NODE id="264" />Las Vegas<NODE id="273" />. 
+Die erste große Ankündigung aus der Autobranche zur Elektronik-Messe CES kam schon vor Beginn der Technik-Schau im Spieler-Paradies <NODE id="408" />Las Vegas<NODE id="417" />.
+Die <NODE id="423" />Opel<NODE id="427" />-Mutter<NODE id="434" /> <NODE id="435" />General Motors<NODE id="449" /> pumpt <NODE id="456" />500 Millionen<NODE id="469" /> in den <NODE id="477" />amerikanischen<NODE id="491" /> Fahrdienst-Vermittler <NODE id="514" />Lyft<NODE id="518" />, um gemeinsam ein Netz von Roboter-Taxis zu entwickeln.
+Das Timing zementiert die Rolle der einst auf Fernseher und Hausgeräte fixierten Messe als Plattform für die Präsentation der automobilen Zukunft. Schon <NODE id="728" />vor einem Jahr<NODE id="742" /> enthüllte hier <NODE id="758" />Daimler<NODE id="765" /> seinen futuristischen selbstfahrenden Prototypen <NODE id="815" />F015<NODE id="819" />, ein <NODE id="825" />Audi<NODE id="829" /> fuhr autonom <NODE id="843" />900 Kilometer<NODE id="856" /> von <NODE id="861" />Kalifornien<NODE id="872" /> in die Kasino-Stadt in der Wüste von <NODE id="910" />Nevada<NODE id="916" />.
+Zuletzt gab es Medienberic
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.mz-web.de/multimedia/ces--autos--virtuelle-realitaet-und-vernetztes-zuhause,20642986,33049700.html@2016-03-10T13:59:15.310+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.mz-web.de/multimedia/ces--autos--virtuelle-realitaet-und-vernetztes-zuhause,20642986,33049700.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="55" endPos="65" type="date" surface="04.01.2016" />
+<Entity id="1" startPos="66" endPos="75" type="time" surface="15:59 Uhr" />
+<Entity id="2" startPos="155" endPos="169" type="person" surface="Michael Nelson" />
+<Entity id="3" startPos="249" endPos="263" type="person" surface="Michael Nelson" />
+<Entity id="4" startPos="264" endPos="273" type="location-city" surface="Las Vegas" />
+<Entity id="5" startPos="408" endPos="417" type="location-city" surface="Las Vegas" />
+<Entity id="6" startPos="423" endPos="427" type="organization-company" surface="Opel" />
+<Entity id="7" startPos="423" endPos="434" type="trigger" surface="Opel-Mutter" />
+<Entity id="8" startPos="435" endPos="449" type="organization-company" surface="General Motors" />
+<Entity id="9" startPos="456" endPos="469" type="number" surface="500 Millionen" />
+<Entity id="10" startPos="477" endPos="491" type="location" surface="amerikanischen" />
+<Entity id="11" startPos="514" endPos="518" type="organization-company" surface="Lyft" />
+<Entity id="12" startPos="728" endPos="742" type="date" surface="vor einem Jahr" />
+<Entity id="13" startPos="758" endPos="765" type="organization-company" surface="Daimler" />
+<Entity id="14" startPos="815" endPos="819" type="number" surface="F015" />
+<Entity id="15" startPos="825" endPos="829" type="organization-company" surface="Audi" />
+<Entity id="16" startPos="843" endPos="856" type="number" surface="900 Kilometer" />
+<Entity id="17" startPos="861" endPos="872" type="location" surface="Kalifornien" />
+<Entity id="18" startPos="910" endPos="916" type="location" surface="Nevada" /></Entities><Relations>
+<Relation id="19" NAME="SpinOff">
+<Entity id="8" label="parent" />
+<Entity id="7" label="trigger" />
+<Entity id="6" label="child" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />25.02.16<NODE id="8" /> | <NODE id="11" />16:18 Uhr<NODE id="20" /> | <NODE id="23" />1<NODE id="24" /> mal gelesen | <NODE id="39" />dts-nachrichtenagentur.de<NODE id="64" />
+Im Kampf gegen den Terrorismus wollen die <NODE id="107" />EU<NODE id="109" />-Innenminister eine Verstärkung der Kontrollen an den Außengrenzen des ...
+Bild: © über <NODE id="197" />dts Nachrichtenagentur<NODE id="219" />
+Terrorbekämpfung: <NODE id="238" />EU<NODE id="240" />-Innenminister wollen Grenzkontrollen verstärken
+Im Kampf gegen den Terrorismus wollen die <NODE id="331" />EU<NODE id="333" />-Innenminister eine Verstärkung der Kontrollen an den Außengrenzen des Schengenraums.
+Bei einem Treffen in <NODE id="440" />Brüssel<NODE id="447" /> vereinbarten die Minister am <NODE id="477" />Mittwoch<NODE id="485" />, dass künftig auch <NODE id="505" />EU<NODE id="507" />-Bürger bei der Ein- und Ausreise systematisch überprüft werden sollen - bisher wurden nur Bürger aus Drittstaaten systematisch kontrolliert. Strengere Kontrollen an den Außengrenzen seien ein wichtiges Mittel zur Bekämpfung des Terrors und zum Schutz der Sicherheit der <NODE id="778" />europäischen<NODE id="790" /> Bevölkerung, sagte der <NODE id="814" />niederländische<NODE id="829" /> Migrationsminister <NODE id="849" />Klaas Dijkhoff<NODE id="863" /> am <NODE id="867" />Mittwoch<NODE id="875" />. Das <NODE id="881" />Europäische Parlament<NODE id="902" /> muss den Bestimmungen noch zustimmen. Thema bei de
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ad-hoc-news.de/im-kampf-gegen-den-terrorismus-wollen-die-eu-innenminister-eine-verstaerkung-der--/de/News/48588958@2016-02-25T15:18:29.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-25T14:18:29Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:36:22.951Z" />
+<feature featureName="uri" featureValue="http://www.ad-hoc-news.de/im-kampf-gegen-den-terrorismus-wollen-die-eu-innenminister-eine-verstaerkung-der--/de/News/48588958" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="date" surface="25.02.16" />
+<Entity id="1" startPos="11" endPos="20" type="time" surface="16:18 Uhr" />
+<Entity id="2" startPos="23" endPos="24" type="number" surface="1" />
+<Entity id="3" startPos="39" endPos="64" type="organization-company" surface="dts-nachrichtenagentur.de" />
+<Entity id="4" startPos="107" endPos="109" type="location" surface="EU" />
+<Entity id="5" startPos="197" endPos="219" type="organization-company" surface="dts Nachrichtenagentur" />
+<Entity id="6" startPos="238" endPos="240" type="location" surface="EU" />
+<Entity id="7" startPos="331" endPos="333" type="location" surface="EU" />
+<Entity id="8" startPos="440" endPos="447" type="location-city" surface="Brüssel" />
+<Entity id="9" startPos="477" endPos="485" type="date" surface="Mittwoch" />
+<Entity id="10" startPos="505" endPos="507" type="location" surface="EU" />
+<Entity id="11" startPos="778" endPos="790" type="location" surface="europäischen" />
+<Entity id="12" startPos="814" endPos="829" type="location" surface="niederländische" />
+<Entity id="13" startPos="849" endPos="863" type="person" surface="Klaas Dijkhoff" />
+<Entity id="14" startPos="867" endPos="875" type="date" surface="Mittwoch" />
+<Entity id="15" startPos="881" endPos="902" type="organization" surface="Europäische Parlament" /></Entities><Relations />
+</Document>

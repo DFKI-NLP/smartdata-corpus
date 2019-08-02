@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />RE4<NODE id="4" /> wird ab #<NODE id="14" />Düsseldorf Hbf<NODE id="28" /> (<NODE id="30" />17:26<NODE id="35" />) bis #<NODE id="42" />Mönchengladbach<NODE id="57" /> (<NODE id="59" />17:48<NODE id="64" />) ohne Halt <NODE id="76" />umgeleitet<NODE id="86" />.Mit <NODE id="91" />20 Minuten<NODE id="101" /> Verspätung muss in <NODE id="121" />MG<NODE id="123" /> gerechnet werden
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671727798113947648" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="4" type="location-route" surface="RE4" />
+<Entity id="1" startPos="14" endPos="28" type="location-stop" surface="Düsseldorf Hbf" />
+<Entity id="2" startPos="30" endPos="35" type="time" surface="17:26" />
+<Entity id="3" startPos="42" endPos="57" type="location-stop" surface="Mönchengladbach" />
+<Entity id="4" startPos="59" endPos="64" type="time" surface="17:48" />
+<Entity id="5" startPos="76" endPos="86" type="trigger" surface="umgeleitet" />
+<Entity id="6" startPos="91" endPos="101" type="duration" surface="20 Minuten" />
+<Entity id="7" startPos="121" endPos="123" type="location-stop" surface="MG" /></Entities><Relations>
+<Relation id="8" NAME="CanceledRoute">
+<Entity id="3" label="end_loc" />
+<Entity id="1" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Investor: Keine Fusion von <NODE id="27" />BHF<NODE id="30" /> und <NODE id="35" />Hauck &amp; Aufhäuser<NODE id="52" /> http://t.co/U91XeTAfCz #<NODE id="77" />ocnews<NODE id="83" /> #news #aktuell
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="636398223125540865" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="27" endPos="30" type="organization-company" surface="BHF" />
+<Entity id="1" startPos="35" endPos="52" type="organization-company" surface="Hauck &amp; Aufhäuser" />
+<Entity id="2" startPos="77" endPos="83" type="organization-company" surface="ocnews" /></Entities><Relations />
+</Document>

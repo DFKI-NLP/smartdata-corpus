@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@PaddyGee Unfall mit Lkw, <NODE id="26" />2 km <NODE id="31" />Stau, Richtungsfahrbahn gesperrt, Umleitung eingerichtet.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="611846039377707009" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-19T10:40:37Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:50:45.731Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="26" endPos="31" type="number" surface="2 km " /></Entities><Relations />
+</Document>

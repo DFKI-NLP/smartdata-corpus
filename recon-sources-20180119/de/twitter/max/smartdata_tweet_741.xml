@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />Andreas_Wegener<NODE id="19" />: Dieser Schluss ist ein Spaß, oder? Das hat sie doch nur geträumt. Anders wär albern. #Tatort @<NODE id="115" />ARD<NODE id="118" />de
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668530820697714689" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-22T20:45:43Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:07:15.73Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="19" type="person" surface="Andreas_Wegener" />
+<Entity id="1" startPos="115" endPos="118" type="organization-company" surface="ARD" /></Entities><Relations />
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Für die aufgeführten Inhalte kann keine Gewährleistung für die Vollständigkeit, Richtigkeit und Genauigkeit übernommen werden.
+Kursinformationen von <NODE id="149" />SIX Financial Information Deutschland GmbH<NODE id="191" />. Verzögerung <NODE id="205" />15 Min.<NODE id="212" /> (<NODE id="214" />Nasdaq<NODE id="220" />, <NODE id="222" />NYSE<NODE id="226" />: <NODE id="228" />20 Min.<NODE id="235" />). © <NODE id="240" />1999<NODE id="244" />-<NODE id="245" />2016<NODE id="249" /> <NODE id="250" />finanzen.net GmbH<NODE id="267" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzen.at/nachrichten/anleihen/Moodys-upgrades-the-rating-on-$24-1-million-of-notes-issued-by-Mountain-View-CLO-II-Ltd--1001042448@2016-02-11T21:11:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-11T20:11:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:41:02.952Z" />
+<feature featureName="uri" featureValue="http://www.finanzen.at/nachrichten/anleihen/Moodys-upgrades-the-rating-on-$24-1-million-of-notes-issued-by-Mountain-View-CLO-II-Ltd--1001042448" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="149" endPos="191" type="organization-company" surface="SIX Financial Information Deutschland GmbH" />
+<Entity id="1" startPos="205" endPos="212" type="duration" surface="15 Min." />
+<Entity id="2" startPos="214" endPos="220" type="organization" surface="Nasdaq" />
+<Entity id="3" startPos="222" endPos="226" type="organization-company" surface="NYSE" />
+<Entity id="4" startPos="228" endPos="235" type="duration" surface="20 Min." />
+<Entity id="5" startPos="240" endPos="244" type="date" surface="1999" />
+<Entity id="6" startPos="245" endPos="249" type="date" surface="2016" />
+<Entity id="7" startPos="250" endPos="267" type="organization-company" surface="finanzen.net GmbH" /></Entities><Relations />
+</Document>

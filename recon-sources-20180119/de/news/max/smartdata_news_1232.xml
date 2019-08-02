@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Netzwelt
+Hinweis!
+Cookies optimieren die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden.
+OK
+Stellenabbau gefährdet Sicherheit im <NODE id="212" />hessischen<NODE id="222" /> Justizvollzug
+Die Arbeitssituation im hessischen Strafvollzug ist gefährlich und befindet sich in einer totalen Schräglage beschrieb die <NODE id="360" />Landesvorsitzende<NODE id="377" /> des <NODE id="382" />Bundes der Strafvollzugsbediensteten Hessen<NODE id="425" /> (<NODE id="427" />BSBD<NODE id="431" />), <NODE id="434" />Birgit Kannegießer<NODE id="452" />, in <NODE id="457" />Butzbach<NODE id="465" /> die Arbeitssituation in den <NODE id="494" />hessischen<NODE id="504" /> Justizvollzugsanstalten. Getrieben von immer weiter ausufernden Behandlungsmaßnahmen, Dokumentations- und Berichtspflichten, Gefangenenausführungen, und jetzt auch noch einem überproportionalen Stellenabbau im Jahr <NODE id="720" />2016<NODE id="724" /> spitze sich die Arbeitssituation in den hessischen Gefängnissen zu, so Kannegießer beim diesjährigen Gewerkschaftstag des <NODE id="847" />BSBD<NODE id="851" />.
+Arbeitsunzufriedenheit, Demotivation und Krankheit seien <NODE id="910" />2015<NODE id="914" /> weiter 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.hannover-zeitung.net/aktuell/vermischtes/47229720-stellenabbau-gef%C3%A4hrdet-sicherheit-im-hessischen-justizvollzug@2016-03-11T02:41:51.124+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T01:41:51.124Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T01:41:53.316Z" />
+<feature featureName="uri" featureValue="http://www.hannover-zeitung.net/aktuell/vermischtes/47229720-stellenabbau-gef%C3%A4hrdet-sicherheit-im-hessischen-justizvollzug" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="212" endPos="222" type="location" surface="hessischen" />
+<Entity id="1" startPos="360" endPos="377" type="org-position" surface="Landesvorsitzende" />
+<Entity id="2" startPos="382" endPos="425" type="organization" surface="Bundes der Strafvollzugsbediensteten Hessen" />
+<Entity id="3" startPos="427" endPos="431" type="organization" surface="BSBD" />
+<Entity id="4" startPos="434" endPos="452" type="person" surface="Birgit Kannegießer" />
+<Entity id="5" startPos="457" endPos="465" type="location-city" surface="Butzbach" />
+<Entity id="6" startPos="494" endPos="504" type="location" surface="hessischen" />
+<Entity id="7" startPos="720" endPos="724" type="date" surface="2016" />
+<Entity id="8" startPos="847" endPos="851" type="organization" surface="BSBD" />
+<Entity id="9" startPos="910" endPos="914" type="date" surface="2015" /></Entities><Relations>
+<Relation id="10" NAME="OrganizationLeadership">
+<Entity id="4" label="person" />
+<Entity id="2" label="organization" />
+<Entity id="1" label="position" />
+</Relation></Relations>
+</Document>

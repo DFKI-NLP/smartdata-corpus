@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Piloten von <NODE id="12" />Air Europa<NODE id="22" /> wollen zur <NODE id="34" />Hochsaison<NODE id="44" /> in den <NODE id="52" />Streik<NODE id="58" /> treten: <NODE id="67" />MADRID<NODE id="73" /> (<NODE id="75" />dpa-AFX<NODE id="82" />) - Die Piloten der <NODE id="102" />spanischen<NODE id="112" />… https://t.co/KzevBfxOSm
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="753905170526904320" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-15T10:52:54Z" />
+<feature featureName="indexDate" featureValue="2016-07-15T10:52:54.563Z" />
+<feature featureName="uri" featureValue="https://twitter.com/239405776/status/753905170526904320" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="22" type="organization-company" surface="Air Europa" />
+<Entity id="1" startPos="34" endPos="44" type="date" surface="Hochsaison" />
+<Entity id="2" startPos="52" endPos="58" type="trigger" surface="Streik" />
+<Entity id="3" startPos="67" endPos="73" type="location-city" surface="MADRID" />
+<Entity id="4" startPos="75" endPos="82" type="organization-company" surface="dpa-AFX" />
+<Entity id="5" startPos="102" endPos="112" type="location" surface="spanischen" /></Entities><Relations>
+<Relation id="6" NAME="Strike">
+<Entity id="1" label="date" />
+<Entity id="0" label="company" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

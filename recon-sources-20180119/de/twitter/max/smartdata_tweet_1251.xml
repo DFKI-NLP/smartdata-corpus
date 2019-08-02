@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />Polizei_MH<NODE id="14" />: Tödlicher #<NODE id="27" />Verkehrsunfall<NODE id="41" /> auf der <NODE id="50" />BAB5<NODE id="54" /> bei <NODE id="59" />Ober-Mörlen<NODE id="70" /> - #Gaffer, immer wieder Gaffer!  https://t.co/51AB1y9h6C https://t.c…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754973512104902656" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T09:38:06Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T09:38:14.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2865928541/status/754973512104902656" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="organization" surface="Polizei_MH" />
+<Entity id="1" startPos="27" endPos="41" type="trigger" surface="Verkehrsunfall" />
+<Entity id="2" startPos="50" endPos="54" type="location-street" surface="BAB5" />
+<Entity id="3" startPos="59" endPos="70" type="location-city" surface="Ober-Mörlen" /></Entities><Relations>
+<Relation id="4" NAME="Accident">
+<Entity id="3" label="start_loc" />
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

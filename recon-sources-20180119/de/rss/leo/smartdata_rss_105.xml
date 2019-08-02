@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A7<NODE id="25" /> <NODE id="26" />Hannover<NODE id="34" /> Richtung <NODE id="44" />Hamburg<NODE id="51" /> zwischen <NODE id="61" />Ramelsloh<NODE id="70" /> und der <NODE id="79" />Raststätte Seevetal<NODE id="98" /> liegt eine Reifendecke!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#2@2016-02-09T17:02:05.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="25" type="location-street" surface="A7" />
+<Entity id="1" startPos="26" endPos="34" type="location-city" surface="Hannover" />
+<Entity id="2" startPos="44" endPos="51" type="location-city" surface="Hamburg" />
+<Entity id="3" startPos="61" endPos="70" type="location" surface="Ramelsloh" />
+<Entity id="4" startPos="79" endPos="98" type="location" surface="Raststätte Seevetal" /></Entities><Relations />
+</Document>

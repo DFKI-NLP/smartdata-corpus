@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Owncloud<NODE id="8" /> bekommt <NODE id="17" />Ableger<NODE id="24" />: Mit <NODE id="30" />Nextcloud<NODE id="39" /> zum Onlinespeicher - https://t.co/KAqR7eIDnf #cloudnetwork
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744645126639730689" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T21:36:47Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T21:36:50.077Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Cloud Newsman/status/744645126639730689" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="organization-company" surface="Owncloud" />
+<Entity id="1" startPos="17" endPos="24" type="trigger" surface="Ableger" />
+<Entity id="2" startPos="30" endPos="39" type="organization-company" surface="Nextcloud" /></Entities><Relations>
+<Relation id="3" NAME="SpinOff">
+<Entity id="0" label="parent" />
+<Entity id="1" label="trigger" />
+<Entity id="2" label="child" />
+</Relation></Relations>
+</Document>

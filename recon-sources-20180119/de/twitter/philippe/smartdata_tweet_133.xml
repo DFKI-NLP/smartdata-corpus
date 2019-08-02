@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@matahari_etc @<NODE id="15" />michaelamoser<NODE id="28" /> @<NODE id="30" />SonjaAblinger<NODE id="43" /> @<NODE id="45" />JSchwentner<NODE id="56" /> @denkwerkstatt @barbarhof @<NODE id="84" />Berivan_Aslan_<NODE id="98" />  <NODE id="100" />Mörbischer Straße<NODE id="117" /> <NODE id="118" />5<NODE id="119" />, <NODE id="121" />7071<NODE id="125" /> <NODE id="126" />Rust<NODE id="130" /> ;-)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672359494152790016" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="28" type="person" surface="michaelamoser" />
+<Entity id="1" startPos="30" endPos="43" type="person" surface="SonjaAblinger" />
+<Entity id="2" startPos="45" endPos="56" type="person" surface="JSchwentner" />
+<Entity id="3" startPos="84" endPos="98" type="person" surface="Berivan_Aslan_" />
+<Entity id="4" startPos="100" endPos="117" type="location-street" surface="Mörbischer Straße" />
+<Entity id="5" startPos="118" endPos="119" type="number" surface="5" />
+<Entity id="6" startPos="121" endPos="125" type="number" surface="7071" />
+<Entity id="7" startPos="126" endPos="130" type="location-city" surface="Rust" /></Entities><Relations />
+</Document>

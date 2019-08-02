@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @tweet_laura: Die Nacht @<NODE id="28" />dpa<NODE id="31" />: <NODE id="33" />Vier<NODE id="37" /> Tote bei <NODE id="47" />Unfall<NODE id="53" /> nahe <NODE id="59" />Berlin<NODE id="65" />, Überlebender nach <NODE id="85" />Erdrutsch<NODE id="94" /> in <NODE id="98" />China<NODE id="103" /> gerettet, <NODE id="114" />Kim Dotcom<NODE id="124" /> soll an <NODE id="133" />USA<NODE id="136" /> au…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="679542963798675458" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-23T06:04:02Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T19:17:11.378Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="28" endPos="31" type="organization-company" surface="dpa" />
+<Entity id="1" startPos="33" endPos="37" type="number" surface="Vier" />
+<Entity id="2" startPos="47" endPos="53" type="trigger" surface="Unfall" />
+<Entity id="3" startPos="59" endPos="65" type="location-city" surface="Berlin" />
+<Entity id="4" startPos="85" endPos="94" type="disaster-type" surface="Erdrutsch" />
+<Entity id="5" startPos="98" endPos="103" type="location" surface="China" />
+<Entity id="6" startPos="114" endPos="124" type="person" surface="Kim Dotcom" />
+<Entity id="7" startPos="133" endPos="136" type="location" surface="USA" /></Entities><Relations>
+<Relation id="8" NAME="Disaster">
+<Entity id="5" label="location" />
+<Entity id="4" label="type" />
+</Relation></Relations>
+</Document>

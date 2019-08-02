@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Eingestellt unter: ! Top , Finanz , Nebenwerte
+von <NODE id="51" />André Spillmann<NODE id="66" />, <NODE id="68" />ZKB<NODE id="71" />
+<NODE id="72" />Zürich<NODE id="78" /> – Der <NODE id="85" />ZKB<NODE id="88" /> KMU Index legte in der vergangenen Woche um <NODE id="133" />0.1%<NODE id="137" /> auf <NODE id="142" />1‘015.64<NODE id="150" /> Punkte zu. Mit einem Abschluss von <NODE id="186" />drei<NODE id="190" /> Aktien “schafften” es die Aktien der <NODE id="228" />Zürichseeschifffahrtsgesellschaft<NODE id="261" /> auf Platz <NODE id="272" />1<NODE id="273" /> der Gewinnerliste. Platz <NODE id="299" />2<NODE id="300" /> und <NODE id="305" />3<NODE id="306" /> werden von <NODE id="318" />zwei<NODE id="322" /> <NODE id="323" />Bündner<NODE id="330" /> Bergbahnen belegt. Die <NODE id="354" />Davoser Bergbahnen AG<NODE id="375" /> generierten einen Abschluss über <NODE id="409" />60<NODE id="411" /> Aktien und die <NODE id="427" />Weisse Arena AG<NODE id="442" /> wurde in <NODE id="452" />zwei<NODE id="456" /> Abschlüssen zu je <NODE id="475" />einer<NODE id="480" /> und <NODE id="485" />50<NODE id="487" /> Aktien umgesetzt. Ohne Neuigkeiten wurden die Seebeteiligungen nachgefragt, dies mit <NODE id="573" />vier<NODE id="577" /> Abschlüssen, oder einem Volumen von <NODE id="614" />25<NODE id="616" /> Stück. Im Vorfeld der Generalversammlung wurden die Anteile der <NODE id="681" />CKW<NODE id="684" /> gesucht. Es wurden <NODE id="704" />300<NODE id="707" /> Aktien à <NODE id="717" />CHF 240<NODE id="724" /> umplatziert.
+Unter den grössten Verlierern, mit <NODE id="773" />drei<NODE id="777" /> Abschlüssen, finden wir die Papiere der <NODE id="818" />Pilatusbahnen AG<NODE id="834" />. Neuigkeiten gab es keine. Ebenfalls waren die <NODE id="882" />Auto AG Holding<NODE id="897" />, mit einem Abschluss über <NODE id="924" />200<NODE id="927" /> Aktien à <NODE id="937" />CHF 320<NODE id="944" />, unter Druck. Die Invest
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.moneycab.com/mcc/2016/02/02/zkb-kmu-index-legt-leicht-zu/@2016-02-02T13:13:05.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-02T12:13:05Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T08:27:51.929Z" />
+<feature featureName="uri" featureValue="http://www.moneycab.com/mcc/2016/02/02/zkb-kmu-index-legt-leicht-zu/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="51" endPos="66" type="person" surface="André Spillmann" />
+<Entity id="1" startPos="68" endPos="71" type="organization-company" surface="ZKB" />
+<Entity id="2" startPos="72" endPos="78" type="location-city" surface="Zürich" />
+<Entity id="3" startPos="85" endPos="88" type="organization-company" surface="ZKB" />
+<Entity id="4" startPos="133" endPos="137" type="number" surface="0.1%" />
+<Entity id="5" startPos="142" endPos="150" type="number" surface="1‘015.64" />
+<Entity id="6" startPos="186" endPos="190" type="number" surface="drei" />
+<Entity id="7" startPos="228" endPos="261" type="organization-company" surface="Zürichseeschifffahrtsgesellschaft" />
+<Entity id="8" startPos="272" endPos="273" type="number" surface="1" />
+<Entity id="9" startPos="299" endPos="300" type="number" surface="2" />
+<Entity id="10" startPos="305" endPos="306" type="number" surface="3" />
+<Entity id="11" startPos="318" endPos="322" type="number" surface="zwei" />
+<Entity id="12" startPos="323" endPos="330" type="location" surface="Bündner" />
+<Entity id="13" startPos="354" endPos="375" type="organization-company" surface="Davoser Bergbahnen AG" />
+<Entity id="14" startPos="409" endPos="411" type="number" surface="60" />
+<Entity id="15" startPos="427" endPos="442" type="organization-company" surface="Weisse Arena AG" />
+<Entity id="16" startPos="452" endPos="456" type="number" surface="zwei" />
+<Entity id="17" startPos="475" endPos="480" type="number" surface="einer" />
+<Entity id="18" startPos="485" endPos="487" type="number" surface="50" />
+<Entity id="19" startPos="573" endPos="577" type="number" surface="vier" />
+<Entity id="20" startPos="614" endPos="616" type="number" surface="25" />
+<Entity id="21" startPos="681" endPos="684" type="organization-company" surface="CKW" />
+<Entity id="22" startPos="704" endPos="707" type="number" surface="300" />
+<Entity id="23" startPos="717" endPos="724" type="number" surface="CHF 240" />
+<Entity id="24" startPos="773" endPos="777" type="number" surface="drei" />
+<Entity id="25" startPos="818" endPos="834" type="organization-company" surface="Pilatusbahnen AG" />
+<Entity id="26" startPos="882" endPos="897" type="organization-company" surface="Auto AG Holding" />
+<Entity id="27" startPos="924" endPos="927" type="number" surface="200" />
+<Entity id="28" startPos="937" endPos="944" type="number" surface="CHF 320" /></Entities><Relations />
+</Document>

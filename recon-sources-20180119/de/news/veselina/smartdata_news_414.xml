@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Chinesen<NODE id="8" /> torpedieren Fusion von <NODE id="32" />Demag-Mutter Terex<NODE id="50" /> mit <NODE id="55" />finnischem<NODE id="65" /> Kranbauer<NODE id="75" />
+<NODE id="76" />WESTPORT<NODE id="84" /> (<NODE id="86" />dpa-AFX<NODE id="93" />) - Ein <NODE id="101" />chinesischer<NODE id="113" /> Industriekonzern ist dem <NODE id="139" />US<NODE id="141" />-Baumaschinenhersteller <NODE id="165" />Terex<NODE id="170" /> bei dessen geplanter Fusion mit dem <NODE id="207" />finnischen<NODE id="217" /> Kranbauer <NODE id="228" />Konecranes<NODE id="238" /> in die Parade gefahren.<NODE id="262" /> <NODE id="263" />Terex<NODE id="268" /> habe unaufgefordert ein Übernahmeangebot von <NODE id="314" />Zoomlion Heavy Industry<NODE id="337" /> erhalten, erklärte das <NODE id="361" />US<NODE id="363" />-Unternehmen am Dienstag am Sitz in <NODE id="399" />Westport<NODE id="407" /> im Bundesstaat <NODE id="423" />Connecticut<NODE id="434" />.<NODE id="435" /> <NODE id="436" />Terex<NODE id="441" /> prüfe nun die Offerte und spreche mit <NODE id="480" />Zoomlion<NODE id="488" />.<NODE id="489" /> <NODE id="490" />Die Fusionsvereinbarung mit <NODE id="518" />Konecranes<NODE id="528" /> habe derweil Bestand.<NODE id="550" />
+<NODE id="551" />Zoomlion<NODE id="559" /> bietet den Angaben zufolge 30 Dollar in bar je <NODE id="607" />Terex<NODE id="612" />-Aktie - das ist doppelt so viel wie der Schlusskurs vom Montag.<NODE id="676" /> <NODE id="677" />Am Dienstag schoss die Aktie bis auf knapp 24 Dollar hoch und lag zuletzt 33 Prozent im Plus bei 20 Dollar.<NODE id="784" /> <NODE id="785" />Allerdings ist das Angebot der <NODE id="816" />Chinesen<NODE id="824" /> nicht bindend.<NODE id="839" /> <NODE id="840" />Es steht unter dem Vorbehalt der behördlichen Genehmigungen in den <NODE id="907" />USA<NODE id="910" /> und <NODE id="915" />China<NODE id="920" />; zudem müssen die <NODE id="939" />Zoomlio<NODE id="946" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanznachrichten.de/nachrichten-2016-01/36255386-chinesen-torpedieren-fusion-von-demag-mutter-terex-mit-finnischem-kranbauer-016.htm@2016-01-26T21:14:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-26T20:14:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T18:07:21.929Z" />
+<feature featureName="uri" featureValue="http://www.finanznachrichten.de/nachrichten-2016-01/36255386-chinesen-torpedieren-fusion-von-demag-mutter-terex-mit-finnischem-kranbauer-016.htm" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="organization-company" surface="Chinesen" />
+<Entity id="1" startPos="0" endPos="75" type="sentence" surface="Chinesen torpedieren Fusion von Demag-Mutter Terex mit finnischem Kranbauer" />
+<Entity id="2" startPos="32" endPos="50" type="organization-company" surface="Demag-Mutter Terex" />
+<Entity id="3" startPos="55" endPos="65" type="location" surface="finnischem" />
+<Entity id="4" startPos="76" endPos="84" type="location" surface="WESTPORT" />
+<Entity id="5" startPos="76" endPos="262" type="sentence" surface="WESTPORT (dpa-AFX) - Ein chinesischer Industriekonzern ist dem US-Baumaschinenhersteller Terex bei dessen geplanter Fusion mit dem finnischen Kranbauer Konecranes in die Parade gefahren." />
+<Entity id="6" startPos="86" endPos="93" type="organization-company" surface="dpa-AFX" />
+<Entity id="7" startPos="101" endPos="113" type="location" surface="chinesischer" />
+<Entity id="8" startPos="139" endPos="141" type="location" surface="US" />
+<Entity id="9" startPos="165" endPos="170" type="organization-company" surface="Terex" />
+<Entity id="10" startPos="207" endPos="217" type="location" surface="finnischen" />
+<Entity id="11" startPos="228" endPos="238" type="organization-company" surface="Konecranes" />
+<Entity id="12" startPos="263" endPos="268" type="organization-company" surface="Terex" />
+<Entity id="13" startPos="263" endPos="435" type="sentence" surface="Terex habe unaufgefordert ein Übernahmeangebot von Zoomlion Heavy Industry erhalten, erklärte das US-Unternehmen am Dienstag am Sitz in Westport im Bundesstaat Connecticut." />
+<Entity id="14" startPos="314" endPos="337" type="organization-company" surface="Zoomlion Heavy Industry" />
+<Entity id="15" startPos="361" endPos="363" type="location" surface="US" />
+<Entity id="16" startPos="399" endPos="407" type="location" surface="Westport" />
+<Entity id="17" startPos="423" endPos="434" type="location" surface="Connecticut" />
+<Entity id="18" startPos="436" endPos="441" type="organization-company" surface="Terex" />
+<Entity id="19" startPos="436" endPos="489" type="sentence" surface="Terex prüfe nun die Offerte und spreche mit Zoomlion." />
+<Entity id="20" startPos="480" endPos="488" type="organization-company" surface="Zoomlion" />
+<Entity id="21" startPos="490" endPos="550" type="sentence" surface="Die Fusionsvereinbarung mit Konecranes habe derweil Bestand." />
+<Entity id="22" startPos="518" endPos="528" type="organization-company" surface="Konecranes" />
+<Entity id="23" startPos="551" endPos="559" type="organization-company" surface="Zoomlion" />
+<Entity id="24" startPos="551" endPos="676" type="sentence" surface="Zoomlion bietet den Angaben zufolge 30 Dollar in bar je Terex-Aktie - das ist doppelt so viel wie der Schlusskurs vom Montag." />
+<Entity id="25" startPos="607" endPos="612" type="organization-company" surface="Terex" />
+<Entity id="26" startPos="677" endPos="784" type="sentence" surface="Am Dienstag schoss die Aktie bis auf knapp 24 Dollar hoch und lag zuletzt 33 Prozent im Plus bei 20 Dollar." />
+<Entity id="27" startPos="785" endPos="839" type="sentence" surface="Allerdings ist das Angebot der Chinesen nicht bindend." />
+<Entity id="28" startPos="816" endPos="824" type="organization-company" surface="Chinesen" />
+<Entity id="29" startPos="840" endPos="946" type="sentence" surface="Es steht unter dem Vorbehalt der behördlichen Genehmigungen in den USA und China; zudem müssen die Zoomlio" />
+<Entity id="30" startPos="907" endPos="910" type="location" surface="USA" />
+<Entity id="31" startPos="915" endPos="920" type="location" surface="China" />
+<Entity id="32" startPos="939" endPos="946" type="organization-company" surface="Zoomlio" /></Entities><Relations />
+</Document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>folgende Meldung entfällt
+am <NODE id="29" />Sonntag, 12. Juni<NODE id="46" />, <NODE id="48" />6.00<NODE id="52" /> – <NODE id="55" />6.45 Uhr<NODE id="63" />
+Meldung:
+<NODE id="73" />ICE 513<NODE id="80" /> nach <NODE id="86" />München Hbf<NODE id="97" /> (planmäßig <NODE id="109" />6.01 Uhr<NODE id="117" /> ab <NODE id="121" />Münster (Westf) Hbf<NODE id="140" />) verspätet sich von <NODE id="161" />Münster (Westf) Hbf<NODE id="180" /> bis <NODE id="185" />Dortmund Hbf<NODE id="197" /> um bis zu <NODE id="208" />10 Min<NODE id="214" />.
+Die Bauarbeiten wurden abgesagt – der Zug verkehrt planmäßig.
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="347" />191<NODE id="350" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_42-Dortmund-Essen-Koeln-Frankfurt_M_Flughafen-Mannheim-Stuttgart-Muenchen/21#78fa74844ad2df0a1322728511c44d84f135f0b7@2016-06-06T09:29:53.537+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-06T07:29:53.537Z" />
+<feature featureName="indexDate" featureValue="2016-06-06T07:30:05.536Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_42-Dortmund-Essen-Koeln-Frankfurt_M_Flughafen-Mannheim-Stuttgart-Muenchen/21#78fa74844ad2df0a1322728511c44d84f135f0b7" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="29" endPos="46" type="date" surface="Sonntag, 12. Juni" />
+<Entity id="1" startPos="48" endPos="52" type="time" surface="6.00" />
+<Entity id="2" startPos="55" endPos="63" type="time" surface="6.45 Uhr" />
+<Entity id="3" startPos="73" endPos="80" type="location-route" surface="ICE 513" />
+<Entity id="4" startPos="86" endPos="97" type="location-stop" surface="München Hbf" />
+<Entity id="5" startPos="109" endPos="117" type="time" surface="6.01 Uhr" />
+<Entity id="6" startPos="121" endPos="140" type="location-stop" surface="Münster (Westf) Hbf" />
+<Entity id="7" startPos="161" endPos="180" type="location-stop" surface="Münster (Westf) Hbf" />
+<Entity id="8" startPos="185" endPos="197" type="location-stop" surface="Dortmund Hbf" />
+<Entity id="9" startPos="208" endPos="214" type="duration" surface="10 Min" />
+<Entity id="10" startPos="347" endPos="350" type="number" surface="191" /></Entities><Relations />
+</Document>

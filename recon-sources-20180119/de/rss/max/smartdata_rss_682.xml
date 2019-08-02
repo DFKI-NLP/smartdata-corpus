@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>
+        <NODE id="9" />PD <NODE id="12" />Zwickau<NODE id="19" /> - <NODE id="22" />Auerbach<NODE id="30" />, <NODE id="32" />OT Rebesgrün<NODE id="44" />: Crash mit Folgen
+      .
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/de/MI_2016_42422.htm@2016-04-27T12:58:08.052+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-27T10:58:08.052Z" />
+<feature featureName="indexDate" featureValue="2016-04-27T10:58:48.398Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/de/MI_2016_42422.htm" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="19" type="organization" surface="PD Zwickau" />
+<Entity id="1" startPos="12" endPos="19" type="location-city" surface="Zwickau" />
+<Entity id="2" startPos="22" endPos="30" type="location-city" surface="Auerbach" />
+<Entity id="3" startPos="32" endPos="44" type="location" surface="OT Rebesgrün" /></Entities><Relations />
+</Document>

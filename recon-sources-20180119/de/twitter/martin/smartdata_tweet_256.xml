@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Unfall<NODE id="6" /> in <NODE id="10" />Frankreich<NODE id="20" /> - 
+TGV-Schnellzug <NODE id="39" />entgleist<NODE id="48" /> - <NODE id="51" />zehn<NODE id="55" /> Tote : https://t.co/FSfFavN2nI
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="665615084803223552" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-14T19:39:37Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:44:22.849Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="trigger" surface="Unfall" />
+<Entity id="1" startPos="10" endPos="20" type="location" surface="Frankreich" />
+<Entity id="2" startPos="39" endPos="48" type="trigger" surface="entgleist" />
+<Entity id="3" startPos="51" endPos="55" type="number" surface="zehn" /></Entities><Relations>
+<Relation id="4" NAME="Accident">
+<Entity id="2" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="0" label="trigger" />
+</Relation>
+<Relation id="5" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="type" />
+<Entity id="3" label="victims" />
+</Relation></Relations>
+</Document>

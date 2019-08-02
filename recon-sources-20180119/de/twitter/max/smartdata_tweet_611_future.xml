@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Fusion<NODE id="6" /> von <NODE id="11" />Twint<NODE id="16" /> und <NODE id="21" />Paymit<NODE id="27" /> absehbar https://t.co/qCHK6f5Urk
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="735011794595500032" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-24T07:37:22Z" />
+<feature featureName="indexDate" featureValue="2016-05-24T07:37:27.786Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="trigger" surface="Fusion" />
+<Entity id="1" startPos="11" endPos="16" type="organization-company" surface="Twint" />
+<Entity id="2" startPos="21" endPos="27" type="organization-company" surface="Paymit" /></Entities><Relations>
+<Relation id="3" NAME="Merger">
+<Entity id="1" label="old" />
+<Entity id="2" label="old" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

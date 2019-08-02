@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A20<NODE id="26" /> <NODE id="27" />Lübeck<NODE id="33" /> Richtung <NODE id="43" />Rostock<NODE id="50" /> in Höhe <NODE id="59" />Kröpelin<NODE id="67" /> befindet sich eine ungesicherte <NODE id="100" />Unfallstelle<NODE id="112" />!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#2@2016-03-29T14:56:11.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-29T12:56:11Z" />
+<feature featureName="indexDate" featureValue="2016-03-29T12:57:35.464Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="26" type="location-street" surface="A20" />
+<Entity id="1" startPos="27" endPos="33" type="location-city" surface="Lübeck" />
+<Entity id="2" startPos="43" endPos="50" type="location-city" surface="Rostock" />
+<Entity id="3" startPos="59" endPos="67" type="location" surface="Kröpelin" />
+<Entity id="4" startPos="100" endPos="112" type="trigger" surface="Unfallstelle" /></Entities><Relations>
+<Relation id="5" NAME="Accident">
+<Entity id="3" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="4" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

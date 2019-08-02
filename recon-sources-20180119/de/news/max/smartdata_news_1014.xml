@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Von                                      unserem <NODE id="49" />dpa<NODE id="52" />-Korrespondenten                        und <NODE id="96" />Europe Online<NODE id="109" />   
+  
+  
+<NODE id="119" />Berlin<NODE id="125" /> (<NODE id="127" />dpa<NODE id="130" />) - Die <NODE id="138" />Deutsche Bahn<NODE id="151" /> will in den nächsten Jahren vom Ausbau der Schienennetze in <NODE id="212" />Asien<NODE id="217" /> und im <NODE id="225" />Nahen Osten<NODE id="236" /> profitieren. Dabei soll die Fusion der beiden Planungs- und Ingenieurstöchter für das In- und Ausland einen Beitrag leisten, sagte der <NODE id="372" />Vorsitzende der Geschäftsführung<NODE id="404" /> von <NODE id="409" />DB International<NODE id="425" />, <NODE id="427" />Niko Warbanoff<NODE id="441" />, am <NODE id="446" />Mittwoch<NODE id="454" /> in <NODE id="458" />Berlin<NODE id="464" />. Am <NODE id="469" />1. April<NODE id="477" /> werden <NODE id="485" />DB International<NODE id="501" />, zuständig fürs Auslandsgeschäft, und <NODE id="540" />DB Projektbau<NODE id="553" />, die Vorhaben der <NODE id="572" />Deutschen Bahn<NODE id="586" /> betreut, zur <NODE id="600" />DB Engineering &amp; Consulting<NODE id="627" /> <NODE id="628" />verschmolzen<NODE id="640" />. <NODE id="642" />Warbanoff<NODE id="651" /> wird <NODE id="657" />Chef<NODE id="661" /> der neuen <NODE id="672" />Tochtergesellschaft<NODE id="691" /> mit rund <NODE id="701" />4000<NODE id="705" /> Mitarbeitern.
+Mit der Fusion werde die Ingenieurkompetenz beider Töchter gebündelt, erklärte der Manager. Fertige Projekte aus dem Inland könnten dann als Referenzen für Auslandskunden dienen. <NODE id="899" />DB International<NODE id="915" /> hat im vorigen Jahr <NODE id="936" />199,5 Millionen Euro<NODE id="956" /> Umsat
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.europeonline-magazine.eu/projekttoechter-der-bahn-fusionieren_446056.html@2016-03-23T17:56:33.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-23T16:56:33Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:18:51.931Z" />
+<feature featureName="uri" featureValue="http://www.europeonline-magazine.eu/projekttoechter-der-bahn-fusionieren_446056.html" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="49" endPos="52" type="organization-company" surface="dpa" />
+<Entity id="1" startPos="96" endPos="109" type="organization-company" surface="Europe Online" />
+<Entity id="2" startPos="119" endPos="125" type="location-city" surface="Berlin" />
+<Entity id="3" startPos="127" endPos="130" type="location-city" surface="dpa" />
+<Entity id="4" startPos="138" endPos="151" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="5" startPos="212" endPos="217" type="location" surface="Asien" />
+<Entity id="6" startPos="225" endPos="236" type="location" surface="Nahen Osten" />
+<Entity id="7" startPos="372" endPos="404" type="org-position" surface="Vorsitzende der Geschäftsführung" />
+<Entity id="8" startPos="409" endPos="425" type="organization-company" surface="DB International" />
+<Entity id="9" startPos="427" endPos="441" type="person" surface="Niko Warbanoff" />
+<Entity id="10" startPos="446" endPos="454" type="date" surface="Mittwoch" />
+<Entity id="11" startPos="458" endPos="464" type="location-city" surface="Berlin" />
+<Entity id="12" startPos="469" endPos="477" type="date" surface="1. April" />
+<Entity id="13" startPos="485" endPos="501" type="organization-company" surface="DB International" />
+<Entity id="14" startPos="540" endPos="553" type="organization-company" surface="DB Projektbau" />
+<Entity id="15" startPos="572" endPos="586" type="organization-company" surface="Deutschen Bahn" />
+<Entity id="16" startPos="600" endPos="627" type="organization-company" surface="DB Engineering &amp; Consulting" />
+<Entity id="17" startPos="628" endPos="640" type="trigger" surface="verschmolzen" />
+<Entity id="18" startPos="642" endPos="651" type="person" surface="Warbanoff" />
+<Entity id="19" startPos="657" endPos="661" type="org-position" surface="Chef" />
+<Entity id="20" startPos="672" endPos="691" type="organization-company" surface="Tochtergesellschaft" />
+<Entity id="21" startPos="701" endPos="705" type="number" surface="4000" />
+<Entity id="22" startPos="899" endPos="915" type="organization-company" surface="DB International" />
+<Entity id="23" startPos="936" endPos="956" type="number" surface="199,5 Millionen Euro" /></Entities><Relations>
+<Relation id="24" NAME="Identity">
+<Entity id="16" label="source" />
+<Entity id="20" label="target" />
+</Relation>
+<Relation id="25" NAME="Merger">
+<Entity id="16" label="new" />
+<Entity id="14" label="old" />
+<Entity id="13" label="old" />
+<Entity id="17" label="trigger" />
+</Relation>
+<Relation id="26" NAME="OrganizationLeadership">
+<Entity id="9" label="person" />
+<Entity id="8" label="organization" />
+<Entity id="7" label="position" />
+</Relation>
+<Relation id="27" NAME="OrganizationLeadership">
+<Entity id="18" label="person" />
+<Entity id="20" label="organization" />
+<Entity id="19" label="position" />
+</Relation></Relations>
+</Document>

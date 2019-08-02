@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Karlsruhe<NODE id="9" /> - <NODE id="12" />Stuttgart<NODE id="21" /> zwischen <NODE id="31" />Pforzheim-Nord<NODE id="45" /> und <NODE id="50" />Pforzheim-Ost<NODE id="63" /> in <NODE id="67" />beiden Richtungen<NODE id="84" /> Gefahr durch Personen auf der Fahrbahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=ee430eb2-421a-458b-998b-37d102d17c93@2016-03-19T08:22:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-19T07:22:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-19T08:28:22.607Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=ee430eb2-421a-458b-998b-37d102d17c93" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Karlsruhe" />
+<Entity id="1" startPos="12" endPos="21" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="31" endPos="45" type="location" surface="Pforzheim-Nord" />
+<Entity id="3" startPos="50" endPos="63" type="location" surface="Pforzheim-Ost" />
+<Entity id="4" startPos="67" endPos="84" type="location" surface="beiden Richtungen" /></Entities><Relations />
+</Document>

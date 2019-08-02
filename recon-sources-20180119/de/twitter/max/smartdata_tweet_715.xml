@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />BVG<NODE id="7" />_Tram: <NODE id="14" />M6<NODE id="16" />/<NODE id="17" />16<NODE id="19" />: wegen einer technischen Störung kommt es auf den Linien zu starken <NODE id="88" />Verspätungen<NODE id="100" />. Bitte mehr Zeit einplanen. #<NODE id="130" />BVG<NODE id="133" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="644068822270541824" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-09-16T08:42:28Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:40:14.119Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="organization-company" surface="BVG" />
+<Entity id="1" startPos="14" endPos="16" type="location-route" surface="M6" />
+<Entity id="2" startPos="17" endPos="19" type="location-route" surface="16" />
+<Entity id="3" startPos="88" endPos="100" type="trigger" surface="Verspätungen" />
+<Entity id="4" startPos="130" endPos="133" type="organization-company" surface="BVG" /></Entities><Relations>
+<Relation id="5" NAME="Delay">
+<Entity id="1" label="location" />
+<Entity id="2" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

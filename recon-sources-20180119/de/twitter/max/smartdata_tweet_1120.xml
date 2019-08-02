@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />RB59<NODE id="5" /> Aufgrund einer länger anhaltenden <NODE id="40" />Weichenstörung<NODE id="54" /> in <NODE id="58" />Soest<NODE id="63" /> (bis voraussichtlich <NODE id="85" />morgen Abend<NODE id="97" />) kommt es dort zu leichten <NODE id="125" />Verzögerungen<NODE id="138" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="702200750022246401" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T18:37:59Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T04:53:39.973Z" />
+<feature featureName="uri" featureValue="https://twitter.com/1193609552/status/702200750022246401" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="5" type="location-route" surface="RB59" />
+<Entity id="1" startPos="40" endPos="54" type="trigger" surface="Weichenstörung" />
+<Entity id="2" startPos="58" endPos="63" type="location-stop" surface="Soest" />
+<Entity id="3" startPos="85" endPos="97" type="date" surface="morgen Abend" />
+<Entity id="4" startPos="125" endPos="138" type="trigger" surface="Verzögerungen" /></Entities><Relations>
+<Relation id="5" NAME="Delay">
+<Entity id="3" label="end_date" />
+<Entity id="1" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

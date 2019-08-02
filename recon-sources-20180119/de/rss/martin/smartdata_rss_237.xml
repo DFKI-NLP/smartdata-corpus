@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A99<NODE id="3" /> <NODE id="4" />Ostumfahrung<NODE id="16" /> <NODE id="17" />München<NODE id="24" /> Richtung <NODE id="34" />Nürnberg<NODE id="42" /> zwischen <NODE id="52" />Aschheim/Ismaning<NODE id="69" /> und <NODE id="74" />Kreuz München-Nord<NODE id="92" /> <NODE id="93" />6 km<NODE id="97" /> <NODE id="98" />stockender Verkehr<NODE id="116" /> wegen einer <NODE id="129" />Baustelle<NODE id="138" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#36@2016-02-24T07:11:25.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T06:11:25Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T08:41:45.957Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A99" />
+<Entity id="1" startPos="4" endPos="16" type="location-street" surface="Ostumfahrung" />
+<Entity id="2" startPos="17" endPos="24" type="location-city" surface="München" />
+<Entity id="3" startPos="34" endPos="42" type="location-city" surface="Nürnberg" />
+<Entity id="4" startPos="52" endPos="69" type="location" surface="Aschheim/Ismaning" />
+<Entity id="5" startPos="74" endPos="92" type="location" surface="Kreuz München-Nord" />
+<Entity id="6" startPos="93" endPos="97" type="distance" surface="6 km" />
+<Entity id="7" startPos="98" endPos="116" type="trigger" surface="stockender Verkehr" />
+<Entity id="8" startPos="129" endPos="138" type="trigger" surface="Baustelle" /></Entities><Relations>
+<Relation id="9" NAME="TrafficJam">
+<Entity id="5" label="end_loc" />
+<Entity id="4" label="start_loc" />
+<Entity id="8" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="1" label="location" />
+<Entity id="6" label="jam_length" />
+<Entity id="7" label="trigger" />
+<Entity id="3" label="direction" />
+</Relation></Relations>
+</Document>

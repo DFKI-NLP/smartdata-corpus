@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />welt<NODE id="8" />: <NODE id="10" />Hauptstadtflughafen<NODE id="29" />: #BER-Brandschutzfirma <NODE id="53" />Imtech Deutschland<NODE id="71" /> ist <NODE id="76" />pleite<NODE id="82" />. http://t.co/vHqJ4WwBLD http://t.co/JydNqih12n
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="629426420658368512" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-06T22:58:47Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:30:44.119Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="8" type="organization-company" surface="welt" />
+<Entity id="1" startPos="10" endPos="29" type="location-stop" surface="Hauptstadtflughafen" />
+<Entity id="2" startPos="53" endPos="71" type="organization-company" surface="Imtech Deutschland" />
+<Entity id="3" startPos="76" endPos="82" type="trigger" surface="pleite" /></Entities><Relations>
+<Relation id="4" NAME="Insolvency">
+<Entity id="2" label="company" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

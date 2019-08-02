@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sonstiges
+Abschnitt: Richtung <NODE id="30" />Dreieck Werder<NODE id="44" /> zwischen <NODE id="54" />Potsdam-Nord<NODE id="66" /> und <NODE id="71" />Leest<NODE id="76" /> (<NODE id="78" />Berlin<NODE id="84" />)
+Gültig ab: <NODE id="97" />02.03.2016<NODE id="107" /> <NODE id="108" />05:37<NODE id="113" />
+Gefahr durch defektes Fahrzeug auf dem rechten Fahrstreifen, fahren Sie bitte besonders vorsichtig
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_61854@2016-03-02T05:37:18.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_61854" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="30" endPos="44" type="location" surface="Dreieck Werder" />
+<Entity id="1" startPos="54" endPos="66" type="location" surface="Potsdam-Nord" />
+<Entity id="2" startPos="71" endPos="76" type="location" surface="Leest" />
+<Entity id="3" startPos="78" endPos="84" type="location-city" surface="Berlin" />
+<Entity id="4" startPos="97" endPos="107" type="date" surface="02.03.2016" />
+<Entity id="5" startPos="108" endPos="113" type="time" surface="05:37" /></Entities><Relations />
+</Document>

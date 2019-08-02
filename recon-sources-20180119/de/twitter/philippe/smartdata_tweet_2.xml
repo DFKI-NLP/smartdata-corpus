@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Die Monopolkommission hat sich gegen die Übernahme von <NODE id="74" />Kaiser's Tengelmann<NODE id="93" /> durch <NODE id="100" />Edeka<NODE id="105" /> ausgesprochen. Zu Recht. http://t…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="628243267751165952" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="74" endPos="93" type="organization-company" surface="Kaiser's Tengelmann" />
+<Entity id="2" startPos="100" endPos="105" type="organization-company" surface="Edeka" /></Entities><Relations />
+</Document>

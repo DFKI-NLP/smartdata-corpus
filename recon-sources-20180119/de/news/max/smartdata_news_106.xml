@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Tegel<NODE id="5" />
+Eine verletzte <NODE id="21" />23-jährige<NODE id="31" /> Frau ist am Gleisbett der <NODE id="58" />S-Bahn<NODE id="64" /> zwischen den Bahnhöfen <NODE id="88" />Tegel<NODE id="93" /> und <NODE id="98" />Heiligensee<NODE id="109" /> gefunden worden. Ein Lokführer entdeckte am <NODE id="154" />Samstagmorgen<NODE id="167" /> die an Kopf und Bein verletzte Frau, wie ein Sprecher der <NODE id="226" />Bundespolizei<NODE id="239" /> mitteilte. Der Fahrer informierte umgehend den Lokführer der Bahn aus der Gegenrichtung, der eine Notbremsung durchführte und rechtzeitig anhalten konnte.
+Wie die Feuerwehr berichtet soll sich der <NODE id="437" />Unfall<NODE id="443" /> gegen <NODE id="450" />8.30 Uhr<NODE id="458" /> in der Nähe des <NODE id="475" />S-Bahnhofs Tegel<NODE id="491" /> nahe des Bahnübergangs an der <NODE id="522" />Gorkistraße<NODE id="533" /> zugetragen haben.
+Die Ursache und Schwere der Verletzungen waren zunächst unbekannt. Außerdem blieb unklar, ob die Frau sich bereits verletzt ins Gleisbett geschleppt hatte, oder ob sie unmittelbar vor der Entdeckung von einer S-Bahn erfasst worden sei.
+Die <NODE id="792" />23-Jährige<NODE id="802" /> kam in ein Krankenhaus. Der Verkehr der Linie <NODE id="849" />S25<NODE id="852" /> wurde für etwa <NODE id="868" />eineinhalb Stunden<NODE id="886" /> unterbrochen.
+#<NODE id="902" />S25<NODE id="905" /> Der Polizei- u. Notarzteinsatzes ist beendet. Der 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.bz-berlin.de/berlin/reinickendorf/tegel-s-bahn-erfasst-frau-verkehr-der-s25-unterbrochen@2016-03-10T13:53:32.033+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.bz-berlin.de/berlin/reinickendorf/tegel-s-bahn-erfasst-frau-verkehr-der-s25-unterbrochen" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="location" surface="Tegel" />
+<Entity id="1" startPos="21" endPos="31" type="number" surface="23-jährige" />
+<Entity id="2" startPos="58" endPos="64" type="location-route" surface="S-Bahn" />
+<Entity id="3" startPos="88" endPos="93" type="location-stop" surface="Tegel" />
+<Entity id="4" startPos="98" endPos="109" type="location-stop" surface="Heiligensee" />
+<Entity id="5" startPos="154" endPos="167" type="date" surface="Samstagmorgen" />
+<Entity id="6" startPos="226" endPos="239" type="organization" surface="Bundespolizei" />
+<Entity id="7" startPos="437" endPos="443" type="trigger" surface="Unfall" />
+<Entity id="8" startPos="450" endPos="458" type="time" surface="8.30 Uhr" />
+<Entity id="9" startPos="475" endPos="491" type="location-stop" surface="S-Bahnhofs Tegel" />
+<Entity id="10" startPos="522" endPos="533" type="location-street" surface="Gorkistraße" />
+<Entity id="11" startPos="792" endPos="802" type="number" surface="23-Jährige" />
+<Entity id="12" startPos="849" endPos="852" type="location-route" surface="S25" />
+<Entity id="13" startPos="868" endPos="886" type="number" surface="eineinhalb Stunden" />
+<Entity id="14" startPos="902" endPos="905" type="location-route" surface="S25" /></Entities><Relations>
+<Relation id="15" NAME="Accident">
+<Entity id="9" label="location" />
+<Entity id="10" label="location" />
+<Entity id="7" label="trigger" />
+</Relation></Relations>
+</Document>

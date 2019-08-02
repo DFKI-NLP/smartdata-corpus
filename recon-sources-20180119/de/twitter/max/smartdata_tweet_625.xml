@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />CEO<NODE id="3" />-Wechsel: <NODE id="13" />Thomas Neff<NODE id="24" /> verlässt die<NODE id="37" /> SBB GmbH<NODE id="46" />.: <NODE id="49" />Thomas Neff<NODE id="60" />, <NODE id="62" />CEO<NODE id="65" /> der <NODE id="70" />deutschen<NODE id="79" /> <NODE id="80" />SBB<NODE id="83" />-Tochtergesellschaft S... https://t.co/fyI1auuPpn #sbb
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="694485000654180352" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-02T11:38:21Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T16:03:25.038Z" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="org-position" surface="CEO" />
+<Entity id="1" startPos="13" endPos="24" type="person" surface="Thomas Neff" />
+<Entity id="2" startPos="37" endPos="46" type="organization-company" surface=" SBB GmbH" />
+<Entity id="3" startPos="49" endPos="60" type="person" surface="Thomas Neff" />
+<Entity id="4" startPos="62" endPos="65" type="org-position" surface="CEO" />
+<Entity id="5" startPos="70" endPos="79" type="location" surface="deutschen" />
+<Entity id="6" startPos="80" endPos="83" type="organization-company" surface="SBB" /></Entities><Relations />
+</Document>

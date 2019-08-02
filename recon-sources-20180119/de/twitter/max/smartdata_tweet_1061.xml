@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SBahnHamburg<NODE id="16" /> #<NODE id="18" />S3<NODE id="20" /> #Feuerwehr-/Notarzteinsatz in #<NODE id="52" />Neugraben<NODE id="61" />. Es kommt zu Ausfällen u. Verspät.. Infos über Schienenersatzverkehr folgen in
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="738302636332580864" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-02T09:34:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T12:53:10.072Z" />
+<feature featureName="uri" featureValue="https://twitter.com/4692080318/status/738302636332580864" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="16" type="organization-company" surface="SBahnHamburg" />
+<Entity id="1" startPos="18" endPos="20" type="location-route" surface="S3" />
+<Entity id="2" startPos="52" endPos="61" type="location-city" surface="Neugraben" /></Entities><Relations />
+</Document>

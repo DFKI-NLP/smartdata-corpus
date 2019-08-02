@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Virtual Reality im Packaging Valley
+<NODE id="36" />29. Januar 2016<NODE id="51" />
+-
+Am <NODE id="57" />22. Januar 2016<NODE id="72" /> wurde das VR Center im Technologiezentrum einem ersten öffentlichen Kreis präsentiert. Darunter Mitglieder des Packaging Valleys, die Initiatoren, Sponsoren und Förderer des Landes sowie die am Konzept und Bau Beteiligten. Vom <NODE id="300" />VDC Fellbach<NODE id="312" />, Partner in der Umsetzung, war <NODE id="344" />Geschäftsführer<NODE id="359" /> <NODE id="360" />Dr. Christoph Runde<NODE id="379" /> zu Gast, der Produktentwicklungen im Sondermaschinenbau und virtuelles Training als Möglichkeiten betonte.
+(von rechts) <NODE id="500" />Uwe Hertweck<NODE id="512" /> und <NODE id="517" />Tobias Luckner<NODE id="531" />, Projektleitung, <NODE id="549" />Fa. itek GmbH<NODE id="562" />, links: <NODE id="571" />Bernd Hansen<NODE id="583" />, <NODE id="585" />CEO<NODE id="588" /> <NODE id="589" />Hansen Gruppe<NODE id="602" /> (Foto: Packaging Valley)
+Unter den Gästen war auch <NODE id="654" />Hermann-Josef Pelgrim<NODE id="675" />, Oberbürgermeister der Stadt <NODE id="705" />Schwäbisch Hall<NODE id="720" />. Er sieht in dem neuen Innovationscenter große Chancen Forschung und Lehre mit der Industrie noch stärker zu verbinden. Unterstrichen wird das durch den Zuschuss des europäischen Förderprogramms.
+Virtual Reality, mit all
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.neue-verpackung.de/39581/virtual-reality-im-packaging-valley/@2016-01-29T09:18:17.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-29T08:18:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:36:11.931Z" />
+<feature featureName="uri" featureValue="http://www.neue-verpackung.de/39581/virtual-reality-im-packaging-valley/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="36" endPos="51" type="date" surface="29. Januar 2016" />
+<Entity id="1" startPos="57" endPos="72" type="date" surface="22. Januar 2016" />
+<Entity id="2" startPos="300" endPos="312" type="organization" surface="VDC Fellbach" />
+<Entity id="3" startPos="344" endPos="359" type="org-position" surface="Geschäftsführer" />
+<Entity id="4" startPos="360" endPos="379" type="person" surface="Dr. Christoph Runde" />
+<Entity id="5" startPos="500" endPos="512" type="person" surface="Uwe Hertweck" />
+<Entity id="6" startPos="517" endPos="531" type="person" surface="Tobias Luckner" />
+<Entity id="7" startPos="549" endPos="562" type="organization-company" surface="Fa. itek GmbH" />
+<Entity id="8" startPos="571" endPos="583" type="person" surface="Bernd Hansen" />
+<Entity id="9" startPos="585" endPos="588" type="org-position" surface="CEO" />
+<Entity id="10" startPos="589" endPos="602" type="organization-company" surface="Hansen Gruppe" />
+<Entity id="11" startPos="654" endPos="675" type="person" surface="Hermann-Josef Pelgrim" />
+<Entity id="12" startPos="705" endPos="720" type="location-city" surface="Schwäbisch Hall" /></Entities><Relations>
+<Relation id="13" NAME="OrganizationLeadership">
+<Entity id="4" label="person" />
+<Entity id="2" label="organization" />
+<Entity id="3" label="position" />
+</Relation>
+<Relation id="14" NAME="OrganizationLeadership">
+<Entity id="8" label="person" />
+<Entity id="10" label="organization" />
+<Entity id="9" label="position" />
+</Relation></Relations>
+</Document>

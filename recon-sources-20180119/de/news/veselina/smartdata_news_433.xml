@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Twitter streicht acht Prozent der Arbeitsplätze<NODE id="47" />
+<NODE id="48" />DAUN, 13.10.2015  -  15:38 Uhr<NODE id="78" />
+<NODE id="79" />Entertainment<NODE id="92" />
+<NODE id="93" />Twitter<NODE id="100" /> streicht acht Prozent der Arbeitsplätze<NODE id="140" />
+<NODE id="141" />(<NODE id="142" />dpa<NODE id="145" />) - <NODE id="149" />Twitter<NODE id="156" />-<NODE id="157" />Mitgründer<NODE id="167" /> <NODE id="168" />Jack Dorsey<NODE id="179" /> setzt nach wenigen Tagen als ständiger Konzernchef einen massiven Stellenabbau in Gang.<NODE id="267" /> <NODE id="268" />Wegfallen sollen rund acht Prozent der Belegschaft, das wären maximal 336 Jobs, wie der Kurznachrichtendienst am Dienstag, den 13.Oktober mitteilte.<NODE id="416" /> <NODE id="417" />Die Einsparungen sollen für ein schnelleres Wachstum investiert werden, hieß es.<NODE id="497" /> <NODE id="498" />Twitter<NODE id="505" /> hatte zuletzt langsamer neue Mitglieder gewonnen.<NODE id="555" /> <NODE id="556" />Deswegen steht die Aktie unter Druck und der Ruf nach Veränderungen wird lauter.<NODE id="636" />
+<NODE id="637" />Dorsey<NODE id="643" /> signalisierte in einer E-Mail an die Mitarbeiter, dass Software- und Produktentwicklung am stärksten von dem Umbau betroffen sein würden.<NODE id="781" /> <NODE id="782" />„Wir sind überzeugt, dass die Software-Entwicklung in einem kleineren und wendigeren Team viel schneller sein wird, während sie weiterhin den Großteil unserer Belegscha<NODE id="950" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.infosat.de/entertainment/twitter-streicht-acht-prozent-der-arbeitspl-tze@2016-03-11T00:34:11.699+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T23:34:11.699Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T23:34:13.316Z" />
+<feature featureName="uri" featureValue="https://www.infosat.de/entertainment/twitter-streicht-acht-prozent-der-arbeitspl-tze" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="47" type="sentence" surface="Twitter streicht acht Prozent der Arbeitsplätze" />
+<Entity id="1" startPos="48" endPos="78" type="sentence" surface="DAUN, 13.10.2015  -  15:38 Uhr" />
+<Entity id="2" startPos="79" endPos="92" type="sentence" surface="Entertainment" />
+<Entity id="3" startPos="93" endPos="100" type="organization-company" surface="Twitter" />
+<Entity id="4" startPos="93" endPos="140" type="sentence" surface="Twitter streicht acht Prozent der Arbeitsplätze" />
+<Entity id="5" startPos="141" endPos="267" type="sentence" surface="(dpa) - Twitter-Mitgründer Jack Dorsey setzt nach wenigen Tagen als ständiger Konzernchef einen massiven Stellenabbau in Gang." />
+<Entity id="6" startPos="142" endPos="145" type="organization-company" surface="dpa" />
+<Entity id="7" startPos="149" endPos="156" type="organization-company" surface="Twitter" />
+<Entity id="8" startPos="157" endPos="167" type="trigger" surface="Mitgründer" />
+<Entity id="9" startPos="168" endPos="179" type="person" surface="Jack Dorsey" />
+<Entity id="10" startPos="268" endPos="416" type="sentence" surface="Wegfallen sollen rund acht Prozent der Belegschaft, das wären maximal 336 Jobs, wie der Kurznachrichtendienst am Dienstag, den 13.Oktober mitteilte." />
+<Entity id="11" startPos="417" endPos="497" type="sentence" surface="Die Einsparungen sollen für ein schnelleres Wachstum investiert werden, hieß es." />
+<Entity id="12" startPos="498" endPos="505" type="organization-company" surface="Twitter" />
+<Entity id="13" startPos="498" endPos="555" type="sentence" surface="Twitter hatte zuletzt langsamer neue Mitglieder gewonnen." />
+<Entity id="14" startPos="556" endPos="636" type="sentence" surface="Deswegen steht die Aktie unter Druck und der Ruf nach Veränderungen wird lauter." />
+<Entity id="15" startPos="637" endPos="643" type="person" surface="Dorsey" />
+<Entity id="16" startPos="637" endPos="781" type="sentence" surface="Dorsey signalisierte in einer E-Mail an die Mitarbeiter, dass Software- und Produktentwicklung am stärksten von dem Umbau betroffen sein würden." />
+<Entity id="17" startPos="782" endPos="950" type="sentence" surface="„Wir sind überzeugt, dass die Software-Entwicklung in einem kleineren und wendigeren Team viel schneller sein wird, während sie weiterhin den Großteil unserer Belegscha" /></Entities><Relations>
+<Relation id="18" NAME="CompanyFoundation">
+<Entity id="9" label="founder" />
+<Entity id="7" label="company" />
+<Entity id="8" label="trigger" />
+</Relation></Relations>
+</Document>

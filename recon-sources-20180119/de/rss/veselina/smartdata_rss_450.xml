@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Hamburg<NODE id="7" />: An der Kreuzung <NODE id="25" />Millerntorplatz<NODE id="40" /> / <NODE id="43" />Budapester Straße<NODE id="60" /> /<NODE id="62" />Glacischaussee<NODE id="76" /> sind die Ampeln außer Betrieb. Die Polizei regelt den Verkehr.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#58@2016-03-15T08:10:17.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-15T07:10:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-15T16:52:53.336Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="25" endPos="40" type="location-street" surface="Millerntorplatz" />
+<Entity id="2" startPos="43" endPos="60" type="location-street" surface="Budapester Straße" />
+<Entity id="3" startPos="62" endPos="76" type="location-street" surface="Glacischaussee" /></Entities><Relations />
+</Document>

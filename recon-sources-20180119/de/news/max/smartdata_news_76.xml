@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>pnr24 0 Comment
+Wegen Bauarbeiten zwischen <NODE id="43" />Ziltendorf<NODE id="53" /> und <NODE id="58" />Wellmitz<NODE id="66" /> am <NODE id="70" />14<NODE id="72" />. und <NODE id="78" />15. Januar<NODE id="88" />, jeweils von <NODE id="102" />8 Uhr<NODE id="107" /> bis <NODE id="112" />15 Uhr<NODE id="118" />, sowie am <NODE id="129" />16. Januar<NODE id="139" /> von <NODE id="144" />9 Uhr<NODE id="149" /> bis <NODE id="154" />19 Uhr<NODE id="160" /> werden Fahrplanänderungen für die Züge der Linien <NODE id="211" />RE 1<NODE id="215" /> und <NODE id="220" />RB 11<NODE id="225" /> erforderlich.
+Die Züge der Linie <NODE id="259" />RB 11<NODE id="264" /> fallen zwischen <NODE id="281" />Frankfurt (Oder)<NODE id="297" /> und <NODE id="302" />Wellmitz<NODE id="310" /> aus. Als Ersatz fahren Busse zwischen <NODE id="349" />Frankfurt (Oder)<NODE id="365" /> und <NODE id="370" />Coschen<NODE id="377" />. Die <NODE id="383" />Bushaltestelle Coschen Dorf<NODE id="410" />, <NODE id="412" />Hst Bus 441<NODE id="423" /> befindet sich direkt am Bahnhof.
+Zusätzlich fallen die Züge der Linie <NODE id="494" />RE 1<NODE id="498" /> zwischen <NODE id="508" />Frankfurt (Oder)<NODE id="524" /> und <NODE id="529" />Eisenhüttenstadt<NODE id="545" /> aus und werden durch Busse ersetzt.
+Es wird empfohlen, sich rechtzeitig zu informieren und gegebenenfalls eine frühere Verbindung zu nutzen.
+Die Beförderung von Fahrrädern in den Bussen ist nicht möglich. Die Beförderung von Rollstühlen und Kinderwagen ist nur eingeschränkt möglich.
+Weitere Informationen erhalten Reisende im Internet unter www.bahn.de/bauarbeiten , beim Kundendialog DB Reg
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://pnr24.de/2016/01/12/zugausfall-und-ersatzverkehr-auf-den-linien-re-1-und-rb-11-zwischen-frankfurt-oder-und-wellmitz-vom-14-bis-16-januar/@2016-03-10T14:17:45.972+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://pnr24.de/2016/01/12/zugausfall-und-ersatzverkehr-auf-den-linien-re-1-und-rb-11-zwischen-frankfurt-oder-und-wellmitz-vom-14-bis-16-januar/" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="43" endPos="53" type="location-city" surface="Ziltendorf" />
+<Entity id="1" startPos="58" endPos="66" type="location-city" surface="Wellmitz" />
+<Entity id="2" startPos="70" endPos="72" type="date" surface="14" />
+<Entity id="3" startPos="78" endPos="88" type="date" surface="15. Januar" />
+<Entity id="4" startPos="102" endPos="107" type="time" surface="8 Uhr" />
+<Entity id="5" startPos="112" endPos="118" type="time" surface="15 Uhr" />
+<Entity id="6" startPos="129" endPos="139" type="date" surface="16. Januar" />
+<Entity id="7" startPos="144" endPos="149" type="time" surface="9 Uhr" />
+<Entity id="8" startPos="154" endPos="160" type="time" surface="19 Uhr" />
+<Entity id="9" startPos="211" endPos="215" type="location-route" surface="RE 1" />
+<Entity id="10" startPos="220" endPos="225" type="location-route" surface="RB 11" />
+<Entity id="11" startPos="259" endPos="264" type="location-route" surface="RB 11" />
+<Entity id="12" startPos="281" endPos="297" type="location-city" surface="Frankfurt (Oder)" />
+<Entity id="13" startPos="302" endPos="310" type="location-city" surface="Wellmitz" />
+<Entity id="14" startPos="349" endPos="365" type="location-city" surface="Frankfurt (Oder)" />
+<Entity id="15" startPos="370" endPos="377" type="location-city" surface="Coschen" />
+<Entity id="16" startPos="383" endPos="410" type="location" surface="Bushaltestelle Coschen Dorf" />
+<Entity id="17" startPos="412" endPos="423" type="location" surface="Hst Bus 441" />
+<Entity id="18" startPos="494" endPos="498" type="location-route" surface="RE 1" />
+<Entity id="19" startPos="508" endPos="524" type="location-city" surface="Frankfurt (Oder)" />
+<Entity id="20" startPos="529" endPos="545" type="location-city" surface="Eisenhüttenstadt" /></Entities><Relations />
+</Document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Yahoo<NODE id="5" /> lagert Kerngeschäft in neues Unternehmen aus
+<NODE id="51" />AFP<NODE id="54" /> | <NODE id="57" />10.12.2015<NODE id="67" />
+©zentilia/fotolia.com
+<NODE id="90" />New York<NODE id="98" /> - Auf Druck der Aktionärsvertreter wird <NODE id="139" />Yahoo<NODE id="144" /> seine Beteiligung am <NODE id="166" />chinesischen<NODE id="178" /> Internet-Riesen <NODE id="195" />Alibaba<NODE id="202" /> nicht verkaufen, sondern lagert das Kerngeschäft aus. Die am <NODE id="264" />Mittwoch<NODE id="272" /> verkündete Abspaltung des <NODE id="299" />Yahoo<NODE id="304" />-Kerns mit Suchmaschine und Online-Werbegeschäft ist ein Rückschlag für <NODE id="376" />Konzernchefin<NODE id="389" /> <NODE id="390" />Marissa Mayer<NODE id="403" />, die eigentlich die milliardenschwere <NODE id="442" />Alibaba<NODE id="449" />-Beteiligung abstoßen und den Erlös an die Aktionäre ausschütten wollte.
+<NODE id="522" />Yahoo<NODE id="527" />-<NODE id="528" />Finanzvorstand<NODE id="542" /> <NODE id="543" />Kenneth Goldman<NODE id="558" /> begründete die Entscheidung mit dem steuerlichen Risiko bei einem Verkauf der <NODE id="637" />Alibaba<NODE id="644" />-Anteile. Einflussreiche Aktionäre hatten die ursprüngliche Strategie der Konzernführung angezweifelt, weil die <NODE id="756" />US<NODE id="758" />-Steuerbehörde <NODE id="773" />IRS<NODE id="776" /> keine Steuerfreiheit für den Deal garantieren wollte. Die Klärung der Steuerfrage hätte Jahre in Anspruch genommen, sagte <NODE id="899" />Goldman<NODE id="906" />.
+<NODE id="908" />Zwei<NODE id="912" /> AGs entstehen
+Durch die Aufspalt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.verivox.de/nachrichten/yahoo-lagert-kerngeschaeft-in-neues-unternehmen-aus-108065.aspx@2015-12-10T08:32:02.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-10T07:32:02Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:17:32.952Z" />
+<feature featureName="uri" featureValue="http://www.verivox.de/nachrichten/yahoo-lagert-kerngeschaeft-in-neues-unternehmen-aus-108065.aspx" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="organization-company" surface="Yahoo" />
+<Entity id="1" startPos="51" endPos="54" type="organization-company" surface="AFP" />
+<Entity id="2" startPos="57" endPos="67" type="date" surface="10.12.2015" />
+<Entity id="3" startPos="90" endPos="98" type="location-city" surface="New York" />
+<Entity id="4" startPos="139" endPos="144" type="organization-company" surface="Yahoo" />
+<Entity id="5" startPos="166" endPos="178" type="location" surface="chinesischen" />
+<Entity id="6" startPos="195" endPos="202" type="organization-company" surface="Alibaba" />
+<Entity id="7" startPos="264" endPos="272" type="date" surface="Mittwoch" />
+<Entity id="8" startPos="299" endPos="304" type="organization-company" surface="Yahoo" />
+<Entity id="9" startPos="376" endPos="389" type="org-position" surface="Konzernchefin" />
+<Entity id="10" startPos="390" endPos="403" type="person" surface="Marissa Mayer" />
+<Entity id="11" startPos="442" endPos="449" type="organization-company" surface="Alibaba" />
+<Entity id="12" startPos="522" endPos="527" type="organization-company" surface="Yahoo" />
+<Entity id="13" startPos="528" endPos="542" type="org-position" surface="Finanzvorstand" />
+<Entity id="14" startPos="543" endPos="558" type="person" surface="Kenneth Goldman" />
+<Entity id="15" startPos="637" endPos="644" type="organization-company" surface="Alibaba" />
+<Entity id="16" startPos="756" endPos="758" type="location" surface="US" />
+<Entity id="17" startPos="773" endPos="776" type="organization" surface="IRS" />
+<Entity id="18" startPos="899" endPos="906" type="person" surface="Goldman" />
+<Entity id="19" startPos="908" endPos="912" type="number" surface="Zwei" /></Entities><Relations>
+<Relation id="20" NAME="OrganizationLeadership">
+<Entity id="10" label="person" />
+<Entity id="8" label="organization" />
+<Entity id="9" label="position" />
+</Relation>
+<Relation id="21" NAME="OrganizationLeadership">
+<Entity id="14" label="person" />
+<Entity id="12" label="organization" />
+<Entity id="13" label="position" />
+</Relation></Relations>
+</Document>

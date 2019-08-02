@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Hockenheim<NODE id="10" /> Richtung <NODE id="20" />Speyer<NODE id="26" /> zwischen <NODE id="36" />Dreieck Hockenheim<NODE id="54" /> und <NODE id="59" />Hockenheim<NODE id="69" /> Unfall, Ausfahrt blockiert
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=a34147cd-dcc0-47e1-a694-ce718b58c9dd@2016-03-31T12:32:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-31T10:32:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-31T11:03:26.897Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=a34147cd-dcc0-47e1-a694-ce718b58c9dd" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="location-city" surface="Hockenheim" />
+<Entity id="1" startPos="20" endPos="26" type="location-city" surface="Speyer" />
+<Entity id="2" startPos="36" endPos="54" type="location" surface="Dreieck Hockenheim" />
+<Entity id="3" startPos="59" endPos="69" type="location" surface="Hockenheim" /></Entities><Relations />
+</Document>

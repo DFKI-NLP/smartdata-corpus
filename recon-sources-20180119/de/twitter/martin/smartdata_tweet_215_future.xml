@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Größer als <NODE id="30" />BASF<NODE id="34" />: <NODE id="36" />US-amerikanische<NODE id="52" /> <NODE id="53" />Chemie<NODE id="59" />-Unternehmen <NODE id="72" />DuPont<NODE id="78" /> und <NODE id="83" />Dow Chemical<NODE id="95" /> planen <NODE id="103" />Mega-Fusion<NODE id="114" />. https://t.co/NLcTgzuXPD
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="674937531570483200" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-10T13:03:41Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T03:34:34.122Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="30" endPos="34" type="organization-company" surface="BASF" />
+<Entity id="2" startPos="36" endPos="52" type="location" surface="US-amerikanische" />
+<Entity id="3" startPos="53" endPos="59" type="industry" surface="Chemie" />
+<Entity id="4" startPos="72" endPos="78" type="organization-company" surface="DuPont" />
+<Entity id="5" startPos="83" endPos="95" type="organization-company" surface="Dow Chemical" />
+<Entity id="6" startPos="103" endPos="114" type="trigger" surface="Mega-Fusion" /></Entities><Relations>
+<Relation id="7" NAME="Merger">
+<Entity id="5" label="old" />
+<Entity id="4" label="old" />
+<Entity id="6" label="trigger" />
+</Relation></Relations>
+</Document>

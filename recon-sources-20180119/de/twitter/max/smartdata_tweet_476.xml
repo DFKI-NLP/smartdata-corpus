@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: <NODE id="8" />Mehrere<NODE id="15" /> Tote bei erneutem <NODE id="34" />Erdbeben<NODE id="42" /> in <NODE id="46" />Japan<NODE id="51" /> https://t.co/SEnmg3WkFt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="721583763461967872" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-17T06:19:10Z" />
+<feature featureName="indexDate" featureValue="2016-04-17T06:19:15.035Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="8" endPos="15" type="number" surface="Mehrere" />
+<Entity id="2" startPos="34" endPos="42" type="disaster-type" surface="Erdbeben" />
+<Entity id="3" startPos="46" endPos="51" type="location" surface="Japan" /></Entities><Relations>
+<Relation id="4" NAME="Disaster">
+<Entity id="3" label="location" />
+<Entity id="2" label="type" />
+<Entity id="1" label="victims" />
+</Relation></Relations>
+</Document>

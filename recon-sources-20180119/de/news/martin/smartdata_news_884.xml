@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Gussenstadt<NODE id="11" />
+Die Linden sind verloren
+Die beiden Linden bei der <NODE id="63" />Gussenstadter<NODE id="76" /> Michaelskirche sind wohl endgültig verloren: Trotz Abbruch der Fällaktion durchs <NODE id="158" />Landratsamt<NODE id="169" /> ist neben der Vitalität auch die Standfestigkeit der Bäume massiv gefährdet. Als Zeichen des Protests sind die ersten Baumschützer-Aktivisten aus der Kirche ausgetreten.
+<NODE id="340" />17.02.2016<NODE id="350" />
+Foto: <NODE id="357" />THOMAS HEHN<NODE id="368" />
+Bild <NODE id="374" />1<NODE id="375" /> von <NODE id="380" />1<NODE id="381" />
+Protestierende Protestanten: Die Baumretter sind maßlos enttäuscht über die geheime Fällaktion an den Linden vor der Michaelskirche. Nun schaffen die Mitglieder der Kirchengemeinde Fakten und treten aus der <NODE id="589" />evangelischen Landeskirche<NODE id="615" /> aus. <NODE id="621" />15<NODE id="623" /> Austritte sind es bereits und weitere sind angekündigt. 
+Mit dem Anlegen von provisorischen Moos-Verbänden haben die Mitglieder der Aktionsgruppe <NODE id="770" />Linden in Gussenstadt<NODE id="791" /> am Wochenende verzweifelt versucht, die beiden großen Linden bei der Michaelskirche in <NODE id="879" />Gussenstadt<NODE id="890" /> zu retten. Der Einsatz war wohl vergebens: Der Baumsachverständig
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.swp.de/goeppingen/lokales/goeppingen/Die-Linden-sind-verloren;art1211088,3687705@2016-02-17T20:00:57.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-17T19:00:57Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T08:57:52.951Z" />
+<feature featureName="uri" featureValue="http://www.swp.de/goeppingen/lokales/goeppingen/Die-Linden-sind-verloren;art1211088,3687705" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="location-city" surface="Gussenstadt" />
+<Entity id="1" startPos="63" endPos="76" type="location-city" surface="Gussenstadter" />
+<Entity id="2" startPos="158" endPos="169" type="organization" surface="Landratsamt" />
+<Entity id="3" startPos="340" endPos="350" type="date" surface="17.02.2016" />
+<Entity id="4" startPos="357" endPos="368" type="person" surface="THOMAS HEHN" />
+<Entity id="5" startPos="374" endPos="375" type="number" surface="1" />
+<Entity id="6" startPos="380" endPos="381" type="number" surface="1" />
+<Entity id="7" startPos="589" endPos="615" type="organization" surface="evangelischen Landeskirche" />
+<Entity id="8" startPos="621" endPos="623" type="number" surface="15" />
+<Entity id="9" startPos="770" endPos="791" type="organization" surface="Linden in Gussenstadt" />
+<Entity id="10" startPos="879" endPos="890" type="location-city" surface="Gussenstadt" /></Entities><Relations />
+</Document>

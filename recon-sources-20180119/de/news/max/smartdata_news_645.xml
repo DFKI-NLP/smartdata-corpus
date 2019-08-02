@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Insolvenzverfahren<NODE id="18" /> für <NODE id="23" />German Pellets<NODE id="37" /> frühestens im <NODE id="52" />April<NODE id="57" /> 
+<NODE id="59" />12.02.2016<NODE id="69" /> | <NODE id="72" />16:44<NODE id="77" /> Uhr <NODE id="82" />2016-02-12<NODE id="92" />T1<NODE id="94" />6:44:25<NODE id="101" />+<NODE id="102" />01:00<NODE id="107" />
+Die <NODE id="112" />Zahlungsunfähigkeit<NODE id="131" /> der <NODE id="136" />Wismarer<NODE id="144" /> Firma <NODE id="151" />German Pellets<NODE id="165" /> hat inzwischen die <NODE id="185" />IG Metall <NODE id="195" />auf den Plan gerufen.Foto: <NODE id="222" />Bernd Wüstneck<NODE id="236" />/<NODE id="237" />dpa<NODE id="240" />
+<NODE id="241" />Wismar<NODE id="247" />.  Die vorläufige Insolvenzverwalterin der <NODE id="290" />German Pellets GmbH<NODE id="309" /> in <NODE id="313" />Wismar<NODE id="319" />, <NODE id="321" />Bettina Schmudde<NODE id="337" />, rechnet erst im <NODE id="355" />April<NODE id="360" /> oder <NODE id="366" />Mai<NODE id="369" /> mit der Eröffnung des Insolvenzverfahrens.
+Sie bat am <NODE id="424" />Freitag<NODE id="431" /> die Gläubiger des Brennstoff-Herstellers, vor diesem Zeitpunkt keine Forderungen anzumelden. <NODE id="525" />Schmudde<NODE id="533" /> kündigte umfangreiche Informationen für die Anleihe- und Genussschein-Gläubiger an. Anlegervertretern zufolge geht es um <NODE id="655" />10 000<NODE id="661" /> bis <NODE id="666" />12 000 <NODE id="673" />Anleger und einen Betrag von mehr als <NODE id="711" />200 Millionen Euro<NODE id="729" />. Die vorläufige Insolvenzverwalterin von der Kanzlei <NODE id="783" />White &amp; Case<NODE id="795" /> in Hamburg äußerte sich bislang nicht zu konkreten Zahlen.
+Ihrem Sprecher zufolge macht sie sich derzeit in Gesprächen mit Geschäftsführung und
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.derwesten.de/wr/wirtschaft/insolvenzverfahren-fuer-german-pellets-fruehestens-im-april-id11559989.html@2016-02-12T16:44:25.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-12T15:44:25Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:57:41.942Z" />
+<feature featureName="uri" featureValue="http://www.derwesten.de/wr/wirtschaft/insolvenzverfahren-fuer-german-pellets-fruehestens-im-april-id11559989.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="18" type="trigger" surface="Insolvenzverfahren" />
+<Entity id="1" startPos="23" endPos="37" type="organization-company" surface="German Pellets" />
+<Entity id="2" startPos="52" endPos="57" type="date" surface="April" />
+<Entity id="3" startPos="59" endPos="69" type="date" surface="12.02.2016" />
+<Entity id="4" startPos="72" endPos="77" type="date" surface="16:44" />
+<Entity id="5" startPos="82" endPos="92" type="date" surface="2016-02-12" />
+<Entity id="6" startPos="94" endPos="101" type="date" surface="6:44:25" />
+<Entity id="7" startPos="102" endPos="107" type="number" surface="01:00" />
+<Entity id="8" startPos="112" endPos="131" type="trigger" surface="Zahlungsunfähigkeit" />
+<Entity id="9" startPos="136" endPos="144" type="location-city" surface="Wismarer" />
+<Entity id="10" startPos="151" endPos="165" type="organization-company" surface="German Pellets" />
+<Entity id="11" startPos="185" endPos="195" type="organization" surface="IG Metall " />
+<Entity id="12" startPos="222" endPos="236" type="person" surface="Bernd Wüstneck" />
+<Entity id="13" startPos="237" endPos="240" type="organization-company" surface="dpa" />
+<Entity id="14" startPos="241" endPos="247" type="location-city" surface="Wismar" />
+<Entity id="15" startPos="290" endPos="309" type="organization-company" surface="German Pellets GmbH" />
+<Entity id="16" startPos="313" endPos="319" type="location-city" surface="Wismar" />
+<Entity id="17" startPos="321" endPos="337" type="person" surface="Bettina Schmudde" />
+<Entity id="18" startPos="355" endPos="360" type="date" surface="April" />
+<Entity id="19" startPos="366" endPos="369" type="date" surface="Mai" />
+<Entity id="20" startPos="424" endPos="431" type="date" surface="Freitag" />
+<Entity id="21" startPos="525" endPos="533" type="person" surface="Schmudde" />
+<Entity id="22" startPos="655" endPos="661" type="number" surface="10 000" />
+<Entity id="23" startPos="666" endPos="673" type="number" surface="12 000 " />
+<Entity id="24" startPos="711" endPos="729" type="number" surface="200 Millionen Euro" />
+<Entity id="25" startPos="783" endPos="795" type="organization-company" surface="White &amp; Case" /></Entities><Relations>
+<Relation id="26" NAME="Insolvency">
+<Entity id="2" label="date" />
+<Entity id="1" label="company" />
+<Entity id="0" label="trigger" />
+</Relation>
+<Relation id="27" NAME="Insolvency">
+<Entity id="9" label="location" />
+<Entity id="10" label="company" />
+<Entity id="8" label="trigger" />
+</Relation></Relations>
+</Document>

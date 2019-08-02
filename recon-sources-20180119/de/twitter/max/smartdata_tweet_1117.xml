@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @OrtivorOrt: <NODE id="16" />50 min<NODE id="22" /> Verspätung gelandet! @<NODE id="45" />FCBayern<NODE id="53" /> drehte <NODE id="61" />4<NODE id="62" /> (!) Ehrenrunden über @<NODE id="85" />SLBenfica<NODE id="94" /> -  neue taktische Laufwege&#x1f600; @<NODE id="125" />SPORT1<NODE id="131" /> https://…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="719923028696657920" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-12T16:20:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T02:04:54.892Z" />
+<feature featureName="uri" featureValue="https://twitter.com/106053/status/719923028696657920" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="22" type="duration" surface="50 min" />
+<Entity id="1" startPos="45" endPos="53" type="organization" surface="FCBayern" />
+<Entity id="2" startPos="61" endPos="62" type="number" surface="4" />
+<Entity id="3" startPos="85" endPos="94" type="organization" surface="SLBenfica" />
+<Entity id="4" startPos="125" endPos="131" type="organization-company" surface="SPORT1" /></Entities><Relations />
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />HP<NODE id="2" /> druckt seine Multi Jet Fusion 3D Drucker teilweise selber https://t.co/8tem8PtzdG #3dprinting #3dprinter
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743382799051268097" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T10:00:45Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T10:00:51.668Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3Druck.com/status/743382799051268097" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="organization-company" surface="HP" /></Entities><Relations />
+</Document>

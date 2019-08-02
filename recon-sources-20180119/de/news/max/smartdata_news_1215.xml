@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ihre Mitteilung an den Empfänger:
+Mit der Nutzung des Services willigen Sie in folgende Vorgehensweise ein:
+Ihre E-Mail-Adresse und die E-Mail-Adresse des Empfängers werden ausschließlich zu Übertragungszwecken verwendet - um den Adressaten über den Absender zu informieren, bzw. um im Fall eines Übertragungsfehlers eine Benachrichtigung zu übermitteln. Um einen Missbrauch dieses Services zu vermeiden, werden wir die Identifikationsdaten (IP-Adresse) jedes Nutzers der versandten E-Mail in Form eines E-Mail-Header-Record (X_Sent_by_IP) beifügen.
+<NODE id="550" />1<NODE id="551" />
+Bundeswirtschaftsminister <NODE id="578" />Sigmar Gabriel<NODE id="592" /> weilt derzeit im Urlaub, zu Hause gerät er wegen seiner Ministererlaubnis für die <NODE id="675" />Tengelmann<NODE id="685" /> <NODE id="686" />Fusion<NODE id="692" /> mit <NODE id="697" />Edeka<NODE id="702" /> immer mehr in Bedrängnis.
+Bild: <NODE id="735" />Fruit Logistica<NODE id="750" /> Es kommen immer mehr Details über die Gespräche von Bundeswirtschaftsminister Sigmar Gabriel mit <NODE id="848" />Edeka<NODE id="853" /> und <NODE id="858" />Tengelmann<NODE id="868" /> ans Licht. Das <NODE id="884" />Oberlandesgericht Düsseldorf<NODE id="912" /> legt im Fall der gestoppten Ministe
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.topagrar.com/news/Home-top-News-Neue-Details-zum-Tengelmann-Deal-belasten-Gabriel-4015880.html@2016-07-22T09:29:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-22T07:29:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-22T08:52:46.118Z" />
+<feature featureName="uri" featureValue="http://www.topagrar.com/news/Home-top-News-Neue-Details-zum-Tengelmann-Deal-belasten-Gabriel-4015880.html" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="550" endPos="551" type="number" surface="1" />
+<Entity id="1" startPos="578" endPos="592" type="person" surface="Sigmar Gabriel" />
+<Entity id="2" startPos="675" endPos="685" type="organization-company" surface="Tengelmann" />
+<Entity id="3" startPos="686" endPos="692" type="trigger" surface="Fusion" />
+<Entity id="4" startPos="697" endPos="702" type="organization-company" surface="Edeka" />
+<Entity id="5" startPos="735" endPos="750" type="organization-company" surface="Fruit Logistica" />
+<Entity id="6" startPos="848" endPos="853" type="organization-company" surface="Edeka" />
+<Entity id="7" startPos="858" endPos="868" type="organization-company" surface="Tengelmann" />
+<Entity id="8" startPos="884" endPos="912" type="organization" surface="Oberlandesgericht Düsseldorf" /></Entities><Relations>
+<Relation id="9" NAME="Merger">
+<Entity id="2" label="old" />
+<Entity id="4" label="old" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A3<NODE id="2" /> <NODE id="3" />Frankfurt<NODE id="12" /> Richtung <NODE id="22" />Köln<NODE id="26" /> zwischen <NODE id="36" />Rösrath<NODE id="43" /> und <NODE id="48" />Dreieck Heumar<NODE id="62" /> <NODE id="63" />6 km <NODE id="68" />Stau<NODE id="72" /> Aufgrund einer Baustelle ist dort nur ein Fahrstreifen frei. (Zeitverlust: etwa eine <NODE id="158" />dreiviertel Stunde<NODE id="176" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#3@2016-03-06T12:54:01.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-06T11:54:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T06:30:42.227Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A3" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Frankfurt" />
+<Entity id="2" startPos="22" endPos="26" type="location-city" surface="Köln" />
+<Entity id="3" startPos="36" endPos="43" type="location" surface="Rösrath" />
+<Entity id="4" startPos="48" endPos="62" type="location" surface="Dreieck Heumar" />
+<Entity id="5" startPos="63" endPos="68" type="distance" surface="6 km " />
+<Entity id="6" startPos="68" endPos="72" type="trigger" surface="Stau" />
+<Entity id="7" startPos="158" endPos="176" type="duration" surface="dreiviertel Stunde" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

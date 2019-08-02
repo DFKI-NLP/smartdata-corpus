@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />freie_presse<NODE id="16" />: Man wolle nun keinerlei #Flüchtlinge mehr: Gut <NODE id="65" />1000<NODE id="69" /> Menschen protestieren gegen #Ayslunterkunft in #<NODE id="118" />Einsiedel<NODE id="127" /> https://t.c…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667076134681632770" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-18T20:25:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:57:13.361Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="16" type="organization-company" surface="freie_presse" />
+<Entity id="1" startPos="65" endPos="69" type="number" surface="1000" />
+<Entity id="2" startPos="118" endPos="127" type="location" surface="Einsiedel" /></Entities><Relations />
+</Document>

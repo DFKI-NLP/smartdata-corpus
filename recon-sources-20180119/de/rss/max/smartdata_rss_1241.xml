@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />B96<NODE id="7" /> <NODE id="8" />Altefähr<NODE id="16" /> - <NODE id="19" />Sassnitz<NODE id="27" /> ist zwischen <NODE id="41" />Groß Kubbelkow<NODE id="55" /> und <NODE id="60" />Bergen<NODE id="66" /> nach einem <NODE id="78" />Unfall<NODE id="84" /> in <NODE id="88" />beiden Richtungen<NODE id="105" /> <NODE id="106" />gesperrt<NODE id="114" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#27@2016-03-26T15:49:03.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-26T14:49:03Z" />
+<feature featureName="indexDate" featureValue="2016-03-26T15:20:54.042Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="location-street" surface="B96" />
+<Entity id="1" startPos="8" endPos="16" type="location-city" surface="Altefähr" />
+<Entity id="2" startPos="19" endPos="27" type="location-city" surface="Sassnitz" />
+<Entity id="3" startPos="41" endPos="55" type="location" surface="Groß Kubbelkow" />
+<Entity id="4" startPos="60" endPos="66" type="location" surface="Bergen" />
+<Entity id="5" startPos="78" endPos="84" type="trigger" surface="Unfall" />
+<Entity id="6" startPos="88" endPos="105" type="location" surface="beiden Richtungen" />
+<Entity id="7" startPos="106" endPos="114" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="8" NAME="Obstruction">
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="end_loc" />
+<Entity id="6" label="direction" />
+</Relation></Relations>
+</Document>

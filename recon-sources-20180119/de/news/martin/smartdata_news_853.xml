@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Nachrichten-Ticker
+<NODE id="19" />17:54<NODE id="24" />   Rechte <NODE id="34" />AfD<NODE id="37" /> steuert auf <NODE id="50" />drei<NODE id="54" /> Landesparlamente zu
+<NODE id="75" />Berlin<NODE id="81" /> - <NODE id="84" />Drei Wochen<NODE id="95" /> vor den Wahlen in <NODE id="114" />Baden-Württemberg<NODE id="131" />, <NODE id="133" />Rheinland-Pfalz<NODE id="148" /> und <NODE id="153" />Sachsen-Anhalt<NODE id="167" /> steuert die rechtskonservative <NODE id="199" />AfD<NODE id="202" /> auf den Einzug auch in die dortigen Landesparlamente zu. Äußerst stark in der Wählergunst ist die <NODE id="301" />Alternative für Deutschland<NODE id="328" /> vor allem im <NODE id="342" />ostdeutschen<NODE id="354" /> Bundesland <NODE id="366" />Sachsen-Anhalt<NODE id="380" />: Dort kletterte die nur <NODE id="405" />350<NODE id="408" /> Mitglieder umfassende Partei in einer <NODE id="447" />INSA<NODE id="451" />-Sonntagsfrage für die <NODE id="474" />Bild-Zeitung<NODE id="486" /> auf <NODE id="491" />17 Prozent<NODE id="501" /> und damit Platz <NODE id="518" />3<NODE id="519" /> noch vor der <NODE id="533" />SPD<NODE id="536" /> (<NODE id="538" />16<NODE id="540" />) - ein Sprung um <NODE id="558" />3,5<NODE id="561" /> Punkte seit der <NODE id="578" />Dezember<NODE id="586" />-Befragung des Instituts.
+<NODE id="612" />17:52<NODE id="617" />   Anschläge auf <NODE id="634" />syrische<NODE id="642" /> Regimeviertel: Zahl der Opfer steigt auf <NODE id="684" />184<NODE id="687" />
+<NODE id="688" />Damaskus<NODE id="696" /> - Die Zahl der Opfer bei den bislang blutigsten <NODE id="745" />Anschlägen<NODE id="755" /> der Terrormiliz <NODE id="772" />Islamischer Staat<NODE id="789" /> auf Regimeviertel in <NODE id="811" />Syrien<NODE id="817" /> ist auf <NODE id="826" />184<NODE id="829" /> gestiegen. Allein am südlichen Rand der Hauptstadt <NODE id="881" />Damaskus<NODE id="889" /> rissen Bomben mindestens <NODE id="915" />120<NODE id="918" /> Menschen in
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.schwarzwaelder-bote.de/inhalt.koenigsfeld-zuckerrohrmuehle-auf-philippinen-nach-taifun-aufgebaut.c30f1f37-4dd1-4ced-80f8-f19d422b20be.html@2016-02-22T18:11:49.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-22T17:11:49Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T21:04:42.951Z" />
+<feature featureName="uri" featureValue="http://www.schwarzwaelder-bote.de/inhalt.koenigsfeld-zuckerrohrmuehle-auf-philippinen-nach-taifun-aufgebaut.c30f1f37-4dd1-4ced-80f8-f19d422b20be.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="24" type="time" surface="17:54" />
+<Entity id="1" startPos="34" endPos="37" type="organization" surface="AfD" />
+<Entity id="2" startPos="50" endPos="54" type="number" surface="drei" />
+<Entity id="3" startPos="75" endPos="81" type="location-city" surface="Berlin" />
+<Entity id="4" startPos="84" endPos="95" type="date" surface="Drei Wochen" />
+<Entity id="5" startPos="114" endPos="131" type="location" surface="Baden-Württemberg" />
+<Entity id="6" startPos="133" endPos="148" type="location" surface="Rheinland-Pfalz" />
+<Entity id="7" startPos="153" endPos="167" type="location" surface="Sachsen-Anhalt" />
+<Entity id="8" startPos="199" endPos="202" type="organization" surface="AfD" />
+<Entity id="9" startPos="301" endPos="328" type="organization" surface="Alternative für Deutschland" />
+<Entity id="10" startPos="342" endPos="354" type="location" surface="ostdeutschen" />
+<Entity id="11" startPos="366" endPos="380" type="location" surface="Sachsen-Anhalt" />
+<Entity id="12" startPos="405" endPos="408" type="number" surface="350" />
+<Entity id="13" startPos="447" endPos="451" type="organization" surface="INSA" />
+<Entity id="14" startPos="474" endPos="486" type="organization-company" surface="Bild-Zeitung" />
+<Entity id="15" startPos="491" endPos="501" type="number" surface="17 Prozent" />
+<Entity id="16" startPos="518" endPos="519" type="number" surface="3" />
+<Entity id="17" startPos="533" endPos="536" type="organization" surface="SPD" />
+<Entity id="18" startPos="538" endPos="540" type="number" surface="16" />
+<Entity id="19" startPos="558" endPos="561" type="number" surface="3,5" />
+<Entity id="20" startPos="578" endPos="586" type="date" surface="Dezember" />
+<Entity id="21" startPos="612" endPos="617" type="time" surface="17:52" />
+<Entity id="22" startPos="634" endPos="642" type="location" surface="syrische" />
+<Entity id="23" startPos="684" endPos="687" type="number" surface="184" />
+<Entity id="24" startPos="688" endPos="696" type="location-city" surface="Damaskus" />
+<Entity id="25" startPos="745" endPos="755" type="disaster-type" surface="Anschlägen" />
+<Entity id="26" startPos="772" endPos="789" type="organization" surface="Islamischer Staat" />
+<Entity id="27" startPos="811" endPos="817" type="location" surface="Syrien" />
+<Entity id="28" startPos="826" endPos="829" type="number" surface="184" />
+<Entity id="29" startPos="881" endPos="889" type="location-city" surface="Damaskus" />
+<Entity id="30" startPos="915" endPos="918" type="number" surface="120" /></Entities><Relations>
+<Relation id="31" NAME="Disaster">
+<Entity id="24" label="location" />
+<Entity id="25" label="type" />
+<Entity id="28" label="victims" />
+</Relation></Relations>
+</Document>

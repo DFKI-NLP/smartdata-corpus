@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bundeswirtschaftsminister <NODE id="26" />Sigmar Gabriel<NODE id="40" /> (<NODE id="42" />SPD<NODE id="45" />) erwägt eine Reform der gesetzlichen... mehr
+<NODE id="91" />Westfalen-Blatt<NODE id="106" />: zur Flüchtlingspolitik
+Die <NODE id="135" />Kölner <NODE id="142" />Schreckensnacht hat alles verändert. Auch die letzen Schranken des Anstands... mehr
+„Höhenflüge können wir uns nicht leisten“
+Herr <NODE id="273" />Dulger<NODE id="279" />, die Wirtschaft brummt. Es drohen in <NODE id="317" />diesem Jahr<NODE id="328" /> keine Rekord-streiks wie... mehr
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nachrichten.de/panorama/Sigmar-Gabriel-SPD-Saudi-Arabien-Reform-Mediengruppe-cid_2309977/@2016-03-10T12:32:23.149+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:32:23.149Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:32:23.488Z" />
+<feature featureName="uri" featureValue="http://www.nachrichten.de/panorama/Sigmar-Gabriel-SPD-Saudi-Arabien-Reform-Mediengruppe-cid_2309977/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="26" endPos="40" type="person" surface="Sigmar Gabriel" />
+<Entity id="1" startPos="42" endPos="45" type="organization" surface="SPD" />
+<Entity id="2" startPos="91" endPos="106" type="organization-company" surface="Westfalen-Blatt" />
+<Entity id="3" startPos="135" endPos="142" type="location-city" surface="Kölner " />
+<Entity id="4" startPos="273" endPos="279" type="person" surface="Dulger" />
+<Entity id="5" startPos="317" endPos="328" type="date" surface="diesem Jahr" /></Entities><Relations />
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Home » Allgemein » Frankfurter Neue Presse: zum <NODE id="48" />Lufthansa<NODE id="57" />-Streik „Die falsche Instanz“ Kommentar von <NODE id="101" />Panagiotis Koutoumanos<NODE id="123" />
+<NODE id="124" />Frankfurter Neue Presse<NODE id="147" />: zum <NODE id="153" />Lufthansa<NODE id="162" />-Streik „Die falsche Instanz“ Kommentar von <NODE id="206" />Panagiotis Koutoumanos<NODE id="228" />
+Erstellt von Redaktion Allgemein <NODE id="262" />Mittwoch, November 11th, 2015<NODE id="291" />
+<NODE id="292" />120<NODE id="295" /> Arbeitsgerichte gibt es in
+<NODE id="323" />Deutschland<NODE id="334" />. Und die <NODE id="344" />Lufthansa<NODE id="353" />-Führung vermittelt den Eindruck, dass
+sie auf der Suche nach einem willfährigen Richter, der den
+Flugbegleitern Einhalt gebietet, am liebsten ein Gericht nach dem
+anderen anrufen würde – so wie es die <NODE id="555" />Deutsche Bahn<NODE id="568" /> vor <NODE id="573" />acht Jahren<NODE id="584" />
+im Arbeitskampf mit den Lokführern vorexerziert hat. Da kann man von
+Glück reden, dass die <NODE id="676" />Lufthansa<NODE id="685" /> – anders als die <NODE id="703" />Bahn<NODE id="707" />, die in fast
+jeder Stadt einen Bahnhof betreibt – nur in <NODE id="765" />München<NODE id="772" />, <NODE id="774" />Frankfurt<NODE id="783" /> und
+<NODE id="788" />Düsseldorf<NODE id="798" /> Flug-Personal stationiert hat. Lediglich die dortigen
+Arbeitsgerichte sowie die in <NODE id="882" />Köln<NODE id="886" /> und <NODE id="891" />Darmstadt<NODE id="900" />, wo die <NODE id="909" />Lufthansa<NODE id="918" />
+bzw. die Flugbegleiter-Gewe
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.88news.de/frankfurter-neue-presse-zum-lufthansa-streik-die-falsche-instanz-kommentar-von-panagiotis-koutoumanos-1287943.html/@2016-03-10T14:30:15.787+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:30:15.787Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:30:23.318Z" />
+<feature featureName="uri" featureValue="http://www.88news.de/frankfurter-neue-presse-zum-lufthansa-streik-die-falsche-instanz-kommentar-von-panagiotis-koutoumanos-1287943.html/" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="48" endPos="57" type="organization-company" surface="Lufthansa" />
+<Entity id="1" startPos="101" endPos="123" type="person" surface="Panagiotis Koutoumanos" />
+<Entity id="2" startPos="124" endPos="147" type="organization-company" surface="Frankfurter Neue Presse" />
+<Entity id="3" startPos="153" endPos="162" type="organization-company" surface="Lufthansa" />
+<Entity id="4" startPos="206" endPos="228" type="person" surface="Panagiotis Koutoumanos" />
+<Entity id="5" startPos="262" endPos="291" type="date" surface="Mittwoch, November 11th, 2015" />
+<Entity id="6" startPos="292" endPos="295" type="number" surface="120" />
+<Entity id="7" startPos="323" endPos="334" type="location" surface="Deutschland" />
+<Entity id="8" startPos="344" endPos="353" type="organization-company" surface="Lufthansa" />
+<Entity id="9" startPos="555" endPos="568" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="10" startPos="573" endPos="584" type="date" surface="acht Jahren" />
+<Entity id="11" startPos="676" endPos="685" type="organization-company" surface="Lufthansa" />
+<Entity id="12" startPos="703" endPos="707" type="organization-company" surface="Bahn" />
+<Entity id="13" startPos="765" endPos="772" type="location-city" surface="München" />
+<Entity id="14" startPos="774" endPos="783" type="location-city" surface="Frankfurt" />
+<Entity id="15" startPos="788" endPos="798" type="location-city" surface="Düsseldorf" />
+<Entity id="16" startPos="882" endPos="886" type="location-city" surface="Köln" />
+<Entity id="17" startPos="891" endPos="900" type="location-city" surface="Darmstadt" />
+<Entity id="18" startPos="909" endPos="918" type="organization-company" surface="Lufthansa" /></Entities><Relations />
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Twittern<NODE id="8" />
+<NODE id="9" />Foto: <NODE id="15" />dpa<NODE id="18" />
+<NODE id="19" />Saarbrücken<NODE id="30" /> (<NODE id="32" />dpa<NODE id="35" />/lrs) -<NODE id="42" /> <NODE id="43" />Der Vorsitzende der Innenministerkonferenz, <NODE id="87" />Klaus Bouillon<NODE id="101" /> (<NODE id="103" />CDU<NODE id="106" />), hält es für ausgeschlossen, dass die Polizei auf Druck der Politik systematisch die Kriminalitätsstatistiken schönt.<NODE id="225" /> <NODE id="226" />Er könne allerdings nicht ausschließen, dass das in Einzelfällen geschehe, da er keinen Einblick in die Akten in anderen Ländern habe, sagte der <NODE id="371" />saarländische<NODE id="384" /> Innenminister am Dienstag der <NODE id="415" />Deutschen Presse-Agentur<NODE id="439" /> in <NODE id="443" />Saarbrücken<NODE id="454" />.<NODE id="455" />
+<NODE id="456" />Ein Fehlverhalten Einzelner gebe es immer wieder.<NODE id="505" /> <NODE id="506" />So sei die Aufarbeitung der massenweisen sexuellen Übergriffe in der Silvesternacht in <NODE id="593" />Köln<NODE id="597" /> «unglücklich gelaufen».<NODE id="621" /> <NODE id="622" />«Ich kann mir aber nicht vorstellen, dass das im großen Stil erfolgt», sagte <NODE id="699" />Bouillon<NODE id="707" />.<NODE id="708" /> <NODE id="709" />Für das <NODE id="717" />Saarland<NODE id="725" /> halte er so etwas für ausgeschlossen.<NODE id="763" /> <NODE id="764" />«Wenn es so wäre, hätte das Konsequenzen.»<NODE id="806" />
+<NODE id="807" />Die <NODE id="811" />Saar<NODE id="815" />-Polizei berichtet nach eigener Aussage über Nationalität oder Herkunft von Tatverdächtigen zurückhaltend und nur<NODE id="928" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/regionales/rheinland-pfalz-saarland/article150899100/IMK-Vorsitzender-haelt-geschoente-Polizeistatistiken-fuer-ausgeschlossen.html@2016-03-10T14:47:38.125+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:47:38.125Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:47:43.318Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/regionales/rheinland-pfalz-saarland/article150899100/IMK-Vorsitzender-haelt-geschoente-Polizeistatistiken-fuer-ausgeschlossen.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="sentence" surface="Twittern" />
+<Entity id="1" startPos="9" endPos="18" type="sentence" surface="Foto: dpa" />
+<Entity id="2" startPos="15" endPos="18" type="organization-company" surface="dpa" />
+<Entity id="3" startPos="19" endPos="30" type="location-city" surface="Saarbrücken" />
+<Entity id="4" startPos="19" endPos="42" type="sentence" surface="Saarbrücken (dpa/lrs) -" />
+<Entity id="5" startPos="32" endPos="35" type="organization-company" surface="dpa" />
+<Entity id="6" startPos="43" endPos="225" type="sentence" surface="Der Vorsitzende der Innenministerkonferenz, Klaus Bouillon (CDU), hält es für ausgeschlossen, dass die Polizei auf Druck der Politik systematisch die Kriminalitätsstatistiken schönt." />
+<Entity id="7" startPos="87" endPos="101" type="person" surface="Klaus Bouillon" />
+<Entity id="8" startPos="103" endPos="106" type="organization" surface="CDU" />
+<Entity id="9" startPos="226" endPos="455" type="sentence" surface="Er könne allerdings nicht ausschließen, dass das in Einzelfällen geschehe, da er keinen Einblick in die Akten in anderen Ländern habe, sagte der saarländische Innenminister am Dienstag der Deutschen Presse-Agentur in Saarbrücken." />
+<Entity id="10" startPos="371" endPos="384" type="location" surface="saarländische" />
+<Entity id="11" startPos="415" endPos="439" type="organization-company" surface="Deutschen Presse-Agentur" />
+<Entity id="12" startPos="443" endPos="454" type="location-city" surface="Saarbrücken" />
+<Entity id="13" startPos="456" endPos="505" type="sentence" surface="Ein Fehlverhalten Einzelner gebe es immer wieder." />
+<Entity id="14" startPos="506" endPos="621" type="sentence" surface="So sei die Aufarbeitung der massenweisen sexuellen Übergriffe in der Silvesternacht in Köln «unglücklich gelaufen»." />
+<Entity id="15" startPos="593" endPos="597" type="location-city" surface="Köln" />
+<Entity id="16" startPos="622" endPos="708" type="sentence" surface="«Ich kann mir aber nicht vorstellen, dass das im großen Stil erfolgt», sagte Bouillon." />
+<Entity id="17" startPos="699" endPos="707" type="person" surface="Bouillon" />
+<Entity id="18" startPos="709" endPos="763" type="sentence" surface="Für das Saarland halte er so etwas für ausgeschlossen." />
+<Entity id="19" startPos="717" endPos="725" type="location" surface="Saarland" />
+<Entity id="20" startPos="764" endPos="806" type="sentence" surface="«Wenn es so wäre, hätte das Konsequenzen.»" />
+<Entity id="21" startPos="807" endPos="928" type="sentence" surface="Die Saar-Polizei berichtet nach eigener Aussage über Nationalität oder Herkunft von Tatverdächtigen zurückhaltend und nur" />
+<Entity id="22" startPos="811" endPos="815" type="location" surface="Saar" /></Entities><Relations />
+</Document>

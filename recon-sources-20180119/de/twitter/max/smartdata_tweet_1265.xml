@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />DB_Bahn<NODE id="8" /> schienenersatzverkehr #<NODE id="32" />bamberg<NODE id="39" />  #festival findet ihr euch nicht auch selbst lächerlich? Bauarbeiten heute? Planen könnt ihr nicht?
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754411552636280832" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-16T20:25:05Z" />
+<feature featureName="indexDate" featureValue="2016-07-16T20:25:09.879Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2865475317/status/754411552636280832" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="8" type="organization-company" surface="DB_Bahn" />
+<Entity id="1" startPos="32" endPos="39" type="location-city" surface="bamberg" /></Entities><Relations />
+</Document>

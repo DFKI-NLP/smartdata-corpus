@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ausfall von Verkehrshalten<NODE id="26" />Zugausfälle<NODE id="37" /> und <NODE id="42" />Ersatzverkehr<NODE id="55" /> auf den Linien <NODE id="71" />RE 3<NODE id="75" />, <NODE id="77" />RB 24<NODE id="82" /> und <NODE id="87" />RB 66<NODE id="92" /> vom <NODE id="97" />10.<NODE id="100" /> bis... http://t.co/QEDUHvhS6i #<NODE id="132" />bahn<NODE id="136" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="652458531333894145" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="26" endPos="37" type="trigger" surface="Zugausfälle" />
+<Entity id="1" startPos="42" endPos="55" type="trigger" surface="Ersatzverkehr" />
+<Entity id="2" startPos="71" endPos="75" type="location-route" surface="RE 3" />
+<Entity id="3" startPos="77" endPos="82" type="location-route" surface="RB 24" />
+<Entity id="4" startPos="87" endPos="92" type="location-route" surface="RB 66" />
+<Entity id="5" startPos="97" endPos="100" type="date" surface="10." />
+<Entity id="6" startPos="132" endPos="136" type="organization-company" surface="bahn" /></Entities><Relations>
+<Relation id="7" NAME="CanceledRoute">
+<Entity id="3" label="location" />
+<Entity id="4" label="location" />
+<Entity id="2" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="5" label="start_date" />
+</Relation>
+<Relation id="8" NAME="RailReplacementService">
+<Entity id="3" label="location" />
+<Entity id="4" label="location" />
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+<Entity id="5" label="start_date" />
+</Relation></Relations>
+</Document>

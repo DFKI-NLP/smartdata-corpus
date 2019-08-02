@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Grüne Wasserstoff-Tankstellen für emissionsfreien Verkehr in ganz <NODE id="66" />Deutschland<NODE id="77" />
+(pressebox) <NODE id="90" />Wiesbaden<NODE id="99" />, <NODE id="101" />14.03.2016<NODE id="111" /> -
+Erneuerbare Energien und Brennstoffzellenfahrzeuge ermöglichen Mobilität der Zukunft
+Potenziale für grüne Wasserstoff-Tankstellen analysiert
+<NODE id="255" />ABO Wind<NODE id="263" /> präsentiert Ergebnisse auf Konferenz zur Speicherung Erneuerbarer Energien (IRES)
+Entlang der <NODE id="358" />deutschen<NODE id="367" /> Autobahnen ließe sich ein flächendeckendes Netz an Wasserstoff-Tankstellen aufbauen, das zu <NODE id="460" />100 Prozent<NODE id="471" /> mit grünem Wasserstoff aus erneuerbaren Energien versorgt wird. Das zeigt eine aktuelle Untersuchung des <NODE id="577" />Wiesbadener<NODE id="588" /> Projektentwicklers <NODE id="608" />ABO Wind<NODE id="616" />. Die Abteilung Zukunftsenergien präsentiert die Ergebnisse auf der <NODE id="684" />10<NODE id="686" />. Internationalen Konferenz zur Speicherung Erneuerbarer Energien (IRES), die vom <NODE id="768" />15.<NODE id="771" /> bis <NODE id="776" />17. März<NODE id="784" /> in <NODE id="788" />Düsseldorf<NODE id="798" /> stattfindet.
+Für den Erfolg der Energiewende muss insbesondere im Automobilsektor ein Paradigmenwechsel hin zu einem emissionsfreien Verk
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.klamm.de/news/gruene-wasserstoff-tankstellen-fuer-emissionsfreien-verkehr-in-ganz-deutschland-4N785486.html@2016-03-14T12:11:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T11:11:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:45:36.699Z" />
+<feature featureName="uri" featureValue="http://www.klamm.de/news/gruene-wasserstoff-tankstellen-fuer-emissionsfreien-verkehr-in-ganz-deutschland-4N785486.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="66" endPos="77" type="location" surface="Deutschland" />
+<Entity id="1" startPos="90" endPos="99" type="location" surface="Wiesbaden" />
+<Entity id="2" startPos="101" endPos="111" type="date" surface="14.03.2016" />
+<Entity id="3" startPos="255" endPos="263" type="organization-company" surface="ABO Wind" />
+<Entity id="4" startPos="358" endPos="367" type="location" surface="deutschen" />
+<Entity id="5" startPos="460" endPos="471" type="number" surface="100 Prozent" />
+<Entity id="6" startPos="577" endPos="588" type="location-city" surface="Wiesbadener" />
+<Entity id="7" startPos="608" endPos="616" type="organization-company" surface="ABO Wind" />
+<Entity id="8" startPos="684" endPos="686" type="number" surface="10" />
+<Entity id="9" startPos="768" endPos="771" type="date" surface="15." />
+<Entity id="10" startPos="776" endPos="784" type="date" surface="17. März" />
+<Entity id="11" startPos="788" endPos="798" type="location-city" surface="Düsseldorf" /></Entities><Relations />
+</Document>

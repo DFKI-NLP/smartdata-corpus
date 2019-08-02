@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sind jetzt angekommen. Zum Glück kein Stau auf der Strecke
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754683154099761153" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T14:24:19Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T14:24:20.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3022431664/status/754683154099761153" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities /><Relations />
+</Document>

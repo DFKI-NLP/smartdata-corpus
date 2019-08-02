@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />Hurrikan<NODE id="9" /> Darby im <NODE id="19" />O-#Pazifik<NODE id="29" /> <NODE id="30" />185 km/h<NODE id="38" /> (Kat. <NODE id="45" />3<NODE id="46" />), #<NODE id="50" />Tropensturm<NODE id="61" /> Estelle im <NODE id="73" />O-#Pazifik<NODE id="83" /> <NODE id="84" />82 km/h<NODE id="91" />, #<NODE id="94" />Zyklon<NODE id="100" /> One im… https://t.co/Xdtj8BnxAt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754439488185577473" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-16T22:16:05Z" />
+<feature featureName="indexDate" featureValue="2016-07-16T22:16:10.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/24882838/status/754439488185577473" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="9" type="disaster-type" surface="Hurrikan" />
+<Entity id="1" startPos="19" endPos="29" type="location" surface="O-#Pazifik" />
+<Entity id="2" startPos="30" endPos="38" type="number" surface="185 km/h" />
+<Entity id="3" startPos="45" endPos="46" type="number" surface="3" />
+<Entity id="4" startPos="50" endPos="61" type="disaster-type" surface="Tropensturm" />
+<Entity id="5" startPos="73" endPos="83" type="location" surface="O-#Pazifik" />
+<Entity id="6" startPos="84" endPos="91" type="number" surface="82 km/h" />
+<Entity id="7" startPos="94" endPos="100" type="disaster-type" surface="Zyklon" /></Entities><Relations>
+<Relation id="8" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="type" />
+</Relation>
+<Relation id="9" NAME="Disaster">
+<Entity id="5" label="location" />
+<Entity id="4" label="type" />
+</Relation></Relations>
+</Document>

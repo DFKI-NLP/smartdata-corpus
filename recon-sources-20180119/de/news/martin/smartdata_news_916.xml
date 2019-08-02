@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Unbekannte hacken Website von Kindergarten
+Artikel per E-Mail empfehlen
+Unbekannte hacken Website von Kindergarten
+Empfänger E-Mail
+Tipp: mehrere E-Mailadressen mit Komma      trennen
+persönliche Nachrichtoptional
+Bitte tragen Sie den Code in das      Eingabefeld ein.
+Tipp: das Bild anklicken um den Code neu      zu generieren
+Empfänger E-Mail
+Twittern
+<NODE id="355" />Selb<NODE id="359" /> (<NODE id="361" />dpa<NODE id="364" />/lby) - Unbekannte Täter haben die Website eines Kindergartens im <NODE id="430" />oberfränkischen<NODE id="445" /> <NODE id="446" />Selb<NODE id="450" /> (<NODE id="452" />Landkreis Wunsiedel<NODE id="471" />) gehackt. Wie die Polizei mitteilte, habe die Leiterin des Kindergartens Anzeige erstattet. Die Website sei schon seit vergangener Woche nicht mehr erreichbar. Von einer E-Mail-Adresse des Kindergartens seien insgesamt rund <NODE id="696" />20 000<NODE id="702" /> Nachrichten verschickt worden. Wegen der hohen Zahl könne der mögliche Schaden noch nicht beziffert werden, sagte ein Sprecher der Polizei. Über den weiteren Verlauf der Ermittlungen war zunächst nichts bekannt.
+© <NODE id="917" />WeltN24 GmbH<NODE id="929" /> <NODE id="930" />2016<NODE id="934" />. Alle Rechte vorbeha
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/regionales/bayern/article152319016/Unbekannte-hacken-Website-von-Kindergarten.html@2016-02-17T08:13:15.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-17T07:13:15Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:05:12.952Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/regionales/bayern/article152319016/Unbekannte-hacken-Website-von-Kindergarten.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="355" endPos="359" type="location-city" surface="Selb" />
+<Entity id="1" startPos="361" endPos="364" type="organization-company" surface="dpa" />
+<Entity id="2" startPos="430" endPos="445" type="location" surface="oberfränkischen" />
+<Entity id="3" startPos="446" endPos="450" type="location-city" surface="Selb" />
+<Entity id="4" startPos="452" endPos="471" type="location" surface="Landkreis Wunsiedel" />
+<Entity id="5" startPos="696" endPos="702" type="number" surface="20 000" />
+<Entity id="6" startPos="917" endPos="929" type="organization-company" surface="WeltN24 GmbH" />
+<Entity id="7" startPos="930" endPos="934" type="date" surface="2016" /></Entities><Relations />
+</Document>

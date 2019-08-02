@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />1974<NODE id="4" /> hat <NODE id="9" />Beckenbauer<NODE id="20" /> nach der Pleite gegen die <NODE id="47" />DDR<NODE id="50" /> das Traineramt von <NODE id="70" />Schön<NODE id="75" /> quasi übernommen. Tue es ihm gleich, @JB17Official!!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743876945482493952" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T18:44:19Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T18:44:20.08Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Duratschok/status/743876945482493952" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="date" surface="1974" />
+<Entity id="1" startPos="9" endPos="20" type="person" surface="Beckenbauer" />
+<Entity id="2" startPos="47" endPos="50" type="location" surface="DDR" />
+<Entity id="3" startPos="70" endPos="75" type="person" surface="Schön" /></Entities><Relations />
+</Document>

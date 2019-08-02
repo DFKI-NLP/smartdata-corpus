@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Siemens<NODE id="7" /> <NODE id="8" />streicht<NODE id="16" /> auch in <NODE id="25" />Mülheim<NODE id="32" /> weniger <NODE id="41" />Stellen<NODE id="48" />
+<NODE id="49" />30.09.2015<NODE id="59" /> | <NODE id="62" />06:59 Uhr<NODE id="71" /> <NODE id="72" />2015-09-30<NODE id="82" />T<NODE id="83" />06:59:00+02:00<NODE id="97" />
+Der Protest von <NODE id="114" />Siemens<NODE id="121" />-Beschäftigten mit symbolischen Kreuzen im Mai war erfolgreich: In <NODE id="188" />Mülheim<NODE id="195" /> werden weniger Stellen abgebaut als geplant.Foto: <NODE id="246" />Oliver Müller<NODE id="259" />
+<NODE id="260" />München<NODE id="267" />/<NODE id="268" />Mülheim<NODE id="275" />.   Der Stellenabbau in der kriselnden Stromerzeugungssparte von <NODE id="340" />Siemens<NODE id="347" /> fällt glimpflicher aus als geplant. Davon soll auch das Werk <NODE id="409" />Mülheim<NODE id="416" /> profitieren. Konkrete Zahlen wurden zunächst nicht bekannt.
+Der <NODE id="481" />Siemens<NODE id="488" />-Konzern baut in seiner Stromerzeugungssparte deutlich weniger Ar­beitsplätze ab als noch im Frühjahr geplant. Über die Zahl der zu streichenden Stellen, auf die sich Arbeitgeber und Arbeitnehmer in einem Interessenausgleich geeinigt haben, gibt es aber unterschiedliche Angaben. Ein <NODE id="772" />Siemens<NODE id="779" />-Sprecher sagte dieser Redaktion, dass <NODE id="818" />1100<NODE id="822" /> statt <NODE id="829" />1700<NODE id="833" /> Arbeitsplätze wegfallen sollen. In ei­ner Erklärung des Gesamtbetriebsrats ist indes nur von <NODE id="927" />756<NODE id="930" /> Jobs, die zur Disp
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.derwesten.de/nrz/staedte/muelheim/siemens-streicht-auch-in-muelheim-weniger-stellen-id11140909.html@2016-03-11T02:01:35.778+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T01:01:35.778Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T01:01:43.484Z" />
+<feature featureName="uri" featureValue="http://www.derwesten.de/nrz/staedte/muelheim/siemens-streicht-auch-in-muelheim-weniger-stellen-id11140909.html" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization-company" surface="Siemens" />
+<Entity id="1" startPos="8" endPos="16" type="trigger" surface="streicht" />
+<Entity id="2" startPos="25" endPos="32" type="location-city" surface="Mülheim" />
+<Entity id="3" startPos="41" endPos="48" type="trigger" surface="Stellen" />
+<Entity id="4" startPos="49" endPos="59" type="date" surface="30.09.2015" />
+<Entity id="5" startPos="62" endPos="71" type="time" surface="06:59 Uhr" />
+<Entity id="6" startPos="72" endPos="82" type="date" surface="2015-09-30" />
+<Entity id="7" startPos="83" endPos="97" type="time" surface="06:59:00+02:00" />
+<Entity id="8" startPos="114" endPos="121" type="organization-company" surface="Siemens" />
+<Entity id="9" startPos="188" endPos="195" type="location-city" surface="Mülheim" />
+<Entity id="10" startPos="246" endPos="259" type="person" surface="Oliver Müller" />
+<Entity id="11" startPos="260" endPos="267" type="location-city" surface="München" />
+<Entity id="12" startPos="268" endPos="275" type="location-city" surface="Mülheim" />
+<Entity id="13" startPos="340" endPos="347" type="organization-company" surface="Siemens" />
+<Entity id="14" startPos="409" endPos="416" type="location-city" surface="Mülheim" />
+<Entity id="15" startPos="481" endPos="488" type="organization-company" surface="Siemens" />
+<Entity id="16" startPos="772" endPos="779" type="organization-company" surface="Siemens" />
+<Entity id="17" startPos="818" endPos="822" type="number" surface="1100" />
+<Entity id="18" startPos="829" endPos="833" type="number" surface="1700" />
+<Entity id="19" startPos="927" endPos="930" type="number" surface="756" /></Entities><Relations>
+<Relation id="20" NAME="Layoffs">
+<Entity id="0" label="company" />
+<Entity id="2" label="location" />
+<Entity id="3" label="trigger" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

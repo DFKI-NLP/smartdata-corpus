@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Heidenheim<NODE id="10" />
+Warnstreik im öffentlichen Dienst war nur ein Vorgeschmack
+Einmal mehr klopft <NODE id="89" />Verdi<NODE id="94" /> der öffentlichen Hand auf die Finger. Gestern fiel dieser Schlag noch eher verhalten aus, doch schon nächste Woche dürften die Streikfolgen spürbarer sein.
+erwin bachmann |
+Bild <NODE id="273" />1<NODE id="274" /> von <NODE id="279" />1<NODE id="280" />
+Öffentliche Demonstration der Unzufriedenheit: Streikende Mitarbeiter des öffentlichen Dienstes auf dem <NODE id="385" />Eugen-Jaekle-Platz<NODE id="403" />. 
+ Stadtverwaltung, Landratsamt, Klinikum, Job-Center und Arbeits-Agentur: In den <NODE id="486" />fünf<NODE id="490" /> auf die Streikliste geratenen öffentlichen Einrichtungen hatten nach Informationen der <NODE id="578" />Heidenheimer Zeitung<NODE id="598" /> insgesamt rund <NODE id="614" />200<NODE id="617" /> Mitarbeiter für <NODE id="634" />zwei Stunden<NODE id="646" /> die Arbeit niedergelegt, indem sie früher in eine zudem verlängerte Mittagspause gegangen waren. Die Folgen waren allerdings überschaubar, zumal man sich behördlicherseits auf diesen befristeten Ausstand eingestellt und kurzfristig Personal verlagert hatte, um den für den Publikumsverkehr wi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.swp.de/3797369@2016-04-21T16:08:33.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-21T14:08:33Z" />
+<feature featureName="indexDate" featureValue="2016-04-21T15:19:03.054Z" />
+<feature featureName="uri" featureValue="http://www.swp.de/3797369" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="location-city" surface="Heidenheim" />
+<Entity id="1" startPos="89" endPos="94" type="organization" surface="Verdi" />
+<Entity id="2" startPos="273" endPos="274" type="number" surface="1" />
+<Entity id="3" startPos="279" endPos="280" type="number" surface="1" />
+<Entity id="4" startPos="385" endPos="403" type="location-street" surface="Eugen-Jaekle-Platz" />
+<Entity id="5" startPos="486" endPos="490" type="number" surface="fünf" />
+<Entity id="6" startPos="578" endPos="598" type="organization-company" surface="Heidenheimer Zeitung" />
+<Entity id="7" startPos="614" endPos="617" type="number" surface="200" />
+<Entity id="8" startPos="634" endPos="646" type="duration" surface="zwei Stunden" /></Entities><Relations />
+</Document>

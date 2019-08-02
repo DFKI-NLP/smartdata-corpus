@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @hemicker: Unterzeichnung am <NODE id="32" />Mittwoch<NODE id="40" />? <NODE id="42" />Fusion<NODE id="48" /> von #<NODE id="54" />KMW<NODE id="57" /> und #<NODE id="63" />Nexter<NODE id="69" /> steht offenbar bevor http://t.co/LzIAAK21Ng #Rüstung
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="625906773170495489" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-07-28T05:52:58Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:14:04.119Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="32" endPos="40" type="date" surface="Mittwoch" />
+<Entity id="1" startPos="42" endPos="48" type="trigger" surface="Fusion" />
+<Entity id="2" startPos="54" endPos="57" type="organization-company" surface="KMW" />
+<Entity id="3" startPos="63" endPos="69" type="organization-company" surface="Nexter" /></Entities><Relations>
+<Relation id="4" NAME="Merger">
+<Entity id="2" label="old" />
+<Entity id="3" label="old" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

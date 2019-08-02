@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bus hängt halb über der <NODE id="24" />A60<NODE id="27" /> FOTO:  <NODE id="35" />dpa<NODE id="38" />, fve fpt
+<NODE id="48" />Mainz<NODE id="53" />. Nach einem Zusammenstoß mit einem Auto ist ein Bus in <NODE id="109" />Mainz<NODE id="114" /> am <NODE id="118" />Mittwoch<NODE id="126" /> halb über ein Brückengeländer gerutscht. Er hing mit einer Hälfte über der Autobahn <NODE id="211" />A60<NODE id="214" />.
+Beim <NODE id="221" />Unfall<NODE id="227" /> sind der Autofahrer und <NODE id="252" />zwei<NODE id="256" /> Businsassen leicht verletzt worden, wie die Feuerwehr mitteilte. Zum Zeitpunkt des Unfalls waren etwa <NODE id="359" />40<NODE id="361" /> Fahrgäste in dem Bus, sie konnten ihn aber sicher verlassen. Die Feuerwehr konnte den Bus der <NODE id="456" />Mainzer Verkehrsbetriebe<NODE id="480" /> inzwischen stabilisieren.
+Wie genau er aus der gefährlichen Lage gebracht werden soll, war zunächst unklar. Die <NODE id="593" />A60<NODE id="596" /> Richtung <NODE id="606" />Bingen<NODE id="612" /> <NODE id="613" />war<NODE id="616" /> für etwa eine <NODE id="631" />halbe Stunde<NODE id="643" /> <NODE id="644" />gesperrt<NODE id="652" />. Nähere Einzelheiten zum Unfallhergang waren zunächst nicht bekannt.
+(<NODE id="723" />dpa<NODE id="726" />)
+Ihre Meinung zum Thema ist gefragt
+Schreiben Sie jetzt Ihre Meinung zu:
+<NODE id="800" />Mainz<NODE id="805" />: Bus hängt halb über der Autobahn <NODE id="840" />A60<NODE id="843" />
+Mich über weitere Kommentare per Mail benachrichtigen
+Kommentar senden
+Vielen Dank für Ihren Beitrag! Ihr Kommentar
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rp-online.de/panorama/deutschland/mainz-bus-haengt-halb-ueber-der-autobahn-a60-aid-1.5758421@2016-02-10T15:53:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-10T14:53:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:17:44.949Z" />
+<feature featureName="uri" featureValue="http://www.rp-online.de/panorama/deutschland/mainz-bus-haengt-halb-ueber-der-autobahn-a60-aid-1.5758421" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="24" endPos="27" type="location-street" surface="A60" />
+<Entity id="1" startPos="35" endPos="38" type="organization" surface="dpa" />
+<Entity id="2" startPos="48" endPos="53" type="location-city" surface="Mainz" />
+<Entity id="3" startPos="109" endPos="114" type="location-city" surface="Mainz" />
+<Entity id="4" startPos="118" endPos="126" type="date" surface="Mittwoch" />
+<Entity id="5" startPos="211" endPos="214" type="location-street" surface="A60" />
+<Entity id="6" startPos="221" endPos="227" type="disaster-type" surface="Unfall" />
+<Entity id="7" startPos="252" endPos="256" type="number" surface="zwei" />
+<Entity id="8" startPos="359" endPos="361" type="number" surface="40" />
+<Entity id="9" startPos="456" endPos="480" type="organization-company" surface="Mainzer Verkehrsbetriebe" />
+<Entity id="10" startPos="593" endPos="596" type="location-street" surface="A60" />
+<Entity id="11" startPos="606" endPos="612" type="location" surface="Bingen" />
+<Entity id="12" startPos="613" endPos="616" type="trigger" surface="war" />
+<Entity id="13" startPos="631" endPos="643" type="duration" surface="halbe Stunde" />
+<Entity id="14" startPos="644" endPos="652" type="trigger" surface="gesperrt" />
+<Entity id="15" startPos="723" endPos="726" type="organization-company" surface="dpa" />
+<Entity id="16" startPos="800" endPos="805" type="location-city" surface="Mainz" />
+<Entity id="17" startPos="840" endPos="843" type="location-street" surface="A60" /></Entities><Relations>
+<Relation id="18" NAME="Obstruction">
+<Entity id="10" label="location" />
+<Entity id="14" label="trigger" />
+<Entity id="12" label="trigger" />
+<Entity id="11" label="direction" />
+</Relation></Relations>
+</Document>

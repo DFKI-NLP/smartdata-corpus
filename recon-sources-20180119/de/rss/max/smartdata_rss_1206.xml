@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A7<NODE id="2" /> <NODE id="3" />Hannover<NODE id="11" /> Richtung <NODE id="21" />Kassel<NODE id="27" /> zwischen <NODE id="37" />Lutterberg<NODE id="47" /> und <NODE id="52" />Kreuz Kassel-Mitte<NODE id="70" /> <NODE id="71" />4 km<NODE id="75" /> <NODE id="76" />Stau<NODE id="80" /> nach einem <NODE id="92" />Unfall<NODE id="98" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#8@2016-03-14T07:27:07.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T06:27:07Z" />
+<feature featureName="indexDate" featureValue="2016-03-14T06:41:33.392Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A7" />
+<Entity id="1" startPos="3" endPos="11" type="location-city" surface="Hannover" />
+<Entity id="2" startPos="21" endPos="27" type="location-city" surface="Kassel" />
+<Entity id="3" startPos="37" endPos="47" type="location" surface="Lutterberg" />
+<Entity id="4" startPos="52" endPos="70" type="location" surface="Kreuz Kassel-Mitte" />
+<Entity id="5" startPos="71" endPos="75" type="distance" surface="4 km" />
+<Entity id="6" startPos="76" endPos="80" type="trigger" surface="Stau" />
+<Entity id="7" startPos="92" endPos="98" type="trigger" surface="Unfall" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="7" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

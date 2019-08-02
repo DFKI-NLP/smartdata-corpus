@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A3<NODE id="2" /> <NODE id="3" />Köln<NODE id="7" /> Richtung <NODE id="17" />Oberhausen<NODE id="27" /> zwischen <NODE id="37" />Kreuz Hilden<NODE id="49" /> und <NODE id="54" />Kreuz Ratingen-Ost<NODE id="72" /> <NODE id="73" />10 km<NODE id="78" /> <NODE id="79" />Stau<NODE id="83" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#7@2016-02-24T12:15:12.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T11:15:12Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T08:43:34.622Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A3" />
+<Entity id="1" startPos="3" endPos="7" type="location-city" surface="Köln" />
+<Entity id="2" startPos="17" endPos="27" type="location-city" surface="Oberhausen" />
+<Entity id="3" startPos="37" endPos="49" type="location" surface="Kreuz Hilden" />
+<Entity id="4" startPos="54" endPos="72" type="location" surface="Kreuz Ratingen-Ost" />
+<Entity id="5" startPos="73" endPos="78" type="distance" surface="10 km" />
+<Entity id="6" startPos="79" endPos="83" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

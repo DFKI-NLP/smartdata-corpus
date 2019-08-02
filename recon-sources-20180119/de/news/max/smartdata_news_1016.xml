@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Gemeinde <NODE id="9" />Grefrath<NODE id="17" />
+<NODE id="18" />Vinkrath<NODE id="26" />: Bei der Fusion im Sport mit <NODE id="56" />Grefrath<NODE id="64" /> ist Eile geboten
+Gemeinde <NODE id="91" />Grefrath<NODE id="99" />. Die Aufgabe des <NODE id="117" />Sportplatzes Vinkrath<NODE id="138" /> war Grundvoraussetzung für den Neubau des Kunstrasenplatzes im <NODE id="202" />Sportpark Heidefeld<NODE id="221" />. Die Gemeinde spart Pachtkosten von jährlich <NODE id="267" />30.000 Euro<NODE id="278" />. Der neue Platz hat rund <NODE id="304" />320.000 Euro<NODE id="316" /> gekostet, so dass er sich nach gut zehn Jahren amortisiert hat. Die <NODE id="385" />Vinkrather<NODE id="395" /> Fußballer spielen bereits auf dem neuen Platz.
+Damit nicht genug: Nachdem es in der Jugend, außer der A-Jugend, schon seit vielen Jahren zwischen <NODE id="542" />Borussia Oedt<NODE id="555" />, <NODE id="557" />SuS Vinkrath<NODE id="569" /> und dem <NODE id="578" />SV Grefrath<NODE id="589" /> eine Spielgemeinschaft gibt, haben die <NODE id="629" />Vinkrather<NODE id="639" /> auf der Mitgliederversammlung Ende des Jahres die Weichen in Richtung Fusion gestellt. Eile ist geboten, weil der <NODE id="754" />Fußballverband Niederrhein<NODE id="780" /> die neue Saison plant. Das bedeutet, dass <NODE id="823" />SuS Vinkrath<NODE id="835" /> die Auflösung bis <NODE id="854" />Anfang Mai<NODE id="864" /> mitteilen muss. Ebenso müssen beide Vereine den Verband über die geplante Fusion inf
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rp-online.de/nrw/staedte/kempen/vinkrath-bei-der-fusion-im-sport-mit-grefrath-ist-eile-geboten-aid-1.5678345@2016-01-09T00:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-08T23:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T00:55:11.93Z" />
+<feature featureName="uri" featureValue="http://www.rp-online.de/nrw/staedte/kempen/vinkrath-bei-der-fusion-im-sport-mit-grefrath-ist-eile-geboten-aid-1.5678345" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="17" type="location-city" surface="Grefrath" />
+<Entity id="1" startPos="18" endPos="26" type="location-city" surface="Vinkrath" />
+<Entity id="2" startPos="56" endPos="64" type="location-city" surface="Grefrath" />
+<Entity id="3" startPos="91" endPos="99" type="location-city" surface="Grefrath" />
+<Entity id="4" startPos="117" endPos="138" type="location" surface="Sportplatzes Vinkrath" />
+<Entity id="5" startPos="202" endPos="221" type="location" surface="Sportpark Heidefeld" />
+<Entity id="6" startPos="267" endPos="278" type="number" surface="30.000 Euro" />
+<Entity id="7" startPos="304" endPos="316" type="number" surface="320.000 Euro" />
+<Entity id="8" startPos="385" endPos="395" type="location-city" surface="Vinkrather" />
+<Entity id="9" startPos="542" endPos="555" type="organization" surface="Borussia Oedt" />
+<Entity id="10" startPos="557" endPos="569" type="organization" surface="SuS Vinkrath" />
+<Entity id="11" startPos="578" endPos="589" type="organization" surface="SV Grefrath" />
+<Entity id="12" startPos="629" endPos="639" type="location-city" surface="Vinkrather" />
+<Entity id="13" startPos="754" endPos="780" type="organization" surface="Fußballverband Niederrhein" />
+<Entity id="14" startPos="823" endPos="835" type="organization" surface="SuS Vinkrath" />
+<Entity id="15" startPos="854" endPos="864" type="date" surface="Anfang Mai" /></Entities><Relations />
+</Document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A8<NODE id="2" /> <NODE id="3" />Stuttgart<NODE id="12" /> Richtung <NODE id="22" />Karlsruhe<NODE id="31" /> zwischen <NODE id="41" />Pforzheim-Süd<NODE id="54" /> und <NODE id="59" />Pforzheim-Ost<NODE id="72" /> <NODE id="73" />Unfall<NODE id="79" /> <NODE id="80" />3 km<NODE id="84" /> <NODE id="85" />Stau<NODE id="89" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#21@2016-03-11T16:24:29.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T15:24:29Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:24:34.813Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A8" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="22" endPos="31" type="location-city" surface="Karlsruhe" />
+<Entity id="3" startPos="41" endPos="54" type="location" surface="Pforzheim-Süd" />
+<Entity id="4" startPos="59" endPos="72" type="location" surface="Pforzheim-Ost" />
+<Entity id="5" startPos="73" endPos="79" type="trigger" surface="Unfall" />
+<Entity id="6" startPos="80" endPos="84" type="distance" surface="3 km" />
+<Entity id="7" startPos="85" endPos="89" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="8" NAME="Accident">
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation>
+<Relation id="9" NAME="TrafficJam">
+<Entity id="6" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>folgende Meldung geändert&lt;br /&gt;
+von <NODE id="36" />Montag, 11. April<NODE id="53" />, <NODE id="55" />5.00 Uhr<NODE id="63" /> bis <NODE id="68" />Montag, 25. April<NODE id="85" />, <NODE id="87" />5.00 Uhr<NODE id="95" />&lt;br /&gt;
+&lt;br /&gt;
+Meldung:&lt;br /&gt;
+Die <NODE id="128" />ICE-<NODE id="132" />und <NODE id="136" />IC-Züge<NODE id="143" /> <NODE id="144" />verspäten sich<NODE id="158" /> zwischen &lt;span style=text-decoration:line-through;&gt;<NODE id="210" />Berlin-Gesundbrunnen<NODE id="230" />/<NODE id="231" />Berlin Ostbahnhof<NODE id="248" /> &lt;/span&gt;<NODE id="256" />Berlin Hbf<NODE id="266" /> und <NODE id="271" />Hannover Hbf<NODE id="283" /> um <NODE id="287" />5 – 17 Min<NODE id="297" />.&lt;br /&gt;
+&lt;br /&gt;Grund:&lt;br /&gt;
+Schienenerneuerung <NODE id="343" />Schönhausen<NODE id="354" /> – <NODE id="357" />Gardelegen<NODE id="367" />&lt;br /&gt;
+&lt;br /&gt;Link zur detaillierten Meldung: &lt;br /&gt;
+&lt;a href=/&gt;&lt;br /&gt;
+Link zum kompletten PDF-Dokument: &lt;br /&gt;
+&lt;a href=target=_blank&gt;(<NODE id="500" />82<NODE id="502" /> kB)&lt;br /&gt;&lt;br /&gt;------------------&lt;br /&gt;&lt;br /&gt;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_77-Berlin-Stendal_-Hannover-Amsterdam/37#a836042ae2e40a5559a439df34067a273034a1e4@2016-02-16T09:52:22.136+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_77-Berlin-Stendal_-Hannover-Amsterdam/37#a836042ae2e40a5559a439df34067a273034a1e4" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="36" endPos="53" type="date" surface="Montag, 11. April" />
+<Entity id="1" startPos="55" endPos="63" type="time" surface="5.00 Uhr" />
+<Entity id="2" startPos="68" endPos="85" type="date" surface="Montag, 25. April" />
+<Entity id="3" startPos="87" endPos="95" type="time" surface="5.00 Uhr" />
+<Entity id="4" startPos="128" endPos="132" type="location-route" surface="ICE-" />
+<Entity id="5" startPos="136" endPos="143" type="location-route" surface="IC-Züge" />
+<Entity id="6" startPos="144" endPos="158" type="trigger" surface="verspäten sich" />
+<Entity id="7" startPos="210" endPos="230" type="location-stop" surface="Berlin-Gesundbrunnen" />
+<Entity id="8" startPos="231" endPos="248" type="location-stop" surface="Berlin Ostbahnhof" />
+<Entity id="9" startPos="256" endPos="266" type="location-stop" surface="Berlin Hbf" />
+<Entity id="10" startPos="271" endPos="283" type="location-stop" surface="Hannover Hbf" />
+<Entity id="11" startPos="287" endPos="297" type="duration" surface="5 – 17 Min" />
+<Entity id="12" startPos="343" endPos="354" type="location-stop" surface="Schönhausen" />
+<Entity id="13" startPos="357" endPos="367" type="location-stop" surface="Gardelegen" />
+<Entity id="14" startPos="500" endPos="502" type="number" surface="82" /></Entities><Relations>
+<Relation id="15" NAME="Delay">
+<Entity id="11" label="delay" />
+<Entity id="10" label="end_loc" />
+<Entity id="9" label="start_loc" />
+<Entity id="4" label="location" />
+<Entity id="5" label="location" />
+<Entity id="6" label="trigger" />
+</Relation></Relations>
+</Document>

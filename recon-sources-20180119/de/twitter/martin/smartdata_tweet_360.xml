@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Verschwindende Züge sollen weg: Bericht: <NODE id="41" />Bahn<NODE id="45" /> macht <NODE id="52" />2015<NODE id="56" /> Milliardenverlust: <NODE id="76" />n-tv.de<NODE id="83" />: <NODE id="85" />Die Bahn<NODE id="93" /> will besser we... https://t.co/mOcaviQ8eC
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671902651487944706" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T04:04:10Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:28:15.731Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="41" endPos="45" type="organization-company" surface="Bahn" />
+<Entity id="1" startPos="52" endPos="56" type="date" surface="2015" />
+<Entity id="2" startPos="76" endPos="83" type="organization-company" surface="n-tv.de" />
+<Entity id="3" startPos="85" endPos="93" type="organization-company" surface="Die Bahn" /></Entities><Relations />
+</Document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A45<NODE id="3" /> <NODE id="4" />Gießen<NODE id="10" /> Richtung <NODE id="20" />Dortmund<NODE id="28" /> zwischen <NODE id="38" />Lüdenscheid-Nord<NODE id="54" /> und <NODE id="59" />Schwerte-Ergste<NODE id="74" /> - immer wieder <NODE id="90" />stockender Verkehr<NODE id="108" /> auf einer Strecke von <NODE id="131" />10 Kilometern<NODE id="144" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#34@2016-04-01T18:28:40.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-01T16:28:40Z" />
+<feature featureName="indexDate" featureValue="2016-04-01T16:33:31.217Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A45" />
+<Entity id="1" startPos="4" endPos="10" type="location-city" surface="Gießen" />
+<Entity id="2" startPos="20" endPos="28" type="location-city" surface="Dortmund" />
+<Entity id="3" startPos="38" endPos="54" type="location" surface="Lüdenscheid-Nord" />
+<Entity id="4" startPos="59" endPos="74" type="location" surface="Schwerte-Ergste" />
+<Entity id="5" startPos="90" endPos="108" type="trigger" surface="stockender Verkehr" />
+<Entity id="6" startPos="131" endPos="144" type="distance" surface="10 Kilometern" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="6" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

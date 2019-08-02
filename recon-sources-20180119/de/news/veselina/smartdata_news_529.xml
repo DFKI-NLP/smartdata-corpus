@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Alle Vor- und Nachteile, f�r Eltern recherchiert und aufbereitet<NODE id="64" />
+<NODE id="65" />Liefert Hintergr�nde, Meinungen und Antworten zum Thema<NODE id="120" />
+<NODE id="121" />Mit Schultest f�r Ihr Kind, Gemeinschaftsschul-ABC und Fakten-Check<NODE id="188" />
+<NODE id="189" />Einmalig nur 2,90 €<NODE id="208" />
+<NODE id="209" />F�r SK Plus Mitglieder gratis!<NODE id="239" /> <NODE id="240" />Jetzt freischalten<NODE id="258" />
+<NODE id="259" />25.01.2016 13:00<NODE id="275" />
+ 
+<NODE id="278" />Kanton <NODE id="285" />Z�rich<NODE id="291" /> Schwerverletzter gibt Polizei R�tsel auf<NODE id="332" />
+<NODE id="333" />Ein in <NODE id="340" />Z�rich<NODE id="346" /> auf der Stra�e aufgefundener schwer verletzter Mann kann sich nicht erinnern, wie er zu den Verletzungen gekommen ist.<NODE id="465" />
+ 
+<NODE id="468" />Hier klicken und teilen:<NODE id="492" />
+<NODE id="493" />Hier Newsletter bestellen:<NODE id="519" />
+<NODE id="520" />Ich m�chte den <NODE id="535" />S�DKURIER<NODE id="544" /> Online Newsletter (erscheint donnerstags) sowie weitere Informationen und Angebote aus der <NODE id="636" />S�DKURIER GmbH<NODE id="650" /> per E-Mail erhalten.<NODE id="671" /> <NODE id="672" />Ein Link zum Widerruf befindet sich am Ende jeder per E-Mail �bermittelten Produktinformation.<NODE id="766" />
+<NODE id="767" />Jetzt nicht, weiter zum Artikel<NODE id="798" />
+<NODE id="799" />Ein schwer verletzter 20-j�hriger Mann gibt der <NODE id="847" />Z�rcher<NODE id="854" /> Stadtpolizei R�tsel auf.<NODE id="879" /> <NODE id="880" />Unklar ist, wie er zu den Verletzungen gekommen ist.<NODE id="932" /> <NODE id="933" />Der Mann selber kann sic<NODE id="957" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.suedkurier.de/region/nachbarschaft/kanton-zuerich/Schwerverletzter-gibt-Polizei-Raetsel-auf;art372447,8469474@2016-01-25T13:00:25.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-25T12:00:25Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:53:50.48Z" />
+<feature featureName="uri" featureValue="http://www.suedkurier.de/region/nachbarschaft/kanton-zuerich/Schwerverletzter-gibt-Polizei-Raetsel-auf;art372447,8469474" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="64" type="sentence" surface="Alle Vor- und Nachteile, f�r Eltern recherchiert und aufbereitet" />
+<Entity id="1" startPos="65" endPos="120" type="sentence" surface="Liefert Hintergr�nde, Meinungen und Antworten zum Thema" />
+<Entity id="2" startPos="121" endPos="188" type="sentence" surface="Mit Schultest f�r Ihr Kind, Gemeinschaftsschul-ABC und Fakten-Check" />
+<Entity id="3" startPos="189" endPos="208" type="sentence" surface="Einmalig nur 2,90 €" />
+<Entity id="4" startPos="209" endPos="239" type="sentence" surface="F�r SK Plus Mitglieder gratis!" />
+<Entity id="5" startPos="240" endPos="258" type="sentence" surface="Jetzt freischalten" />
+<Entity id="6" startPos="259" endPos="275" type="sentence" surface="25.01.2016 13:00" />
+<Entity id="7" startPos="278" endPos="332" type="sentence" surface="Kanton Z�rich Schwerverletzter gibt Polizei R�tsel auf" />
+<Entity id="8" startPos="285" endPos="291" type="location" surface="Z�rich" />
+<Entity id="9" startPos="333" endPos="465" type="sentence" surface="Ein in Z�rich auf der Stra�e aufgefundener schwer verletzter Mann kann sich nicht erinnern, wie er zu den Verletzungen gekommen ist." />
+<Entity id="10" startPos="340" endPos="346" type="location" surface="Z�rich" />
+<Entity id="11" startPos="468" endPos="492" type="sentence" surface="Hier klicken und teilen:" />
+<Entity id="12" startPos="493" endPos="519" type="sentence" surface="Hier Newsletter bestellen:" />
+<Entity id="13" startPos="520" endPos="671" type="sentence" surface="Ich m�chte den S�DKURIER Online Newsletter (erscheint donnerstags) sowie weitere Informationen und Angebote aus der S�DKURIER GmbH per E-Mail erhalten." />
+<Entity id="14" startPos="535" endPos="544" type="organization-company" surface="S�DKURIER" />
+<Entity id="15" startPos="636" endPos="650" type="organization-company" surface="S�DKURIER GmbH" />
+<Entity id="16" startPos="672" endPos="766" type="sentence" surface="Ein Link zum Widerruf befindet sich am Ende jeder per E-Mail �bermittelten Produktinformation." />
+<Entity id="17" startPos="767" endPos="798" type="sentence" surface="Jetzt nicht, weiter zum Artikel" />
+<Entity id="18" startPos="799" endPos="879" type="sentence" surface="Ein schwer verletzter 20-j�hriger Mann gibt der Z�rcher Stadtpolizei R�tsel auf." />
+<Entity id="19" startPos="847" endPos="854" type="location-city" surface="Z�rcher" />
+<Entity id="20" startPos="880" endPos="932" type="sentence" surface="Unklar ist, wie er zu den Verletzungen gekommen ist." />
+<Entity id="21" startPos="933" endPos="957" type="sentence" surface="Der Mann selber kann sic" /></Entities><Relations />
+</Document>

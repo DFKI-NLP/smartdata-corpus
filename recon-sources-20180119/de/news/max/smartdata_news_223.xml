@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Geiselnahme in Hotel im <NODE id="24" />malischen<NODE id="33" /> <NODE id="34" />Bamako<NODE id="40" /> FOTO:  afp, tlr
+<NODE id="57" />Bamako<NODE id="63" /> . Bei einer <NODE id="76" />Geiselnahme<NODE id="87" /> in einem Luxushotel in der ehemaligen <NODE id="126" />französischen<NODE id="139" /> Kolonie <NODE id="148" />Mali<NODE id="152" /> haben mutmaßliche Islamisten nach Angaben von <NODE id="199" />UN<NODE id="201" />-Soldaten mindestens <NODE id="222" />27<NODE id="224" /> Menschen getötet.
+<NODE id="243" />Zwölf<NODE id="248" /> Leichen seien im Keller des Hotels gefunden worden, <NODE id="301" />15<NODE id="303" /> in einem oberen Stockwerk, sagte ein <NODE id="341" />UN<NODE id="343" />-Vertreter. Die Suche nach Opfern gehe aber noch weiter. Sicherheitskreisen zufolge wurden <NODE id="434" />zwei<NODE id="438" /> Angreifer getötet. Zeitweise hatten sie <NODE id="479" />170<NODE id="482" /> Geiseln in ihrer Gewalt. Nach Aussage von Bundesaußenminister <NODE id="545" />Frank-Walter Steinmeier<NODE id="568" /> konnten <NODE id="577" />vier<NODE id="581" /> Deutsche aus dem bei Ausländern beliebten Hotel in der Hauptstadt <NODE id="648" />Bamako<NODE id="654" /> entkommen.
+Zu dem Angriff genau<NODE id="686" /> eine Woche<NODE id="697" /> nach den <NODE id="707" />Anschlägen<NODE id="717" /> von <NODE id="722" />Paris<NODE id="727" /> bekannte sich die Gruppe <NODE id="753" />Al Mourabitoun<NODE id="767" />, ein <NODE id="773" />malischer<NODE id="782" /> Ableger des Extremisten-Netzwerks <NODE id="817" />Al Kaida<NODE id="825" />.
+Im Laufe des Tages war immer wieder heftiges Gewehrfeuer in dem siebenstöckigen Gebäude zu hören. Die Geiselnehmer - nach Anga
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rp-online.de/panorama/ausland/bamako-viele-tote-bei-geiselnahme-in-mali-aid-1.5574841@2015-11-20T21:44:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-20T20:44:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:41:22.953Z" />
+<feature featureName="uri" featureValue="http://www.rp-online.de/panorama/ausland/bamako-viele-tote-bei-geiselnahme-in-mali-aid-1.5574841" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="24" endPos="33" type="location" surface="malischen" />
+<Entity id="1" startPos="34" endPos="40" type="location-city" surface="Bamako" />
+<Entity id="2" startPos="57" endPos="63" type="location-city" surface="Bamako" />
+<Entity id="3" startPos="76" endPos="87" type="disaster-type" surface="Geiselnahme" />
+<Entity id="4" startPos="126" endPos="139" type="location" surface="französischen" />
+<Entity id="5" startPos="148" endPos="152" type="location" surface="Mali" />
+<Entity id="6" startPos="199" endPos="201" type="organization" surface="UN" />
+<Entity id="7" startPos="222" endPos="224" type="number" surface="27" />
+<Entity id="8" startPos="243" endPos="248" type="number" surface="Zwölf" />
+<Entity id="9" startPos="301" endPos="303" type="organization-company" surface="15" />
+<Entity id="10" startPos="341" endPos="343" type="organization" surface="UN" />
+<Entity id="11" startPos="434" endPos="438" type="number" surface="zwei" />
+<Entity id="12" startPos="479" endPos="482" type="number" surface="170" />
+<Entity id="13" startPos="545" endPos="568" type="person" surface="Frank-Walter Steinmeier" />
+<Entity id="14" startPos="577" endPos="581" type="number" surface="vier" />
+<Entity id="15" startPos="648" endPos="654" type="location-city" surface="Bamako" />
+<Entity id="16" startPos="686" endPos="697" type="date" surface=" eine Woche" />
+<Entity id="17" startPos="707" endPos="717" type="disaster-type" surface="Anschlägen" />
+<Entity id="18" startPos="722" endPos="727" type="location-city" surface="Paris" />
+<Entity id="19" startPos="753" endPos="767" type="organization" surface="Al Mourabitoun" />
+<Entity id="20" startPos="773" endPos="782" type="location" surface="malischer" />
+<Entity id="21" startPos="817" endPos="825" type="organization" surface="Al Kaida" /></Entities><Relations>
+<Relation id="22" NAME="Disaster">
+<Entity id="5" label="location" />
+<Entity id="3" label="type" />
+<Entity id="7" label="victims" />
+</Relation>
+<Relation id="23" NAME="Disaster">
+<Entity id="18" label="location" />
+<Entity id="17" label="type" />
+</Relation></Relations>
+</Document>

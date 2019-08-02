@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Star Wars: Trials of Tatooine VR gezeigt
+Für HTC Vive
+<NODE id="54" />15. Mär <NODE id="62" />/ <NODE id="64" />10:00<NODE id="69" />
+<NODE id="70" />Michael Sosinka<NODE id="85" />
+Star Wars: Trials of Tatooine VR sieht vielversprechend aus. Erstes Videomaterial steht bereits zur Ansicht bereit. Man kann gespannt sein.
+Star Wars: Trials of Tatooine VR ist wohl das nächste erwähnenswerte Virtual-Reality-Projekt, das sich in Richtung <NODE id="341" />Valve<NODE id="346" /> und <NODE id="351" />HTC<NODE id="354" /> Vive aufmacht. Ein passendes Video wurde auf dem <NODE id="404" />YouTube<NODE id="411" />-Channel von ILMxLab veröffentlicht, jedoch schnell wieder entfernt. Ihr könnt euch bei uns dennoch das passende Videomaterial anschauen.
+Wir sehen den Millennium Falken, Sturmtruppen, R2D2, etwas Laserschwert-Action und mehr. Das Ganze wird als Cinematic Virtual Reality Experiment bezeichnet, weswegen noch unklar ist, ob es sich hierbei um ein echtes Spiel oder nur eine Tech-Demo handelt. Zudem ist unbekannt, ob und wann Star Wars: Trials of Tatooine VR offiziell veröffentlicht wird. Wenn sich aber <NODE id="916" />LucasArts<NODE id="925" /> sowie Industrial Light
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.games.ch/htc-vive/news/star-wars-trials-of-tatooine-vr-gezeigt-htc-vive-video-Q0f/@2016-03-15T10:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-15T09:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:54:52.953Z" />
+<feature featureName="uri" featureValue="http://www.games.ch/htc-vive/news/star-wars-trials-of-tatooine-vr-gezeigt-htc-vive-video-Q0f/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="54" endPos="62" type="date" surface="15. Mär " />
+<Entity id="1" startPos="64" endPos="69" type="time" surface="10:00" />
+<Entity id="2" startPos="70" endPos="85" type="person" surface="Michael Sosinka" />
+<Entity id="3" startPos="341" endPos="346" type="organization-company" surface="Valve" />
+<Entity id="4" startPos="351" endPos="354" type="organization-company" surface="HTC" />
+<Entity id="5" startPos="404" endPos="411" type="organization-company" surface="YouTube" />
+<Entity id="6" startPos="916" endPos="925" type="organization-company" surface="LucasArts" /></Entities><Relations />
+</Document>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Beben<NODE id="5" /> der Stärke<NODE id="16" /> 7,8 <NODE id="21" />in dem <NODE id="28" />südamerikanischen<NODE id="45" /> Land kostete mindestens <NODE id="70" />233<NODE id="73" /> Menschen das Leben.
+Die Behörden rechnen mit weiteren Opfern, die Rettungsarbeiten dauerten am <NODE id="169" />Sonntag<NODE id="176" /> an. © <NODE id="183" />REUTERS<NODE id="190" />, <NODE id="192" />Guillermo Granja<NODE id="208" />
+<NODE id="209" />Quito<NODE id="214" />. <NODE id="216" />Hunderte<NODE id="224" /> Tote und verwüstete Städte: Ein schweres <NODE id="266" />Erdbeben<NODE id="274" /> hat <NODE id="279" />Ecuador<NODE id="286" /> getroffen. Mindestens <NODE id="309" />233<NODE id="312" /> Menschen starben in dem <NODE id="337" />südamerikanischen<NODE id="354" /> Land, weitere <NODE id="369" />Hunderte<NODE id="377" /> wurden verletzt. Die Behörden rechnen mit weiteren Opfern, die Rettungsarbeiten dauerten am Sonntag an.
+Das Epizentrum des <NODE id="501" />Bebens<NODE id="507" /> der Stärke <NODE id="519" />7,8<NODE id="522" /> vom <NODE id="527" />Samstagabend<NODE id="539" /> (Ortszeit) lag in der westlichen Provinz <NODE id="581" />Esmeraldas<NODE id="591" />, die Erdstöße und Dutzende Nachbeben waren landesweit zu spüren. Die Regierung rief für mehrere Regionen den Ausnahmezustand aus. Das komplette Ausmaß des Unglücks war noch schwer abzuschätzen. Nach Regierungsangaben war es das stärkste <NODE id="829" />Beben<NODE id="834" /> in <NODE id="838" />Ecuador<NODE id="845" /> seit <NODE id="851" />1979<NODE id="855" />.
+Präsident Rafael Correa sprach Opfern und Angehörigen über <NODE id="916" />Twitter<NODE id="923" /> sein Mitg
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wienerzeitung.at/nachrichten/welt/weltchronik/813259_Hunderte-Tote-bei-staerkstem-Erdbeben-seit-Jahrzehnten-in-Ecuador.html@2016-04-17T22:24:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-17T20:24:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T17:10:43.056Z" />
+<feature featureName="uri" featureValue="http://www.wienerzeitung.at/nachrichten/welt/weltchronik/813259_Hunderte-Tote-bei-staerkstem-Erdbeben-seit-Jahrzehnten-in-Ecuador.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="disaster-type" surface="Beben" />
+<Entity id="1" startPos="16" endPos="21" type="number" surface=" 7,8 " />
+<Entity id="2" startPos="28" endPos="45" type="location" surface="südamerikanischen" />
+<Entity id="3" startPos="70" endPos="73" type="number" surface="233" />
+<Entity id="4" startPos="169" endPos="176" type="date" surface="Sonntag" />
+<Entity id="5" startPos="183" endPos="190" type="organization-company" surface="REUTERS" />
+<Entity id="6" startPos="192" endPos="208" type="person" surface="Guillermo Granja" />
+<Entity id="7" startPos="209" endPos="214" type="location-city" surface="Quito" />
+<Entity id="8" startPos="216" endPos="224" type="number" surface="Hunderte" />
+<Entity id="9" startPos="266" endPos="274" type="disaster-type" surface="Erdbeben" />
+<Entity id="10" startPos="279" endPos="286" type="location" surface="Ecuador" />
+<Entity id="11" startPos="309" endPos="312" type="number" surface="233" />
+<Entity id="12" startPos="337" endPos="354" type="location" surface="südamerikanischen" />
+<Entity id="13" startPos="369" endPos="377" type="number" surface="Hunderte" />
+<Entity id="14" startPos="501" endPos="507" type="disaster-type" surface="Bebens" />
+<Entity id="15" startPos="519" endPos="522" type="number" surface="7,8" />
+<Entity id="16" startPos="527" endPos="539" type="date" surface="Samstagabend" />
+<Entity id="17" startPos="581" endPos="591" type="location" surface="Esmeraldas" />
+<Entity id="18" startPos="829" endPos="834" type="disaster-type" surface="Beben" />
+<Entity id="19" startPos="838" endPos="845" type="location" surface="Ecuador" />
+<Entity id="20" startPos="851" endPos="855" type="date" surface="1979" />
+<Entity id="21" startPos="916" endPos="923" type="organization-company" surface="Twitter" /></Entities><Relations>
+<Relation id="22" NAME="Disaster">
+<Entity id="2" label="location" />
+<Entity id="0" label="type" />
+<Entity id="3" label="victims" />
+</Relation>
+<Relation id="23" NAME="Disaster">
+<Entity id="10" label="location" />
+<Entity id="9" label="type" />
+<Entity id="8" label="victims" />
+</Relation>
+<Relation id="24" NAME="Disaster">
+<Entity id="16" label="date" />
+<Entity id="17" label="location" />
+<Entity id="14" label="type" />
+</Relation>
+<Relation id="25" NAME="Disaster">
+<Entity id="19" label="location" />
+<Entity id="18" label="type" />
+</Relation></Relations>
+</Document>

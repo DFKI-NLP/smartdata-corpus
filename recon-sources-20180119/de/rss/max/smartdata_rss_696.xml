@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>In der vergangenen Nacht beleidigte ein <NODE id="40" />28 Jahre<NODE id="48" /> alter Mann einen Taxifahrer in <NODE id="80" />Friedrichshain<NODE id="94" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.468895.php@2016-04-18T09:15:22.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-18T07:15:22Z" />
+<feature featureName="indexDate" featureValue="2016-04-23T13:36:59.976Z" />
+<feature featureName="uri" featureValue="https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.468895.php" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="40" endPos="48" type="number" surface="28 Jahre" />
+<Entity id="1" startPos="80" endPos="94" type="location" surface="Friedrichshain" /></Entities><Relations />
+</Document>

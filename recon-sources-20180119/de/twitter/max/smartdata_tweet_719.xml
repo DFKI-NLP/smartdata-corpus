@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wegen Verspätung des Eingangszuges hat <NODE id="39" />ME 81630<NODE id="47" /> von <NODE id="52" />Lüneburg<NODE id="60" /> nach <NODE id="66" />Hamburg<NODE id="73" /> aktuell ca. <NODE id="86" />11 Minuten<NODE id="96" /> <NODE id="97" />Verspätung<NODE id="107" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="611546917349269505" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-18T14:52:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:48:54.121Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="39" endPos="47" type="location-route" surface="ME 81630" />
+<Entity id="1" startPos="52" endPos="60" type="location-stop" surface="Lüneburg" />
+<Entity id="2" startPos="66" endPos="73" type="location-stop" surface="Hamburg" />
+<Entity id="3" startPos="86" endPos="96" type="duration" surface="11 Minuten" />
+<Entity id="4" startPos="97" endPos="107" type="trigger" surface="Verspätung" /></Entities><Relations>
+<Relation id="5" NAME="Delay">
+<Entity id="3" label="delay" />
+<Entity id="2" label="end_loc" />
+<Entity id="1" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

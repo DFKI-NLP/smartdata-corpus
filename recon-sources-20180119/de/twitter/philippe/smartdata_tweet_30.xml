@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Korallenherz: .@afa170 Möchtet ihr vielleicht noch darauf hinweisen, dass ein Ableger auch in #<NODE id="99" />Dortmund<NODE id="107" /> auf die Straße geht? https://t.…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="718441762193346560" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="99" endPos="107" type="location-city" surface="Dortmund" /></Entities><Relations />
+</Document>

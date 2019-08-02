@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Sylt<NODE id="4" />: In <NODE id="9" />Westerland<NODE id="19" /> gibt es im Innenstadtbereich lange Staus wegen der Wartezeit bei der Autoverladung. Sie müssen mit <NODE id="119" />mehreren Stunden<NODE id="135" /> Verzögerung rechnen,.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#94@2016-05-08T15:09:13.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-08T13:09:13Z" />
+<feature featureName="indexDate" featureValue="2016-05-08T14:19:47.856Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="location" surface="Sylt" />
+<Entity id="1" startPos="9" endPos="19" type="location" surface="Westerland" />
+<Entity id="2" startPos="119" endPos="135" type="duration" surface="mehreren Stunden" /></Entities><Relations />
+</Document>

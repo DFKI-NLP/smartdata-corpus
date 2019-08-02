@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />welt<NODE id="8" />: <NODE id="10" />9000<NODE id="14" /> Entlassungen: Das ist die <NODE id="41" />erste<NODE id="46" /> Bilanz nach dem Putsch gegen <NODE id="76" />Erdogan<NODE id="83" /> https://t.co/yhMUGscjuD https://t.co/wpO3OfSTqS
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755187704980201476" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T23:49:14Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T23:49:24.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/941555874/status/755187704980201476" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="8" type="organization-company" surface="welt" />
+<Entity id="1" startPos="10" endPos="14" type="number" surface="9000" />
+<Entity id="2" startPos="41" endPos="46" type="number" surface="erste" />
+<Entity id="3" startPos="76" endPos="83" type="person" surface="Erdogan" /></Entities><Relations />
+</Document>

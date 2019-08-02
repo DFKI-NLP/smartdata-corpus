@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vor <NODE id="4" />47 Tagen<NODE id="12" />   <NODE id="15" />FOCUS Online<NODE id="27" />
+Mit <NODE id="32" />Streiks<NODE id="39" /> an verschiedenen Standorten will die Gewerkschaft <NODE id="90" />Verdi<NODE id="95" /> den Druck im Dauerkonflikt um einen Tarifvertrag auf <NODE id="149" />Amazon<NODE id="155" /> erhöhen, der Versandhandelsriese zeigt sich aber weiter unbeeindruckt.
+Trotz einer erneuten Welle von bundesweiten Protesten und Ausständen versicherte <NODE id="308" />Amazon<NODE id="314" />: „Die Kunden müssen sich keine Sorgen machen.“ Die Streiks hätten „keinerlei Auswirkungen“ auf pünktliche Lieferungen, sagte Unternehmenssprecherin <NODE id="463" />Anette Nachbar<NODE id="477" />.
+Die allermeisten der mehr als <NODE id="509" />10 000<NODE id="515" /> Beschäftigten und weiteren Saison-Aushilfen arbeiteten regulär, nur ein geringer Teil beteilige sich an den Streiks. Zudem verfüge das <NODE id="651" />US<NODE id="653" />-Unternehmen über ein <NODE id="675" />europaweites<NODE id="687" /> Logistik-Netzwerk, dass die Streiks kompensieren könne.
+<NODE id="744" />Verdi<NODE id="749" /> rief an <NODE id="758" />sieben<NODE id="764" /> Standorten zum <NODE id="780" />Streik<NODE id="786" /> auf: <NODE id="792" />Leipzig<NODE id="799" /> (<NODE id="801" />Sachsen<NODE id="808" />), <NODE id="811" />Koblenz<NODE id="818" /> (<NODE id="820" />Rheinland-Pfalz<NODE id="835" />), <NODE id="838" />Bad Hersfeld<NODE id="850" /> (<NODE id="852" />Hessen<NODE id="858" />), <NODE id="861" />Graben<NODE id="867" /> (<NODE id="869" />Bayern<NODE id="875" />), <NODE id="878" />Rheinberg<NODE id="887" /> und <NODE id="892" />Werne<NODE id="897" /> (beide <NODE id="905" />NRW<NODE id="908" />) sowie beim DVD-Verlei
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nachrichten.de/wirtschaft/Verdi-bestreikt-Amazon-Weihnachtsgeschaeft---Keinerlei-Auswirkungen-aid_6393018315254856434.html@2016-03-10T14:24:24.394+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:24:24.394Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:24:33.316Z" />
+<feature featureName="uri" featureValue="http://www.nachrichten.de/wirtschaft/Verdi-bestreikt-Amazon-Weihnachtsgeschaeft---Keinerlei-Auswirkungen-aid_6393018315254856434.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="12" type="date" surface="47 Tagen" />
+<Entity id="1" startPos="15" endPos="27" type="organization-company" surface="FOCUS Online" />
+<Entity id="2" startPos="32" endPos="39" type="trigger" surface="Streiks" />
+<Entity id="3" startPos="90" endPos="95" type="organization" surface="Verdi" />
+<Entity id="4" startPos="149" endPos="155" type="organization-company" surface="Amazon" />
+<Entity id="5" startPos="308" endPos="314" type="organization-company" surface="Amazon" />
+<Entity id="6" startPos="463" endPos="477" type="person" surface="Anette Nachbar" />
+<Entity id="7" startPos="509" endPos="515" type="number" surface="10 000" />
+<Entity id="8" startPos="651" endPos="653" type="location" surface="US" />
+<Entity id="9" startPos="675" endPos="687" type="location" surface="europaweites" />
+<Entity id="10" startPos="744" endPos="749" type="organization" surface="Verdi" />
+<Entity id="11" startPos="758" endPos="764" type="number" surface="sieben" />
+<Entity id="12" startPos="780" endPos="786" type="trigger" surface="Streik" />
+<Entity id="13" startPos="792" endPos="799" type="location-city" surface="Leipzig" />
+<Entity id="14" startPos="801" endPos="808" type="location" surface="Sachsen" />
+<Entity id="15" startPos="811" endPos="818" type="location-city" surface="Koblenz" />
+<Entity id="16" startPos="820" endPos="835" type="location" surface="Rheinland-Pfalz" />
+<Entity id="17" startPos="838" endPos="850" type="location-city" surface="Bad Hersfeld" />
+<Entity id="18" startPos="852" endPos="858" type="location" surface="Hessen" />
+<Entity id="19" startPos="861" endPos="867" type="location-city" surface="Graben" />
+<Entity id="20" startPos="869" endPos="875" type="location" surface="Bayern" />
+<Entity id="21" startPos="878" endPos="887" type="location-city" surface="Rheinberg" />
+<Entity id="22" startPos="892" endPos="897" type="location-city" surface="Werne" />
+<Entity id="23" startPos="905" endPos="908" type="location" surface="NRW" /></Entities><Relations>
+<Relation id="24" NAME="Strike">
+<Entity id="4" label="company" />
+<Entity id="2" label="trigger" />
+<Entity id="3" label="union" />
+</Relation>
+<Relation id="25" NAME="Strike">
+<Entity id="15" label="location" />
+<Entity id="17" label="location" />
+<Entity id="21" label="location" />
+<Entity id="19" label="location" />
+<Entity id="13" label="location" />
+<Entity id="22" label="location" />
+<Entity id="10" label="union" />
+<Entity id="12" label="trigger" />
+</Relation></Relations>
+</Document>

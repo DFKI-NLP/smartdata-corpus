@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>https://t.co/vZgcxqGJzt <NODE id="24" />Schneesturm<NODE id="35" />, Autobahn, sehe kaum die Spur, Herz pocht doch @<NODE id="84" />Julien_Bam<NODE id="94" /> half mir ruhe zu bewahren mit seinem Cover &#x1f613;&#x1f633;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668494174661050374" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-22T18:20:05Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:07:34.12Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="24" endPos="35" type="disaster-type" surface="Schneesturm" />
+<Entity id="1" startPos="84" endPos="94" type="person" surface="Julien_Bam" /></Entities><Relations />
+</Document>

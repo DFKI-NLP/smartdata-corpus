@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Hoffentlich ist morgen kein Stau auf der <NODE id="41" />A1<NODE id="43" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="664881214566866944" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-12T19:03:29Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:37:15.728Z" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="41" endPos="43" type="location-street" surface="A1" /></Entities><Relations />
+</Document>

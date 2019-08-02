@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>E-Mail
+Tödliches Autorennen in <NODE id="31" />Ludwigshafen<NODE id="43" /> Fahrer von <NODE id="55" />zweitem<NODE id="62" /> beteiligten Fahrzeug ermittelt
+Nach dem tödlichen <NODE id="113" />Unfall<NODE id="119" /> bei einem illegalen Autorennen in der Nacht hat die Polizei möglicherweise den Fahrer des <NODE id="210" />zweiten<NODE id="217" /> beteiligten Fahrzeugs ermittelt. Er wird noch vernommen.
+Um das Video     abspielen zu können, benötigen Sie Javascript. Bitte aktivieren Sie dies in Ihrem Browser.
+<NODE id="383" />0:56 min<NODE id="391" /> | <NODE id="394" />Fr<NODE id="396" />, <NODE id="398" />8.1.2016<NODE id="406" /> | <NODE id="409" />16.00 Uhr<NODE id="418" /> | <NODE id="421" />SWR<NODE id="424" /> Fernsehen in <NODE id="438" />Rheinland-Pfalz<NODE id="453" />
+Mehr Info
+<NODE id="464" />Unfall<NODE id="470" /> nach Autorennen in <NODE id="490" />Ludwigshafen<NODE id="502" />
+Junge Frau stirbt
+Eine junge Frau ist in <NODE id="544" />Ludwigshafen<NODE id="556" /> tödlich verunglückt, <NODE id="578" />drei<NODE id="582" /> weitere Autoinsassen wurden verletzt - offenbar hatte sich der Fahrer des Wagens an einem Autorennen beteiligt.
+Zunächst war von einem illegalen Autorennen die Rede gewesen. Dabei sollen <NODE id="770" />zwei<NODE id="774" /> Fahrzeuge nach einem Stopp an einer Ampel mit hohem Tempo den <NODE id="837" />Kaiserwörthdamm<NODE id="852" /> in <NODE id="856" />Ludwigshafen<NODE id="868" /> entlang gerast sein. Laut Augenzeugenberichten sollen sich die beiden Fahrze
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.swr.de/landesschau-aktuell/rp/unfall-in-ludwigshafen-frau-stirbt-bei-mutmasslichem-autorennen/-/id=1682/did=16761152/nid=1682/1782j2h/@2016-03-10T14:06:09.126+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.swr.de/landesschau-aktuell/rp/unfall-in-ludwigshafen-frau-stirbt-bei-mutmasslichem-autorennen/-/id=1682/did=16761152/nid=1682/1782j2h/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="31" endPos="43" type="location-city" surface="Ludwigshafen" />
+<Entity id="1" startPos="55" endPos="62" type="number" surface="zweitem" />
+<Entity id="2" startPos="113" endPos="119" type="trigger" surface="Unfall" />
+<Entity id="3" startPos="210" endPos="217" type="number" surface="zweiten" />
+<Entity id="4" startPos="383" endPos="391" type="duration" surface="0:56 min" />
+<Entity id="5" startPos="394" endPos="396" type="date" surface="Fr" />
+<Entity id="6" startPos="398" endPos="406" type="date" surface="8.1.2016" />
+<Entity id="7" startPos="409" endPos="418" type="time" surface="16.00 Uhr" />
+<Entity id="8" startPos="421" endPos="424" type="organization-company" surface="SWR" />
+<Entity id="9" startPos="438" endPos="453" type="location" surface="Rheinland-Pfalz" />
+<Entity id="10" startPos="464" endPos="470" type="trigger" surface="Unfall" />
+<Entity id="11" startPos="490" endPos="502" type="location" surface="Ludwigshafen" />
+<Entity id="12" startPos="544" endPos="556" type="location" surface="Ludwigshafen" />
+<Entity id="13" startPos="578" endPos="582" type="number" surface="drei" />
+<Entity id="14" startPos="770" endPos="774" type="number" surface="zwei" />
+<Entity id="15" startPos="837" endPos="852" type="location-street" surface="Kaiserwörthdamm" />
+<Entity id="16" startPos="856" endPos="868" type="location-city" surface="Ludwigshafen" /></Entities><Relations>
+<Relation id="17" NAME="Accident">
+<Entity id="11" label="location" />
+<Entity id="10" label="trigger" />
+</Relation></Relations>
+</Document>

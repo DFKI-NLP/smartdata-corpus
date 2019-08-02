@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />12.12.2015<NODE id="10" /> - <NODE id="13" />02:25 Uhr<NODE id="22" />
+<NODE id="23" />BASF<NODE id="27" />: Haben starke Position
+<NODE id="51" />Ludwigshafen<NODE id="63" />. Der <NODE id="69" />Ludwigshafener<NODE id="83" /> Chemiekonzern <NODE id="98" />BASF<NODE id="102" /> hat sich angesichts der <NODE id="127" />Fusion<NODE id="133" /> der Konkurrenten <NODE id="151" />Dupont<NODE id="157" /> und <NODE id="162" />Dow Chemical<NODE id="174" /> zur weltweiten Nummer <NODE id="197" />eins<NODE id="201" /> gelassen gezeigt. Wir sehen keine signifikante Überschneidung in…
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.direktbroker.de/news/basf-haben-starke-position-47391892@2015-12-12T02:25:31.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-12T01:25:31Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T02:34:32.952Z" />
+<feature featureName="uri" featureValue="http://www.direktbroker.de/news/basf-haben-starke-position-47391892" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="12.12.2015" />
+<Entity id="1" startPos="13" endPos="22" type="time" surface="02:25 Uhr" />
+<Entity id="2" startPos="23" endPos="27" type="organization-company" surface="BASF" />
+<Entity id="3" startPos="51" endPos="63" type="location-city" surface="Ludwigshafen" />
+<Entity id="4" startPos="69" endPos="83" type="location-city" surface="Ludwigshafener" />
+<Entity id="5" startPos="98" endPos="102" type="organization-company" surface="BASF" />
+<Entity id="6" startPos="127" endPos="133" type="trigger" surface="Fusion" />
+<Entity id="7" startPos="151" endPos="157" type="organization-company" surface="Dupont" />
+<Entity id="8" startPos="162" endPos="174" type="organization-company" surface="Dow Chemical" />
+<Entity id="9" startPos="197" endPos="201" type="number" surface="eins" /></Entities><Relations>
+<Relation id="10" NAME="Merger">
+<Entity id="7" label="old" />
+<Entity id="8" label="old" />
+<Entity id="6" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />Regio_NRW<NODE id="13" />: #<NODE id="16" />RB53<NODE id="20" />. #Stellwerksausfall in #<NODE id="45" />Kalthof<NODE id="52" />. Ein #Schienenersatzverkehr mit mehreren Bussen wurde bestellt. Ein Bus ist schon unte…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="617002937991217153" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-07-03T16:12:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T17:30:24.119Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="13" type="organization-company" surface="Regio_NRW" />
+<Entity id="1" startPos="16" endPos="20" type="location-route" surface="RB53" />
+<Entity id="2" startPos="45" endPos="52" type="location" surface="Kalthof" /></Entities><Relations />
+</Document>

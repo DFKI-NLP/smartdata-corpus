@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Achtung bitte in <NODE id="17" />beiden RIchtungen<NODE id="34" /> auf der <NODE id="43" />A7<NODE id="45" /> <NODE id="46" />Fulda<NODE id="51" /> - <NODE id="54" />Kassel<NODE id="60" /> zwischen <NODE id="70" />Melsungen<NODE id="79" /> und <NODE id="84" />Guxhagen<NODE id="92" /> sind Personen auf der Fahrbahn!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#0@2016-04-09T01:14:09.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="34" type="location" surface="beiden RIchtungen" />
+<Entity id="1" startPos="43" endPos="45" type="location-street" surface="A7" />
+<Entity id="2" startPos="46" endPos="51" type="location-city" surface="Fulda" />
+<Entity id="3" startPos="54" endPos="60" type="location-city" surface="Kassel" />
+<Entity id="4" startPos="70" endPos="79" type="location" surface="Melsungen" />
+<Entity id="5" startPos="84" endPos="92" type="location" surface="Guxhagen" /></Entities><Relations />
+</Document>

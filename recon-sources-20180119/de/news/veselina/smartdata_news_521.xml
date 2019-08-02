@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />30.12.15<NODE id="8" />
+<NODE id="9" />Biker-Patrouille gegen Plünderer in <NODE id="45" />England<NODE id="52" />
+<NODE id="53" />Hebden Bridge<NODE id="66" />, 30.12.15:<NODE id="77" /> <NODE id="78" />Nach den schweren Überschwemmungen in <NODE id="116" />Nordengland<NODE id="127" /> sind Möbel und anderer Hausrat ein gefundenes Fressen für Diebe.<NODE id="192" /> <NODE id="193" />Die Motorradclubs in der Grafschaft Yorkshire schicken ihre Mitglieder jetzt auf Patrouille gegen Plünderer.<NODE id="301" />
+<NODE id="302" />Nach den schweren <NODE id="320" />Überschwemmungen<NODE id="336" /> in <NODE id="340" />Nordengland<NODE id="351" /> sind Möbel und anderer Hausrat ein gefundenes Fressen für Diebe.<NODE id="416" /> <NODE id="417" />Die Motorradclubs in der Grafschaft <NODE id="453" />Yorkshire<NODE id="462" /> wollen Plünderern den Garaus machen und schicken ihre Mitglieder auf Patrouille - mit Erfolg.<NODE id="556" />O-Ton <NODE id="562" />Kath Dearden<NODE id="574" />, <NODE id="576" />Motorradclub Pyeratz<NODE id="596" />:Letzte Nacht haben wir drei oder vier Leute gejagt.<NODE id="648" /> <NODE id="649" />Bis zum Morgen haben wir fünf Leute dingfest gemacht und heute Nacht werden es hoffentlich noch mehr.<NODE id="750" />Ihre geliebten Feuerstühle lassen die Gang-Mitglieder in der Garage und gehen zu Fuß auf Streife.<NODE id="847" /> <NODE id="848" />Die Polizei ist überfordert und dankbar für die Hilfe.<NODE id="902" /> <NODE id="903" />Die Bewohner müssen sich erst noch<NODE id="937" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://video.tagesspiegel.de/4679908261001@2016-03-10T14:21:22.315+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:21:22.315Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:21:23.317Z" />
+<feature featureName="uri" featureValue="http://video.tagesspiegel.de/4679908261001" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="sentence" surface="30.12.15" />
+<Entity id="1" startPos="9" endPos="52" type="sentence" surface="Biker-Patrouille gegen Plünderer in England" />
+<Entity id="2" startPos="45" endPos="52" type="location" surface="England" />
+<Entity id="3" startPos="53" endPos="66" type="location" surface="Hebden Bridge" />
+<Entity id="4" startPos="53" endPos="77" type="sentence" surface="Hebden Bridge, 30.12.15:" />
+<Entity id="5" startPos="78" endPos="192" type="sentence" surface="Nach den schweren Überschwemmungen in Nordengland sind Möbel und anderer Hausrat ein gefundenes Fressen für Diebe." />
+<Entity id="6" startPos="116" endPos="127" type="location" surface="Nordengland" />
+<Entity id="7" startPos="193" endPos="301" type="sentence" surface="Die Motorradclubs in der Grafschaft Yorkshire schicken ihre Mitglieder jetzt auf Patrouille gegen Plünderer." />
+<Entity id="8" startPos="302" endPos="416" type="sentence" surface="Nach den schweren Überschwemmungen in Nordengland sind Möbel und anderer Hausrat ein gefundenes Fressen für Diebe." />
+<Entity id="9" startPos="320" endPos="336" type="disaster-type" surface="Überschwemmungen" />
+<Entity id="10" startPos="340" endPos="351" type="location" surface="Nordengland" />
+<Entity id="11" startPos="417" endPos="556" type="sentence" surface="Die Motorradclubs in der Grafschaft Yorkshire wollen Plünderern den Garaus machen und schicken ihre Mitglieder auf Patrouille - mit Erfolg." />
+<Entity id="12" startPos="453" endPos="462" type="location" surface="Yorkshire" />
+<Entity id="13" startPos="556" endPos="648" type="sentence" surface="O-Ton Kath Dearden, Motorradclub Pyeratz:Letzte Nacht haben wir drei oder vier Leute gejagt." />
+<Entity id="14" startPos="562" endPos="574" type="person" surface="Kath Dearden" />
+<Entity id="15" startPos="576" endPos="596" type="organization" surface="Motorradclub Pyeratz" />
+<Entity id="16" startPos="649" endPos="750" type="sentence" surface="Bis zum Morgen haben wir fünf Leute dingfest gemacht und heute Nacht werden es hoffentlich noch mehr." />
+<Entity id="17" startPos="750" endPos="847" type="sentence" surface="Ihre geliebten Feuerstühle lassen die Gang-Mitglieder in der Garage und gehen zu Fuß auf Streife." />
+<Entity id="18" startPos="848" endPos="902" type="sentence" surface="Die Polizei ist überfordert und dankbar für die Hilfe." />
+<Entity id="19" startPos="903" endPos="937" type="sentence" surface="Die Bewohner müssen sich erst noch" /></Entities><Relations>
+<Relation id="20" NAME="Disaster">
+<Entity id="10" label="location" />
+<Entity id="9" label="type" />
+</Relation></Relations>
+</Document>

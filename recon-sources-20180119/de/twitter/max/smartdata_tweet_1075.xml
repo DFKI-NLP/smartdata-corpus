@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @adrianaeloca: <NODE id="18" />6,9<NODE id="21" /> auf der Richterskala | Schweres <NODE id="54" />Erdbeben<NODE id="62" /> vor #<NODE id="68" />Vanuatu<NODE id="75" />... https://t.co/enIb3G8DtN
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745198436966752257" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-21T10:15:27Z" />
+<feature featureName="indexDate" featureValue="2016-06-21T10:15:37.143Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="21" type="number" surface="6,9" />
+<Entity id="1" startPos="54" endPos="62" type="disaster-type" surface="Erdbeben" />
+<Entity id="2" startPos="68" endPos="75" type="location" surface="Vanuatu" /></Entities><Relations>
+<Relation id="3" NAME="Disaster">
+<Entity id="2" label="location" />
+<Entity id="1" label="type" />
+</Relation></Relations>
+</Document>

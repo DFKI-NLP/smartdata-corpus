@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />IFM<NODE id="3" /> will <NODE id="9" />Flughafen Wien<NODE id="23" />-Beteiligung auf <NODE id="40" />39,9 Prozent<NODE id="52" /> erhöhen – Aktie hebt ab
+Gelände <NODE id="85" />Flughafen Wien<NODE id="99" /> / Bild: WB/Rohrauer
+Der <NODE id="124" />australische<NODE id="136" /> Pensionsfonds <NODE id="151" />IFM<NODE id="154" /> will seinen Anteil am <NODE id="177" />Flughafen <NODE id="187" />Wien<NODE id="191" /> um bis zu <NODE id="202" />10 Prozent<NODE id="212" /> erhöhen und bietet den Aktionären in einem freiwilligen öffentlichen Angebot <NODE id="290" />100 Euro<NODE id="298" /> pro Aktie. test
+Mehr A A A
+Der <NODE id="330" />australische<NODE id="342" /> Pensionsfonds <NODE id="357" />IFM<NODE id="360" /> will seinen Anteil am <NODE id="383" />Flughafen <NODE id="393" />Wien<NODE id="397" /> um bis zu <NODE id="408" />10 Prozent<NODE id="418" /> erhöhen und bietet den Aktionären in einem freiwilligen öffentlichen Angebot <NODE id="496" />100 Euro<NODE id="504" /> pro Aktie.
+Dies entspricht plus <NODE id="537" />20,9 Prozent<NODE id="549" /> gegenüber dem Schlusskurs vom <NODE id="580" />vergangenen Freitag<NODE id="599" /> und plus <NODE id="609" />24,2 Prozent<NODE id="621" /> gegenüber dem Durchschnittskurs für den letzten Monat. <NODE id="677" />IFM<NODE id="680" /> hält derzeit <NODE id="694" />29,9 Prozent<NODE id="706" /> am Flughafen.
+Das öffentliche Angebot wird von <NODE id="754" />Airports Group Europe S.à r.l.<NODE id="784" /> (<NODE id="786" />Airports Group Europe<NODE id="807" />), einer indirekten <NODE id="827" />Tochtergesellschaft<NODE id="846" /> von <NODE id="851" />IFM Global Infrastructure Fund<NODE id="881" /> (<NODE id="883" />IFM GIF<NODE id="890" />), abgegeben werden, teilte der Pensionsfonds am <NODE id="939" />Montag<NODE id="945" /> mit.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://wirtschaftsblatt.at/home/boerse/wien/4945525/IFM-will-Flughafen-WienBeteiligung-auf-399-Prozent-erhohen-Aktie?from=rss@2016-03-14T10:12:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://wirtschaftsblatt.at/home/boerse/wien/4945525/IFM-will-Flughafen-WienBeteiligung-auf-399-Prozent-erhohen-Aktie?from=rss" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization-company" surface="IFM" />
+<Entity id="1" startPos="9" endPos="23" type="organization-company" surface="Flughafen Wien" />
+<Entity id="2" startPos="40" endPos="52" type="number" surface="39,9 Prozent" />
+<Entity id="3" startPos="85" endPos="99" type="organization-company" surface="Flughafen Wien" />
+<Entity id="4" startPos="124" endPos="136" type="location" surface="australische" />
+<Entity id="5" startPos="151" endPos="154" type="organization-company" surface="IFM" />
+<Entity id="6" startPos="177" endPos="191" type="organization-company" surface="Flughafen Wien" />
+<Entity id="7" startPos="187" endPos="191" type="location-city" surface="Wien" />
+<Entity id="8" startPos="202" endPos="212" type="number" surface="10 Prozent" />
+<Entity id="9" startPos="290" endPos="298" type="number" surface="100 Euro" />
+<Entity id="10" startPos="330" endPos="342" type="location" surface="australische" />
+<Entity id="11" startPos="357" endPos="360" type="organization-company" surface="IFM" />
+<Entity id="12" startPos="383" endPos="397" type="organization-company" surface="Flughafen Wien" />
+<Entity id="13" startPos="393" endPos="397" type="location-city" surface="Wien" />
+<Entity id="14" startPos="408" endPos="418" type="number" surface="10 Prozent" />
+<Entity id="15" startPos="496" endPos="504" type="number" surface="100 Euro" />
+<Entity id="16" startPos="537" endPos="549" type="number" surface="20,9 Prozent" />
+<Entity id="17" startPos="580" endPos="599" type="date" surface="vergangenen Freitag" />
+<Entity id="18" startPos="609" endPos="621" type="number" surface="24,2 Prozent" />
+<Entity id="19" startPos="677" endPos="680" type="organization-company" surface="IFM" />
+<Entity id="20" startPos="694" endPos="706" type="number" surface="29,9 Prozent" />
+<Entity id="21" startPos="754" endPos="784" type="organization-company" surface="Airports Group Europe S.à r.l." />
+<Entity id="22" startPos="786" endPos="807" type="organization-company" surface="Airports Group Europe" />
+<Entity id="23" startPos="827" endPos="846" type="trigger" surface="Tochtergesellschaft" />
+<Entity id="24" startPos="851" endPos="881" type="organization-company" surface="IFM Global Infrastructure Fund" />
+<Entity id="25" startPos="883" endPos="890" type="organization-company" surface="IFM GIF" />
+<Entity id="26" startPos="939" endPos="945" type="date" surface="Montag" /></Entities><Relations>
+<Relation id="27" NAME="SpinOff">
+<Entity id="24" label="parent" />
+<Entity id="23" label="trigger" />
+<Entity id="21" label="child" />
+</Relation></Relations>
+</Document>

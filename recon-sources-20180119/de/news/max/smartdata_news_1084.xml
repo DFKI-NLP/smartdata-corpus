@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Mirrors:
+<NODE id="9" />5<NODE id="10" />
+CSI: Den Tätern auf der Spur (CSI: Crime Scene Investigation) ist eine <NODE id="82" />US-amerikanische<NODE id="98" /> Fernsehserie, in der es um die Arbeit einer speziellen Abteilung innerhalb der Polizei geht (Crime Scene Investigation), die an Tatorten von Verbrechen Beweise und Spuren sichert. Die Serie, deren Handlung in <NODE id="308" />Las Vegas<NODE id="317" /> (<NODE id="319" />Nevada<NODE id="325" />) spielt, startete in den <NODE id="351" />USA<NODE id="354" /> im <NODE id="358" />September 2000 <NODE id="373" />und läuft seitdem auf dem Sender <NODE id="406" />CBS<NODE id="409" />. Dort erreicht sie höchste Einschaltquoten. Auch in <NODE id="462" />Europa<NODE id="468" /> ist die Serie sehr beliebt.
+Hintergrund:
+<NODE id="510" />Jerry Bruckheimer<NODE id="527" /> produzierte mit CSI einen Quotenhit, der nicht nur in den <NODE id="586" />USA<NODE id="589" /> große Quotenerfolge feiert. Besonders die unglaubliche Nähe zu der Detektivarbeit der Polizei sowie die skurrilen Charaktere und Fälle haben dazu beigetragen. Schnelle Schnittfolgen verschaffen den sonst eher drögen Laborszenen das nötige Tempo. Computeranimierte Grafiken veranschaulichen auch unkundigen Zuschauern die Arbeitsweise und Erklärungen der auf dem aktuellst
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://serien.3dl.tv/download/1147528/CSI_Las_Vegas_S15E10_Man_stirbt_nur_zweimal/detail.html@2016-03-11T21:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T20:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T09:45:21.929Z" />
+<feature featureName="uri" featureValue="http://serien.3dl.tv/download/1147528/CSI_Las_Vegas_S15E10_Man_stirbt_nur_zweimal/detail.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="10" type="number" surface="5" />
+<Entity id="1" startPos="82" endPos="98" type="location" surface="US-amerikanische" />
+<Entity id="2" startPos="308" endPos="317" type="location-city" surface="Las Vegas" />
+<Entity id="3" startPos="319" endPos="325" type="location" surface="Nevada" />
+<Entity id="4" startPos="351" endPos="354" type="location" surface="USA" />
+<Entity id="5" startPos="358" endPos="373" type="date" surface="September 2000 " />
+<Entity id="6" startPos="406" endPos="409" type="organization-company" surface="CBS" />
+<Entity id="7" startPos="462" endPos="468" type="location" surface="Europa" />
+<Entity id="8" startPos="510" endPos="527" type="person" surface="Jerry Bruckheimer" />
+<Entity id="9" startPos="586" endPos="589" type="location" surface="USA" /></Entities><Relations />
+</Document>

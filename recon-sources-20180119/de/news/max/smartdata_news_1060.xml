@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Heftiges <NODE id="9" />Erdbeben<NODE id="17" /> in <NODE id="21" />Ecuador<NODE id="28" /> - viele Tote
+ 
+Jetzt weiterlesen und mehr erfahren
+Wenn Sie diesen Inhalt vollständig lesen möchten, benötigen Sie einen kostenpflichtigen Zugang zu unserer Webseite. Wählen Sie einfach aus einem der folgenden Angebote aus.
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.helmstedter-nachrichten.de/ticker_deutschlandwelt/heftiges-erdbeben-in-ecuador-viele-tote-id2261706.html@2016-04-17T06:52:01.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-17T04:52:01Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T20:22:53.053Z" />
+<feature featureName="uri" featureValue="http://www.helmstedter-nachrichten.de/ticker_deutschlandwelt/heftiges-erdbeben-in-ecuador-viele-tote-id2261706.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="17" type="disaster-type" surface="Erdbeben" />
+<Entity id="1" startPos="21" endPos="28" type="location" surface="Ecuador" /></Entities><Relations>
+<Relation id="2" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="type" />
+</Relation></Relations>
+</Document>

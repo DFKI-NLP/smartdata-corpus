@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Sie sind noch nicht angemeldet<NODE id="30" />  <NODE id="32" />Login  |  Registrierung  |  Newsletter<NODE id="70" />
+<NODE id="71" />Nach <NODE id="76" />Alstom<NODE id="82" />-Deal<NODE id="87" />
+<NODE id="88" />GE<NODE id="90" /> <NODE id="91" />streicht Stellen<NODE id="107" /> in <NODE id="111" />Europa<NODE id="117" />
+<NODE id="118" />13.01.16 | Autor / Redakteur: <NODE id="148" />dpa<NODE id="151" /> / <NODE id="154" />Stefan Liebing<NODE id="168" />
+<NODE id="169" />Teilen auf:<NODE id="180" />
+<NODE id="181" />Drucken<NODE id="188" />
+<NODE id="189" />Ein Schild mit der Aufschrift <NODE id="219" />Alstom<NODE id="225" /> vor einem Firmengebäude des Konzerns <NODE id="263" />General Electric<NODE id="279" /> in <NODE id="283" />Mannheim<NODE id="291" />.<NODE id="292" /> <NODE id="293" />Der Konzern <NODE id="305" />General Electric<NODE id="321" /> (<NODE id="323" />GE<NODE id="325" />) stellt einige der im vergangenen Jahr von <NODE id="369" />Alstom<NODE id="375" /> übernommenen Standorte in <NODE id="402" />Deutschland<NODE id="413" /> auf den Prüfstand.<NODE id="432" /> <NODE id="433" />(Bild: <NODE id="440" />dpa<NODE id="443" /> - Bildfunk)<NODE id="455" />
+<NODE id="456" />Mit einem spektakulären Milliarden-Deal <NODE id="496" />schnappt<NODE id="504" /> <NODE id="505" />US<NODE id="507" />-Konzern <NODE id="516" />General Electric<NODE id="532" /> <NODE id="533" />Siemens<NODE id="540" /> die Energiesparte der französischen <NODE id="577" />Alstom<NODE id="583" /> vor der Nase weg.<NODE id="601" /> <NODE id="602" />Nun geht es ans Einsparen: In <NODE id="632" />Europa<NODE id="638" /> stehen 6500 Jobs infrage.<NODE id="664" />
+<NODE id="665" />Nach der umkämpften <NODE id="685" />Milliarden-Übernahme<NODE id="705" /> der Energiesparte des <NODE id="728" />französischen<NODE id="741" /> Konzerns <NODE id="751" />Alstom<NODE id="757" /> will der <NODE id="767" />US<NODE id="769" />-Konzern <NODE id="778" />General Electric<NODE id="794" /> (<NODE id="796" />GE<NODE id="798" />) nun in <NODE id="807" />Europa<NODE id="813" /> <NODE id="814" />6500 Stellen<NODE id="826" /> <NODE id="827" />streichen<NODE id="836" />.<NODE id="837" /> <NODE id="838" />Das bestätigte ein <NODE id="857" />GE<NODE id="859" />-Sprecher der <NODE id="873" />Deutschen Presse-Agentur<NODE id="897" /> in <NODE id="901" />Paris<NODE id="906" />.<NODE id="907" /> <NODE id="908" />In <NODE id="911" />Deutschland<NODE id="922" /> sind nach Angaben des Unternehmens bis zu 1<NODE id="966" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.elektronikpraxis.vogel.de/themen/elektronikmanagement/strategieunternehmensfuehrung/articles/517665@2016-03-10T12:30:16.437+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:30:16.437Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:30:23.316Z" />
+<feature featureName="uri" featureValue="http://www.elektronikpraxis.vogel.de/themen/elektronikmanagement/strategieunternehmensfuehrung/articles/517665" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="30" type="sentence" surface="Sie sind noch nicht angemeldet" />
+<Entity id="1" startPos="32" endPos="70" type="sentence" surface="Login  |  Registrierung  |  Newsletter" />
+<Entity id="2" startPos="71" endPos="87" type="sentence" surface="Nach Alstom-Deal" />
+<Entity id="3" startPos="76" endPos="82" type="organization-company" surface="Alstom" />
+<Entity id="4" startPos="88" endPos="90" type="organization-company" surface="GE" />
+<Entity id="5" startPos="88" endPos="117" type="sentence" surface="GE streicht Stellen in Europa" />
+<Entity id="6" startPos="91" endPos="107" type="trigger" surface="streicht Stellen" />
+<Entity id="7" startPos="111" endPos="117" type="location" surface="Europa" />
+<Entity id="8" startPos="118" endPos="168" type="sentence" surface="13.01.16 | Autor / Redakteur: dpa / Stefan Liebing" />
+<Entity id="9" startPos="148" endPos="151" type="organization-company" surface="dpa" />
+<Entity id="10" startPos="154" endPos="168" type="person" surface="Stefan Liebing" />
+<Entity id="11" startPos="169" endPos="180" type="sentence" surface="Teilen auf:" />
+<Entity id="12" startPos="181" endPos="188" type="sentence" surface="Drucken" />
+<Entity id="13" startPos="189" endPos="292" type="sentence" surface="Ein Schild mit der Aufschrift Alstom vor einem Firmengebäude des Konzerns General Electric in Mannheim." />
+<Entity id="14" startPos="219" endPos="225" type="organization-company" surface="Alstom" />
+<Entity id="15" startPos="263" endPos="279" type="organization-company" surface="General Electric" />
+<Entity id="16" startPos="283" endPos="291" type="location-city" surface="Mannheim" />
+<Entity id="17" startPos="293" endPos="432" type="sentence" surface="Der Konzern General Electric (GE) stellt einige der im vergangenen Jahr von Alstom übernommenen Standorte in Deutschland auf den Prüfstand." />
+<Entity id="18" startPos="305" endPos="321" type="organization-company" surface="General Electric" />
+<Entity id="19" startPos="323" endPos="325" type="organization-company" surface="GE" />
+<Entity id="20" startPos="369" endPos="375" type="organization-company" surface="Alstom" />
+<Entity id="21" startPos="402" endPos="413" type="location" surface="Deutschland" />
+<Entity id="22" startPos="433" endPos="455" type="sentence" surface="(Bild: dpa - Bildfunk)" />
+<Entity id="23" startPos="440" endPos="443" type="organization-company" surface="dpa" />
+<Entity id="24" startPos="456" endPos="601" type="sentence" surface="Mit einem spektakulären Milliarden-Deal schnappt US-Konzern General Electric Siemens die Energiesparte der französischen Alstom vor der Nase weg." />
+<Entity id="25" startPos="496" endPos="504" type="trigger" surface="schnappt" />
+<Entity id="26" startPos="505" endPos="507" type="location" surface="US" />
+<Entity id="27" startPos="516" endPos="532" type="organization-company" surface="General Electric" />
+<Entity id="28" startPos="533" endPos="540" type="organization-company" surface="Siemens" />
+<Entity id="29" startPos="577" endPos="583" type="organization-company" surface="Alstom" />
+<Entity id="30" startPos="602" endPos="664" type="sentence" surface="Nun geht es ans Einsparen: In Europa stehen 6500 Jobs infrage." />
+<Entity id="31" startPos="632" endPos="638" type="location" surface="Europa" />
+<Entity id="32" startPos="665" endPos="837" type="sentence" surface="Nach der umkämpften Milliarden-Übernahme der Energiesparte des französischen Konzerns Alstom will der US-Konzern General Electric (GE) nun in Europa 6500 Stellen streichen." />
+<Entity id="33" startPos="685" endPos="705" type="trigger" surface="Milliarden-Übernahme" />
+<Entity id="34" startPos="728" endPos="741" type="location" surface="französischen" />
+<Entity id="35" startPos="751" endPos="757" type="organization-company" surface="Alstom" />
+<Entity id="36" startPos="767" endPos="769" type="location" surface="US" />
+<Entity id="37" startPos="778" endPos="794" type="organization-company" surface="General Electric" />
+<Entity id="38" startPos="796" endPos="798" type="organization-company" surface="GE" />
+<Entity id="39" startPos="807" endPos="813" type="location" surface="Europa" />
+<Entity id="40" startPos="814" endPos="826" type="number" surface="6500 Stellen" />
+<Entity id="41" startPos="827" endPos="836" type="trigger" surface="streichen" />
+<Entity id="42" startPos="838" endPos="907" type="sentence" surface="Das bestätigte ein GE-Sprecher der Deutschen Presse-Agentur in Paris." />
+<Entity id="43" startPos="857" endPos="859" type="organization-company" surface="GE" />
+<Entity id="44" startPos="873" endPos="897" type="organization-company" surface="Deutschen Presse-Agentur" />
+<Entity id="45" startPos="901" endPos="906" type="location" surface="Paris" />
+<Entity id="46" startPos="908" endPos="966" type="sentence" surface="In Deutschland sind nach Angaben des Unternehmens bis zu 1" />
+<Entity id="47" startPos="911" endPos="922" type="location" surface="Deutschland" /></Entities><Relations>
+<Relation id="48" NAME="Acquisition">
+<Entity id="25" label="trigger" />
+<Entity id="29" label="acquired" />
+<Entity id="27" label="buyer" />
+</Relation>
+<Relation id="49" NAME="Acquisition">
+<Entity id="33" label="trigger" />
+<Entity id="35" label="acquired" />
+<Entity id="37" label="buyer" />
+</Relation>
+<Relation id="50" NAME="Layoffs">
+<Entity id="7" label="location" />
+<Entity id="4" label="company" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="51" NAME="Layoffs">
+<Entity id="40" label="num_laid_off" />
+<Entity id="37" label="company" />
+<Entity id="39" label="location" />
+<Entity id="41" label="trigger" />
+</Relation></Relations>
+</Document>

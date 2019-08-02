@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Pannenserie vor und nach <NODE id="25" />Unfall<NODE id="31" />: <NODE id="33" />Zwölf<NODE id="38" /> Verletzte #<NODE id="50" />Ichenhausen<NODE id="61" /> #<NODE id="63" />Günzburg<NODE id="71" /> https://t.co/ovUMawVobR
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754659005063131136" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T12:48:22Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T12:48:29.878Z" />
+<feature featureName="uri" featureValue="https://twitter.com/24150568/status/754659005063131136" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="25" endPos="31" type="trigger" surface="Unfall" />
+<Entity id="1" startPos="33" endPos="38" type="number" surface="Zwölf" />
+<Entity id="2" startPos="50" endPos="61" type="location-city" surface="Ichenhausen" />
+<Entity id="3" startPos="63" endPos="71" type="location-city" surface="Günzburg" /></Entities><Relations>
+<Relation id="4" NAME="Accident">
+<Entity id="2" label="location" />
+<Entity id="3" label="location" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

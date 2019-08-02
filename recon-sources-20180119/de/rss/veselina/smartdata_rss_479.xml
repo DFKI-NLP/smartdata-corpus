@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Stuttgart-Bad Cannstatt<NODE id="23" />, <NODE id="25" />Parkhaus Wilhelma<NODE id="42" /> alle Parkplätze besetzt, P+R anfahren und öffentliche Verkehrsmittel benutzen, bis <NODE id="126" />09.04.2016<NODE id="136" /> <NODE id="137" />ca. 16:00 Uhr<NODE id="150" /> oder nutzen Sie das <NODE id="171" />Parkhaus Mahle<NODE id="185" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=c245bc4f-8979-477a-abb6-c8e5a22ce59e@2016-04-09T12:17:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-09T10:17:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-09T12:41:33.204Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=c245bc4f-8979-477a-abb6-c8e5a22ce59e" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="23" type="location" surface="Stuttgart-Bad Cannstatt" />
+<Entity id="1" startPos="25" endPos="42" type="location" surface="Parkhaus Wilhelma" />
+<Entity id="2" startPos="126" endPos="136" type="date" surface="09.04.2016" />
+<Entity id="3" startPos="137" endPos="150" type="time" surface="ca. 16:00 Uhr" />
+<Entity id="4" startPos="171" endPos="185" type="location" surface="Parkhaus Mahle" /></Entities><Relations />
+</Document>

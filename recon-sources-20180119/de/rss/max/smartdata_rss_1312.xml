@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />L191<NODE id="4" /> <NODE id="5" />Geisingen<NODE id="14" /> - <NODE id="17" />Stein am Rhein<NODE id="31" /> (<NODE id="33" />CH<NODE id="35" />) zwischen <NODE id="46" />Mühlhausen<NODE id="56" /> und <NODE id="61" />Singen (Hohentwiel)<NODE id="80" /> in <NODE id="84" />beiden Richtungen<NODE id="101" /> Achtung, Ihnen kommt <NODE id="123" />1<NODE id="124" /> Falschfahrer entgegen, nicht überholen, Vorsicht auf beiden Richtungsfahrbahnen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=961d389b-f059-4835-a9f7-9d6c3f0e65e8@2016-07-18T08:12:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T06:12:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T07:14:40.911Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=961d389b-f059-4835-a9f7-9d6c3f0e65e8" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="location-street" surface="L191" />
+<Entity id="1" startPos="5" endPos="14" type="location-city" surface="Geisingen" />
+<Entity id="2" startPos="17" endPos="31" type="location-city" surface="Stein am Rhein" />
+<Entity id="3" startPos="33" endPos="35" type="location" surface="CH" />
+<Entity id="4" startPos="46" endPos="56" type="location" surface="Mühlhausen" />
+<Entity id="5" startPos="61" endPos="80" type="location" surface="Singen (Hohentwiel)" />
+<Entity id="6" startPos="84" endPos="101" type="location" surface="beiden Richtungen" />
+<Entity id="7" startPos="123" endPos="124" type="number" surface="1" /></Entities><Relations />
+</Document>

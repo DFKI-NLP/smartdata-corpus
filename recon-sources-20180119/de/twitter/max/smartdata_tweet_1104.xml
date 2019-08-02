@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />OliverKahn<NODE id="14" />: Trotz Streik am <NODE id="32" />Flughafen München<NODE id="49" /> geht's jetzt nach <NODE id="68" />Madrid<NODE id="74" />. Die Fans des @<NODE id="90" />FCBayern<NODE id="98" /> sind zuversichtlich. #<NODE id="121" />Atleti<NODE id="127" />FCB<NODE id="130" /> https://…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="725252081393737729" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-27T09:15:45Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T09:43:49.902Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2893273826/status/725252081393737729" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="person" surface="OliverKahn" />
+<Entity id="1" startPos="32" endPos="49" type="location-stop" surface="Flughafen München" />
+<Entity id="2" startPos="68" endPos="74" type="location-city" surface="Madrid" />
+<Entity id="3" startPos="90" endPos="98" type="organization" surface="FCBayern" />
+<Entity id="4" startPos="121" endPos="127" type="organization" surface="Atleti" />
+<Entity id="5" startPos="127" endPos="130" type="organization" surface="FCB" /></Entities><Relations />
+</Document>

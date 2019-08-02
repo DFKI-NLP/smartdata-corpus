@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />RT @<NODE id="4" />BILD<NODE id="8" />:<NODE id="9" /> <NODE id="10" />Deutsches<NODE id="19" /> <NODE id="20" />Erdbeben<NODE id="28" />-Opfer in <NODE id="38" />Ecuador<NODE id="45" />: <NODE id="47" />Nené<NODE id="51" /> (<NODE id="53" />16<NODE id="55" />) starb mit ihrer Gastfamilie.<NODE id="85" />
+<NODE id="86" />https://t.co/JzyRhjLUqQ https://t.co/ZNtV9jjcbd<NODE id="133" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="723407370206896128" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-22T07:05:31Z" />
+<feature featureName="indexDate" featureValue="2016-04-22T07:05:45.034Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="sentence" surface="RT @BILD:" />
+<Entity id="1" startPos="4" endPos="8" type="organization-company" surface="BILD" />
+<Entity id="2" startPos="10" endPos="19" type="location" surface="Deutsches" />
+<Entity id="3" startPos="10" endPos="85" type="sentence" surface="Deutsches Erdbeben-Opfer in Ecuador: Nené (16) starb mit ihrer Gastfamilie." />
+<Entity id="4" startPos="20" endPos="28" type="disaster-type" surface="Erdbeben" />
+<Entity id="5" startPos="38" endPos="45" type="location" surface="Ecuador" />
+<Entity id="6" startPos="47" endPos="51" type="person" surface="Nené" />
+<Entity id="7" startPos="53" endPos="55" type="number" surface="16" />
+<Entity id="8" startPos="86" endPos="133" type="sentence" surface="https://t.co/JzyRhjLUqQ https://t.co/ZNtV9jjcbd" /></Entities><Relations>
+<Relation id="9" NAME="Disaster">
+<Entity id="5" label="location" />
+<Entity id="4" label="type" />
+</Relation></Relations>
+</Document>

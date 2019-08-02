@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Kesselwagenzug entgleist – <NODE id="27" />Schienenersatzverkehr<NODE id="48" /> zw. <NODE id="53" />Stettin<NODE id="60" /> &amp; <NODE id="63" />Swinemünde<NODE id="73" />: Wie aus <NODE id="83" />polnischen<NODE id="93" /> Medien zu erfahren… http://t.co/VUmhxzpLx7
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="628130400100052992" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-03T09:08:52Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:24:34.121Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="27" endPos="48" type="trigger" surface="Schienenersatzverkehr" />
+<Entity id="1" startPos="53" endPos="60" type="location-stop" surface="Stettin" />
+<Entity id="2" startPos="63" endPos="73" type="location-stop" surface="Swinemünde" />
+<Entity id="3" startPos="83" endPos="93" type="location" surface="polnischen" /></Entities><Relations />
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />StN_News<NODE id="9" /> Um <NODE id="13" />8.30<NODE id="17" /> war das Maximum der Verspätungen noch nicht überschritten, wie diese Diagramme belegen https://t.co/vf44SY1GCk #<NODE id="130" />SBahnStgt<NODE id="139" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670145676425211904" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-27T07:42:34Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:18:34.122Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="9" type="organization-company" surface="StN_News" />
+<Entity id="1" startPos="13" endPos="17" type="time" surface="8.30" />
+<Entity id="2" startPos="130" endPos="139" type="organization-company" surface="SBahnStgt" /></Entities><Relations />
+</Document>

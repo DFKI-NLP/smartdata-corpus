@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @F_Edits: <NODE id="13" />Dimitri Payet<NODE id="26" /> mobile wallpaper
+#<NODE id="45" />FRA<NODE id="48" /> #EURO2016 @dimpayet17 https://t.co/g6WvBcaDSw
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743414294423838720" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T12:05:54Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T12:05:58.516Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Karthik Narayan/status/743414294423838720" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="13" endPos="26" type="person" surface="Dimitri Payet" />
+<Entity id="1" startPos="45" endPos="48" type="organization" surface="FRA" /></Entities><Relations />
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Beschreibung des Fehlers*
+gültige E-Mail-Adresse fehlt
+Gugus – Dada . Haha, wie lustig ist doch der Dadaismus. Jux und Tollerei. Man witzelt sich zu Tode. Dabei war der Dadaismus die gewaltigste Attacke gegen unser Denken und Fühlen.
+Nie zuvor wurde die Negation all unserer Werte so radikal durchgespielt wie <NODE id="310" />1916<NODE id="314" /> im <NODE id="318" />Cabaret Voltaire<NODE id="334" /> an der <NODE id="342" />Spiegelgasse 1<NODE id="356" /> in <NODE id="360" />Zürich<NODE id="366" />. Wir stehen nun, zu Beginn des Jubeljahrs, vor einer gigantischen Wiederverwertung, der Umwertung des Negativen ins Positive. Sogar <NODE id="499" />Zürich<NODE id="505" /> Tourismus hat Dada als Standortvorteil unserer Stadt entdeckt. Und ­<NODE id="574" />Nicolas Hayek<NODE id="587" /> von <NODE id="592" />Swatch<NODE id="598" />, die das <NODE id="608" />Cabaret Voltaire<NODE id="624" /> fallen liess, plaudert von «positiver Provokation». Wird das Negative nun in einem Massengrab des Spassspiessertums versenkt?
+«Dada Universal». So lautet der Titel der Ausstellung im Landesmuseum, die ich als Co-Kurator in Szene setze. Gehöre ich damit auch zu den Totengräbern jener Bewegung, gegen die alle aktuellen Tabubrecher wie Mustersc
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://tagesanzeiger.ch/kultur/kunst/Das-grosse-Nein-des-Dadaismus/story/23251828@2016-03-10T13:22:05.723+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://tagesanzeiger.ch/kultur/kunst/Das-grosse-Nein-des-Dadaismus/story/23251828" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="310" endPos="314" type="date" surface="1916" />
+<Entity id="1" startPos="318" endPos="334" type="location" surface="Cabaret Voltaire" />
+<Entity id="2" startPos="342" endPos="356" type="location-street" surface="Spiegelgasse 1" />
+<Entity id="3" startPos="360" endPos="366" type="location-city" surface="Zürich" />
+<Entity id="4" startPos="499" endPos="505" type="location-city" surface="Zürich" />
+<Entity id="5" startPos="574" endPos="587" type="person" surface="Nicolas Hayek" />
+<Entity id="6" startPos="592" endPos="598" type="organization-company" surface="Swatch" />
+<Entity id="7" startPos="608" endPos="624" type="location" surface="Cabaret Voltaire" /></Entities><Relations />
+</Document>

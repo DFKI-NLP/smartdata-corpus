@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>von <NODE id="4" />Dienstag, 26. <NODE id="18" />bis <NODE id="22" />Donnerstag, 28. April<NODE id="43" />, jeweils <NODE id="53" />22.25<NODE id="58" /> – <NODE id="61" />23.00 Uhr<NODE id="70" />
+Meldung:
+<NODE id="80" />IC 2030<NODE id="87" /> nach <NODE id="93" />Hannover Hbf<NODE id="105" /> (<NODE id="107" />19.20<NODE id="112" /> Uhr ab <NODE id="120" />Dresden Hbf<NODE id="131" />) <NODE id="133" />verspätet sich<NODE id="147" /> von <NODE id="152" />Helmstedt<NODE id="161" /> bis <NODE id="166" />Braunschweig Hbf<NODE id="182" /> um <NODE id="186" />13 Min.<NODE id="193" />
+Grund:
+Oberbauarbeiten <NODE id="217" />Helmstedt<NODE id="226" /> – <NODE id="229" />Königslutter<NODE id="241" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="311" />188<NODE id="314" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_56-Norddeich_Emden-Oldenburg-Bremen-Hannover-Magdeburg-Leipzig_Cottbus/30#a3e5ea52b41296cc774cfaba7c00450734a96916@2016-04-28T22:51:57.724+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-28T20:51:57.724Z" />
+<feature featureName="indexDate" featureValue="2016-04-28T20:52:08.183Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_56-Norddeich_Emden-Oldenburg-Bremen-Hannover-Magdeburg-Leipzig_Cottbus/30#a3e5ea52b41296cc774cfaba7c00450734a96916" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="18" type="date" surface="Dienstag, 26. " />
+<Entity id="1" startPos="22" endPos="43" type="date" surface="Donnerstag, 28. April" />
+<Entity id="2" startPos="53" endPos="58" type="time" surface="22.25" />
+<Entity id="3" startPos="61" endPos="70" type="time" surface="23.00 Uhr" />
+<Entity id="4" startPos="80" endPos="87" type="location-route" surface="IC 2030" />
+<Entity id="5" startPos="93" endPos="105" type="location-stop" surface="Hannover Hbf" />
+<Entity id="6" startPos="107" endPos="112" type="date" surface="19.20" />
+<Entity id="7" startPos="120" endPos="131" type="location-stop" surface="Dresden Hbf" />
+<Entity id="8" startPos="133" endPos="147" type="trigger" surface="verspätet sich" />
+<Entity id="9" startPos="152" endPos="161" type="location-stop" surface="Helmstedt" />
+<Entity id="10" startPos="166" endPos="182" type="location-stop" surface="Braunschweig Hbf" />
+<Entity id="11" startPos="186" endPos="193" type="duration" surface="13 Min." />
+<Entity id="12" startPos="217" endPos="226" type="location-stop" surface="Helmstedt" />
+<Entity id="13" startPos="229" endPos="241" type="location-stop" surface="Königslutter" />
+<Entity id="14" startPos="311" endPos="314" type="number" surface="188" /></Entities><Relations>
+<Relation id="15" NAME="Delay">
+<Entity id="4" label="location" />
+<Entity id="8" label="trigger" />
+<Entity id="10" label="end_loc" />
+<Entity id="5" label="direction" />
+<Entity id="11" label="delay" />
+<Entity id="9" label="end_loc" />
+</Relation></Relations>
+</Document>

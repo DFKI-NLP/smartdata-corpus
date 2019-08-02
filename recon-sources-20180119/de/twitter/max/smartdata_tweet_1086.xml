@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wer heute Abend in #<NODE id="20" />Muenchen<NODE id="28" /> ausgehen möchte, sollte gerade nicht auf die #<NODE id="75" />SBahn<NODE id="80" /> bauen: Streckensperrung an der <NODE id="112" />Hackerbrücke<NODE id="124" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="698198818874122244" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-12T17:35:44Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T04:50:41.877Z" />
+<feature featureName="uri" featureValue="https://twitter.com/712999507/status/698198818874122244" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="28" type="location-city" surface="Muenchen" />
+<Entity id="1" startPos="75" endPos="80" type="organization-company" surface="SBahn" />
+<Entity id="2" startPos="112" endPos="124" type="location-stop" surface="Hackerbrücke" /></Entities><Relations />
+</Document>

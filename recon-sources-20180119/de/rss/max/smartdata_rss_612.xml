@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>folgende Meldung ergänzt
+von <NODE id="29" />Sonntag<NODE id="36" />, <NODE id="38" />5. Juni<NODE id="45" />, <NODE id="47" />13.55 Uhr<NODE id="56" /> bis <NODE id="61" />Montag<NODE id="67" />, <NODE id="69" />20. Juni<NODE id="77" />, <NODE id="79" />12.00 Uhr<NODE id="88" />
+Meldung:
+ Die <NODE id="103" />IC-Züge<NODE id="110" /> <NODE id="111" />fallen<NODE id="117" /> zwischen <NODE id="127" />Augsburg Hbf<NODE id="139" /> und <NODE id="144" />Oberstdorf<NODE id="154" /> <NODE id="155" />aus<NODE id="158" />.
+ Die <NODE id="165" />IC-Züge<NODE id="172" /> enden/beginnen in <NODE id="191" />München-Pasing <NODE id="206" />und <NODE id="210" />fallen<NODE id="216" /> zwischen <NODE id="226" />München-Pasing<NODE id="240" /> und <NODE id="245" />Berchtesgaden Hbf <NODE id="263" />aus<NODE id="266" />.
+ Als Ersatz fahren Busse zwischen <NODE id="302" />Freilassing<NODE id="313" /> und <NODE id="318" />Berchtesgaden Hbf<NODE id="335" />.
+Grund:
+Gleiserneuerung
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="429" />199<NODE id="432" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_26-Binz_-_Stralsund_Westerland-Hamburg-Hannover-Giessen-Frankfurt_M-Karlsruhe_Nuernberg-Oberstdorf_Passau_Muenchen_Berchtesgaden_/11#05d43ed3cf17306a6cd30d2004e23b8a597926a1@2016-04-15T15:06:05.180+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-15T13:06:05.18Z" />
+<feature featureName="indexDate" featureValue="2016-04-15T13:06:11.062Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_26-Binz_-_Stralsund_Westerland-Hamburg-Hannover-Giessen-Frankfurt_M-Karlsruhe_Nuernberg-Oberstdorf_Passau_Muenchen_Berchtesgaden_/11#05d43ed3cf17306a6cd30d2004e23b8a597926a1" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="29" endPos="36" type="date" surface="Sonntag" />
+<Entity id="1" startPos="38" endPos="45" type="date" surface="5. Juni" />
+<Entity id="2" startPos="47" endPos="56" type="time" surface="13.55 Uhr" />
+<Entity id="3" startPos="61" endPos="67" type="date" surface="Montag" />
+<Entity id="4" startPos="69" endPos="77" type="date" surface="20. Juni" />
+<Entity id="5" startPos="79" endPos="88" type="time" surface="12.00 Uhr" />
+<Entity id="6" startPos="103" endPos="110" type="location-route" surface="IC-Züge" />
+<Entity id="7" startPos="111" endPos="117" type="trigger" surface="fallen" />
+<Entity id="8" startPos="127" endPos="139" type="location-stop" surface="Augsburg Hbf" />
+<Entity id="9" startPos="144" endPos="154" type="location-stop" surface="Oberstdorf" />
+<Entity id="10" startPos="155" endPos="158" type="trigger" surface="aus" />
+<Entity id="11" startPos="165" endPos="172" type="location-route" surface="IC-Züge" />
+<Entity id="12" startPos="191" endPos="206" type="location-stop" surface="München-Pasing " />
+<Entity id="13" startPos="210" endPos="216" type="trigger" surface="fallen" />
+<Entity id="14" startPos="226" endPos="240" type="location-stop" surface="München-Pasing" />
+<Entity id="15" startPos="245" endPos="263" type="location-stop" surface="Berchtesgaden Hbf " />
+<Entity id="16" startPos="263" endPos="266" type="trigger" surface="aus" />
+<Entity id="17" startPos="302" endPos="313" type="location-stop" surface="Freilassing" />
+<Entity id="18" startPos="318" endPos="335" type="location-stop" surface="Berchtesgaden Hbf" />
+<Entity id="19" startPos="429" endPos="432" type="number" surface="199" /></Entities><Relations>
+<Relation id="20" NAME="CanceledRoute">
+<Entity id="9" label="end_loc" />
+<Entity id="8" label="start_loc" />
+<Entity id="6" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="10" label="trigger" />
+</Relation>
+<Relation id="21" NAME="CanceledRoute">
+<Entity id="15" label="end_loc" />
+<Entity id="14" label="start_loc" />
+<Entity id="11" label="location" />
+<Entity id="13" label="trigger" />
+<Entity id="16" label="trigger" />
+</Relation></Relations>
+</Document>

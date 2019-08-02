@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Das ist das erste mal dass ich bei meinem Zug Verspätung erlebe :D <NODE id="67" />Nord-West-Bahn<NODE id="81" /> for the Win! \o/
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666263310845747201" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-16T14:35:26Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:48:34.12Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="67" endPos="81" type="organization-company" surface="Nord-West-Bahn" /></Entities><Relations />
+</Document>

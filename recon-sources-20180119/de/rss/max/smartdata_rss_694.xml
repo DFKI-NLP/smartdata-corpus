@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sonstiges
+Abschnitt: <NODE id="21" />Charlottenburg<NODE id="35" /> (<NODE id="37" />Berlin<NODE id="43" />)
+Gültig ab: <NODE id="56" />24.03.2016<NODE id="66" /> <NODE id="67" />12:41<NODE id="72" />
+Fahrbahn auf <NODE id="86" />zwei<NODE id="90" /> Fahrstreifen verengt, Arbeiten an Gasleitungen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_61391@2016-03-24T12:41:41.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-24T11:41:41Z" />
+<feature featureName="indexDate" featureValue="2016-03-25T18:00:45.528Z" />
+<feature featureName="uri" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_61391" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="21" endPos="35" type="location" surface="Charlottenburg" />
+<Entity id="1" startPos="37" endPos="43" type="location-city" surface="Berlin" />
+<Entity id="2" startPos="56" endPos="66" type="date" surface="24.03.2016" />
+<Entity id="3" startPos="67" endPos="72" type="time" surface="12:41" />
+<Entity id="4" startPos="86" endPos="90" type="number" surface="zwei" /></Entities><Relations />
+</Document>

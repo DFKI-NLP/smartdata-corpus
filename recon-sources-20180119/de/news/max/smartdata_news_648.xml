@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Nieding+Barth<NODE id="13" />: <NODE id="15" />German Pellets<NODE id="29" /> <NODE id="30" />Insolvenz<NODE id="39" /> zieht immer weitere Kreise
+<NODE id="67" />25.02.16<NODE id="75" /> <NODE id="76" />12:58<NODE id="81" />
+anleihencheck.de
+<NODE id="99" />Bad Marienberg <NODE id="114" />(www.anleihencheck.de) - Die <NODE id="143" />Insolvenz<NODE id="152" /> der <NODE id="157" />German Pellets GmbH <NODE id="177" />wird immer undurchsichtiger, so die <NODE id="213" />Nieding+Barth<NODE id="226" /> Rechtsanwaltsaktiengesellschaft in einer aktuellen Pressemitteilung. Näheres entnehmen Sie bitte dem Wortlaut der folgenden Pressemeldung:
+Jetzt hat das zuständige Gericht auch bei etlichen Tochterunternehmen die vorläufige Insolvenzverwaltung angeordnet. Betroffen sind die <NODE id="502" />German Pellets Genussrechte GmbH<NODE id="534" />, die <NODE id="540" />German Pellets Beteiligungs GmbH<NODE id="572" />, die <NODE id="578" />German Pellets Supply GmbH &amp; Co. KG<NODE id="613" /> und die <NODE id="622" />German Pellets Sachsen<NODE id="644" />. Nach wie vor tappen die Anleger völlig im Dunkeln, wie die finanzielle Situation bei <NODE id="731" />German Pellets <NODE id="746" />wirklich aussieht. Es ist daher wichtig, dass die Anleger sich organisieren, um ihre Rechte im Insolvenzverfahren zu wahren, sagt <NODE id="876" />Klaus Nieding<NODE id="889" />, <NODE id="891" />Vorstand<NODE id="899" /> der <NODE id="904" />Nieding+Barth<NODE id="917" /> Rechtsanwaltsaktiengesell
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.anleihencheck.de/news/Artikel-Nieding_Barth_German_Pellets_Insolvenz_zieht_immer_weitere_Kreise-7042470@2016-02-25T13:51:28.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-25T12:51:28Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T07:08:22.951Z" />
+<feature featureName="uri" featureValue="http://www.anleihencheck.de/news/Artikel-Nieding_Barth_German_Pellets_Insolvenz_zieht_immer_weitere_Kreise-7042470" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="organization-company" surface="Nieding+Barth" />
+<Entity id="1" startPos="15" endPos="29" type="organization-company" surface="German Pellets" />
+<Entity id="2" startPos="30" endPos="39" type="trigger" surface="Insolvenz" />
+<Entity id="3" startPos="67" endPos="75" type="date" surface="25.02.16" />
+<Entity id="4" startPos="76" endPos="81" type="time" surface="12:58" />
+<Entity id="5" startPos="99" endPos="114" type="location-city" surface="Bad Marienberg " />
+<Entity id="6" startPos="143" endPos="152" type="trigger" surface="Insolvenz" />
+<Entity id="7" startPos="157" endPos="177" type="organization-company" surface="German Pellets GmbH " />
+<Entity id="8" startPos="213" endPos="226" type="organization-company" surface="Nieding+Barth" />
+<Entity id="9" startPos="502" endPos="534" type="organization-company" surface="German Pellets Genussrechte GmbH" />
+<Entity id="10" startPos="540" endPos="572" type="organization-company" surface="German Pellets Beteiligungs GmbH" />
+<Entity id="11" startPos="578" endPos="613" type="organization-company" surface="German Pellets Supply GmbH &amp; Co. KG" />
+<Entity id="12" startPos="622" endPos="644" type="organization-company" surface="German Pellets Sachsen" />
+<Entity id="13" startPos="731" endPos="746" type="organization-company" surface="German Pellets " />
+<Entity id="14" startPos="876" endPos="889" type="person" surface="Klaus Nieding" />
+<Entity id="15" startPos="891" endPos="899" type="org-position" surface="Vorstand" />
+<Entity id="16" startPos="904" endPos="917" type="organization-company" surface="Nieding+Barth" /></Entities><Relations>
+<Relation id="17" NAME="Insolvency">
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="18" NAME="Insolvency">
+<Entity id="7" label="company" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="19" NAME="OrganizationLeadership">
+<Entity id="14" label="person" />
+<Entity id="16" label="organization" />
+<Entity id="15" label="position" />
+</Relation></Relations>
+</Document>

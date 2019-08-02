@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />LAUGNA<NODE id="6" />: <NODE id="8" />Unfall<NODE id="14" /> in <NODE id="18" />Talstraße<NODE id="27" /> - Nur Sachschaden
+#<NODE id="47" />Laugna<NODE id="53" /> #Unfall
+https://t.co/xGiPyycLtT
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="749660674608037889" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-03T17:46:47Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T07:10:37.805Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2536175689/status/749660674608037889" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="location-city" surface="LAUGNA" />
+<Entity id="1" startPos="8" endPos="14" type="trigger" surface="Unfall" />
+<Entity id="2" startPos="18" endPos="27" type="location-street" surface="Talstraße" />
+<Entity id="3" startPos="47" endPos="53" type="location-city" surface="Laugna" /></Entities><Relations>
+<Relation id="4" NAME="Accident">
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

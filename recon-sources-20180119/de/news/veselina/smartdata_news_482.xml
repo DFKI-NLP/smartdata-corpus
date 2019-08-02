@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Lufthansa<NODE id="9" />-Aktie: wird aus leichtem SINKFLUG eine Bruchlandung?<NODE id="62" />
+<NODE id="63" />16:51 14.01.16<NODE id="77" />
+<NODE id="78" />Lieber Leser,
+hatte es sich bei dem Titel der <NODE id="124" />Kranich-Airline<NODE id="139" /> vergangene Woche noch um die Überflieger-Aktie des Dax gehalten, kam in dieser Woche wieder die Ernüchterung zum Tragen.<NODE id="260" /> <NODE id="261" />Wurde am Mittwoch vergangener Woche  noch bei 15,35 Euro der höchste Stand seit Februar letzten Jahres erreicht, wurde der Handel eine Woche später bei 14,50 Euro eröffnet, im Tagesverlauf gab die Aktie wieder etwas nach.<NODE id="482" /> <NODE id="483" />Deutschlands<NODE id="495" /> größte Fluggesellschaft<NODE id="519" /> hatte zwar für das Jahr <NODE id="544" />2015<NODE id="548" /> trotz <NODE id="555" />Streiks<NODE id="562" /> einen Passagierrekord gemeldet, war in einer Statistik der sichersten Airlines weltweit jedoch nur auf Platz 12 gelandet.<NODE id="684" />
+<NODE id="685" />Bei der <NODE id="693" />Investmentbank Equinet<NODE id="715" /> wurde auf die Veröffentlichung der Passagierzahlen reagiert, in dem die Kaufempfehlung mit einem Kursziel von 20 Euro beibehalten wurde.<NODE id="852" /> <NODE id="853" />Analyst <NODE id="861" />Jochen Rothenbacher<NODE id="880" /> lobte den neuen Rekord der Fluggesellschaft, der negative Preistren<NODE id="948" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://ariva.de/news/kolumnen/Lufthansa-Aktie-wird-aus-leichtem-SINKFLUG-eine-Bruchlandung-5614843@2016-03-10T15:12:53.733+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:12:53.733Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:13:03.487Z" />
+<feature featureName="uri" featureValue="http://ariva.de/news/kolumnen/Lufthansa-Aktie-wird-aus-leichtem-SINKFLUG-eine-Bruchlandung-5614843" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="organization-company" surface="Lufthansa" />
+<Entity id="1" startPos="0" endPos="62" type="sentence" surface="Lufthansa-Aktie: wird aus leichtem SINKFLUG eine Bruchlandung?" />
+<Entity id="2" startPos="63" endPos="77" type="sentence" surface="16:51 14.01.16" />
+<Entity id="3" startPos="78" endPos="260" type="sentence" surface="Lieber Leser,&#xA;hatte es sich bei dem Titel der Kranich-Airline vergangene Woche noch um die Überflieger-Aktie des Dax gehalten, kam in dieser Woche wieder die Ernüchterung zum Tragen." />
+<Entity id="4" startPos="124" endPos="139" type="organization-company" surface="Kranich-Airline" />
+<Entity id="5" startPos="261" endPos="482" type="sentence" surface="Wurde am Mittwoch vergangener Woche  noch bei 15,35 Euro der höchste Stand seit Februar letzten Jahres erreicht, wurde der Handel eine Woche später bei 14,50 Euro eröffnet, im Tagesverlauf gab die Aktie wieder etwas nach." />
+<Entity id="6" startPos="483" endPos="495" type="location" surface="Deutschlands" />
+<Entity id="7" startPos="483" endPos="519" type="organization-company" surface="Deutschlands größte Fluggesellschaft" />
+<Entity id="8" startPos="483" endPos="684" type="sentence" surface="Deutschlands größte Fluggesellschaft hatte zwar für das Jahr 2015 trotz Streiks einen Passagierrekord gemeldet, war in einer Statistik der sichersten Airlines weltweit jedoch nur auf Platz 12 gelandet." />
+<Entity id="9" startPos="544" endPos="548" type="date" surface="2015" />
+<Entity id="10" startPos="555" endPos="562" type="trigger" surface="Streiks" />
+<Entity id="11" startPos="685" endPos="852" type="sentence" surface="Bei der Investmentbank Equinet wurde auf die Veröffentlichung der Passagierzahlen reagiert, in dem die Kaufempfehlung mit einem Kursziel von 20 Euro beibehalten wurde." />
+<Entity id="12" startPos="693" endPos="715" type="organization-company" surface="Investmentbank Equinet" />
+<Entity id="13" startPos="853" endPos="948" type="sentence" surface="Analyst Jochen Rothenbacher lobte den neuen Rekord der Fluggesellschaft, der negative Preistren" />
+<Entity id="14" startPos="861" endPos="880" type="person" surface="Jochen Rothenbacher" /></Entities><Relations>
+<Relation id="15" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="7" label="target" />
+<Entity id="4" label="target" />
+</Relation>
+<Relation id="16" NAME="Strike">
+<Entity id="9" label="date" />
+<Entity id="7" label="company" />
+<Entity id="10" label="trigger" />
+</Relation></Relations>
+</Document>

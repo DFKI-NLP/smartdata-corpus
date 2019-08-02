@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Prof. <NODE id="6" />A. Zegelin<NODE id="16" /> über Widerstand und Streik der Pflegenden https://t.co/oYsism5Tpl
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="750878871457767425" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-07T02:27:28Z" />
+<feature featureName="indexDate" featureValue="2016-07-07T02:27:37.299Z" />
+<feature featureName="uri" featureValue="https://twitter.com/1259584082/status/750878871457767425" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="16" type="person" surface="A. Zegelin" /></Entities><Relations />
+</Document>

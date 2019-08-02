@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bei <NODE id="4" />Lufthansa Technik<NODE id="21" /> droht <NODE id="28" />Stellenabbau<NODE id="40" />
+Bei <NODE id="45" />Lufthansa Technik<NODE id="62" /> droht <NODE id="69" />Stellenabbau<NODE id="81" />
+<NODE id="82" />25.03.16<NODE id="90" />, <NODE id="92" />18:57<NODE id="97" /> Uhr
+<NODE id="102" />twitter<NODE id="109" />
+<NODE id="110" />Hamburg<NODE id="117" /> -
+Bei der Technik-Tochter des <NODE id="148" />Lufthansa<NODE id="157" />-Konzerns droht ein Stellenabbau in <NODE id="193" />Deutschland<NODE id="204" />. Für die Bereiche Flugzeugüberholung und Triebwerksinstandhaltung liefen seit einigen Wochen Gespräche zwischen der Konzernleitung von <NODE id="340" />Lufthansa Technik<NODE id="357" />, Gewerkschaften und Betriebsrat, sagte ein Unternehmenssprecher in <NODE id="425" />Hamburg<NODE id="432" />. Der «<NODE id="439" />Spiegel<NODE id="446" />» hatte vorher über einen drohenden Arbeitsplatzabbau berichtet. Bei der Triebwerksinstandhaltung mit rund <NODE id="553" />1700<NODE id="557" /> Beschäftigten gehe es etwa um eine Anhebung der Wochenarbeitszeit und flexible Arbeitszeiten. (dpa)
+Kommentare
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.berliner-zeitung.de/bei-lufthansa-technik-droht-stellenabbau-23785346@2016-03-25T19:17:59.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-25T18:17:59Z" />
+<feature featureName="indexDate" featureValue="2016-03-25T18:53:01.935Z" />
+<feature featureName="uri" featureValue="http://www.berliner-zeitung.de/bei-lufthansa-technik-droht-stellenabbau-23785346" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="21" type="organization-company" surface="Lufthansa Technik" />
+<Entity id="1" startPos="28" endPos="40" type="trigger" surface="Stellenabbau" />
+<Entity id="2" startPos="45" endPos="62" type="organization-company" surface="Lufthansa Technik" />
+<Entity id="3" startPos="69" endPos="81" type="trigger" surface="Stellenabbau" />
+<Entity id="4" startPos="82" endPos="90" type="date" surface="25.03.16" />
+<Entity id="5" startPos="92" endPos="97" type="date" surface="18:57" />
+<Entity id="6" startPos="102" endPos="109" type="organization-company" surface="twitter" />
+<Entity id="7" startPos="110" endPos="117" type="location-city" surface="Hamburg" />
+<Entity id="8" startPos="148" endPos="157" type="organization-company" surface="Lufthansa" />
+<Entity id="9" startPos="193" endPos="204" type="location" surface="Deutschland" />
+<Entity id="10" startPos="340" endPos="357" type="organization-company" surface="Lufthansa Technik" />
+<Entity id="11" startPos="425" endPos="432" type="location-city" surface="Hamburg" />
+<Entity id="12" startPos="439" endPos="446" type="organization-company" surface="Spiegel" />
+<Entity id="13" startPos="553" endPos="557" type="number" surface="1700" /></Entities><Relations>
+<Relation id="14" NAME="Layoffs">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

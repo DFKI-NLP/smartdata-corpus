@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Tweet
+   Von <NODE id="13" />William Boston<NODE id="27" />
+   <NODE id="31" />BERLIN<NODE id="37" /> (Dow Jones)-- <NODE id="52" />Daimler<NODE id="59" /> expandiert mit seiner Mobilitätsdienstleistungs-<NODE id="108" />Tochter<NODE id="115" /> <NODE id="116" />Moovel<NODE id="122" /> in die <NODE id="130" />USA<NODE id="133" />. Der Schritt zeigt beispielhaft, wie Autobauer sich von ihrer traditionellen Autoproduktion weg zum Geschäft mit Transport-Apps und anderen Dienstleistungen bewegen.
+   Die <NODE id="307" />Moovel Group GmbH<NODE id="324" /> dürfte am heutigen <NODE id="344" />Donnerstag<NODE id="354" /> die Gründung einer <NODE id="374" />US<NODE id="376" />-Tochter bekannt geben: Die <NODE id="404" />Moovel North America LLC<NODE id="428" /> entsteht durch die <NODE id="448" />Fusion<NODE id="454" /> des bereits zu <NODE id="470" />Moovel<NODE id="476" /> gehörigen Start-Ups <NODE id="497" />RideScout<NODE id="506" /> aus <NODE id="511" />Austin<NODE id="517" />, <NODE id="519" />Texas<NODE id="524" />, das App-Nutzern die schnellsten öffentlichen Verkehrsverbindungen aufzeigt, mit dem mobilen Ticket-Service <NODE id="633" />GlobeSherpa<NODE id="644" /> aus <NODE id="649" />Portland<NODE id="657" />, <NODE id="659" />Oregon<NODE id="665" />.
+   Angesichts des Wachstum von Carsharing-Diensten, wie dem der <NODE id="731" />Moovel<NODE id="737" />-<NODE id="738" />Tochter<NODE id="745" /> <NODE id="746" />Car2Go<NODE id="752" /> oder dem des Fahrtdienstvermittlers <NODE id="789" />Uber<NODE id="793" />, haben Automobilkonzerne begonnen, auch in technologische Startups zu investieren, die transportnahe Dienste anbieten. Unter den Konzernen verbreitet sich die 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzen.at/nachrichten/aktien/Daimler-Tochter-Moovel-expandiert-in-die-USA-1001149798@2016-04-14T15:07:47.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-14T13:07:47Z" />
+<feature featureName="indexDate" featureValue="2016-04-14T13:23:58.925Z" />
+<feature featureName="uri" featureValue="http://www.finanzen.at/nachrichten/aktien/Daimler-Tochter-Moovel-expandiert-in-die-USA-1001149798" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="13" endPos="27" type="person" surface="William Boston" />
+<Entity id="1" startPos="31" endPos="37" type="location-city" surface="BERLIN" />
+<Entity id="2" startPos="52" endPos="59" type="organization-company" surface="Daimler" />
+<Entity id="3" startPos="108" endPos="115" type="trigger" surface="Tochter" />
+<Entity id="4" startPos="116" endPos="122" type="organization-company" surface="Moovel" />
+<Entity id="5" startPos="130" endPos="133" type="location" surface="USA" />
+<Entity id="6" startPos="307" endPos="324" type="organization-company" surface="Moovel Group GmbH" />
+<Entity id="7" startPos="344" endPos="354" type="date" surface="Donnerstag" />
+<Entity id="8" startPos="374" endPos="376" type="location" surface="US" />
+<Entity id="9" startPos="404" endPos="428" type="organization-company" surface="Moovel North America LLC" />
+<Entity id="10" startPos="448" endPos="454" type="trigger" surface="Fusion" />
+<Entity id="11" startPos="470" endPos="476" type="organization-company" surface="Moovel" />
+<Entity id="12" startPos="497" endPos="506" type="organization-company" surface="RideScout" />
+<Entity id="13" startPos="511" endPos="517" type="location-city" surface="Austin" />
+<Entity id="14" startPos="519" endPos="524" type="location" surface="Texas" />
+<Entity id="15" startPos="633" endPos="644" type="organization-company" surface="GlobeSherpa" />
+<Entity id="16" startPos="649" endPos="657" type="location-city" surface="Portland" />
+<Entity id="17" startPos="659" endPos="665" type="location" surface="Oregon" />
+<Entity id="18" startPos="731" endPos="737" type="organization-company" surface="Moovel" />
+<Entity id="19" startPos="738" endPos="745" type="trigger" surface="Tochter" />
+<Entity id="20" startPos="746" endPos="752" type="organization-company" surface="Car2Go" />
+<Entity id="21" startPos="789" endPos="793" type="organization-company" surface="Uber" /></Entities><Relations>
+<Relation id="22" NAME="Merger">
+<Entity id="9" label="new" />
+<Entity id="15" label="old" />
+<Entity id="12" label="old" />
+<Entity id="10" label="trigger" />
+</Relation>
+<Relation id="23" NAME="SpinOff">
+<Entity id="2" label="parent" />
+<Entity id="3" label="trigger" />
+<Entity id="4" label="child" />
+</Relation>
+<Relation id="24" NAME="SpinOff">
+<Entity id="18" label="parent" />
+<Entity id="19" label="trigger" />
+<Entity id="20" label="child" />
+</Relation></Relations>
+</Document>

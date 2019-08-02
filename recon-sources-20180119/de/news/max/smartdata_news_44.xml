@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Kontakt
+Betreiber von Plastikskipiste insolvent
+Die <NODE id="52" />Schneeerlebniswelt<NODE id="70" /> in der Seestadt <NODE id="87" />Aspern<NODE id="93" /> ist <NODE id="98" />pleite<NODE id="104" />. Am Handelsgericht wurde am <NODE id="133" />Mittwoch<NODE id="141" /> ein Sanierungsverfahren eröffnet, so der Kreditschutzverband <NODE id="203" />KSV1870<NODE id="210" />. Erst kürzlich kündigte der Betreiber einen Ausbau der Plastikskipiste an.
+Die Schulden der <NODE id="303" />Schneeerlebniswelt GmbH<NODE id="326" /> belaufen sich laut <NODE id="346" />KSV1870<NODE id="353" /> auf rund <NODE id="363" />360.000 Euro<NODE id="375" />, diese seien nach Angaben der Firma jedoch zum Teil strittig. Als Ursache für die <NODE id="458" />Insolvenz<NODE id="467" /> gab <NODE id="472" />Schneeerlebniswelt<NODE id="490" /> an, dass in der Startphase ein vermeintlich fixer Investor ausgefallen sei, so der <NODE id="574" />KSV1870<NODE id="581" /> in einer Pressemitteilung. Daher seien weniger Mittel für den geplanten Ausbau zur Verfügung gestanden, hieß es vom Kreditschutzverband.
+ORF
+Die Plastikskipiste eröffnete <NODE id="753" />Ende 2014<NODE id="762" />
+Bis zum <NODE id="771" />23. März<NODE id="779" /> können Gläubiger ihre Forderungen anmelden. Angestrebt wird laut den Kreditschützern ein Sanierungsverfahren ohne Eigenverwaltung mit dem Ziel, dass <NODE id="929" />20 Prozent<NODE id="939" /> der Sc
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://wien.orf.at/news/stories/2754663/@2016-01-28T10:44:31.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://wien.orf.at/news/stories/2754663/" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="52" endPos="70" type="organization-company" surface="Schneeerlebniswelt" />
+<Entity id="1" startPos="87" endPos="93" type="location-city" surface="Aspern" />
+<Entity id="2" startPos="98" endPos="104" type="trigger" surface="pleite" />
+<Entity id="3" startPos="133" endPos="141" type="date" surface="Mittwoch" />
+<Entity id="4" startPos="203" endPos="210" type="organization-company" surface="KSV1870" />
+<Entity id="5" startPos="303" endPos="326" type="organization-company" surface="Schneeerlebniswelt GmbH" />
+<Entity id="6" startPos="346" endPos="353" type="organization-company" surface="KSV1870" />
+<Entity id="7" startPos="363" endPos="375" type="number" surface="360.000 Euro" />
+<Entity id="8" startPos="458" endPos="467" type="trigger" surface="Insolvenz" />
+<Entity id="9" startPos="472" endPos="490" type="organization-company" surface="Schneeerlebniswelt" />
+<Entity id="10" startPos="574" endPos="581" type="organization-company" surface="KSV1870" />
+<Entity id="11" startPos="753" endPos="762" type="date" surface="Ende 2014" />
+<Entity id="12" startPos="771" endPos="779" type="date" surface="23. März" />
+<Entity id="13" startPos="929" endPos="939" type="number" surface="20 Prozent" /></Entities><Relations>
+<Relation id="14" NAME="Insolvency">
+<Entity id="0" label="company" />
+<Entity id="1" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

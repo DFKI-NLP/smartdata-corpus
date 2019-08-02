@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />26.02.2016<NODE id="10" /> | IT, NewMedia &amp; Software | geschrieben von  Marketwire Client Services¹ | Pressemitteilung löschen
+Neue Interaktive Daten Visualisierung in <NODE id="152" />CD-adapcos<NODE id="162" /> <NODE id="163" />STAR-CCM + v11.02<NODE id="180" /> bietet tiefgehende Einblicke zur Verbesserung von Produkt-Design
+(Mynewsdesk) <NODE id="259" />NEW YORK<NODE id="267" />, <NODE id="269" />NY<NODE id="271" /> UND <NODE id="276" />LONDON<NODE id="282" />, <NODE id="284" />GROSSBRITANNIEN<NODE id="299" />--(<NODE id="302" />Marketwired<NODE id="313" /> - <NODE id="316" />25. Februar 2016<NODE id="332" />) -  <NODE id="337" />adapco<NODE id="343" />, ein weltweiter Anbieter von multidisziplinärer Engineering Simulation und Design Software, kündigte heute die Veröffentlichung seiner führenden Engineering Simulation Lösung <NODE id="519" />STAR-CCM +® Version 11.02<NODE id="544" /> an. Diese Version liefert neue Modellierungsfähigkeiten und bringt Verbesserungen in Produktivität und Benutzerfreundlichkeit, was das Ziel der Unternehmung unterstützt, den Kunden zu helfen, bessere Designs schneller zu entdecken.
+<NODE id="777" />STAR-CCM + v11<NODE id="791" /> unterstreicht weiterhin unseren Fokus auf Multidisciplinary Design eXploration (MDX), sagte <NODE id="884" />CD-adapcos<NODE id="894" /> <NODE id="895" />Senior VP of Product Management<NODE id="926" />, <NODE id="928" />Jean-Claude Erc<NODE id="943" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://newsfenster.de/it-newmedia-software/pm218909-neue-interaktive-daten-visualisierung-cd-adapcos-star-ccm-v1102-bietet-tiefgehende-einblicke-verbesserung-produkt-design.html@2016-02-26T09:08:03.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-26T08:08:03Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:06:32.951Z" />
+<feature featureName="uri" featureValue="http://newsfenster.de/it-newmedia-software/pm218909-neue-interaktive-daten-visualisierung-cd-adapcos-star-ccm-v1102-bietet-tiefgehende-einblicke-verbesserung-produkt-design.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="26.02.2016" />
+<Entity id="1" startPos="152" endPos="162" type="organization-company" surface="CD-adapcos" />
+<Entity id="2" startPos="163" endPos="180" type="product" surface="STAR-CCM + v11.02" />
+<Entity id="3" startPos="259" endPos="267" type="location-city" surface="NEW YORK" />
+<Entity id="4" startPos="269" endPos="271" type="location" surface="NY" />
+<Entity id="5" startPos="276" endPos="282" type="location-city" surface="LONDON" />
+<Entity id="6" startPos="284" endPos="299" type="location" surface="GROSSBRITANNIEN" />
+<Entity id="7" startPos="302" endPos="313" type="organization-company" surface="Marketwired" />
+<Entity id="8" startPos="316" endPos="332" type="date" surface="25. Februar 2016" />
+<Entity id="9" startPos="337" endPos="343" type="organization-company" surface="adapco" />
+<Entity id="10" startPos="519" endPos="544" type="product" surface="STAR-CCM +® Version 11.02" />
+<Entity id="11" startPos="777" endPos="791" type="product" surface="STAR-CCM + v11" />
+<Entity id="12" startPos="884" endPos="894" type="organization-company" surface="CD-adapcos" />
+<Entity id="13" startPos="895" endPos="926" type="org-position" surface="Senior VP of Product Management" />
+<Entity id="14" startPos="928" endPos="943" type="person" surface="Jean-Claude Erc" /></Entities><Relations>
+<Relation id="15" NAME="CompanyProvidesProduct">
+<Entity id="10" label="product" />
+<Entity id="9" label="company" />
+</Relation></Relations>
+</Document>

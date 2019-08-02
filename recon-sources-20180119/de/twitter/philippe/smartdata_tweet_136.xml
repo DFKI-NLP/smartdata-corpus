@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />PolizeiMuenchen<NODE id="19" />: Weihnachtsbeleuchtung des Polizeipräsidiums <NODE id="65" />München<NODE id="72" /> - Wir wünschen eine friedliche und besinnliche Weihnachtszeit http…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671758325332054016" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="19" type="organization" surface="PolizeiMuenchen" />
+<Entity id="1" startPos="65" endPos="72" type="location-city" surface="München" /></Entities><Relations />
+</Document>

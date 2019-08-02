@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />WhatsApp<NODE id="8" />
+<NODE id="9" />Zunächst hatte sich <NODE id="29" />Toshiba<NODE id="36" /> noch gegen Medienberichte um hohe Verluste gewehrt, dann folgte die Bestätigung: Das Unternehmen prognostiziert einen Verlust von 550 Milliarden Yen (rund 4,2 Mrd. Euro) für das Geschäftsjahr 2015.<NODE id="234" /> <NODE id="235" />Umstrukturierungen und Stellenstreichungen sollen den Konzern wieder profitabel machen.<NODE id="322" />
+<NODE id="323" />Von 44.100 Mitarbeitern sollen etwa 10.600 Mitarbeiter das Unternehmen verlassen.<NODE id="404" /> <NODE id="405" />Dies geht aus dem heute enthüllten „Revitalization Action Plan“ ( PDF ) von <NODE id="481" />Toshiba<NODE id="488" /> hervor.<NODE id="496" /> <NODE id="497" />Im größten Geschäftsfeld Lifestyle sollen mit 6.800 rund 30 Prozent der Stellen bis Ende März 2016 gestrichen werden.<NODE id="614" /> <NODE id="615" />Die Kosten zur Umstrukturierung sollen etwa 260 Milliarden Yen (rund 2,0 Mrd. Euro) verschlingen und wirken sich entsprechend negativ auf das Jahresergebnis aus.<NODE id="776" />
+<NODE id="777" />Anzeige<NODE id="784" />
+<NODE id="785" />Die zum Lifestyle-Segment gehörende PC-Sparte wird im Rahmen der Maßnahmen ausgegliedert.<NODE id="874" /> <NODE id="875" />Dort sollen ebenfalls etwa 30 Prozent der derzeit 4.500 Angest<NODE id="937" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.computerbase.de/2015-12/toshiba-milliardenverluste-und-10.600-weniger-jobs/@2015-12-21T17:06:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-21T16:06:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:32:12.952Z" />
+<feature featureName="uri" featureValue="http://www.computerbase.de/2015-12/toshiba-milliardenverluste-und-10.600-weniger-jobs/" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="sentence" surface="WhatsApp" />
+<Entity id="1" startPos="9" endPos="234" type="sentence" surface="Zunächst hatte sich Toshiba noch gegen Medienberichte um hohe Verluste gewehrt, dann folgte die Bestätigung: Das Unternehmen prognostiziert einen Verlust von 550 Milliarden Yen (rund 4,2 Mrd. Euro) für das Geschäftsjahr 2015." />
+<Entity id="2" startPos="29" endPos="36" type="organization-company" surface="Toshiba" />
+<Entity id="3" startPos="235" endPos="322" type="sentence" surface="Umstrukturierungen und Stellenstreichungen sollen den Konzern wieder profitabel machen." />
+<Entity id="4" startPos="323" endPos="404" type="sentence" surface="Von 44.100 Mitarbeitern sollen etwa 10.600 Mitarbeiter das Unternehmen verlassen." />
+<Entity id="5" startPos="405" endPos="496" type="sentence" surface="Dies geht aus dem heute enthüllten „Revitalization Action Plan“ ( PDF ) von Toshiba hervor." />
+<Entity id="6" startPos="481" endPos="488" type="organization-company" surface="Toshiba" />
+<Entity id="7" startPos="497" endPos="614" type="sentence" surface="Im größten Geschäftsfeld Lifestyle sollen mit 6.800 rund 30 Prozent der Stellen bis Ende März 2016 gestrichen werden." />
+<Entity id="8" startPos="615" endPos="776" type="sentence" surface="Die Kosten zur Umstrukturierung sollen etwa 260 Milliarden Yen (rund 2,0 Mrd. Euro) verschlingen und wirken sich entsprechend negativ auf das Jahresergebnis aus." />
+<Entity id="9" startPos="777" endPos="784" type="sentence" surface="Anzeige" />
+<Entity id="10" startPos="785" endPos="874" type="sentence" surface="Die zum Lifestyle-Segment gehörende PC-Sparte wird im Rahmen der Maßnahmen ausgegliedert." />
+<Entity id="11" startPos="875" endPos="937" type="sentence" surface="Dort sollen ebenfalls etwa 30 Prozent der derzeit 4.500 Angest" /></Entities><Relations />
+</Document>

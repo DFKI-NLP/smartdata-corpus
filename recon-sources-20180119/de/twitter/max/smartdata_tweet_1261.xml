@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @streckenagentFR: #<NODE id="22" />Würzburg<NODE id="30" /> - #<NODE id="34" />Ansbach<NODE id="41" />: <NODE id="43" />Polizeieinsatz<NODE id="57" /> / #<NODE id="61" />SEV<NODE id="64" /> https://t.co/jF3C9Fcdqe
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755153846960357376" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T21:34:41Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T21:34:44.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/62548743/status/755153846960357376" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="22" endPos="30" type="location-stop" surface="Würzburg" />
+<Entity id="1" startPos="22" endPos="41" type="location-route" surface="Würzburg - #Ansbach" />
+<Entity id="2" startPos="34" endPos="41" type="location-stop" surface="Ansbach" />
+<Entity id="3" startPos="43" endPos="57" type="trigger" surface="Polizeieinsatz" />
+<Entity id="4" startPos="61" endPos="64" type="trigger" surface="SEV" /></Entities><Relations>
+<Relation id="5" NAME="RailReplacementService">
+<Entity id="2" label="end_loc" />
+<Entity id="0" label="start_loc" />
+<Entity id="3" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />SZ<NODE id="3" /> etwas mehr Recherche und n kleines bisschen #Rückgrat https://t.co/YQ8bOVyul6 #nonazi #nonpd #ESC2016 #<NODE id="107" />XavierNaidoo<NODE id="119" /> #esc #<NODE id="126" />Naidoo<NODE id="132" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668342390802014208" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-22T08:16:57Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:04:51.774Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="3" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="107" endPos="119" type="person" surface="XavierNaidoo" />
+<Entity id="2" startPos="126" endPos="132" type="person" surface="Naidoo" /></Entities><Relations />
+</Document>

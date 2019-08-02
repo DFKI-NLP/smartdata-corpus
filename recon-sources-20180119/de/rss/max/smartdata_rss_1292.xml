@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Sonntag, 8. Mai<NODE id="18" />, <NODE id="20" />20.00<NODE id="25" /> – <NODE id="28" />24.00 Uhr<NODE id="37" />
+Meldung:
+<NODE id="47" />CNL 471<NODE id="54" /> nach <NODE id="60" />Zürich HB<NODE id="69" /> (planmäßig <NODE id="81" />21.33 Uhr<NODE id="90" /> ab <NODE id="94" />Berlin Gesundbrunnen<NODE id="114" />) fährt früher von <NODE id="133" />Berlin-Gesundbrunnen<NODE id="153" /> bis <NODE id="158" />Berlin Südkreuz<NODE id="173" /> und <NODE id="178" />hält nicht<NODE id="188" /> in <NODE id="192" />Lutherstadt Wittenberg<NODE id="214" />, <NODE id="216" />Bitterfeld<NODE id="226" /> und <NODE id="231" />Halle (Saale) Hbf<NODE id="248" />.
+Grund:
+Softwarewechsel im Elektronischen Stellwerk <NODE id="301" />Coswig<NODE id="307" /> (Anh) – <NODE id="316" />Pratau<NODE id="322" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="392" />245<NODE id="395" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#1d103e7ba4dbeb695c72f440f4e318a54ea5af94@2016-03-14T08:42:02.753+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T07:42:02.753Z" />
+<feature featureName="indexDate" featureValue="2016-03-14T07:42:32.637Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#1d103e7ba4dbeb695c72f440f4e318a54ea5af94" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="18" type="date" surface="Sonntag, 8. Mai" />
+<Entity id="1" startPos="20" endPos="25" type="time" surface="20.00" />
+<Entity id="2" startPos="28" endPos="37" type="time" surface="24.00 Uhr" />
+<Entity id="3" startPos="47" endPos="54" type="location-route" surface="CNL 471" />
+<Entity id="4" startPos="60" endPos="69" type="location-stop" surface="Zürich HB" />
+<Entity id="5" startPos="81" endPos="90" type="time" surface="21.33 Uhr" />
+<Entity id="6" startPos="94" endPos="114" type="location-stop" surface="Berlin Gesundbrunnen" />
+<Entity id="7" startPos="133" endPos="153" type="location-stop" surface="Berlin-Gesundbrunnen" />
+<Entity id="8" startPos="158" endPos="173" type="location-stop" surface="Berlin Südkreuz" />
+<Entity id="9" startPos="178" endPos="188" type="trigger" surface="hält nicht" />
+<Entity id="10" startPos="192" endPos="214" type="location-stop" surface="Lutherstadt Wittenberg" />
+<Entity id="11" startPos="216" endPos="226" type="location-stop" surface="Bitterfeld" />
+<Entity id="12" startPos="231" endPos="248" type="location-stop" surface="Halle (Saale) Hbf" />
+<Entity id="13" startPos="301" endPos="307" type="location" surface="Coswig" />
+<Entity id="14" startPos="316" endPos="322" type="location" surface="Pratau" />
+<Entity id="15" startPos="392" endPos="395" type="number" surface="245" /></Entities><Relations>
+<Relation id="16" NAME="CanceledStop">
+<Entity id="3" label="route" />
+<Entity id="12" label="location" />
+<Entity id="10" label="location" />
+<Entity id="11" label="location" />
+<Entity id="9" label="trigger" />
+<Entity id="4" label="direction" />
+<Entity id="5" label="start_date" />
+</Relation></Relations>
+</Document>

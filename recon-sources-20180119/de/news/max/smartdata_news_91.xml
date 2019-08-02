@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Einladung: Pressekonferenz zum Nano World Cancer Day
+Einladung: Pressekonferenz zum Nano World Cancer Day
+Wir möchten Sie zur <NODE id="126" />deutschen<NODE id="135" /> Pressekonferenz einladen am
+<NODE id="164" />2. Februar 2016<NODE id="179" /> um <NODE id="183" />10.30 Uhr<NODE id="192" />
+im <NODE id="196" />DECHEMA-Haus<NODE id="208" />, <NODE id="210" />Theodor-Heuss-Allee 25<NODE id="232" />, <NODE id="234" />60486 Frankfurt am Main<NODE id="257" />.
+Nanomedizin bedeutet den Einsatz von Nanotechnologie im Gesundheitswesen. Eines der vielversprechendsten Gebiete ist die Behandlung von Krebserkrankungen; von den rund <NODE id="427" />200<NODE id="430" /> Nanotechnologie-Produkten, die derzeit in klinischen Studien getestet werden, zielen <NODE id="516" />31 %<NODE id="520" /> auf die Diagnose, Behandlung und das Monitoring von Krebspatienten.
+Der Nano World Cancer Day will beitragen, diese neuen Behandlungsmethoden einer breiteren Öffentlichkeit bekannt zu machen. Erfahren Sie mehr über die Fortschritte, die dank Nanomedizin in der Krebsbehandlung möglich sind, und diskutieren Sie mit Experten aus Forschung und Industrie.
+Ihre Gesprächspartner sind:
+Geschäftsführer der Gesellschaft für Bioana
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://medizin-aspekte.de/einladung-pressekonferenz-zum-nano-world-cancer-day@2016-03-10T13:31:32.743+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://medizin-aspekte.de/einladung-pressekonferenz-zum-nano-world-cancer-day" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="126" endPos="135" type="location" surface="deutschen" />
+<Entity id="1" startPos="164" endPos="179" type="date" surface="2. Februar 2016" />
+<Entity id="2" startPos="183" endPos="192" type="time" surface="10.30 Uhr" />
+<Entity id="3" startPos="196" endPos="208" type="location" surface="DECHEMA-Haus" />
+<Entity id="4" startPos="210" endPos="232" type="location-street" surface="Theodor-Heuss-Allee 25" />
+<Entity id="5" startPos="234" endPos="257" type="location-city" surface="60486 Frankfurt am Main" />
+<Entity id="6" startPos="427" endPos="430" type="number" surface="200" />
+<Entity id="7" startPos="516" endPos="520" type="number" surface="31 %" /></Entities><Relations />
+</Document>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Toyota<NODE id="6" /> <NODE id="7" />übernimmt<NODE id="16" /> volle Kontrolle bei <NODE id="37" />Daihatsu<NODE id="45" />
+<NODE id="46" />Gabriel Pankow<NODE id="60" />            am <NODE id="75" />29. Januar 2016<NODE id="90" /> um <NODE id="94" />12:01 Uhr<NODE id="103" />
+Artikel drucken
+Der <NODE id="124" />japanische<NODE id="134" /> <NODE id="135" />VW<NODE id="137" />-Erzrivale <NODE id="148" />Toyota<NODE id="154" /> <NODE id="155" />übernimmt<NODE id="164" /> die volle Kontrolle beim Kleinwagen-Spezialisten <NODE id="214" />Daihatsu<NODE id="222" />. Zum <NODE id="228" />1. August<NODE id="237" /> werde <NODE id="244" />die Marke<NODE id="253" /> eine vollständige <NODE id="272" />Tochter<NODE id="279" />, teilte <NODE id="288" />der weltgrößte Autobauer<NODE id="312" /> der Welt mit.
+Übernahme vollzogen: <NODE id="348" />Daihatsu<NODE id="356" /> ist jetzt <NODE id="367" />100 Prozent<NODE id="378" /> <NODE id="379" />Tochter<NODE id="386" /> von <NODE id="391" />Toyota<NODE id="397" />. Bild: <NODE id="405" />Toyota<NODE id="411" />
+Bisher war <NODE id="423" />Toyota<NODE id="429" /> zu <NODE id="433" />51 Prozent<NODE id="443" /> an <NODE id="447" />Daihatsu<NODE id="455" /> beteiligt. Im Zuge der Komplettübernahme werde <NODE id="503" />Daihatsu<NODE id="511" /> am <NODE id="515" />27. Juni<NODE id="523" /> vom Börsenzettel gestrichen. Auf diese Weise will <NODE id="574" />Toyota<NODE id="580" /> angesichts wachsender Nachfrage in aufstrebenden Märkten seine Position im Kleinwagen-Segment stärken. <NODE id="684" />Daihatsu<NODE id="692" /> gehört seit dem Jahr <NODE id="714" />1998<NODE id="718" /> zur <NODE id="723" />Toyota-Gruppe<NODE id="736" />, zu der auch der Nutzfahrzeugbauer <NODE id="772" />Hino<NODE id="776" /> <NODE id="777" />zählt<NODE id="782" />.
+Zusammen hatte die Gruppe im vergangenen Jahr <NODE id="830" />10,15 Millionen<NODE id="845" /> Fahrzeuge abgesetzt. Damit fährt der <NODE id="883" />japanische Autoriese<NODE id="903" /> seit <NODE id="909" />vier Jahren<NODE id="920" /> an der Weltspitze. Beim Rivalen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.automobil-produktion.de/2016/01/toyota-uebernimmt-volle-kontrolle-bei-daihatsu/@2016-01-29T14:29:50.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-29T13:29:50Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T00:41:12.955Z" />
+<feature featureName="uri" featureValue="http://www.automobil-produktion.de/2016/01/toyota-uebernimmt-volle-kontrolle-bei-daihatsu/" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization-company" surface="Toyota" />
+<Entity id="1" startPos="7" endPos="16" type="trigger" surface="übernimmt" />
+<Entity id="2" startPos="37" endPos="45" type="organization-company" surface="Daihatsu" />
+<Entity id="3" startPos="46" endPos="60" type="person" surface="Gabriel Pankow" />
+<Entity id="4" startPos="75" endPos="90" type="date" surface="29. Januar 2016" />
+<Entity id="5" startPos="94" endPos="103" type="time" surface="12:01 Uhr" />
+<Entity id="6" startPos="124" endPos="134" type="location" surface="japanische" />
+<Entity id="7" startPos="135" endPos="137" type="organization-company" surface="VW" />
+<Entity id="8" startPos="148" endPos="154" type="organization-company" surface="Toyota" />
+<Entity id="9" startPos="155" endPos="164" type="trigger" surface="übernimmt" />
+<Entity id="10" startPos="214" endPos="222" type="organization-company" surface="Daihatsu" />
+<Entity id="11" startPos="228" endPos="237" type="date" surface="1. August" />
+<Entity id="12" startPos="244" endPos="253" type="organization-company" surface="die Marke" />
+<Entity id="13" startPos="272" endPos="279" type="trigger" surface="Tochter" />
+<Entity id="14" startPos="288" endPos="312" type="organization-company" surface="der weltgrößte Autobauer" />
+<Entity id="15" startPos="348" endPos="356" type="organization-company" surface="Daihatsu" />
+<Entity id="16" startPos="367" endPos="378" type="number" surface="100 Prozent" />
+<Entity id="17" startPos="379" endPos="386" type="trigger" surface="Tochter" />
+<Entity id="18" startPos="391" endPos="397" type="organization-company" surface="Toyota" />
+<Entity id="19" startPos="405" endPos="411" type="organization-company" surface="Toyota" />
+<Entity id="20" startPos="423" endPos="429" type="organization-company" surface="Toyota" />
+<Entity id="21" startPos="433" endPos="443" type="number" surface="51 Prozent" />
+<Entity id="22" startPos="447" endPos="455" type="organization-company" surface="Daihatsu" />
+<Entity id="23" startPos="503" endPos="511" type="organization-company" surface="Daihatsu" />
+<Entity id="24" startPos="515" endPos="523" type="date" surface="27. Juni" />
+<Entity id="25" startPos="574" endPos="580" type="organization-company" surface="Toyota" />
+<Entity id="26" startPos="684" endPos="692" type="organization-company" surface="Daihatsu" />
+<Entity id="27" startPos="714" endPos="718" type="date" surface="1998" />
+<Entity id="28" startPos="723" endPos="736" type="organization-company" surface="Toyota-Gruppe" />
+<Entity id="29" startPos="772" endPos="776" type="organization-company" surface="Hino" />
+<Entity id="30" startPos="777" endPos="782" type="trigger" surface="zählt" />
+<Entity id="31" startPos="830" endPos="845" type="number" surface="10,15 Millionen" />
+<Entity id="32" startPos="883" endPos="903" type="organization-company" surface="japanische Autoriese" />
+<Entity id="33" startPos="909" endPos="920" type="duration" surface="vier Jahren" /></Entities><Relations>
+<Relation id="34" NAME="Acquisition">
+<Entity id="1" label="trigger" />
+<Entity id="2" label="acquired" />
+<Entity id="0" label="buyer" />
+</Relation>
+<Relation id="35" NAME="Acquisition">
+<Entity id="9" label="trigger" />
+<Entity id="10" label="acquired" />
+<Entity id="8" label="buyer" />
+</Relation>
+<Relation id="36" NAME="Acquisition">
+<Entity id="11" label="date" />
+<Entity id="13" label="trigger" />
+<Entity id="12" label="acquired" />
+<Entity id="14" label="buyer" />
+</Relation>
+<Relation id="37" NAME="Acquisition">
+<Entity id="17" label="trigger" />
+<Entity id="15" label="acquired" />
+<Entity id="18" label="buyer" />
+</Relation>
+<Relation id="38" NAME="CompanyRelationship">
+<Entity id="28" label="parent" />
+<Entity id="30" label="trigger" />
+<Entity id="29" label="child" />
+</Relation>
+<Relation id="39" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="32" label="target" />
+<Entity id="20" label="target" />
+<Entity id="25" label="target" />
+<Entity id="14" label="target" />
+<Entity id="8" label="target" />
+<Entity id="18" label="target" />
+<Entity id="19" label="target" />
+</Relation>
+<Relation id="40" NAME="Identity">
+<Entity id="2" label="source" />
+<Entity id="10" label="target" />
+<Entity id="26" label="target" />
+<Entity id="15" label="target" />
+<Entity id="12" label="target" />
+<Entity id="22" label="target" />
+<Entity id="23" label="target" />
+</Relation></Relations>
+</Document>

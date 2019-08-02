@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> <NODE id="1" />Air France<NODE id="11" /> : <NODE id="14" />5000<NODE id="18" /> weitere <NODE id="27" />Stellen<NODE id="34" /> sollen <NODE id="42" />gestrichen<NODE id="52" /> werden
+<NODE id="60" />Air France<NODE id="70" />
+<NODE id="71" />5000<NODE id="75" /> weitere Stellen sollen gestrichen werden
+von:
+Datum:
+<NODE id="129" />06.10.2015<NODE id="139" /> <NODE id="140" />19:39 Uhr<NODE id="149" />
+<NODE id="150" />Air France<NODE id="160" /> steht wegen Billigfliegern und <NODE id="192" />arabischen<NODE id="202" /> Konkurrenten unter starkem Wettbewerbsdruck. <NODE id="248" />2900<NODE id="252" /> Jobs wollte das Management deswegen streichen. Nun setzt der <NODE id="314" />Lufthansa<NODE id="323" />-Rivale erneut den Rotstift an.
+Sie haben den Artikel in Ihre Merkliste aufgenommen.
+Möchten Sie ihn nicht auch gleich mit Feunden teilen?
+Nicht mehr fragen.
+So demonstrieren <NODE id="498" />Franzosen<NODE id="507" />: <NODE id="509" />Air-France<NODE id="519" />-Mitarbeiter stürmen Firmenzentrale
+<NODE id="555" />Paris<NODE id="560" />Der <NODE id="564" />Stellenabbau<NODE id="576" /> bei <NODE id="581" />Air France<NODE id="591" /> soll Gewerkschaftskreisen zufolge deutlich höher ausfallen als bislang bekannt. Zusätzlich zu den bereits vom Management angekündigten <NODE id="727" />2900<NODE id="731" /> Arbeitsplätzen würden in einer <NODE id="763" />zweiten<NODE id="770" /> Phase weitere <NODE id="785" />5000<NODE id="789" /> gestrichen, erfuhr die Nachrichtenagentur <NODE id="832" />Reuters<NODE id="839" /> am <NODE id="843" />Dienstag<NODE id="851" /> von <NODE id="856" />zwei<NODE id="860" /> Gewerkschaftsvertretern. Dabei werde es auch Entlassungen geben.
+Nachdem Verha
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/air-france-5000-weitere-stellen-sollen-gestrichen-werden/12416656.html@2016-03-11T02:09:39.246+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T01:09:39.246Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T01:09:43.482Z" />
+<feature featureName="uri" featureValue="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/air-france-5000-weitere-stellen-sollen-gestrichen-werden/12416656.html" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="11" type="organization-company" surface="Air France" />
+<Entity id="1" startPos="14" endPos="18" type="number" surface="5000" />
+<Entity id="2" startPos="27" endPos="34" type="trigger" surface="Stellen" />
+<Entity id="3" startPos="42" endPos="52" type="trigger" surface="gestrichen" />
+<Entity id="4" startPos="60" endPos="70" type="organization-company" surface="Air France" />
+<Entity id="5" startPos="71" endPos="75" type="number" surface="5000" />
+<Entity id="6" startPos="129" endPos="139" type="date" surface="06.10.2015" />
+<Entity id="7" startPos="140" endPos="149" type="time" surface="19:39 Uhr" />
+<Entity id="8" startPos="150" endPos="160" type="organization-company" surface="Air France" />
+<Entity id="9" startPos="192" endPos="202" type="location" surface="arabischen" />
+<Entity id="10" startPos="248" endPos="252" type="number" surface="2900" />
+<Entity id="11" startPos="314" endPos="323" type="organization-company" surface="Lufthansa" />
+<Entity id="12" startPos="498" endPos="507" type="location" surface="Franzosen" />
+<Entity id="13" startPos="509" endPos="519" type="organization-company" surface="Air-France" />
+<Entity id="14" startPos="555" endPos="560" type="location-city" surface="Paris" />
+<Entity id="15" startPos="564" endPos="576" type="trigger" surface="Stellenabbau" />
+<Entity id="16" startPos="581" endPos="591" type="organization-company" surface="Air France" />
+<Entity id="17" startPos="727" endPos="731" type="number" surface="2900" />
+<Entity id="18" startPos="763" endPos="770" type="number" surface="zweiten" />
+<Entity id="19" startPos="785" endPos="789" type="number" surface="5000" />
+<Entity id="20" startPos="832" endPos="839" type="organization-company" surface="Reuters" />
+<Entity id="21" startPos="843" endPos="851" type="date" surface="Dienstag" />
+<Entity id="22" startPos="856" endPos="860" type="number" surface="zwei" /></Entities><Relations>
+<Relation id="23" NAME="Layoffs">
+<Entity id="1" label="num_laid_off" />
+<Entity id="0" label="company" />
+<Entity id="2" label="trigger" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="24" NAME="Layoffs">
+<Entity id="16" label="company" />
+<Entity id="15" label="trigger" />
+</Relation></Relations>
+</Document>

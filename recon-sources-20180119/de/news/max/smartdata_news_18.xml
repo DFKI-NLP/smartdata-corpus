@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Mecklenburg<NODE id="11" /> <NODE id="12" />Wismar<NODE id="18" /> Politik Gebühren für Musikschule werden erhöht
+Mehr  aus Politik
+Text kleiner größer
+<NODE id="104" />Wismar<NODE id="110" /> – Gebühren für Musikschule werden erhöht
+Die <NODE id="156" />Hansestadt Wismar<NODE id="173" /> will ihr Haushaltsdefizit abbauen. Sie erwartet ein Plus von <NODE id="235" />30000 Euro<NODE id="245" /> pro Jahr. Zuletzt wurden die Entgelte vor <NODE id="288" />fünf<NODE id="292" /> Jahren angehoben.
+Voriger Artikel
+Artikel veröffentlicht: <NODE id="351" />Montag, 08.02.2016<NODE id="369" /> <NODE id="370" />05:00 Uhr<NODE id="379" />
+Artikel aktualisiert: <NODE id="402" />Montag, 08.02.2016<NODE id="420" /> <NODE id="421" />07:07 Uhr<NODE id="430" />
+Nächster Artikel
+Das Blechbläserquintett der <NODE id="476" />Musikschule Wismar<NODE id="494" /> unter der Leitung von Schulleiterin <NODE id="531" />Jana Rohloff<NODE id="543" /> mit <NODE id="548" />Malte Sprick<NODE id="560" />, <NODE id="562" />Thorben Hasse<NODE id="575" />, <NODE id="577" />Joseph Tänzer<NODE id="590" /> und <NODE id="595" />Ole Sprick<NODE id="605" /> (v.r.) hier bei einem Auftritt im Bürgerschaftssaal des Rathauses.
+Quelle: <NODE id="681" />Nicole Hollatz<NODE id="695" />
+Tweet
+<NODE id="702" />Wismar<NODE id="708" />. Trotz der geplanten Fusion mit der Kreismusikschule will <NODE id="767" />Wismar<NODE id="773" /> jetzt die Gebühren für seine Musikschule erhöhen. Die Mehreinnahmen werden benötigt, um das Haushaltsdefizit abzubauen. Ein Plus von <NODE id="907" />23000 Euro<NODE id="917" /> wird in <NODE id="926" />diesem Jahr<NODE id="937" /> erwartet. In den Folg
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ostsee-zeitung.de/Mecklenburg/Wismar/Politik/Gebuehren-fuer-Musikschule-werden-erhoeht@2016-02-08T05:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ostsee-zeitung.de/Mecklenburg/Wismar/Politik/Gebuehren-fuer-Musikschule-werden-erhoeht" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="location" surface="Mecklenburg" />
+<Entity id="1" startPos="12" endPos="18" type="location-city" surface="Wismar" />
+<Entity id="2" startPos="104" endPos="110" type="location-city" surface="Wismar" />
+<Entity id="3" startPos="156" endPos="173" type="location-city" surface="Hansestadt Wismar" />
+<Entity id="4" startPos="235" endPos="245" type="number" surface="30000 Euro" />
+<Entity id="5" startPos="288" endPos="292" type="number" surface="fünf" />
+<Entity id="6" startPos="351" endPos="369" type="date" surface="Montag, 08.02.2016" />
+<Entity id="7" startPos="370" endPos="379" type="time" surface="05:00 Uhr" />
+<Entity id="8" startPos="402" endPos="420" type="date" surface="Montag, 08.02.2016" />
+<Entity id="9" startPos="421" endPos="430" type="time" surface="07:07 Uhr" />
+<Entity id="10" startPos="476" endPos="494" type="organization" surface="Musikschule Wismar" />
+<Entity id="11" startPos="531" endPos="543" type="person" surface="Jana Rohloff" />
+<Entity id="12" startPos="548" endPos="560" type="person" surface="Malte Sprick" />
+<Entity id="13" startPos="562" endPos="575" type="person" surface="Thorben Hasse" />
+<Entity id="14" startPos="577" endPos="590" type="person" surface="Joseph Tänzer" />
+<Entity id="15" startPos="595" endPos="605" type="person" surface="Ole Sprick" />
+<Entity id="16" startPos="681" endPos="695" type="person" surface="Nicole Hollatz" />
+<Entity id="17" startPos="702" endPos="708" type="location-city" surface="Wismar" />
+<Entity id="18" startPos="767" endPos="773" type="location-city" surface="Wismar" />
+<Entity id="19" startPos="907" endPos="917" type="number" surface="23000 Euro" />
+<Entity id="20" startPos="926" endPos="937" type="date" surface="diesem Jahr" /></Entities><Relations />
+</Document>

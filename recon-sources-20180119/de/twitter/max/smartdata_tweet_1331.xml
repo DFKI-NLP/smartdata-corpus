@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />tagesspiegel<NODE id="16" />: Er sprach auch ein Grußwort: Ex-Bundespräsident #<NODE id="67" />Wulff<NODE id="72" /> ist jetzt #Spargelbotschafter. https://t.co/RATvsuQmqn https://t.c…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754093405387395072" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-15T23:20:52Z" />
+<feature featureName="indexDate" featureValue="2016-07-15T23:21:10.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/717846061117628417/status/754093405387395072" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="16" type="organization-company" surface="tagesspiegel" />
+<Entity id="1" startPos="67" endPos="72" type="person" surface="Wulff" /></Entities><Relations />
+</Document>

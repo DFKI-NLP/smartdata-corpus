@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />dvbag<NODE id="6" /> Der Einrücker <NODE id="21" />Li 6<NODE id="25" /> um <NODE id="29" />21:49<NODE id="34" /> ab <NODE id="38" />BFN<NODE id="41" /> nach <NODE id="47" />TRA<NODE id="50" /> wird in (fast?) allen Systemen als nach <NODE id="91" />Leutewitz<NODE id="100" /> angezeigt. Nicht nur heute.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672156323610533888" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T20:52:10Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:31:24.119Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="6" type="organization-company" surface="dvbag" />
+<Entity id="1" startPos="21" endPos="25" type="location-route" surface="Li 6" />
+<Entity id="2" startPos="29" endPos="34" type="time" surface="21:49" />
+<Entity id="3" startPos="38" endPos="41" type="location-stop" surface="BFN" />
+<Entity id="4" startPos="47" endPos="50" type="location-stop" surface="TRA" />
+<Entity id="5" startPos="91" endPos="100" type="location-stop" surface="Leutewitz" /></Entities><Relations />
+</Document>

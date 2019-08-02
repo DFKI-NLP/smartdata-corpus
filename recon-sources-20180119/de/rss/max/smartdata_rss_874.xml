@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>folgende Meldung geändert
+in der Nacht <NODE id="39" />Mittwoch<NODE id="47" />/<NODE id="48" />Donnerstag<NODE id="58" /> <NODE id="59" />Donnerstag<NODE id="69" />/<NODE id="70" />Freitag<NODE id="77" />, <NODE id="79" />24.<NODE id="82" />/<NODE id="83" />25.<NODE id="86" /> <NODE id="87" />25.<NODE id="90" />/<NODE id="91" />26. Februar<NODE id="102" />, <NODE id="104" />22.30<NODE id="109" /> – <NODE id="112" />1.20 Uhr<NODE id="120" />
+Meldung:
+<NODE id="130" />EN 463<NODE id="136" /> nach <NODE id="142" />Budapest-Keleti pu <NODE id="161" />(planmäßig<NODE id="171" /> 23.36 Uhr<NODE id="181" /> ab<NODE id="184" /> München Hbf<NODE id="196" />) fährt bis zu<NODE id="210" /> 45 Min.<NODE id="218" /> früher von <NODE id="230" />München Hbf<NODE id="241" /> bis <NODE id="246" />Salzburg Hbf<NODE id="258" />.
+Grund:
+Oberleitungsarbeiten <NODE id="288" />München<NODE id="295" /> – <NODE id="298" />Rosenheim<NODE id="307" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="377" />142<NODE id="380" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#06466cc9df2c0591c75479bf8718d248610e57ae@2016-02-24T23:28:13.602+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T22:28:13.602Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:33:43.626Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#06466cc9df2c0591c75479bf8718d248610e57ae" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="39" endPos="47" type="date" surface="Mittwoch" />
+<Entity id="1" startPos="48" endPos="58" type="date" surface="Donnerstag" />
+<Entity id="2" startPos="59" endPos="69" type="date" surface="Donnerstag" />
+<Entity id="3" startPos="70" endPos="77" type="date" surface="Freitag" />
+<Entity id="4" startPos="79" endPos="82" type="date" surface="24." />
+<Entity id="5" startPos="83" endPos="86" type="date" surface="25." />
+<Entity id="6" startPos="87" endPos="90" type="date" surface="25." />
+<Entity id="7" startPos="91" endPos="102" type="date" surface="26. Februar" />
+<Entity id="8" startPos="104" endPos="109" type="time" surface="22.30" />
+<Entity id="9" startPos="112" endPos="120" type="time" surface="1.20 Uhr" />
+<Entity id="10" startPos="130" endPos="136" type="location-route" surface="EN 463" />
+<Entity id="11" startPos="142" endPos="161" type="location-stop" surface="Budapest-Keleti pu " />
+<Entity id="12" startPos="171" endPos="181" type="time" surface=" 23.36 Uhr" />
+<Entity id="13" startPos="184" endPos="196" type="location-stop" surface=" München Hbf" />
+<Entity id="14" startPos="210" endPos="218" type="duration" surface=" 45 Min." />
+<Entity id="15" startPos="230" endPos="241" type="location-stop" surface="München Hbf" />
+<Entity id="16" startPos="246" endPos="258" type="location-stop" surface="Salzburg Hbf" />
+<Entity id="17" startPos="288" endPos="295" type="location-stop" surface="München" />
+<Entity id="18" startPos="298" endPos="307" type="location-stop" surface="Rosenheim" />
+<Entity id="19" startPos="377" endPos="380" type="number" surface="142" /></Entities><Relations />
+</Document>

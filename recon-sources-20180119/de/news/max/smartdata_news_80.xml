@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Neue Verzögerung bei Fußball-Arena in <NODE id="38" />Jena<NODE id="42" />: Bebauungsplan wird erneut ausgelegt
+<NODE id="80" />22.03.2016<NODE id="90" /> - <NODE id="93" />15:10 Uhr<NODE id="102" />
+Der Bau des neuen Stadions in <NODE id="133" />Jena<NODE id="137" /> verzögert sich weiter: Der Bebauungsplan ist nach Stellungnahmen der Sicherheitsbehörden, des <NODE id="232" />FC Carl Zeiss<NODE id="245" /> und von Fans überarbeitet worden.
+   
+Blick ins <NODE id="294" />Ernst-Abbe-Sportfeld <NODE id="315" />Jena<NODE id="319" /> beim Punktspiel gegen den <NODE id="346" />Berliner<NODE id="354" /> AK<NODE id="357" />. Foto: <NODE id="365" />Tino Zippel<NODE id="376" />
+<NODE id="377" />Jena<NODE id="381" />
+. Der Umbau des <NODE id="398" />Ernst-Abbe-Sportfeldes<NODE id="420" /> verzögert sich weiter: Der Bebauungsplan wird nach Stellungnahmen, die bei der Auslegung des Planes <NODE id="521" />Ende 2015<NODE id="530" /> eingegangen sind, überarbeitet. Damit soll eine flexiblere Bebauung möglich sein.
+Bis zum Sommer will die Stadtverwaltung die Gutachten aktualisieren lassen. Ein Beschluss des Bebauungsplanes sei bis <NODE id="731" />Dezember<NODE id="739" /> realistisch - ursprünglich sollte der Stadtrat das Papier im <NODE id="801" />Mai<NODE id="804" /> verabschieden. Stadtentwicklungsdezernent
+<NODE id="847" />Denis Peisker<NODE id="860" />
+(<NODE id="862" />Grüne<NODE id="867" />) sagte, dass ein Termin für den ersten Spatenstich im Jahr <NODE id="927" />2018<NODE id="931" /> realistisch ist.
+Der
+F
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.thueringer-allgemeine.de/startseite/detail/-/specific/Neue-Verzoegerung-bei-Fussball-Arena-in-Jena-Bebauungsplan-wird-erneut-ausgeleg-845245706#xtor=RSS-3@2016-03-22T15:10:30.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.thueringer-allgemeine.de/startseite/detail/-/specific/Neue-Verzoegerung-bei-Fussball-Arena-in-Jena-Bebauungsplan-wird-erneut-ausgeleg-845245706#xtor=RSS-3" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="38" endPos="42" type="location-city" surface="Jena" />
+<Entity id="1" startPos="80" endPos="90" type="date" surface="22.03.2016" />
+<Entity id="2" startPos="93" endPos="102" type="time" surface="15:10 Uhr" />
+<Entity id="3" startPos="133" endPos="137" type="location-city" surface="Jena" />
+<Entity id="4" startPos="232" endPos="245" type="organization" surface="FC Carl Zeiss" />
+<Entity id="5" startPos="294" endPos="319" type="location" surface="Ernst-Abbe-Sportfeld Jena" />
+<Entity id="6" startPos="315" endPos="319" type="location-city" surface="Jena" />
+<Entity id="7" startPos="346" endPos="354" type="location-city" surface="Berliner" />
+<Entity id="8" startPos="346" endPos="357" type="organization" surface="Berliner AK" />
+<Entity id="9" startPos="365" endPos="376" type="person" surface="Tino Zippel" />
+<Entity id="10" startPos="377" endPos="381" type="location-city" surface="Jena" />
+<Entity id="11" startPos="398" endPos="420" type="location" surface="Ernst-Abbe-Sportfeldes" />
+<Entity id="12" startPos="521" endPos="530" type="date" surface="Ende 2015" />
+<Entity id="13" startPos="731" endPos="739" type="date" surface="Dezember" />
+<Entity id="14" startPos="801" endPos="804" type="date" surface="Mai" />
+<Entity id="15" startPos="847" endPos="860" type="person" surface="Denis Peisker" />
+<Entity id="16" startPos="862" endPos="867" type="organization" surface="Grüne" />
+<Entity id="17" startPos="927" endPos="931" type="date" surface="2018" /></Entities><Relations />
+</Document>

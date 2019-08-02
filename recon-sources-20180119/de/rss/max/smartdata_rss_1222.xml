@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Mosbach<NODE id="7" /> - <NODE id="10" />Tauberbischofsheim<NODE id="28" /> zwischen <NODE id="38" />Walldürn<NODE id="46" />/<NODE id="47" />B47<NODE id="50" /> und <NODE id="55" />Höpfingen<NODE id="64" /> Gefahr durch <NODE id="78" />Hochwasser<NODE id="88" />, beide Fahrtrichtungen gesperrt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=8a20a006-93af-4c4a-a334-004fcbff5be8@2016-06-04T15:00:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-04T13:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-06-04T14:57:47.592Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=8a20a006-93af-4c4a-a334-004fcbff5be8" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="Mosbach" />
+<Entity id="1" startPos="10" endPos="28" type="location-city" surface="Tauberbischofsheim" />
+<Entity id="2" startPos="38" endPos="46" type="location" surface="Walldürn" />
+<Entity id="3" startPos="47" endPos="50" type="location-street" surface="B47" />
+<Entity id="4" startPos="55" endPos="64" type="location" surface="Höpfingen" />
+<Entity id="5" startPos="78" endPos="88" type="disaster-type" surface="Hochwasser" /></Entities><Relations />
+</Document>

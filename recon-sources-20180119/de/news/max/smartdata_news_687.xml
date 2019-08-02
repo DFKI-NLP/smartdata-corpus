@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Galaktisches Prinzip bei <NODE id="25" />Real<NODE id="29" /> in Gefahr
+Transfersperre für <NODE id="59" />Madrid<NODE id="65" /> wegen Verstößen gegen Wechselvorschriften bei Minderjährigen. Im Fokus sind auch <NODE id="147" />Zidanes<NODE id="154" /> Söhne
+Von <NODE id="165" />Florian Haupt<NODE id="178" /> <NODE id="179" />Florian Haupt<NODE id="192" /> Biografie und alle Artikel des Autors Autor
+<NODE id="237" />Jose Angel Sanchez<NODE id="255" /> ist der Schattenmann bei <NODE id="281" />Real Madrid<NODE id="292" />. Der heutige Generaldirektor definierte die Marketingstrategie, die den etwas angestaubten Mythos <NODE id="391" />Real Madrid<NODE id="402" /> zur Geldmaschine des Weltfußballs machte. Er gilt im königlichen Klub von <NODE id="477" />Florentino Perez<NODE id="493" /> als heimlicher Herrscher zumindest des täglichen Geschäfts. Am <NODE id="557" />Donnerstag<NODE id="567" /> nun trat <NODE id="577" />Sanchez<NODE id="584" /> erstmals seit Jahren ins Licht der Kameras. Es ging also offenkundig um Wichtiges im <NODE id="670" />Estadio Santiago Bernabeu<NODE id="695" />.
+Nach einem Urteil der <NODE id="719" />Fifa<NODE id="723" />-Disziplinarkommission<NODE id="745" /> soll der Verein wegen Verstößen gegen die Transfervorschriften bei Minderjährigen wie Stadtnachbar <NODE id="845" />Atletico<NODE id="853" /> im <NODE id="857" />Sommer 2016<NODE id="868" /> und <NODE id="873" />Januar 2017<NODE id="884" /> keine neuen Spieler einschreiben dürfen. Natürlich ist das wichtig
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/print/die_welt/sport/article151078160/Galaktisches-Prinzip-bei-Real-in-Gefahr.html@2016-03-10T13:13:38.090+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:13:38.09Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:13:43.319Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/print/die_welt/sport/article151078160/Galaktisches-Prinzip-bei-Real-in-Gefahr.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="25" endPos="29" type="organization" surface="Real" />
+<Entity id="1" startPos="59" endPos="65" type="organization" surface="Madrid" />
+<Entity id="2" startPos="147" endPos="154" type="person" surface="Zidanes" />
+<Entity id="3" startPos="165" endPos="178" type="person" surface="Florian Haupt" />
+<Entity id="4" startPos="179" endPos="192" type="person" surface="Florian Haupt" />
+<Entity id="5" startPos="237" endPos="255" type="person" surface="Jose Angel Sanchez" />
+<Entity id="6" startPos="281" endPos="292" type="organization" surface="Real Madrid" />
+<Entity id="7" startPos="391" endPos="402" type="organization" surface="Real Madrid" />
+<Entity id="8" startPos="477" endPos="493" type="person" surface="Florentino Perez" />
+<Entity id="9" startPos="557" endPos="567" type="date" surface="Donnerstag" />
+<Entity id="10" startPos="577" endPos="584" type="person" surface="Sanchez" />
+<Entity id="11" startPos="670" endPos="695" type="location" surface="Estadio Santiago Bernabeu" />
+<Entity id="12" startPos="719" endPos="723" type="organization" surface="Fifa" />
+<Entity id="13" startPos="719" endPos="745" type="organization" surface="Fifa-Disziplinarkommission" />
+<Entity id="14" startPos="845" endPos="853" type="organization" surface="Atletico" />
+<Entity id="15" startPos="857" endPos="868" type="date" surface="Sommer 2016" />
+<Entity id="16" startPos="873" endPos="884" type="date" surface="Januar 2017" /></Entities><Relations />
+</Document>

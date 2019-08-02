@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />16.01.2016<NODE id="10" />      - aktualisiert <NODE id="31" />vor 10 Minuten<NODE id="45" />
+:
+<NODE id="48" />Di Caprio<NODE id="57" />: «Bei Dreharbeiten denke ich nie an die Oscars»
+Präsentierte seinen neuesten Film «The Revenant - Der Rückkehrer » in <NODE id="176" />Rom<NODE id="179" />: der <NODE id="185" />US<NODE id="187" />-Schauspieler <NODE id="201" />Leonardo Di Caprio<NODE id="219" />. Foto: EPA/<NODE id="231" />Maurizio Brambatti<NODE id="249" /> Bild: <NODE id="256" />dpa-infocom GmbH<NODE id="272" />
+Der gerade erst für einen Oscar als bester Hauptdarsteller nominierte <NODE id="343" />Leonardo Di Caprio<NODE id="361" /> (<NODE id="363" />41<NODE id="365" />) ist glücklich über die Ehrung - aber Auszeichnungen in <NODE id="422" />Hollywood<NODE id="431" /> sind für ihn nicht die treibende Kraft.
+«Es ist schön, von den Kollegen anerkannt zu werden, aber es sind nicht die Oscars, die mich motivieren», sagte der Schauspieler nach der Präsentation seines Erfolgsfilms «The Revenant» in <NODE id="661" />Rom<NODE id="664" />.
+Der Streifen, der die wahre Geschichte des Trappers und Abenteurers <NODE id="734" />Hugh Glass<NODE id="744" /> erzählt, ist für insgesamt <NODE id="772" />zwölf<NODE id="777" /> Oscars nominiert. «Wenn ich bei Dreharbeiten bin, dann denke ich nicht daran, einen Oscar zu gewinnen, sondern daran, ein Meisterwerk abzuliefern, das die Zeiten überdauert», zi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nwzonline.de/panorama/di-caprio-bei-dreharbeiten-denke-ich-nie-an-die-oscars_a_6,0,3001693101.html@2016-03-10T13:58:24.930+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.nwzonline.de/panorama/di-caprio-bei-dreharbeiten-denke-ich-nie-an-die-oscars_a_6,0,3001693101.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="16.01.2016" />
+<Entity id="1" startPos="31" endPos="45" type="time" surface="vor 10 Minuten" />
+<Entity id="2" startPos="48" endPos="57" type="person" surface="Di Caprio" />
+<Entity id="3" startPos="176" endPos="179" type="location-city" surface="Rom" />
+<Entity id="4" startPos="185" endPos="187" type="location" surface="US" />
+<Entity id="5" startPos="201" endPos="219" type="person" surface="Leonardo Di Caprio" />
+<Entity id="6" startPos="231" endPos="249" type="person" surface="Maurizio Brambatti" />
+<Entity id="7" startPos="256" endPos="272" type="organization-company" surface="dpa-infocom GmbH" />
+<Entity id="8" startPos="343" endPos="361" type="person" surface="Leonardo Di Caprio" />
+<Entity id="9" startPos="363" endPos="365" type="number" surface="41" />
+<Entity id="10" startPos="422" endPos="431" type="location" surface="Hollywood" />
+<Entity id="11" startPos="661" endPos="664" type="location-city" surface="Rom" />
+<Entity id="12" startPos="734" endPos="744" type="person" surface="Hugh Glass" />
+<Entity id="13" startPos="772" endPos="777" type="number" surface="zwölf" /></Entities><Relations />
+</Document>

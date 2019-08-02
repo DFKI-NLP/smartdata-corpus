@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bremen<NODE id="6" />: die <NODE id="12" />Borgfelder Landstraße<NODE id="33" /> ist zwischen <NODE id="47" />Borgfeld<NODE id="55" /> und <NODE id="60" />Am Großen Moordamm<NODE id="78" /> wegen <NODE id="85" />Hochwasser<NODE id="95" /> <NODE id="96" />gesperrt<NODE id="104" />. Eine Umleitung ist eingerichtet.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#50@2016-02-24T20:39:35.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T19:39:35Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:33:27.24Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="location-city" surface="Bremen" />
+<Entity id="1" startPos="12" endPos="33" type="location-street" surface="Borgfelder Landstraße" />
+<Entity id="2" startPos="47" endPos="55" type="location" surface="Borgfeld" />
+<Entity id="3" startPos="60" endPos="78" type="location" surface="Am Großen Moordamm" />
+<Entity id="4" startPos="85" endPos="95" type="trigger" surface="Hochwasser" />
+<Entity id="5" startPos="96" endPos="104" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="3" label="end_loc" />
+<Entity id="4" label="cause" />
+<Entity id="2" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

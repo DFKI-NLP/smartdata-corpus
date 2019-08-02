@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: Der <NODE id="16" />ägyptische<NODE id="26" /> Ableger des <NODE id="39" />Islamischen Staats <NODE id="58" />hat nach eigenen Angaben eine <NODE id="88" />kroatische<NODE id="98" /> Geisel ermordet http://t.co/C6bQbEAbOh
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="631449197435322369" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-12T12:56:35Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:43:04.12Z" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="16" endPos="26" type="location" surface="ägyptische" />
+<Entity id="2" startPos="39" endPos="58" type="organization" surface="Islamischen Staats " />
+<Entity id="3" startPos="88" endPos="98" type="location" surface="kroatische" /></Entities><Relations />
+</Document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-HAM<NODE id="7" />: Bei Auffahrunfall leicht verletzt https://t.co/QZ8okhHNWU #Polizei #<NODE id="77" />NWestfalen<NODE id="87" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="703753019758739457" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization" surface="POL-HAM" />
+<Entity id="1" startPos="77" endPos="87" type="location" surface="NWestfalen" /></Entities><Relations />
+</Document>

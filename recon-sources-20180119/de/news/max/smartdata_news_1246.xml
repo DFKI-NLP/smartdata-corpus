@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Täglich präsentieren wir dir hier die populärsten Nachrichten auf sharewise - Heute mit den folgenden Neuigkeiten:
+* Fusion von Panzerschmieden <NODE id="144" />KMW<NODE id="147" /> und <NODE id="152" />Nexter<NODE id="158" /> droht zu scheitern
+* Dobrindt will nach <NODE id="199" />VW<NODE id="201" />-Abgasskandal alle Hersteller schärfer prüfen
+* <NODE id="249" />Südafrika<NODE id="258" /> tauscht zum <NODE id="271" />zweiten<NODE id="278" /> Mal in <NODE id="286" />fünf Tagen<NODE id="296" /> Finanzminister aus
+* DAX-Ausblick: Bald folgen steigende Kurse
+* <NODE id="362" />Commerzbank<NODE id="373" />: Steigende Kurse sind möglich
+* Dialog Semiconductor: Steigt die Aktie weiter?
+Den vollständigen Artikel lesen ...
+Sie erhalten auf FinanzNachrichten.de kostenlose Realtime-Aktienkurse von  und  mit der Push-Technologie von  
+Wie bewerten Sie die aktuell angezeigte Seite?
+sehr gut<NODE id="655" />123456<NODE id="661" />schlechtProblem melden
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanznachrichten.de/nachrichten-2015-12/35879808-die-top-news-vom-14-12-2015-012.htm@2015-12-14T09:26:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-14T08:26:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:45:12.965Z" />
+<feature featureName="uri" featureValue="http://www.finanznachrichten.de/nachrichten-2015-12/35879808-die-top-news-vom-14-12-2015-012.htm" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="144" endPos="147" type="organization-company" surface="KMW" />
+<Entity id="1" startPos="152" endPos="158" type="organization-company" surface="Nexter" />
+<Entity id="2" startPos="199" endPos="201" type="organization-company" surface="VW" />
+<Entity id="3" startPos="249" endPos="258" type="location" surface="Südafrika" />
+<Entity id="4" startPos="271" endPos="278" type="number" surface="zweiten" />
+<Entity id="5" startPos="286" endPos="296" type="duration" surface="fünf Tagen" />
+<Entity id="6" startPos="362" endPos="373" type="organization-company" surface="Commerzbank" />
+<Entity id="7" startPos="655" endPos="661" type="number" surface="123456" /></Entities><Relations />
+</Document>

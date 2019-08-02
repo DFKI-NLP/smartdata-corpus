@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Museumsbesuche am <NODE id="18" />17.02.2016<NODE id="28" /> ab <NODE id="32" />10:00<NODE id="37" />Uhr
+Münzkabinett im <NODE id="57" />Bode-Museum<NODE id="68" />
+Das Münzkabinett ist mit <NODE id="94" />500.000<NODE id="101" /> Objekten eine der größten numismatischen Sammlungen. Die Sammlung verdankt ihre Weltgeltung dem Reichtum und der Geschlossenheit der Münzserien vom Beginn der Münzprägung im <NODE id="276" />7. Jahrhundert v. Chr.<NODE id="298" /> in <NODE id="302" />Kleinasien<NODE id="312" /> bis zu den Münzen und Medaillen des <NODE id="349" />21. Jahrhunderts<NODE id="365" />.
+Zu den bedeutendsten Beständen gehören <NODE id="406" />102.000<NODE id="413" /> <NODE id="414" />griechische<NODE id="425" /> und etwa <NODE id="435" />50.000<NODE id="441" /> römische Münzen der <NODE id="462" />Antike<NODE id="468" />, <NODE id="470" />160.000<NODE id="477" /> <NODE id="478" />europäische<NODE id="489" /> Münzen des <NODE id="501" />Mittelalters<NODE id="513" /> und der Neuzeit sowie <NODE id="536" />35.000<NODE id="542" /> islamisch-orientalische Münzen. Die im <NODE id="582" />15. Jahrhundert<NODE id="597" /> entstehende Kunstform der Medaille ist mit <NODE id="641" />25.000<NODE id="647" /> Stücken vertreten.
+Weitere Informationen erhalten Sie unter www.berliner-stadtmagazin.de .
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.berliner-stadtmagazin-blog.de/2016/02/museumsbesuche-am-17022016-m-im-bode.html@2016-02-17T05:30:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-17T04:30:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:04:52.952Z" />
+<feature featureName="uri" featureValue="http://www.berliner-stadtmagazin-blog.de/2016/02/museumsbesuche-am-17022016-m-im-bode.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="28" type="date" surface="17.02.2016" />
+<Entity id="1" startPos="32" endPos="37" type="date" surface="10:00" />
+<Entity id="2" startPos="57" endPos="68" type="organization" surface="Bode-Museum" />
+<Entity id="3" startPos="94" endPos="101" type="number" surface="500.000" />
+<Entity id="4" startPos="276" endPos="298" type="date" surface="7. Jahrhundert v. Chr." />
+<Entity id="5" startPos="302" endPos="312" type="location" surface="Kleinasien" />
+<Entity id="6" startPos="349" endPos="365" type="date" surface="21. Jahrhunderts" />
+<Entity id="7" startPos="406" endPos="413" type="number" surface="102.000" />
+<Entity id="8" startPos="414" endPos="425" type="location" surface="griechische" />
+<Entity id="9" startPos="435" endPos="441" type="number" surface="50.000" />
+<Entity id="10" startPos="462" endPos="468" type="date" surface="Antike" />
+<Entity id="11" startPos="470" endPos="477" type="number" surface="160.000" />
+<Entity id="12" startPos="478" endPos="489" type="location" surface="europäische" />
+<Entity id="13" startPos="501" endPos="513" type="date" surface="Mittelalters" />
+<Entity id="14" startPos="536" endPos="542" type="number" surface="35.000" />
+<Entity id="15" startPos="582" endPos="597" type="date" surface="15. Jahrhundert" />
+<Entity id="16" startPos="641" endPos="647" type="number" surface="25.000" /></Entities><Relations />
+</Document>

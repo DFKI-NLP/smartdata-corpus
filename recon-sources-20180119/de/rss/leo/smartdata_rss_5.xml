@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />A96<NODE id="7" /> <NODE id="8" />Lindau<NODE id="14" /> Richtung <NODE id="24" />München<NODE id="31" /> ist zwischen <NODE id="45" />Lindau<NODE id="51" /> und <NODE id="56" />Sigmarszell<NODE id="67" /> wegen Bergungsarbeiten <NODE id="91" />gesperrt<NODE id="99" />, <NODE id="101" />3 km<NODE id="105" /> <NODE id="106" />Stau<NODE id="110" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#47@2016-03-31T15:15:13.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="location-street" surface="A96" />
+<Entity id="1" startPos="8" endPos="14" type="location-city" surface="Lindau" />
+<Entity id="2" startPos="24" endPos="31" type="location-city" surface="München" />
+<Entity id="3" startPos="45" endPos="51" type="location" surface="Lindau" />
+<Entity id="4" startPos="56" endPos="67" type="location" surface="Sigmarszell" />
+<Entity id="5" startPos="91" endPos="99" type="trigger" surface="gesperrt" />
+<Entity id="6" startPos="101" endPos="105" type="distance" surface="3 km" />
+<Entity id="7" startPos="106" endPos="110" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="8" NAME="Obstruction">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation>
+<Relation id="9" NAME="TrafficJam">
+<Entity id="6" label="jam_length" />
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

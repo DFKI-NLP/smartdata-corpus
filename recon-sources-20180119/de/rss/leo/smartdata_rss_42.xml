@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A46<NODE id="3" /> <NODE id="4" />Düsseldorf<NODE id="14" /> Richtung <NODE id="24" />Heinsberg<NODE id="33" /> zwischen <NODE id="43" />Dremmen<NODE id="50" /> und <NODE id="55" />Heinsberg<NODE id="64" /> <NODE id="65" />3 km<NODE id="69" /> <NODE id="70" />Stau<NODE id="74" /> (Zeitverlust: <NODE id="89" />etwa eine halbe Stunde<NODE id="111" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#26@2016-03-21T10:28:05.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A46" />
+<Entity id="1" startPos="4" endPos="14" type="location-city" surface="Düsseldorf" />
+<Entity id="2" startPos="24" endPos="33" type="location-city" surface="Heinsberg" />
+<Entity id="3" startPos="43" endPos="50" type="location" surface="Dremmen" />
+<Entity id="4" startPos="55" endPos="64" type="location" surface="Heinsberg" />
+<Entity id="5" startPos="65" endPos="69" type="distance" surface="3 km" />
+<Entity id="6" startPos="70" endPos="74" type="trigger" surface="Stau" />
+<Entity id="7" startPos="89" endPos="111" type="duration" surface="etwa eine halbe Stunde" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="7" label="delay" />
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="jam_length" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

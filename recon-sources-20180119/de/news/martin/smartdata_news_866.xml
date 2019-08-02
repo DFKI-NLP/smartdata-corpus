@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Dienstag Vormittag<NODE id="18" /> marschierten Beschäftigte des öffentlichen Dienstes zum <NODE id="75" />Stachus<NODE id="82" />.
+© dpa
+<NODE id="90" />München<NODE id="97" /> - Über <NODE id="105" />2500<NODE id="109" /> Beschäftigte im <NODE id="126" />öffentlichen Dienst<NODE id="145" /> haben ihrem Frust am <NODE id="167" />Dienstag<NODE id="175" /> auf dem <NODE id="184" />Karlsplatz<NODE id="194" /> <NODE id="195" />lautstark Luft gemacht<NODE id="217" />. Die Arbeitgeber haben ihnen <NODE id="247" />drei Prozent<NODE id="259" /> mehr Lohn und Gehalt geboten, <NODE id="290" />Verdi<NODE id="295" /> hat abgelehnt.
+Die Gewerkschaft fordert für die bundesweit <NODE id="355" />zwei Millionen<NODE id="369" /> Beschäftigten des öffentlichen Dienstes <NODE id="410" />sechs Prozent<NODE id="423" /> mehr Geld. Wegen des Streiks blieben in München <NODE id="472" />150<NODE id="475" /> Kitas, <NODE id="483" />drei<NODE id="487" /> städtische Bäder und <NODE id="509" />vier<NODE id="513" /> Bibliotheken geschlossen, Mülltonnen wurden nicht geleert und Straßen nicht gereinigt. <NODE id="601" />Bayern<NODE id="607" />weit streikten <NODE id="622" />8000<NODE id="626" /> Angestellte. Die <NODE id="644" />dritte<NODE id="650" /> Verhandlungsrunde findet am <NODE id="679" />28.<NODE id="682" /> und <NODE id="687" />29. April<NODE id="696" /> statt. Am <NODE id="707" />Mittwoch<NODE id="715" /> wird der Flughafen bestreikt (s. unten).
+Kein Minus
++
+Viele fragen sich, weshalb die Erzieher schon wieder streiken. Aber hier geht’s um den ganzen öffentlichen Dienst. Wir sind die Menschen, die München am Laufen halt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.tz.de/muenchen/stadt/streiks-muenchen-kitas-kfz-zulassungsstelle-bleiben-6349654.html?cmp=defrss@2016-04-26T21:26:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-26T19:26:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-26T19:37:13.052Z" />
+<feature featureName="uri" featureValue="http://www.tz.de/muenchen/stadt/streiks-muenchen-kitas-kfz-zulassungsstelle-bleiben-6349654.html?cmp=defrss" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="18" type="date" surface="Dienstag Vormittag" />
+<Entity id="1" startPos="75" endPos="82" type="location-street" surface="Stachus" />
+<Entity id="2" startPos="90" endPos="97" type="location-city" surface="München" />
+<Entity id="3" startPos="105" endPos="109" type="number" surface="2500" />
+<Entity id="4" startPos="126" endPos="145" type="organization-company" surface="öffentlichen Dienst" />
+<Entity id="5" startPos="167" endPos="175" type="date" surface="Dienstag" />
+<Entity id="6" startPos="184" endPos="194" type="location-street" surface="Karlsplatz" />
+<Entity id="7" startPos="195" endPos="217" type="trigger" surface="lautstark Luft gemacht" />
+<Entity id="8" startPos="247" endPos="259" type="number" surface="drei Prozent" />
+<Entity id="9" startPos="290" endPos="295" type="organization" surface="Verdi" />
+<Entity id="10" startPos="355" endPos="369" type="number" surface="zwei Millionen" />
+<Entity id="11" startPos="410" endPos="423" type="number" surface="sechs Prozent" />
+<Entity id="12" startPos="472" endPos="475" type="number" surface="150" />
+<Entity id="13" startPos="483" endPos="487" type="number" surface="drei" />
+<Entity id="14" startPos="509" endPos="513" type="number" surface="vier" />
+<Entity id="15" startPos="601" endPos="607" type="location" surface="Bayern" />
+<Entity id="16" startPos="622" endPos="626" type="number" surface="8000" />
+<Entity id="17" startPos="644" endPos="650" type="number" surface="dritte" />
+<Entity id="18" startPos="679" endPos="682" type="date" surface="28." />
+<Entity id="19" startPos="687" endPos="696" type="date" surface="29. April" />
+<Entity id="20" startPos="707" endPos="715" type="date" surface="Mittwoch" /></Entities><Relations>
+<Relation id="21" NAME="Strike">
+<Entity id="5" label="date" />
+<Entity id="3" label="num_striking" />
+<Entity id="2" label="location" />
+<Entity id="4" label="company" />
+<Entity id="7" label="trigger" />
+</Relation></Relations>
+</Document>

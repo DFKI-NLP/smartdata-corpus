@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Irres Video - Tourist besteigt die <NODE id="35" />Cheops Pyramide<NODE id="50" /> - <NODE id="53" />Radio 7<NODE id="60" />
+Das Gute von gestern mit dem Besten von heute
+Programm
+Shows
+Events
+<NODE id="129" />Radio 7<NODE id="136" /> Events
+Konzerte Party Sport Comedy Special Sonstiges mehr anzeigen
+Fotos
+Sender
+Team
+Irres Video - Tourist besteigt die <NODE id="257" />Cheops Pyramide<NODE id="272" />
+<NODE id="273" />28.01.2016<NODE id="283" />, <NODE id="285" />11:43<NODE id="290" />
+<NODE id="291" />31.05.15<NODE id="299" />
+Die „Hold A Coke With Your Boobs“-Challenge
+Nach Ice-Bucket- und Bier-Challenges im Jahr <NODE id="389" />2014<NODE id="393" /> könnte das der neue Sommertrend werden: Die „Hold A Coke With  Your Boobs“-Challenge verdreht dem Netz den Kopf. Ob dieser Trend massenkompatibel ist? :)
+<NODE id="548" />15.03.15<NODE id="556" />
+Meteor über <NODE id="569" />Süddeutschland<NODE id="583" />
+Ein helles Licht am Himmel! Offenbar ist gegen <NODE id="631" />20.44 Uhr<NODE id="640" /> ein Meteor über das <NODE id="661" />Radio 7<NODE id="668" /> Land hinweggerast. Hier Aufnahmen aus <NODE id="707" />Blaustein<NODE id="716" />. Weitere Informationen in den <NODE id="747" />Radio 7<NODE id="754" /> Nachrichten.
+<NODE id="768" />01.04.14<NODE id="776" />
+ATEMLOS in <NODE id="788" />15<NODE id="790" /> Styles (Parodie) - <NODE id="810" />Digges Ding<NODE id="821" />
+Angelehnt an <NODE id="835" />Dark Horse<NODE id="845" /> in <NODE id="849" />20<NODE id="851" /> Styles haben <NODE id="865" />Digges Ding<NODE id="876" /> die Parodie-Kiste wieder mal ausgepackt und <NODE id="921" />Helene Fischer<NODE id="935" />'s Ateml
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.radio7.de/mediathek/149888/irres-video-tourist-besteigt-die-cheops-pyramide@2016-01-29T00:19:17.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-28T23:19:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:33:56.698Z" />
+<feature featureName="uri" featureValue="http://www.radio7.de/mediathek/149888/irres-video-tourist-besteigt-die-cheops-pyramide" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="35" endPos="50" type="location" surface="Cheops Pyramide" />
+<Entity id="1" startPos="53" endPos="60" type="organization-company" surface="Radio 7" />
+<Entity id="2" startPos="129" endPos="136" type="organization-company" surface="Radio 7" />
+<Entity id="3" startPos="257" endPos="272" type="location" surface="Cheops Pyramide" />
+<Entity id="4" startPos="273" endPos="283" type="date" surface="28.01.2016" />
+<Entity id="5" startPos="285" endPos="290" type="time" surface="11:43" />
+<Entity id="6" startPos="291" endPos="299" type="date" surface="31.05.15" />
+<Entity id="7" startPos="389" endPos="393" type="date" surface="2014" />
+<Entity id="8" startPos="548" endPos="556" type="date" surface="15.03.15" />
+<Entity id="9" startPos="569" endPos="583" type="location" surface="Süddeutschland" />
+<Entity id="10" startPos="631" endPos="640" type="time" surface="20.44 Uhr" />
+<Entity id="11" startPos="661" endPos="668" type="organization-company" surface="Radio 7" />
+<Entity id="12" startPos="707" endPos="716" type="location-city" surface="Blaustein" />
+<Entity id="13" startPos="747" endPos="754" type="organization-company" surface="Radio 7" />
+<Entity id="14" startPos="768" endPos="776" type="date" surface="01.04.14" />
+<Entity id="15" startPos="788" endPos="790" type="number" surface="15" />
+<Entity id="16" startPos="810" endPos="821" type="organization" surface="Digges Ding" />
+<Entity id="17" startPos="835" endPos="845" type="organization" surface="Dark Horse" />
+<Entity id="18" startPos="849" endPos="851" type="number" surface="20" />
+<Entity id="19" startPos="865" endPos="876" type="organization" surface="Digges Ding" />
+<Entity id="20" startPos="921" endPos="935" type="person" surface="Helene Fischer" /></Entities><Relations />
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />B10<NODE id="3" /> <NODE id="4" />Stuttgart-Ost<NODE id="17" /> und <NODE id="22" />Stuttgart-Untertürkheim<NODE id="45" />, <NODE id="47" />Uferstraße<NODE id="57" /> zwischen <NODE id="67" />Dreieck NeckarPark<NODE id="85" /> und <NODE id="90" />Benzstraße<NODE id="100" /> Gefahr durch defektes Fahrzeug
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=cc93f7e5-fd77-4e86-bb6e-4b8ceb671ffd@2016-05-04T18:34:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-04T16:34:00Z" />
+<feature featureName="indexDate" featureValue="2016-05-04T16:41:20.516Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=cc93f7e5-fd77-4e86-bb6e-4b8ceb671ffd" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="B10" />
+<Entity id="1" startPos="4" endPos="17" type="location-city" surface="Stuttgart-Ost" />
+<Entity id="2" startPos="22" endPos="45" type="location-city" surface="Stuttgart-Untertürkheim" />
+<Entity id="3" startPos="47" endPos="57" type="location-street" surface="Uferstraße" />
+<Entity id="4" startPos="67" endPos="85" type="location" surface="Dreieck NeckarPark" />
+<Entity id="5" startPos="90" endPos="100" type="location-street" surface="Benzstraße" /></Entities><Relations />
+</Document>

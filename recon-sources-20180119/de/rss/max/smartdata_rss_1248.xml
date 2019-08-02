@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A46<NODE id="3" /> <NODE id="4" />Düsseldorf<NODE id="14" /> Richtung <NODE id="24" />Wuppertal<NODE id="33" /> zwischen <NODE id="43" />Erkrath<NODE id="50" /> und <NODE id="55" />Kreuz Hilden<NODE id="67" /> <NODE id="68" />1 km<NODE id="72" /> <NODE id="73" />Stau<NODE id="77" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#27@2016-03-22T09:39:58.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-22T08:39:58Z" />
+<feature featureName="indexDate" featureValue="2016-03-22T08:40:13.734Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A46" />
+<Entity id="1" startPos="4" endPos="14" type="location-city" surface="Düsseldorf" />
+<Entity id="2" startPos="24" endPos="33" type="location-city" surface="Wuppertal" />
+<Entity id="3" startPos="43" endPos="50" type="location" surface="Erkrath" />
+<Entity id="4" startPos="55" endPos="67" type="location" surface="Kreuz Hilden" />
+<Entity id="5" startPos="68" endPos="72" type="distance" surface="1 km" />
+<Entity id="6" startPos="73" endPos="77" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

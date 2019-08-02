@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>kein Halt in <NODE id="13" />Hamburg Hbf<NODE id="24" /> und <NODE id="29" />Hamburg Dammtor<NODE id="44" /> sowie zusätzlicher Halt in <NODE id="72" />Hamburg-Bergedorf<NODE id="89" />
+ Zugausfall <NODE id="102" />Hamburg-Harburg<NODE id="117" /> &gt; <NODE id="120" />Hamburg-Altona<NODE id="134" />
+am <NODE id="138" />Sonntag, 12. Juni<NODE id="155" />, <NODE id="157" />ganztägig<NODE id="166" />
+Meldung:
+ <NODE id="177" />Mehrere IC-Züge<NODE id="192" /> <NODE id="193" />halten nicht<NODE id="205" /> in <NODE id="209" />Hamburg Hbf<NODE id="220" /> und <NODE id="225" />Hamburg Dammtor<NODE id="240" />. <NODE id="242" />Einige Züge<NODE id="253" /> halten als Ersatz zusätzlich in <NODE id="286" />Hamburg-Bergedorf<NODE id="303" />.
+ <NODE id="306" />IC 2414<NODE id="313" /> von <NODE id="318" />Köln Hbf<NODE id="326" /> und <NODE id="331" />2276<NODE id="335" /> von <NODE id="340" />Karlsruhe Hbf<NODE id="353" /> (planmäßige Ankunft <NODE id="374" />19.01 Uhr<NODE id="383" /> und <NODE id="388" />21.43 Uhr<NODE id="397" /> in <NODE id="401" />Hamburg-Altona<NODE id="415" />) enden in <NODE id="426" />Hamburg-Harburg<NODE id="441" /> und <NODE id="446" />fallen<NODE id="452" /> von <NODE id="457" />Hamburg-Harburg<NODE id="472" /> bis <NODE id="477" />Hamburg-Altona<NODE id="491" /> <NODE id="492" />aus<NODE id="495" />.
+Grund:
+Brücken- und Weichenarbeiten in <NODE id="536" />Hamburg Berliner Tor<NODE id="556" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="626" />195<NODE id="629" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_30-Westerland_Binz_Greifswald_-_Hamburg-Bremen-Dortmund-Koeln-Mainz-Mannheim-Stuttgart_Zuerich/16#a27bc3d52d02f1cfc88adc45e18b846f2cfbd9d6@2016-04-26T15:47:05.393+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-26T13:47:05.393Z" />
+<feature featureName="indexDate" featureValue="2016-04-26T13:47:18.9Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_30-Westerland_Binz_Greifswald_-_Hamburg-Bremen-Dortmund-Koeln-Mainz-Mannheim-Stuttgart_Zuerich/16#a27bc3d52d02f1cfc88adc45e18b846f2cfbd9d6" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="13" endPos="24" type="location-stop" surface="Hamburg Hbf" />
+<Entity id="1" startPos="29" endPos="44" type="location-stop" surface="Hamburg Dammtor" />
+<Entity id="2" startPos="72" endPos="89" type="location-stop" surface="Hamburg-Bergedorf" />
+<Entity id="3" startPos="102" endPos="117" type="location-stop" surface="Hamburg-Harburg" />
+<Entity id="4" startPos="120" endPos="134" type="location-stop" surface="Hamburg-Altona" />
+<Entity id="5" startPos="138" endPos="155" type="date" surface="Sonntag, 12. Juni" />
+<Entity id="6" startPos="157" endPos="166" type="duration" surface="ganztägig" />
+<Entity id="7" startPos="177" endPos="192" type="location-route" surface="Mehrere IC-Züge" />
+<Entity id="8" startPos="193" endPos="205" type="trigger" surface="halten nicht" />
+<Entity id="9" startPos="209" endPos="220" type="location-stop" surface="Hamburg Hbf" />
+<Entity id="10" startPos="225" endPos="240" type="location-stop" surface="Hamburg Dammtor" />
+<Entity id="11" startPos="242" endPos="253" type="location-route" surface="Einige Züge" />
+<Entity id="12" startPos="286" endPos="303" type="location-stop" surface="Hamburg-Bergedorf" />
+<Entity id="13" startPos="306" endPos="313" type="location-route" surface="IC 2414" />
+<Entity id="14" startPos="318" endPos="326" type="location-stop" surface="Köln Hbf" />
+<Entity id="15" startPos="331" endPos="335" type="location-route" surface="2276" />
+<Entity id="16" startPos="340" endPos="353" type="location-stop" surface="Karlsruhe Hbf" />
+<Entity id="17" startPos="374" endPos="383" type="time" surface="19.01 Uhr" />
+<Entity id="18" startPos="388" endPos="397" type="time" surface="21.43 Uhr" />
+<Entity id="19" startPos="401" endPos="415" type="location-stop" surface="Hamburg-Altona" />
+<Entity id="20" startPos="426" endPos="441" type="location-stop" surface="Hamburg-Harburg" />
+<Entity id="21" startPos="446" endPos="452" type="trigger" surface="fallen" />
+<Entity id="22" startPos="457" endPos="472" type="location-stop" surface="Hamburg-Harburg" />
+<Entity id="23" startPos="477" endPos="491" type="location-stop" surface="Hamburg-Altona" />
+<Entity id="24" startPos="492" endPos="495" type="trigger" surface="aus" />
+<Entity id="25" startPos="536" endPos="556" type="location-stop" surface="Hamburg Berliner Tor" />
+<Entity id="26" startPos="626" endPos="629" type="number" surface="195" /></Entities><Relations>
+<Relation id="27" NAME="CanceledRoute">
+<Entity id="23" label="end_loc" />
+<Entity id="22" label="start_loc" />
+<Entity id="13" label="location" />
+<Entity id="24" label="trigger" />
+<Entity id="21" label="trigger" />
+<Entity id="19" label="direction" />
+</Relation>
+<Relation id="28" NAME="CanceledRoute">
+<Entity id="23" label="end_loc" />
+<Entity id="22" label="start_loc" />
+<Entity id="15" label="location" />
+<Entity id="24" label="trigger" />
+<Entity id="21" label="trigger" />
+<Entity id="19" label="direction" />
+</Relation>
+<Relation id="29" NAME="CanceledStop">
+<Entity id="7" label="route" />
+<Entity id="9" label="location" />
+<Entity id="10" label="location" />
+<Entity id="8" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Biofrontera AG<NODE id="14" />: <NODE id="16" />Biofrontera<NODE id="27" /> besetzt Schlüsselpositionen bei <NODE id="60" />US<NODE id="62" />-Tochtergesellschaft<NODE id="82" /> https://t.co/wY2lE8UHmn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745900271830704129" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-23T08:44:17Z" />
+<feature featureName="indexDate" featureValue="2016-06-23T08:44:22.133Z" />
+<feature featureName="uri" featureValue="https://twitter.com/742702570070802432/status/745900271830704129" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="organization-company" surface="Biofrontera AG" />
+<Entity id="1" startPos="16" endPos="27" type="organization-company" surface="Biofrontera" />
+<Entity id="2" startPos="60" endPos="62" type="location" surface="US" />
+<Entity id="3" startPos="60" endPos="82" type="organization-company" surface="US-Tochtergesellschaft" /></Entities><Relations />
+</Document>

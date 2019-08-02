@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Venezuelas<NODE id="10" /> Präsident <NODE id="21" />Maduro<NODE id="27" /> erklärt <NODE id="36" />Freitage<NODE id="44" /> zu Feiertagen
+<NODE id="59" />07.04.2016<NODE id="69" />, <NODE id="71" />08:59<NODE id="76" />
+Energiekrise Venezuelas Präsident Maduro erklärt Freitage zu Feiertagen
+Foto: MARCO BELLO / REUTERS
+<NODE id="177" />Venezuela<NODE id="186" /> leidet unter einer schweren Wirtschafts- und Energiekrise. Der sozialistische Präsident <NODE id="275" />Nicolas Maduro<NODE id="289" />.
+0
+0
+Um Strom zu sparen, greift die Regierung von <NODE id="340" />Venezuela<NODE id="349" /> zu besonderen Mitteln. Das von Wasserkraft abhängige Land leidet unter <NODE id="421" />Dürre<NODE id="426" />.
+<NODE id="428" />Caracas<NODE id="435" />.  Wegen notorischen Strommangels hat <NODE id="473" />Venezuela<NODE id="482" /> alle <NODE id="488" />Freitage<NODE id="496" /> der nächsten beiden Monate zu Feiertagen erklärt. Das Vorhaben ist Teil eines <NODE id="575" />60-Tage<NODE id="582" />-Plans, mit dem das rezessionsgeplagte Opec-Land angesichts häufiger Stromausfälle Energie sparen will. Wir werden lange Wochenenden haben, sagte der linke Präsident Nicolas Maduro am <NODE id="766" />Mittwochabend<NODE id="779" /> im staatlichen Fernsehen . Konkrete Pläne sollten an diesem <NODE id="840" />Donnerstag<NODE id="850" /> vorgestellt werden.
+Die Opposition kritisierte, angesichts von Wirtschaftskrise, e
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.morgenpost.de/politik/ausland/article207393801/Venezuelas-Praesident-Maduro-erklaert-Freitage-zu-Feiertagen.html@2016-04-07T09:02:58.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-07T07:02:58Z" />
+<feature featureName="indexDate" featureValue="2016-04-07T07:05:20.906Z" />
+<feature featureName="uri" featureValue="http://www.morgenpost.de/politik/ausland/article207393801/Venezuelas-Praesident-Maduro-erklaert-Freitage-zu-Feiertagen.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="location" surface="Venezuelas" />
+<Entity id="1" startPos="21" endPos="27" type="person" surface="Maduro" />
+<Entity id="2" startPos="36" endPos="44" type="date" surface="Freitage" />
+<Entity id="3" startPos="59" endPos="69" type="date" surface="07.04.2016" />
+<Entity id="4" startPos="71" endPos="76" type="time" surface="08:59" />
+<Entity id="5" startPos="177" endPos="186" type="location" surface="Venezuela" />
+<Entity id="6" startPos="275" endPos="289" type="person" surface="Nicolas Maduro" />
+<Entity id="7" startPos="340" endPos="349" type="location" surface="Venezuela" />
+<Entity id="8" startPos="421" endPos="426" type="disaster-type" surface="Dürre" />
+<Entity id="9" startPos="428" endPos="435" type="location-city" surface="Caracas" />
+<Entity id="10" startPos="473" endPos="482" type="location" surface="Venezuela" />
+<Entity id="11" startPos="488" endPos="496" type="date" surface="Freitage" />
+<Entity id="12" startPos="575" endPos="582" type="duration" surface="60-Tage" />
+<Entity id="13" startPos="766" endPos="779" type="date" surface="Mittwochabend" />
+<Entity id="14" startPos="840" endPos="850" type="date" surface="Donnerstag" /></Entities><Relations />
+</Document>

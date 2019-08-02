@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>0
+Bewertungen)
+<NODE id="15" />BOCHUM<NODE id="21" />/<NODE id="22" />BERLIN<NODE id="28" /> (<NODE id="30" />dpa-AFX<NODE id="37" />) - Schlacht mit juristischen Finessen: In der Auseinandersetzung um die geplante feindliche <NODE id="130" />Übernahme<NODE id="139" /> des <NODE id="144" />Frankfurter<NODE id="155" /> Immobilienkonzerns <NODE id="175" />Deutsche Wohnen<NODE id="190" /> durch den <NODE id="201" />Bochumer<NODE id="209" />   Konkurrenten <NODE id="225" />Vonovia<NODE id="232" /> wird der Tonfall rauer.
+Knapp <NODE id="263" />vier Monate<NODE id="274" /> nach Bekanntwerden der feindlichen Offerte steht an diesem <NODE id="334" />Dienstag<NODE id="342" /> (<NODE id="344" />9.2.<NODE id="348" />) mit dem Auslaufen der Annahmefrist des Angebots durch die <NODE id="408" />Deutsche Wohnen<NODE id="423" />-Aktionäre das Finale auf dem   Programm. Im Zentrum des Dramas stehen derzeit die Inhaber von Wandelanleihen. Noch geben sich beide Seiten ebenso kämpferisch wie siegessicher.
+Was sind Waldelanleihen?
+Wandelanleihen sind verzinste Wertpapiere, die von einem Unternehmen ausgegeben werden. Der Inhaber kann seine Papiere im Regelfall innerhalb einer bestimmten Frist zu einem vorher festgelegten   Verhältnis in Aktien umtauschen. Damit würde der Eigentümer der Wandelanleihen zum Aktionär der Gesellschaft. Anso
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wallstreet-online.de/nachricht/8316940-ausblick-uebernahmekampf-giftpille-vonovia-deutsche-wohnen@2016-02-07T14:57:36.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-07T13:57:36Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T22:56:31.929Z" />
+<feature featureName="uri" featureValue="http://www.wallstreet-online.de/nachricht/8316940-ausblick-uebernahmekampf-giftpille-vonovia-deutsche-wohnen" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="21" type="location-city" surface="BOCHUM" />
+<Entity id="1" startPos="22" endPos="28" type="location-city" surface="BERLIN" />
+<Entity id="2" startPos="30" endPos="37" type="organization-company" surface="dpa-AFX" />
+<Entity id="3" startPos="130" endPos="139" type="trigger" surface="Übernahme" />
+<Entity id="4" startPos="144" endPos="155" type="location-city" surface="Frankfurter" />
+<Entity id="5" startPos="175" endPos="190" type="organization-company" surface="Deutsche Wohnen" />
+<Entity id="6" startPos="201" endPos="209" type="location-city" surface="Bochumer" />
+<Entity id="7" startPos="225" endPos="232" type="organization-company" surface="Vonovia" />
+<Entity id="8" startPos="263" endPos="274" type="duration" surface="vier Monate" />
+<Entity id="9" startPos="334" endPos="342" type="date" surface="Dienstag" />
+<Entity id="10" startPos="344" endPos="348" type="date" surface="9.2." />
+<Entity id="11" startPos="408" endPos="423" type="organization-company" surface="Deutsche Wohnen" /></Entities><Relations>
+<Relation id="12" NAME="Acquisition">
+<Entity id="3" label="trigger" />
+<Entity id="5" label="acquired" />
+<Entity id="7" label="buyer" />
+</Relation></Relations>
+</Document>

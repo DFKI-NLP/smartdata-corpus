@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Battlefield 5<NODE id="13" /> im Ersten Weltkrieg? Neues Gerücht.<NODE id="49" />
+
+<NODE id="51" />Battlefield 5<NODE id="64" /> im Ersten Weltkrieg?<NODE id="85" />
+<NODE id="86" />Neues Gerücht<NODE id="99" />
+<NODE id="100" />26. Feb / 15:00<NODE id="115" />
+<NODE id="116" />Michael Sosinka<NODE id="131" />
+<NODE id="132" />Laut einem Händlereintrag wird das neue Battlefield 5 im Ersten Weltkrieg stattfinden.<NODE id="218" /> <NODE id="219" />Das wäre jedenfalls eine dicke Überraschung.<NODE id="263" />
+<NODE id="264" />Im Rahmen der Bekanntgabe seiner Geschäftszahlen hat <NODE id="317" />Electronic Arts<NODE id="332" /> vor einigen Wochen bestätigt, dass zum Weihnachtsgeschäft 2016 ein neues <NODE id="406" />Battlefield<NODE id="417" /> von <NODE id="422" />DICE<NODE id="426" /> <NODE id="427" />veröffentlicht<NODE id="441" /> wird.<NODE id="447" /> <NODE id="448" />Um was es sich dabei handelt, hat <NODE id="482" />EA<NODE id="484" /> bisher nicht verraten.<NODE id="507" /> <NODE id="508" />Deswegen ist unklar, ob es ein echtes neues <NODE id="552" />Battlefield 5<NODE id="565" /> oder eher ein Spin-Off sein wird.<NODE id="599" />
+<NODE id="600" />Nun macht ein neues Gerücht die Runde, denn <NODE id="644" />WOG.ch<NODE id="650" /> listet <NODE id="658" />Battlefield 5<NODE id="671" /> mittlerweile mit einem Datum, und zwar dem 26. Oktober 2016, was eigentlich ziemlich realistisch klingt.<NODE id="776" /> <NODE id="777" />Die Überraschung kommt allerdings noch: Laut der sehr knappen Beschreibung soll das Spiel im Ersten Weltkrieg stattfinden.<NODE id="899" /> <NODE id="900" />Zudem ist von einem Multiplayer-Taktik-Shooter die Rede.<NODE id="956" /> <NODE id="957" />Electronic Arts<NODE id="972" /> und <NODE id="977" />DICE<NODE id="981" /> haben das<NODE id="991" /> 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.games.ch/9991-battlefield-5/news/battlefield-5-erster-weltkrieg-neues-geruecht-PiZ/@2016-02-26T15:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-26T14:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:32:12.951Z" />
+<feature featureName="uri" featureValue="http://www.games.ch/9991-battlefield-5/news/battlefield-5-erster-weltkrieg-neues-geruecht-PiZ/" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="product" surface="Battlefield 5" />
+<Entity id="1" startPos="0" endPos="49" type="sentence" surface="Battlefield 5 im Ersten Weltkrieg? Neues Gerücht." />
+<Entity id="2" startPos="51" endPos="64" type="product" surface="Battlefield 5" />
+<Entity id="3" startPos="51" endPos="85" type="sentence" surface="Battlefield 5 im Ersten Weltkrieg?" />
+<Entity id="4" startPos="86" endPos="99" type="sentence" surface="Neues Gerücht" />
+<Entity id="5" startPos="100" endPos="115" type="sentence" surface="26. Feb / 15:00" />
+<Entity id="6" startPos="116" endPos="131" type="person" surface="Michael Sosinka" />
+<Entity id="7" startPos="116" endPos="131" type="sentence" surface="Michael Sosinka" />
+<Entity id="8" startPos="132" endPos="218" type="sentence" surface="Laut einem Händlereintrag wird das neue Battlefield 5 im Ersten Weltkrieg stattfinden." />
+<Entity id="9" startPos="219" endPos="263" type="sentence" surface="Das wäre jedenfalls eine dicke Überraschung." />
+<Entity id="10" startPos="264" endPos="447" type="sentence" surface="Im Rahmen der Bekanntgabe seiner Geschäftszahlen hat Electronic Arts vor einigen Wochen bestätigt, dass zum Weihnachtsgeschäft 2016 ein neues Battlefield von DICE veröffentlicht wird." />
+<Entity id="11" startPos="317" endPos="332" type="organization-company" surface="Electronic Arts" />
+<Entity id="12" startPos="406" endPos="417" type="product" surface="Battlefield" />
+<Entity id="13" startPos="422" endPos="426" type="organization-company" surface="DICE" />
+<Entity id="14" startPos="427" endPos="441" type="trigger" surface="veröffentlicht" />
+<Entity id="15" startPos="448" endPos="507" type="sentence" surface="Um was es sich dabei handelt, hat EA bisher nicht verraten." />
+<Entity id="16" startPos="482" endPos="484" type="organization-company" surface="EA" />
+<Entity id="17" startPos="508" endPos="599" type="sentence" surface="Deswegen ist unklar, ob es ein echtes neues Battlefield 5 oder eher ein Spin-Off sein wird." />
+<Entity id="18" startPos="552" endPos="565" type="product" surface="Battlefield 5" />
+<Entity id="19" startPos="600" endPos="776" type="sentence" surface="Nun macht ein neues Gerücht die Runde, denn WOG.ch listet Battlefield 5 mittlerweile mit einem Datum, und zwar dem 26. Oktober 2016, was eigentlich ziemlich realistisch klingt." />
+<Entity id="20" startPos="644" endPos="650" type="organization" surface="WOG.ch" />
+<Entity id="21" startPos="658" endPos="671" type="product" surface="Battlefield 5" />
+<Entity id="22" startPos="777" endPos="899" type="sentence" surface="Die Überraschung kommt allerdings noch: Laut der sehr knappen Beschreibung soll das Spiel im Ersten Weltkrieg stattfinden." />
+<Entity id="23" startPos="900" endPos="956" type="sentence" surface="Zudem ist von einem Multiplayer-Taktik-Shooter die Rede." />
+<Entity id="24" startPos="957" endPos="972" type="organization-company" surface="Electronic Arts" />
+<Entity id="25" startPos="957" endPos="991" type="sentence" surface="Electronic Arts und DICE haben das" />
+<Entity id="26" startPos="977" endPos="981" type="organization-company" surface="DICE" /></Entities><Relations>
+<Relation id="27" NAME="CompanyProvidesProduct">
+<Entity id="12" label="product" />
+<Entity id="13" label="company" />
+<Entity id="14" label="trigger" />
+</Relation></Relations>
+</Document>

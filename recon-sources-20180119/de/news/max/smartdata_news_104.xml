@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Verkehr: Vom <NODE id="13" />Harz<NODE id="17" /> bis ans Meer!
+Ihr seht auch einen Blitzer oder einen Stau, der in der Liste fehlt?
+Dann ruft kostenlos unsere Hotline <NODE id="136" />0800<NODE id="140" /> / <NODE id="143" />5 29 55 55<NODE id="153" /> an und warnt die anderen.
+Infos für Schülerinnen und Schüler:
+An welchen Allgemein- und Berufsbildenden Schulen der Unterricht ausfällt, findet ihr immer aktuell HIER .
+Bauarbeiten und die aktuelle Verkehrslage in und um <NODE id="375" />Hannover<NODE id="383" /> könnt ihr auch auf unserer Verkehrscam-Seite beobachten.
+Stand vom: <NODE id="452" />16.01.2016<NODE id="462" /> <NODE id="463" />15:32 Uhr<NODE id="472" />
+Autobahnen / Bundesstraßen
+Vorsicht in ganz <NODE id="517" />Niedersachsen<NODE id="530" /> kann es durch Schnee und überfrierende Nässe sehr glatt sein. Fahrt also überall besonders vorsichtig und vorausschauend.
+Vorsicht, eine ungesicherte <NODE id="681" />Unfallstelle<NODE id="693" /> auf der <NODE id="702" />A2<NODE id="704" /> <NODE id="705" />Dortmund<NODE id="713" /> Richtung <NODE id="723" />Hannover<NODE id="731" /> Zwischen <NODE id="741" />Wunstorf-Luthe<NODE id="755" /> und <NODE id="760" />Garbsen<NODE id="767" />
+Vorsicht, eine <NODE id="783" />Unfallstelle<NODE id="795" /> auf der <NODE id="804" />A7<NODE id="806" /> <NODE id="807" />Hannover<NODE id="815" /> Richtung <NODE id="825" />Kassel<NODE id="831" /> Zwischen dem <NODE id="845" />Dreieck Hannover-Süd<NODE id="865" /> und <NODE id="870" />Hildesheim-Drispenstedt<NODE id="893" />
+Vorsicht, eine ungesicherte <NODE id="922" />Unfallstelle<NODE id="934" /> auf der <NODE id="943" />A7<NODE id="945" /> <NODE id="946" />Hannover<NODE id="954" /> Richtung <NODE id="964" />Hamburg<NODE id="971" /> Zwisc
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ffn.de/nachrichten/verkehr.html?hash=183886e107a5880cef6da5e023ffe241@2016-03-10T13:53:31.695+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ffn.de/nachrichten/verkehr.html?hash=183886e107a5880cef6da5e023ffe241" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="13" endPos="17" type="location" surface="Harz" />
+<Entity id="1" startPos="136" endPos="140" type="number" surface="0800" />
+<Entity id="2" startPos="143" endPos="153" type="number" surface="5 29 55 55" />
+<Entity id="3" startPos="375" endPos="383" type="location-city" surface="Hannover" />
+<Entity id="4" startPos="452" endPos="462" type="date" surface="16.01.2016" />
+<Entity id="5" startPos="463" endPos="472" type="time" surface="15:32 Uhr" />
+<Entity id="6" startPos="517" endPos="530" type="location" surface="Niedersachsen" />
+<Entity id="7" startPos="681" endPos="693" type="trigger" surface="Unfallstelle" />
+<Entity id="8" startPos="702" endPos="704" type="location-street" surface="A2" />
+<Entity id="9" startPos="705" endPos="713" type="location-city" surface="Dortmund" />
+<Entity id="10" startPos="723" endPos="731" type="location-city" surface="Hannover" />
+<Entity id="11" startPos="741" endPos="755" type="location-city" surface="Wunstorf-Luthe" />
+<Entity id="12" startPos="760" endPos="767" type="location-city" surface="Garbsen" />
+<Entity id="13" startPos="783" endPos="795" type="trigger" surface="Unfallstelle" />
+<Entity id="14" startPos="804" endPos="806" type="location-street" surface="A7" />
+<Entity id="15" startPos="807" endPos="815" type="location-city" surface="Hannover" />
+<Entity id="16" startPos="825" endPos="831" type="location-city" surface="Kassel" />
+<Entity id="17" startPos="845" endPos="865" type="location" surface="Dreieck Hannover-Süd" />
+<Entity id="18" startPos="870" endPos="893" type="location" surface="Hildesheim-Drispenstedt" />
+<Entity id="19" startPos="922" endPos="934" type="trigger" surface="Unfallstelle" />
+<Entity id="20" startPos="943" endPos="945" type="location-street" surface="A7" />
+<Entity id="21" startPos="946" endPos="954" type="location-city" surface="Hannover" />
+<Entity id="22" startPos="964" endPos="971" type="location-city" surface="Hamburg" /></Entities><Relations>
+<Relation id="23" NAME="Accident">
+<Entity id="12" label="end_loc" />
+<Entity id="11" label="start_loc" />
+<Entity id="8" label="location" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="24" NAME="Accident">
+<Entity id="18" label="end_loc" />
+<Entity id="17" label="start_loc" />
+<Entity id="14" label="location" />
+<Entity id="13" label="trigger" />
+</Relation>
+<Relation id="25" NAME="Accident">
+<Entity id="20" label="location" />
+<Entity id="19" label="trigger" />
+</Relation></Relations>
+</Document>

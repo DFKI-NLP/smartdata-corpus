@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Würzburg<NODE id="8" /> Richtung <NODE id="18" />Ulm<NODE id="21" /> <NODE id="22" />Agnesburg-Tunnel<NODE id="38" /> Baustelle beseitigt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=b8fdc280-b023-460e-8886-aa6150564205@2016-03-23T01:38:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-23T00:38:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T01:54:37.217Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=b8fdc280-b023-460e-8886-aa6150564205" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-city" surface="Würzburg" />
+<Entity id="1" startPos="18" endPos="21" type="location-city" surface="Ulm" />
+<Entity id="2" startPos="22" endPos="38" type="location-street" surface="Agnesburg-Tunnel" /></Entities><Relations />
+</Document>

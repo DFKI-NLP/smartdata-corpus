@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A96<NODE id="3" /> <NODE id="4" />München<NODE id="11" /> Richtung <NODE id="21" />Lindau<NODE id="27" /> zwischen <NODE id="37" />Holzgünz<NODE id="45" /> und <NODE id="50" />Memmingen-Ost<NODE id="63" /> ein <NODE id="68" />Unfall<NODE id="74" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#40@2016-02-27T11:41:43.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-27T10:41:43Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T08:03:47.329Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A96" />
+<Entity id="1" startPos="4" endPos="11" type="location-city" surface="München" />
+<Entity id="2" startPos="21" endPos="27" type="location-city" surface="Lindau" />
+<Entity id="3" startPos="37" endPos="45" type="location" surface="Holzgünz" />
+<Entity id="4" startPos="50" endPos="63" type="location" surface="Memmingen-Ost" />
+<Entity id="5" startPos="68" endPos="74" type="trigger" surface="Unfall" /></Entities><Relations>
+<Relation id="6" NAME="Accident">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Nischenseiten Marketing<NODE id="23" />
+<NODE id="24" />Tags<NODE id="28" />
+<NODE id="29" />Crash-Angst am <NODE id="44" />kanadischen<NODE id="55" /> Immobilienmarkt: »Der beste Februar seit Jesus«<NODE id="103" />
+<NODE id="104" />16. März 2016<NODE id="117" />
+<NODE id="118" />von <NODE id="122" />Fabienne Du Pont<NODE id="138" />
+<NODE id="139" />Kanada<NODE id="145" /> ist nicht nur unter Auswanderern eine Legende.<NODE id="192" /> <NODE id="193" />Eingeweihte wissen, dass das »Ahornland« seit vielen Monaten als der heißeste Immobilienmarkt auf dem Globus gilt.<NODE id="307" /> <NODE id="308" />Elf, zwölf, manchmal 13 Jahresgehälter muss ein Käufer hinblättern, um ein freistehendes Einfamilienhaus zu ergattern – wenn er denn eines bekommt.<NODE id="455" />
+<NODE id="456" />Das gilt vor allem für die Turbo-Märkte in <NODE id="499" />Toronto<NODE id="506" /> und <NODE id="511" />Vancouver<NODE id="520" />.<NODE id="521" /> <NODE id="522" />Doch jetzt warnen selbst die Banken, die an dem Hypothekengeschäft rund um den raketenhaft gestiegenen Markt bestens verdienen.<NODE id="649" /> <NODE id="650" />In der ölreichen Provinz <NODE id="675" />Alberta<NODE id="682" />, wo die Implosion der Öl-Notierungen seit 2014 zu Tausenden von Entlassungen geführt hat, ist der Markt bereits im freien Fall.<NODE id="810" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzpraxis.com/2016/03/crash-angst-am-kanadischen-immobilienmarkt-der-beste-februar-seit-jesus/@2016-03-16T10:31:27.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-16T09:31:27Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T16:54:01.933Z" />
+<feature featureName="uri" featureValue="http://www.finanzpraxis.com/2016/03/crash-angst-am-kanadischen-immobilienmarkt-der-beste-februar-seit-jesus/" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="23" type="sentence" surface="Nischenseiten Marketing" />
+<Entity id="1" startPos="24" endPos="28" type="sentence" surface="Tags" />
+<Entity id="2" startPos="29" endPos="103" type="sentence" surface="Crash-Angst am kanadischen Immobilienmarkt: »Der beste Februar seit Jesus«" />
+<Entity id="3" startPos="44" endPos="55" type="location" surface="kanadischen" />
+<Entity id="4" startPos="104" endPos="117" type="sentence" surface="16. März 2016" />
+<Entity id="5" startPos="118" endPos="138" type="sentence" surface="von Fabienne Du Pont" />
+<Entity id="6" startPos="122" endPos="138" type="person" surface="Fabienne Du Pont" />
+<Entity id="7" startPos="139" endPos="145" type="location" surface="Kanada" />
+<Entity id="8" startPos="139" endPos="192" type="sentence" surface="Kanada ist nicht nur unter Auswanderern eine Legende." />
+<Entity id="9" startPos="193" endPos="307" type="sentence" surface="Eingeweihte wissen, dass das »Ahornland« seit vielen Monaten als der heißeste Immobilienmarkt auf dem Globus gilt." />
+<Entity id="10" startPos="308" endPos="455" type="sentence" surface="Elf, zwölf, manchmal 13 Jahresgehälter muss ein Käufer hinblättern, um ein freistehendes Einfamilienhaus zu ergattern – wenn er denn eines bekommt." />
+<Entity id="11" startPos="456" endPos="521" type="sentence" surface="Das gilt vor allem für die Turbo-Märkte in Toronto und Vancouver." />
+<Entity id="12" startPos="499" endPos="506" type="location" surface="Toronto" />
+<Entity id="13" startPos="511" endPos="520" type="location" surface="Vancouver" />
+<Entity id="14" startPos="522" endPos="649" type="sentence" surface="Doch jetzt warnen selbst die Banken, die an dem Hypothekengeschäft rund um den raketenhaft gestiegenen Markt bestens verdienen." />
+<Entity id="15" startPos="650" endPos="810" type="sentence" surface="In der ölreichen Provinz Alberta, wo die Implosion der Öl-Notierungen seit 2014 zu Tausenden von Entlassungen geführt hat, ist der Markt bereits im freien Fall." />
+<Entity id="16" startPos="675" endPos="682" type="location" surface="Alberta" /></Entities><Relations />
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Ulm<NODE id="3" /> Richtung <NODE id="13" />Würzburg<NODE id="21" /> in Höhe <NODE id="30" />Langenau<NODE id="38" /> Straße wieder frei
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=8751782c-6f5e-4437-a4d0-ab827e41f7bd@2016-07-08T13:52:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-08T11:52:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-08T13:01:19.393Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=8751782c-6f5e-4437-a4d0-ab827e41f7bd" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-city" surface="Ulm" />
+<Entity id="1" startPos="13" endPos="21" type="location-city" surface="Würzburg" />
+<Entity id="2" startPos="30" endPos="38" type="location" surface="Langenau" /></Entities><Relations />
+</Document>

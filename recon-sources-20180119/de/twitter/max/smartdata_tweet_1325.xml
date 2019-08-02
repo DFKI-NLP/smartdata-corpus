@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />SPIEGELONLINE<NODE id="14" /> Jetzt darf der Irrsinn von der Kette. Niedriger geht es nicht. Von Größe u Souveränität zeugt das nicht.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755023256067932160" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T12:55:46Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T12:55:52.352Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2974996144/status/755023256067932160" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="14" type="organization-company" surface="SPIEGELONLINE" /></Entities><Relations />
+</Document>

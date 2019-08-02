@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Dow Chemical<NODE id="12" />-<NODE id="13" />Standort<NODE id="21" /> bei <NODE id="26" />Leipzig<NODE id="33" />. Foto: Peter Endig/Archiv
+<NODE id="60" />09.12.2015<NODE id="70" /> | <NODE id="73" />11:25 Uhr<NODE id="82" />
+Chemie
+Berichte: <NODE id="100" />Dow Chemical<NODE id="112" /> und <NODE id="117" />DuPont<NODE id="123" /> sprechen über <NODE id="138" />Mega-Fusion<NODE id="149" />
+In der <NODE id="157" />US<NODE id="159" />-Chemiebranche bahnt sich Medienberichten zufolge eine Mega-Fusion an. Die Konzerne <NODE id="243" />DuPont<NODE id="249" /> und <NODE id="254" />Dow Chemical<NODE id="266" /> befänden sich in fortgeschrittenen Verhandlungen über einen <NODE id="327" />Zusammenschluss<NODE id="342" />, berichteten das <NODE id="360" />Wall Street Journal<NODE id="379" /> und die Nachrichtenagentur <NODE id="407" />Bloomberg<NODE id="416" /> unter Berufung auf Insider.
+<NODE id="445" />New York<NODE id="453" />. Beide Unternehmen wollten das nicht kommentieren. Noch in <NODE id="513" />dieser Woche<NODE id="525" /> könnte es <NODE id="536" />Bloomberg<NODE id="545" /> zufolge zu einer Übereinkunft kommen. Es wäre ein Zusammenschluss der Superlative: Die Unternehmen haben einen Börsenwert von jeweils etwa <NODE id="685" />60 Milliarden Dollar<NODE id="705" /> (<NODE id="707" />55 Mrd Euro<NODE id="718" />) - es würde ein Branchengigant mit über <NODE id="759" />90 Milliarden Dollar <NODE id="780" />Umsatz entstehen.
+Noch ist der Abschluss den Informationen zufolge aber nicht sicher. Im Falle eines Zusammengehens soll das Unternehmen allerdings auch aus
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.neuepresse.de/Nachrichten/Wirtschaft/Uebersicht/Berichte-Dow-Chemical-und-DuPont-sprechen-ueber-Mega-Fusion@2016-03-10T21:12:17.834+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T20:12:17.834Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T20:12:23.484Z" />
+<feature featureName="uri" featureValue="http://www.neuepresse.de/Nachrichten/Wirtschaft/Uebersicht/Berichte-Dow-Chemical-und-DuPont-sprechen-ueber-Mega-Fusion" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="organization-company" surface="Dow Chemical" />
+<Entity id="1" startPos="13" endPos="21" type="trigger" surface="Standort" />
+<Entity id="2" startPos="26" endPos="33" type="location-city" surface="Leipzig" />
+<Entity id="3" startPos="60" endPos="70" type="date" surface="09.12.2015" />
+<Entity id="4" startPos="73" endPos="82" type="time" surface="11:25 Uhr" />
+<Entity id="5" startPos="100" endPos="112" type="organization-company" surface="Dow Chemical" />
+<Entity id="6" startPos="117" endPos="123" type="organization-company" surface="DuPont" />
+<Entity id="7" startPos="138" endPos="149" type="trigger" surface="Mega-Fusion" />
+<Entity id="8" startPos="157" endPos="159" type="location" surface="US" />
+<Entity id="9" startPos="243" endPos="249" type="organization-company" surface="DuPont" />
+<Entity id="10" startPos="254" endPos="266" type="organization-company" surface="Dow Chemical" />
+<Entity id="11" startPos="327" endPos="342" type="trigger" surface="Zusammenschluss" />
+<Entity id="12" startPos="360" endPos="379" type="organization-company" surface="Wall Street Journal" />
+<Entity id="13" startPos="407" endPos="416" type="organization-company" surface="Bloomberg" />
+<Entity id="14" startPos="445" endPos="453" type="location-city" surface="New York" />
+<Entity id="15" startPos="513" endPos="525" type="date" surface="dieser Woche" />
+<Entity id="16" startPos="536" endPos="545" type="organization-company" surface="Bloomberg" />
+<Entity id="17" startPos="685" endPos="705" type="number" surface="60 Milliarden Dollar" />
+<Entity id="18" startPos="707" endPos="718" type="number" surface="55 Mrd Euro" />
+<Entity id="19" startPos="759" endPos="780" type="number" surface="90 Milliarden Dollar " /></Entities><Relations>
+<Relation id="20" NAME="CompanyFacility">
+<Entity id="0" label="company" />
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="21" NAME="Merger">
+<Entity id="5" label="old" />
+<Entity id="6" label="old" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="22" NAME="Merger">
+<Entity id="9" label="old" />
+<Entity id="10" label="old" />
+<Entity id="11" label="trigger" />
+</Relation></Relations>
+</Document>

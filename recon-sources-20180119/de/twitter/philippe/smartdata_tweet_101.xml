@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @1001ptsDE: Sonderflugplan: <NODE id="31" />Lufthansa<NODE id="40" />-<NODE id="41" />Streik<NODE id="47" /> am <NODE id="51" />Flughafen München<NODE id="68" /> startet http://t.co/SuIrvbazxt http://t.co/7xZoi9WqFm
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="641121061451485184" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="31" endPos="40" type="organization-company" surface="Lufthansa" />
+<Entity id="1" startPos="41" endPos="47" type="trigger" surface="Streik" />
+<Entity id="2" startPos="51" endPos="68" type="location-stop" surface="Flughafen München" /></Entities><Relations>
+<Relation id="3" NAME="Strike">
+<Entity id="0" label="company" />
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

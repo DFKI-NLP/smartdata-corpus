@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Massenkarambolage bei <NODE id="22" />Paderborn<NODE id="31" /> mit einem Toten<NODE id="47" />
+<NODE id="48" />01. Januar 2016 19:17 Uhr<NODE id="73" />
+<NODE id="74" />Massenkarambolage bei Paderborn mit einem Toten<NODE id="121" />
+<NODE id="122" />Paderborn -<NODE id="133" /> <NODE id="134" />Bei einer <NODE id="144" />Massenkarambolage<NODE id="161" /> auf der <NODE id="170" />Autobahn 33<NODE id="181" /> bei <NODE id="186" />Paderborn<NODE id="195" /> sind am <NODE id="204" />Neujahrsmorgen<NODE id="218" /> ein Mann getötet und zahlreichen Menschen verletzt worden.<NODE id="277" /> <NODE id="278" />Bis zum Nachmittag hatte die Polizei von über 60 zum Teil schwer Verletzten gesprochen.<NODE id="365" /> <NODE id="366" />Am Abend korrigierte die Polizei diese Angabe nach unten.<NODE id="423" /> <NODE id="424" />Eine konkrete Zahl liege aber noch nicht vor, hieß es.<NODE id="478" /> <NODE id="479" />24 Fahrzeuge waren in den Unfall verwickelt.<NODE id="523" /> <NODE id="524" />Als Ursache nannte ei Polizeisprecher plötzlich auftretenden Nebel.<NODE id="591" /> <NODE id="592" />Nach ersten Ermittlungen lag die Sichtweite eine Stunde nach Mitternacht an der Unfallstelle unter 25 Metern.<NODE id="701" />
+<NODE id="702" />Bei einer<NODE id="711" />
+<NODE id="712" />Massenkarambolage auf der Autobahn 33 bei Paderborn sind am Neujahrsmorgen ein Mann getötet und zahlreichen Menschen verletzt worden.<NODE id="845" /> <NODE id="846" />Bis zum Nachmittag hatte die Polizei von über 60 zum Teil schwer Verletzten gesprochen.<NODE id="933" /> <NODE id="934" />Am Abend korrigi<NODE id="950" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.stern.de/panorama/massenkarambolage-bei-paderborn-mit-einem-toten-6627848.html@2016-03-10T15:09:19.855+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:09:19.855Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:09:23.485Z" />
+<feature featureName="uri" featureValue="http://www.stern.de/panorama/massenkarambolage-bei-paderborn-mit-einem-toten-6627848.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="47" type="sentence" surface="Massenkarambolage bei Paderborn mit einem Toten" />
+<Entity id="1" startPos="22" endPos="31" type="location" surface="Paderborn" />
+<Entity id="2" startPos="48" endPos="73" type="sentence" surface="01. Januar 2016 19:17 Uhr" />
+<Entity id="3" startPos="74" endPos="121" type="sentence" surface="Massenkarambolage bei Paderborn mit einem Toten" />
+<Entity id="4" startPos="122" endPos="133" type="sentence" surface="Paderborn -" />
+<Entity id="5" startPos="134" endPos="277" type="sentence" surface="Bei einer Massenkarambolage auf der Autobahn 33 bei Paderborn sind am Neujahrsmorgen ein Mann getötet und zahlreichen Menschen verletzt worden." />
+<Entity id="6" startPos="144" endPos="161" type="trigger" surface="Massenkarambolage" />
+<Entity id="7" startPos="170" endPos="181" type="location-street" surface="Autobahn 33" />
+<Entity id="8" startPos="186" endPos="195" type="location" surface="Paderborn" />
+<Entity id="9" startPos="204" endPos="218" type="date" surface="Neujahrsmorgen" />
+<Entity id="10" startPos="278" endPos="365" type="sentence" surface="Bis zum Nachmittag hatte die Polizei von über 60 zum Teil schwer Verletzten gesprochen." />
+<Entity id="11" startPos="366" endPos="423" type="sentence" surface="Am Abend korrigierte die Polizei diese Angabe nach unten." />
+<Entity id="12" startPos="424" endPos="478" type="sentence" surface="Eine konkrete Zahl liege aber noch nicht vor, hieß es." />
+<Entity id="13" startPos="479" endPos="523" type="sentence" surface="24 Fahrzeuge waren in den Unfall verwickelt." />
+<Entity id="14" startPos="524" endPos="591" type="sentence" surface="Als Ursache nannte ei Polizeisprecher plötzlich auftretenden Nebel." />
+<Entity id="15" startPos="592" endPos="701" type="sentence" surface="Nach ersten Ermittlungen lag die Sichtweite eine Stunde nach Mitternacht an der Unfallstelle unter 25 Metern." />
+<Entity id="16" startPos="702" endPos="711" type="sentence" surface="Bei einer" />
+<Entity id="17" startPos="712" endPos="845" type="sentence" surface="Massenkarambolage auf der Autobahn 33 bei Paderborn sind am Neujahrsmorgen ein Mann getötet und zahlreichen Menschen verletzt worden." />
+<Entity id="18" startPos="846" endPos="933" type="sentence" surface="Bis zum Nachmittag hatte die Polizei von über 60 zum Teil schwer Verletzten gesprochen." />
+<Entity id="19" startPos="934" endPos="950" type="sentence" surface="Am Abend korrigi" /></Entities><Relations>
+<Relation id="20" NAME="Accident">
+<Entity id="9" label="end_date" />
+<Entity id="8" label="end_loc" />
+<Entity id="8" label="start_loc" />
+<Entity id="7" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="9" label="start_date" />
+</Relation></Relations>
+</Document>

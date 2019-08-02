@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: ++ EIL ++ Die <NODE id="26" />britische<NODE id="35" /> Parlamentsabgeordnete <NODE id="58" />Jo Cox<NODE id="64" /> ist nach dem Angriff gestorben. Mehr dazu in Kürze bei uns: https://t.co/U…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743486165785919489" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T16:51:29Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T16:51:30.204Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Petra van Loosen/status/743486165785919489" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="26" endPos="35" type="location" surface="britische" />
+<Entity id="2" startPos="58" endPos="64" type="person" surface="Jo Cox" /></Entities><Relations />
+</Document>

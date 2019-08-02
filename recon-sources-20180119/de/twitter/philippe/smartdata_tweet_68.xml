@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ist das ne Straßenkarte von <NODE id="28" />Berlin<NODE id="34" />?
+Nee, das ist das Liniennetz des Schienenersatzverkehr.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667419325767262208" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="28" endPos="34" type="location-city" surface="Berlin" /></Entities><Relations />
+</Document>

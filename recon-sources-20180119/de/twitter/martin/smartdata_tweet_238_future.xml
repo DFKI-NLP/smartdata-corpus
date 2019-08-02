@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />welt<NODE id="8" />: <NODE id="10" />Deutsche Bahn<NODE id="23" />: Bahnchef <NODE id="34" />Grube<NODE id="39" /> kündigt <NODE id="48" />Stellenabbau<NODE id="60" /> an http://t.co/jPY1wkK8Bg http://t.co/VRkf4Gmcyb
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="655630137258582016" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-18T06:23:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T16:47:34.122Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="8" type="organization-company" surface="welt" />
+<Entity id="1" startPos="10" endPos="23" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="2" startPos="34" endPos="39" type="person" surface="Grube" />
+<Entity id="3" startPos="48" endPos="60" type="trigger" surface="Stellenabbau" /></Entities><Relations>
+<Relation id="4" NAME="Layoffs">
+<Entity id="1" label="company" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

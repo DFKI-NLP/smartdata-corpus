@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: Jeder <NODE id="18" />siebte<NODE id="24" /> <NODE id="25" />Deutsche<NODE id="33" /> hat kein Interesse an seinen Finanzen: https://t.co/Y5UFnqJKGR
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672519765777383424" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-03T20:56:21Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:32:55.052Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="18" endPos="24" type="number" surface="siebte" />
+<Entity id="2" startPos="25" endPos="33" type="location" surface="Deutsche" /></Entities><Relations />
+</Document>

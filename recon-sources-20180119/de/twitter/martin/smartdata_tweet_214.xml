@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />MeinFernbus<NODE id="12" /> was ist denn bei der Fusion damals schief gelaufen, dass ihr jetzt nicht MeinFlixbus heißt? Das stand doch sicher zur Debatte.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="699522852480016384" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-16T09:16:59Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T17:12:05.041Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="12" type="organization-company" surface="MeinFernbus" /></Entities><Relations />
+</Document>

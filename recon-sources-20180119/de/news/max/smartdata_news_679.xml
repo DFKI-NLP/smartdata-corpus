@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bericht: Experten erwarten Verzögerung des Bauabschlusses am <NODE id="61" />BER<NODE id="64" />
+Von: <NODE id="70" />dpa<NODE id="73" />
+Letzte Aktualisierung:
+<NODE id="97" />13. März 2016<NODE id="110" />, <NODE id="112" />13:02 Uhr<NODE id="121" />
+<NODE id="122" />Berlin<NODE id="128" />. Externe Experten gehen nach einem Medienbericht von einer monatelangen Verzögerung der Bauerarbeiten am künftigen Hauptstadtflughafen in <NODE id="267" />Berlin<NODE id="273" /> aus. In einem vertraulichen Bericht der Bauüberwachung werde der <NODE id="339" />8. Dezember 2016<NODE id="355" /> für die bauliche Fertigstellung prognostiziert, schreibt die „<NODE id="418" />Bild am Sonntag<NODE id="433" />”. Bei anhaltendem Trend sei sogar mit „<NODE id="473" />Januar 2017<NODE id="484" />” zu rechnen. Offiziell heisst es, dass die Bauarbeiten im <NODE id="543" />Sommer 2016 <NODE id="555" />abgeschlossen sein sollen. Der Start des <NODE id="596" />BER<NODE id="599" /> wird <NODE id="605" />Ende 2017 <NODE id="615" />angepeilt. Der Starttermin war immer wieder verschoben worden.
+Bericht: Experten erwarten Verzögerung des Bauabschlusses am <NODE id="739" />BER<NODE id="742" />
+Von: <NODE id="748" />dpa<NODE id="751" />
+Letzte Aktualisierung:
+<NODE id="775" />13. März 2016<NODE id="788" />, <NODE id="790" />13:02 Uhr<NODE id="799" />
+<NODE id="800" />Berlin<NODE id="806" />. Externe Experten gehen nach einem Medienbericht von einer monatelangen Verzögerung der Bauerarbeiten am künftigen Hauptstadtflug
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.aachener-nachrichten.de/news/newsticker/bericht-experten-erwarten-verzoegerung-des-bauabschlusses-am-ber-1.1315077@2016-03-13T13:02:01.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-13T12:02:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T15:47:11.929Z" />
+<feature featureName="uri" featureValue="http://www.aachener-nachrichten.de/news/newsticker/bericht-experten-erwarten-verzoegerung-des-bauabschlusses-am-ber-1.1315077" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="61" endPos="64" type="organization-company" surface="BER" />
+<Entity id="1" startPos="70" endPos="73" type="organization-company" surface="dpa" />
+<Entity id="2" startPos="97" endPos="110" type="date" surface="13. März 2016" />
+<Entity id="3" startPos="112" endPos="121" type="time" surface="13:02 Uhr" />
+<Entity id="4" startPos="122" endPos="128" type="location-city" surface="Berlin" />
+<Entity id="5" startPos="267" endPos="273" type="location-city" surface="Berlin" />
+<Entity id="6" startPos="339" endPos="355" type="date" surface="8. Dezember 2016" />
+<Entity id="7" startPos="418" endPos="433" type="organization-company" surface="Bild am Sonntag" />
+<Entity id="8" startPos="473" endPos="484" type="date" surface="Januar 2017" />
+<Entity id="9" startPos="543" endPos="555" type="date" surface="Sommer 2016 " />
+<Entity id="10" startPos="596" endPos="599" type="organization-company" surface="BER" />
+<Entity id="11" startPos="605" endPos="615" type="date" surface="Ende 2017 " />
+<Entity id="12" startPos="739" endPos="742" type="organization-company" surface="BER" />
+<Entity id="13" startPos="748" endPos="751" type="organization-company" surface="dpa" />
+<Entity id="14" startPos="775" endPos="788" type="date" surface="13. März 2016" />
+<Entity id="15" startPos="790" endPos="799" type="time" surface="13:02 Uhr" />
+<Entity id="16" startPos="800" endPos="806" type="location-city" surface="Berlin" /></Entities><Relations />
+</Document>

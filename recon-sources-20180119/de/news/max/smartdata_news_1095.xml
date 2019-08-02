@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>&gt; ROUNDUP <NODE id="10" />2<NODE id="11" />: <NODE id="13" />Mars<NODE id="17" /> ruft Millionen Schokoriegel zurück
+ROUNDUP <NODE id="61" />2<NODE id="62" />: <NODE id="64" />Mars<NODE id="68" /> ruft Millionen Schokoriegel zurück
+<NODE id="104" />heute<NODE id="109" />, <NODE id="111" />18:11<NODE id="116" />
+<NODE id="117" />dpa-AFX<NODE id="124" />
+(neu: auch <NODE id="136" />Österreich<NODE id="146" />, <NODE id="148" />Belgien<NODE id="155" /> und <NODE id="160" />Luxemburg<NODE id="169" /> betroffen)
+<NODE id="181" />VIERSEN<NODE id="188" /> (<NODE id="190" />dpa-AFX<NODE id="197" />) - Riesenrückruf von Schokoriegeln: Der <NODE id="238" />US<NODE id="240" />-Süßwarengigant <NODE id="256" />Mars<NODE id="260" /> warnt seine Kunden vor dem Verzehr von Süßigkeiten der Marken <NODE id="323" />Mars<NODE id="327" /> und <NODE id="332" />Snickers<NODE id="340" /> sowie von einigen Produkten der Marken <NODE id="380" />Milky Way<NODE id="389" /> und <NODE id="394" />Celebrations<NODE id="406" />. In einem Produkt sei ein Kunststoffteilchen gefunden worden, erklärte das Unternehmen am <NODE id="497" />Dienstag<NODE id="505" />. Eine Erstickungsgefahr sei nicht auszuschließen. <NODE id="556" />Mars<NODE id="560" /> habe sich deshalb zu einem freiwilligen Rückruf entschlossen. Neben <NODE id="629" />Deutschland<NODE id="640" /> sind mindestens <NODE id="657" />fünf<NODE id="661" /> weitere <NODE id="670" />europäische<NODE id="681" /> Länder betroffen.
+Es geht um Produkte mit Mindesthaltbarkeitsdaten zwischen dem <NODE id="762" />19. Juni 2016<NODE id="775" /> und dem <NODE id="784" />8. Januar 2017<NODE id="798" />. Die Süßigkeiten seien <NODE id="822" />Anfang Januar<NODE id="835" /> bis <NODE id="840" />Anfang Februar<NODE id="854" /> in den <NODE id="862" />Niederlanden<NODE id="874" /> produziert worden, berichtete ein Unternehmenssprecher.
+Eine Verbraucher
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.onvista.de/news/roundup-2-mars-ruft-millionen-schokoriegel-zurueck-25951557@2016-02-23T18:11:25.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T17:11:25Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:41:16.695Z" />
+<feature featureName="uri" featureValue="http://www.onvista.de/news/roundup-2-mars-ruft-millionen-schokoriegel-zurueck-25951557" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="10" endPos="11" type="number" surface="2" />
+<Entity id="1" startPos="13" endPos="17" type="organization-company" surface="Mars" />
+<Entity id="2" startPos="61" endPos="62" type="number" surface="2" />
+<Entity id="3" startPos="64" endPos="68" type="organization-company" surface="Mars" />
+<Entity id="4" startPos="104" endPos="109" type="date" surface="heute" />
+<Entity id="5" startPos="111" endPos="116" type="date" surface="18:11" />
+<Entity id="6" startPos="117" endPos="124" type="organization-company" surface="dpa-AFX" />
+<Entity id="7" startPos="136" endPos="146" type="location" surface="Österreich" />
+<Entity id="8" startPos="148" endPos="155" type="location" surface="Belgien" />
+<Entity id="9" startPos="160" endPos="169" type="location" surface="Luxemburg" />
+<Entity id="10" startPos="181" endPos="188" type="location-city" surface="VIERSEN" />
+<Entity id="11" startPos="190" endPos="197" type="organization-company" surface="dpa-AFX" />
+<Entity id="12" startPos="238" endPos="240" type="location" surface="US" />
+<Entity id="13" startPos="256" endPos="260" type="organization-company" surface="Mars" />
+<Entity id="14" startPos="323" endPos="327" type="product" surface="Mars" />
+<Entity id="15" startPos="332" endPos="340" type="product" surface="Snickers" />
+<Entity id="16" startPos="380" endPos="389" type="product" surface="Milky Way" />
+<Entity id="17" startPos="394" endPos="406" type="product" surface="Celebrations" />
+<Entity id="18" startPos="497" endPos="505" type="date" surface="Dienstag" />
+<Entity id="19" startPos="556" endPos="560" type="organization-company" surface="Mars" />
+<Entity id="20" startPos="629" endPos="640" type="location" surface="Deutschland" />
+<Entity id="21" startPos="657" endPos="661" type="number" surface="fünf" />
+<Entity id="22" startPos="670" endPos="681" type="location" surface="europäische" />
+<Entity id="23" startPos="762" endPos="775" type="date" surface="19. Juni 2016" />
+<Entity id="24" startPos="784" endPos="798" type="date" surface="8. Januar 2017" />
+<Entity id="25" startPos="822" endPos="835" type="date" surface="Anfang Januar" />
+<Entity id="26" startPos="840" endPos="854" type="date" surface="Anfang Februar" />
+<Entity id="27" startPos="862" endPos="874" type="location" surface="Niederlanden" /></Entities><Relations>
+<Relation id="28" NAME="CompanyProvidesProduct">
+<Entity id="14" label="product" />
+<Entity id="16" label="product" />
+<Entity id="17" label="product" />
+<Entity id="15" label="product" />
+<Entity id="13" label="company" />
+</Relation></Relations>
+</Document>

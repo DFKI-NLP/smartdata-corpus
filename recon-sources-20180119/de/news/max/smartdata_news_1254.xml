@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Steht ohne Herren-Fußball-Spieler da: <NODE id="38" />Lutz Schölermann<NODE id="54" />,
+Erster Vorsitzender des <NODE id="80" />TSV Uetersen<NODE id="92" />
+Jetzt hat das <NODE id="107" />Erdbeben<NODE id="115" />, das es am <NODE id="127" />Mittwoch<NODE id="135" /> in der Fußball-Abteilung des <NODE id="165" />TSV Uetersen<NODE id="177" /> gab (<NODE id="183" />SportNord<NODE id="192" /> berichtete, siehe unten stehenden Link), auch gravierende Folgen für andere Mannschaften. Denn am <NODE id="291" />Donnerstagabend<NODE id="306" /> haben die Spieler der <NODE id="329" />Ersten<NODE id="335" />, <NODE id="337" />Zweiten<NODE id="344" /> und <NODE id="349" />Dritten<NODE id="356" /> Herren-Mannschaft des <NODE id="379" />TSV Uetersen<NODE id="391" /> nach Gesprächen mit dem Gesamtvorstand ihres Vereins entschieden, dass sie ab sofort nicht mehr für den <NODE id="496" />TSV<NODE id="499" /> antreten werden. Dies hat zur Folge, dass neben der <NODE id="552" />Ersten<NODE id="558" /> Mannschaft des <NODE id="574" />TSV Uetersen<NODE id="586" />, die in der Landesliga Hammonia aktuell Tabellen-<NODE id="636" />Achter<NODE id="642" /> ist, auch die <NODE id="657" />Zweiten<NODE id="664" /> Herren (nach zuletzt <NODE id="686" />fünf<NODE id="690" /> Siegen in Folge Rang-<NODE id="712" />Sechster<NODE id="720" /> in der Bezirksliga West) und die <NODE id="754" />Dritte<NODE id="760" /> Mannschaft (Tabellen-<NODE id="782" />13.<NODE id="785" /> in der Kreisliga <NODE id="803" />8<NODE id="804" />) mangels Spieler nicht mehr am Spielbetrieb teilnehmen können. Die <NODE id="872" />drei<NODE id="876" /> Teams werden in ihrer Spielklasse, nach dreimaligem Nichtantreten, als A
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.sportnord.de/news/?news_id=28899@2016-03-10T22:53:36.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T21:53:36Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T00:05:42.953Z" />
+<feature featureName="uri" featureValue="http://www.sportnord.de/news/?news_id=28899" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="38" endPos="54" type="person" surface="Lutz Schölermann" />
+<Entity id="1" startPos="80" endPos="92" type="organization" surface="TSV Uetersen" />
+<Entity id="2" startPos="107" endPos="115" type="disaster-type" surface="Erdbeben" />
+<Entity id="3" startPos="127" endPos="135" type="date" surface="Mittwoch" />
+<Entity id="4" startPos="165" endPos="177" type="organization" surface="TSV Uetersen" />
+<Entity id="5" startPos="183" endPos="192" type="organization-company" surface="SportNord" />
+<Entity id="6" startPos="291" endPos="306" type="date" surface="Donnerstagabend" />
+<Entity id="7" startPos="329" endPos="335" type="number" surface="Ersten" />
+<Entity id="8" startPos="337" endPos="344" type="number" surface="Zweiten" />
+<Entity id="9" startPos="349" endPos="356" type="number" surface="Dritten" />
+<Entity id="10" startPos="379" endPos="391" type="organization" surface="TSV Uetersen" />
+<Entity id="11" startPos="496" endPos="499" type="organization" surface="TSV" />
+<Entity id="12" startPos="552" endPos="558" type="number" surface="Ersten" />
+<Entity id="13" startPos="574" endPos="586" type="number" surface="TSV Uetersen" />
+<Entity id="14" startPos="636" endPos="642" type="number" surface="Achter" />
+<Entity id="15" startPos="657" endPos="664" type="number" surface="Zweiten" />
+<Entity id="16" startPos="686" endPos="690" type="number" surface="fünf" />
+<Entity id="17" startPos="712" endPos="720" type="number" surface="Sechster" />
+<Entity id="18" startPos="754" endPos="760" type="number" surface="Dritte" />
+<Entity id="19" startPos="782" endPos="785" type="number" surface="13." />
+<Entity id="20" startPos="803" endPos="804" type="number" surface="8" />
+<Entity id="21" startPos="872" endPos="876" type="number" surface="drei" /></Entities><Relations />
+</Document>

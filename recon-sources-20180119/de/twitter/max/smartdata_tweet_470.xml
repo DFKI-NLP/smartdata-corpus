@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />DB<NODE id="6" />_Info: <NODE id="13" />Ersatzverkehr<NODE id="26" /> auf der Linie <NODE id="41" />RE 4<NODE id="45" /> zwischen <NODE id="55" />Torgelow<NODE id="63" /> und <NODE id="68" />Ueckermünde Stadthafen<NODE id="90" /> vom <NODE id="95" />2. September<NODE id="107" /> bis <NODE id="112" />12.<NODE id="115" /> D... http://t.co/pkt1ws…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="637251617792897024" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-28T13:13:19Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T02:31:55.73Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="DB" />
+<Entity id="1" startPos="13" endPos="26" type="trigger" surface="Ersatzverkehr" />
+<Entity id="2" startPos="41" endPos="45" type="location-route" surface="RE 4" />
+<Entity id="3" startPos="55" endPos="63" type="location-stop" surface="Torgelow" />
+<Entity id="4" startPos="68" endPos="90" type="location-stop" surface="Ueckermünde Stadthafen" />
+<Entity id="5" startPos="95" endPos="107" type="date" surface="2. September" />
+<Entity id="6" startPos="112" endPos="115" type="date" surface="12." /></Entities><Relations>
+<Relation id="7" NAME="RailReplacementService">
+<Entity id="6" label="end_date" />
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+<Entity id="5" label="start_date" />
+</Relation></Relations>
+</Document>

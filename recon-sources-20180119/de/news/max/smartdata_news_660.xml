@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Kanzleramt<NODE id="10" />: Keine Zusammenarbeit mit <NODE id="37" />syrischer<NODE id="46" /> Armee<NODE id="52" />
+„Tornado“ des <NODE id="67" />Taktischen Luftwaffengeschwaders 51 „Immelmann“<NODE id="114" /> über dem <NODE id="124" />Fliegerhorst Jagel<NODE id="142" />. Foto: <NODE id="150" />Carsten Rehder<NODE id="164" />
+<NODE id="165" />Carsten Rehder<NODE id="179" />
+Ein Kampfflugzeug vom Typ „Tornado“ des <NODE id="220" />Taktischen Luftwaffengeschwaders 51 „Immelmann“<NODE id="267" /> der <NODE id="272" />Luftwaffe<NODE id="281" /> der <NODE id="286" />Bundeswehr<NODE id="296" /> setzt zur Landung auf dem <NODE id="323" />Fliegerhorst Jagel<NODE id="341" /> an. Foto: <NODE id="352" />Carsten Rehder<NODE id="366" />
+<NODE id="367" />Carsten Rehder<NODE id="381" />
+<NODE id="382" />Kanzlerin Merkel<NODE id="398" /> (M) wirft im Bundestag ihre Stimmkarte ein. Foto: <NODE id="449" />Michael Kappeler<NODE id="465" />
+<NODE id="466" />Michael Kappeler<NODE id="482" />
+Hält nichts von den Plänen der Koalition: <NODE id="525" />Anton Hofreiter<NODE id="540" />. Foto: <NODE id="548" />Kay Nietfeld<NODE id="560" />
+<NODE id="561" />Kay Nietfeld<NODE id="573" />
+Die Anzeigetafel zeigt die Rednerliste für die Abstimmung zum Bundeswehreinsatz gegen die Terrororganisation <NODE id="683" />IS<NODE id="685" /> an. Foto: <NODE id="696" />Kay Nietfeld<NODE id="708" />
+Kay Nietfeld
+Ein Tornado wird auf dem Fliegerhorst in <NODE id="763" />Jagel<NODE id="768" /> (<NODE id="770" />Schleswig-Holstein<NODE id="788" />) für einen Flug vorbereitet. Foto: <NODE id="824" />Carsten Rehder<NODE id="838" />/Archiv
+<NODE id="846" />Carsten Rehder<NODE id="860" />/Archiv
+<NODE id="868" />Berlin<NODE id="874" /> <NODE id="875" />dpa<NODE id="878" /> Eine Zusammenarbeit mit der <NODE id="907" />syrischen<NODE id="916" /> Armee<NODE id="922" /> im Kampf gegen die
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.schwaebische.de/politik/inland_artikel,-Altmaier-schliesst-Zusammenarbeit-mit-syrischer-Armee-aus-_arid,10354965.html@2016-03-10T20:48:31.075+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T19:48:31.075Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T19:48:33.483Z" />
+<feature featureName="uri" featureValue="http://www.schwaebische.de/politik/inland_artikel,-Altmaier-schliesst-Zusammenarbeit-mit-syrischer-Armee-aus-_arid,10354965.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="organization" surface="Kanzleramt" />
+<Entity id="1" startPos="37" endPos="46" type="location" surface="syrischer" />
+<Entity id="2" startPos="37" endPos="52" type="organization" surface="syrischer Armee" />
+<Entity id="3" startPos="67" endPos="114" type="organization" surface="Taktischen Luftwaffengeschwaders 51 „Immelmann“" />
+<Entity id="4" startPos="124" endPos="142" type="location" surface="Fliegerhorst Jagel" />
+<Entity id="5" startPos="150" endPos="164" type="person" surface="Carsten Rehder" />
+<Entity id="6" startPos="165" endPos="179" type="person" surface="Carsten Rehder" />
+<Entity id="7" startPos="220" endPos="267" type="organization" surface="Taktischen Luftwaffengeschwaders 51 „Immelmann“" />
+<Entity id="8" startPos="272" endPos="281" type="organization" surface="Luftwaffe" />
+<Entity id="9" startPos="286" endPos="296" type="organization" surface="Bundeswehr" />
+<Entity id="10" startPos="323" endPos="341" type="location" surface="Fliegerhorst Jagel" />
+<Entity id="11" startPos="352" endPos="366" type="person" surface="Carsten Rehder" />
+<Entity id="12" startPos="367" endPos="381" type="person" surface="Carsten Rehder" />
+<Entity id="13" startPos="382" endPos="398" type="person" surface="Kanzlerin Merkel" />
+<Entity id="14" startPos="449" endPos="465" type="person" surface="Michael Kappeler" />
+<Entity id="15" startPos="466" endPos="482" type="person" surface="Michael Kappeler" />
+<Entity id="16" startPos="525" endPos="540" type="person" surface="Anton Hofreiter" />
+<Entity id="17" startPos="548" endPos="560" type="person" surface="Kay Nietfeld" />
+<Entity id="18" startPos="561" endPos="573" type="person" surface="Kay Nietfeld" />
+<Entity id="19" startPos="683" endPos="685" type="organization" surface="IS" />
+<Entity id="20" startPos="696" endPos="708" type="person" surface="Kay Nietfeld" />
+<Entity id="21" startPos="763" endPos="768" type="location" surface="Jagel" />
+<Entity id="22" startPos="770" endPos="788" type="location" surface="Schleswig-Holstein" />
+<Entity id="23" startPos="824" endPos="838" type="person" surface="Carsten Rehder" />
+<Entity id="24" startPos="846" endPos="860" type="person" surface="Carsten Rehder" />
+<Entity id="25" startPos="868" endPos="874" type="location-city" surface="Berlin" />
+<Entity id="26" startPos="875" endPos="878" type="organization-company" surface="dpa" />
+<Entity id="27" startPos="907" endPos="916" type="location" surface="syrischen" />
+<Entity id="28" startPos="907" endPos="922" type="organization" surface="syrischen Armee" /></Entities><Relations />
+</Document>

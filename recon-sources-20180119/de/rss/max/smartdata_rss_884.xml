@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A81<NODE id="3" /> <NODE id="4" />Stuttgart<NODE id="13" /> Richtung <NODE id="23" />Singen<NODE id="29" /> zwischen <NODE id="39" />Kreuz Stuttgart<NODE id="54" /> und <NODE id="59" />Böblingen-Hulb<NODE id="73" /> <NODE id="74" />8 km<NODE id="78" /> <NODE id="79" />stockender Verkehr<NODE id="97" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#44@2016-03-15T18:02:43.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-15T17:02:43Z" />
+<feature featureName="indexDate" featureValue="2016-03-15T17:03:12.531Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A81" />
+<Entity id="1" startPos="4" endPos="13" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="23" endPos="29" type="location-city" surface="Singen" />
+<Entity id="3" startPos="39" endPos="54" type="location" surface="Kreuz Stuttgart" />
+<Entity id="4" startPos="59" endPos="73" type="location" surface="Böblingen-Hulb" />
+<Entity id="5" startPos="74" endPos="78" type="distance" surface="8 km" />
+<Entity id="6" startPos="79" endPos="97" type="trigger" surface="stockender Verkehr" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="1" label="location" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

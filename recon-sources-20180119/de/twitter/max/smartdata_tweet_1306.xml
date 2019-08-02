@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @ifbKG: Tarifstreit bei <NODE id="27" />Cura<NODE id="31" /> in <NODE id="35" />Stollberg<NODE id="44" />. Unternehmen will nur mit Betriebsrat, nicht mit Gewerkschaft sprechen. Streik?  https://t.co/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754947424284774400" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T07:54:26Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T07:54:32.352Z" />
+<feature featureName="uri" featureValue="https://twitter.com/741707874662023169/status/754947424284774400" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="27" endPos="31" type="organization-company" surface="Cura" />
+<Entity id="1" startPos="35" endPos="44" type="location-city" surface="Stollberg" /></Entities><Relations />
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Streikfibel <NODE id="12" />Ufo<NODE id="15" />
+<NODE id="16" />pnp.de<NODE id="22" /> ist nicht verantwortlich für die Inhalte externer Internetseiten.
+Nach den Gesprächen am vergangenen <NODE id="124" />Donnerstag<NODE id="134" /> habe es keinerlei Kontakt mehr zur <NODE id="170" />Lufthansa<NODE id="179" /> gegeben, sagte Baublies: Es ist schwer davon auszugehen, dass der <NODE id="246" />Streik<NODE id="252" /> wie geplant bis <NODE id="269" />Freitag<NODE id="276" /> fortgesetzt wird. Alle Fluggäste müssten davon ausgehen, dass ihre Flüge mit <NODE id="354" />Lufthansa<NODE id="363" /> bis einschließlich <NODE id="383" />13. November<NODE id="395" /> ausfielen.
+Die Tarifverhandlungen für die Stewardessen und Stewards der <NODE id="468" />Lufthansa<NODE id="477" /> ziehen sich bereits seit <NODE id="503" />zwei Jahren<NODE id="514" /> hin. Strittig sind vor allem die komplexen Regelungen zu Betriebs- und Übergangsrenten von rund <NODE id="611" />19 000<NODE id="617" /> Flugbegleitern. Es ist der erste Ausstand der Flugbegleiter in der aktuellen Tarifrunde. Die Piloten der <NODE id="723" />Lufthansa<NODE id="732" /> haben schon <NODE id="745" />13<NODE id="747" /> Mal gestreikt.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.pnp.de/nachrichten/bayern/1864632_Lufthansa-Flugbegleiter-weiten-Streik-am-Montag-massiv-aus.html@2016-03-10T15:03:02.027+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:03:02.027Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:03:03.485Z" />
+<feature featureName="uri" featureValue="http://www.pnp.de/nachrichten/bayern/1864632_Lufthansa-Flugbegleiter-weiten-Streik-am-Montag-massiv-aus.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="15" type="organization" surface="Ufo" />
+<Entity id="1" startPos="16" endPos="22" type="organization-company" surface="pnp.de" />
+<Entity id="2" startPos="124" endPos="134" type="date" surface="Donnerstag" />
+<Entity id="3" startPos="170" endPos="179" type="organization-company" surface="Lufthansa" />
+<Entity id="4" startPos="246" endPos="252" type="trigger" surface="Streik" />
+<Entity id="5" startPos="269" endPos="276" type="date" surface="Freitag" />
+<Entity id="6" startPos="354" endPos="363" type="organization-company" surface="Lufthansa" />
+<Entity id="7" startPos="383" endPos="395" type="date" surface="13. November" />
+<Entity id="8" startPos="468" endPos="477" type="organization-company" surface="Lufthansa" />
+<Entity id="9" startPos="503" endPos="514" type="duration" surface="zwei Jahren" />
+<Entity id="10" startPos="611" endPos="617" type="number" surface="19 000" />
+<Entity id="11" startPos="723" endPos="732" type="organization-company" surface="Lufthansa" />
+<Entity id="12" startPos="745" endPos="747" type="number" surface="13" /></Entities><Relations>
+<Relation id="13" NAME="Strike">
+<Entity id="3" label="company" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

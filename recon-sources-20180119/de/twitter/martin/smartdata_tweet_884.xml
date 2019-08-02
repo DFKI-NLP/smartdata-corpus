@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vom <NODE id="4" />19.<NODE id="7" /> bis <NODE id="12" />24. Juni<NODE id="20" /> wird die <NODE id="30" />Walburger Unterführung<NODE id="52" /> <NODE id="53" />voll gesperrt<NODE id="66" />. Aber halb so schlimm: die Bahn beschränkt... https://t.co/Sj8cEzO67F
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743739946033254400" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T09:39:55Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T09:39:56.961Z" />
+<feature featureName="uri" featureValue="https://twitter.com/soester-anzeiger.de/status/743739946033254400" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="date" surface="19." />
+<Entity id="1" startPos="12" endPos="20" type="date" surface="24. Juni" />
+<Entity id="2" startPos="30" endPos="52" type="location-street" surface="Walburger Unterführung" />
+<Entity id="3" startPos="53" endPos="66" type="trigger" surface="voll gesperrt" /></Entities><Relations>
+<Relation id="4" NAME="Obstruction">
+<Entity id="1" label="end_date" />
+<Entity id="2" label="location" />
+<Entity id="3" label="trigger" />
+<Entity id="0" label="start_date" />
+</Relation></Relations>
+</Document>

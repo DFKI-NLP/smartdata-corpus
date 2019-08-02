@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bremer<NODE id="6" /> Markenforscher
+<NODE id="22" />Hachez<NODE id="28" /> hat hausgemachte Probleme
+Ist der einstige Premium-Schokoladen-Hersteller <NODE id="103" />Hachez<NODE id="109" /> auf dem falschen Weg? Seit der <NODE id="141" />dänische<NODE id="149" /> Süßwarenhersteller <NODE id="169" />Toms<NODE id="173" /> das Unternehmen <NODE id="190" />2012<NODE id="194" /> übernahm, versucht er offenbar, den Betrieb umzustrukturieren. Ein riskanter Weg, meint Markenforscher <NODE id="298" />Christoph Burmann<NODE id="315" /> von der<NODE id="323" /> Universität <NODE id="336" />Bremen<NODE id="342" />.
+Markenforscher <NODE id="359" />Christoph Burmann<NODE id="376" /> sieht <NODE id="383" />Hachez<NODE id="389" /> auf einem schwierigen Weg.
+<NODE id="417" />Hachez<NODE id="423" /> versteht sich als Premiumhersteller, verweist auf edlen Kakao, beste Zutaten und, und, und, stellt <NODE id="523" />Burmann<NODE id="530" /> fest. Dieser Anspruch wird seit der Übernahme <NODE id="577" />2012<NODE id="581" /> aber nicht gelebt: <NODE id="601" />Hachez<NODE id="607" /> bekommen Sie im Supermarkt im Regal bei den Massenschokoladen für fast denselben Preis. Für die Konsumenten heißt das: <NODE id="727" />Hachez<NODE id="733" /> ist nichts Besonderes mehr, erklärt <NODE id="770" />Burmann<NODE id="777" /> die Situation.
+<NODE id="793" />Christoph Burmann<NODE id="810" />
+ist seit <NODE id="820" />2002<NODE id="824" /> Leiter des einzigen Lehrstuhls für Markenmanagement in <NODE id="880" />Deutschland<NODE id="891" /> an der <NODE id="899" />Universität <NODE id="911" />Bremen<NODE id="917" />
+studierte Betriebswi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.radiobremen.de/politik/themen/hachez120.html@2016-02-03T05:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-03T04:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T19:23:11.93Z" />
+<feature featureName="uri" featureValue="http://www.radiobremen.de/politik/themen/hachez120.html" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="location-city" surface="Bremer" />
+<Entity id="1" startPos="22" endPos="28" type="organization-company" surface="Hachez" />
+<Entity id="2" startPos="103" endPos="109" type="organization-company" surface="Hachez" />
+<Entity id="3" startPos="141" endPos="149" type="location" surface="dänische" />
+<Entity id="4" startPos="169" endPos="173" type="organization-company" surface="Toms" />
+<Entity id="5" startPos="190" endPos="194" type="date" surface="2012" />
+<Entity id="6" startPos="298" endPos="315" type="person" surface="Christoph Burmann" />
+<Entity id="7" startPos="323" endPos="342" type="organization" surface=" Universität Bremen" />
+<Entity id="8" startPos="336" endPos="342" type="location-city" surface="Bremen" />
+<Entity id="9" startPos="359" endPos="376" type="person" surface="Christoph Burmann" />
+<Entity id="10" startPos="383" endPos="389" type="organization-company" surface="Hachez" />
+<Entity id="11" startPos="417" endPos="423" type="organization-company" surface="Hachez" />
+<Entity id="12" startPos="523" endPos="530" type="person" surface="Burmann" />
+<Entity id="13" startPos="577" endPos="581" type="date" surface="2012" />
+<Entity id="14" startPos="601" endPos="607" type="organization-company" surface="Hachez" />
+<Entity id="15" startPos="727" endPos="733" type="organization-company" surface="Hachez" />
+<Entity id="16" startPos="770" endPos="777" type="person" surface="Burmann" />
+<Entity id="17" startPos="793" endPos="810" type="person" surface="Christoph Burmann" />
+<Entity id="18" startPos="820" endPos="824" type="date" surface="2002" />
+<Entity id="19" startPos="880" endPos="891" type="location" surface="Deutschland" />
+<Entity id="20" startPos="899" endPos="917" type="organization" surface="Universität Bremen" />
+<Entity id="21" startPos="911" endPos="917" type="location-city" surface="Bremen" /></Entities><Relations />
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Kreis Konstanz<NODE id="14" />, <NODE id="16" />L194<NODE id="20" /> zwischen <NODE id="30" />Mahlspüren im Tal<NODE id="47" /> und <NODE id="52" />Frickenweiler<NODE id="65" /> in <NODE id="69" />beiden Richtungen<NODE id="86" /> Gefahr durch <NODE id="100" />Überflutung<NODE id="111" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9de18cfa-480c-4ef2-b1fa-533444854347@2016-06-14T13:44:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-14T11:44:00Z" />
+<feature featureName="indexDate" featureValue="2016-06-14T16:36:14.637Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9de18cfa-480c-4ef2-b1fa-533444854347" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="location" surface="Kreis Konstanz" />
+<Entity id="1" startPos="16" endPos="20" type="location-street" surface="L194" />
+<Entity id="2" startPos="30" endPos="47" type="location" surface="Mahlspüren im Tal" />
+<Entity id="3" startPos="52" endPos="65" type="location" surface="Frickenweiler" />
+<Entity id="4" startPos="69" endPos="86" type="location" surface="beiden Richtungen" />
+<Entity id="5" startPos="100" endPos="111" type="disaster-type" surface="Überflutung" /></Entities><Relations />
+</Document>

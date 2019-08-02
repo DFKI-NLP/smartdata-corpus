@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Pannen-Flughafen: Erster Teil der Entrauchungsanlage am <NODE id="56" />BER<NODE id="59" /> ist fertig #Nachrichten #<NODE id="85" />Berlin<NODE id="91" /> #<NODE id="93" />Deutschland<NODE id="104" /> https://t.co/uLR4PTFfYA
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671439858754285568" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="56" endPos="59" type="location-stop" surface="BER" />
+<Entity id="1" startPos="85" endPos="91" type="location-city" surface="Berlin" />
+<Entity id="2" startPos="93" endPos="104" type="location" surface="Deutschland" /></Entities><Relations />
+</Document>

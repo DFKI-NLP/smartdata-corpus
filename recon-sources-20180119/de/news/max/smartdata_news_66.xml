@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ritsos <NODE id="7" />vor 25 Jahren<NODE id="20" /> gestorbenPolitische Kampfgesänge und ein neuer lyrischer Ton
+Von <NODE id="86" />Christian Linder<NODE id="102" />
+Büste des <NODE id="113" />griechischen<NODE id="125" /> Volksdichters <NODE id="140" />Jannis Ritsos<NODE id="153" /> vor seinem Geburtshaus in <NODE id="180" />Monemvasia<NODE id="190" />. (imago/ANE Edition)
+Der <NODE id="216" />griechische<NODE id="227" /> Lyriker <NODE id="236" />Jannis Ritsos<NODE id="249" /> war ein Vertreter der modernen Poesie, der als überzeugter Kommunist über seine leidvollen Erlebnisse auf den Gefängnisinseln <NODE id="376" />Limnos<NODE id="382" /> oder <NODE id="388" />Makronisos<NODE id="398" /> dichtete. Dort war er  während des <NODE id="434" />griechischen<NODE id="446" /> Bürgerkriegs inhaftiert. Heute <NODE id="478" />vor 25 Jahren<NODE id="491" /> verstarb er in <NODE id="507" />Athen<NODE id="512" />.
+Was über deinen Tod hinaus bleibt, ließ <NODE id="554" />Jannis Ritsos<NODE id="567" /> in einem mit <NODE id="581" />Athen<NODE id="586" />, <NODE id="588" />28. September 1972<NODE id="606" /> datierten Gedicht eine Flüsterstimme verkünden, sei das, wovon du dein Leben lang träumtest. Wovon träumte <NODE id="714" />Jannis Ritsos<NODE id="727" />? Und warum musste er so viele Klagelieder vortragen? Eines nannte er Epitaphios, die Totenklage einer Mutter auf ihren in den <NODE id="854" />1930er<NODE id="860" />-Jahren bei einem Streik in <NODE id="888" />Thessaloniki<NODE id="900" /> erschossenen S
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradiokultur.de/ritsos-vor-25-jahren-gestorben-politische-kampfgesaenge-und.932.de.html?dram%3Aarticle_id=336461@2016-03-10T16:45:27.115+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.deutschlandradiokultur.de/ritsos-vor-25-jahren-gestorben-politische-kampfgesaenge-und.932.de.html?dram%3Aarticle_id=336461" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="7" endPos="20" type="date" surface="vor 25 Jahren" />
+<Entity id="1" startPos="86" endPos="102" type="person" surface="Christian Linder" />
+<Entity id="2" startPos="113" endPos="125" type="location" surface="griechischen" />
+<Entity id="3" startPos="140" endPos="153" type="person" surface="Jannis Ritsos" />
+<Entity id="4" startPos="180" endPos="190" type="location-city" surface="Monemvasia" />
+<Entity id="5" startPos="216" endPos="227" type="location" surface="griechische" />
+<Entity id="6" startPos="236" endPos="249" type="person" surface="Jannis Ritsos" />
+<Entity id="7" startPos="376" endPos="382" type="location" surface="Limnos" />
+<Entity id="8" startPos="388" endPos="398" type="location" surface="Makronisos" />
+<Entity id="9" startPos="434" endPos="446" type="location" surface="griechischen" />
+<Entity id="10" startPos="478" endPos="491" type="date" surface="vor 25 Jahren" />
+<Entity id="11" startPos="507" endPos="512" type="location-city" surface="Athen" />
+<Entity id="12" startPos="554" endPos="567" type="person" surface="Jannis Ritsos" />
+<Entity id="13" startPos="581" endPos="586" type="location-city" surface="Athen" />
+<Entity id="14" startPos="588" endPos="606" type="date" surface="28. September 1972" />
+<Entity id="15" startPos="714" endPos="727" type="person" surface="Jannis Ritsos" />
+<Entity id="16" startPos="854" endPos="860" type="date" surface="1930er" />
+<Entity id="17" startPos="888" endPos="900" type="location-city" surface="Thessaloniki" /></Entities><Relations />
+</Document>

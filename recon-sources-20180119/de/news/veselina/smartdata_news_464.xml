@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Streik bei <NODE id="11" />Amazon<NODE id="17" /> kurz vor Weihnachten?<NODE id="39" />
+<NODE id="40" />schließen<NODE id="49" />
+<NODE id="50" />Stehen die Bänder bald still?<NODE id="79" /> <NODE id="80" />Ein Paket im <NODE id="93" />Amazon<NODE id="99" />-Versandzentrum.<NODE id="115" />
+<NODE id="116" />© <NODE id="118" />dpa<NODE id="121" />
+<NODE id="122" />Leipzig<NODE id="129" /> -<NODE id="131" /> <NODE id="132" />Mitten im Weihnachtsgeschäft ruft die Gewerkschaft <NODE id="183" />Verdi<NODE id="188" /> die Mitarbeiter von <NODE id="209" />Amazon<NODE id="215" /> zum Streik auf.<NODE id="231" /> <NODE id="232" />Der Online-Riese lehnt Tarifverträge auf Einzelhandelsniveau ab.<NODE id="296" />
+<NODE id="297" />Die Gewerkschaft <NODE id="314" />Verdi<NODE id="319" /> hat die Beschäftigten im <NODE id="345" />Amazon<NODE id="351" />-Versandzentrum <NODE id="367" />Leipzig<NODE id="374" /> in der Nacht zu Montag ein weiteres Mal zum <NODE id="419" />Streik<NODE id="425" /> aufgerufen.<NODE id="437" /> <NODE id="438" />Der Arbeitskampf in der Nacht-, Früh- und Spätschicht soll den Internet-Versandhändler zu Verhandlungen über einen Tarifvertrag bewegen.<NODE id="574" /> <NODE id="575" />„Die Entschlossenheit bei den Streikenden ist ungebrochen“, hieß es einer <NODE id="649" />Verdi<NODE id="654" />-Mitteilung.<NODE id="666" /> <NODE id="667" />Die Gewerkschaft will für die rund 10 000 Mitarbeiter des US-Unternehmens in <NODE id="744" />Deutschland<NODE id="755" /> einen Tarifvertrag auf dem Niveau des Einzel- und Versandhandels durchsetzen.<NODE id="833" /> <NODE id="834" />Verhandlungen darüber lehnt <NODE id="862" />Amazon<NODE id="868" /> aber ab.<NODE id="877" /> <NODE id="878" />Die Gewerkschaft ruft deshalb regelmäßig zum Streik auf.<NODE id="934" />
+<NODE id="935" />dpa<NODE id="938" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rosenheim24.de/wirtschaft/streik-amazon-kurz-weihnachten-zr-5977097.html?cmp=defrss@2016-03-10T13:05:45.346+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:05:45.346Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:05:53.484Z" />
+<feature featureName="uri" featureValue="http://www.rosenheim24.de/wirtschaft/streik-amazon-kurz-weihnachten-zr-5977097.html?cmp=defrss" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="39" type="sentence" surface="Streik bei Amazon kurz vor Weihnachten?" />
+<Entity id="1" startPos="11" endPos="17" type="organization-company" surface="Amazon" />
+<Entity id="2" startPos="40" endPos="49" type="sentence" surface="schließen" />
+<Entity id="3" startPos="50" endPos="79" type="sentence" surface="Stehen die Bänder bald still?" />
+<Entity id="4" startPos="80" endPos="115" type="sentence" surface="Ein Paket im Amazon-Versandzentrum." />
+<Entity id="5" startPos="93" endPos="99" type="organization-company" surface="Amazon" />
+<Entity id="6" startPos="116" endPos="121" type="sentence" surface="© dpa" />
+<Entity id="7" startPos="118" endPos="121" type="organization-company" surface="dpa" />
+<Entity id="8" startPos="122" endPos="129" type="location-city" surface="Leipzig" />
+<Entity id="9" startPos="122" endPos="131" type="sentence" surface="Leipzig -" />
+<Entity id="10" startPos="132" endPos="231" type="sentence" surface="Mitten im Weihnachtsgeschäft ruft die Gewerkschaft Verdi die Mitarbeiter von Amazon zum Streik auf." />
+<Entity id="11" startPos="183" endPos="188" type="organization" surface="Verdi" />
+<Entity id="12" startPos="209" endPos="215" type="organization-company" surface="Amazon" />
+<Entity id="13" startPos="232" endPos="296" type="sentence" surface="Der Online-Riese lehnt Tarifverträge auf Einzelhandelsniveau ab." />
+<Entity id="14" startPos="297" endPos="437" type="sentence" surface="Die Gewerkschaft Verdi hat die Beschäftigten im Amazon-Versandzentrum Leipzig in der Nacht zu Montag ein weiteres Mal zum Streik aufgerufen." />
+<Entity id="15" startPos="314" endPos="319" type="organization" surface="Verdi" />
+<Entity id="16" startPos="345" endPos="351" type="organization-company" surface="Amazon" />
+<Entity id="17" startPos="367" endPos="374" type="location-city" surface="Leipzig" />
+<Entity id="18" startPos="419" endPos="425" type="trigger" surface="Streik" />
+<Entity id="19" startPos="438" endPos="574" type="sentence" surface="Der Arbeitskampf in der Nacht-, Früh- und Spätschicht soll den Internet-Versandhändler zu Verhandlungen über einen Tarifvertrag bewegen." />
+<Entity id="20" startPos="575" endPos="666" type="sentence" surface="„Die Entschlossenheit bei den Streikenden ist ungebrochen“, hieß es einer Verdi-Mitteilung." />
+<Entity id="21" startPos="649" endPos="654" type="organization" surface="Verdi" />
+<Entity id="22" startPos="667" endPos="833" type="sentence" surface="Die Gewerkschaft will für die rund 10 000 Mitarbeiter des US-Unternehmens in Deutschland einen Tarifvertrag auf dem Niveau des Einzel- und Versandhandels durchsetzen." />
+<Entity id="23" startPos="744" endPos="755" type="location" surface="Deutschland" />
+<Entity id="24" startPos="834" endPos="877" type="sentence" surface="Verhandlungen darüber lehnt Amazon aber ab." />
+<Entity id="25" startPos="862" endPos="868" type="organization-company" surface="Amazon" />
+<Entity id="26" startPos="878" endPos="934" type="sentence" surface="Die Gewerkschaft ruft deshalb regelmäßig zum Streik auf." />
+<Entity id="27" startPos="935" endPos="938" type="organization-company" surface="dpa" />
+<Entity id="28" startPos="935" endPos="938" type="sentence" surface="dpa" /></Entities><Relations>
+<Relation id="29" NAME="Strike">
+<Entity id="17" label="location" />
+<Entity id="16" label="company" />
+<Entity id="18" label="trigger" />
+</Relation></Relations>
+</Document>

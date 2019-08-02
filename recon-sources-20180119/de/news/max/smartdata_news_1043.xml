@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Einige Erklärungsversuche für das bisher schwache Abschneiden der <NODE id="66" />Mannheimer Kufencracks<NODE id="88" /> in der <NODE id="96" />DEL<NODE id="99" />
+ 
+<NODE id="102" />Die Adler<NODE id="111" /> (dunkles Trikot) kommen dies Jahr einfach nicht in Fahrt. Foto: <NODE id="176" />Gernot Kirch<NODE id="188" />
+Von <NODE id="193" />Gernot Kirch<NODE id="205" /> Die <NODE id="210" />0<NODE id="211" />:<NODE id="212" />3<NODE id="213" /> (<NODE id="215" />0<NODE id="216" />:<NODE id="217" />1<NODE id="218" />/<NODE id="219" />0<NODE id="220" />:<NODE id="221" />1<NODE id="222" />/<NODE id="223" />0<NODE id="224" />:<NODE id="225" />1<NODE id="226" />) Niederlage am <NODE id="242" />Dienstag, dem 22. Dezember<NODE id="268" />, bei der <NODE id="278" />Düsseldorfer EG<NODE id="293" /> war die <NODE id="302" />achte<NODE id="307" /> Pleite in Folge für die <NODE id="332" />Mannheimer Adler<NODE id="348" /> in der <NODE id="356" />DEL<NODE id="359" />. In der Tabelle sind die Blau-Weiß-Roten auf Rang <NODE id="410" />fünf<NODE id="414" /> abgerutscht. Wobei dies noch „schön gerechnet“ ist, denn die blau-weiß-roten Raubvögel haben <NODE id="508" />drei<NODE id="512" /> bis <NODE id="517" />vier<NODE id="521" /> Spiele mehr absolviert als die Konkurrenz. Wenn die anderen Clubs ihre Partien bis <NODE id="605" />Januar<NODE id="611" /> nachgeholt haben, dürften sich die <NODE id="647" />Mannheimer<NODE id="657" /> eher auf Platz <NODE id="673" />acht<NODE id="677" /> der Tabelle wieder finden. Tendenz fallend.
+Selbstüberschätzung
+Die große Frage ist: „Wie kann eine Mannschaft, die im letzten Jahr Deutscher Meister war, nur so abstürzen? Und dies so schnell.“ Eine einfache Erklärung gibt es nicht. Sicher ist, es lief von Saisonbeginn an nicht ru
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://nibelungen-kurier.de/adler-in-der-krise-fragen-nach-dem-warum/@2016-03-10T23:13:30.164+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T22:13:30.164Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T22:13:33.316Z" />
+<feature featureName="uri" featureValue="http://nibelungen-kurier.de/adler-in-der-krise-fragen-nach-dem-warum/" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="66" endPos="88" type="organization" surface="Mannheimer Kufencracks" />
+<Entity id="1" startPos="96" endPos="99" type="organization" surface="DEL" />
+<Entity id="2" startPos="102" endPos="111" type="organization" surface="Die Adler" />
+<Entity id="3" startPos="176" endPos="188" type="person" surface="Gernot Kirch" />
+<Entity id="4" startPos="193" endPos="205" type="person" surface="Gernot Kirch" />
+<Entity id="5" startPos="210" endPos="211" type="number" surface="0" />
+<Entity id="6" startPos="212" endPos="213" type="number" surface="3" />
+<Entity id="7" startPos="215" endPos="216" type="number" surface="0" />
+<Entity id="8" startPos="217" endPos="218" type="number" surface="1" />
+<Entity id="9" startPos="219" endPos="220" type="number" surface="0" />
+<Entity id="10" startPos="221" endPos="222" type="number" surface="1" />
+<Entity id="11" startPos="223" endPos="224" type="number" surface="0" />
+<Entity id="12" startPos="225" endPos="226" type="number" surface="1" />
+<Entity id="13" startPos="242" endPos="268" type="date" surface="Dienstag, dem 22. Dezember" />
+<Entity id="14" startPos="278" endPos="293" type="organization" surface="Düsseldorfer EG" />
+<Entity id="15" startPos="302" endPos="307" type="number" surface="achte" />
+<Entity id="16" startPos="332" endPos="348" type="organization" surface="Mannheimer Adler" />
+<Entity id="17" startPos="356" endPos="359" type="organization" surface="DEL" />
+<Entity id="18" startPos="410" endPos="414" type="number" surface="fünf" />
+<Entity id="19" startPos="508" endPos="512" type="number" surface="drei" />
+<Entity id="20" startPos="517" endPos="521" type="number" surface="vier" />
+<Entity id="21" startPos="605" endPos="611" type="date" surface="Januar" />
+<Entity id="22" startPos="647" endPos="657" type="location-city" surface="Mannheimer" />
+<Entity id="23" startPos="673" endPos="677" type="number" surface="acht" /></Entities><Relations />
+</Document>

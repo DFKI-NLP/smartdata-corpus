@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bibliotheksfiliale <NODE id="19" />Kirchhellen<NODE id="30" /> geschlossen: Wegen unvorhergesehener Bauarbeiten bleibt die Bibliotheksfiliale ... https://t.co/Sk3FLuehGD
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="712234923801726977" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-22T11:10:13Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T06:58:59.564Z" />
+<feature featureName="uri" featureValue="https://twitter.com/156926286/status/712234923801726977" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="30" type="location-city" surface="Kirchhellen" /></Entities><Relations />
+</Document>

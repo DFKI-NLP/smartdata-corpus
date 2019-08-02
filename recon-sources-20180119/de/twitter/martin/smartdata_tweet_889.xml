@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Lichtenberger Straße<NODE id="20" /> ab <NODE id="24" />Montag<NODE id="30" /> <NODE id="31" />gesperrt<NODE id="39" /> https://t.co/XayNfKGNHW https://t.co/vGnz2ynIlA
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="746435806366031872" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-24T20:12:19Z" />
+<feature featureName="indexDate" featureValue="2016-06-27T08:42:30.301Z" />
+<feature featureName="uri" featureValue="https://twitter.com/4471617629/status/746435806366031872" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="20" type="location-street" surface="Lichtenberger Straße" />
+<Entity id="1" startPos="24" endPos="30" type="date" surface="Montag" />
+<Entity id="2" startPos="31" endPos="39" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="3" NAME="Obstruction">
+<Entity id="0" label="location" />
+<Entity id="2" label="trigger" />
+<Entity id="1" label="start_date" />
+</Relation></Relations>
+</Document>

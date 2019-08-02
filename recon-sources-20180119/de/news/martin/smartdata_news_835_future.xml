@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Im Bild eine bautechnisch besondere Baustelle von <NODE id="50" />Bilfinger<NODE id="59" /> in <NODE id="63" />Wien<NODE id="67" /> im Rahmen des Neubaus des <NODE id="94" />Wiener Hauptbahnhofs<NODE id="114" />. Mehr zu dem außergewöhnlichen Projekt bei unserem Schwestermedium <NODE id="182" />SOLID<NODE id="187" />: <NODE id="189" />Matzleinsdorfer Platz<NODE id="210" />: Eine Brücke in Bewegung
+Bild: <NODE id="242" />Michael Hetzmannseder<NODE id="263" />
+Beim kriselnden Bau- und Dienstleistungskonzern <NODE id="312" />Bilfinger<NODE id="321" /> steht im Industrieservice-Geschäft ein weiterer <NODE id="370" />Stellenabbau<NODE id="382" /> bevor. Derzeit seien <NODE id="404" />1.400<NODE id="409" /> Mitarbeiter im operativen Geschäft nicht ausgelastet, erklärte <NODE id="473" />Finanzvorstand<NODE id="487" /> <NODE id="488" />Axel Salzmann<NODE id="501" />. Der Vorstand diskutiere mit den Arbeitnehmervertretern über eine Kapazitätsanpassung. Wie viele Stellen abgebaut werden, steht noch nicht fest.
+ 
+Doch hat <NODE id="658" />Salzmann<NODE id="666" /> bereits <NODE id="675" />70 Mio. Euro<NODE id="687" /> an Restrukturierungskosten einkalkuliert. Im <NODE id="733" />dritten Quartal<NODE id="748" /> brockten die Industriesparte und das zum Verkauf stehende Kraftwerksgeschäft <NODE id="826" />Bilfinger<NODE id="835" /> erneut einen Verlust ein.
+ 
+Die Wende wegen der Energiewende
+ 
+Unter dem Strich summierte sich der Fehlbe
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://industriemagazin.at/a/bilfinger-kommt-nicht-aus-der-krise@2016-03-11T01:27:24.222+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T00:27:24.222Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T00:27:33.484Z" />
+<feature featureName="uri" featureValue="http://industriemagazin.at/a/bilfinger-kommt-nicht-aus-der-krise" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="50" endPos="59" type="organization-company" surface="Bilfinger" />
+<Entity id="1" startPos="63" endPos="67" type="location-city" surface="Wien" />
+<Entity id="2" startPos="94" endPos="114" type="location-stop" surface="Wiener Hauptbahnhofs" />
+<Entity id="3" startPos="182" endPos="187" type="organization-company" surface="SOLID" />
+<Entity id="4" startPos="189" endPos="210" type="location-street" surface="Matzleinsdorfer Platz" />
+<Entity id="5" startPos="242" endPos="263" type="person" surface="Michael Hetzmannseder" />
+<Entity id="6" startPos="312" endPos="321" type="organization-company" surface="Bilfinger" />
+<Entity id="7" startPos="370" endPos="382" type="trigger" surface="Stellenabbau" />
+<Entity id="8" startPos="404" endPos="409" type="number" surface="1.400" />
+<Entity id="9" startPos="473" endPos="487" type="org-position" surface="Finanzvorstand" />
+<Entity id="10" startPos="488" endPos="501" type="person" surface="Axel Salzmann" />
+<Entity id="11" startPos="658" endPos="666" type="person" surface="Salzmann" />
+<Entity id="12" startPos="675" endPos="687" type="number" surface="70 Mio. Euro" />
+<Entity id="13" startPos="733" endPos="748" type="date" surface="dritten Quartal" />
+<Entity id="14" startPos="826" endPos="835" type="organization-company" surface="Bilfinger" /></Entities><Relations>
+<Relation id="15" NAME="Layoffs">
+<Entity id="6" label="company" />
+<Entity id="7" label="trigger" />
+</Relation></Relations>
+</Document>

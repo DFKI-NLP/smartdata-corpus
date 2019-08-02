@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Für die aufgeführten Inhalte kann keine Gewährleistung für die Vollständigkeit, Richtigkeit und Genauigkeit übernommen werden.
+Kursinformationen von <NODE id="149" />SIX Financial Information Deutschland GmbH<NODE id="191" />. Verzögerung <NODE id="205" />15 Min<NODE id="211" />. (Nasdaq, NYSE: <NODE id="228" />20 Min<NODE id="234" />.). © <NODE id="240" />1999<NODE id="244" />-<NODE id="245" />2016<NODE id="249" /> <NODE id="250" />finanzen.net GmbH<NODE id="267" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.boerse-online.de/nachrichten/zertifikate/HSBC-EURO-STOXX-50-Weekly-Ein-schmaler-Grat-1000983540@2016-03-10T16:30:24.943+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.boerse-online.de/nachrichten/zertifikate/HSBC-EURO-STOXX-50-Weekly-Ein-schmaler-Grat-1000983540" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="149" endPos="191" type="organization-company" surface="SIX Financial Information Deutschland GmbH" />
+<Entity id="1" startPos="205" endPos="211" type="duration" surface="15 Min" />
+<Entity id="2" startPos="228" endPos="234" type="number" surface="20 Min" />
+<Entity id="3" startPos="240" endPos="244" type="date" surface="1999" />
+<Entity id="4" startPos="245" endPos="249" type="date" surface="2016" />
+<Entity id="5" startPos="250" endPos="267" type="organization-company" surface="finanzen.net GmbH" /></Entities><Relations />
+</Document>

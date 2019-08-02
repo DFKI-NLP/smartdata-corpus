@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bretten<NODE id="7" /> Richtung <NODE id="17" />Germersheim<NODE id="28" /> in Höhe <NODE id="37" />Graben-Neudorf-Nord<NODE id="56" />/<NODE id="57" />B36<NODE id="60" /> Gefahr durch Gegenstände auf der Fahrbahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=ab97f2d1-1b8d-4f75-a93d-1dbbd7ffcb7a@2016-03-29T16:34:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-29T14:34:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-29T16:11:05.962Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=ab97f2d1-1b8d-4f75-a93d-1dbbd7ffcb7a" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="Bretten" />
+<Entity id="1" startPos="17" endPos="28" type="location-city" surface="Germersheim" />
+<Entity id="2" startPos="37" endPos="56" type="location" surface="Graben-Neudorf-Nord" />
+<Entity id="3" startPos="57" endPos="60" type="location-street" surface="B36" /></Entities><Relations />
+</Document>

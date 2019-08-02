@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Klar.. vom <NODE id="11" />13.07.<NODE id="17" /> bis <NODE id="22" />30.08<NODE id="27" /> schließen wir einfach mal das Bad, wegen Bauarbeiten.. Logik? ö_ö
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="611897855889027072" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-19T14:06:32Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:53:44.121Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="11" endPos="17" type="date" surface="13.07." />
+<Entity id="1" startPos="22" endPos="27" type="date" surface="30.08" /></Entities><Relations />
+</Document>

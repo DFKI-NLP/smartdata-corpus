@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />zeitonline<NODE id="14" />: Sie tauchen auf aus dem Nirgendwo: die Geisterschiffe an der <NODE id="77" />Küste <NODE id="83" />Japans<NODE id="89" />. Aber wo kommen sie her? (ek) https://t.co/nOXDSi…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744509286127177728" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T12:37:00Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T12:37:10.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Thomas Böttiger/status/744509286127177728" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="organization-company" surface="zeitonline" />
+<Entity id="1" startPos="77" endPos="89" type="location" surface="Küste Japans" />
+<Entity id="2" startPos="83" endPos="89" type="industry" surface="Japans" /></Entities><Relations />
+</Document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Twittern
+Foto: dpa
+<NODE id="19" />Stuttgart<NODE id="28" /> (dpa/lsw) - Die Stadt <NODE id="51" />Stuttgart<NODE id="60" /> löst ab <NODE id="69" />Montag<NODE id="75" /> erstmals Feinstaubalarm aus und will damit den Autoverkehr eindämmen. Vor allem die vielen Pendler sollen in der staugeplagten Landeshauptstadt freiwillig auf Autofahrten verzichten. Mit dem Feinstaubalarm geht <NODE id="287" />Stuttgart<NODE id="296" /> als erste <NODE id="307" />deutsche<NODE id="315" /> Stadt neue Wege - nirgends sonst gilt die Luft als so stark belastet. Der <NODE id="390" />EU<NODE id="392" />-Grenzwert von <NODE id="407" />50 Mikrogramm<NODE id="420" /> Feinstaub pro Kubikmeter Luft wird in <NODE id="459" />Stuttgart<NODE id="468" /> regelmäßig überschritten. Die Initiative der Stadt löst auch Kritik aus - die <NODE id="547" />Deutsche Umwelthilfe<NODE id="567" /> etwa hält wenig von einer Freiwilligkeit und forderte Fahrverbote.
+<NODE id="635" />Stuttgarts<NODE id="645" /> Oberbürgermeister <NODE id="664" />Fritz Kuhn<NODE id="674" /> (<NODE id="676" />Grüne<NODE id="681" />) appellierte am <NODE id="698" />Samstag<NODE id="705" /> an die Bürger: «Lassen Sie Ihr Auto an den Alarmtagen möglichst stehen.» Die Stadt stützt sich beim Feinstaubalarm auf Berechnungen und Vorhersagen des <NODE id="858" />Deutschen Wetterdienstes<NODE id="882" />. Wann er wieder enden soll, konnte die Stadt zunächst nicht sagen. Der Feinstauba
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/regionales/baden-wuerttemberg/article151085517/Stuttgart-loest-Feinstaubalarm-aus.html@2016-03-10T14:50:38.781+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.welt.de/regionales/baden-wuerttemberg/article151085517/Stuttgart-loest-Feinstaubalarm-aus.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="28" type="location-city" surface="Stuttgart" />
+<Entity id="1" startPos="51" endPos="60" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="69" endPos="75" type="date" surface="Montag" />
+<Entity id="3" startPos="287" endPos="296" type="location-city" surface="Stuttgart" />
+<Entity id="4" startPos="307" endPos="315" type="location" surface="deutsche" />
+<Entity id="5" startPos="390" endPos="392" type="organization" surface="EU" />
+<Entity id="6" startPos="407" endPos="420" type="number" surface="50 Mikrogramm" />
+<Entity id="7" startPos="459" endPos="468" type="location-city" surface="Stuttgart" />
+<Entity id="8" startPos="547" endPos="567" type="organization" surface="Deutsche Umwelthilfe" />
+<Entity id="9" startPos="635" endPos="645" type="location-city" surface="Stuttgarts" />
+<Entity id="10" startPos="664" endPos="674" type="person" surface="Fritz Kuhn" />
+<Entity id="11" startPos="676" endPos="681" type="organization" surface="Grüne" />
+<Entity id="12" startPos="698" endPos="705" type="date" surface="Samstag" />
+<Entity id="13" startPos="858" endPos="882" type="organization" surface="Deutschen Wetterdienstes" /></Entities><Relations />
+</Document>

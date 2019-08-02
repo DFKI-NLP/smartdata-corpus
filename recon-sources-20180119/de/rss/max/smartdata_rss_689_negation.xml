@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bodenseekreis<NODE id="13" /> Verkehrsstörung besteht nicht mehr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=fbe4907b-bfce-4380-8f91-7ba2145ae986@2016-05-23T08:44:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-23T06:44:00Z" />
+<feature featureName="indexDate" featureValue="2016-05-23T06:58:34.675Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=fbe4907b-bfce-4380-8f91-7ba2145ae986" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="location" surface="Bodenseekreis" /></Entities><Relations />
+</Document>

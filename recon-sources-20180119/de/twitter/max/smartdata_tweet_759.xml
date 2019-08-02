@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: Verkehrskontrolle eskalierte - Gewalttätige Polizisten sollen sich vor Gericht verantworten. https://t.co/GJkZPLl4MI
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671351072766730240" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-30T15:32:23Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:24:45.729Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" /></Entities><Relations />
+</Document>

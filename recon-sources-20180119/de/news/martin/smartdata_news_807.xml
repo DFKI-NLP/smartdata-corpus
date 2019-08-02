@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />27.01.2016<NODE id="10" />, <NODE id="12" />04:22 Uhr<NODE id="21" />
+<NODE id="22" />Gabriel<NODE id="29" /> glaubt nicht an <NODE id="46" />Merkel<NODE id="52" />-Kehrtwende
+<NODE id="64" />Berlin<NODE id="70" /> (<NODE id="72" />dpa<NODE id="75" />). <NODE id="78" />SPD<NODE id="81" />-<NODE id="82" />Chef<NODE id="86" /> <NODE id="87" />Sigmar Gabriel<NODE id="101" /> rechnet nicht mit einer Kehrtwende von Kanzlerin <NODE id="151" />Angela Merkel<NODE id="164" /> in der Flüchtlingspolitik. «Ebenso wie die <NODE id="208" />SPD<NODE id="211" /> verfolgt auch <NODE id="226" />Frau Merkel<NODE id="237" /> das Ziel, die Zuwanderung von Flüchtlingen im <NODE id="284" />laufenden Jahr<NODE id="298" /> deutlich zu verringern», sagte <NODE id="330" />Gabriel<NODE id="337" /> der «<NODE id="343" />Rheinischen Post<NODE id="359" />». Dafür müsse es sichere <NODE id="385" />EU<NODE id="387" />-Außengrenzen, mehr Geld für die Nachbarstaaten <NODE id="435" />Syriens<NODE id="442" /> und die Übernahme großer Kontingente vor allem aus der <NODE id="498" />Türkei<NODE id="504" /> geben. <NODE id="512" />Gabriel<NODE id="519" /> kritisierte, der Vorschlag von <NODE id="551" />CDU<NODE id="554" />-Vize <NODE id="560" />Julia Klöckner<NODE id="574" /> für «tagesaktuelle Kontingente» gefährde die Einigung mit der <NODE id="637" />Türkei<NODE id="643" />. 
+0.0
+0,0 (<NODE id="655" />0<NODE id="656" /> Stimmen)
+Copyright © <NODE id="678" />Rhein-Zeitung<NODE id="691" /> <NODE id="692" />2016<NODE id="696" />. Texte und Fotos von <NODE id="718" />Rhein-Zeitung.de<NODE id="734" /> sind urheberrechtlich geschützt. Weiterverwendung nur mit Genehmigung, siehe Impressum .
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rhein-zeitung.de/nachrichten/deutschland-und-welt_artikel,-Gabriel-glaubt-nicht-an-Merkel-Kehrtwende-_arid,1432233.html@2016-01-27T04:22:06.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-27T03:22:06Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T01:26:12.952Z" />
+<feature featureName="uri" featureValue="http://www.rhein-zeitung.de/nachrichten/deutschland-und-welt_artikel,-Gabriel-glaubt-nicht-an-Merkel-Kehrtwende-_arid,1432233.html" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="27.01.2016" />
+<Entity id="1" startPos="12" endPos="21" type="time" surface="04:22 Uhr" />
+<Entity id="2" startPos="22" endPos="29" type="person" surface="Gabriel" />
+<Entity id="3" startPos="46" endPos="52" type="person" surface="Merkel" />
+<Entity id="4" startPos="64" endPos="70" type="location-city" surface="Berlin" />
+<Entity id="5" startPos="72" endPos="75" type="organization-company" surface="dpa" />
+<Entity id="6" startPos="78" endPos="81" type="organization" surface="SPD" />
+<Entity id="7" startPos="82" endPos="86" type="org-position" surface="Chef" />
+<Entity id="8" startPos="87" endPos="101" type="person" surface="Sigmar Gabriel" />
+<Entity id="9" startPos="151" endPos="164" type="person" surface="Angela Merkel" />
+<Entity id="10" startPos="208" endPos="211" type="organization" surface="SPD" />
+<Entity id="11" startPos="226" endPos="237" type="person" surface="Frau Merkel" />
+<Entity id="12" startPos="284" endPos="298" type="date" surface="laufenden Jahr" />
+<Entity id="13" startPos="330" endPos="337" type="person" surface="Gabriel" />
+<Entity id="14" startPos="343" endPos="359" type="organization-company" surface="Rheinischen Post" />
+<Entity id="15" startPos="385" endPos="387" type="organization" surface="EU" />
+<Entity id="16" startPos="435" endPos="442" type="location" surface="Syriens" />
+<Entity id="17" startPos="498" endPos="504" type="location" surface="Türkei" />
+<Entity id="18" startPos="512" endPos="519" type="person" surface="Gabriel" />
+<Entity id="19" startPos="551" endPos="554" type="organization" surface="CDU" />
+<Entity id="20" startPos="560" endPos="574" type="person" surface="Julia Klöckner" />
+<Entity id="21" startPos="637" endPos="643" type="location" surface="Türkei" />
+<Entity id="22" startPos="655" endPos="656" type="number" surface="0" />
+<Entity id="23" startPos="678" endPos="691" type="organization-company" surface="Rhein-Zeitung" />
+<Entity id="24" startPos="692" endPos="696" type="date" surface="2016" />
+<Entity id="25" startPos="718" endPos="734" type="organization-company" surface="Rhein-Zeitung.de" /></Entities><Relations>
+<Relation id="26" NAME="OrganizationLeadership">
+<Entity id="8" label="person" />
+<Entity id="6" label="organization" />
+<Entity id="7" label="position" />
+</Relation></Relations>
+</Document>

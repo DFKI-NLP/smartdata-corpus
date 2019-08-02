@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />A94<NODE id="7" /> <NODE id="8" />München<NODE id="15" /> Richtung <NODE id="25" />Passau<NODE id="31" /> ist zwischen <NODE id="45" />Neuötting<NODE id="54" /> und dem Anschluss zur <NODE id="77" />B12<NODE id="80" /> wegen <NODE id="87" />Hochwasser<NODE id="97" /> voraussichtlich noch bis <NODE id="123" />Ende der Woche<NODE id="137" /> <NODE id="138" />gesperrt<NODE id="146" />. Eine Umleitung ist eingerichtet.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#75@2016-06-09T17:30:03.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-09T15:30:03Z" />
+<feature featureName="indexDate" featureValue="2016-06-09T15:32:09.631Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="location-street" surface="A94" />
+<Entity id="1" startPos="8" endPos="15" type="location-city" surface="München" />
+<Entity id="2" startPos="25" endPos="31" type="location-city" surface="Passau" />
+<Entity id="3" startPos="45" endPos="54" type="location" surface="Neuötting" />
+<Entity id="4" startPos="77" endPos="80" type="location-street" surface="B12" />
+<Entity id="5" startPos="87" endPos="97" type="trigger" surface="Hochwasser" />
+<Entity id="6" startPos="123" endPos="137" type="time" surface="Ende der Woche" />
+<Entity id="7" startPos="138" endPos="146" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="8" NAME="Obstruction">
+<Entity id="6" label="end_date" />
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

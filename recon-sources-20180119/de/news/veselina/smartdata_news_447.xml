@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Fachartikel aus dem Bereich Kredit und Bankgeschäfte - 08.03.2016 - 29 mal gelesen.<NODE id="83" />
+<NODE id="84" />Droht Anlegern ein Totalverlust?<NODE id="116" />
+<NODE id="117" />Anleger der <NODE id="129" />Deutsche Biofonds Hydropower GmbH &amp; Co. KG<NODE id="171" /> sind verunsichert: Über das Vermögen der Treuhänderin wurde das <NODE id="236" />Insolvenzverfahren<NODE id="254" /> eröffnet.<NODE id="264" /> 
+<NODE id="266" />Berlin<NODE id="272" />, 07.03.2016 – Wie bereits mehrfach berichtet, wurde über das Vermögen der Rechtsnachfolgerin der <NODE id="370" />Deutsche Biofonds Treuhand GmbH<NODE id="401" />, der <NODE id="407" />Centauri Trust GmbH<NODE id="426" />, das <NODE id="432" />Insolvenzverfahren<NODE id="450" /> eröffnet.<NODE id="460" /> <NODE id="461" />Die <NODE id="465" />Deutsche Biofonds Treuhand GmbH<NODE id="496" /> war Treuhandkommanditistin der <NODE id="528" />Deutsche Biofonds Hydropower GmbH &amp; Co. KG<NODE id="570" />.<NODE id="571" /> 
+<NODE id="573" />Die <NODE id="577" />Deutsche Biofonds Hydropower GmbH &amp; Co. KG<NODE id="619" /> investierte laut Memorandum in ein Portfolio von drei modernen Wasserkraftwerken.<NODE id="701" /> <NODE id="702" />In diesem Zusammenhang wird zu klären sein, in welchem Umfang überhaupt wie im Prospekt vorgegeben Investitionen getätigt oder was sonst mit den Anlegergeldern passiert ist.<NODE id="875" /> 
+<NODE id="877" />Nach Angaben der auf Bank- und Kapitalmarktrecht spezialisierten Kanzlei <NODE id="950" />CLLB Rechtsanwälte<NODE id="968" /> mit Standor<NODE id="980" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.anwalt24.de/beitraege-news/fachartikel/deutsche-biofonds@2016-03-08T00:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-07T23:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T13:39:22.954Z" />
+<feature featureName="uri" featureValue="http://www.anwalt24.de/beitraege-news/fachartikel/deutsche-biofonds" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="83" type="sentence" surface="Fachartikel aus dem Bereich Kredit und Bankgeschäfte - 08.03.2016 - 29 mal gelesen." />
+<Entity id="1" startPos="84" endPos="116" type="sentence" surface="Droht Anlegern ein Totalverlust?" />
+<Entity id="2" startPos="117" endPos="264" type="sentence" surface="Anleger der Deutsche Biofonds Hydropower GmbH &amp; Co. KG sind verunsichert: Über das Vermögen der Treuhänderin wurde das Insolvenzverfahren eröffnet." />
+<Entity id="3" startPos="129" endPos="171" type="organization-company" surface="Deutsche Biofonds Hydropower GmbH &amp; Co. KG" />
+<Entity id="4" startPos="236" endPos="254" type="trigger" surface="Insolvenzverfahren" />
+<Entity id="5" startPos="266" endPos="272" type="location-city" surface="Berlin" />
+<Entity id="6" startPos="266" endPos="460" type="sentence" surface="Berlin, 07.03.2016 – Wie bereits mehrfach berichtet, wurde über das Vermögen der Rechtsnachfolgerin der Deutsche Biofonds Treuhand GmbH, der Centauri Trust GmbH, das Insolvenzverfahren eröffnet." />
+<Entity id="7" startPos="370" endPos="401" type="organization-company" surface="Deutsche Biofonds Treuhand GmbH" />
+<Entity id="8" startPos="407" endPos="426" type="organization-company" surface="Centauri Trust GmbH" />
+<Entity id="9" startPos="432" endPos="450" type="trigger" surface="Insolvenzverfahren" />
+<Entity id="10" startPos="461" endPos="571" type="sentence" surface="Die Deutsche Biofonds Treuhand GmbH war Treuhandkommanditistin der Deutsche Biofonds Hydropower GmbH &amp; Co. KG." />
+<Entity id="11" startPos="465" endPos="496" type="organization-company" surface="Deutsche Biofonds Treuhand GmbH" />
+<Entity id="12" startPos="528" endPos="570" type="organization-company" surface="Deutsche Biofonds Hydropower GmbH &amp; Co. KG" />
+<Entity id="13" startPos="573" endPos="701" type="sentence" surface="Die Deutsche Biofonds Hydropower GmbH &amp; Co. KG investierte laut Memorandum in ein Portfolio von drei modernen Wasserkraftwerken." />
+<Entity id="14" startPos="577" endPos="619" type="organization-company" surface="Deutsche Biofonds Hydropower GmbH &amp; Co. KG" />
+<Entity id="15" startPos="702" endPos="875" type="sentence" surface="In diesem Zusammenhang wird zu klären sein, in welchem Umfang überhaupt wie im Prospekt vorgegeben Investitionen getätigt oder was sonst mit den Anlegergeldern passiert ist." />
+<Entity id="16" startPos="877" endPos="980" type="sentence" surface="Nach Angaben der auf Bank- und Kapitalmarktrecht spezialisierten Kanzlei CLLB Rechtsanwälte mit Standor" />
+<Entity id="17" startPos="950" endPos="968" type="organization-company" surface="CLLB Rechtsanwälte" /></Entities><Relations>
+<Relation id="18" NAME="Insolvency">
+<Entity id="3" label="company" />
+<Entity id="4" label="trigger" />
+</Relation>
+<Relation id="19" NAME="Insolvency">
+<Entity id="8" label="company" />
+<Entity id="9" label="trigger" />
+</Relation></Relations>
+</Document>

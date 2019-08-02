@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht auf der <NODE id="17" />A7<NODE id="19" /> <NODE id="20" />Ulm<NODE id="23" /> Richtung <NODE id="33" />Füssen<NODE id="39" /> zwischen <NODE id="49" />Kreuz Ulm/Elchingen<NODE id="68" /> und <NODE id="73" />Nersingen<NODE id="82" /> steht ein defektes Fahrzeug!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#17@2016-04-04T17:59:18.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="19" type="location-street" surface="A7" />
+<Entity id="1" startPos="20" endPos="23" type="location-city" surface="Ulm" />
+<Entity id="2" startPos="33" endPos="39" type="location-city" surface="Füssen" />
+<Entity id="3" startPos="49" endPos="68" type="location" surface="Kreuz Ulm/Elchingen" />
+<Entity id="4" startPos="73" endPos="82" type="location" surface="Nersingen" /></Entities><Relations />
+</Document>

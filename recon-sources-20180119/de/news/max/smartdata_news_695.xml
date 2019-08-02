@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Schaaf<NODE id="6" />-Premiere
+<NODE id="16" />Hannover 96<NODE id="27" />: <NODE id="29" />1000<NODE id="33" /> Fans beim Trainingsstart
+Er ist da - <NODE id="71" />Hannover 96<NODE id="82" /> stellt <NODE id="90" />Montag Vormittag<NODE id="106" /> seinen neuen Trainer <NODE id="128" />Thomas Schaaf<NODE id="141" /> vor. Im Anschluss - gegen <NODE id="168" />10 Uhr<NODE id="174" /> - wird er bereits das öffentliche Training in der <NODE id="225" />HDI-Arena<NODE id="234" /> leiten. Die <NODE id="247" />NP<NODE id="249" /> berichtet live.
+<NODE id="266" />11.30 Uhr<NODE id="275" />: Damit endet auch der Liveticker. Vielen Dank fürs Mitlesen, eine schöne Woche an alle.
+<NODE id="364" />11.28 Uhr<NODE id="373" />: Das Training ist vorbei. <NODE id="400" />Schaaf<NODE id="406" /> führt jetzt ein Abschlussgespräch mit Leon Andreasen und Christian Schulz, seinen alten Bekannten aus <NODE id="509" />Bremen<NODE id="515" />.
+<NODE id="517" />11.16 Uhr<NODE id="526" />: Auf dem Platz steht jetzt nur noch das Trainerteam - Beratung im Mittelkreis.
+<NODE id="606" />11.13 Uhr<NODE id="615" />: Das Spiel <NODE id="627" />elf<NODE id="630" /> gegen <NODE id="637" />elf<NODE id="640" /> ist vorbei, endete <NODE id="660" />1<NODE id="661" />:<NODE id="662" />1<NODE id="663" />. Iver Fossum hat den Ausgleich geschossen, toll nachgesetzt, am Ball sah das schon gut aus. Jetzt wird ausgelaufen. Neue Info: Heute Nachmittag ist nochmal Training auf der Mehrkampfanlage, natürlich ebenfalls öffentlich.
+<NODE id="886" />11.06 Uhr<NODE id="895" />: Einige Zuschauer verlassen die Arena, andere kommen neu he
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.neuepresse.de/Hannover-96/Aktuell/Hannover-96-Liveticker-zum-Trainingsstart@2016-03-10T15:02:59.532+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:02:59.532Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:03:03.317Z" />
+<feature featureName="uri" featureValue="http://www.neuepresse.de/Hannover-96/Aktuell/Hannover-96-Liveticker-zum-Trainingsstart" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="person" surface="Schaaf" />
+<Entity id="1" startPos="16" endPos="27" type="organization" surface="Hannover 96" />
+<Entity id="2" startPos="29" endPos="33" type="number" surface="1000" />
+<Entity id="3" startPos="71" endPos="82" type="organization" surface="Hannover 96" />
+<Entity id="4" startPos="90" endPos="106" type="date" surface="Montag Vormittag" />
+<Entity id="5" startPos="128" endPos="141" type="person" surface="Thomas Schaaf" />
+<Entity id="6" startPos="168" endPos="174" type="time" surface="10 Uhr" />
+<Entity id="7" startPos="225" endPos="234" type="location" surface="HDI-Arena" />
+<Entity id="8" startPos="247" endPos="249" type="organization-company" surface="NP" />
+<Entity id="9" startPos="266" endPos="275" type="time" surface="11.30 Uhr" />
+<Entity id="10" startPos="364" endPos="373" type="time" surface="11.28 Uhr" />
+<Entity id="11" startPos="400" endPos="406" type="person" surface="Schaaf" />
+<Entity id="12" startPos="509" endPos="515" type="location-city" surface="Bremen" />
+<Entity id="13" startPos="517" endPos="526" type="time" surface="11.16 Uhr" />
+<Entity id="14" startPos="606" endPos="615" type="time" surface="11.13 Uhr" />
+<Entity id="15" startPos="627" endPos="630" type="number" surface="elf" />
+<Entity id="16" startPos="637" endPos="640" type="number" surface="elf" />
+<Entity id="17" startPos="660" endPos="661" type="number" surface="1" />
+<Entity id="18" startPos="662" endPos="663" type="number" surface="1" />
+<Entity id="19" startPos="886" endPos="895" type="time" surface="11.06 Uhr" /></Entities><Relations />
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />DVBAG<NODE id="9" />: Guten Morgen :) An diesem verregneten <NODE id="49" />Dienstag<NODE id="57" /> stehen wir euch leider etwas eingeschränkt zur Verfügung. Habt Geduld mit uns /mf
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666523185798606848" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-17T07:48:05Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:49:23.714Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="9" type="organization-company" surface="DVBAG" />
+<Entity id="1" startPos="49" endPos="57" type="date" surface="Dienstag" /></Entities><Relations />
+</Document>

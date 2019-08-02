@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sonstiges
+Abschnitt: (<NODE id="22" />Berlin<NODE id="28" />)
+Gültig ab: <NODE id="41" />28.03.2016<NODE id="51" /> <NODE id="52" />10:02<NODE id="57" />
+<NODE id="58" />1<NODE id="59" /> defektes Fahrzeug auf dem Beschleunigungsstreifen, Bergungsarbeiten, rechter Fahrstreifen gesperrt, vorsichtig an das Stauende heranfahren
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_63578@2016-03-28T11:02:17.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-28T09:02:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-28T16:58:07.323Z" />
+<feature featureName="uri" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_63578" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="22" endPos="28" type="location-city" surface="Berlin" />
+<Entity id="1" startPos="41" endPos="51" type="date" surface="28.03.2016" />
+<Entity id="2" startPos="52" endPos="57" type="time" surface="10:02" />
+<Entity id="3" startPos="58" endPos="59" type="number" surface="1" /></Entities><Relations />
+</Document>

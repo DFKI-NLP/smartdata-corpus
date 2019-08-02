@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Zur Startseite
+Wütende Arbeiter demonstrieren an <NODE id="49" />Nord-<NODE id="54" /> und <NODE id="59" />Ostsee<NODE id="65" />, später langwierige Prozesse und Untersuchungsausschüsse: Eine der größten <NODE id="141" />deutschen<NODE id="150" /> Wirtschaftspleiten nimmt ihren Lauf, als die<NODE id="195" /> <NODE id="196" />Bremer<NODE id="202" /> Vulkan Verbund AG<NODE id="220" /> am <NODE id="224" />21. Februar 1996<NODE id="240" /> Vergleich anmelden muss. Nach kurzem Aufstieg zum größten deutschen Werftenverbund bricht <NODE id="331" />vor 20 Jahren <NODE id="345" />ein Konzern mit etwa <NODE id="366" />23.000<NODE id="372" /> Beschäftigten zusammen. Von <NODE id="401" />Bremen<NODE id="407" /> bis <NODE id="412" />Schwerin<NODE id="420" /> stehen Wirtschaftspolitiker vor einem Scherbenhaufen.
+Die <NODE id="479" />Bremer<NODE id="485" /> Vulkan Verband AG<NODE id="503" /> mauserte sich zeitweise zur größten Werft Deutschlands.
+(Foto: dpa)
+Schnell gerät nach Vergleichsantrag und Konkurs das Management in die Kritik: Nieten in Nadelstreifen aus den Vorstandsetagen sollen das Desaster verschuldet haben. Doch auch unterschiedliche Interessen in Politik, Wirtschaft und bei den Banken mischen in dem Drama mit. Der Absturz des <NODE id="859" />Vulkan<NODE id="865" /> war ein Lehrstück für das komplette Versagen eines viel zu schnell gewachsene
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.n-tv.de/wirtschaft/Ein-Lehrstueck-namens-Vulkan-Werft-article17005436.html@2016-02-21T08:47:55.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-21T07:47:55Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T10:27:11.929Z" />
+<feature featureName="uri" featureValue="http://www.n-tv.de/wirtschaft/Ein-Lehrstueck-namens-Vulkan-Werft-article17005436.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="49" endPos="54" type="location" surface="Nord-" />
+<Entity id="1" startPos="59" endPos="65" type="location" surface="Ostsee" />
+<Entity id="2" startPos="141" endPos="150" type="location" surface="deutschen" />
+<Entity id="3" startPos="195" endPos="202" type="location-city" surface=" Bremer" />
+<Entity id="4" startPos="196" endPos="220" type="organization-company" surface="Bremer Vulkan Verbund AG" />
+<Entity id="5" startPos="224" endPos="240" type="date" surface="21. Februar 1996" />
+<Entity id="6" startPos="331" endPos="345" type="date" surface="vor 20 Jahren " />
+<Entity id="7" startPos="366" endPos="372" type="number" surface="23.000" />
+<Entity id="8" startPos="401" endPos="407" type="location-city" surface="Bremen" />
+<Entity id="9" startPos="412" endPos="420" type="location-city" surface="Schwerin" />
+<Entity id="10" startPos="479" endPos="485" type="location-city" surface="Bremer" />
+<Entity id="11" startPos="479" endPos="503" type="organization-company" surface="Bremer Vulkan Verband AG" />
+<Entity id="12" startPos="859" endPos="865" type="organization-company" surface="Vulkan" /></Entities><Relations />
+</Document>

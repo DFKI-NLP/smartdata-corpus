@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />2<NODE id="1" /> #Flugzeuge im Umkreis #<NODE id="25" />Flughafen #Hannover<NODE id="44" /> sichtbar via #ADSB am <NODE id="67" />Mon Jul 18 2016<NODE id="82" /> <NODE id="83" />05:35:26 GMT+<NODE id="96" />0200<NODE id="100" /> <NODE id="101" />(CEST) mit #Raspberry Pi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754882245777850369" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T03:35:27Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T03:35:32.352Z" />
+<feature featureName="uri" featureValue="https://twitter.com/69590640/status/754882245777850369" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="1" type="number" surface="2" />
+<Entity id="1" startPos="25" endPos="44" type="location-stop" surface="Flughafen #Hannover" />
+<Entity id="2" startPos="67" endPos="82" type="date" surface="Mon Jul 18 2016" />
+<Entity id="3" startPos="83" endPos="100" type="time" surface="05:35:26 GMT+0200" />
+<Entity id="4" startPos="96" endPos="101" type="duration" surface="0200 " /></Entities><Relations />
+</Document>

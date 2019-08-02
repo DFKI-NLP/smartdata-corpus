@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>FUSION Festival in <NODE id="19" />Lärz<NODE id="23" />/<NODE id="24" />Neustrelitz<NODE id="35" />: <NODE id="37" />DB Regio Nordos<NODE id="52" />t setzt zusätzliche Züge für die An- und Abreise ein http://t.co/4UJ93Gke7p #<NODE id="129" />DBVm<NODE id="133" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="613334305863929856" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-23T13:14:28Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T16:03:24.121Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="23" type="location-city" surface="Lärz" />
+<Entity id="1" startPos="24" endPos="35" type="location-city" surface="Neustrelitz" />
+<Entity id="2" startPos="37" endPos="52" type="organization-company" surface="DB Regio Nordos" />
+<Entity id="3" startPos="129" endPos="133" type="organization-company" surface="DBVm" /></Entities><Relations />
+</Document>

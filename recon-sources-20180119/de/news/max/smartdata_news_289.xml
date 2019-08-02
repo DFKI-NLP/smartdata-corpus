@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Deutschland<NODE id="11" /> <NODE id="12" />Niedersachsen<NODE id="25" /> <NODE id="26" />Laatzen<NODE id="33" /> Blaulicht Jahresrückblick bei der <NODE id="68" />Ortsfeuerwehr <NODE id="82" />Laatzen<NODE id="89" />
+Jahresrückblick bei der <NODE id="114" />Ortsfeuerwehr <NODE id="128" />Laatzen<NODE id="135" />
+<NODE id="136" />6<NODE id="137" /> Bilder
+PRESSEINFO <NODE id="156" />STADTFEUERWEHR LAATZEN<NODE id="178" />    <NODE id="182" />09.01.2016<NODE id="192" />
+Von fast <NODE id="202" />100<NODE id="205" /> Mitgliedern in der Einsatzabteilung der <NODE id="246" />Ortsfeuerwehr<NODE id="259" /> Laatzen<NODE id="267" /> waren am <NODE id="277" />Freitagabend<NODE id="289" /> <NODE id="290" />71<NODE id="292" /> Helfer erschienen, außerdem konnte Ortsbrandmeister <NODE id="345" />Klaus-Dieter Wichmann<NODE id="366" /> auch Bürgermeister <NODE id="386" />Jürgen Köhne<NODE id="398" />, Brandabschnittsleiter <NODE id="422" />Eric Pahlke<NODE id="433" />, Stadtbrandmeister <NODE id="453" />Hartmut Hoffmann<NODE id="469" /> sowie etliche Vertreter aus Rat und Verwaltung sowie von weiteren Hilfsorganisationen zur Jahreshauptversammlung begrüßen. Insgesamt waren weit über <NODE id="619" />100<NODE id="622" /> Gäste anwesend, als <NODE id="643" />Wichmann<NODE id="651" /> seinen Rückblick auf das Jahr <NODE id="682" />2015<NODE id="686" /> Revue passieren ließ.
+Erfreut zeigte er sich über die Aufwandsentschädigung, die die Feuerwehrleute ab <NODE id="790" />Januar<NODE id="796" /> erhalten. Dieses ist eine Wertschätzung an die ehrenamtlichen Helfer, sagte er mit Dank an die Stadt. Anschließend erwähnte er eine weitere Investition f
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.myheimat.de/laatzen/blaulicht/jahresrueckblick-bei-der-ortsfeuerwehr-laatzen-d2732860.html@2016-03-10T12:41:29.413+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:41:29.413Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:41:33.318Z" />
+<feature featureName="uri" featureValue="http://www.myheimat.de/laatzen/blaulicht/jahresrueckblick-bei-der-ortsfeuerwehr-laatzen-d2732860.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="location" surface="Deutschland" />
+<Entity id="1" startPos="12" endPos="25" type="location" surface="Niedersachsen" />
+<Entity id="2" startPos="26" endPos="33" type="location-city" surface="Laatzen" />
+<Entity id="3" startPos="68" endPos="89" type="organization" surface="Ortsfeuerwehr Laatzen" />
+<Entity id="4" startPos="82" endPos="89" type="location-city" surface="Laatzen" />
+<Entity id="5" startPos="114" endPos="135" type="organization" surface="Ortsfeuerwehr Laatzen" />
+<Entity id="6" startPos="128" endPos="135" type="location-city" surface="Laatzen" />
+<Entity id="7" startPos="136" endPos="137" type="number" surface="6" />
+<Entity id="8" startPos="156" endPos="178" type="organization" surface="STADTFEUERWEHR LAATZEN" />
+<Entity id="9" startPos="182" endPos="192" type="date" surface="09.01.2016" />
+<Entity id="10" startPos="202" endPos="205" type="number" surface="100" />
+<Entity id="11" startPos="246" endPos="267" type="organization" surface="Ortsfeuerwehr Laatzen" />
+<Entity id="12" startPos="259" endPos="267" type="location-city" surface=" Laatzen" />
+<Entity id="13" startPos="277" endPos="289" type="date" surface="Freitagabend" />
+<Entity id="14" startPos="290" endPos="292" type="number" surface="71" />
+<Entity id="15" startPos="345" endPos="366" type="person" surface="Klaus-Dieter Wichmann" />
+<Entity id="16" startPos="386" endPos="398" type="person" surface="Jürgen Köhne" />
+<Entity id="17" startPos="422" endPos="433" type="person" surface="Eric Pahlke" />
+<Entity id="18" startPos="453" endPos="469" type="person" surface="Hartmut Hoffmann" />
+<Entity id="19" startPos="619" endPos="622" type="number" surface="100" />
+<Entity id="20" startPos="643" endPos="651" type="person" surface="Wichmann" />
+<Entity id="21" startPos="682" endPos="686" type="date" surface="2015" />
+<Entity id="22" startPos="790" endPos="796" type="date" surface="Januar" /></Entities><Relations />
+</Document>

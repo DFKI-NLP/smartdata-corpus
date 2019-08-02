@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @MontanaBlack: Stehe jetzt schon über <NODE id="41" />eine Stunde<NODE id="52" /> im Stau...  Fuck my live 
+#belastend
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="736849164160671744" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-29T09:18:25Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T03:58:10.514Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3123368878/status/736849164160671744" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="41" endPos="52" type="duration" surface="eine Stunde" /></Entities><Relations />
+</Document>

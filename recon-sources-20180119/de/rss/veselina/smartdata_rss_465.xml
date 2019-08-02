@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A24<NODE id="26" /> <NODE id="27" />Hamburg<NODE id="34" /> Richtung <NODE id="44" />Berlin<NODE id="50" /> zwischen <NODE id="60" />Meyenburg<NODE id="69" /> und <NODE id="74" />Pritzwalk<NODE id="83" /> liegt ein Reh auf der Fahrbahn !
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#1@2016-04-18T02:23:09.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-18T00:23:09Z" />
+<feature featureName="indexDate" featureValue="2016-04-18T00:26:07.787Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="26" type="location-street" surface="A24" />
+<Entity id="1" startPos="27" endPos="34" type="location-city" surface="Hamburg" />
+<Entity id="2" startPos="44" endPos="50" type="location-city" surface="Berlin" />
+<Entity id="3" startPos="60" endPos="69" type="location" surface="Meyenburg" />
+<Entity id="4" startPos="74" endPos="83" type="location" surface="Pritzwalk" /></Entities><Relations />
+</Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Spannender Move von <NODE id="20" />Oddo<NODE id="24" />: Die <NODE id="30" />Übernahme<NODE id="39" /> der <NODE id="44" />BHF-Bank <NODE id="53" />scheint in trockenen Tüchern. https://t.co/2gl9f6ZMeH
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670214402151473152" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-27T12:15:40Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T22:00:54.12Z" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="24" type="organization-company" surface="Oddo" />
+<Entity id="1" startPos="30" endPos="39" type="trigger" surface="Übernahme" />
+<Entity id="2" startPos="44" endPos="53" type="organization-company" surface="BHF-Bank " /></Entities><Relations>
+<Relation id="3" NAME="Acquisition">
+<Entity id="1" label="trigger" />
+<Entity id="2" label="acquired" />
+<Entity id="0" label="buyer" />
+</Relation></Relations>
+</Document>

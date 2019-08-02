@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Presse<NODE id="6" />
+<NODE id="7" />Langfristige Kredite vom Bund für <NODE id="41" />Kärnten<NODE id="48" />?<NODE id="49" />
+<NODE id="50" />Das Land <NODE id="59" />Kärnten<NODE id="66" />, das für die Anleiheschulden der <NODE id="100" />Heta<NODE id="104" /> haftet, könnte im Ernstfall vielleicht vom Bund Hilfen etwa in Form langfristiger Kredite erwarten, meint die Ratingagentur <NODE id="229" />Standard &amp; Poor’s<NODE id="246" />.<NODE id="247" />
+<NODE id="248" />Die Ratingagentur <NODE id="266" />Standard &amp; Poor’s<NODE id="283" /> benotet weder die <NODE id="302" />Hypo-Bad Bank Heta<NODE id="320" /> noch das Land <NODE id="335" />Kärnten<NODE id="342" />, verfolgt aber deren Entwicklung.<NODE id="376" />
+<NODE id="377" />Heta<NODE id="381" />-Zahlungsunfähigkeit ohne Auswirkungen<NODE id="419" />
+<NODE id="420" />Demnach soll laut der Ratingagentur eine infolge des FMA-Schuldenschnitts formal fest gestellte Zahlungsunfähigkeit der Heta kaum Auswirkungen auf die Bankenlandschaft und die Bonität <NODE id="604" />Österreichs<NODE id="615" /> und der Bundesländer haben. Und das, obwohl man bei der Agentur nicht damit rechnet, dass das Land <NODE id="715" />Kärnten<NODE id="722" /> seiner Ausfallsbürgschaft für die <NODE id="757" />Heta<NODE id="761" />-Anleihen in vollem Ausmaß gerecht werden wird, wie es in einer Einschätzung heißt.<NODE id="844" />
+<NODE id="845" />Der „Fall <NODE id="855" />Heta<NODE id="859" />“ zeige aber, dass Investoren sich sowohl die dahinterliegenden Kredite als auch die Kreditwürdi<NODE id="955" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://kaernten.orf.at/news/stories/2764103/@2016-03-21T14:19:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T13:19:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:31:21.933Z" />
+<feature featureName="uri" featureValue="http://kaernten.orf.at/news/stories/2764103/" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="sentence" surface="Presse" />
+<Entity id="1" startPos="7" endPos="49" type="sentence" surface="Langfristige Kredite vom Bund für Kärnten?" />
+<Entity id="2" startPos="41" endPos="48" type="location" surface="Kärnten" />
+<Entity id="3" startPos="50" endPos="247" type="sentence" surface="Das Land Kärnten, das für die Anleiheschulden der Heta haftet, könnte im Ernstfall vielleicht vom Bund Hilfen etwa in Form langfristiger Kredite erwarten, meint die Ratingagentur Standard &amp; Poor’s." />
+<Entity id="4" startPos="59" endPos="66" type="location" surface="Kärnten" />
+<Entity id="5" startPos="100" endPos="104" type="organization-company" surface="Heta" />
+<Entity id="6" startPos="229" endPos="246" type="organization-company" surface="Standard &amp; Poor’s" />
+<Entity id="7" startPos="248" endPos="376" type="sentence" surface="Die Ratingagentur Standard &amp; Poor’s benotet weder die Hypo-Bad Bank Heta noch das Land Kärnten, verfolgt aber deren Entwicklung." />
+<Entity id="8" startPos="266" endPos="283" type="organization-company" surface="Standard &amp; Poor’s" />
+<Entity id="9" startPos="302" endPos="320" type="organization-company" surface="Hypo-Bad Bank Heta" />
+<Entity id="10" startPos="335" endPos="342" type="location" surface="Kärnten" />
+<Entity id="11" startPos="377" endPos="381" type="organization-company" surface="Heta" />
+<Entity id="12" startPos="377" endPos="419" type="sentence" surface="Heta-Zahlungsunfähigkeit ohne Auswirkungen" />
+<Entity id="13" startPos="420" endPos="844" type="sentence" surface="Demnach soll laut der Ratingagentur eine infolge des FMA-Schuldenschnitts formal fest gestellte Zahlungsunfähigkeit der Heta kaum Auswirkungen auf die Bankenlandschaft und die Bonität Österreichs und der Bundesländer haben. Und das, obwohl man bei der Agentur nicht damit rechnet, dass das Land Kärnten seiner Ausfallsbürgschaft für die Heta-Anleihen in vollem Ausmaß gerecht werden wird, wie es in einer Einschätzung heißt." />
+<Entity id="14" startPos="604" endPos="615" type="location" surface="Österreichs" />
+<Entity id="15" startPos="715" endPos="722" type="location" surface="Kärnten" />
+<Entity id="16" startPos="757" endPos="761" type="organization-company" surface="Heta" />
+<Entity id="17" startPos="845" endPos="955" type="sentence" surface="Der „Fall Heta“ zeige aber, dass Investoren sich sowohl die dahinterliegenden Kredite als auch die Kreditwürdi" />
+<Entity id="18" startPos="855" endPos="859" type="organization-company" surface="Heta" /></Entities><Relations />
+</Document>

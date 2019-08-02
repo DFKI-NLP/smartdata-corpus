@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Stuttgart<NODE id="9" /> Richtung <NODE id="19" />Karlsruhe<NODE id="28" /> zwischen <NODE id="38" />Stuttgart-Möhringen<NODE id="57" /> und <NODE id="62" />Kreuz Stuttgart<NODE id="77" /> <NODE id="78" />3 km<NODE id="82" /> <NODE id="83" />stockender Verkehr<NODE id="101" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=7ac53737-5193-4d3a-a9fc-62fe4a8d1acd@2016-07-17T16:06:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T14:06:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T15:21:37.895Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=7ac53737-5193-4d3a-a9fc-62fe4a8d1acd" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Stuttgart" />
+<Entity id="1" startPos="19" endPos="28" type="location-city" surface="Karlsruhe" />
+<Entity id="2" startPos="38" endPos="57" type="location" surface="Stuttgart-Möhringen" />
+<Entity id="3" startPos="62" endPos="77" type="location" surface="Kreuz Stuttgart" />
+<Entity id="4" startPos="78" endPos="82" type="distance" surface="3 km" />
+<Entity id="5" startPos="83" endPos="101" type="trigger" surface="stockender Verkehr" /></Entities><Relations />
+</Document>

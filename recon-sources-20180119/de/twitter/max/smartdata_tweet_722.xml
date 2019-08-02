@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Zwischen #<NODE id="10" />Leingarten<NODE id="20" /> und #<NODE id="26" />Böckingen<NODE id="35" /> steht immernoch. <NODE id="53" />70<NODE id="55" /> erlaubt #Blitzer<NODE id="72" />Leingarten<NODE id="82" /> #Blitzer<NODE id="91" />Böckingen<NODE id="100" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668437028397256704" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-22T14:33:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:06:35.729Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="10" endPos="20" type="location-city" surface="Leingarten" />
+<Entity id="1" startPos="26" endPos="35" type="location-city" surface="Böckingen" />
+<Entity id="2" startPos="53" endPos="55" type="number" surface="70" />
+<Entity id="3" startPos="72" endPos="82" type="location-city" surface="Leingarten" />
+<Entity id="4" startPos="91" endPos="100" type="location-city" surface="Böckingen" /></Entities><Relations />
+</Document>

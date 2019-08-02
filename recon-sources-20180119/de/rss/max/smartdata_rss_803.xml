@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A42<NODE id="3" /> <NODE id="4" />Kamp-Lintfort<NODE id="17" /> Richtung <NODE id="27" />Dortmund<NODE id="35" /> zwischen <NODE id="45" />Bottrop-Süd<NODE id="56" /> und <NODE id="61" />Kreuz Essen-Nord<NODE id="77" /> <NODE id="78" />Unfall<NODE id="84" /> <NODE id="85" />3 km<NODE id="89" /> <NODE id="90" />Stau<NODE id="94" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#20@2016-01-28T19:43:18.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-28T18:43:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T05:16:47.356Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A42" />
+<Entity id="1" startPos="4" endPos="17" type="location-city" surface="Kamp-Lintfort" />
+<Entity id="2" startPos="27" endPos="35" type="location-city" surface="Dortmund" />
+<Entity id="3" startPos="45" endPos="56" type="location" surface="Bottrop-Süd" />
+<Entity id="4" startPos="61" endPos="77" type="location" surface="Kreuz Essen-Nord" />
+<Entity id="5" startPos="78" endPos="84" type="trigger" surface="Unfall" />
+<Entity id="6" startPos="85" endPos="89" type="distance" surface="3 km" />
+<Entity id="7" startPos="90" endPos="94" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="8" NAME="Accident">
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="3" label="end_loc" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+</Relation>
+<Relation id="9" NAME="TrafficJam">
+<Entity id="6" label="jam_length" />
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="4" label="end_loc" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Das Erste <NODE id="10" />16:10<NODE id="15" /> bis <NODE id="20" />20:00<NODE id="25" />
+Seit <NODE id="31" />128 Min<NODE id="38" />.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rtv.de/sendungsdetails/9993484/.html@2016-02-12T18:17:45.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-12T17:17:45Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:58:11.932Z" />
+<feature featureName="uri" featureValue="http://www.rtv.de/sendungsdetails/9993484/.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="10" endPos="15" type="time" surface="16:10" />
+<Entity id="1" startPos="20" endPos="25" type="time" surface="20:00" />
+<Entity id="2" startPos="31" endPos="38" type="duration" surface="128 Min" /></Entities><Relations />
+</Document>

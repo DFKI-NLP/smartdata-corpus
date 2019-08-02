@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: Finale: Am <NODE id="23" />30. Juni<NODE id="31" /> geht den <NODE id="41" />Griechen<NODE id="49" /> das Geld aus. Und das Land ist wirklich pleite. Kommt dann der #Grexit? http://t.co/SAb34…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="610137661295214592" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="23" endPos="31" type="date" surface="30. Juni" />
+<Entity id="2" startPos="41" endPos="49" type="location" surface="Griechen" /></Entities><Relations />
+</Document>

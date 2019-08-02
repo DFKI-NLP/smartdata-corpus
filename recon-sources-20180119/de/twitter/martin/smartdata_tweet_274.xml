@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vor der <NODE id="8" />Küste Ecuadors<NODE id="22" /> hat es ein schweres <NODE id="43" />Erdbeben<NODE id="51" /> gegeben, mindestens <NODE id="72" />28<NODE id="74" /> Menschen sind dabei ums Leben gekommen. https://t.co/nzEAIldZUC
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="721534991730098176" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-17T03:05:22Z" />
+<feature featureName="indexDate" featureValue="2016-04-17T03:05:35.035Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="22" type="location" surface="Küste Ecuadors" />
+<Entity id="1" startPos="43" endPos="51" type="disaster-type" surface="Erdbeben" />
+<Entity id="2" startPos="72" endPos="74" type="number" surface="28" /></Entities><Relations>
+<Relation id="3" NAME="Disaster">
+<Entity id="1" label="type" />
+<Entity id="2" label="victims" />
+<Entity id="0" label="location" />
+</Relation></Relations>
+</Document>

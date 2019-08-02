@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />n24<NODE id="4" /> Schluss mit Streik - <NODE id="26" />GDL<NODE id="29" /> und <NODE id="34" />Bahn<NODE id="38" /> legen Tarifstreit bei: Hartnäckig kämpfte die… http://t.co/Bj4xy16q09
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="616162263431385088" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="4" type="organization-company" surface="n24" />
+<Entity id="1" startPos="26" endPos="29" type="organization" surface="GDL" />
+<Entity id="2" startPos="34" endPos="38" type="organization-company" surface="Bahn" /></Entities><Relations />
+</Document>

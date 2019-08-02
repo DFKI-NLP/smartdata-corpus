@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>KONAKION MM <NODE id="12" />10 mg <NODE id="18" />Lösung
+<NODE id="25" />12,53 EUR<NODE id="34" />
+inkl. <NODE id="41" />19 %<NODE id="45" /> MwSt.  zzgl. Versandkosten
+Art.Nr.:
+Bitte beantworten Sie folgende Frage:
+<NODE id="120" />99<NODE id="122" /> - <NODE id="125" />9<NODE id="126" /> =
+ 
+Zu Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen Sie Ihren Arzt oder Apotheker.
+*gegenüber der Preisangabe, die gemäß <NODE id="271" />§129<NODE id="275" /> Absatz <NODE id="283" />5a SGB V <NODE id="292" />in Verbindung mit AMPreisVO für die ausnahmsweise Abgabe apothekenpflichtiger, nicht verschreibungspflichtiger Artikel zu Lasten der gesetzlichen Krankenversicherung vorgesehen ist
+Shop Bewertungen
+Es wurde kein Kommentar abgegeben
+Mehr über...
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.parcelmed.de/p11174772_konakion-mm-10-mg-loesung.html@2016-03-10T13:48:36.152+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:48:36.152Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:48:43.485Z" />
+<feature featureName="uri" featureValue="http://www.parcelmed.de/p11174772_konakion-mm-10-mg-loesung.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="18" type="number" surface="10 mg " />
+<Entity id="1" startPos="25" endPos="34" type="number" surface="12,53 EUR" />
+<Entity id="2" startPos="41" endPos="45" type="number" surface="19 %" />
+<Entity id="3" startPos="120" endPos="122" type="number" surface="99" />
+<Entity id="4" startPos="125" endPos="126" type="number" surface="9" />
+<Entity id="5" startPos="271" endPos="275" type="number" surface="§129" />
+<Entity id="6" startPos="283" endPos="292" type="number" surface="5a SGB V " /></Entities><Relations />
+</Document>

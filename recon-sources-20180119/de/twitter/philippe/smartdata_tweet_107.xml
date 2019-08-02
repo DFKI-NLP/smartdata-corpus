@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Streikankündigung in <NODE id="21" />Italien<NODE id="28" /> für den <NODE id="37" />24.10.2015<NODE id="47" /> und <NODE id="52" />25. Oktober 2015<NODE id="68" />. Infos unter: https://t.co/LHoEWDp7Ma  #Streik #<NODE id="117" />Italien<NODE id="124" /> #<NODE id="126" />Bahn<NODE id="130" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="657162849203171328" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="21" endPos="28" type="location" surface="Italien" />
+<Entity id="1" startPos="37" endPos="47" type="date" surface="24.10.2015" />
+<Entity id="2" startPos="52" endPos="68" type="date" surface="25. Oktober 2015" />
+<Entity id="3" startPos="117" endPos="124" type="location" surface="Italien" />
+<Entity id="4" startPos="126" endPos="130" type="organization-company" surface="Bahn" /></Entities><Relations />
+</Document>

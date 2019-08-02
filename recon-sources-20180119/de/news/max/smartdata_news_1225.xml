@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>iPhone <NODE id="7" />7<NODE id="8" /> und <NODE id="13" />7<NODE id="14" /> Plus: Foto soll beide Modelle nebeneinander zeigen
+iPhone <NODE id="73" />7<NODE id="74" /> und <NODE id="79" />7<NODE id="80" /> Plus: Foto soll beide Modelle nebeneinander zeigenSehen wir hier das iPhone <NODE id="157" />7<NODE id="158" /> neben dem Plus-Ableger? Auf dem Mikro-Bloggingdienst Weibo ist ein Foto aufgetaucht, das den Nachfolger des iPhone 6s zeigen soll. Wenn das Bild echt ist, sehen wir die beiden Kameras zum ersten Mal nebeneinander.Wieder ist ein Foto von <NODE id="396" />Apples<NODE id="402" /> nächstem Vorzeigemodell aufgetaucht: Dieses Mal sollen iPhone <NODE id="465" />7<NODE id="466" /> und <NODE id="471" />7<NODE id="472" /> Plus zusammen zu sehen sein.
+Sehen wir hier das iPhone <NODE id="528" />7<NODE id="529" /> neben dem Plus-Ableger? Auf dem Mikro-Bloggingdienst Weibo ist ein Foto aufgetaucht, das den Nachfolger des iPhone 6s zeigen soll. Wenn das Bild echt ist, sehen wir die beiden Kameras zum ersten Mal nebeneinander.
+Das angebliche iPhone <NODE id="766" />7<NODE id="767" /> mit einfacher Kamera ist auf dem Foto in einer Verpackung zu sehen und liegt auf <NODE id="849" />drei<NODE id="853" /> Modellen des <NODE id="867" />7<NODE id="868" /> Plus in unterschiedlichen Farben. Die kleine Ausführung, die ve
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.e-commerce-news.net/iphone-7-und-7-plus-foto-soll-beide-modelle-nebeneinander-zeigen/@2016-07-22T18:28:32.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-22T16:28:32Z" />
+<feature featureName="indexDate" featureValue="2016-07-22T17:23:55.38Z" />
+<feature featureName="uri" featureValue="http://www.e-commerce-news.net/iphone-7-und-7-plus-foto-soll-beide-modelle-nebeneinander-zeigen/" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="7" endPos="8" type="number" surface="7" />
+<Entity id="1" startPos="13" endPos="14" type="number" surface="7" />
+<Entity id="2" startPos="73" endPos="74" type="number" surface="7" />
+<Entity id="3" startPos="79" endPos="80" type="number" surface="7" />
+<Entity id="4" startPos="157" endPos="158" type="number" surface="7" />
+<Entity id="5" startPos="396" endPos="402" type="organization-company" surface="Apples" />
+<Entity id="6" startPos="465" endPos="466" type="number" surface="7" />
+<Entity id="7" startPos="471" endPos="472" type="number" surface="7" />
+<Entity id="8" startPos="528" endPos="529" type="number" surface="7" />
+<Entity id="9" startPos="766" endPos="767" type="number" surface="7" />
+<Entity id="10" startPos="849" endPos="853" type="number" surface="drei" />
+<Entity id="11" startPos="867" endPos="868" type="number" surface="7" /></Entities><Relations />
+</Document>

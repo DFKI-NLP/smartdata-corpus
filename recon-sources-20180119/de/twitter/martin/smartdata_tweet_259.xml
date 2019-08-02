@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-PDLU<NODE id="8" />: <NODE id="10" />Speyer<NODE id="16" />- Beim Ausparken Unfall verursacht #Polizei https://t.co/IkJzOsPcC6
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670252301232246785" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-27T14:46:15Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:18:25.73Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="organization" surface="POL-PDLU" />
+<Entity id="1" startPos="10" endPos="16" type="location" surface="Speyer" /></Entities><Relations />
+</Document>

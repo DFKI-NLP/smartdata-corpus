@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Der <NODE id="4" />amerikanische<NODE id="17" /> <NODE id="18" />Kreditkarten<NODE id="30" />anbieter<NODE id="38" /> #<NODE id="40" />Visa<NODE id="44" /> <NODE id="45" />kauft<NODE id="50" /> für <NODE id="55" />21,2 Milliarden<NODE id="70" /> seine <NODE id="77" />Europa<NODE id="83" />-Tochter<NODE id="91" /> zurück.<NODE id="99" /> <NODE id="100" />https://t.co/DYsrISg15L #Fusion<NODE id="131" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="661221625661100036" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-02T16:41:35Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:08:25.73Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="99" type="sentence" surface="Der amerikanische Kreditkartenanbieter #Visa kauft für 21,2 Milliarden seine Europa-Tochter zurück." />
+<Entity id="1" startPos="4" endPos="17" type="location" surface="amerikanische" />
+<Entity id="2" startPos="18" endPos="30" type="product" surface="Kreditkarten" />
+<Entity id="3" startPos="30" endPos="38" type="trigger" surface="anbieter" />
+<Entity id="4" startPos="40" endPos="44" type="organization-company" surface="Visa" />
+<Entity id="5" startPos="45" endPos="50" type="trigger" surface="kauft" />
+<Entity id="6" startPos="55" endPos="70" type="number" surface="21,2 Milliarden" />
+<Entity id="7" startPos="77" endPos="83" type="location" surface="Europa" />
+<Entity id="8" startPos="77" endPos="91" type="organization-company" surface="Europa-Tochter" />
+<Entity id="9" startPos="100" endPos="131" type="sentence" surface="https://t.co/DYsrISg15L #Fusion" /></Entities><Relations>
+<Relation id="10" NAME="Acquisition">
+<Entity id="6" label="price" />
+<Entity id="5" label="trigger" />
+<Entity id="8" label="acquired" />
+<Entity id="4" label="buyer" />
+</Relation>
+<Relation id="11" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="4" label="company" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @GooWicht: @<NODE id="15" />brandeins<NODE id="24" /> @zukunftmobil   Autos stehen nicht im Stau, sie sind der Stau.  https://t.co/sKOzQlx65N
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669888973615947777" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-26T14:42:31Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:16:35.731Z" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="24" type="organization-company" surface="brandeins" /></Entities><Relations />
+</Document>

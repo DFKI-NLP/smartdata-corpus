@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />BASF<NODE id="4" /> erwägt Gegengebot für <NODE id="27" />US<NODE id="29" />-Rivalen <NODE id="38" />DuPont<NODE id="44" />:  <NODE id="47" />Dow Chemical <NODE id="60" />will mit <NODE id="69" />DuPont<NODE id="75" /> zu neuem <NODE id="85" />US<NODE id="87" />-Branchenprimus ...
+<NODE id="107" />Dow Chemical<NODE id="119" /> will mit <NODE id="129" />DuPont<NODE id="135" /> zu neuem <NODE id="145" />US<NODE id="147" />-Branchenprimus <NODE id="163" />fusionieren<NODE id="174" />. Aber der Chemiekonzern <NODE id="199" />BASF<NODE id="203" /> soll sich laut Medienberichten mit Banken beraten, um ebenfalls eine Offerte vorzubereiten.
+<NODE id="296" />BASF<NODE id="300" /> könnte einem Medienbericht zufolge bei der geplanten Rekordfusion der <NODE id="371" />US<NODE id="373" />-Chemieriesen <NODE id="387" />DuPont<NODE id="393" /> und <NODE id="398" />Dow Chemical <NODE id="411" />dazwischenfunken. Das <NODE id="433" />Ludwigshafener<NODE id="447" /> Unternehmen erwäge eine Gegenofferte für <NODE id="489" />DuPont<NODE id="495" />, meldete die Agentur <NODE id="517" />Bloomberg<NODE id="526" /> am <NODE id="530" />Freitag<NODE id="537" /> unter Berufung auf mit der Angelegenheit vertraute Personen. Gemeinsam ...
+Den vollständigen Artikel lesen ...
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanznachrichten.de/nachrichten-2016-03/36677615-basf-erwaegt-gegengebot-fuer-us-rivalen-dupont-dow-chemical-will-mit-dupont-zu-neuem-us-branchenprimus-198.htm@2016-03-05T13:31:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-05T12:31:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T01:05:32.952Z" />
+<feature featureName="uri" featureValue="http://www.finanznachrichten.de/nachrichten-2016-03/36677615-basf-erwaegt-gegengebot-fuer-us-rivalen-dupont-dow-chemical-will-mit-dupont-zu-neuem-us-branchenprimus-198.htm" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="organization-company" surface="BASF" />
+<Entity id="1" startPos="27" endPos="29" type="location" surface="US" />
+<Entity id="2" startPos="38" endPos="44" type="organization-company" surface="DuPont" />
+<Entity id="3" startPos="47" endPos="60" type="organization-company" surface="Dow Chemical " />
+<Entity id="4" startPos="69" endPos="75" type="organization-company" surface="DuPont" />
+<Entity id="5" startPos="85" endPos="87" type="location" surface="US" />
+<Entity id="6" startPos="107" endPos="119" type="organization-company" surface="Dow Chemical" />
+<Entity id="7" startPos="129" endPos="135" type="organization-company" surface="DuPont" />
+<Entity id="8" startPos="145" endPos="147" type="location" surface="US" />
+<Entity id="9" startPos="163" endPos="174" type="trigger" surface="fusionieren" />
+<Entity id="10" startPos="199" endPos="203" type="organization-company" surface="BASF" />
+<Entity id="11" startPos="296" endPos="300" type="organization-company" surface="BASF" />
+<Entity id="12" startPos="371" endPos="373" type="location" surface="US" />
+<Entity id="13" startPos="387" endPos="393" type="organization-company" surface="DuPont" />
+<Entity id="14" startPos="398" endPos="411" type="organization-company" surface="Dow Chemical " />
+<Entity id="15" startPos="433" endPos="447" type="location-city" surface="Ludwigshafener" />
+<Entity id="16" startPos="489" endPos="495" type="organization-company" surface="DuPont" />
+<Entity id="17" startPos="517" endPos="526" type="organization-company" surface="Bloomberg" />
+<Entity id="18" startPos="530" endPos="537" type="date" surface="Freitag" /></Entities><Relations>
+<Relation id="19" NAME="Merger">
+<Entity id="7" label="old" />
+<Entity id="6" label="old" />
+<Entity id="9" label="trigger" />
+</Relation></Relations>
+</Document>

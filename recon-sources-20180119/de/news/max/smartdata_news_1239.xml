@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />FDP<NODE id="3" /> will <NODE id="9" />16.000<NODE id="15" /> neue Polizisten in den Ländern
+News von LatestNews <NODE id="67" />21 Minuten<NODE id="77" /> zuvor               (Redaktion)
+Polizeiauto vor <NODE id="126" />Kölner<NODE id="132" /> Dom und Hauptbahnhof
+© über <NODE id="161" />dts Nachrichtenagentur<NODE id="183" />
+Die <NODE id="188" />FDP<NODE id="191" /> hat zur Neueinstellung von Polizisten im großen Stil auch in den Ländern aufgerufen: Die Bundesländer müssen <NODE id="301" />16.000<NODE id="307" /> Polizisten einstellen, um den Rechtsstaat flächendeckend durchsetzen zu können, sagte <NODE id="394" />FDP<NODE id="397" />-<NODE id="398" />Generalsekretärin<NODE id="415" /> <NODE id="416" />Nicola Beer<NODE id="427" /> der <NODE id="432" />Rheinischen Post<NODE id="448" />. <NODE id="450" />12.000<NODE id="456" /> wären allein nötig, um den aktuellen Bedarf abzudecken, weitere <NODE id="521" />4.000<NODE id="526" />, um die zusätzlichen Aufgaben schultern zu können. Der rigorose Stellenabbau sei ein eklatanter Fehler gewesen, der umgehend korrigiert werden müsse.
+Wer <NODE id="681" />110<NODE id="684" /> wählt, muss sicher sein, dass auch immer jemand drangeht und eingreifen kann, sagte <NODE id="769" />Beer<NODE id="773" />. Sie wolle keine Bürgerwehren in <NODE id="807" />Deutschland<NODE id="818" />. Deshalb unterstrichen die <NODE id="846" />FDP<NODE id="849" />-Fraktionen in den Landtagen die Forderung nach mehr Polizisten durch entsprechende Anträge in den Ha
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.kledy.de/story.php?title=fdp-will-16000-neue-polizisten-in-den-laendern-2087563@2016-02-17T09:51:44.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-17T08:51:44Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T14:07:01.933Z" />
+<feature featureName="uri" featureValue="http://www.kledy.de/story.php?title=fdp-will-16000-neue-polizisten-in-den-laendern-2087563" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization" surface="FDP" />
+<Entity id="1" startPos="9" endPos="15" type="number" surface="16.000" />
+<Entity id="2" startPos="67" endPos="77" type="duration" surface="21 Minuten" />
+<Entity id="3" startPos="126" endPos="132" type="location-city" surface="Kölner" />
+<Entity id="4" startPos="161" endPos="183" type="organization-company" surface="dts Nachrichtenagentur" />
+<Entity id="5" startPos="188" endPos="191" type="organization" surface="FDP" />
+<Entity id="6" startPos="301" endPos="307" type="number" surface="16.000" />
+<Entity id="7" startPos="394" endPos="397" type="organization" surface="FDP" />
+<Entity id="8" startPos="398" endPos="415" type="org-position" surface="Generalsekretärin" />
+<Entity id="9" startPos="416" endPos="427" type="person" surface="Nicola Beer" />
+<Entity id="10" startPos="432" endPos="448" type="organization-company" surface="Rheinischen Post" />
+<Entity id="11" startPos="450" endPos="456" type="number" surface="12.000" />
+<Entity id="12" startPos="521" endPos="526" type="number" surface="4.000" />
+<Entity id="13" startPos="681" endPos="684" type="number" surface="110" />
+<Entity id="14" startPos="769" endPos="773" type="person" surface="Beer" />
+<Entity id="15" startPos="807" endPos="818" type="location" surface="Deutschland" />
+<Entity id="16" startPos="846" endPos="849" type="organization" surface="FDP" /></Entities><Relations>
+<Relation id="17" NAME="OrganizationLeadership">
+<Entity id="9" label="person" />
+<Entity id="7" label="organization" />
+<Entity id="8" label="position" />
+</Relation></Relations>
+</Document>

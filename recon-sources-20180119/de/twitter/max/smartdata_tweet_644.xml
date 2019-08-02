@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Atlantic MS Benedict Schulte<NODE id="28" />: <NODE id="30" />Insolvenzverfahren<NODE id="48" /> eröffnet https://t.co/stA2PYUb9U
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="733430487163625473" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-19T22:53:49Z" />
+<feature featureName="indexDate" featureValue="2016-05-19T22:53:54.039Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="28" type="organization-company" surface="Atlantic MS Benedict Schulte" />
+<Entity id="1" startPos="30" endPos="48" type="trigger" surface="Insolvenzverfahren" /></Entities><Relations>
+<Relation id="2" NAME="Insolvency">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

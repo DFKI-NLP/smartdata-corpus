@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />02.12.15<NODE id="8" /> | <NODE id="11" />15:25 Uhr<NODE id="20" /> | <NODE id="23" />4<NODE id="24" /> mal gelesen | dts-nachrichtenagentur.de
+Nicht nur die Tornado-Jets der <NODE id="96" />Bundeswehr<NODE id="106" /> bereiten im Vorfeld des <NODE id="131" />Syrien<NODE id="137" />-Einsatzes Probleme, auch die Kriegsschiffe ...
+Bild: © über dts Nachrichtenagentur
+<NODE id="221" />Grünen<NODE id="227" />-Politiker: Auch Kriegsschiffe der <NODE id="262" />Bundeswehr<NODE id="272" /> weisen Mängel auf
+Nicht nur die Tornado-Jets der <NODE id="322" />Bundeswehr<NODE id="332" /> bereiten im Vorfeld des <NODE id="357" />Syrien<NODE id="363" />-Einsatzes Probleme, auch die Kriegsschiffe weisen offenbar Mängel auf: Bei den Fregatten ist die Einsatzfähigkeit des Gesamtsystems aus Schiff und Bordhubschrauber das eigentliche Problem, sagte <NODE id="559" />Grünen<NODE id="565" />-Rüstungsexperte <NODE id="582" />Tobias Lindner<NODE id="596" /> der <NODE id="601" />Rheinischen Post<NODE id="617" /> (Donnerstagsausgabe).
+Von den <NODE id="648" />22<NODE id="650" /> Sea-Lynx-Hubschraubern seien zuletzt nur <NODE id="692" />drei<NODE id="696" /> einsatzbereit gewesen. Die <NODE id="724" />Bundeswehr<NODE id="734" /> könne mit Tornados und Fregatte zwar den <NODE id="776" />Syrien<NODE id="782" />-Einsatz bestücken, allerdings stelle sich die Frage, wie lange ihr das gelinge. Der Ausfall eines Sea-Lynx-Hubschraubers würde die volle Einsatzbereitschaft der Freg
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ad-hoc-news.de/nicht-nur-die-tornado-jets-der-bundeswehr-bereiten-im-vorfeld-des-syrien--/de/News/47228233@2016-03-11T02:30:06.336+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T01:30:06.336Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T01:30:13.316Z" />
+<feature featureName="uri" featureValue="http://www.ad-hoc-news.de/nicht-nur-die-tornado-jets-der-bundeswehr-bereiten-im-vorfeld-des-syrien--/de/News/47228233" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="date" surface="02.12.15" />
+<Entity id="1" startPos="11" endPos="20" type="time" surface="15:25 Uhr" />
+<Entity id="2" startPos="23" endPos="24" type="number" surface="4" />
+<Entity id="3" startPos="96" endPos="106" type="organization" surface="Bundeswehr" />
+<Entity id="4" startPos="131" endPos="137" type="location" surface="Syrien" />
+<Entity id="5" startPos="221" endPos="227" type="organization" surface="Grünen" />
+<Entity id="6" startPos="262" endPos="272" type="organization" surface="Bundeswehr" />
+<Entity id="7" startPos="322" endPos="332" type="organization" surface="Bundeswehr" />
+<Entity id="8" startPos="357" endPos="363" type="location" surface="Syrien" />
+<Entity id="9" startPos="559" endPos="565" type="organization" surface="Grünen" />
+<Entity id="10" startPos="582" endPos="596" type="person" surface="Tobias Lindner" />
+<Entity id="11" startPos="601" endPos="617" type="organization-company" surface="Rheinischen Post" />
+<Entity id="12" startPos="648" endPos="650" type="number" surface="22" />
+<Entity id="13" startPos="692" endPos="696" type="number" surface="drei" />
+<Entity id="14" startPos="724" endPos="734" type="organization" surface="Bundeswehr" />
+<Entity id="15" startPos="776" endPos="782" type="location" surface="Syrien" /></Entities><Relations />
+</Document>

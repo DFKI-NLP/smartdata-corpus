@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A4<NODE id="2" /> <NODE id="3" />Aachen<NODE id="9" /> Richtung <NODE id="19" />Köln<NODE id="23" /> zwischen <NODE id="33" />Kreuz Köln-West<NODE id="48" /> und <NODE id="53" />Kreuz Köln-Süd<NODE id="67" /> <NODE id="68" />5 km<NODE id="72" /> <NODE id="73" />stockender Verkehr<NODE id="91" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#17@2016-04-05T09:27:48.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A4" />
+<Entity id="1" startPos="3" endPos="9" type="location-city" surface="Aachen" />
+<Entity id="2" startPos="19" endPos="23" type="location-city" surface="Köln" />
+<Entity id="3" startPos="33" endPos="48" type="location" surface="Kreuz Köln-West" />
+<Entity id="4" startPos="53" endPos="67" type="location" surface="Kreuz Köln-Süd" />
+<Entity id="5" startPos="68" endPos="72" type="distance" surface="5 km" />
+<Entity id="6" startPos="73" endPos="91" type="trigger" surface="stockender Verkehr" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="jam_length" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

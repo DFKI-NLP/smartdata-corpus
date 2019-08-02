@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Straßenneubenennungen im Neubaugebiet „<NODE id="39" />Pariser Straße<NODE id="53" /> <NODE id="54" />300<NODE id="57" />“ https://t.co/EwcXjayLmP https://t.co/oZ8BT8JP7g
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671391476472004608" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="39" endPos="53" type="location-street" surface="Pariser Straße" />
+<Entity id="1" startPos="54" endPos="57" type="number" surface="300" /></Entities><Relations />
+</Document>

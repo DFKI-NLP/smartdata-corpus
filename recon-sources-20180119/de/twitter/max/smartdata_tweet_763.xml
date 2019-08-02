@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Für das Stellwerk #<NODE id="19" />München-Ost<NODE id="30" /> wurde ein neuer Kommentar abgegeben. (https://t.co/0ynvhzNpkb)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669248018416209920" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-24T20:15:36Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:12:34.121Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="30" type="location" surface="München-Ost" /></Entities><Relations />
+</Document>

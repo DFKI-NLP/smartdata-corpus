@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Mailen
+Einen Tag nach dem <NODE id="26" />Erdbeben<NODE id="34" /> im Süden <NODE id="44" />Taiwans<NODE id="51" /> haben Rettungskräfte noch immer nach <NODE id="89" />152<NODE id="92" /> Vermissten in den Trümmern gesucht. Die Zahl der Toten in der Metropole <NODE id="165" />Tainan<NODE id="171" /> stieg auf <NODE id="182" />18<NODE id="184" />, wie lokale Medien berichteten. Rund <NODE id="222" />500<NODE id="225" /> Menschen wurden verletzt. Die Suche nach den Verschütteten dauert an. Die meisten Menschen wurden in den Trümmern eines <NODE id="346" />16<NODE id="348" />-stöckigen Wohnhauses vermisst, das umgestürzt war. Die Behörden haben den Verdacht, dass Pfusch am Bau die Ursache war, warum das Haus dem Beben nicht standhalten konnte.
+Gefällt Ihnen dieser Beitrag? Dann teilen Sie ihn bitte in den sozialen Medien - und folgen uns auch auf <NODE id="625" />Twitter<NODE id="632" /> und <NODE id="637" />Facebook<NODE id="645" /> :
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nnn.de/deutschland-welt/newsticker/18-tote-und-noch-152-vermisste-nach-erdbeben-in-taiwan-id12667446.html@2016-02-07T02:26:30.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-07T01:26:30Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T06:12:31.931Z" />
+<feature featureName="uri" featureValue="http://www.nnn.de/deutschland-welt/newsticker/18-tote-und-noch-152-vermisste-nach-erdbeben-in-taiwan-id12667446.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="26" endPos="34" type="disaster-type" surface="Erdbeben" />
+<Entity id="1" startPos="44" endPos="51" type="location" surface="Taiwans" />
+<Entity id="2" startPos="89" endPos="92" type="number" surface="152" />
+<Entity id="3" startPos="165" endPos="171" type="location-city" surface="Tainan" />
+<Entity id="4" startPos="182" endPos="184" type="number" surface="18" />
+<Entity id="5" startPos="222" endPos="225" type="number" surface="500" />
+<Entity id="6" startPos="346" endPos="348" type="number" surface="16" />
+<Entity id="7" startPos="625" endPos="632" type="organization-company" surface="Twitter" />
+<Entity id="8" startPos="637" endPos="645" type="organization-company" surface="Facebook" /></Entities><Relations>
+<Relation id="9" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="type" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />Lufthansa_DE<NODE id="13" /> Natürlich mit der <NODE id="32" />B737<NODE id="36" /> und <NODE id="41" />B747<NODE id="45" /> :D ;)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754448909603397632" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-16T22:53:31Z" />
+<feature featureName="indexDate" featureValue="2016-07-16T22:53:40.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/734333967927762944/status/754448909603397632" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="13" type="organization-company" surface="Lufthansa_DE" />
+<Entity id="1" startPos="32" endPos="36" type="product" surface="B737" />
+<Entity id="2" startPos="41" endPos="45" type="product" surface="B747" /></Entities><Relations />
+</Document>

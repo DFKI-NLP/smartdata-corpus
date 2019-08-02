@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @peterzburg: #<NODE id="17" />Transsibirische #Eisenbahn<NODE id="43" /> #Gebrauchsanleitung how to use <NODE id="75" />Transsib<NODE id="83" /> EN DE FR IT https://t.co/v8xSAsaJrC https://t.co/BslKGx…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671315285077528576" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="43" type="location-route" surface="Transsibirische #Eisenbahn" />
+<Entity id="1" startPos="75" endPos="83" type="location-route" surface="Transsib" /></Entities><Relations />
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />ntvde<NODE id="9" />: Angeschlagene Gütertransportsparte: <NODE id="47" />Deutsche Bahn<NODE id="60" /> plant <NODE id="67" />Stellenabbau<NODE id="79" /> http://t.co/K2luipLgMI http://t.co/RFRXCBc1kU
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="655640976028008449" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-18T07:06:04Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T16:47:24.785Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="9" type="organization-company" surface="ntvde" />
+<Entity id="1" startPos="47" endPos="60" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="2" startPos="67" endPos="79" type="trigger" surface="Stellenabbau" /></Entities><Relations>
+<Relation id="3" NAME="Layoffs">
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

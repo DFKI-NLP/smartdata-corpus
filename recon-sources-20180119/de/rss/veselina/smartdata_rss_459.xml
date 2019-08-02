@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Sonntag, 17. April<NODE id="21" />, <NODE id="23" />4.55<NODE id="27" /> – <NODE id="30" />7.00 Uhr<NODE id="38" />
+Meldung:
+ <NODE id="49" />CNL 470<NODE id="56" /> von <NODE id="61" />Zürich HB<NODE id="70" /> (Ankunft <NODE id="80" />7.31 Uhr<NODE id="88" /> in <NODE id="92" />Berlin-Gesundbrunnen<NODE id="112" />) <NODE id="114" />hält nicht<NODE id="124" /> in <NODE id="128" />Leipzig Hbf<NODE id="139" />.
+ <NODE id="142" />EN 459<NODE id="148" /> nach <NODE id="154" />Praha hl.n.<NODE id="165" /> (planmäßig <NODE id="177" />5.55 Uhr<NODE id="185" /> ab <NODE id="189" />Leipzig Hbf<NODE id="200" />) beginnt neu in <NODE id="217" />Halle (Saale) Hbf<NODE id="234" /> (zusätzlicher Halt). Die Halte in <NODE id="269" />Leipzig Hbf<NODE id="280" /> und <NODE id="285" />Riesa<NODE id="290" /> fallen aus. Der Zug verspätet sich um <NODE id="329" />bis zu 60 Min<NODE id="342" />.
+Grund:
+Arbeiten an der Leit- und Sicherungstechnik <NODE id="395" />Leipzig-Plagwitz<NODE id="411" /> – <NODE id="414" />Gaschwitz<NODE id="423" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="493" />244<NODE id="496" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#d7e975b0d0a6410147242fb85ad8caa2521793a5@2016-03-04T16:26:08.012+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-04T15:26:08.012Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:36:17.351Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#d7e975b0d0a6410147242fb85ad8caa2521793a5" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="21" type="date" surface="Sonntag, 17. April" />
+<Entity id="1" startPos="23" endPos="27" type="time" surface="4.55" />
+<Entity id="2" startPos="30" endPos="38" type="time" surface="7.00 Uhr" />
+<Entity id="3" startPos="49" endPos="56" type="location-route" surface="CNL 470" />
+<Entity id="4" startPos="61" endPos="70" type="location-stop" surface="Zürich HB" />
+<Entity id="5" startPos="80" endPos="88" type="time" surface="7.31 Uhr" />
+<Entity id="6" startPos="92" endPos="112" type="location-stop" surface="Berlin-Gesundbrunnen" />
+<Entity id="7" startPos="114" endPos="124" type="trigger" surface="hält nicht" />
+<Entity id="8" startPos="128" endPos="139" type="location-stop" surface="Leipzig Hbf" />
+<Entity id="9" startPos="142" endPos="148" type="location-route" surface="EN 459" />
+<Entity id="10" startPos="154" endPos="165" type="location-stop" surface="Praha hl.n." />
+<Entity id="11" startPos="177" endPos="185" type="time" surface="5.55 Uhr" />
+<Entity id="12" startPos="189" endPos="200" type="location-stop" surface="Leipzig Hbf" />
+<Entity id="13" startPos="217" endPos="234" type="location-stop" surface="Halle (Saale) Hbf" />
+<Entity id="14" startPos="269" endPos="280" type="location-stop" surface="Leipzig Hbf" />
+<Entity id="15" startPos="285" endPos="290" type="location-stop" surface="Riesa" />
+<Entity id="16" startPos="329" endPos="342" type="duration" surface="bis zu 60 Min" />
+<Entity id="17" startPos="395" endPos="411" type="location-stop" surface="Leipzig-Plagwitz" />
+<Entity id="18" startPos="414" endPos="423" type="location-stop" surface="Gaschwitz" />
+<Entity id="19" startPos="493" endPos="496" type="number" surface="244" /></Entities><Relations>
+<Relation id="20" NAME="CanceledStop">
+<Entity id="3" label="route" />
+<Entity id="8" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="6" label="direction" />
+</Relation></Relations>
+</Document>

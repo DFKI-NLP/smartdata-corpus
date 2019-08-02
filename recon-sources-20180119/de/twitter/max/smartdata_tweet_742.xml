@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@schrillmann ICH WOLLTE DAS VOR <NODE id="32" />1SEK<NODE id="36" /> FOTOGRAFIEREN, DANN HAT EINE EINFAHRENDE S-BAHN MIR DEN BLICK VERSPERRT.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669446673861619712" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-25T09:24:59Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:13:24.121Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="32" endPos="36" type="duration" surface="1SEK" /></Entities><Relations />
+</Document>

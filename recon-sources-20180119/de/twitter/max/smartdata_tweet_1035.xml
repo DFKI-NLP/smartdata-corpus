@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />dw<NODE id="6" />_wirtschaft: Stellenabbau, Investitionsrückgänge: Deutsche #Unternehmen reagieren auf den #Brexit. https://t.co/ybH9Tzepbw https://t.…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="751277957637742592" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-08T04:53:17Z" />
+<feature featureName="indexDate" featureValue="2016-07-08T04:53:27.299Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2885779065/status/751277957637742592" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="dw" /></Entities><Relations />
+</Document>

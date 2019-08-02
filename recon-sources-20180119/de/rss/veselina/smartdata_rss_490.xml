@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>zwischen <NODE id="9" />Fischen<NODE id="16" /> und <NODE id="21" />Oberstdorf<NODE id="31" /> stockender Verkehr (<NODE id="52" />12:03<NODE id="57" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.br-online.de/aktuell/verkehr/verkehr-verkehrsmeldungen-staumeldungen-ID119730167093.xml@2016-03-26T13:07:28.109+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-26T12:07:28.109Z" />
+<feature featureName="indexDate" featureValue="2016-03-26T12:08:01.753Z" />
+<feature featureName="uri" featureValue="http://www.br-online.de/aktuell/verkehr/verkehr-verkehrsmeldungen-staumeldungen-ID119730167093.xml" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="16" type="location" surface="Fischen" />
+<Entity id="1" startPos="21" endPos="31" type="location" surface="Oberstdorf" />
+<Entity id="2" startPos="52" endPos="57" type="time" surface="12:03" /></Entities><Relations />
+</Document>

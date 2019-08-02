@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A1<NODE id="2" />, <NODE id="4" />West-AB<NODE id="11" />, FR. <NODE id="17" />Wien<NODE id="21" />, zw. <NODE id="27" />Salzburg/Nord<NODE id="40" /> u. <NODE id="44" />Wallersee<NODE id="53" />, ca. <NODE id="59" />4  Km<NODE id="64" />  <NODE id="66" />Stau<NODE id="70" />  (<NODE id="73" />Unfall<NODE id="79" />) #verkehr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="703207063913144320" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A1" />
+<Entity id="1" startPos="4" endPos="11" type="location-street" surface="West-AB" />
+<Entity id="2" startPos="17" endPos="21" type="location-city" surface="Wien" />
+<Entity id="3" startPos="27" endPos="40" type="location" surface="Salzburg/Nord" />
+<Entity id="4" startPos="44" endPos="53" type="location" surface="Wallersee" />
+<Entity id="5" startPos="59" endPos="64" type="distance" surface="4  Km" />
+<Entity id="6" startPos="66" endPos="70" type="trigger" surface="Stau" />
+<Entity id="7" startPos="73" endPos="79" type="trigger" surface="Unfall" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="7" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="0" label="location" />
+<Entity id="5" label="jam_length" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

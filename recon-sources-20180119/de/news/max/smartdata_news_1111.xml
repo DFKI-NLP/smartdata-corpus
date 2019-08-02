@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Professor <NODE id="10" />Dr. Helmut Pauls<NODE id="26" /> hält seine letzte Vorlesung. Er gilt als Vater der Klinischen Sozialarbeit.
+Von <NODE id="107" />Madelaine Ruska<NODE id="122" />
+Man muss seinen Abschied rechtzeitig vorbereiten. An dieses Credo hat Professor <NODE id="203" />Dr. Helmut Pauls<NODE id="219" /> sich immer gehalten. Nach über <NODE id="251" />30 Jahren<NODE id="260" /> an der Hochschule Coburg hat der <NODE id="294" />63-Jährige<NODE id="304" /> nun seine letzte Vorlesung gehalten.
+zurück vergrößern schließen weiter
+Bild von
+<NODE id="386" />Coburg<NODE id="392" /> - In seinem Arbeitszimmer zu Hause in <NODE id="431" />Weitramsdorf<NODE id="443" /> stapeln sich die Akten. Regale voller Ordner mit Masterarbeiten oder Fachbücher zur Klinischen Sozialarbeit stehen an den Wänden. Vor ein paar Jahren hat Professor <NODE id="608" />Dr. Helmut Pauls<NODE id="624" /> sein Auto vollgeladen und haufenweise Papier entsorgt. Es hatte sich einiges angesammelt. Mehr als <NODE id="724" />30 Jahre<NODE id="732" /> war der promovierte Psychologe Teil der <NODE id="773" />Hochschule Coburg<NODE id="790" />. Er ist wohl der dienstälteste Professor, eigentlich ein Urgestein. Eine Tatsache, die man ihm nicht ansieht. Er war bei Amtsantritt der jüngste Profe
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.np-coburg.de/lokal/coburg/coburg/Urgestein-der-Coburger-Hochschule;art83423,4722057@2016-03-14T17:15:17.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T16:15:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:48:36.696Z" />
+<feature featureName="uri" featureValue="http://www.np-coburg.de/lokal/coburg/coburg/Urgestein-der-Coburger-Hochschule;art83423,4722057" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="10" endPos="26" type="person" surface="Dr. Helmut Pauls" />
+<Entity id="1" startPos="107" endPos="122" type="person" surface="Madelaine Ruska" />
+<Entity id="2" startPos="203" endPos="219" type="person" surface="Dr. Helmut Pauls" />
+<Entity id="3" startPos="251" endPos="260" type="duration" surface="30 Jahren" />
+<Entity id="4" startPos="294" endPos="304" type="number" surface="63-Jährige" />
+<Entity id="5" startPos="386" endPos="392" type="location-city" surface="Coburg" />
+<Entity id="6" startPos="431" endPos="443" type="location" surface="Weitramsdorf" />
+<Entity id="7" startPos="608" endPos="624" type="person" surface="Dr. Helmut Pauls" />
+<Entity id="8" startPos="724" endPos="732" type="duration" surface="30 Jahre" />
+<Entity id="9" startPos="773" endPos="790" type="organization" surface="Hochschule Coburg" /></Entities><Relations />
+</Document>

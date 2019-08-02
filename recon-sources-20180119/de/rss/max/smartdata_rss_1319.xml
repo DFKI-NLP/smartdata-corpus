@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A92<NODE id="3" /> <NODE id="4" />Deggendorf<NODE id="14" /> Richtung <NODE id="24" />München<NODE id="31" /> zwischen <NODE id="41" />Altdorf<NODE id="48" /> und <NODE id="53" />Moosburg-Nord<NODE id="66" /> <NODE id="67" />5 km<NODE id="71" /> <NODE id="72" />stockender Verkehr<NODE id="90" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#89@2016-04-27T16:57:53.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-27T14:57:53Z" />
+<feature featureName="indexDate" featureValue="2016-04-27T15:02:51.858Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A92" />
+<Entity id="1" startPos="4" endPos="14" type="location-city" surface="Deggendorf" />
+<Entity id="2" startPos="24" endPos="31" type="location-city" surface="München" />
+<Entity id="3" startPos="41" endPos="48" type="location" surface="Altdorf" />
+<Entity id="4" startPos="53" endPos="66" type="location" surface="Moosburg-Nord" />
+<Entity id="5" startPos="67" endPos="71" type="distance" surface="5 km" />
+<Entity id="6" startPos="72" endPos="90" type="trigger" surface="stockender Verkehr" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

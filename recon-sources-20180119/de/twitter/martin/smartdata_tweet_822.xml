@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Biete <NODE id="6" />6<NODE id="7" />-Waben Ableger mit Carnicakönigin <NODE id="41" />2016<NODE id="45" /> DNM #imker #bienen #imkerei https://t.co/KftOgAIH0K
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745150785181253637" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-21T07:06:06Z" />
+<feature featureName="indexDate" featureValue="2016-06-21T07:06:07.144Z" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="7" type="number" surface="6" />
+<Entity id="1" startPos="41" endPos="45" type="date" surface="2016" /></Entities><Relations />
+</Document>

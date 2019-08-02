@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A4<NODE id="2" /> <NODE id="3" />Dresden<NODE id="10" /> Richtung <NODE id="20" />Chemnitz<NODE id="28" /> <NODE id="29" />Dreieck Dresden-West<NODE id="49" /> <NODE id="50" />Überfahrt zur A17<NODE id="67" /> Richtung <NODE id="77" />Prag<NODE id="81" /> defekter LKW, <NODE id="96" />Behinderungen<NODE id="109" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#17@2016-04-13T22:24:07.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-13T20:24:07Z" />
+<feature featureName="indexDate" featureValue="2016-04-13T20:24:27.631Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A4" />
+<Entity id="1" startPos="3" endPos="10" type="location-city" surface="Dresden" />
+<Entity id="2" startPos="20" endPos="28" type="location-city" surface="Chemnitz" />
+<Entity id="3" startPos="29" endPos="49" type="location" surface="Dreieck Dresden-West" />
+<Entity id="4" startPos="50" endPos="67" type="location-street" surface="Überfahrt zur A17" />
+<Entity id="5" startPos="77" endPos="81" type="location-city" surface="Prag" />
+<Entity id="6" startPos="96" endPos="109" type="trigger" surface="Behinderungen" /></Entities><Relations>
+<Relation id="7" NAME="Obstruction">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

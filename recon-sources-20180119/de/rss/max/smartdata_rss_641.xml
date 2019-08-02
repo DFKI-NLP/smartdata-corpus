@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A59<NODE id="3" /> <NODE id="4" />Köln<NODE id="8" /> Richtung <NODE id="18" />Düsseldorf<NODE id="28" /> zwischen <NODE id="38" />Richrath<NODE id="46" /> und <NODE id="51" />Dreieck Düsseldorf-Süd<NODE id="73" /> <NODE id="74" />6 km<NODE id="78" /> <NODE id="79" />Stau<NODE id="83" /> (Zeitverlust: <NODE id="98" />mehr als eine Viertelstunde<NODE id="125" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#66@2016-02-24T08:55:18.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T07:55:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T08:46:30.038Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A59" />
+<Entity id="1" startPos="4" endPos="8" type="location-city" surface="Köln" />
+<Entity id="2" startPos="18" endPos="28" type="location-city" surface="Düsseldorf" />
+<Entity id="3" startPos="38" endPos="46" type="location" surface="Richrath" />
+<Entity id="4" startPos="51" endPos="73" type="location" surface="Dreieck Düsseldorf-Süd" />
+<Entity id="5" startPos="74" endPos="78" type="distance" surface="6 km" />
+<Entity id="6" startPos="79" endPos="83" type="trigger" surface="Stau" />
+<Entity id="7" startPos="98" endPos="125" type="duration" surface="mehr als eine Viertelstunde" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="7" label="delay" />
+<Entity id="4" label="end_loc" />
+</Relation></Relations>
+</Document>

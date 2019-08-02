@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bernhard Pohl<NODE id="13" /> will <NODE id="19" />München<NODE id="26" /> entlasten und <NODE id="41" />Memmingen<NODE id="50" /> fördern #<NODE id="60" />Kaufbeuren<NODE id="70" /> #Pohl #flughafen #zusammenschluss #antrag
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="718350983785549825" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="person" surface="Bernhard Pohl" />
+<Entity id="1" startPos="19" endPos="26" type="location-city" surface="München" />
+<Entity id="2" startPos="41" endPos="50" type="location-city" surface="Memmingen" />
+<Entity id="3" startPos="60" endPos="70" type="location-city" surface="Kaufbeuren" /></Entities><Relations />
+</Document>

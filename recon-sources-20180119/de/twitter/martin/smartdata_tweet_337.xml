@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Nachts um 12<NODE id="12" /> in der <NODE id="20" />Berliner U-Bahn<NODE id="35" />? Kein Problem für mich. https://t.co/abeBQYEiYb #Retweet #RT https://t.co/n8TJLouTOu
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671195480374685696" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-30T05:14:07Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:24:11.283Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="time" surface="Nachts um 12" />
+<Entity id="1" startPos="20" endPos="35" type="organization-company" surface="Berliner U-Bahn" /></Entities><Relations />
+</Document>

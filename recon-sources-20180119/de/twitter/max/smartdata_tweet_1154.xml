@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: Unter <NODE id="14" />Lula<NODE id="18" /> stieg #<NODE id="26" />Brasilien<NODE id="35" /> zu einem Modellstaat auf. Davon ist nicht viel übrig, schreibt @schoeppcito https://t.co/qf0UEw4Nlj
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710770793639235584" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-18T10:12:17Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T01:53:00.426Z" />
+<feature featureName="uri" featureValue="https://twitter.com/76102737/status/710770793639235584" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="14" endPos="18" type="person" surface="Lula" />
+<Entity id="2" startPos="26" endPos="35" type="location" surface="Brasilien" /></Entities><Relations />
+</Document>

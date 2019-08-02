@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Alarmierendes Korallensterben am <NODE id="33" />Great Barrier Reef<NODE id="51" />
+<NODE id="52" />Sydney<NODE id="58" /> (<NODE id="60" />dpa<NODE id="63" />) - Hohe Wassertemperaturen haben am größten Korallenriff der Welt in <NODE id="133" />Australien<NODE id="143" /> alarmierende Schäden verursacht.
+Bedrohte Schönheit: Ein Abschnitt des <NODE id="215" />Great Barrier Reef<NODE id="233" /> in gesundem Zustand. Foto: <NODE id="261" />James Cook University<NODE id="282" />/Archiv
+Am Nordende des <NODE id="306" />2300 Kilometer<NODE id="320" /> langen <NODE id="328" />Great Barrier Reefs<NODE id="347" /> bei <NODE id="352" />Cape York<NODE id="361" /> seien örtlich bereits bis zu <NODE id="391" />50 Prozent<NODE id="401" /> der Korallen abgestorben, berichtete die zuständige Behörde am <NODE id="465" />Sonntagabend<NODE id="477" />. Sie verhängte deshalb die höchste Alarmstufe. Bei Stufe <NODE id="535" />3<NODE id="536" /> geht sie von «regional schwerwiegender Korallenbleiche» aus. «Der Klimawandel killt das <NODE id="625" />Barrier Reef<NODE id="637" />», twitterte der wissenschaftliche Klimarat.
+«Die Wassertemperatur vor der Nordküste von <NODE id="726" />Queensland<NODE id="736" /> war im <NODE id="744" />Februar<NODE id="751" /> an der Oberfläche verblüffende <NODE id="783" />33 Grad<NODE id="790" />», teilte der Klimarat mit. «Wahrscheinlich verlieren wir die meisten Korallen weltweit in den nächsten <NODE id="894" />30<NODE id="896" /> bis <NODE id="901" />40 Jahren<NODE id="910" />, wenn wir weiterhin fossile Brennst
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.gea.de/nachrichten/weltspiegel/alarmierendes+korallensterben+am+great+barrier+reef.4715641.htm@2016-03-21T06:50:34.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T05:50:34Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:30:20.911Z" />
+<feature featureName="uri" featureValue="http://www.gea.de/nachrichten/weltspiegel/alarmierendes+korallensterben+am+great+barrier+reef.4715641.htm" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="33" endPos="51" type="location" surface="Great Barrier Reef" />
+<Entity id="1" startPos="52" endPos="58" type="location-city" surface="Sydney" />
+<Entity id="2" startPos="60" endPos="63" type="organization-company" surface="dpa" />
+<Entity id="3" startPos="133" endPos="143" type="location" surface="Australien" />
+<Entity id="4" startPos="215" endPos="233" type="location" surface="Great Barrier Reef" />
+<Entity id="5" startPos="261" endPos="282" type="organization" surface="James Cook University" />
+<Entity id="6" startPos="306" endPos="320" type="distance" surface="2300 Kilometer" />
+<Entity id="7" startPos="328" endPos="347" type="location" surface="Great Barrier Reefs" />
+<Entity id="8" startPos="352" endPos="361" type="location" surface="Cape York" />
+<Entity id="9" startPos="391" endPos="401" type="number" surface="50 Prozent" />
+<Entity id="10" startPos="465" endPos="477" type="date" surface="Sonntagabend" />
+<Entity id="11" startPos="535" endPos="536" type="number" surface="3" />
+<Entity id="12" startPos="625" endPos="637" type="location" surface="Barrier Reef" />
+<Entity id="13" startPos="726" endPos="736" type="location" surface="Queensland" />
+<Entity id="14" startPos="744" endPos="751" type="date" surface="Februar" />
+<Entity id="15" startPos="783" endPos="790" type="number" surface="33 Grad" />
+<Entity id="16" startPos="894" endPos="896" type="duration" surface="30" />
+<Entity id="17" startPos="901" endPos="910" type="duration" surface="40 Jahren" /></Entities><Relations />
+</Document>

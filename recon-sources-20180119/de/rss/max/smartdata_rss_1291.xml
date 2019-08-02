@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />WALLENFELS<NODE id="10" />, <NODE id="12" />LKR. KRONACH<NODE id="24" />. Nach dem Fund von insgesamt <NODE id="54" />acht<NODE id="58" /> toten Säuglingen <NODE id="76" />Mitte November<NODE id="90" /> in einem Anwesen in <NODE id="111" />Wallenfels<NODE id="121" />, ist die umfangreiche Ermittlungsarbeit der Beamten der Ermittlungsgruppe „Schlossberg“ nunmehr beendet. In den nächsten Wochen wird die <NODE id="259" />Staatsanwaltschaft Coburg<NODE id="284" />, mit der die Kriminalbeamten eng zusammenarbeiteten, Anklage gegen die Kindesmutter erheben.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.bayern.de/oberfranken/news/presse/aktuell/index.html/235276@2016-01-27T23:51:55.535+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-27T22:51:55.535Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T00:38:44.63Z" />
+<feature featureName="uri" featureValue="http://www.polizei.bayern.de/oberfranken/news/presse/aktuell/index.html/235276" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="location-city" surface="WALLENFELS" />
+<Entity id="1" startPos="12" endPos="24" type="location" surface="LKR. KRONACH" />
+<Entity id="2" startPos="54" endPos="58" type="number" surface="acht" />
+<Entity id="3" startPos="76" endPos="90" type="date" surface="Mitte November" />
+<Entity id="4" startPos="111" endPos="121" type="location-city" surface="Wallenfels" />
+<Entity id="5" startPos="259" endPos="284" type="organization" surface="Staatsanwaltschaft Coburg" /></Entities><Relations />
+</Document>

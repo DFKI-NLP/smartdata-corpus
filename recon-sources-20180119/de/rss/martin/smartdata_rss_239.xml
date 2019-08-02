@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Tübingen<NODE id="8" /> Richtung <NODE id="18" />Stuttgart<NODE id="27" /> zwischen <NODE id="37" />Stuttgart-Möhringen-Ost<NODE id="60" /> und <NODE id="65" />Jahnstraße<NODE id="75" /> in <NODE id="79" />Stuttgart-Degerloch<NODE id="98" /> Baustelle, Baustelle beseitigt, <NODE id="131" />4 km<NODE id="135" /> Stau
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9b2ab8e9-1ff1-4a57-8f5a-2a210082f37e@2016-04-05T10:09:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-05T08:09:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-05T08:30:30.08Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9b2ab8e9-1ff1-4a57-8f5a-2a210082f37e" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-city" surface="Tübingen" />
+<Entity id="1" startPos="18" endPos="27" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="37" endPos="60" type="location" surface="Stuttgart-Möhringen-Ost" />
+<Entity id="3" startPos="65" endPos="75" type="location-street" surface="Jahnstraße" />
+<Entity id="4" startPos="79" endPos="98" type="location" surface="Stuttgart-Degerloch" />
+<Entity id="5" startPos="131" endPos="135" type="distance" surface="4 km" /></Entities><Relations />
+</Document>

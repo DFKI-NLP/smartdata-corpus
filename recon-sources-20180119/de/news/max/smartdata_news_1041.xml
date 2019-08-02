@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Der <NODE id="4" />MSV Duisburg<NODE id="16" /> muss weiter auf das Aha-Erlebnis warten
+<NODE id="57" />15.02.2016<NODE id="67" /> | <NODE id="70" />22:03 Uh<NODE id="78" />r <NODE id="80" />2016-02-15<NODE id="90" />T<NODE id="91" />22:03:00+01:00<NODE id="105" />
+Fotos
+Zufrieden sieht anders aus: <NODE id="140" />Kingsley Ounuegbu<NODE id="157" /> (links) und <NODE id="170" />Giorgi Chanturia<NODE id="186" /> auf der <NODE id="195" />Duisburger<NODE id="205" /> Ersatzbank.Foto: <NODE id="223" />Lars Fröhlich<NODE id="236" /> / <NODE id="239" />FUNKE Foto Services<NODE id="258" />
+<NODE id="259" />Duisburg<NODE id="267" />.   Die Zebras hoffen immer noch auf die Wende. Bei der <NODE id="323" />0<NODE id="324" />:<NODE id="325" />1<NODE id="326" />-Pleite gegen den <NODE id="344" />Karlsruher SC<NODE id="357" /> half auch die Anwesenheit von Ex-<NODE id="391" />MSV<NODE id="394" />-Torwart <NODE id="403" />Thomas Gill<NODE id="414" /> nicht.
+Früher war nicht alles besser, aber manches. Die Fans des Fußball-Zweitligisten <NODE id="502" />MSV Duisburg<NODE id="514" />, die am <NODE id="523" />Samstag<NODE id="530" /> im VIP-Bereich der Arena einen Blick auf die illustre Promi-Runde erhaschen konnten, bekamen feuchte Augen.
+<NODE id="639" />MSV<NODE id="642" />-Planung
+Der <NODE id="655" />MSV Duisburg<NODE id="667" /> plant nach Niederlage schon für die <NODE id="704" />3. Liga<NODE id="711" />
+<NODE id="712" />MSV<NODE id="715" />-Aufsichtsratschef Jürgen Marbach schließt eine Trainerdiskussion beim <NODE id="786" />MSV Duisburg<NODE id="798" /> aus. <NODE id="804" />Martin Dausch<NODE id="817" /> unterzieht sich derweil einer Hüftoperation.
+Die Ex-Trainer <NODE id="878" />Seppo Eichkorn<NODE id="892" /> und <NODE id="897" />Kosta Runjaic<NODE id="910" /> waren da, Sturmlegende <NODE id="934" />Bachirou Salou<NODE id="948" />, der ehemal
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.derwesten.de/wp/sport/fussball/msv/msv-duisburg-wartet-weiter-auf-das-aha-erlebnis-id11567168.html@2016-02-15T22:03:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-15T21:03:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T13:44:24.779Z" />
+<feature featureName="uri" featureValue="http://www.derwesten.de/wp/sport/fussball/msv/msv-duisburg-wartet-weiter-auf-das-aha-erlebnis-id11567168.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="16" type="organization" surface="MSV Duisburg" />
+<Entity id="1" startPos="57" endPos="67" type="date" surface="15.02.2016" />
+<Entity id="2" startPos="70" endPos="78" type="time" surface="22:03 Uh" />
+<Entity id="3" startPos="80" endPos="90" type="date" surface="2016-02-15" />
+<Entity id="4" startPos="91" endPos="105" type="time" surface="22:03:00+01:00" />
+<Entity id="5" startPos="140" endPos="157" type="person" surface="Kingsley Ounuegbu" />
+<Entity id="6" startPos="170" endPos="186" type="person" surface="Giorgi Chanturia" />
+<Entity id="7" startPos="195" endPos="205" type="organization" surface="Duisburger" />
+<Entity id="8" startPos="223" endPos="236" type="person" surface="Lars Fröhlich" />
+<Entity id="9" startPos="239" endPos="258" type="organization-company" surface="FUNKE Foto Services" />
+<Entity id="10" startPos="259" endPos="267" type="location-city" surface="Duisburg" />
+<Entity id="11" startPos="323" endPos="324" type="number" surface="0" />
+<Entity id="12" startPos="325" endPos="326" type="number" surface="1" />
+<Entity id="13" startPos="344" endPos="357" type="organization" surface="Karlsruher SC" />
+<Entity id="14" startPos="391" endPos="394" type="organization" surface="MSV" />
+<Entity id="15" startPos="403" endPos="414" type="person" surface="Thomas Gill" />
+<Entity id="16" startPos="502" endPos="514" type="organization" surface="MSV Duisburg" />
+<Entity id="17" startPos="523" endPos="530" type="date" surface="Samstag" />
+<Entity id="18" startPos="639" endPos="642" type="organization" surface="MSV" />
+<Entity id="19" startPos="655" endPos="667" type="organization" surface="MSV Duisburg" />
+<Entity id="20" startPos="704" endPos="711" type="organization" surface="3. Liga" />
+<Entity id="21" startPos="712" endPos="715" type="organization" surface="MSV" />
+<Entity id="22" startPos="786" endPos="798" type="organization" surface="MSV Duisburg" />
+<Entity id="23" startPos="804" endPos="817" type="person" surface="Martin Dausch" />
+<Entity id="24" startPos="878" endPos="892" type="person" surface="Seppo Eichkorn" />
+<Entity id="25" startPos="897" endPos="910" type="person" surface="Kosta Runjaic" />
+<Entity id="26" startPos="934" endPos="948" type="person" surface="Bachirou Salou" /></Entities><Relations />
+</Document>

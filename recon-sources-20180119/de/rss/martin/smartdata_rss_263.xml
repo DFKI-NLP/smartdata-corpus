@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A52<NODE id="3" /> <NODE id="4" />Düsseldorf<NODE id="14" /> Richtung <NODE id="24" />Essen<NODE id="29" /> zwischen <NODE id="39" />Ratingen<NODE id="47" /> und Kreuz <NODE id="58" />Breitscheid<NODE id="69" /> <NODE id="70" />6 km<NODE id="74" /> <NODE id="75" />stockender Verkehr<NODE id="93" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#46@2016-01-28T17:17:48.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-28T16:17:48Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T05:05:06.297Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A52" />
+<Entity id="1" startPos="4" endPos="14" type="location-city" surface="Düsseldorf" />
+<Entity id="2" startPos="24" endPos="29" type="location-city" surface="Essen" />
+<Entity id="3" startPos="39" endPos="47" type="location" surface="Ratingen" />
+<Entity id="4" startPos="58" endPos="69" type="location" surface="Breitscheid" />
+<Entity id="5" startPos="70" endPos="74" type="distance" surface="6 km" />
+<Entity id="6" startPos="75" endPos="93" type="trigger" surface="stockender Verkehr" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Umbau bei der <NODE id="14" />Bahn<NODE id="18" />: Größenwahn war gestern
+von <NODE id="47" />Kevin P. Hoffmann<NODE id="64" />, <NODE id="66" />Klaus Kurpjuweit<NODE id="82" />
+<NODE id="83" />70 Milliarden Euro<NODE id="101" /> Jahresumsatz hatte die <NODE id="125" />Deutsche Bahn<NODE id="138" />, hier die <NODE id="149" />Zentrale<NODE id="157" /> am <NODE id="161" />Potsdamer Platz<NODE id="176" />, einst angepeilt. <NODE id="195" />2015<NODE id="199" /> dürften es <NODE id="211" />47 Milliarden<NODE id="224" /> werden. Foto: <NODE id="239" />Deutsche Bahn AG<NODE id="255" />
+<NODE id="256" />Die Bahn<NODE id="264" /> will den defizitären Güterverkehr reduzieren, pünktlicher werden und erwägt <NODE id="341" />Personalabbau<NODE id="354" />. Heute berät der Aufsichtsrat.
+„Unsere Vision ist es, das weltweit führende Mobilitäts- und Logistikunternehmen zu sein“. Mit diesen Worten hatte die <NODE id="505" />Deutsche Bahn<NODE id="518" /> im <NODE id="522" />März<NODE id="526" /> ihre Strategie „DB2020“ vorgestellt. Am heutigen <NODE id="576" />Mittwoch<NODE id="584" /> will der Konzern-Aufsichtsrat zusammenkommen, um über Änderungen an dem Programm zu beraten. Nach allem, was bisher durchgesickert ist, wird <NODE id="726" />die Bahn<NODE id="734" /> künftig bescheidener auftreten. Die Ära des Größenwahns früherer Jahre scheint beendet.
+Das lässt sich gut an den Plänen für die Güterbahntochter <NODE id="881" />DB Schenker Rail<NODE id="897" /> festmachen. Diese hat sich von dem Einbruch der Finanz- u
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.pnn.de/wirtschaft/1033467/@2016-03-10T22:13:30.705+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T21:13:30.705Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T21:13:33.316Z" />
+<feature featureName="uri" featureValue="http://www.pnn.de/wirtschaft/1033467/" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="18" type="organization-company" surface="Bahn" />
+<Entity id="1" startPos="47" endPos="64" type="person" surface="Kevin P. Hoffmann" />
+<Entity id="2" startPos="66" endPos="82" type="person" surface="Klaus Kurpjuweit" />
+<Entity id="3" startPos="83" endPos="101" type="number" surface="70 Milliarden Euro" />
+<Entity id="4" startPos="125" endPos="138" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="5" startPos="149" endPos="157" type="facility-type" surface="Zentrale" />
+<Entity id="6" startPos="161" endPos="176" type="location" surface="Potsdamer Platz" />
+<Entity id="7" startPos="195" endPos="199" type="date" surface="2015" />
+<Entity id="8" startPos="211" endPos="224" type="number" surface="47 Milliarden" />
+<Entity id="9" startPos="239" endPos="255" type="organization-company" surface="Deutsche Bahn AG" />
+<Entity id="10" startPos="256" endPos="264" type="organization-company" surface="Die Bahn" />
+<Entity id="11" startPos="341" endPos="354" type="trigger" surface="Personalabbau" />
+<Entity id="12" startPos="505" endPos="518" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="13" startPos="522" endPos="526" type="date" surface="März" />
+<Entity id="14" startPos="576" endPos="584" type="date" surface="Mittwoch" />
+<Entity id="15" startPos="726" endPos="734" type="organization-company" surface="die Bahn" />
+<Entity id="16" startPos="881" endPos="897" type="organization-company" surface="DB Schenker Rail" /></Entities><Relations>
+<Relation id="17" NAME="CompanyHeadquarters">
+<Entity id="4" label="company" />
+<Entity id="6" label="headquarter" />
+<Entity id="5" label="trigger" />
+</Relation>
+<Relation id="18" NAME="Identity">
+<Entity id="4" label="source" />
+<Entity id="12" label="target" />
+<Entity id="10" label="target" />
+<Entity id="9" label="target" />
+<Entity id="15" label="target" />
+</Relation>
+<Relation id="19" NAME="Layoffs">
+<Entity id="10" label="company" />
+<Entity id="11" label="trigger" />
+</Relation></Relations>
+</Document>

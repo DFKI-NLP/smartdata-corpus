@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Ulm<NODE id="3" />
+Mini-Triathlon für Kinder und Jugendliche
+Der <NODE id="50" />SSV Ulm 1846<NODE id="62" /> fordert zum Laufen und Schwimmen auf: Am <NODE id="104" />Samstag<NODE id="111" />, <NODE id="113" />14 Tage<NODE id="120" /> vor dem Einstein-Triathlon, steigt die Mini-Ausgabe.
+UTE GALLBRONNER |
+Bild <NODE id="197" />1<NODE id="198" /> von <NODE id="203" />1<NODE id="204" />
+Schwitzen für eine Medaille: Am <NODE id="237" />Samstag<NODE id="244" /> ist beim Mini-Duathlon wieder Ausdauer gefragt. 
+  Es geht in Richtung Ferien, das schreit nach sportlichen Aktivitäten für Kinder. Im Fokus: Die Einstein-Veranstaltungen und ihre jugendlichen Ableger. Während die großen Triathleten erst am <NODE id="486" />7. August<NODE id="495" /> dran sind, steigt bereits am <NODE id="525" />Samstag<NODE id="532" /> im <NODE id="536" />SSV<NODE id="539" />-Bad der Sportfreund Mini-Triathlon, der eigentlich „nur“ ein Duathlon ist. Mitmachen kann jeder im Alter zwischen <NODE id="654" />6<NODE id="655" /> und <NODE id="660" />15 Jahren<NODE id="669" /> – nur schwimmen muss man halt ein bisschen können.
+Je nach Alter müssen zwischen <NODE id="751" />50<NODE id="753" /> und <NODE id="758" />400 Meter<NODE id="767" /> im <NODE id="771" />SSV<NODE id="774" />-Bad geschwommen und anschließend zwischen <NODE id="817" />600<NODE id="820" /> und <NODE id="825" />2000 Meter<NODE id="835" /> über die Gänswiese gelaufen werden. Start ist ab <NODE id="885" />10<NODE id="887" /> Uhr im <NODE id="895" />SSV<NODE id="898" />-Bad. Für alle Teilnehmer gibt es ein Shirt, eine Medaille
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.swp.de/3934023@2016-07-20T07:14:39.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-20T05:14:39Z" />
+<feature featureName="indexDate" featureValue="2016-07-20T10:34:28.995Z" />
+<feature featureName="uri" featureValue="http://www.swp.de/3934023" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-city" surface="Ulm" />
+<Entity id="1" startPos="50" endPos="62" type="organization" surface="SSV Ulm 1846" />
+<Entity id="2" startPos="104" endPos="111" type="date" surface="Samstag" />
+<Entity id="3" startPos="113" endPos="120" type="duration" surface="14 Tage" />
+<Entity id="4" startPos="197" endPos="198" type="number" surface="1" />
+<Entity id="5" startPos="203" endPos="204" type="number" surface="1" />
+<Entity id="6" startPos="237" endPos="244" type="date" surface="Samstag" />
+<Entity id="7" startPos="486" endPos="495" type="date" surface="7. August" />
+<Entity id="8" startPos="525" endPos="532" type="date" surface="Samstag" />
+<Entity id="9" startPos="536" endPos="539" type="organization" surface="SSV" />
+<Entity id="10" startPos="654" endPos="655" type="duration" surface="6" />
+<Entity id="11" startPos="660" endPos="669" type="duration" surface="15 Jahren" />
+<Entity id="12" startPos="751" endPos="753" type="number" surface="50" />
+<Entity id="13" startPos="758" endPos="767" type="number" surface="400 Meter" />
+<Entity id="14" startPos="771" endPos="774" type="organization" surface="SSV" />
+<Entity id="15" startPos="817" endPos="820" type="number" surface="600" />
+<Entity id="16" startPos="825" endPos="835" type="number" surface="2000 Meter" />
+<Entity id="17" startPos="885" endPos="887" type="date" surface="10" />
+<Entity id="18" startPos="895" endPos="898" type="organization" surface="SSV" /></Entities><Relations />
+</Document>

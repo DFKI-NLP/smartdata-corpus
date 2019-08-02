@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Eon<NODE id="3" />-<NODE id="4" />Abspaltung<NODE id="14" /> : Freie Bahn für den <NODE id="36" />Uniper<NODE id="42" />-Börsengang https://t.co/Dq9i7oIqb2 #Geld #Finanzen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755696713227206656" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-20T09:31:51Z" />
+<feature featureName="indexDate" featureValue="2016-07-20T09:42:49.761Z" />
+<feature featureName="uri" featureValue="https://twitter.com/901729338/status/755696713227206656" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization-company" surface="Eon" />
+<Entity id="1" startPos="4" endPos="14" type="trigger" surface="Abspaltung" />
+<Entity id="2" startPos="36" endPos="42" type="organization-company" surface="Uniper" /></Entities><Relations>
+<Relation id="3" NAME="SpinOff">
+<Entity id="0" label="parent" />
+<Entity id="1" label="trigger" />
+<Entity id="2" label="child" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Schnee und Eis von der Scheibe, Fuß vom Gas<NODE id="43" />
+<NODE id="44" />Polizei gibt Verkehrsteilnehmern Tipps, wie man sich am besten für die winterlichen Straßenverhältnisse wappnet
+Vorsicht ist auf schneebedeckten Straßen angesagt.<NODE id="206" />
+<NODE id="207" />Tobias Hase<NODE id="218" />/<NODE id="219" />dpa<NODE id="222" />
+<NODE id="223" />Laupheim sz<NODE id="234" /> <NODE id="235" />Der Winter fordert die Autofahrer: Zu Minusgraden gesellen sich nun wieder Nebel, Frost und Schnee.<NODE id="334" /> <NODE id="335" />Das Polizeipräsidium <NODE id="356" />Ulm<NODE id="359" /> gibt Tipps, wie man sich am besten wappnet.<NODE id="403" />
+<NODE id="404" />Vereiste Scheiben, defekte Beleuchtung und die falschen Reifen bergen besondere Gefahren.<NODE id="493" /> <NODE id="494" />Nebel, Schnee und Kälte hinterlassen auf den Fahrzeugen oft einen Eispanzer.<NODE id="570" /> <NODE id="571" />So sieht man Fahrer, die durch ein kleines Guckloch in der zugefrorenen Scheibe erahnen wollen, wohin es geht.<NODE id="681" /> <NODE id="682" />Weil das viel zu gefährlich ist, verlangt die Straßenverkehrsordnung rundum freie Sicht.<NODE id="770" /> <NODE id="771" />Sonst drohen bei einem Unfall neben einem Verwarnungsgeld auch zivilrechtliche Forderungen.<NODE id="862" /> <NODE id="863" />Ein Tipp: Das mühselige Freikratzen kann man sich meist sparen, wenn die Scheiben abdeckt werden.<NODE id="960" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://szo.de/?arid=10374096@2016-03-10T12:43:30.993+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:43:30.993Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:43:33.486Z" />
+<feature featureName="uri" featureValue="http://szo.de/?arid=10374096" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="43" type="sentence" surface="Schnee und Eis von der Scheibe, Fuß vom Gas" />
+<Entity id="1" startPos="44" endPos="206" type="sentence" surface="Polizei gibt Verkehrsteilnehmern Tipps, wie man sich am besten für die winterlichen Straßenverhältnisse wappnet&#xA;Vorsicht ist auf schneebedeckten Straßen angesagt." />
+<Entity id="2" startPos="207" endPos="218" type="person" surface="Tobias Hase" />
+<Entity id="3" startPos="207" endPos="222" type="sentence" surface="Tobias Hase/dpa" />
+<Entity id="4" startPos="219" endPos="222" type="organization-company" surface="dpa" />
+<Entity id="5" startPos="223" endPos="234" type="sentence" surface="Laupheim sz" />
+<Entity id="6" startPos="235" endPos="334" type="sentence" surface="Der Winter fordert die Autofahrer: Zu Minusgraden gesellen sich nun wieder Nebel, Frost und Schnee." />
+<Entity id="7" startPos="335" endPos="403" type="sentence" surface="Das Polizeipräsidium Ulm gibt Tipps, wie man sich am besten wappnet." />
+<Entity id="8" startPos="356" endPos="359" type="location" surface="Ulm" />
+<Entity id="9" startPos="404" endPos="493" type="sentence" surface="Vereiste Scheiben, defekte Beleuchtung und die falschen Reifen bergen besondere Gefahren." />
+<Entity id="10" startPos="494" endPos="570" type="sentence" surface="Nebel, Schnee und Kälte hinterlassen auf den Fahrzeugen oft einen Eispanzer." />
+<Entity id="11" startPos="571" endPos="681" type="sentence" surface="So sieht man Fahrer, die durch ein kleines Guckloch in der zugefrorenen Scheibe erahnen wollen, wohin es geht." />
+<Entity id="12" startPos="682" endPos="770" type="sentence" surface="Weil das viel zu gefährlich ist, verlangt die Straßenverkehrsordnung rundum freie Sicht." />
+<Entity id="13" startPos="771" endPos="862" type="sentence" surface="Sonst drohen bei einem Unfall neben einem Verwarnungsgeld auch zivilrechtliche Forderungen." />
+<Entity id="14" startPos="863" endPos="960" type="sentence" surface="Ein Tipp: Das mühselige Freikratzen kann man sich meist sparen, wenn die Scheiben abdeckt werden." /></Entities><Relations />
+</Document>

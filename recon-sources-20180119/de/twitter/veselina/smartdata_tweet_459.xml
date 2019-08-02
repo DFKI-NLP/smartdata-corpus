@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />RT @<NODE id="4" />radioBERLIN<NODE id="15" />:<NODE id="16" /> <NODE id="17" />#<NODE id="18" />Friedrichsfelde<NODE id="33" /> Update schwerer #<NODE id="51" />Unfall<NODE id="57" /> mit #<NODE id="63" />BVG<NODE id="66" /> Bus: Laut Polizei <NODE id="85" />10<NODE id="87" /> Verletzte.<NODE id="98" /> <NODE id="99" />Bus ist mit einem <NODE id="117" />DHL<NODE id="120" />-LKW zusammengepral…<NODE id="140" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672029886584922113" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T12:29:45Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:28:55.73Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="16" type="sentence" surface="RT @radioBERLIN:" />
+<Entity id="1" startPos="4" endPos="15" type="organization-company" surface="radioBERLIN" />
+<Entity id="2" startPos="17" endPos="98" type="sentence" surface="#Friedrichsfelde Update schwerer #Unfall mit #BVG Bus: Laut Polizei 10 Verletzte." />
+<Entity id="3" startPos="18" endPos="33" type="location" surface="Friedrichsfelde" />
+<Entity id="4" startPos="51" endPos="57" type="trigger" surface="Unfall" />
+<Entity id="5" startPos="63" endPos="66" type="organization-company" surface="BVG" />
+<Entity id="6" startPos="85" endPos="87" type="number" surface="10" />
+<Entity id="7" startPos="99" endPos="140" type="sentence" surface="Bus ist mit einem DHL-LKW zusammengepral…" />
+<Entity id="8" startPos="117" endPos="120" type="organization-company" surface="DHL" /></Entities><Relations>
+<Relation id="9" NAME="Accident">
+<Entity id="3" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

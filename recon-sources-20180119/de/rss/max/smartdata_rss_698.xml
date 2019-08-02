@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Linie: 60<NODE id="9" />: Wegen fortschreitender Straßenarbeiten in der <NODE id="57" />Heerstraße<NODE id="67" /> entfallen ab <NODE id="81" />Montag, 9. Mai<NODE id="95" /> bis <NODE id="100" />Sonntag, 3. Juli<NODE id="116" /> Haltestellen oder werden verlegt.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.traffiq.de/18.de.verkehrsmeldungen.html#m176265@2016-05-06T16:22:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-06T14:22:00Z" />
+<feature featureName="indexDate" featureValue="2016-05-24T15:41:35.092Z" />
+<feature featureName="uri" featureValue="http://www.traffiq.de/18.de.verkehrsmeldungen.html#m176265" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-route" surface="Linie: 60" />
+<Entity id="1" startPos="57" endPos="67" type="location-street" surface="Heerstraße" />
+<Entity id="2" startPos="81" endPos="95" type="date" surface="Montag, 9. Mai" />
+<Entity id="3" startPos="100" endPos="116" type="date" surface="Sonntag, 3. Juli" /></Entities><Relations />
+</Document>

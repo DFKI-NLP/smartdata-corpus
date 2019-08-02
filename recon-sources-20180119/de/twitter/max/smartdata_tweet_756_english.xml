@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />German<NODE id="6" /> rail operator seeks <NODE id="27" />Chinese<NODE id="34" /> suppliers - <NODE id="47" />BERLIN<NODE id="53" />, <NODE id="55" />Nov 17<NODE id="61" /> (<NODE id="63" />Reuters<NODE id="70" />) - <NODE id="74" />Deutsche Bahn<NODE id="87" /> will open a procurement... https://t.co/nZ6v9AitT2
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666624805744058368" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-17T14:31:53Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:51:15.731Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="location" surface="German" />
+<Entity id="1" startPos="27" endPos="34" type="location" surface="Chinese" />
+<Entity id="2" startPos="47" endPos="53" type="location-city" surface="BERLIN" />
+<Entity id="3" startPos="55" endPos="61" type="date" surface="Nov 17" />
+<Entity id="4" startPos="63" endPos="70" type="organization-company" surface="Reuters" />
+<Entity id="5" startPos="74" endPos="87" type="organization-company" surface="Deutsche Bahn" /></Entities><Relations />
+</Document>

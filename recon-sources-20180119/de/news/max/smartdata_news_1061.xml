@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>ROUNDUP: <NODE id="9" />Verdi<NODE id="14" /> kündigt Streiks an Flughäfen an
+<NODE id="47" />22.04.16<NODE id="55" /> <NODE id="56" />11:35<NODE id="61" />
+<NODE id="62" />dpa-AFX<NODE id="69" />
+<NODE id="70" />BERLIN<NODE id="76" /> (<NODE id="78" />dpa-AFX<NODE id="85" />) - An mehreren <NODE id="101" />deutschen<NODE id="110" /> Flughäfen ist laut der Gewerkschaft <NODE id="147" />Verdi<NODE id="152" /> wegen Warnstreiks am kommenden <NODE id="184" />Mittwoch<NODE id="192" /> mit starken Verzögerungen und massiven Flugausfällen zu rechnen.
+Betroffen sein sollen der <NODE id="284" />Fraport-Flughafen
+Frankfurt<NODE id="311" /> sowie die <NODE id="322" />Airports München<NODE id="338" />, <NODE id="340" />Düsseldorf<NODE id="350" />, <NODE id="352" />Köln/Bonn<NODE id="361" />, <NODE id="363" />Dortmund<NODE id="371" /> und <NODE id="376" />Hannover-Langenhagen<NODE id="396" />, teilte <NODE id="405" />Verdi<NODE id="410" /> am <NODE id="414" />Freitag<NODE id="421" /> in <NODE id="425" />Berlin<NODE id="431" /> mit.
+Mit den Ausständen will <NODE id="461" />Verdi<NODE id="466" /> den Druck im Tarifstreit um den öffentlichen Dienst von Bund und Kommunen erhöhen. Bestreikt werden sollen etwa Bodenverkehrsdienste, Check-In, Werkstätten und Luftsicherheitskontrolleure.
+Auch in vielen anderen Bereichen wie Kitas, Krankenhäusern, Rathäusern und dem Nahverkehr sind die Beschäftigten derzeit immer wieder im Ausstand.
+Die Gewerkschaften verlangen <NODE id="832" />sechs Prozent<NODE id="845" /> mehr Geld für <NODE id="860" />ein Jahr<NODE id="868" />. Bund und Kommunen hatten <NODE id="895" />drei Prozent<NODE id="907" /> für <NODE id="912" />zwei Jahre<NODE id="922" /> angeboten - nach Rechnung vo
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.aktiencheck.de/news/Artikel-ROUNDUP_Verdi_kuendigt_Streiks_Flughaefen-7151209@2016-04-22T11:39:33.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-22T09:39:33Z" />
+<feature featureName="indexDate" featureValue="2016-04-22T09:47:39.603Z" />
+<feature featureName="uri" featureValue="http://www.aktiencheck.de/news/Artikel-ROUNDUP_Verdi_kuendigt_Streiks_Flughaefen-7151209" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="14" type="organization" surface="Verdi" />
+<Entity id="1" startPos="47" endPos="55" type="date" surface="22.04.16" />
+<Entity id="2" startPos="56" endPos="61" type="time" surface="11:35" />
+<Entity id="3" startPos="62" endPos="69" type="organization-company" surface="dpa-AFX" />
+<Entity id="4" startPos="70" endPos="76" type="location-city" surface="BERLIN" />
+<Entity id="5" startPos="78" endPos="85" type="organization-company" surface="dpa-AFX" />
+<Entity id="6" startPos="101" endPos="110" type="location" surface="deutschen" />
+<Entity id="7" startPos="147" endPos="152" type="organization" surface="Verdi" />
+<Entity id="8" startPos="184" endPos="192" type="date" surface="Mittwoch" />
+<Entity id="9" startPos="284" endPos="311" type="organization-company" surface="Fraport-Flughafen&#xA;Frankfurt" />
+<Entity id="10" startPos="322" endPos="338" type="organization-company" surface="Airports München" />
+<Entity id="11" startPos="340" endPos="350" type="organization-company" surface="Düsseldorf" />
+<Entity id="12" startPos="352" endPos="361" type="organization-company" surface="Köln/Bonn" />
+<Entity id="13" startPos="363" endPos="371" type="organization-company" surface="Dortmund" />
+<Entity id="14" startPos="376" endPos="396" type="organization-company" surface="Hannover-Langenhagen" />
+<Entity id="15" startPos="405" endPos="410" type="organization" surface="Verdi" />
+<Entity id="16" startPos="414" endPos="421" type="date" surface="Freitag" />
+<Entity id="17" startPos="425" endPos="431" type="location-city" surface="Berlin" />
+<Entity id="18" startPos="461" endPos="466" type="organization" surface="Verdi" />
+<Entity id="19" startPos="832" endPos="845" type="number" surface="sechs Prozent" />
+<Entity id="20" startPos="860" endPos="868" type="duration" surface="ein Jahr" />
+<Entity id="21" startPos="895" endPos="907" type="number" surface="drei Prozent" />
+<Entity id="22" startPos="912" endPos="922" type="duration" surface="zwei Jahre" /></Entities><Relations />
+</Document>

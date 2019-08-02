@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @politicalbeauty: Es sind mindestens <NODE id="40" />250<NODE id="43" /> Autos, die heute den Schienenersatzverkehr für Flüchtlinge zwischen <NODE id="112" />Ungarn<NODE id="118" /> und <NODE id="123" />Österreich<NODE id="133" /> mache…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="640470024180879360" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="40" endPos="43" type="number" surface="250" />
+<Entity id="1" startPos="112" endPos="118" type="location" surface="Ungarn" />
+<Entity id="2" startPos="123" endPos="133" type="location" surface="Österreich" /></Entities><Relations />
+</Document>

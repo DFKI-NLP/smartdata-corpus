@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Personalabbau: Der <NODE id="23" />Werber-Rat<NODE id="33" />: Die Fremden in der <NODE id="54" />S-Bahn<NODE id="60" /> http://t.co/mAERkZsQdp #outplacement http://t.co/4buou48KZt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="619225629200916481" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-07-09T19:24:29Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T00:55:35.728Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="33" type="organization" surface="Werber-Rat" />
+<Entity id="1" startPos="54" endPos="60" type="organization-company" surface="S-Bahn" /></Entities><Relations />
+</Document>

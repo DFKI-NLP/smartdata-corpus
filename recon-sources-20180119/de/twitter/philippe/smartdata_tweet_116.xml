@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A1<NODE id="2" /> Zwischen <NODE id="12" />AS Munsbach<NODE id="23" /> und <NODE id="28" />AS Flaxweiler<NODE id="41" /> Bauarbeiten, rechter Fahrstreifen gesperrt, <NODE id="86" />Verkehrsbehinderung<NODE id="105" />, Dauer: <NODE id="114" />02.12.2015<NODE id="124" />... #<NODE id="129" />ACL_A1<NODE id="135" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671734738147758080" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A1" />
+<Entity id="1" startPos="12" endPos="23" type="location" surface="AS Munsbach" />
+<Entity id="2" startPos="28" endPos="41" type="location" surface="AS Flaxweiler" />
+<Entity id="3" startPos="86" endPos="105" type="trigger" surface="Verkehrsbehinderung" />
+<Entity id="4" startPos="114" endPos="124" type="date" surface="02.12.2015" />
+<Entity id="5" startPos="129" endPos="135" type="location-street" surface="ACL_A1" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="4" label="end_date" />
+<Entity id="2" label="end_loc" />
+<Entity id="1" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

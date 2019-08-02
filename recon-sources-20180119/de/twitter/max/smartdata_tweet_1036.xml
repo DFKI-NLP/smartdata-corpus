@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>&#x1f4c8; <NODE id="3" />Greiffenberger<NODE id="17" /> vor dem Aus?: Abschreibungen, Verluste, Personalabbau: Bei der Industrieholding… https://t.co/ZcNbliARpu ❚ <NODE id="125" />ARD<NODE id="128" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="748783482101387265" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-01T07:41:08Z" />
+<feature featureName="indexDate" featureValue="2016-07-01T07:41:14.034Z" />
+<feature featureName="uri" featureValue="https://twitter.com/183289696/status/748783482101387265" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="17" type="organization-company" surface="Greiffenberger" />
+<Entity id="1" startPos="125" endPos="128" type="organization-company" surface="ARD" /></Entities><Relations />
+</Document>

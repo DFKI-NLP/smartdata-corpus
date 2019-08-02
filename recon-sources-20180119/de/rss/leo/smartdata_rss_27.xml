@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Kreis <NODE id="6" />Tuttlingen<NODE id="16" />, <NODE id="18" />K5900<NODE id="23" /> zwischen Abzweig nach <NODE id="46" />Mühlheim an der Donau<NODE id="67" /> und <NODE id="72" />Stetten<NODE id="79" /> in <NODE id="83" />beiden Richtungen<NODE id="100" /> <NODE id="101" />gesperrt<NODE id="109" />, <NODE id="111" />Hochwasser<NODE id="121" />, eine örtliche Umleitung ist eingerichtet
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9df89c8e-b762-42c0-9f56-d766eac88b08@2016-02-01T10:06:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9df89c8e-b762-42c0-9f56-d766eac88b08" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="16" type="location" surface="Tuttlingen" />
+<Entity id="1" startPos="18" endPos="23" type="location-street" surface="K5900" />
+<Entity id="2" startPos="46" endPos="67" type="location-city" surface="Mühlheim an der Donau" />
+<Entity id="3" startPos="72" endPos="79" type="location-city" surface="Stetten" />
+<Entity id="4" startPos="83" endPos="100" type="location" surface="beiden Richtungen" />
+<Entity id="5" startPos="101" endPos="109" type="trigger" surface="gesperrt" />
+<Entity id="6" startPos="111" endPos="121" type="trigger" surface="Hochwasser" /></Entities><Relations>
+<Relation id="7" NAME="Obstruction">
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="start_loc" />
+<Entity id="6" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="4" label="direction" />
+</Relation></Relations>
+</Document>

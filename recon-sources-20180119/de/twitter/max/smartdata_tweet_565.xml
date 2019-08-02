@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @vera_k: Warum die neue #<NODE id="28" />NPD<NODE id="31" />-Strategie 'Braun und brav' nicht aufgeht, schreibt @hebelowsk https://t.co/aZEB3tk6rw via @<NODE id="123" />SPIEGELONLINE<NODE id="136" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668425416588292096" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-22T13:46:52Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:07:04.119Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="28" endPos="31" type="organization" surface="NPD" />
+<Entity id="1" startPos="123" endPos="136" type="organization-company" surface="SPIEGELONLINE" /></Entities><Relations />
+</Document>

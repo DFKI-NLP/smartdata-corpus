@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Mannheim<NODE id="8" /> Richtung <NODE id="18" />Heidelberg<NODE id="28" /> zwischen <NODE id="38" />Mannheim-Neckarau<NODE id="55" /> und <NODE id="60" />Kreuz Mannheim<NODE id="74" /> Gefahr durch Personen auf der Fahrbahn, Gefahr durch defektes Fahrzeug auf dem Standstreifen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=b2aa06a8-7b1e-43d1-8cdc-37870b7442fd@2016-03-23T20:19:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-23T19:19:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:23:23.192Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=b2aa06a8-7b1e-43d1-8cdc-37870b7442fd" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-city" surface="Mannheim" />
+<Entity id="1" startPos="18" endPos="28" type="location-city" surface="Heidelberg" />
+<Entity id="2" startPos="38" endPos="55" type="location" surface="Mannheim-Neckarau" />
+<Entity id="3" startPos="60" endPos="74" type="location" surface="Kreuz Mannheim" /></Entities><Relations />
+</Document>

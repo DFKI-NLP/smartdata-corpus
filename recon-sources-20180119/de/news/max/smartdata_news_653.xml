@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Karlsruhe<NODE id="9" /> (ots) - - Querverweis: Ein Dokument liegt in der digitalen Pressemappe zum Download vor und ist unter http://www presseportal de/dokumente abrufbar - - Querverweis: Audiomaterial ist unter http://www presseportal de/audio abrufbar - Anmoderationsvorschlag: Es geht schon morgens los, wenn Sie
+<NODE id="303" />10.03.16<NODE id="311" /> | <NODE id="314" />02:10 Uhr<NODE id="323" /> | <NODE id="326" />1<NODE id="327" /> mal gelesen | presseportal.de Weltwassertag <NODE id="372" />2016<NODE id="376" /> - Führen Trockenheit und <NODE id="402" />Dürre<NODE id="407" /> zum Kampf ums Wasser?
+<NODE id="430" />Karlsruhe<NODE id="439" /> (ots) - - Querverweis: Ein Dokument liegt in der digitalen Pressemappe zum Download vor und ist unter http://www.presseportal.de/dokumente abrufbar - - Querverweis: Audiomaterial ist unter http://www.presseportal.de/audio abrufbar - Anmoderationsvorschlag: Es geht schon morgens los, wenn Sie ...
+<NODE id="737" />Karlsruhe<NODE id="746" /> (ots) -
+- Querverweis: Ein Dokument liegt in der digitalen Pressemappe zum Download vor und ist unter http://www.presseportal.de/dokumente abrufbar -
+- Querverweis: Audiomaterial ist unter http:/
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ad-hoc-news.de/karlsruhe-ots-querverweis-ein-dokument-liegt-in-der-digitalen-pressemappe-zum--/de/News/48784703@2016-03-10T01:10:39.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T00:10:39Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T16:00:02.952Z" />
+<feature featureName="uri" featureValue="http://www.ad-hoc-news.de/karlsruhe-ots-querverweis-ein-dokument-liegt-in-der-digitalen-pressemappe-zum--/de/News/48784703" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Karlsruhe" />
+<Entity id="1" startPos="303" endPos="311" type="date" surface="10.03.16" />
+<Entity id="2" startPos="314" endPos="323" type="time" surface="02:10 Uhr" />
+<Entity id="3" startPos="326" endPos="327" type="number" surface="1" />
+<Entity id="4" startPos="372" endPos="376" type="date" surface="2016" />
+<Entity id="5" startPos="402" endPos="407" type="disaster-type" surface="Dürre" />
+<Entity id="6" startPos="430" endPos="439" type="location-city" surface="Karlsruhe" />
+<Entity id="7" startPos="737" endPos="746" type="location-city" surface="Karlsruhe" /></Entities><Relations />
+</Document>

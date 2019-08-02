@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>News vom <NODE id="9" />05-01-16<NODE id="17" />
+Uhrzeit: <NODE id="27" />11:45<NODE id="32" />
+Mit Far Cry: Primal schickt <NODE id="61" />Ubisoft<NODE id="68" /> den nächsten Open World-Shooter ins Rennen. Es wird bei diesem Ableger jedoch anders als in Far Cry 4 keinen Koop-Modus geben. Diese Tatsache ist bereits seit einiger Zeit bekannt, genaue Gründe wurden hiefür jedoch bislang nicht genannt.
+ 
+Auf Nachfrage der Fans meldete sich nun der Publisher zu Wort  so erklärte <NODE id="386" />Jason Paradise<NODE id="400" /> von <NODE id="405" />Ubisoft<NODE id="412" /> nun, weshalb auf den Koop-Modus verzichtet wurde:
+ 
+Richtig. Wir fokussieren uns komplett darauf die bestmögliche Far Cry-Erfahrung für unsere Fans zu erschaffen. Die Steinzeit zum Leben zu erwecken und den Spielern eine starke Gameplay-Erfahrung bieten zu können, die Far Cry gerecht wird, bedeutete, dass wir unseren Core-Gameplay-Loop neu erfinden mussten. 
+Das war definitiv kein leichtes Unterfangen. Unser Fokus lag darauf diese Fantasie abzuliefern, was klare Prioritäten für das Team voraussetzte. Daher haben wir in der frühe
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://playstation4.gaming-universe.org/news/2074_far-cry-primal-ubisofts-erlaeuterung-zum-fehlenden-koop.html@2016-01-05T11:45:09.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-05T10:45:09Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T17:47:51.93Z" />
+<feature featureName="uri" featureValue="http://playstation4.gaming-universe.org/news/2074_far-cry-primal-ubisofts-erlaeuterung-zum-fehlenden-koop.html" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="17" type="date" surface="05-01-16" />
+<Entity id="1" startPos="27" endPos="32" type="time" surface="11:45" />
+<Entity id="2" startPos="61" endPos="68" type="organization-company" surface="Ubisoft" />
+<Entity id="3" startPos="386" endPos="400" type="person" surface="Jason Paradise" />
+<Entity id="4" startPos="405" endPos="412" type="organization-company" surface="Ubisoft" /></Entities><Relations />
+</Document>

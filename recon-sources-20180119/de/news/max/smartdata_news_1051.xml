@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Quelle: <NODE id="8" />GMX.at<NODE id="14" /> - <NODE id="17" />Gestern<NODE id="24" />
+Aus den Trümmern werden Tage nach dem schweren <NODE id="72" />Beben<NODE id="77" /> in <NODE id="81" />Ecuador<NODE id="88" /> immer mehr Opfer geborgen. Unter den Toten sind auch Ausländer. Der Wieder...
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.newsdump.at/news/mindestens-400-tote-bei-erdbeben-in-ecuador@2016-04-19T06:36:14.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-19T04:36:14Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T12:03:09.606Z" />
+<feature featureName="uri" featureValue="http://www.newsdump.at/news/mindestens-400-tote-bei-erdbeben-in-ecuador" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="14" type="organization-company" surface="GMX.at" />
+<Entity id="1" startPos="17" endPos="24" type="date" surface="Gestern" />
+<Entity id="2" startPos="72" endPos="77" type="disaster-type" surface="Beben" />
+<Entity id="3" startPos="81" endPos="88" type="location" surface="Ecuador" /></Entities><Relations>
+<Relation id="4" NAME="Disaster">
+<Entity id="3" label="location" />
+<Entity id="2" label="type" />
+</Relation></Relations>
+</Document>

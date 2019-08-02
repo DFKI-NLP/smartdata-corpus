@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />0<NODE id="1" />:<NODE id="2" />3<NODE id="3" /> – <NODE id="6" />Salzhemmendorf<NODE id="20" /> aus dem Rennen
+Oberwasser: <NODE id="48" />Joshua Wiechens<NODE id="63" /> überspringt <NODE id="76" />Torben Runne<NODE id="88" />.  Foto: nls
+Bisperoder Jubeltaumel: In <NODE id="128" />Salzhemmendorf<NODE id="142" /> hatte der <NODE id="153" />TSV<NODE id="156" /> gleich dreimal Grund zur Freude.  Foto: nls
+<NODE id="201" />Hameln-Pyrmont<NODE id="215" />. Mit der <NODE id="225" />0<NODE id="226" />:<NODE id="227" />3<NODE id="228" />-Heimpleite im Ostkreisderby gegen den <NODE id="267" />TSV Bisperode<NODE id="280" /> verabschiedet sich <NODE id="300" />Blau-Weiß Salzhemmendorf<NODE id="324" /> vorerst aus Titelrennen der Fußball-Kreisliga.
+<NODE id="372" />Hameln-Pyrmont<NODE id="386" />. Blau-Weiß sieht Schwarz. Und zwar richtig, denn nur in einer Woche hat <NODE id="459" />Salzhemmendorf<NODE id="473" /> alles vor eigener Kulisse verspielt. So sieht es jedenfalls aus. Erst die <NODE id="548" />1<NODE id="549" />:<NODE id="550" />5<NODE id="551" />-Pleite gegen <NODE id="565" />Lauenstein<NODE id="575" /> – nun auch noch ein ganz bitteres <NODE id="610" />0<NODE id="611" />:<NODE id="612" />3<NODE id="613" /> (<NODE id="615" />0<NODE id="616" />:<NODE id="617" />2<NODE id="618" />) gegen <NODE id="626" />Bisperode<NODE id="635" />. Die Titelchancen der Bock-Schützlinge in der Fußball-Kreisliga sind praktisch auf den Nullpunkt gesunken. Auch der Relegationsplatz <NODE id="769" />zwei<NODE id="773" /> ist im Moment in weite Ferne gerückt.
+Eitel Sonnenschein herrscht dagegen beim Ostkreisrivalen, der jetzt am <NODE id="883" />Mittwoch<NODE id="891" /> (<NODE id="893" />19<NODE id="895" /> Uhr) mit einem weiteren Sieg im Nachholspiel gegen <NODE id="947" />Pyrmont II<NODE id="957" /> den Abstand auf
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.dewezet.de/portal/sport/lokalsport-fussball_Bisperode-in-Meisterform-_arid,798371.html@2016-05-01T12:12:21.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-01T10:12:21Z" />
+<feature featureName="indexDate" featureValue="2016-05-01T13:00:23.052Z" />
+<feature featureName="uri" featureValue="http://www.dewezet.de/portal/sport/lokalsport-fussball_Bisperode-in-Meisterform-_arid,798371.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="1" type="number" surface="0" />
+<Entity id="1" startPos="2" endPos="3" type="number" surface="3" />
+<Entity id="2" startPos="6" endPos="20" type="location-city" surface="Salzhemmendorf" />
+<Entity id="3" startPos="48" endPos="63" type="person" surface="Joshua Wiechens" />
+<Entity id="4" startPos="76" endPos="88" type="person" surface="Torben Runne" />
+<Entity id="5" startPos="128" endPos="142" type="location-city" surface="Salzhemmendorf" />
+<Entity id="6" startPos="153" endPos="156" type="organization" surface="TSV" />
+<Entity id="7" startPos="201" endPos="215" type="organization" surface="Hameln-Pyrmont" />
+<Entity id="8" startPos="225" endPos="226" type="number" surface="0" />
+<Entity id="9" startPos="227" endPos="228" type="number" surface="3" />
+<Entity id="10" startPos="267" endPos="280" type="organization" surface="TSV Bisperode" />
+<Entity id="11" startPos="300" endPos="324" type="organization" surface="Blau-Weiß Salzhemmendorf" />
+<Entity id="12" startPos="372" endPos="386" type="location-city" surface="Hameln-Pyrmont" />
+<Entity id="13" startPos="459" endPos="473" type="organization" surface="Salzhemmendorf" />
+<Entity id="14" startPos="548" endPos="549" type="number" surface="1" />
+<Entity id="15" startPos="550" endPos="551" type="number" surface="5" />
+<Entity id="16" startPos="565" endPos="575" type="organization" surface="Lauenstein" />
+<Entity id="17" startPos="610" endPos="611" type="number" surface="0" />
+<Entity id="18" startPos="612" endPos="613" type="number" surface="3" />
+<Entity id="19" startPos="615" endPos="616" type="number" surface="0" />
+<Entity id="20" startPos="617" endPos="618" type="number" surface="2" />
+<Entity id="21" startPos="626" endPos="635" type="organization" surface="Bisperode" />
+<Entity id="22" startPos="769" endPos="773" type="number" surface="zwei" />
+<Entity id="23" startPos="883" endPos="891" type="date" surface="Mittwoch" />
+<Entity id="24" startPos="893" endPos="895" type="date" surface="19" />
+<Entity id="25" startPos="947" endPos="957" type="organization" surface="Pyrmont II" /></Entities><Relations />
+</Document>

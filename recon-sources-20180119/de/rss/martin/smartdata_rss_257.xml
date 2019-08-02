@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Sonntag, 15.<NODE id="15" /> und <NODE id="20" />Montag, 16. Mai<NODE id="35" />, jeweils <NODE id="45" />5.10<NODE id="49" /> – <NODE id="52" />5.45 Uhr<NODE id="60" />&lt;br /&gt;
+&lt;br /&gt;
+Meldung:&lt;br /&gt;
+<NODE id="89" />ICE 674<NODE id="96" /> nach <NODE id="102" />Kiel Hbf<NODE id="110" /> (planmäßig <NODE id="122" />5.11 Uhr<NODE id="130" /> ab <NODE id="134" />Basel Bad Bf<NODE id="146" />) beginnt in <NODE id="159" />Freiburg (Breisgau) Hbf<NODE id="182" /> und <NODE id="187" />fällt<NODE id="192" /> von <NODE id="197" />Basel Bad Bf<NODE id="209" /> bis <NODE id="214" />Freiburg (Breisgau) Hbf<NODE id="237" /> <NODE id="238" />aus<NODE id="241" />.&lt;br /&gt;
+&lt;br /&gt;Grund:&lt;br /&gt;
+Oberleitungsarbeiten zwischen <NODE id="298" />Haltingen<NODE id="307" /> und <NODE id="312" />Weil am Rhein<NODE id="325" />&lt;br /&gt;
+&lt;br /&gt;Link zur detaillierten Meldung: &lt;br /&gt;
+&lt;a href=/&gt;&lt;br /&gt;
+Link zum kompletten PDF-Dokument: &lt;br /&gt;
+&lt;a href=target=_blank&gt;(<NODE id="458" />86<NODE id="460" /> kB)&lt;br /&gt;&lt;br /&gt;------------------&lt;br /&gt;&lt;br /&gt;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_20-Kiel-Hamburg-Hannover-Kassel-Fulda-Frankfurt_M-Mannheim-Basel-Zuerich/8#d9ec47f5e35fe1d7f12a55e89152bc9bf3cdf6e6@2016-02-16T10:32:55.967+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-16T09:32:55.967Z" />
+<feature featureName="indexDate" featureValue="2016-03-18T15:29:00.358Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_20-Kiel-Hamburg-Hannover-Kassel-Fulda-Frankfurt_M-Mannheim-Basel-Zuerich/8#d9ec47f5e35fe1d7f12a55e89152bc9bf3cdf6e6" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="15" type="date" surface="Sonntag, 15." />
+<Entity id="1" startPos="20" endPos="35" type="date" surface="Montag, 16. Mai" />
+<Entity id="2" startPos="45" endPos="49" type="time" surface="5.10" />
+<Entity id="3" startPos="52" endPos="60" type="time" surface="5.45 Uhr" />
+<Entity id="4" startPos="89" endPos="96" type="location-route" surface="ICE 674" />
+<Entity id="5" startPos="102" endPos="110" type="location-stop" surface="Kiel Hbf" />
+<Entity id="6" startPos="122" endPos="130" type="time" surface="5.11 Uhr" />
+<Entity id="7" startPos="134" endPos="146" type="location-stop" surface="Basel Bad Bf" />
+<Entity id="8" startPos="159" endPos="182" type="location-stop" surface="Freiburg (Breisgau) Hbf" />
+<Entity id="9" startPos="187" endPos="192" type="trigger" surface="fällt" />
+<Entity id="10" startPos="197" endPos="209" type="location-stop" surface="Basel Bad Bf" />
+<Entity id="11" startPos="214" endPos="237" type="location-stop" surface="Freiburg (Breisgau) Hbf" />
+<Entity id="12" startPos="238" endPos="241" type="trigger" surface="aus" />
+<Entity id="13" startPos="298" endPos="307" type="location-stop" surface="Haltingen" />
+<Entity id="14" startPos="312" endPos="325" type="location-stop" surface="Weil am Rhein" />
+<Entity id="15" startPos="458" endPos="460" type="number" surface="86" /></Entities><Relations>
+<Relation id="16" NAME="CanceledRoute">
+<Entity id="11" label="end_loc" />
+<Entity id="10" label="start_loc" />
+<Entity id="4" label="location" />
+<Entity id="12" label="trigger" />
+<Entity id="9" label="trigger" />
+<Entity id="5" label="direction" />
+</Relation></Relations>
+</Document>

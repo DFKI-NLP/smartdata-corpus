@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />rponline<NODE id="12" />: Der <NODE id="18" />Montagmorgen<NODE id="30" /> nach den Anschlägen. Eine Impression von unserem Verlagshaus. #<NODE id="94" />Paris<NODE id="99" />Attacks https://t.co/LnOagdK5DI
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666228278089424896" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-16T12:16:14Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:47:55.731Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="12" type="organization-company" surface="rponline" />
+<Entity id="1" startPos="18" endPos="30" type="date" surface="Montagmorgen" />
+<Entity id="2" startPos="94" endPos="99" type="location-city" surface="Paris" /></Entities><Relations />
+</Document>

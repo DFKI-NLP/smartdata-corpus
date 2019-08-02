@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />faznet<NODE id="7" /> <NODE id="8" />Regulierungsbehörde<NODE id="27" /> vorher aufgekauft?
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="654391198375936000" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-14T20:19:54Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T16:37:54.903Z" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="7" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="8" endPos="27" type="organization" surface="Regulierungsbehörde" /></Entities><Relations />
+</Document>

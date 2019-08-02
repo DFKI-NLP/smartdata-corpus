@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />25<NODE id="2" /> : <NODE id="5" />Verkehrsunfall<NODE id="19" /> im Bereich <NODE id="31" />Tokiostraße<NODE id="42" /> <NODE id="43" />Prandaugasse<NODE id="55" /> in Fahrtrichtung <NODE id="73" />Floridsdorf<NODE id="84" /> <NODE id="85" />S<NODE id="86" /> <NODE id="87" />U<NODE id="88" />. Derzeit Fahrt unterbrochen #<NODE id="118" />wlvi<NODE id="122" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754277270219522048" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-16T11:31:29Z" />
+<feature featureName="indexDate" featureValue="2016-07-16T11:31:30.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/191436851/status/754277270219522048" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="number" surface="25" />
+<Entity id="1" startPos="5" endPos="19" type="trigger" surface="Verkehrsunfall" />
+<Entity id="2" startPos="31" endPos="42" type="location-street" surface="Tokiostraße" />
+<Entity id="3" startPos="43" endPos="55" type="location-street" surface="Prandaugasse" />
+<Entity id="4" startPos="73" endPos="84" type="location" surface="Floridsdorf" />
+<Entity id="5" startPos="85" endPos="86" type="location-route" surface="S" />
+<Entity id="6" startPos="87" endPos="88" type="location-route" surface="U" />
+<Entity id="7" startPos="118" endPos="122" type="organization-company" surface="wlvi" /></Entities><Relations>
+<Relation id="8" NAME="Accident">
+<Entity id="3" label="location" />
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+<Entity id="4" label="direction" />
+</Relation></Relations>
+</Document>

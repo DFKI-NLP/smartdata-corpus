@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A57<NODE id="3" /> <NODE id="4" />Köln<NODE id="8" /> Richtung <NODE id="18" />Krefeld<NODE id="25" /> zwischen <NODE id="35" />Bovert<NODE id="41" /> und <NODE id="46" />Kreuz Meerbusch<NODE id="61" /> <NODE id="62" />1 km<NODE id="66" /> <NODE id="67" />stockender Verkehr<NODE id="85" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#36@2016-03-21T18:00:01.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T17:00:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-21T17:04:11.554Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A57" />
+<Entity id="1" startPos="4" endPos="8" type="location-city" surface="Köln" />
+<Entity id="2" startPos="18" endPos="25" type="location-city" surface="Krefeld" />
+<Entity id="3" startPos="35" endPos="41" type="location" surface="Bovert" />
+<Entity id="4" startPos="46" endPos="61" type="location" surface="Kreuz Meerbusch" />
+<Entity id="5" startPos="62" endPos="66" type="distance" surface="1 km" />
+<Entity id="6" startPos="67" endPos="85" type="trigger" surface="stockender Verkehr" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />A1<NODE id="6" /> <NODE id="7" />Bremen<NODE id="13" /> Richtung <NODE id="23" />Hamburg<NODE id="30" /> ist zwischen <NODE id="44" />Hollenstedt<NODE id="55" /> und <NODE id="60" />Buchholzer Dreieck<NODE id="78" /> nach einem <NODE id="90" />Unfall<NODE id="96" /> <NODE id="97" />gesperrt<NODE id="105" />. Zurzeit <NODE id="115" />4 km<NODE id="119" /> Stau.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#3@2016-03-21T08:46:19.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="location-street" surface="A1" />
+<Entity id="1" startPos="7" endPos="13" type="location-city" surface="Bremen" />
+<Entity id="2" startPos="23" endPos="30" type="location-city" surface="Hamburg" />
+<Entity id="3" startPos="44" endPos="55" type="location" surface="Hollenstedt" />
+<Entity id="4" startPos="60" endPos="78" type="location" surface="Buchholzer Dreieck" />
+<Entity id="5" startPos="90" endPos="96" type="trigger" surface="Unfall" />
+<Entity id="6" startPos="97" endPos="105" type="trigger" surface="gesperrt" />
+<Entity id="7" startPos="115" endPos="119" type="distance" surface="4 km" /></Entities><Relations>
+<Relation id="8" NAME="Obstruction">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

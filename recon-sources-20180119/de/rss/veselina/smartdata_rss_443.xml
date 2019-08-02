@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A215<NODE id="4" /> <NODE id="5" />Kiel<NODE id="9" /> Richtung <NODE id="19" />Neumünster<NODE id="29" /> zwischen <NODE id="39" />Blumenthal<NODE id="49" /> und <NODE id="54" />Dreieck Bordesholm<NODE id="72" /> <NODE id="73" />5 km<NODE id="77" /> <NODE id="78" />Stau<NODE id="82" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#28@2016-03-21T19:04:58.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T18:04:58Z" />
+<feature featureName="indexDate" featureValue="2016-03-21T18:05:11.672Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="location-street" surface="A215" />
+<Entity id="1" startPos="5" endPos="9" type="location-city" surface="Kiel" />
+<Entity id="2" startPos="19" endPos="29" type="location-city" surface="Neumünster" />
+<Entity id="3" startPos="39" endPos="49" type="location" surface="Blumenthal" />
+<Entity id="4" startPos="54" endPos="72" type="location" surface="Dreieck Bordesholm" />
+<Entity id="5" startPos="73" endPos="77" type="distance" surface="5 km" />
+<Entity id="6" startPos="78" endPos="82" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="jam_length" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

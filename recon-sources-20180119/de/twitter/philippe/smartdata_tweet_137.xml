@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />MatthiasMeisner<NODE id="19" />: Hat dieser ganze #<NODE id="39" />Steinbach<NODE id="48" />-Mist außer Schelte von @<NODE id="73" />petertauber<NODE id="84" /> in der @<NODE id="93" />CDU<NODE id="96" /> irgendwelche Konsequenzen? https://t.co/N2…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="703646653077725184" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="19" type="person" surface="MatthiasMeisner" />
+<Entity id="1" startPos="39" endPos="48" type="person" surface="Steinbach" />
+<Entity id="2" startPos="73" endPos="84" type="person" surface="petertauber" />
+<Entity id="3" startPos="93" endPos="96" type="organization" surface="CDU" /></Entities><Relations />
+</Document>

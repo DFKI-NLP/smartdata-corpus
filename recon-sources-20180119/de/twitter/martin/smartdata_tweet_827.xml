@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Korallenherz: +++ Reminder +++
+Am <NODE id="38" />Sonntag<NODE id="45" /> <NODE id="46" />17 Uhr<NODE id="52" /> in #<NODE id="57" />Bochum<NODE id="63" /> gegen den dortigen <NODE id="83" />Pegida-Ableger<NODE id="97" /> auf die Straße.
+https://t.co/TMChVE1Qcw…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743805679434096640" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T14:01:07Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T14:01:10.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/(((Balder Helix)))/status/743805679434096640" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="38" endPos="45" type="date" surface="Sonntag" />
+<Entity id="1" startPos="46" endPos="52" type="time" surface="17 Uhr" />
+<Entity id="2" startPos="57" endPos="63" type="location" surface="Bochum" />
+<Entity id="3" startPos="83" endPos="97" type="organization" surface="Pegida-Ableger" /></Entities><Relations />
+</Document>

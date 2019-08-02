@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />19. April 2016<NODE id="14" />
+<NODE id="15" />Air Berlin<NODE id="25" /> vertieft die Zusammenarbeit mit <NODE id="58" />Alitalia<NODE id="66" />
+<NODE id="67" />Air Berlin<NODE id="77" /> und <NODE id="82" />Alitalia<NODE id="90" /> wollen ihre <NODE id="103" />Zusammenarbeit<NODE id="117" /> weiter vertiefen. Die Kooperation umfasst überwiegend Codeshareflüge zwischen <NODE id="196" />Deutschland<NODE id="207" />, <NODE id="209" />Österreich<NODE id="219" /> und der <NODE id="228" />Schweiz<NODE id="235" /> und könnte die Basis für eine noch größere Kooperation bilden.
+<NODE id="299" />Etihad<NODE id="305" />-<NODE id="306" />Beteiligungen<NODE id="319" /> <NODE id="320" />Air Berlin<NODE id="330" /> und <NODE id="335" />Alitalia<NODE id="343" /> erweitern ihre Kooperation
+<NODE id="371" />Deutschlands<NODE id="383" /> zweitgrößte Airline <NODE id="404" />Air Berlin<NODE id="414" /> und <NODE id="419" />Alitalia<NODE id="427" /> wollen ihre Zusammenarbeit ausbauen. Davon profitiert neben den beiden <NODE id="499" />europäischen<NODE id="511" /> Airlines auch die <NODE id="530" />arabische<NODE id="539" /> <NODE id="540" />Etihad<NODE id="546" />, die bei beiden Unternehmen Hauptanteilseigner ist. <NODE id="599" />Air Berlin<NODE id="609" /> ist nicht nur Mitglied im Luftfahrtbündnis <NODE id="653" />Oneworld<NODE id="661" />, sondern auch Mitglied der <NODE id="689" />Etihad Airways Partners<NODE id="712" />, einem Zusammenschluss von <NODE id="740" />acht<NODE id="744" /> Airlines, an denen <NODE id="764" />Etihad<NODE id="770" /> Anteile hält – darunter auch <NODE id="800" />Alitalia<NODE id="808" />. <NODE id="810" />Etihad Airways<NODE id="824" /> ist zu etwa <NODE id="837" />29 Prozent<NODE id="847" /> an <NODE id="851" />Air Berlin<NODE id="861" /> und zu <NODE id="869" />49 Prozent<NODE id="879" /> an <NODE id="883" />Alitalia<NODE id="891" /> <NODE id="892" />beteiligt<NODE id="901" />. Beide Partner-Airlines entwickeln sich trot
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://news.fluege.de/airline-news/air-berlin-vertieft-die-zusammenarbeit-mit-alitalia/77980.html@2016-04-19T10:23:47.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-19T08:23:47Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T08:39:33.055Z" />
+<feature featureName="uri" featureValue="http://news.fluege.de/airline-news/air-berlin-vertieft-die-zusammenarbeit-mit-alitalia/77980.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="date" surface="19. April 2016" />
+<Entity id="1" startPos="15" endPos="25" type="organization-company" surface="Air Berlin" />
+<Entity id="2" startPos="58" endPos="66" type="organization-company" surface="Alitalia" />
+<Entity id="3" startPos="67" endPos="77" type="organization-company" surface="Air Berlin" />
+<Entity id="4" startPos="82" endPos="90" type="organization-company" surface="Alitalia" />
+<Entity id="5" startPos="103" endPos="117" type="trigger" surface="Zusammenarbeit" />
+<Entity id="6" startPos="196" endPos="207" type="location" surface="Deutschland" />
+<Entity id="7" startPos="209" endPos="219" type="location" surface="Österreich" />
+<Entity id="8" startPos="228" endPos="235" type="location" surface="Schweiz" />
+<Entity id="9" startPos="299" endPos="305" type="organization-company" surface="Etihad" />
+<Entity id="10" startPos="306" endPos="319" type="trigger" surface="Beteiligungen" />
+<Entity id="11" startPos="320" endPos="330" type="organization-company" surface="Air Berlin" />
+<Entity id="12" startPos="335" endPos="343" type="organization-company" surface="Alitalia" />
+<Entity id="13" startPos="371" endPos="383" type="location" surface="Deutschlands" />
+<Entity id="14" startPos="404" endPos="414" type="organization-company" surface="Air Berlin" />
+<Entity id="15" startPos="419" endPos="427" type="organization-company" surface="Alitalia" />
+<Entity id="16" startPos="499" endPos="511" type="location" surface="europäischen" />
+<Entity id="17" startPos="530" endPos="539" type="location" surface="arabische" />
+<Entity id="18" startPos="540" endPos="546" type="organization-company" surface="Etihad" />
+<Entity id="19" startPos="599" endPos="609" type="organization-company" surface="Air Berlin" />
+<Entity id="20" startPos="653" endPos="661" type="organization" surface="Oneworld" />
+<Entity id="21" startPos="689" endPos="712" type="organization" surface="Etihad Airways Partners" />
+<Entity id="22" startPos="740" endPos="744" type="number" surface="acht" />
+<Entity id="23" startPos="764" endPos="770" type="organization-company" surface="Etihad" />
+<Entity id="24" startPos="800" endPos="808" type="organization-company" surface="Alitalia" />
+<Entity id="25" startPos="810" endPos="824" type="organization-company" surface="Etihad Airways" />
+<Entity id="26" startPos="837" endPos="847" type="number" surface="29 Prozent" />
+<Entity id="27" startPos="851" endPos="861" type="organization-company" surface="Air Berlin" />
+<Entity id="28" startPos="869" endPos="879" type="number" surface="49 Prozent" />
+<Entity id="29" startPos="883" endPos="891" type="organization-company" surface="Alitalia" />
+<Entity id="30" startPos="892" endPos="901" type="trigger" surface="beteiligt" /></Entities><Relations>
+</Relations>
+</Document>

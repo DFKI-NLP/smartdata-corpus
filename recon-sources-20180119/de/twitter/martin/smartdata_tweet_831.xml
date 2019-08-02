@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @StopPaedophilia: .@balleryna
+Durch den <NODE id="43" />Personalabbau<NODE id="56" /> bei der <NODE id="65" />Kripo<NODE id="70" /> wird es in Zukunft noch schlimmer!
+ https://t.co/QTSgPfAaYA
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744953060926099456" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-20T18:00:24Z" />
+<feature featureName="indexDate" featureValue="2016-06-20T18:00:27.146Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="43" endPos="56" type="trigger" surface="Personalabbau" />
+<Entity id="1" startPos="65" endPos="70" type="organization" surface="Kripo" /></Entities><Relations>
+<Relation id="2" NAME="Layoffs">
+<Entity id="1" label="company" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

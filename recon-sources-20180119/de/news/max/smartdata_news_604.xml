@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Drucken
+<NODE id="8" />Münster<NODE id="15" /> zählt jetzt zu den Standorten des <NODE id="50" />Borkener<NODE id="58" /> <NODE id="59" />Systemhauses Netgo<NODE id="77" />. (Bild: <NODE id="86" />Michael Hase<NODE id="98" />)
+Das <NODE id="104" />Borkener<NODE id="112" /> <NODE id="113" />Systemhaus Netgo<NODE id="129" /> <NODE id="130" />übernimmt<NODE id="139" /> den Mitbewerber <NODE id="156" />Coeit<NODE id="161" />. Zeitgleich erweitert das Unternehmen sein Filialnetz um ein Büro in <NODE id="231" />Münster<NODE id="238" />.
+<NODE id="240" />Netgo<NODE id="245" /> setzt seinen Expansionskurs fort. Das Systemhaus aus <NODE id="299" />Borken<NODE id="305" /> übernimmt den Mitbewerber <NODE id="332" />Coeit Consulting<NODE id="348" /> aus dem rund<NODE id="361" /> 40 Kilometer<NODE id="374" /> entfernten <NODE id="386" />Billerbeck<NODE id="396" />. Zeitgleich mit der Akquisition eröffnet der Fachhändler und Dienstleister ein Büro in <NODE id="484" />Münster<NODE id="491" />. Dessen Leitung übernimmt der IT-Berater <NODE id="533" />Carsten Zieminski<NODE id="550" />, bislang Geschäftsführer von <NODE id="580" />Coeit<NODE id="585" />.
+„Es war ein guter Zeitpunkt, die Übernahme mit der Eröffnung der Niederlassung zu kombinieren“, erläutert <NODE id="693" />Netgo<NODE id="698" />-Geschäftsführer <NODE id="715" />Patrick Kruse<NODE id="728" />. „Unsere Kunden und die Kunden der <NODE id="764" />Coeit Consulting <NODE id="781" />profitieren nun von einem kompetenten Team direkt vor Ort in <NODE id="842" />Münster<NODE id="849" />.“ Neben <NODE id="858" />fünf<NODE id="862" /> Standorten im <NODE id="877" />Münsterland<NODE id="888" /> ist das Systemhaus auch mit Büros im <NODE id="926" />Ruhrgebiet<NODE id="936" /> (<NODE id="938" />Bottrop<NODE id="945" />) und i
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.it-business.de/netgo-expandiert-im-muensterland-a-516114/@2016-03-11T00:24:44.292+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T23:24:44.292Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T23:24:53.316Z" />
+<feature featureName="uri" featureValue="http://www.it-business.de/netgo-expandiert-im-muensterland-a-516114/" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="15" type="location-city" surface="Münster" />
+<Entity id="1" startPos="50" endPos="58" type="location-city" surface="Borkener" />
+<Entity id="2" startPos="59" endPos="77" type="organization-company" surface="Systemhauses Netgo" />
+<Entity id="3" startPos="86" endPos="98" type="person" surface="Michael Hase" />
+<Entity id="4" startPos="104" endPos="112" type="location-city" surface="Borkener" />
+<Entity id="5" startPos="113" endPos="129" type="organization-company" surface="Systemhaus Netgo" />
+<Entity id="6" startPos="130" endPos="139" type="trigger" surface="übernimmt" />
+<Entity id="7" startPos="156" endPos="161" type="organization-company" surface="Coeit" />
+<Entity id="8" startPos="231" endPos="238" type="location-city" surface="Münster" />
+<Entity id="9" startPos="240" endPos="245" type="organization-company" surface="Netgo" />
+<Entity id="10" startPos="299" endPos="305" type="location-city" surface="Borken" />
+<Entity id="11" startPos="332" endPos="348" type="organization-company" surface="Coeit Consulting" />
+<Entity id="12" startPos="361" endPos="374" type="distance" surface=" 40 Kilometer" />
+<Entity id="13" startPos="386" endPos="396" type="location-city" surface="Billerbeck" />
+<Entity id="14" startPos="484" endPos="491" type="location-city" surface="Münster" />
+<Entity id="15" startPos="533" endPos="550" type="person" surface="Carsten Zieminski" />
+<Entity id="16" startPos="580" endPos="585" type="organization-company" surface="Coeit" />
+<Entity id="17" startPos="693" endPos="698" type="organization-company" surface="Netgo" />
+<Entity id="18" startPos="715" endPos="728" type="person" surface="Patrick Kruse" />
+<Entity id="19" startPos="764" endPos="781" type="organization-company" surface="Coeit Consulting " />
+<Entity id="20" startPos="842" endPos="849" type="location-city" surface="Münster" />
+<Entity id="21" startPos="858" endPos="862" type="number" surface="fünf" />
+<Entity id="22" startPos="877" endPos="888" type="location" surface="Münsterland" />
+<Entity id="23" startPos="926" endPos="936" type="location" surface="Ruhrgebiet" />
+<Entity id="24" startPos="938" endPos="945" type="location-city" surface="Bottrop" /></Entities><Relations>
+<Relation id="25" NAME="Acquisition">
+<Entity id="6" label="trigger" />
+<Entity id="7" label="acquired" />
+<Entity id="5" label="buyer" />
+</Relation></Relations>
+</Document>

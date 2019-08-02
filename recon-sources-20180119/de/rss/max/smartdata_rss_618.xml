@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> Aufgrund eines Notarzteinsatzes ist derzeit die <NODE id="49" />Strecke<NODE id="56" /> zwischen <NODE id="66" />Augsburg Hbf<NODE id="78" /> und <NODE id="83" />Mering<NODE id="89" /> <NODE id="90" />gesperrt<NODE id="98" />. Die Züge aus Richtung <NODE id="122" />Ulm<NODE id="125" /> fahren bis <NODE id="137" />Augsburg<NODE id="145" />. Die Züge aus Richtung <NODE id="169" />München<NODE id="176" /> fahren bis <NODE id="188" />Mering<NODE id="194" />. Aktuell konnte noch kein Schienenersatzverkehr eingerichtet werden. (<NODE id="265" />18:00 Uhr<NODE id="274" />).
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rt1.de/verkehr.html@2016-03-11T18:44:30.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T17:44:30Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T17:47:11.994Z" />
+<feature featureName="uri" featureValue="http://www.rt1.de/verkehr.html" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="49" endPos="56" type="location-route" surface="Strecke" />
+<Entity id="1" startPos="66" endPos="78" type="location-stop" surface="Augsburg Hbf" />
+<Entity id="2" startPos="83" endPos="89" type="location-stop" surface="Mering" />
+<Entity id="3" startPos="90" endPos="98" type="trigger" surface="gesperrt" />
+<Entity id="4" startPos="122" endPos="125" type="location-city" surface="Ulm" />
+<Entity id="5" startPos="137" endPos="145" type="location-city" surface="Augsburg" />
+<Entity id="6" startPos="169" endPos="176" type="location-city" surface="München" />
+<Entity id="7" startPos="188" endPos="194" type="location-city" surface="Mering" />
+<Entity id="8" startPos="265" endPos="274" type="time" surface="18:00 Uhr" /></Entities><Relations>
+<Relation id="9" NAME="CanceledRoute">
+<Entity id="2" label="end_loc" />
+<Entity id="1" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

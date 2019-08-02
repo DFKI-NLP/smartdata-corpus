@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />S2<NODE id="3" /> #<NODE id="5" />Petershausen<NODE id="17" /> / #<NODE id="21" />Altomünster<NODE id="32" />: #<NODE id="35" />Notarzteinsatz<NODE id="49" /> am #Gleis / #<NODE id="63" />Schienenersatzverkehr <NODE id="85" />#<NODE id="86" />MVV<NODE id="89" /> #<NODE id="91" />SBahn #München<NODE id="105" /> https://t.co/47uWCYXMFZ
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="685000577529581568" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-07T07:30:39Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T13:03:41.906Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="3" type="location-route" surface="S2" />
+<Entity id="1" startPos="5" endPos="17" type="location-stop" surface="Petershausen" />
+<Entity id="2" startPos="21" endPos="32" type="location-stop" surface="Altomünster" />
+<Entity id="3" startPos="35" endPos="49" type="trigger" surface="Notarzteinsatz" />
+<Entity id="4" startPos="63" endPos="85" type="trigger" surface="Schienenersatzverkehr " />
+<Entity id="5" startPos="86" endPos="89" type="organization-company" surface="MVV" />
+<Entity id="6" startPos="91" endPos="105" type="organization-company" surface="SBahn #München" /></Entities><Relations>
+<Relation id="7" NAME="RailReplacementService">
+<Entity id="4" label="trigger" />
+<Entity id="3" label="cause" />
+<Entity id="2" label="end_loc" />
+<Entity id="0" label="location" />
+<Entity id="1" label="end_loc" />
+</Relation></Relations>
+</Document>

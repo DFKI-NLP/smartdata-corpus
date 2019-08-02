@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@TWiiiG_EU &#x1f602;&#x1f602; wo geht's eigentlich hin um <NODE id="44" />11<NODE id="46" /> mit der bahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710768094709489664" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-18T10:01:33Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T01:52:57.537Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2344163589/status/710768094709489664" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="44" endPos="46" type="time" surface="11" /></Entities><Relations />
+</Document>

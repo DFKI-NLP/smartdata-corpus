@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>■ #<NODE id="3" />A24<NODE id="6" /> #<NODE id="8" />Berlin<NODE id="14" /> Richtung #<NODE id="25" />Hamburg<NODE id="32" /> Die <NODE id="37" />Anschlussstelle #Talkau<NODE id="60" /> ist wegen #<NODE id="72" />Bauarbeiten<NODE id="83" /> <NODE id="84" />gesperrt<NODE id="92" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672385077792350208" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-03T12:01:09Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:32:05.73Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="6" type="location-street" surface="A24" />
+<Entity id="1" startPos="8" endPos="14" type="location-city" surface="Berlin" />
+<Entity id="2" startPos="25" endPos="32" type="location-city" surface="Hamburg" />
+<Entity id="3" startPos="37" endPos="60" type="location" surface="Anschlussstelle #Talkau" />
+<Entity id="4" startPos="72" endPos="83" type="trigger" surface="Bauarbeiten" />
+<Entity id="5" startPos="84" endPos="92" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="3" label="start_loc" />
+<Entity id="4" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

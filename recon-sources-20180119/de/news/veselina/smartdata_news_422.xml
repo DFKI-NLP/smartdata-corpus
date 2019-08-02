@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Star Wars: Battlefront<NODE id="22" /> - VR-Ableger exklusiv für <NODE id="49" />Playstation VR<NODE id="63" /> angekündigt<NODE id="75" />
+<NODE id="76" />Quelle: <NODE id="84" />DICE<NODE id="88" />/<NODE id="89" />EA<NODE id="91" />
+<NODE id="92" />16.03.2016 um 20:45 Uhr:<NODE id="116" />
+<NODE id="117" />Im Zusammenhang mit <NODE id="137" />Star Wars: Battlefront<NODE id="159" /> arbeitet <NODE id="169" />DICE<NODE id="173" /> gemäß einer Ankündigung von <NODE id="202" />Sony<NODE id="206" /> derzeit an einem VR-Erlebnis.<NODE id="236" /> <NODE id="237" />Wobei es sich darum konkret handelt, ist noch nicht bekannt.<NODE id="297" /> <NODE id="298" />Gewiss ist nur, dass es exklusiv für die <NODE id="339" />Playstation VR<NODE id="353" /> erscheinen soll.<NODE id="370" />
+<NODE id="371" />Im Rahmen der Bekanntgabe von unter anderem Preis und <NODE id="425" />Release<NODE id="432" />-Termin der <NODE id="444" />Playstation VR<NODE id="458" /> hat <NODE id="463" />Sony<NODE id="467" /> auch eine neue Spielerfahrung auf Basis von <NODE id="512" />Star Wars: Battlefront<NODE id="534" /> angekündigt , an der <NODE id="556" />DICE<NODE id="560" /> zusammen mit <NODE id="574" />Lucasfilm<NODE id="583" /> arbeitet und die exklusiv für die hauseigene Virtual-Reality-Brille erscheinen soll.<NODE id="668" /> <NODE id="669" />Wobei es sich dabei jedoch genau handelt, bleibt derzeit noch unklar.<NODE id="738" /> <NODE id="739" />Konkrete Informationen sollen laut einem Twitter-Beitrag erst in den kommenden Monaten folgen.<NODE id="833" />
+<NODE id="834" />Bei dem Projekt wird es sich aus naheliegenden Gründen höchstwahrscheinlich nicht um eine 1:1-Umsetzung des aktu<NODE id="946" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.pcgameshardware.de/Star-Wars-Battlefront-PC-148700/News/Star-Wars-Battlefront-VR-Ableger-exklusiv-fuer-Playstation-VR-angekuendigt-1189490/@2016-03-16T20:45:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-16T19:45:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:37:22.952Z" />
+<feature featureName="uri" featureValue="http://www.pcgameshardware.de/Star-Wars-Battlefront-PC-148700/News/Star-Wars-Battlefront-VR-Ableger-exklusiv-fuer-Playstation-VR-angekuendigt-1189490/" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="22" type="product" surface="Star Wars: Battlefront" />
+<Entity id="1" startPos="0" endPos="75" type="sentence" surface="Star Wars: Battlefront - VR-Ableger exklusiv für Playstation VR angekündigt" />
+<Entity id="2" startPos="49" endPos="63" type="product" surface="Playstation VR" />
+<Entity id="3" startPos="76" endPos="91" type="sentence" surface="Quelle: DICE/EA" />
+<Entity id="4" startPos="84" endPos="88" type="organization-company" surface="DICE" />
+<Entity id="5" startPos="89" endPos="91" type="organization-company" surface="EA" />
+<Entity id="6" startPos="92" endPos="116" type="sentence" surface="16.03.2016 um 20:45 Uhr:" />
+<Entity id="7" startPos="117" endPos="236" type="sentence" surface="Im Zusammenhang mit Star Wars: Battlefront arbeitet DICE gemäß einer Ankündigung von Sony derzeit an einem VR-Erlebnis." />
+<Entity id="8" startPos="137" endPos="159" type="product" surface="Star Wars: Battlefront" />
+<Entity id="9" startPos="169" endPos="173" type="organization-company" surface="DICE" />
+<Entity id="10" startPos="202" endPos="206" type="organization-company" surface="Sony" />
+<Entity id="11" startPos="237" endPos="297" type="sentence" surface="Wobei es sich darum konkret handelt, ist noch nicht bekannt." />
+<Entity id="12" startPos="298" endPos="370" type="sentence" surface="Gewiss ist nur, dass es exklusiv für die Playstation VR erscheinen soll." />
+<Entity id="13" startPos="339" endPos="353" type="product" surface="Playstation VR" />
+<Entity id="14" startPos="371" endPos="668" type="sentence" surface="Im Rahmen der Bekanntgabe von unter anderem Preis und Release-Termin der Playstation VR hat Sony auch eine neue Spielerfahrung auf Basis von Star Wars: Battlefront angekündigt , an der DICE zusammen mit Lucasfilm arbeitet und die exklusiv für die hauseigene Virtual-Reality-Brille erscheinen soll." />
+<Entity id="15" startPos="425" endPos="432" type="trigger" surface="Release" />
+<Entity id="16" startPos="444" endPos="458" type="product" surface="Playstation VR" />
+<Entity id="17" startPos="463" endPos="467" type="organization-company" surface="Sony" />
+<Entity id="18" startPos="512" endPos="534" type="product" surface="Star Wars: Battlefront" />
+<Entity id="19" startPos="556" endPos="560" type="organization-company" surface="DICE" />
+<Entity id="20" startPos="574" endPos="583" type="organization-company" surface="Lucasfilm" />
+<Entity id="21" startPos="669" endPos="738" type="sentence" surface="Wobei es sich dabei jedoch genau handelt, bleibt derzeit noch unklar." />
+<Entity id="22" startPos="739" endPos="833" type="sentence" surface="Konkrete Informationen sollen laut einem Twitter-Beitrag erst in den kommenden Monaten folgen." />
+<Entity id="23" startPos="834" endPos="946" type="sentence" surface="Bei dem Projekt wird es sich aus naheliegenden Gründen höchstwahrscheinlich nicht um eine 1:1-Umsetzung des aktu" /></Entities><Relations>
+<Relation id="24" NAME="CompanyProvidesProduct">
+<Entity id="16" label="product" />
+<Entity id="17" label="company" />
+<Entity id="15" label="trigger" />
+</Relation></Relations>
+</Document>

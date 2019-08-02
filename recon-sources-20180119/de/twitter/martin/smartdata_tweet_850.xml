@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@LeopoldStammler @Nattl Konkurs &amp; Masse verwerten. Dann sind wir bei <NODE id="69" />13%<NODE id="72" /> Quote
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744613697377689605" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T19:31:54Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T19:32:00.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Sascha D./status/744613697377689605" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="69" endPos="72" type="number" surface="13%" /></Entities><Relations />
+</Document>

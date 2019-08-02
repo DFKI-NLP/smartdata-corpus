@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @metronom4me: <NODE id="17" />Cuxhaven<NODE id="25" /> nutzen die S-Bahn bis <NODE id="48" />Stade<NODE id="53" />. Fahrgäste nach <NODE id="70" />Hamburg<NODE id="77" /> nutzen ab <NODE id="88" />Stade<NODE id="93" /> den Busnotverkehr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743850191682416641" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T16:58:00Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T16:58:10.079Z" />
+<feature featureName="uri" featureValue="https://twitter.com/HVV Störungsmeldung/status/743850191682416641" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="25" type="location-stop" surface="Cuxhaven" />
+<Entity id="1" startPos="48" endPos="53" type="location-stop" surface="Stade" />
+<Entity id="2" startPos="70" endPos="77" type="location-stop" surface="Hamburg" />
+<Entity id="3" startPos="88" endPos="93" type="location-stop" surface="Stade" /></Entities><Relations />
+</Document>

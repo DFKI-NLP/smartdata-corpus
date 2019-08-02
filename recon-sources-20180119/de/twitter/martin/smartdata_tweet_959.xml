@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: <NODE id="12" />Oberösterreich<NODE id="26" /> hat als erstes Bundesland in der <NODE id="60" />Alpenrepublik<NODE id="73" /> die Zahlungen an Asylberechtigte gekürzt. https://t.co/lHvbMC1MN4
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744201244856680452" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-18T16:12:58Z" />
+<feature featureName="indexDate" featureValue="2016-06-18T16:13:00.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Gabriela Cortés/status/744201244856680452" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="12" endPos="26" type="location" surface="Oberösterreich" />
+<Entity id="2" startPos="60" endPos="73" type="location" surface="Alpenrepublik" /></Entities><Relations />
+</Document>

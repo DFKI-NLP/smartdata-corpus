@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Offen für alles ;-) Geschlecht female Alter <NODE id="44" />41<NODE id="46" /> PLZ 0xxxx Stadt <NODE id="63" />Flughafen Leipzig/Halle<NODE id="86" /> Lang DE Beziehung single… https://t.co/LP06cPhTrs
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670879891886223360" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="44" endPos="46" type="number" surface="41" />
+<Entity id="1" startPos="63" endPos="86" type="location-stop" surface="Flughafen Leipzig/Halle" /></Entities><Relations />
+</Document>

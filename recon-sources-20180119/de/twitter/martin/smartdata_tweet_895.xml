@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ich als Automatik-Verachterin nach <NODE id="35" />5 km<NODE id="39" /> im Stau: 'Automatik wäre jetzt echt richtig geil.' Immer.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743802048991338497" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T13:46:42Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T13:46:44.728Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Ridgetta Backova/status/743802048991338497" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="35" endPos="39" type="distance" surface="5 km" /></Entities><Relations />
+</Document>

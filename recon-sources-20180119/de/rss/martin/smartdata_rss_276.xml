@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Stuttgart<NODE id="9" /> Richtung <NODE id="19" />München<NODE id="26" /> zwischen <NODE id="36" />Lämmerbuckeltunnel<NODE id="54" /> und <NODE id="59" />Merklingen<NODE id="69" /> defekter LKW Reifenpanne
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=f4352323-75e6-4f65-93da-3b24c5834386@2016-02-04T04:34:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-04T03:34:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T07:06:23.508Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=f4352323-75e6-4f65-93da-3b24c5834386" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Stuttgart" />
+<Entity id="1" startPos="19" endPos="26" type="location-city" surface="München" />
+<Entity id="2" startPos="36" endPos="54" type="location" surface="Lämmerbuckeltunnel" />
+<Entity id="3" startPos="59" endPos="69" type="location" surface="Merklingen" /></Entities><Relations />
+</Document>

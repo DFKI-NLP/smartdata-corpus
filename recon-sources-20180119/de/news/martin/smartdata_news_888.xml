@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />komma,tec redaction<NODE id="19" /> stellt auf der ISE <NODE id="39" />2016<NODE id="43" /> aus
+Die <NODE id="52" />komma,tec redaction GmbH<NODE id="76" /> finden Sie in Halle <NODE id="97" />8<NODE id="98" /> auf dem Stand 8-K362.
+<NODE id="121" />28. Januar 2016<NODE id="136" /> – Der Hamburger Digital Signage Spezialist <NODE id="180" />komma,tec redaction<NODE id="199" /> nutzt dieses Jahr die Gunst der Stunde und stellt zusammen mit seinem Partner, der <NODE id="283" />Boston GmbH<NODE id="294" />, auf der Messe Integrated Systems Europe in <NODE id="339" />Amsterdam<NODE id="348" /> aus. Besuchern möchte der Digital Signage Full-Solution-Anbieter dabei v.a. seine Content Management Software <NODE id="459" />Display Star 3.0<NODE id="475" /> vorstellen.
+Die internationale Fachmesse für audivisuelle und elektronische Systeme Integrated Systems Europe, kurz ISE, findet dieses Jahr vom <NODE id="620" />09.<NODE id="623" /> bis <NODE id="628" />12. Februar<NODE id="639" /> im <NODE id="643" />Amsterdam RAI<NODE id="656" /> statt. Mit dabei ist <NODE id="678" />dieses Jahr<NODE id="689" /> die <NODE id="694" />komma,tec redaction GmbH<NODE id="718" />, eine <NODE id="725" />Hamburger<NODE id="734" /> Agentur für digitale Kommunikation. Sie wird sich in Halle <NODE id="794" />8<NODE id="795" /> auf dem Stand 8-K362 gemeinsam mit der <NODE id="835" />Boston GmbH<NODE id="846" /> präsentieren. Besucher erwartet eine umfangreiche Präsentation der neuen, englischen Version der Softwa
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.presseschleuder.com/2016/01/kommatec-redaction-stellt-auf-der-ise-2016-aus/@2016-01-28T15:00:28.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-28T14:00:28Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T08:46:22.952Z" />
+<feature featureName="uri" featureValue="http://www.presseschleuder.com/2016/01/kommatec-redaction-stellt-auf-der-ise-2016-aus/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="19" type="organization-company" surface="komma,tec redaction" />
+<Entity id="1" startPos="39" endPos="43" type="date" surface="2016" />
+<Entity id="2" startPos="52" endPos="76" type="organization-company" surface="komma,tec redaction GmbH" />
+<Entity id="3" startPos="97" endPos="98" type="number" surface="8" />
+<Entity id="4" startPos="121" endPos="136" type="date" surface="28. Januar 2016" />
+<Entity id="5" startPos="180" endPos="199" type="organization-company" surface="komma,tec redaction" />
+<Entity id="6" startPos="283" endPos="294" type="organization-company" surface="Boston GmbH" />
+<Entity id="7" startPos="339" endPos="348" type="location-city" surface="Amsterdam" />
+<Entity id="8" startPos="459" endPos="475" type="product" surface="Display Star 3.0" />
+<Entity id="9" startPos="620" endPos="623" type="date" surface="09." />
+<Entity id="10" startPos="628" endPos="639" type="date" surface="12. Februar" />
+<Entity id="11" startPos="643" endPos="656" type="location" surface="Amsterdam RAI" />
+<Entity id="12" startPos="678" endPos="689" type="date" surface="dieses Jahr" />
+<Entity id="13" startPos="694" endPos="718" type="organization-company" surface="komma,tec redaction GmbH" />
+<Entity id="14" startPos="725" endPos="734" type="location-city" surface="Hamburger" />
+<Entity id="15" startPos="794" endPos="795" type="number" surface="8" />
+<Entity id="16" startPos="835" endPos="846" type="organization-company" surface="Boston GmbH" /></Entities><Relations />
+</Document>

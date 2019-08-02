@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />@<NODE id="1" />BILD<NODE id="5" /> #<NODE id="7" />Katalonien<NODE id="17" />:<NODE id="18" /> <NODE id="19" />@<NODE id="20" />JuntsPelSi<NODE id="30" /> reicht Parlament Antrag zur Entschließung der Einleitung Prozeses d. Abspaltung ein!<NODE id="115" /> <NODE id="116" />https://t.co/D7neSDcwjB<NODE id="139" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="658944414245613568" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-27T09:52:45Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T19:01:54.121Z" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="18" type="sentence" surface="@BILD #Katalonien:" />
+<Entity id="1" startPos="1" endPos="5" type="organization-company" surface="BILD" />
+<Entity id="2" startPos="7" endPos="17" type="location" surface="Katalonien" />
+<Entity id="3" startPos="19" endPos="115" type="sentence" surface="@JuntsPelSi reicht Parlament Antrag zur Entschließung der Einleitung Prozeses d. Abspaltung ein!" />
+<Entity id="4" startPos="20" endPos="30" type="organization" surface="JuntsPelSi" />
+<Entity id="5" startPos="116" endPos="139" type="sentence" surface="https://t.co/D7neSDcwjB" /></Entities><Relations />
+</Document>

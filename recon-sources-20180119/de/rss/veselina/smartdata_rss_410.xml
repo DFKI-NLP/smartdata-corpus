@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A65<NODE id="3" /> <NODE id="4" />Ludwigshafen<NODE id="16" /> Richtung <NODE id="26" />Landau<NODE id="32" /> zwischen <NODE id="42" />Edenkoben<NODE id="51" /> und <NODE id="56" />Landau-Nord<NODE id="67" /> <NODE id="68" />2 km<NODE id="72" /> wegen Bergungsarbeiten
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#41@2016-04-08T08:57:34.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-08T06:57:34Z" />
+<feature featureName="indexDate" featureValue="2016-04-08T07:02:59.397Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A65" />
+<Entity id="1" startPos="4" endPos="16" type="location-city" surface="Ludwigshafen" />
+<Entity id="2" startPos="26" endPos="32" type="location-city" surface="Landau" />
+<Entity id="3" startPos="42" endPos="51" type="location" surface="Edenkoben" />
+<Entity id="4" startPos="56" endPos="67" type="location" surface="Landau-Nord" />
+<Entity id="5" startPos="68" endPos="72" type="distance" surface="2 km" /></Entities><Relations />
+</Document>

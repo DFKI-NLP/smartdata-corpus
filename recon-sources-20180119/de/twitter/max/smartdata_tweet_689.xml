@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>https://t.co/rJmMnlRvrb Vorangegangene <NODE id="39" />Streckensperrung<NODE id="55" />: <NODE id="57" />BOB 86833<NODE id="66" /> (<NODE id="68" />München Hbf<NODE id="79" /> ab <NODE id="83" />18:05<NODE id="88" /> Uhr) fällt zwischen <NODE id="109" />Schliersee<NODE id="119" /> und <NODE id="124" />Bayrischzell<NODE id="136" /> a…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667040452445630464" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-18T18:03:31Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:55:05.729Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="39" endPos="55" type="trigger" surface="Streckensperrung" />
+<Entity id="1" startPos="57" endPos="66" type="location-route" surface="BOB 86833" />
+<Entity id="2" startPos="68" endPos="79" type="location-stop" surface="München Hbf" />
+<Entity id="3" startPos="83" endPos="88" type="time" surface="18:05" />
+<Entity id="4" startPos="109" endPos="119" type="location-stop" surface="Schliersee" />
+<Entity id="5" startPos="124" endPos="136" type="location-stop" surface="Bayrischzell" /></Entities><Relations>
+<Relation id="6" NAME="CanceledRoute">
+<Entity id="5" label="end_loc" />
+<Entity id="4" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="3" label="start_date" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: Historische <NODE id="24" />Dürre<NODE id="29" /> - die <NODE id="36" />Sierra Nevada<NODE id="49" /> ist so schneearm wie seit <NODE id="76" />Kolumbus<NODE id="84" /> nicht mehr. http://t.co/fCq7xhinnB
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="643805836691828736" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-09-15T15:17:27Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:37:55.727Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="24" endPos="29" type="disaster-type" surface="Dürre" />
+<Entity id="2" startPos="36" endPos="49" type="location" surface="Sierra Nevada" />
+<Entity id="3" startPos="76" endPos="84" type="person" surface="Kolumbus" /></Entities><Relations>
+<Relation id="4" NAME="Disaster">
+<Entity id="1" label="type" />
+<Entity id="2" label="location" />
+</Relation></Relations>
+</Document>

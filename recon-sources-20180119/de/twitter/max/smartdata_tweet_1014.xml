@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @MoiBakaDesu: @MitsuruSenpaii @TSUNABOOSHI @gurepyon_ <NODE id="57" />06<NODE id="59" /> muss einem keine Angst machen, es ist Glück und Leid vereint in einer Fusion.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="747866370038202368" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-28T18:56:51Z" />
+<feature featureName="indexDate" featureValue="2016-06-28T18:57:01.627Z" />
+<feature featureName="uri" featureValue="https://twitter.com/75680188/status/747866370038202368" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="57" endPos="59" type="number" surface="06" /></Entities><Relations />
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Falschfahrer auf der Autobahn gestellt – Zeugen gesucht: <NODE id="57" />A73<NODE id="60" /> / <NODE id="63" />RÖDENTAL<NODE id="71" />, <NODE id="73" />LKR. COBURG<NODE id="84" />. Die Verkehrspolizei Cobu... https://t.co/7tRkuJrX5W
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671673343272026114" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-01T12:52:58Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:27:05.728Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="57" endPos="60" type="location-street" surface="A73" />
+<Entity id="1" startPos="63" endPos="71" type="location-city" surface="RÖDENTAL" />
+<Entity id="2" startPos="73" endPos="84" type="location" surface="LKR. COBURG" /></Entities><Relations />
+</Document>

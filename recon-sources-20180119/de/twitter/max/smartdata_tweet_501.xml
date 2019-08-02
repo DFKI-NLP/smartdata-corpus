@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @DerWachsame: Die Bahn ist immer pünktlich!*
+
+*außer bei Gewitter, Regen, Hitze, Streik, Wind, Schnee, Personalmangel, Glätte oder wir h…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="618127167663284228" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-07-06T18:39:35Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T17:37:15.73Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities /><Relations />
+</Document>

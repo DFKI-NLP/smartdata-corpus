@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@Deine<NODE id="6" />EVG<NODE id="9" />
+Weiteres Zuwarten heißt mehr Stellenabbau bei der #<NODE id="61" />DB<NODE id="63" />, höherer Druck auf Einkommen und Arbeitsbedingungen.
+Handeln ist angesagt.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="750572472060276741" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-06T06:09:56Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T18:29:41.153Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2431015599/status/750572472060276741" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="9" type="organization-company" surface="EVG" />
+<Entity id="1" startPos="61" endPos="63" type="organization-company" surface="DB" /></Entities><Relations />
+</Document>

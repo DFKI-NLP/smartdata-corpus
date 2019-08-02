@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sie sind hier: Home &gt; Nachrichten &gt; Ausland &gt;
+<NODE id="46" />Idomeni<NODE id="53" />: Flüchtlinge fliehen vor Elend in <NODE id="88" />Griechenland<NODE id="100" />
+...
+t-online.de ist ein Angebot der <NODE id="137" />Ströer Content Group<NODE id="157" />
+Migration  
+Flüchtlinge fliehen vor Elend in <NODE id="203" />Griechenland<NODE id="215" />
+<NODE id="216" />14.03.2016<NODE id="226" />, <NODE id="228" />17:56 Uhr<NODE id="237" /> | dpa
+<NODE id="244" />Chamilo<NODE id="251" />/<NODE id="252" />Skopje<NODE id="258" /> (dpa) - Angesichts der dramatischen Lage für Flüchtlinge in <NODE id="319" />Nordgriechenland<NODE id="335" /> suchen sich immer mehr Menschen lebensgefährliche Schleichwege nach <NODE id="404" />Mazedonien<NODE id="414" />.
+Top-Nachrichten
+Unsere wichtigsten Themen
+Vom Flüchtlingslager <NODE id="479" />Idomeni<NODE id="486" /> aus brachen <NODE id="499" />Hunderte<NODE id="507" /> auf und durchquerten einen reißenden Fluss, während auf der anderen Seite schon die <NODE id="592" />griechische<NODE id="603" /> Bereitschaftspolizei aufzog. Drei <NODE id="638" />afghanische<NODE id="649" /> Flüchtlinge gelangten andernorts zwar illegal nach <NODE id="701" />Mazedonien<NODE id="711" />, ertranken dort aber in einem Hochwasser führenden Fluss. Über die <NODE id="779" />Ägäis<NODE id="784" /> strömen derweil weiter verzweifelte Menschen nach, weitere Todesopfer sind zu befürchten.
+Nach einem <NODE id="886" />acht Kilometer<NODE id="900" /> langen Marsch kämpften sich <NODE id="929" />einige hundert<NODE id="943" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.t-online.de/nachrichten/ausland/id_77267694/idomeni-fluechtlinge-fliehen-vor-elend-in-griechenland.html@2016-03-14T18:07:24.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.t-online.de/nachrichten/ausland/id_77267694/idomeni-fluechtlinge-fliehen-vor-elend-in-griechenland.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="46" endPos="53" type="location-city" surface="Idomeni" />
+<Entity id="1" startPos="88" endPos="100" type="location" surface="Griechenland" />
+<Entity id="2" startPos="137" endPos="157" type="organization-company" surface="Ströer Content Group" />
+<Entity id="3" startPos="203" endPos="215" type="location" surface="Griechenland" />
+<Entity id="4" startPos="216" endPos="226" type="date" surface="14.03.2016" />
+<Entity id="5" startPos="228" endPos="237" type="time" surface="17:56 Uhr" />
+<Entity id="6" startPos="244" endPos="251" type="location-city" surface="Chamilo" />
+<Entity id="7" startPos="252" endPos="258" type="location-city" surface="Skopje" />
+<Entity id="8" startPos="319" endPos="335" type="location" surface="Nordgriechenland" />
+<Entity id="9" startPos="404" endPos="414" type="location" surface="Mazedonien" />
+<Entity id="10" startPos="479" endPos="486" type="location" surface="Idomeni" />
+<Entity id="11" startPos="499" endPos="507" type="number" surface="Hunderte" />
+<Entity id="12" startPos="592" endPos="603" type="location" surface="griechische" />
+<Entity id="13" startPos="638" endPos="649" type="location" surface="afghanische" />
+<Entity id="14" startPos="701" endPos="711" type="location" surface="Mazedonien" />
+<Entity id="15" startPos="779" endPos="784" type="location" surface="Ägäis" />
+<Entity id="16" startPos="886" endPos="900" type="number" surface="acht Kilometer" />
+<Entity id="17" startPos="929" endPos="943" type="number" surface="einige hundert" /></Entities><Relations />
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Nachrichtenagentur: <NODE id="20" />dpa-AFX<NODE id="27" />
+ |  <NODE id="32" />20.07.2016, 16:42 <NODE id="50" /> |  <NODE id="54" />73<NODE id="56" />   |  <NODE id="62" />0<NODE id="63" />   |  <NODE id="69" />0<NODE id="70" /> 
+<NODE id="72" />MIDLAND<NODE id="79" />/<NODE id="80" />WILMINGTON<NODE id="90" /> (<NODE id="92" />dpa-AFX<NODE id="99" />) - Die Rekord-Fusion in der Chemiebranche nimmt wie erwartet eine wichtige Hürde: Die Aktionäre der <NODE id="200" />US<NODE id="202" />-Großkonzerne <NODE id="216" />DuPont<NODE id="222" /> und <NODE id="227" />Dow Chemical<NODE id="239" /> gaben am <NODE id="249" />Mittwoch<NODE id="257" /> grünes   Licht für den Mega-<NODE id="286" />Zusammenschluß<NODE id="300" />. Mit der neuen <NODE id="316" />DowDuPont<NODE id="325" /> entsteht zunächst der weltgrößte Chemiekonzern noch vor dem alten Spitzenreiter <NODE id="406" />BASF<NODE id="410" /> aus <NODE id="415" />Deutschland<NODE id="426" />. Es ist die größte Firmenhochzeit in   der Geschichte der Branche. Nach dem Zusammengehen soll der Konzern aber in <NODE id="542" />drei<NODE id="546" /> einzelne und jeweils börsennotierte Unternehmen für Agrarchemikalien, Spezialchemikalien und Kunststoffe   aufgespalten werden. Die Fusion, die als reines Aktiengeschäft abgewickelt wird, soll bis zum <NODE id="748" />Jahresende<NODE id="758" /> abgeschlossen werden./jha/he
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wallstreet-online.de/nachricht/8778457-gruenes-licht-aktionaeren-rekordfusion-dow-dupont-huerde@2016-07-20T16:42:08.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-20T14:42:08Z" />
+<feature featureName="indexDate" featureValue="2016-07-20T14:54:31.365Z" />
+<feature featureName="uri" featureValue="http://www.wallstreet-online.de/nachricht/8778457-gruenes-licht-aktionaeren-rekordfusion-dow-dupont-huerde" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="27" type="organization-company" surface="dpa-AFX" />
+<Entity id="1" startPos="32" endPos="50" type="date" surface="20.07.2016, 16:42 " />
+<Entity id="2" startPos="54" endPos="56" type="number" surface="73" />
+<Entity id="3" startPos="62" endPos="63" type="number" surface="0" />
+<Entity id="4" startPos="69" endPos="70" type="number" surface="0" />
+<Entity id="5" startPos="72" endPos="79" type="location-city" surface="MIDLAND" />
+<Entity id="6" startPos="80" endPos="90" type="location-city" surface="WILMINGTON" />
+<Entity id="7" startPos="92" endPos="99" type="organization-company" surface="dpa-AFX" />
+<Entity id="8" startPos="200" endPos="202" type="location" surface="US" />
+<Entity id="9" startPos="216" endPos="222" type="organization-company" surface="DuPont" />
+<Entity id="10" startPos="227" endPos="239" type="organization-company" surface="Dow Chemical" />
+<Entity id="11" startPos="249" endPos="257" type="date" surface="Mittwoch" />
+<Entity id="12" startPos="286" endPos="300" type="trigger" surface="Zusammenschluß" />
+<Entity id="13" startPos="316" endPos="325" type="organization-company" surface="DowDuPont" />
+<Entity id="14" startPos="406" endPos="410" type="organization-company" surface="BASF" />
+<Entity id="15" startPos="415" endPos="426" type="location" surface="Deutschland" />
+<Entity id="16" startPos="542" endPos="546" type="location-street" surface="drei" />
+<Entity id="17" startPos="748" endPos="758" type="date" surface="Jahresende" /></Entities><Relations>
+<Relation id="18" NAME="Merger">
+<Entity id="13" label="new" />
+<Entity id="9" label="old" />
+<Entity id="10" label="old" />
+<Entity id="12" label="trigger" />
+</Relation></Relations>
+</Document>

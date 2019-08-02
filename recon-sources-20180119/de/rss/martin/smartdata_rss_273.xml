@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A52<NODE id="3" /> <NODE id="4" />Mönchengladbach<NODE id="19" /> Richtung <NODE id="29" />Düsseldorf<NODE id="39" /> zwischen <NODE id="49" />Kreuz Neersen<NODE id="62" /> und <NODE id="67" />Kaarst-Nord<NODE id="78" /> <NODE id="79" />3 km<NODE id="83" /> <NODE id="84" />stockender Verkehr<NODE id="102" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#49@2016-04-14T08:43:34.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-14T06:43:34Z" />
+<feature featureName="indexDate" featureValue="2016-04-14T06:44:53.95Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A52" />
+<Entity id="1" startPos="4" endPos="19" type="location-city" surface="Mönchengladbach" />
+<Entity id="2" startPos="29" endPos="39" type="location-city" surface="Düsseldorf" />
+<Entity id="3" startPos="49" endPos="62" type="location" surface="Kreuz Neersen" />
+<Entity id="4" startPos="67" endPos="78" type="location" surface="Kaarst-Nord" />
+<Entity id="5" startPos="79" endPos="83" type="distance" surface="3 km" />
+<Entity id="6" startPos="84" endPos="102" type="trigger" surface="stockender Verkehr" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Streikpause bei der <NODE id="20" />Lufthansa<NODE id="29" /> – Montag geht es weiter<NODE id="53" />
+<NODE id="54" />Erschienen am Sonntag, 08. November 2015 um 2:51 Uhr - GMT<NODE id="112" />
+<NODE id="113" />Lufthansa<NODE id="122" />-Passagiere können kurz aufatmen.<NODE id="155" /> <NODE id="156" />Die Gewerkschaft der Flugbegleiter gönnt der Fluggesellschaft und ihren Kunden heute einen Tag Pause im Arbeitskampf.<NODE id="273" /> <NODE id="274" />Flüge dürften somit...<NODE id="296" />
+<NODE id="297" />Hinzugefügt von SW · abgelegt unter: Alle Agenturen , Schlagzeilen<NODE id="363" />  
+<NODE id="366" />Kommentare<NODE id="376" />
+<NODE id="377" />Sie haben etwas zu sagen?<NODE id="402" />
+<NODE id="403" />Name (required)<NODE id="418" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://pressenachrichten.com/nachrichten/streikpause-bei-der-lufthansa-montag-geht-es-weiter-2936116/@2016-03-10T17:30:40.035+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T16:30:40.035Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T16:30:43.484Z" />
+<feature featureName="uri" featureValue="https://pressenachrichten.com/nachrichten/streikpause-bei-der-lufthansa-montag-geht-es-weiter-2936116/" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="53" type="sentence" surface="Streikpause bei der Lufthansa – Montag geht es weiter" />
+<Entity id="1" startPos="20" endPos="29" type="organization-company" surface="Lufthansa" />
+<Entity id="2" startPos="54" endPos="112" type="sentence" surface="Erschienen am Sonntag, 08. November 2015 um 2:51 Uhr - GMT" />
+<Entity id="3" startPos="113" endPos="122" type="organization-company" surface="Lufthansa" />
+<Entity id="4" startPos="113" endPos="155" type="sentence" surface="Lufthansa-Passagiere können kurz aufatmen." />
+<Entity id="5" startPos="156" endPos="273" type="sentence" surface="Die Gewerkschaft der Flugbegleiter gönnt der Fluggesellschaft und ihren Kunden heute einen Tag Pause im Arbeitskampf." />
+<Entity id="6" startPos="274" endPos="296" type="sentence" surface="Flüge dürften somit..." />
+<Entity id="7" startPos="297" endPos="363" type="sentence" surface="Hinzugefügt von SW · abgelegt unter: Alle Agenturen , Schlagzeilen" />
+<Entity id="8" startPos="366" endPos="376" type="sentence" surface="Kommentare" />
+<Entity id="9" startPos="377" endPos="402" type="sentence" surface="Sie haben etwas zu sagen?" />
+<Entity id="10" startPos="403" endPos="418" type="sentence" surface="Name (required)" /></Entities><Relations />
+</Document>

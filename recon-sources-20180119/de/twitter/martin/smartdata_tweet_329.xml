@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />2013 Volkswagen Golf Autobahn<NODE id="29" /> &#x1f697; #<NODE id="34" />Volkswagen<NODE id="44" /> https://t.co/rhXIlGX2JG I am selling a <NODE id="84" />2013 Volkswagen GTI Autobahn<NODE id="112" />. https://t.co/T0XfXRe8hn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669261866003275776" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-24T21:10:37Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:12:04.636Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="29" type="product" surface="2013 Volkswagen Golf Autobahn" />
+<Entity id="1" startPos="34" endPos="44" type="organization-company" surface="Volkswagen" />
+<Entity id="2" startPos="84" endPos="112" type="product" surface="2013 Volkswagen GTI Autobahn" /></Entities><Relations />
+</Document>

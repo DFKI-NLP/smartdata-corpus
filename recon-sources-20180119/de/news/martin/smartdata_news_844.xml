@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>0
+Bei der Mitgliederversammlung erfährt der künftige Drittliga-Handballclub große Unterstützung
+<NODE id="96" />Hamburg<NODE id="103" />. So ganz ist der <NODE id="121" />Handball-Sport-Verein Hamburg<NODE id="150" /> noch nicht in der Dritten Liga angekommen. Die U23 hat zwar am <NODE id="214" />Wochenende<NODE id="224" /> den Aufstieg geschafft, doch in der Satzung ist noch immer von der Bundesligamannschaft die Rede, die seit der Insolvenz und dem Lizenzentzug im <NODE id="370" />Januar<NODE id="376" /> Geschichte ist. Die Änderung ist in Arbeit, versicherte der neue Ehrenrat <NODE id="451" />André van de Velde<NODE id="469" />, <NODE id="471" />45<NODE id="473" />, den Teilnehmern der Mitgliederversammlung am <NODE id="520" />Montagabend<NODE id="531" /> im Haus des Sports.
+Die Weichen für die Zukunft hatte das höchste Organ des tief gefallenen deutschen Meisters von <NODE id="647" />2011<NODE id="651" /> zu diesem Zeitpunkt bereits gestellt. Knapp ein Drittel der <NODE id="712" />361<NODE id="715" /> Mitglieder, <NODE id="728" />117<NODE id="731" /> insgesamt, waren gekommen. So großes Interesse hatte eine <NODE id="790" />HSV<NODE id="793" />-Mitgliederversammlung lange nicht mehr gefunden.
+Es galt ja auch wichtige Entscheidungen zu treffen, konkret: Den Club nach dem Rücktritt von Präsiden
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.abendblatt.de/sport/article207440769/Evermann-neuer-HSV-Praesident.html@2016-04-19T05:31:08.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-19T03:31:08Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T12:08:59.603Z" />
+<feature featureName="uri" featureValue="http://www.abendblatt.de/sport/article207440769/Evermann-neuer-HSV-Praesident.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="96" endPos="103" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="121" endPos="150" type="organization" surface="Handball-Sport-Verein Hamburg" />
+<Entity id="2" startPos="214" endPos="224" type="date" surface="Wochenende" />
+<Entity id="3" startPos="370" endPos="376" type="date" surface="Januar" />
+<Entity id="4" startPos="451" endPos="469" type="person" surface="André van de Velde" />
+<Entity id="5" startPos="471" endPos="473" type="number" surface="45" />
+<Entity id="6" startPos="520" endPos="531" type="date" surface="Montagabend" />
+<Entity id="7" startPos="647" endPos="651" type="date" surface="2011" />
+<Entity id="8" startPos="712" endPos="715" type="number" surface="361" />
+<Entity id="9" startPos="728" endPos="731" type="number" surface="117" />
+<Entity id="10" startPos="790" endPos="793" type="organization" surface="HSV" /></Entities><Relations />
+</Document>

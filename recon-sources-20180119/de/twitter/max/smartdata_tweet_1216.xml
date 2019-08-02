@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @NRWhistory: <NODE id="16" />Brit<NODE id="20" />. Militärregierung verkündet Fusion zum neuen wirtschaftsstarken Land im Westen. #<NODE id="102" />Düsseldorf<NODE id="112" /> wird Hauptstadt. https://t…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755716625257598976" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-20T10:50:58Z" />
+<feature featureName="indexDate" featureValue="2016-07-20T10:51:01.874Z" />
+<feature featureName="uri" featureValue="https://twitter.com/1884004154/status/755716625257598976" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="20" type="location" surface="Brit" />
+<Entity id="1" startPos="102" endPos="112" type="location-city" surface="Düsseldorf" /></Entities><Relations />
+</Document>

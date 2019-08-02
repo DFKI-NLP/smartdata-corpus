@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />PolizeiBerlin_E<NODE id="19" />: Unsere Kolleg. v Gewerbeaußendienst des #<NODE id="62" />LKA<NODE id="65" /> haben ihre Kontrollen auf der #Fanmeile beendet &amp; sagen für heute ciao. h…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743470362067865600" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T15:48:41Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T15:48:50.204Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Fiqqsohn Nacho/status/743470362067865600" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="19" type="organization" surface="PolizeiBerlin_E" />
+<Entity id="1" startPos="62" endPos="65" type="organization" surface="LKA" /></Entities><Relations />
+</Document>

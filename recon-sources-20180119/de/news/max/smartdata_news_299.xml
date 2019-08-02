@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Foto: dpa
+1 von 1
+<NODE id="18" />Neumünster<NODE id="28" /> | Eine Fußgängerin (<NODE id="49" />53<NODE id="51" />) wurde gestern Morgen am Busbahnhof schwer verletzt. Nach Auskunft der Polizei hatte die Frau gegen <NODE id="152" />9.35 Uhr<NODE id="160" /> die Fahrbahn an der Ecke <NODE id="186" />Kaiserstraße<NODE id="198" /> / <NODE id="201" />Bahnhofstraße<NODE id="214" /> überqueren wollen, als sich ein Linienbus aus Richtung <NODE id="270" />Bahnhofstraße<NODE id="283" /> näherte und in die <NODE id="303" />Kaiserstraße<NODE id="315" /> abbiegen wollte. Der Fahrer (<NODE id="345" />56<NODE id="347" />) bemerkte die Frau und stoppte sofort. Als die Fußgängerin ebenfalls stehen blieb, fuhr der Busfahrer wieder an. In dem Moment setzte jedoch auch die <NODE id="498" />53-Jährige<NODE id="508" /> ihren Weg fort. Der Busfahrer stoppte erneut, kam aber mit dem Rad auf dem Fuß der Frau zum Stehen. Die Fußgängerin erlitt schwere Fußverletzungen. Sie kam mit einem Rettungswagen ins Krankenhaus.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.shz.de/lokales/holsteinischer-courier/schwerer-unfall-am-bahnhof-bus-rollte-auf-fuss-id12329696.html@2016-03-10T15:21:28.827+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:21:28.827Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:21:33.484Z" />
+<feature featureName="uri" featureValue="http://www.shz.de/lokales/holsteinischer-courier/schwerer-unfall-am-bahnhof-bus-rollte-auf-fuss-id12329696.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="28" type="location-city" surface="Neumünster" />
+<Entity id="1" startPos="49" endPos="51" type="number" surface="53" />
+<Entity id="2" startPos="152" endPos="160" type="time" surface="9.35 Uhr" />
+<Entity id="3" startPos="186" endPos="198" type="location-street" surface="Kaiserstraße" />
+<Entity id="4" startPos="201" endPos="214" type="location-street" surface="Bahnhofstraße" />
+<Entity id="5" startPos="270" endPos="283" type="location-street" surface="Bahnhofstraße" />
+<Entity id="6" startPos="303" endPos="315" type="location-street" surface="Kaiserstraße" />
+<Entity id="7" startPos="345" endPos="347" type="number" surface="56" />
+<Entity id="8" startPos="498" endPos="508" type="number" surface="53-Jährige" /></Entities><Relations />
+</Document>

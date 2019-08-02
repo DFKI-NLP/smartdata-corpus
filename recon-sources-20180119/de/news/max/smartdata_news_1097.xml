@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Falsche Vornamen auf <NODE id="21" />200 000<NODE id="28" /> Stimmzetteln
+Artikel per E-Mail empfehlen
+Falsche Vornamen auf <NODE id="92" />200 000<NODE id="99" /> Stimmzetteln
+Empfänger E-Mail
+Tipp: mehrere E-Mailadressen mit Komma      trennen
+persönliche Nachrichtoptional
+Bitte tragen Sie den Code in das      Eingabefeld ein.
+Tipp: das Bild anklicken um den Code neu      zu generieren
+Empfänger E-Mail
+Twittern
+<NODE id="353" />Gießen<NODE id="359" /> (<NODE id="361" />dpa<NODE id="364" />/<NODE id="365" />lhe<NODE id="368" />) - Nach einer Panne müssen im <NODE id="399" />Kreis Gießen<NODE id="411" /> <NODE id="412" />200 000<NODE id="419" /> Stimmzettel für die Kommunalwahl neu gedruckt werden. Grund seien fehlerhafte Vornamen auf der <NODE id="515" />FDP<NODE id="518" />-Kandidatenliste für die Kreistagswahl, teilte die Kreisverwaltung am <NODE id="588" />Montag<NODE id="594" /> mit. In dem einen Fall habe ein Kandidat irrtümlicherweise einen weiblichen Vornamen erhalten. Im anderen schlich sich demnach ein Schreibfehler ein. Die Stimmzettel werden nun nachgedruckt. «Die mit den Briefwahlunterlagen in einigen Kommunen bereits verschickten Stimmzettel behalten ihre Gültigkeit», sagte der Mitteilung zufolge Wahlleiter <NODE id="939" />Ingo Happel<NODE id="950" />.
+© We
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/regionales/hessen/article151986911/Falsche-Vornamen-auf-200-000-Stimmzetteln.html@2016-02-08T16:03:16.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-08T15:03:16Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:31:51.931Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/regionales/hessen/article151986911/Falsche-Vornamen-auf-200-000-Stimmzetteln.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="21" endPos="28" type="number" surface="200 000" />
+<Entity id="1" startPos="92" endPos="99" type="number" surface="200 000" />
+<Entity id="2" startPos="353" endPos="359" type="location-city" surface="Gießen" />
+<Entity id="3" startPos="361" endPos="364" type="organization-company" surface="dpa" />
+<Entity id="4" startPos="365" endPos="368" type="organization-company" surface="lhe" />
+<Entity id="5" startPos="399" endPos="411" type="location" surface="Kreis Gießen" />
+<Entity id="6" startPos="412" endPos="419" type="number" surface="200 000" />
+<Entity id="7" startPos="515" endPos="518" type="organization" surface="FDP" />
+<Entity id="8" startPos="588" endPos="594" type="date" surface="Montag" />
+<Entity id="9" startPos="939" endPos="950" type="person" surface="Ingo Happel" /></Entities><Relations />
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: <NODE id="19" />Erdogan<NODE id="26" /> will das umstrittene <NODE id="48" />Gezi-Park<NODE id="57" />-Projekt doch noch durchsetzen. Vor <NODE id="93" />drei Jahren<NODE id="104" /> gab es heftige Proteste. https://t…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744293138752245760" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-18T22:18:07Z" />
+<feature featureName="indexDate" featureValue="2016-06-18T22:18:14.726Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Ibrahim Ertürk/status/744293138752245760" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="19" endPos="26" type="person" surface="Erdogan" />
+<Entity id="2" startPos="48" endPos="57" type="location" surface="Gezi-Park" />
+<Entity id="3" startPos="93" endPos="104" type="date" surface="drei Jahren" /></Entities><Relations />
+</Document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Auf den Spuren von <NODE id="19" />Nike<NODE id="23" />, <NODE id="25" />Adidas<NODE id="31" />, <NODE id="33" />Under Armour<NODE id="45" /> und <NODE id="50" />Lululemon<NODE id="59" />
+Die neue Kult-Marke im Athletik-Sektor - <NODE id="101" />RYU Apparel Inc<NODE id="116" />.
+<NODE id="118" />Heute<NODE id="123" /> möchte ich Ihnen meinen ganz persönlichen Aktienfavoriten im Bereich Fitness für die kommenden Jahre vorstellen. Die neue Kult-Marke im Athletik-Sektor <NODE id="276" />RYU Apparel Inc<NODE id="291" />. wandelt auf den Spuren der Weltkonzerne <NODE id="333" />Nike<NODE id="337" />, <NODE id="339" />Adidas<NODE id="345" />, <NODE id="347" />Under Armour<NODE id="359" /> und <NODE id="364" />Lululemon<NODE id="373" />. Eine neue Weltmarke im Bereich Sports Fashion voller Leidenschaft und Innovationskraft entsteht. Sie können von Beginn an dabei sein. Ich habe Mode-Visionär und <NODE id="536" />RYU<NODE id="539" /> <NODE id="540" />CEO<NODE id="543" /> <NODE id="544" />Marcello Leone<NODE id="558" /> persönlich in <NODE id="573" />Vancouver<NODE id="582" />, <NODE id="584" />Kanada<NODE id="590" /> besucht. <NODE id="600" />Marcello<NODE id="608" /> ist der Spross einer der führenden Mode-Einzelhändler <NODE id="663" />Nordamerikas<NODE id="675" />. <NODE id="677" />Marcello<NODE id="685" /> ist voller Passion und Energie für sein Projekt <NODE id="734" />RYU - Reserve Your Universe<NODE id="761" />. Rund <NODE id="768" />14%<NODE id="771" /> der <NODE id="776" />RYU<NODE id="779" />-Aktien haben Marcello und seine Familie bereits erworben. Modeprofi <NODE id="848" />Marcello Leone<NODE id="862" /> hat das in <NODE id="874" />Portland<NODE id="882" />, <NODE id="884" />Oregon<NODE id="890" /> gegründete Unternehmen <NODE id="914" />RYU Apparel<NODE id="925" /> von Grund auf neu aufgestellt.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanztreff.de/news/irw-press-ryu-apparel-inc-ac-research-auf-den-spuren-von-nike-adidas-under-armour-und-lulu/11149849@2016-03-16T14:41:01.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-16T13:41:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:28:41.929Z" />
+<feature featureName="uri" featureValue="http://www.finanztreff.de/news/irw-press-ryu-apparel-inc-ac-research-auf-den-spuren-von-nike-adidas-under-armour-und-lulu/11149849" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="23" type="organization-company" surface="Nike" />
+<Entity id="1" startPos="25" endPos="31" type="organization-company" surface="Adidas" />
+<Entity id="2" startPos="33" endPos="45" type="organization-company" surface="Under Armour" />
+<Entity id="3" startPos="50" endPos="59" type="organization-company" surface="Lululemon" />
+<Entity id="4" startPos="101" endPos="116" type="organization-company" surface="RYU Apparel Inc" />
+<Entity id="5" startPos="118" endPos="123" type="date" surface="Heute" />
+<Entity id="6" startPos="276" endPos="291" type="organization-company" surface="RYU Apparel Inc" />
+<Entity id="7" startPos="333" endPos="337" type="organization-company" surface="Nike" />
+<Entity id="8" startPos="339" endPos="345" type="organization-company" surface="Adidas" />
+<Entity id="9" startPos="347" endPos="359" type="organization-company" surface="Under Armour" />
+<Entity id="10" startPos="364" endPos="373" type="organization-company" surface="Lululemon" />
+<Entity id="11" startPos="536" endPos="539" type="organization-company" surface="RYU" />
+<Entity id="12" startPos="540" endPos="543" type="org-position" surface="CEO" />
+<Entity id="13" startPos="544" endPos="558" type="person" surface="Marcello Leone" />
+<Entity id="14" startPos="573" endPos="582" type="location-city" surface="Vancouver" />
+<Entity id="15" startPos="584" endPos="590" type="location" surface="Kanada" />
+<Entity id="16" startPos="600" endPos="608" type="person" surface="Marcello" />
+<Entity id="17" startPos="663" endPos="675" type="location" surface="Nordamerikas" />
+<Entity id="18" startPos="677" endPos="685" type="person" surface="Marcello" />
+<Entity id="19" startPos="734" endPos="761" type="organization-company" surface="RYU - Reserve Your Universe" />
+<Entity id="20" startPos="768" endPos="771" type="number" surface="14%" />
+<Entity id="21" startPos="776" endPos="779" type="organization-company" surface="RYU" />
+<Entity id="22" startPos="848" endPos="862" type="organization-company" surface="Marcello Leone" />
+<Entity id="23" startPos="874" endPos="882" type="location-city" surface="Portland" />
+<Entity id="24" startPos="884" endPos="890" type="location" surface="Oregon" />
+<Entity id="25" startPos="914" endPos="925" type="organization-company" surface="RYU Apparel" /></Entities><Relations>
+<Relation id="26" NAME="OrganizationLeadership">
+<Entity id="13" label="person" />
+<Entity id="11" label="organization" />
+<Entity id="12" label="position" />
+</Relation></Relations>
+</Document>

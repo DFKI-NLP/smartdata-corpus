@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />B34<NODE id="3" />, <NODE id="5" />B518<NODE id="9" /> <NODE id="10" />Schaffhausen<NODE id="22" /> (<NODE id="24" />CH<NODE id="26" />) Richtung <NODE id="37" />Basel<NODE id="42" /> (<NODE id="44" />CH<NODE id="46" />) zwischen <NODE id="57" />Öflingen<NODE id="65" /> und <NODE id="70" />Schwörstadt<NODE id="81" /> Gefahr besteht nicht mehr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=6e8087ac-0d11-438f-89ce-ad5110fd87c4@2016-04-20T13:32:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-20T11:32:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T11:44:09.865Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=6e8087ac-0d11-438f-89ce-ad5110fd87c4" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="B34" />
+<Entity id="1" startPos="5" endPos="9" type="location-street" surface="B518" />
+<Entity id="2" startPos="10" endPos="22" type="location-city" surface="Schaffhausen" />
+<Entity id="3" startPos="24" endPos="26" type="location" surface="CH" />
+<Entity id="4" startPos="37" endPos="42" type="location-city" surface="Basel" />
+<Entity id="5" startPos="44" endPos="46" type="location" surface="CH" />
+<Entity id="6" startPos="57" endPos="65" type="location" surface="Öflingen" />
+<Entity id="7" startPos="70" endPos="81" type="location" surface="Schwörstadt" /></Entities><Relations />
+</Document>

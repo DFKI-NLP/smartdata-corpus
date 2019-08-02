@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht! Telefonbetrüger im <NODE id="29" />Main-Tauber-Kreis<NODE id="46" />.
+
+<NODE id="49" />Polizei Wertheim/Main-Tauber<NODE id="77" />
+<NODE id="78" />Wertheim<NODE id="86" /> <NODE id="87" />Freitag, 05.02.2016<NODE id="106" /> - <NODE id="109" />12:57 Uhr<NODE id="118" />
+Mit einer Betrugsmasche, die derzeit in verschiedenen Variationen von Straftätern angewandt wird, hat ein Unbekannter anfangs der Woche einen älteren Herrn aus dem <NODE id="283" />Main-Tauber-Kreis<NODE id="300" /> hinter's Licht geführt.
+<NODE id="325" />Main-Tauber-Kreis<NODE id="342" />: Vorsicht - Betrügerische Anrufer aktiv!
+Mit einer Betrugsmasche, die derzeit in verschiedenen Variationen von Straftätern angewandt wird, hat ein Unbekannter anfangs der Woche einen älteren Herrn aus dem <NODE id="548" />Main-Tauber-Kreis<NODE id="565" /> hinter's Licht geführt. Der Betrüger meldete sich bei dem <NODE id="624" />79-Jährigen<NODE id="635" /> über das Mobiltelefon und gab sich als Polizeibeamter aus. Angeblich sollte der Senior ihm bei der Ergreifung eines Straftäters in der <NODE id="771" />Türkei<NODE id="777" /> helfen und hierzu einen Bargeldbetrag über ein internationales Geldtransferunternehmen nach dort tätigen. Dieses Geld würde er dann kurze Zeit später wieder in bar von einer Kontaktperson der Polizei persönlich zurückerhal
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.main-echo.de/3977929@2016-02-05T14:03:42.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-05T13:03:42Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:21:02.952Z" />
+<feature featureName="uri" featureValue="http://www.main-echo.de/3977929" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="29" endPos="46" type="location" surface="Main-Tauber-Kreis" />
+<Entity id="1" startPos="49" endPos="77" type="organization" surface="Polizei Wertheim/Main-Tauber" />
+<Entity id="2" startPos="78" endPos="86" type="location-city" surface="Wertheim" />
+<Entity id="3" startPos="87" endPos="106" type="date" surface="Freitag, 05.02.2016" />
+<Entity id="4" startPos="109" endPos="118" type="time" surface="12:57 Uhr" />
+<Entity id="5" startPos="283" endPos="300" type="location" surface="Main-Tauber-Kreis" />
+<Entity id="6" startPos="325" endPos="342" type="location" surface="Main-Tauber-Kreis" />
+<Entity id="7" startPos="548" endPos="565" type="location" surface="Main-Tauber-Kreis" />
+<Entity id="8" startPos="624" endPos="635" type="duration" surface="79-Jährigen" />
+<Entity id="9" startPos="771" endPos="777" type="location" surface="Türkei" /></Entities><Relations />
+</Document>

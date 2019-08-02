@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Umleitung<NODE id="9" /> für die Linien <NODE id="25" />70<NODE id="27" />, <NODE id="29" />75<NODE id="31" />, <NODE id="33" />76<NODE id="35" /> und <NODE id="40" />79<NODE id="42" /> am <NODE id="46" />Sonntag<NODE id="53" /> zu den neuseen classics. Alle Infos dazu gibt's hier: https://t.co/WRZbH0UWpf
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743762413464489984" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T11:09:12Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T11:09:18.615Z" />
+<feature featureName="uri" featureValue="https://twitter.com/LVB direkt/status/743762413464489984" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="trigger" surface="Umleitung" />
+<Entity id="1" startPos="25" endPos="27" type="location-route" surface="70" />
+<Entity id="2" startPos="29" endPos="31" type="location-route" surface="75" />
+<Entity id="3" startPos="33" endPos="35" type="location-route" surface="76" />
+<Entity id="4" startPos="40" endPos="42" type="location-route" surface="79" />
+<Entity id="5" startPos="46" endPos="53" type="date" surface="Sonntag" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="5" label="end_date" />
+<Entity id="1" label="location" />
+<Entity id="3" label="location" />
+<Entity id="4" label="location" />
+<Entity id="2" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="5" label="start_date" />
+</Relation></Relations>
+</Document>

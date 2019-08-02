@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />RenateBergmann<NODE id="18" />: Eben kommt mir ein Mann aus der <NODE id="52" />S-Bahn<NODE id="58" /> entgegen und fragt, wo hier eine Telefonzelle ist. Du liebe Zeit, wie viel Versp…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672512007950700544" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-03T20:25:32Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:32:45.392Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="18" type="person" surface="RenateBergmann" />
+<Entity id="1" startPos="52" endPos="58" type="organization-company" surface="S-Bahn" /></Entities><Relations />
+</Document>

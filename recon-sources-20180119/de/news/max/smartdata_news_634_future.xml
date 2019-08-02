@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Nachrichtenagentur: <NODE id="20" />dpa-AFX<NODE id="27" />
+ |  <NODE id="32" />05.04.2016<NODE id="42" />, <NODE id="44" />11:26<NODE id="49" />  |  <NODE id="54" />58<NODE id="56" />   |  <NODE id="62" />0<NODE id="63" />   |  <NODE id="69" />0<NODE id="70" /> 
+<NODE id="72" />EMDEN<NODE id="77" /> (<NODE id="79" />dpa-AFX<NODE id="86" />) - <NODE id="90" />Volkswagen<NODE id="100" /> schließt einen weiteren <NODE id="125" />Stellenabbau<NODE id="137" /> am Standort <NODE id="150" />Emden<NODE id="155" /> nicht aus. Dort könnten in diesem Jahr   Projekte der <NODE id="210" />VW<NODE id="212" /> -<NODE id="214" />Tochter<NODE id="221" /> <NODE id="222" />Autovision<NODE id="232" /> auslaufen, sagte eine Sprecherin am <NODE id="269" />Dienstag<NODE id="277" />. Wie viele Werkvertragsarbeiter davon betroffen sein könnten, lasse sich derzeit aber noch nicht sagen. Die   <NODE id="388" />Ostfriesen<NODE id="398" />-Zeitung hatte zuvor berichtet, <NODE id="430" />VW<NODE id="432" /> plane die <NODE id="443" />Streichung<NODE id="453" /> von <NODE id="458" />300<NODE id="461" /> Stellen. Diese Zahl können wir so nicht bestätigen, sagte die Sprecherin.
+<NODE id="536" />Anfang März<NODE id="547" /> hatte die Ankündigung von <NODE id="574" />VW<NODE id="576" />, die <NODE id="582" />Ende Mai <NODE id="591" />auslaufenden Verträge von <NODE id="617" />250<NODE id="620" /> Leiharbeitern nicht zu verlängern, für Bestürzung in der <NODE id="678" />ostfriesischen<NODE id="692" /> Hafenstadt gesorgt. <NODE id="713" />Volkswagen<NODE id="723" /> gehört in   <NODE id="736" />Emden<NODE id="741" /> zu den größten Arbeitgebern und beschäftigt mit der Passat-Produktion insgesamt bis zu <NODE id="829" />11 000<NODE id="835" /> Menschen im Nordwesten./woe/DP/stk
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wallstreet-online.de/nachricht/8485167-vw-behaelt-groesseren-stellenabbau-emden@2016-04-05T11:26:45.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-05T09:26:45Z" />
+<feature featureName="indexDate" featureValue="2016-04-05T09:42:10.905Z" />
+<feature featureName="uri" featureValue="http://www.wallstreet-online.de/nachricht/8485167-vw-behaelt-groesseren-stellenabbau-emden" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="27" type="organization-company" surface="dpa-AFX" />
+<Entity id="1" startPos="32" endPos="42" type="date" surface="05.04.2016" />
+<Entity id="2" startPos="44" endPos="49" type="time" surface="11:26" />
+<Entity id="3" startPos="54" endPos="56" type="number" surface="58" />
+<Entity id="4" startPos="62" endPos="63" type="number" surface="0" />
+<Entity id="5" startPos="69" endPos="70" type="number" surface="0" />
+<Entity id="6" startPos="72" endPos="77" type="location-city" surface="EMDEN" />
+<Entity id="7" startPos="79" endPos="86" type="organization-company" surface="dpa-AFX" />
+<Entity id="8" startPos="90" endPos="100" type="organization-company" surface="Volkswagen" />
+<Entity id="9" startPos="125" endPos="137" type="trigger" surface="Stellenabbau" />
+<Entity id="10" startPos="150" endPos="155" type="location-city" surface="Emden" />
+<Entity id="11" startPos="210" endPos="212" type="organization-company" surface="VW" />
+<Entity id="12" startPos="214" endPos="221" type="trigger" surface="Tochter" />
+<Entity id="13" startPos="222" endPos="232" type="organization-company" surface="Autovision" />
+<Entity id="14" startPos="269" endPos="277" type="date" surface="Dienstag" />
+<Entity id="15" startPos="388" endPos="398" type="location" surface="Ostfriesen" />
+<Entity id="16" startPos="430" endPos="432" type="organization-company" surface="VW" />
+<Entity id="17" startPos="443" endPos="453" type="trigger" surface="Streichung" />
+<Entity id="18" startPos="458" endPos="461" type="number" surface="300" />
+<Entity id="19" startPos="536" endPos="547" type="date" surface="Anfang März" />
+<Entity id="20" startPos="574" endPos="576" type="organization-company" surface="VW" />
+<Entity id="21" startPos="582" endPos="591" type="date" surface="Ende Mai " />
+<Entity id="22" startPos="617" endPos="620" type="number" surface="250" />
+<Entity id="23" startPos="678" endPos="692" type="location" surface="ostfriesischen" />
+<Entity id="24" startPos="713" endPos="723" type="organization-company" surface="Volkswagen" />
+<Entity id="25" startPos="736" endPos="741" type="location-city" surface="Emden" />
+<Entity id="26" startPos="829" endPos="835" type="number" surface="11 000" /></Entities><Relations>
+<Relation id="27" NAME="CompanyRelationship">
+<Entity id="11" label="parent" />
+<Entity id="12" label="trigger" />
+<Entity id="13" label="child" />
+</Relation>
+<Relation id="28" NAME="Layoffs">
+<Entity id="8" label="company" />
+<Entity id="10" label="location" />
+<Entity id="9" label="trigger" />
+</Relation>
+<Relation id="29" NAME="Layoffs">
+<Entity id="18" label="num_laid_off" />
+<Entity id="16" label="company" />
+<Entity id="17" label="trigger" />
+</Relation></Relations>
+</Document>

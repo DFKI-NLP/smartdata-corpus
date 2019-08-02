@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Text kleiner größer<NODE id="19" />
+<NODE id="20" />Sperrung aufgehoben –<NODE id="41" /> <NODE id="42" />Drei Verletzte bei <NODE id="61" />Unfall<NODE id="67" /> auf <NODE id="72" />Messeschnellweg<NODE id="87" />
+<NODE id="88" />Nach einem schweren <NODE id="108" />Unfall<NODE id="114" /> ist der <NODE id="123" />Messeschnellweg<NODE id="138" /> am <NODE id="142" />Donnerstagvormittag<NODE id="161" /> für etwa eine Stunde ab <NODE id="186" />Weidetor<NODE id="194" /> in Fahrtrichtung Süden teilweise <NODE id="228" />gesperrt<NODE id="236" /> gewesen.<NODE id="245" /> <NODE id="246" />Nach Angaben der Polizei ereignete sich dort gegen 10 Uhr etwa 100 Meter vor dem <NODE id="327" />Pferdeturm<NODE id="337" /> ein Unfall, bei dem drei Menschen schwer verletzt wurden.<NODE id="395" />
+<NODE id="396" />Voriger Artikel<NODE id="411" />
+<NODE id="412" />Artikel veröffentlicht: Donnerstag, 07.01.2016 10:43 Uhr<NODE id="468" />
+<NODE id="469" />Artikel aktualisiert: Donnerstag, 07.01.2016 18:09 Uhr<NODE id="523" />
+<NODE id="524" />Nächster Artikel<NODE id="540" />
+<NODE id="541" />Der Wagen kam von der Fahrbahn des <NODE id="576" />Messeschnellwegs<NODE id="592" /> ab und überschlug sich.<NODE id="616" />
+<NODE id="617" />Quelle: <NODE id="625" />Christian Elsner<NODE id="641" />
+<NODE id="642" />Tweet<NODE id="647" />
+<NODE id="648" />Hannover<NODE id="656" />.<NODE id="657" /> <NODE id="658" />Nach Angaben der Polizei war ein 21-Jähriger gemeinsam mit einer 29-Jährigen und einem 20 Jahre alten Mann in einem 7er-BMW mit <NODE id="786" />Straubinger<NODE id="797" /> Kennzeichen (BMW) aus <NODE id="820" />Celle<NODE id="825" /> kommend in Richtung Laatzen unterwegs.<NODE id="864" /> <NODE id="865" />Der Wagen kam nach Zeugenaussagen wegen überhöhter Geschwindigkeit gegen 10.10 Uhr vom Messeschnellwe<NODE id="966" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.goettinger-tageblatt.de/Welt/Hannover/Uebersicht/Messeschnellweg-in-Hannover-nach-Unfall-gesperrt@2016-03-10T14:16:58.708+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:16:58.708Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:17:03.319Z" />
+<feature featureName="uri" featureValue="http://www.goettinger-tageblatt.de/Welt/Hannover/Uebersicht/Messeschnellweg-in-Hannover-nach-Unfall-gesperrt" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="19" type="sentence" surface="Text kleiner größer" />
+<Entity id="1" startPos="20" endPos="41" type="sentence" surface="Sperrung aufgehoben –" />
+<Entity id="2" startPos="42" endPos="87" type="sentence" surface="Drei Verletzte bei Unfall auf Messeschnellweg" />
+<Entity id="3" startPos="61" endPos="67" type="trigger" surface="Unfall" />
+<Entity id="4" startPos="72" endPos="87" type="location-street" surface="Messeschnellweg" />
+<Entity id="5" startPos="88" endPos="245" type="sentence" surface="Nach einem schweren Unfall ist der Messeschnellweg am Donnerstagvormittag für etwa eine Stunde ab Weidetor in Fahrtrichtung Süden teilweise gesperrt gewesen." />
+<Entity id="6" startPos="108" endPos="114" type="trigger" surface="Unfall" />
+<Entity id="7" startPos="123" endPos="138" type="location-street" surface="Messeschnellweg" />
+<Entity id="8" startPos="142" endPos="161" type="date" surface="Donnerstagvormittag" />
+<Entity id="9" startPos="186" endPos="194" type="location" surface="Weidetor" />
+<Entity id="10" startPos="228" endPos="236" type="trigger" surface="gesperrt" />
+<Entity id="11" startPos="246" endPos="395" type="sentence" surface="Nach Angaben der Polizei ereignete sich dort gegen 10 Uhr etwa 100 Meter vor dem Pferdeturm ein Unfall, bei dem drei Menschen schwer verletzt wurden." />
+<Entity id="12" startPos="327" endPos="337" type="location" surface="Pferdeturm" />
+<Entity id="13" startPos="396" endPos="411" type="sentence" surface="Voriger Artikel" />
+<Entity id="14" startPos="412" endPos="468" type="sentence" surface="Artikel veröffentlicht: Donnerstag, 07.01.2016 10:43 Uhr" />
+<Entity id="15" startPos="469" endPos="523" type="sentence" surface="Artikel aktualisiert: Donnerstag, 07.01.2016 18:09 Uhr" />
+<Entity id="16" startPos="524" endPos="540" type="sentence" surface="Nächster Artikel" />
+<Entity id="17" startPos="541" endPos="616" type="sentence" surface="Der Wagen kam von der Fahrbahn des Messeschnellwegs ab und überschlug sich." />
+<Entity id="18" startPos="576" endPos="592" type="location-street" surface="Messeschnellwegs" />
+<Entity id="19" startPos="617" endPos="641" type="sentence" surface="Quelle: Christian Elsner" />
+<Entity id="20" startPos="625" endPos="641" type="person" surface="Christian Elsner" />
+<Entity id="21" startPos="642" endPos="647" type="sentence" surface="Tweet" />
+<Entity id="22" startPos="648" endPos="656" type="location-city" surface="Hannover" />
+<Entity id="23" startPos="648" endPos="657" type="sentence" surface="Hannover." />
+<Entity id="24" startPos="658" endPos="864" type="sentence" surface="Nach Angaben der Polizei war ein 21-Jähriger gemeinsam mit einer 29-Jährigen und einem 20 Jahre alten Mann in einem 7er-BMW mit Straubinger Kennzeichen (BMW) aus Celle kommend in Richtung Laatzen unterwegs." />
+<Entity id="25" startPos="786" endPos="797" type="location-city" surface="Straubinger" />
+<Entity id="26" startPos="820" endPos="825" type="location-city" surface="Celle" />
+<Entity id="27" startPos="865" endPos="966" type="sentence" surface="Der Wagen kam nach Zeugenaussagen wegen überhöhter Geschwindigkeit gegen 10.10 Uhr vom Messeschnellwe" /></Entities><Relations>
+<Relation id="28" NAME="Accident">
+<Entity id="4" label="location" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="29" NAME="Accident">
+<Entity id="7" label="location" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="30" NAME="Obstruction">
+<Entity id="8" label="end_date" />
+<Entity id="9" label="start_loc" />
+<Entity id="7" label="location" />
+<Entity id="10" label="trigger" />
+<Entity id="8" label="start_date" />
+</Relation></Relations>
+</Document>

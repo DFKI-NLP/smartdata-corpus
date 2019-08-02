@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wochenrückblick [review] # <NODE id="27" />13<NODE id="29" /> – <NODE id="32" />2016<NODE id="36" />
+<NODE id="37" />4. April 2016<NODE id="50" /> • review • Views: <NODE id="69" />3<NODE id="70" />
+Sicherlich habt Ihr Euch schon gewundert. Der Wochenrückblick ist gestern gar nicht erschienen. Leider hat die Technik sich geweigert. Eigentlich gab es schon seit <NODE id="235" />Samstag<NODE id="242" /> Probleme, die ich aber dank sensationeller Hilfe nun hoffentlich ausbügeln konnte. So kommt der Wochenrückblick nun mit <NODE id="363" />einem Tag<NODE id="372" /> Verspätung.
+<NODE id="385" />Montag<NODE id="391" />
+… nicht nur für Nähanfänger wirft der Fadenlauf immer wieder Fragen auf und durch die Nähkurse weiß ich, das der Fadenlauf für viele von Euch nicht so einfach zu erkennen ist. Oftmals wird er auch einfach ignoriert. Warum Ihr das nicht tun solltet und was der Fadenlauf nun eigentlich genau ist, klären wir in DIESEM Beitrag.
+Dienstag
+… unser Webtipp in dieser Woche ist ein Party- und Homestyling Blog mit dem Namen Decorize, der von Moni und Steffi, zwei <NODE id="849" />Hamburger<NODE id="858" /> Freundinnen mit einer Leidenschaft für Party-Styling, mit viel Liebe geschrieben und mit Leben gefüllt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://allesnaehbar.de/2016/04/04/wochenrueckblick-review-13-2016/@2016-04-04T09:04:47.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-04T07:04:47Z" />
+<feature featureName="indexDate" featureValue="2016-04-04T07:33:31.928Z" />
+<feature featureName="uri" featureValue="http://allesnaehbar.de/2016/04/04/wochenrueckblick-review-13-2016/" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="27" endPos="29" type="date" surface="13" />
+<Entity id="1" startPos="32" endPos="36" type="date" surface="2016" />
+<Entity id="2" startPos="37" endPos="50" type="date" surface="4. April 2016" />
+<Entity id="3" startPos="69" endPos="70" type="number" surface="3" />
+<Entity id="4" startPos="235" endPos="242" type="date" surface="Samstag" />
+<Entity id="5" startPos="363" endPos="372" type="duration" surface="einem Tag" />
+<Entity id="6" startPos="385" endPos="391" type="date" surface="Montag" />
+<Entity id="7" startPos="849" endPos="858" type="location" surface="Hamburger" /></Entities><Relations />
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>In diesen Ländern gibt es gefährliche <NODE id="38" />IS<NODE id="40" />-Ableger
+<NODE id="49" />Washington<NODE id="59" />. <NODE id="61" />Amnesty International<NODE id="82" /> zufolge hätten unkontrollierte Waffenlieferungen an den <NODE id="139" />Irak<NODE id="143" /> die Gewalttaten des <NODE id="164" />Islamischen Staats<NODE id="182" /> ermöglicht. Die Terrormiliz habe den Großteil ihrer Waffen vom <NODE id="246" />irakischen<NODE id="256" /> Militär erbeutet. Diese stammen wiederum aus mehr als zwei dutzend Ländern, darunter <NODE id="342" />Deutschland<NODE id="353" />.  
+Jahrelange großzügige Waffenlieferungen an den <NODE id="404" />Irak<NODE id="408" /> sowie wenig Kontrollen vor Ort haben nach einem Bericht der Menschenrechtsorganisation <NODE id="496" />Amnesty International<NODE id="517" /> zu dem umfangreichen Arsenal der Terrormiliz <NODE id="563" />Islamischer Staat<NODE id="580" /> (<NODE id="582" />IS<NODE id="584" />) geführt. Der <NODE id="599" />IS<NODE id="601" /> nutze hauptsächlich von den <NODE id="630" />irakischen<NODE id="640" /> Streitkräften erbeutete Waffen.
+Diese stammen den Angaben zufolge aus mehr als <NODE id="720" />zwei Dutzend<NODE id="732" /> Ländern, darunter <NODE id="751" />Russland<NODE id="759" />, <NODE id="761" />China<NODE id="766" />, den <NODE id="772" />USA<NODE id="775" /> sowie aus mehreren <NODE id="795" />EU<NODE id="797" />-Ländern inklusive <NODE id="816" />Deutschlands<NODE id="828" />, heißt es in dem am <NODE id="849" />Dienstag<NODE id="857" /> veröffentlichten Bericht weiter. <NODE id="891" />Amnesty<NODE id="898" /> beruft sich in dem Report auf Expertenanalysen v
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rp-online.de/politik/ausland/amnesty-international-waffen-des-is-stammen-auch-aus-deutschland-aid-1.5616284@2015-12-08T11:56:50.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.rp-online.de/politik/ausland/amnesty-international-waffen-des-is-stammen-auch-aus-deutschland-aid-1.5616284" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="38" endPos="40" type="organization" surface="IS" />
+<Entity id="1" startPos="49" endPos="59" type="location-city" surface="Washington" />
+<Entity id="2" startPos="61" endPos="82" type="organization" surface="Amnesty International" />
+<Entity id="3" startPos="139" endPos="143" type="location" surface="Irak" />
+<Entity id="4" startPos="164" endPos="182" type="organization" surface="Islamischen Staats" />
+<Entity id="5" startPos="246" endPos="256" type="location" surface="irakischen" />
+<Entity id="6" startPos="342" endPos="353" type="location" surface="Deutschland" />
+<Entity id="7" startPos="404" endPos="408" type="location" surface="Irak" />
+<Entity id="8" startPos="496" endPos="517" type="organization" surface="Amnesty International" />
+<Entity id="9" startPos="563" endPos="580" type="organization" surface="Islamischer Staat" />
+<Entity id="10" startPos="582" endPos="584" type="organization" surface="IS" />
+<Entity id="11" startPos="599" endPos="601" type="organization" surface="IS" />
+<Entity id="12" startPos="630" endPos="640" type="location" surface="irakischen" />
+<Entity id="13" startPos="720" endPos="732" type="number" surface="zwei Dutzend" />
+<Entity id="14" startPos="751" endPos="759" type="location" surface="Russland" />
+<Entity id="15" startPos="761" endPos="766" type="location" surface="China" />
+<Entity id="16" startPos="772" endPos="775" type="location" surface="USA" />
+<Entity id="17" startPos="795" endPos="797" type="organization" surface="EU" />
+<Entity id="18" startPos="816" endPos="828" type="location" surface="Deutschlands" />
+<Entity id="19" startPos="849" endPos="857" type="date" surface="Dienstag" />
+<Entity id="20" startPos="891" endPos="898" type="organization" surface="Amnesty" /></Entities><Relations />
+</Document>

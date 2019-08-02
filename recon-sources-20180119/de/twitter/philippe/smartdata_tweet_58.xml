@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />Jakob_Juergen<NODE id="17" />: Aus Angst vor einem Verkehrsunfall das Haus nicht mehr verlassen. Sicherheit statt Freiheit?
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667600116166090752" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="person" surface="Jakob_Juergen" /></Entities><Relations />
+</Document>

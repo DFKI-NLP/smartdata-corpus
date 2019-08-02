@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />PD Zwickau<NODE id="10" /> – <NODE id="13" />Zwickau<NODE id="20" />: Radfahrerin bei <NODE id="38" />Verkehrsunfall<NODE id="52" /> schwer verletzt https://t.co/Y4RwGtwNVL
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672232109839257601" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-03T01:53:19Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:31:20.751Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="organization-company" surface="PD Zwickau" />
+<Entity id="1" startPos="13" endPos="20" type="location-city" surface="Zwickau" />
+<Entity id="2" startPos="38" endPos="52" type="trigger" surface="Verkehrsunfall" /></Entities><Relations>
+<Relation id="3" NAME="Accident">
+<Entity id="1" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: Wassersparen? Och ne, viel zu anstrengend...Wie prominente Wasserfrevler die <NODE id="89" />Dürre<NODE id="94" /> in <NODE id="98" />Kalifornien<NODE id="109" /> einfach ignorieren https://t.…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="711326227336978432" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="89" endPos="94" type="disaster-type" surface="Dürre" />
+<Entity id="2" startPos="98" endPos="109" type="location" surface="Kalifornien" /></Entities><Relations>
+<Relation id="3" NAME="Disaster">
+<Entity id="2" label="location" />
+<Entity id="1" label="type" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />BVG<NODE id="4" />_Ubahn wenn schon <NODE id="22" />Ersatzverkehr<NODE id="35" /> dann doch im Berufsverkehr Doppeldecker auf der <NODE id="84" />U8<NODE id="86" />.  Es paßt keiner mehr rein.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="622985855238586369" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-07-20T04:26:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T17:59:05.728Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="4" type="organization-company" surface="BVG" />
+<Entity id="1" startPos="22" endPos="35" type="trigger" surface="Ersatzverkehr" />
+<Entity id="2" startPos="84" endPos="86" type="location-route" surface="U8" /></Entities><Relations>
+<Relation id="3" NAME="RailReplacementService">
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

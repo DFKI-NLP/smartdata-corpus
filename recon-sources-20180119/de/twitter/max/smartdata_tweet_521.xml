@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Münchner S-Bahn<NODE id="15" />: <NODE id="17" />SPD<NODE id="20" /> regt sich über <NODE id="36" />Dobrindt<NODE id="44" /> auf: Totengräber der <NODE id="66" />2<NODE id="67" />. Stammstrecke https://t.co/ZskkajmYCP #<NODE id="107" />Abendzeitung<NODE id="119" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667211756452913153" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-19T05:24:13Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:57:14.958Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="15" type="organization-company" surface="Münchner S-Bahn" />
+<Entity id="1" startPos="17" endPos="20" type="organization" surface="SPD" />
+<Entity id="2" startPos="36" endPos="44" type="person" surface="Dobrindt" />
+<Entity id="3" startPos="66" endPos="67" type="number" surface="2" />
+<Entity id="4" startPos="107" endPos="119" type="organization-company" surface="Abendzeitung" /></Entities><Relations />
+</Document>

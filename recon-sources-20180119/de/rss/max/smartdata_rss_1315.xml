@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Darmstadt<NODE id="9" /> Richtung <NODE id="19" />Heidelberg<NODE id="29" /> zwischen <NODE id="39" />Kreuz Weinheim<NODE id="53" /> und <NODE id="58" />Hirschberg<NODE id="68" /> Gefahr durch Fahrradfahrer auf der Fahrbahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=ffaf5b4d-c6e6-408a-8aeb-2cff344a81e8@2016-07-04T12:15:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-04T10:15:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-04T11:20:00.275Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=ffaf5b4d-c6e6-408a-8aeb-2cff344a81e8" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Darmstadt" />
+<Entity id="1" startPos="19" endPos="29" type="location-city" surface="Heidelberg" />
+<Entity id="2" startPos="39" endPos="53" type="location" surface="Kreuz Weinheim" />
+<Entity id="3" startPos="58" endPos="68" type="location" surface="Hirschberg" /></Entities><Relations />
+</Document>

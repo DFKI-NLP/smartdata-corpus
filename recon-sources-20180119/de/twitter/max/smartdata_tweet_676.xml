@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: Presseschau nach den Landtagswahlen: Ein Erdbeben, das dauerhafte Folgen haben wird https://t.co/hXSZxIftpX
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="709333223516594176" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T10:59:53Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T15:04:55.039Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" /></Entities><Relations />
+</Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>ACHTUNG! Auf der <NODE id="17" />A43<NODE id="20" />.
+
+ACHTUNG! Auf der <NODE id="40" />A43<NODE id="43" /> <NODE id="44" />Münster<NODE id="51" /> - <NODE id="54" />Recklinghausen<NODE id="68" /> kommt Ihnen zwischen <NODE id="90" />Kreuz Münster-Süd<NODE id="107" /> und <NODE id="112" />Dülmen<NODE id="118" /> ein Falschfahrer entgegen! Bitte fahren Sie in <NODE id="166" />beiden Richtungen<NODE id="183" /> besonders vorsichtig! Fahren Sie rechts und überholen Sie nicht. Wir melden, wenn die Gefahr vorüber    ist.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#0@2016-04-06T03:39:21.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="20" type="location-street" surface="A43" />
+<Entity id="1" startPos="40" endPos="43" type="location-street" surface="A43" />
+<Entity id="2" startPos="44" endPos="51" type="location-city" surface="Münster" />
+<Entity id="3" startPos="54" endPos="68" type="location-city" surface="Recklinghausen" />
+<Entity id="4" startPos="90" endPos="107" type="location" surface="Kreuz Münster-Süd" />
+<Entity id="5" startPos="112" endPos="118" type="location" surface="Dülmen" />
+<Entity id="6" startPos="166" endPos="183" type="location" surface="beiden Richtungen" /></Entities><Relations />
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#Job #Stellenangebot https://t.co/aZpRysExAA - <NODE id="47" />Deutsche Bahn AG<NODE id="63" />: Sachbearbeiter Kundendialog / Streckenagent (w/m) <NODE id="115" />8<NODE id="116" />/<NODE id="117" />16<NODE id="119" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745715490182541314" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-22T20:30:02Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T02:09:46.032Z" />
+<feature featureName="uri" featureValue="https://twitter.com/289328233/status/745715490182541314" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="47" endPos="63" type="organization-company" surface="Deutsche Bahn AG" />
+<Entity id="1" startPos="115" endPos="116" type="number" surface="8" />
+<Entity id="2" startPos="117" endPos="119" type="number" surface="16" /></Entities><Relations />
+</Document>

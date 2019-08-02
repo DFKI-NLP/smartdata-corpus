@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Anhänger der islamfeindlichen <NODE id="30" />Pegida<NODE id="36" />-Bewegung stehen während einer Kundgebung auf dem <NODE id="86" />Neumarkt<NODE id="94" /> in <NODE id="98" />Dresden<NODE id="105" />.
+Foto: <NODE id="113" />Sebastian Kahnert<NODE id="130" />
+<NODE id="131" />1<NODE id="132" /> von <NODE id="137" />1<NODE id="138" />
+Im vergangenen Jahr gingen die Übernachtungen um <NODE id="188" />3 Prozent<NODE id="197" /> auf <NODE id="202" />4,3 Millionen<NODE id="215" /> zurück, bei den Ankünften gab es ein Minus von <NODE id="263" />2,3 Prozent<NODE id="274" />. <NODE id="276" />Bettina Bunge<NODE id="289" /> , die <NODE id="296" />Geschäftsführerin<NODE id="313" /> der <NODE id="318" />Dresden Marketing GmbH<NODE id="340" /> (<NODE id="342" />DMG<NODE id="345" />), sprach am <NODE id="358" />Dienstag<NODE id="366" /> von einem «Pegida-Effekt» und einem Imageverlust für die <NODE id="424" />sächsische<NODE id="434" /> Landeshauptstadt aufgrund der fremdenfeindlichen Parolen. Das habe auch eine repräsentative Markenstudie gezeigt.
+«Menschen haben sich in dem Zeitraum bewusst gegen einen <NODE id="606" />Dresden<NODE id="613" />-Besuch entschieden und ihre Privat- oder Geschäftsreise abgesagt, wie wir von Veranstaltern und Branchenvertretern wissen», sagte <NODE id="744" />Bunge<NODE id="749" />. Vor allem bei Gästen aus dem Inland macht sich demnach die Zurückhaltung bemerkbar: <NODE id="835" />2015<NODE id="839" /> sank die Zahl ihrer Übernachtungen um <NODE id="878" />5,1 Prozent<NODE id="889" /> auf rund <NODE id="899" />3,4 Millionen<NODE id="912" />.
+Bei Touristen aus dem Ausland konnte
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.shz.de/deutschland-welt/politik/pegida-effekt-sorgt-fuer-weniger-touristen-in-dresden-id12819336.html@2016-02-23T15:33:22.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T14:33:22Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:38:56.698Z" />
+<feature featureName="uri" featureValue="http://www.shz.de/deutschland-welt/politik/pegida-effekt-sorgt-fuer-weniger-touristen-in-dresden-id12819336.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="30" endPos="36" type="organization" surface="Pegida" />
+<Entity id="1" startPos="86" endPos="94" type="location" surface="Neumarkt" />
+<Entity id="2" startPos="98" endPos="105" type="location-city" surface="Dresden" />
+<Entity id="3" startPos="113" endPos="130" type="person" surface="Sebastian Kahnert" />
+<Entity id="4" startPos="131" endPos="132" type="number" surface="1" />
+<Entity id="5" startPos="137" endPos="138" type="number" surface="1" />
+<Entity id="6" startPos="188" endPos="197" type="number" surface="3 Prozent" />
+<Entity id="7" startPos="202" endPos="215" type="number" surface="4,3 Millionen" />
+<Entity id="8" startPos="263" endPos="274" type="number" surface="2,3 Prozent" />
+<Entity id="9" startPos="276" endPos="289" type="person" surface="Bettina Bunge" />
+<Entity id="10" startPos="296" endPos="313" type="org-position" surface="Geschäftsführerin" />
+<Entity id="11" startPos="318" endPos="340" type="organization-company" surface="Dresden Marketing GmbH" />
+<Entity id="12" startPos="342" endPos="345" type="organization-company" surface="DMG" />
+<Entity id="13" startPos="358" endPos="366" type="date" surface="Dienstag" />
+<Entity id="14" startPos="424" endPos="434" type="location" surface="sächsische" />
+<Entity id="15" startPos="606" endPos="613" type="location-city" surface="Dresden" />
+<Entity id="16" startPos="744" endPos="749" type="person" surface="Bunge" />
+<Entity id="17" startPos="835" endPos="839" type="date" surface="2015" />
+<Entity id="18" startPos="878" endPos="889" type="number" surface="5,1 Prozent" />
+<Entity id="19" startPos="899" endPos="912" type="number" surface="3,4 Millionen" /></Entities><Relations>
+<Relation id="20" NAME="OrganizationLeadership">
+<Entity id="9" label="person" />
+<Entity id="11" label="organization" />
+<Entity id="10" label="position" />
+</Relation></Relations>
+</Document>

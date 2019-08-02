@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @tagesschau: <NODE id="16" />Maas<NODE id="20" /> will von Fluten betroffenen Firmen helfen https://t.co/JmPD4FutcU #<NODE id="88" />Maas<NODE id="92" /> #<NODE id="94" />Hochwasser<NODE id="104" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744274300186804224" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-18T21:03:15Z" />
+<feature featureName="indexDate" featureValue="2016-06-18T21:03:20.077Z" />
+<feature featureName="uri" featureValue="https://twitter.com/DeinAyurvedaNet2/status/744274300186804224" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="20" type="person" surface="Maas" />
+<Entity id="1" startPos="88" endPos="92" type="person" surface="Maas" />
+<Entity id="2" startPos="94" endPos="104" type="disaster-type" surface="Hochwasser" /></Entities><Relations />
+</Document>

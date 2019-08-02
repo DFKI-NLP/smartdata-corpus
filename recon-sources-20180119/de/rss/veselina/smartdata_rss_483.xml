@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />RÖSLAU<NODE id="6" />, <NODE id="8" />LKR. WUNSIEDEL<NODE id="22" />. <NODE id="24" />Drei<NODE id="28" /> leicht verletzte Bewohner und Sachschaden in Höhe von rund <NODE id="88" />100.000 Euro<NODE id="100" /> ist die Bilanz eines Wohnhausbrandes vom frühen Montagmorgen in <NODE id="165" />Brücklas<NODE id="173" /> bei <NODE id="178" />Wunsiedel<NODE id="187" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.bayern.de/oberfranken/news/presse/aktuell/index.html/239576@2016-04-13T00:08:58.533+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-12T22:08:58.533Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T22:09:34.178Z" />
+<feature featureName="uri" featureValue="http://www.polizei.bayern.de/oberfranken/news/presse/aktuell/index.html/239576" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="location" surface="RÖSLAU" />
+<Entity id="1" startPos="8" endPos="22" type="location" surface="LKR. WUNSIEDEL" />
+<Entity id="2" startPos="24" endPos="28" type="number" surface="Drei" />
+<Entity id="3" startPos="88" endPos="100" type="number" surface="100.000 Euro" />
+<Entity id="4" startPos="165" endPos="173" type="location" surface="Brücklas" />
+<Entity id="5" startPos="178" endPos="187" type="location-city" surface="Wunsiedel" /></Entities><Relations />
+</Document>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>News
+<NODE id="5" />January 24, 2016<NODE id="21" /> Neujahrsturnier am <NODE id="41" />23.1.2016<NODE id="50" /> Gestern fand (mit etwas Verspätung) unser diesjähriges Neujahrsturnier statt. Es gingen <NODE id="139" />33<NODE id="141" />..
+<NODE id="144" />January 23<NODE id="154" />, <NODE id="156" />2016<NODE id="160" /> <NODE id="161" />5<NODE id="162" />. Herren Die <NODE id="175" />5<NODE id="176" />. Herren gewinnt zu Hause <NODE id="202" />8<NODE id="203" />:<NODE id="204" />0<NODE id="205" /> gegen <NODE id="212" />Treptow<NODE id="219" /> <NODE id="220" />3<NODE id="221" /> :: Link zum..
+<NODE id="236" />January 23<NODE id="246" />, <NODE id="248" />2016<NODE id="252" /> <NODE id="253" />2<NODE id="254" />. Herren Die <NODE id="267" />2<NODE id="268" />. erkämpft sich mit großem Aufwand ein <NODE id="307" />9<NODE id="308" />:<NODE id="309" />7 <NODE id="311" />bei <NODE id="315" />BSV<NODE id="318" /> Akademie der Wissenschaften. ::Link zum..
+<NODE id="361" />January 23<NODE id="371" />, <NODE id="373" />2016<NODE id="377" /> <NODE id="378" />1<NODE id="379" />. Herren Die <NODE id="392" />1<NODE id="393" />. Herren spielt bei <NODE id="413" />SV Bern<NODE id="420" />. Brauereien<NODE id="432" /> 2<NODE id="434" /> unentschieden. :: Link zum..
+<NODE id="464" />January 21<NODE id="474" />, <NODE id="476" />2016<NODE id="480" /> <NODE id="481" />4<NODE id="482" />. Herren Die<NODE id="494" /> 4<NODE id="496" />. Herren gewinnt zu Hause gegen <NODE id="528" />SV Berliner<NODE id="539" /> Brauereien <NODE id="551" />8<NODE id="552" /> mit <NODE id="557" />8<NODE id="558" />:<NODE id="559" />1<NODE id="560" /> ::Link zum..
+<NODE id="574" />Sv Blau Weiß Petershagen/Eggersorf<NODE id="608" /> - Tischtennis mit Leidenschaft!
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://tt-sv-blau-weiss.de/2016/01/1-herren-5/@2016-01-23T09:34:18.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-23T08:34:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:10:40.478Z" />
+<feature featureName="uri" featureValue="http://tt-sv-blau-weiss.de/2016/01/1-herren-5/" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="5" endPos="21" type="date" surface="January 24, 2016" />
+<Entity id="1" startPos="41" endPos="50" type="date" surface="23.1.2016" />
+<Entity id="2" startPos="139" endPos="141" type="number" surface="33" />
+<Entity id="3" startPos="144" endPos="154" type="date" surface="January 23" />
+<Entity id="4" startPos="156" endPos="160" type="date" surface="2016" />
+<Entity id="5" startPos="161" endPos="162" type="number" surface="5" />
+<Entity id="6" startPos="175" endPos="176" type="number" surface="5" />
+<Entity id="7" startPos="202" endPos="203" type="number" surface="8" />
+<Entity id="8" startPos="204" endPos="205" type="number" surface="0" />
+<Entity id="9" startPos="212" endPos="219" type="location" surface="Treptow" />
+<Entity id="10" startPos="220" endPos="221" type="number" surface="3" />
+<Entity id="11" startPos="236" endPos="246" type="date" surface="January 23" />
+<Entity id="12" startPos="248" endPos="252" type="date" surface="2016" />
+<Entity id="13" startPos="253" endPos="254" type="number" surface="2" />
+<Entity id="14" startPos="267" endPos="268" type="number" surface="2" />
+<Entity id="15" startPos="307" endPos="308" type="number" surface="9" />
+<Entity id="16" startPos="309" endPos="311" type="number" surface="7 " />
+<Entity id="17" startPos="315" endPos="318" type="organization" surface="BSV" />
+<Entity id="18" startPos="361" endPos="371" type="date" surface="January 23" />
+<Entity id="19" startPos="373" endPos="377" type="date" surface="2016" />
+<Entity id="20" startPos="378" endPos="379" type="number" surface="1" />
+<Entity id="21" startPos="392" endPos="393" type="number" surface="1" />
+<Entity id="22" startPos="413" endPos="420" type="organization" surface="SV Bern" />
+<Entity id="23" startPos="432" endPos="434" type="number" surface=" 2" />
+<Entity id="24" startPos="464" endPos="474" type="date" surface="January 21" />
+<Entity id="25" startPos="476" endPos="480" type="date" surface="2016" />
+<Entity id="26" startPos="481" endPos="482" type="number" surface="4" />
+<Entity id="27" startPos="494" endPos="496" type="number" surface=" 4" />
+<Entity id="28" startPos="528" endPos="539" type="organization" surface="SV Berliner" />
+<Entity id="29" startPos="551" endPos="552" type="number" surface="8" />
+<Entity id="30" startPos="557" endPos="558" type="number" surface="8" />
+<Entity id="31" startPos="559" endPos="560" type="number" surface="1" />
+<Entity id="32" startPos="574" endPos="608" type="organization" surface="Sv Blau Weiß Petershagen/Eggersorf" /></Entities><Relations />
+</Document>

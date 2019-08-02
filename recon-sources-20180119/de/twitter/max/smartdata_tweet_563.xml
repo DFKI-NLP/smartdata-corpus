@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Einem <NODE id="6" />UN<NODE id="8" />-Bericht zufolge haben mehr #HIV-Infizierte Zugang zu Medikamenten. https://t.co/NIu02wXtYm
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669205576635834370" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-24T17:26:57Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:11:45.728Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="8" type="organization" surface="UN" /></Entities><Relations />
+</Document>

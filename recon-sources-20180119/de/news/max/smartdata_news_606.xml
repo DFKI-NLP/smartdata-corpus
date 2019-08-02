@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Investoren sichern Stabilität und Wachstum von<NODE id="46" /> Hightex<NODE id="54" /> / Die international erfolgreiche Bauunternehmerin <NODE id="105" />Jelena Baturina<NODE id="120" /> und Fir
+<NODE id="129" />Rimsting<NODE id="137" /> (ots) - Unter neuer Führung geht das <NODE id="175" />Jahrzehnte<NODE id="185" /> alte
+Traditionsunternehmen <NODE id="213" />Hightex<NODE id="220" /> aus dem <NODE id="229" />bayerischen<NODE id="240" /> <NODE id="241" />Rimsting<NODE id="249" /> in das
+Jahr <NODE id="262" />2016<NODE id="266" />. Als strategischer Investor sichert die international
+erfolgreiche Bauunternehmerin <NODE id="351" />Jelena Baturina<NODE id="366" /> mit der Übernahme von
+<NODE id="389" />75 Prozent<NODE id="399" /> der Firmenanteile gemeinsam mit <NODE id="432" />Klaus-Michael Koch<NODE id="450" />, der<NODE id="455" /> 25
+Prozent <NODE id="467" />der Anteile hält, Stabilität, Wachstum und die künftige
+Weltmarktführerschaft von <NODE id="549" />Hightex<NODE id="556" />.
+Firmengründer <NODE id="572" />Koch<NODE id="576" /> steht seit <NODE id="588" />November 2015<NODE id="601" /> wieder <NODE id="609" />an der Spitze<NODE id="622" />
+des über viele Jahre familiengeführten <NODE id="662" />Unternehmens<NODE id="674" />, das er <NODE id="683" />2008<NODE id="687" /> mit
+der Gründung seines neuen Unternehmens, der <NODE id="736" />KOCO AG<NODE id="743" />, verließ. Seither
+realisiert er Projekte im Bereich der sauberen Energien mit dem
+Schwerpunkt: Photovoltaikanlagen auf Industriedächern.
+Neben einer soliden Finanzgr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.onlinepresse.info/node/3057075@2016-03-10T19:35:52.905+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T18:35:52.905Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T18:35:53.483Z" />
+<feature featureName="uri" featureValue="http://www.onlinepresse.info/node/3057075" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="46" endPos="54" type="organization-company" surface=" Hightex" />
+<Entity id="1" startPos="105" endPos="120" type="person" surface="Jelena Baturina" />
+<Entity id="2" startPos="129" endPos="137" type="location-city" surface="Rimsting" />
+<Entity id="3" startPos="175" endPos="185" type="duration" surface="Jahrzehnte" />
+<Entity id="4" startPos="213" endPos="220" type="organization-company" surface="Hightex" />
+<Entity id="5" startPos="229" endPos="240" type="location" surface="bayerischen" />
+<Entity id="6" startPos="241" endPos="249" type="location-city" surface="Rimsting" />
+<Entity id="7" startPos="262" endPos="266" type="date" surface="2016" />
+<Entity id="8" startPos="351" endPos="366" type="person" surface="Jelena Baturina" />
+<Entity id="9" startPos="389" endPos="399" type="number" surface="75 Prozent" />
+<Entity id="10" startPos="432" endPos="450" type="person" surface="Klaus-Michael Koch" />
+<Entity id="11" startPos="455" endPos="467" type="number" surface=" 25&#xA;Prozent " />
+<Entity id="12" startPos="549" endPos="556" type="organization-company" surface="Hightex" />
+<Entity id="13" startPos="572" endPos="576" type="person" surface="Koch" />
+<Entity id="14" startPos="588" endPos="601" type="date" surface="November 2015" />
+<Entity id="15" startPos="609" endPos="622" type="trigger" surface="an der Spitze" />
+<Entity id="16" startPos="662" endPos="674" type="organization-company" surface="Unternehmens" />
+<Entity id="17" startPos="683" endPos="687" type="date" surface="2008" />
+<Entity id="18" startPos="736" endPos="743" type="organization-company" surface="KOCO AG" /></Entities><Relations>
+<Relation id="19" NAME="Identity">
+<Entity id="12" label="source" />
+<Entity id="16" label="target" />
+</Relation>
+<Relation id="20" NAME="OrganizationLeadership">
+<Entity id="13" label="person" />
+<Entity id="16" label="organization" />
+<Entity id="14" label="from" />
+<Entity id="15" label="trigger" />
+</Relation></Relations>
+</Document>

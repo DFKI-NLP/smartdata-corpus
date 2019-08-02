@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Alle Vor- und Nachteile, für Eltern recherchiert und aufbereitet
+Liefert Hintergründe, Meinungen und Antworten zum Thema
+Mit Schultest für Ihr Kind, Gemeinschaftsschul-ABC und Fakten-Check
+Einmalig nur <NODE id="202" />2,90 €<NODE id="208" />
+Für SK Plus Mitglieder gratis! Jetzt freischalten
+<NODE id="259" />14.01.2016<NODE id="269" /> <NODE id="270" />16:06<NODE id="275" />
+ 
+<NODE id="278" />Friedrichshafen<NODE id="293" /> <NODE id="294" />2429<NODE id="298" /> <NODE id="299" />Intersky<NODE id="307" />-Gläubiger fordern <NODE id="326" />4,4 Millionen Euro<NODE id="344" />
+Das <NODE id="349" />Konkursverfahren<NODE id="365" /> der <NODE id="370" />insolventen<NODE id="381" /> <NODE id="382" />Intersky Luftfahrt GmbH<NODE id="405" /> wurde am <NODE id="415" />Donnerstag<NODE id="425" /> vor dem Landesgericht <NODE id="448" />Feldkirch<NODE id="457" /> <NODE id="458" />eröffnet<NODE id="466" />.
+Im <NODE id="471" />November<NODE id="479" /> ging die Fluglinie <NODE id="499" />Intersky<NODE id="507" />, die am <NODE id="516" />Friedrichshafener Flughafen<NODE id="543" /> beheimatet war, <NODE id="560" />pleite<NODE id="566" />. Nun verlangen <NODE id="582" />2429<NODE id="586" /> Gläubiger ihr Geld zurück. Bis <NODE id="618" />Ende des Jahres<NODE id="633" /> soll das Verfahren abgeschlossen sein. |                                Bild: <NODE id="712" />Herbert Guth<NODE id="724" />
+ 
+Hier klicken und teilen:
+Hier Newsletter bestellen:
+Ich möchte den <NODE id="794" />SÜDKURIER<NODE id="803" /> Online Newsletter (erscheint <NODE id="833" />donnerstags<NODE id="844" />) sowie weitere Informationen und Angebote aus der <NODE id="895" />SÜDKURIER GmbH<NODE id="909" /> per E-Mail erhalten. Ein Link zum Wi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.suedkurier.de/region/bodenseekreis-oberschwaben/friedrichshafen/2429-Intersky-Glaeubiger-fordern-4-4-Millionen-Euro;art372474,8445623@2016-03-10T12:55:47.745+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:55:47.745Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:55:53.487Z" />
+<feature featureName="uri" featureValue="http://www.suedkurier.de/region/bodenseekreis-oberschwaben/friedrichshafen/2429-Intersky-Glaeubiger-fordern-4-4-Millionen-Euro;art372474,8445623" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="202" endPos="208" type="number" surface="2,90 €" />
+<Entity id="1" startPos="259" endPos="269" type="date" surface="14.01.2016" />
+<Entity id="2" startPos="270" endPos="275" type="time" surface="16:06" />
+<Entity id="3" startPos="278" endPos="293" type="location" surface="Friedrichshafen" />
+<Entity id="4" startPos="294" endPos="298" type="number" surface="2429" />
+<Entity id="5" startPos="299" endPos="307" type="organization-company" surface="Intersky" />
+<Entity id="6" startPos="326" endPos="344" type="number" surface="4,4 Millionen Euro" />
+<Entity id="7" startPos="349" endPos="365" type="trigger" surface="Konkursverfahren" />
+<Entity id="8" startPos="370" endPos="381" type="trigger" surface="insolventen" />
+<Entity id="9" startPos="382" endPos="405" type="organization-company" surface="Intersky Luftfahrt GmbH" />
+<Entity id="10" startPos="415" endPos="425" type="date" surface="Donnerstag" />
+<Entity id="11" startPos="448" endPos="457" type="location-city" surface="Feldkirch" />
+<Entity id="12" startPos="458" endPos="466" type="trigger" surface="eröffnet" />
+<Entity id="13" startPos="471" endPos="479" type="date" surface="November" />
+<Entity id="14" startPos="499" endPos="507" type="organization-company" surface="Intersky" />
+<Entity id="15" startPos="516" endPos="543" type="location-stop" surface="Friedrichshafener Flughafen" />
+<Entity id="16" startPos="560" endPos="566" type="trigger" surface="pleite" />
+<Entity id="17" startPos="582" endPos="586" type="number" surface="2429" />
+<Entity id="18" startPos="618" endPos="633" type="date" surface="Ende des Jahres" />
+<Entity id="19" startPos="712" endPos="724" type="person" surface="Herbert Guth" />
+<Entity id="20" startPos="794" endPos="803" type="organization" surface="SÜDKURIER" />
+<Entity id="21" startPos="833" endPos="844" type="set" surface="donnerstags" />
+<Entity id="22" startPos="895" endPos="909" type="organization-company" surface="SÜDKURIER GmbH" /></Entities><Relations>
+<Relation id="23" NAME="Insolvency">
+<Entity id="10" label="date" />
+<Entity id="9" label="company" />
+<Entity id="8" label="trigger" />
+<Entity id="12" label="trigger" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="24" NAME="Insolvency">
+<Entity id="13" label="date" />
+<Entity id="14" label="company" />
+<Entity id="15" label="location" />
+<Entity id="16" label="trigger" />
+</Relation></Relations>
+</Document>

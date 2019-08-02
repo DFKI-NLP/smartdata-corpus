@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Methone: Konzernumbau: <NODE id="27" />Deutsche Bahn<NODE id="40" /> erwartet Verlust von <NODE id="62" />zwei Milliarden Euro<NODE id="82" /> https://t.co/3brwO8Cdqo #<NODE id="108" />DieNachrichten<NODE id="122" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671810957119774720" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="27" endPos="40" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="1" startPos="62" endPos="82" type="number" surface="zwei Milliarden Euro" />
+<Entity id="2" startPos="108" endPos="122" type="organization-company" surface="DieNachrichten" /></Entities><Relations />
+</Document>

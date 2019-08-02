@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Heidelberg-Wieblingen<NODE id="21" /> Gefahr durch <NODE id="35" />Hochwasser<NODE id="45" /> (Im Bereich <NODE id="58" />Neckarhamm<NODE id="68" /> / <NODE id="71" />Wundtstraße<NODE id="82" /> wird Überlauf in den nächsten Minuten erwartet)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=7b420924-8e0b-4ea4-a623-5b960cb3b5d5@2016-05-30T09:33:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-30T07:33:00Z" />
+<feature featureName="indexDate" featureValue="2016-05-30T08:29:23.649Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=7b420924-8e0b-4ea4-a623-5b960cb3b5d5" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="21" type="location" surface="Heidelberg-Wieblingen" />
+<Entity id="1" startPos="35" endPos="45" type="disaster-type" surface="Hochwasser" />
+<Entity id="2" startPos="58" endPos="68" type="location" surface="Neckarhamm" />
+<Entity id="3" startPos="71" endPos="82" type="location-street" surface="Wundtstraße" /></Entities><Relations>
+<Relation id="4" NAME="Disaster">
+<Entity id="0" label="location" />
+<Entity id="2" label="location" />
+<Entity id="3" label="location" />
+<Entity id="1" label="type" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: <NODE id="12" />Roland Wick<NODE id="23" /> hat mit <NODE id="32" />52<NODE id="34" /> noch einmal eine Bankausbildung gemacht. Was bewegt einen Mann in diesem Alter dazu? https://t.co/i35Jh8…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671320222574452737" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-30T13:29:48Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:24:35.73Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="12" endPos="23" type="person" surface="Roland Wick" />
+<Entity id="2" startPos="32" endPos="34" type="number" surface="52" /></Entities><Relations />
+</Document>

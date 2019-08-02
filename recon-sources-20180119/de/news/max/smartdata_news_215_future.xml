@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Nachrichten-Ticker
+<NODE id="19" />15:04 <NODE id="25" />  Regierungskreise: Mindestens <NODE id="56" />neun<NODE id="60" /> <NODE id="61" />Deutsche<NODE id="69" /> in <NODE id="73" />Istanbul<NODE id="81" /> getötet
+<NODE id="90" />Istanbul<NODE id="98" /> - Bei dem <NODE id="109" />Selbstmordanschlag<NODE id="127" /> in <NODE id="131" />Istanbul<NODE id="139" /> sind nach Angaben aus <NODE id="162" />türkischen<NODE id="172" /> Regierungskreisen mindestens <NODE id="202" />neun<NODE id="206" /> <NODE id="207" />Deutsche<NODE id="215" /> getötet worden. Das teilte ein Regierungsvertreter, der anonym bleiben wollte, der <NODE id="299" />Deutschen Presse-Agentur<NODE id="323" /> mit.
+<NODE id="329" />14:55<NODE id="334" />   <NODE id="337" />Anadolu<NODE id="344" />: Die meisten Toten in <NODE id="367" />Istanbul<NODE id="375" /> sind <NODE id="381" />Deutsche<NODE id="389" />
+<NODE id="390" />Istanbul<NODE id="398" /> - Die meisten Toten des <NODE id="423" />Anschlags<NODE id="432" /> von <NODE id="437" />Istanbul<NODE id="445" /> sind nach einem Bericht der staatlichen <NODE id="486" />türkischen<NODE id="496" /> Nachrichtenagentur <NODE id="516" />Anadolu<NODE id="523" /> <NODE id="524" />Deutsche<NODE id="532" />. Das meldete <NODE id="546" />Anadolu<NODE id="553" />, ohne eine Quelle dafür zu nennen.
+<NODE id="589" />14:34 <NODE id="595" />  <NODE id="597" />Edeka<NODE id="602" />/<NODE id="603" />Tengelmann<NODE id="613" />-<NODE id="614" />Fusion<NODE id="620" />: Gabriel pocht auf Job- und Standortgarantien
+<NODE id="667" />Berlin<NODE id="673" /> - Bundeswirtschaftsminister <NODE id="702" />Sigmar Gabriel<NODE id="716" /> will dem Handelsriesen <NODE id="740" />Edeka<NODE id="745" /> die umstrittene <NODE id="762" />Übernahme<NODE id="771" /> der Supermarktkette <NODE id="792" />Kaiser's Tengelmann<NODE id="811" /> erlauben, wenn <NODE id="827" />Edeka<NODE id="832" /> unter anderem umfassende Arbeitsplatz- und Standortgarantien abgibt. So müssten <NODE id="913" />97 Prozent<NODE id="923" /> der <NODE id="928" />16 000 <NODE id="935" />Arbeitsp
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.schwarzwaelder-bote.de/inhalt.deutschland-bosch-setzt-auf-massiven-stellenabbau-in-industriesparte.9ffd0a8b-49c1-4bca-85e3-71d4eaadcccf.html@2016-03-10T17:11:16.948+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T16:11:16.948Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T16:11:23.483Z" />
+<feature featureName="uri" featureValue="http://www.schwarzwaelder-bote.de/inhalt.deutschland-bosch-setzt-auf-massiven-stellenabbau-in-industriesparte.9ffd0a8b-49c1-4bca-85e3-71d4eaadcccf.html" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="19" endPos="25" type="time" surface="15:04 " />
+<Entity id="1" startPos="56" endPos="60" type="number" surface="neun" />
+<Entity id="2" startPos="61" endPos="69" type="location" surface="Deutsche" />
+<Entity id="3" startPos="73" endPos="81" type="location-city" surface="Istanbul" />
+<Entity id="4" startPos="90" endPos="98" type="location-city" surface="Istanbul" />
+<Entity id="5" startPos="109" endPos="127" type="disaster-type" surface="Selbstmordanschlag" />
+<Entity id="6" startPos="131" endPos="139" type="location-city" surface="Istanbul" />
+<Entity id="7" startPos="162" endPos="172" type="location" surface="türkischen" />
+<Entity id="8" startPos="202" endPos="206" type="number" surface="neun" />
+<Entity id="9" startPos="207" endPos="215" type="location" surface="Deutsche" />
+<Entity id="10" startPos="299" endPos="323" type="organization-company" surface="Deutschen Presse-Agentur" />
+<Entity id="11" startPos="329" endPos="334" type="time" surface="14:55" />
+<Entity id="12" startPos="337" endPos="344" type="organization-company" surface="Anadolu" />
+<Entity id="13" startPos="367" endPos="375" type="location-city" surface="Istanbul" />
+<Entity id="14" startPos="381" endPos="389" type="location" surface="Deutsche" />
+<Entity id="15" startPos="390" endPos="398" type="location-city" surface="Istanbul" />
+<Entity id="16" startPos="423" endPos="432" type="disaster-type" surface="Anschlags" />
+<Entity id="17" startPos="437" endPos="445" type="location-city" surface="Istanbul" />
+<Entity id="18" startPos="486" endPos="496" type="location" surface="türkischen" />
+<Entity id="19" startPos="516" endPos="523" type="organization-company" surface="Anadolu" />
+<Entity id="20" startPos="524" endPos="532" type="location" surface="Deutsche" />
+<Entity id="21" startPos="546" endPos="553" type="organization-company" surface="Anadolu" />
+<Entity id="22" startPos="589" endPos="595" type="time" surface="14:34 " />
+<Entity id="23" startPos="597" endPos="602" type="organization-company" surface="Edeka" />
+<Entity id="24" startPos="603" endPos="613" type="organization-company" surface="Tengelmann" />
+<Entity id="25" startPos="614" endPos="620" type="trigger" surface="Fusion" />
+<Entity id="26" startPos="667" endPos="673" type="location-city" surface="Berlin" />
+<Entity id="27" startPos="702" endPos="716" type="person" surface="Sigmar Gabriel" />
+<Entity id="28" startPos="740" endPos="745" type="organization-company" surface="Edeka" />
+<Entity id="29" startPos="762" endPos="771" type="trigger" surface="Übernahme" />
+<Entity id="30" startPos="792" endPos="811" type="organization-company" surface="Kaiser's Tengelmann" />
+<Entity id="31" startPos="827" endPos="832" type="organization-company" surface="Edeka" />
+<Entity id="32" startPos="913" endPos="923" type="number" surface="97 Prozent" />
+<Entity id="33" startPos="928" endPos="935" type="number" surface="16 000 " /></Entities><Relations>
+<Relation id="34" NAME="Acquisition">
+<Entity id="29" label="trigger" />
+<Entity id="30" label="acquired" />
+<Entity id="28" label="buyer" />
+</Relation>
+<Relation id="35" NAME="Disaster">
+<Entity id="6" label="location" />
+<Entity id="5" label="type" />
+<Entity id="8" label="victims" />
+</Relation>
+<Relation id="36" NAME="Disaster">
+<Entity id="17" label="location" />
+<Entity id="16" label="type" />
+</Relation></Relations>
+</Document>

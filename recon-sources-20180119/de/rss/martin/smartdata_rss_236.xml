@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A24<NODE id="3" /> <NODE id="4" />Hamburg<NODE id="11" /> Richtung <NODE id="21" />Berlin<NODE id="27" /> zwischen <NODE id="37" />Hagenow<NODE id="44" /> und <NODE id="49" />Wöbbelin<NODE id="57" /> ist nach einem <NODE id="73" />Unfall<NODE id="79" /> die linke Spur <NODE id="95" />gesperrt<NODE id="103" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#27@2016-02-24T17:20:19.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T16:20:19Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:01:19.234Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A24" />
+<Entity id="1" startPos="4" endPos="11" type="location-city" surface="Hamburg" />
+<Entity id="2" startPos="21" endPos="27" type="location-city" surface="Berlin" />
+<Entity id="3" startPos="37" endPos="44" type="location" surface="Hagenow" />
+<Entity id="4" startPos="49" endPos="57" type="location" surface="Wöbbelin" />
+<Entity id="5" startPos="73" endPos="79" type="trigger" surface="Unfall" />
+<Entity id="6" startPos="95" endPos="103" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="7" NAME="Accident">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation>
+<Relation id="8" NAME="Obstruction">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

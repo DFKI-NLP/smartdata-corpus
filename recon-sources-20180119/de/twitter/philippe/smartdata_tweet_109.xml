@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wow, bei der #<NODE id="14" />Lufthansa<NODE id="23" /> wird <NODE id="29" />gestreikt<NODE id="38" />. Die hatten wir vor lauter #BER, #WMGate und #<NODE id="85" />Griechenland<NODE id="97" /> voll vergessen.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="664056276096258048" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="23" type="organization-company" surface="Lufthansa" />
+<Entity id="1" startPos="29" endPos="38" type="trigger" surface="gestreikt" />
+<Entity id="2" startPos="85" endPos="97" type="location" surface="Griechenland" /></Entities><Relations>
+<Relation id="3" NAME="Strike">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

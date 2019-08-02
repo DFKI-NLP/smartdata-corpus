@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Unfall<NODE id="6" /> bei <NODE id="11" />Katzensee<NODE id="20" />: <NODE id="22" />Stau<NODE id="26" /> auf der <NODE id="35" />A1<NODE id="37" />: Auf der <NODE id="47" />A1<NODE id="49" /> in Richtung <NODE id="62" />St. Gallen<NODE id="72" /> ist es in den frühen Morgenstunden zu einem <NODE id="117" />Unfall<NODE id="123" /> gekommen....
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671251214336589825" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-30T08:55:35Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:24:05.729Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="trigger" surface="Unfall" />
+<Entity id="1" startPos="11" endPos="20" type="location-city" surface="Katzensee" />
+<Entity id="2" startPos="22" endPos="26" type="trigger" surface="Stau" />
+<Entity id="3" startPos="35" endPos="37" type="location-street" surface="A1" />
+<Entity id="4" startPos="47" endPos="49" type="location-street" surface="A1" />
+<Entity id="5" startPos="62" endPos="72" type="location-city" surface="St. Gallen" />
+<Entity id="6" startPos="117" endPos="123" type="trigger" surface="Unfall" /></Entities><Relations>
+<Relation id="7" NAME="Accident">
+<Entity id="1" label="location" />
+<Entity id="0" label="trigger" />
+</Relation>
+<Relation id="8" NAME="Accident">
+<Entity id="4" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="5" label="direction" />
+</Relation>
+<Relation id="9" NAME="TrafficJam">
+<Entity id="3" label="location" />
+<Entity id="2" label="trigger" />
+<Entity id="5" label="direction" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />BMW M4 CS<NODE id="9" />: Münchner schieben streng limitierten <NODE id="48" />GTS<NODE id="51" />-Ableger nach
+von <NODE id="69" />Alexander Schwarz<NODE id="86" />
+Der neue <NODE id="96" />BMW M4 CS<NODE id="105" /> soll die Lücke zwischen <NODE id="130" />M4<NODE id="132" /> und <NODE id="137" />M4 GTS<NODE id="143" /> schließen und nur <NODE id="162" />60<NODE id="164" /> Mal gebaut werden. © <NODE id="186" />BMW<NODE id="189" />
+<NODE id="190" />BMW<NODE id="193" /> hat angekündigt, eine leicht entschärfte Version des Sportwagens <NODE id="259" />BMW M4 GTS<NODE id="269" /> nachzulegen. Die neue Clubsport-Variante <NODE id="311" />BMW M4 CS<NODE id="320" /> soll allerdings nur in einer extrem übersichtlichen Kleinserie entstehen.
+<NODE id="395" />BMW<NODE id="398" /> hat für den <NODE id="411" />BMW M4<NODE id="417" /> eine neue Clubsport-Version in Aussicht gestellt. Damit reagieren die Münchner auf die große Nachfrage nach dem ultrasportlichen <NODE id="547" />BMW M4 GTS<NODE id="557" />, dessen limitierte Auflage von <NODE id="589" />700<NODE id="592" /> Stück bereits restlos ausverkauft ist. Allerdings fällt die geplante Stückzahl des neuen <NODE id="682" />BMW M4 CS<NODE id="691" /> nicht gerade größer aus. Von dem leicht entschärften Performance-Modell sollen gerade einmal <NODE id="785" />60<NODE id="787" /> gebaut werden.
+Topspeed-Anhebung auf <NODE id="825" />280<NODE id="828" /> km/h
+Mit dem <NODE id="842" />BMW M4 CS<NODE id="851" /> wollen die Bayern gleichzeitig die Lücke zwischen <NODE id="902" />M4<NODE id="904" /> und <NODE id="909" />M4 GTS<NODE id="915" /> schließen. So bleibt dem <NODE id="941" />M4 CS<NODE id="946" /> im Gegensatz zum GTS
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.auto-service.de/neuwagen/neue-modelle/78134-bmw-m4-cs-muenchner-schieben-streng-limitierten-gts-ableger.html@2016-04-07T15:03:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-07T13:03:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-07T13:08:10.904Z" />
+<feature featureName="uri" featureValue="http://www.auto-service.de/neuwagen/neue-modelle/78134-bmw-m4-cs-muenchner-schieben-streng-limitierten-gts-ableger.html" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="product" surface="BMW M4 CS" />
+<Entity id="1" startPos="48" endPos="51" type="product" surface="GTS" />
+<Entity id="2" startPos="69" endPos="86" type="person" surface="Alexander Schwarz" />
+<Entity id="3" startPos="96" endPos="105" type="product" surface="BMW M4 CS" />
+<Entity id="4" startPos="130" endPos="132" type="product" surface="M4" />
+<Entity id="5" startPos="137" endPos="143" type="product" surface="M4 GTS" />
+<Entity id="6" startPos="162" endPos="164" type="number" surface="60" />
+<Entity id="7" startPos="186" endPos="189" type="organization-company" surface="BMW" />
+<Entity id="8" startPos="190" endPos="193" type="organization-company" surface="BMW" />
+<Entity id="9" startPos="259" endPos="269" type="product" surface="BMW M4 GTS" />
+<Entity id="10" startPos="311" endPos="320" type="product" surface="BMW M4 CS" />
+<Entity id="11" startPos="395" endPos="398" type="organization-company" surface="BMW" />
+<Entity id="12" startPos="411" endPos="417" type="product" surface="BMW M4" />
+<Entity id="13" startPos="547" endPos="557" type="product" surface="BMW M4 GTS" />
+<Entity id="14" startPos="589" endPos="592" type="number" surface="700" />
+<Entity id="15" startPos="682" endPos="691" type="product" surface="BMW M4 CS" />
+<Entity id="16" startPos="785" endPos="787" type="number" surface="60" />
+<Entity id="17" startPos="825" endPos="828" type="number" surface="280" />
+<Entity id="18" startPos="842" endPos="851" type="product" surface="BMW M4 CS" />
+<Entity id="19" startPos="902" endPos="904" type="product" surface="M4" />
+<Entity id="20" startPos="909" endPos="915" type="product" surface="M4 GTS" />
+<Entity id="21" startPos="941" endPos="946" type="product" surface="M4 CS" /></Entities><Relations />
+</Document>

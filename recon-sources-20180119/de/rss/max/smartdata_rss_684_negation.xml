@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />L1036<NODE id="5" /> <NODE id="6" />Weinsberg<NODE id="15" /> Richtung <NODE id="25" />Kupferzell<NODE id="35" /> zwischen <NODE id="45" />Cappel<NODE id="51" /> und <NODE id="56" />Untersöllbach<NODE id="69" /> Gefahr besteht nicht mehr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=dfe30df1-0fe4-46e6-b2ba-a45eb925863a@2016-04-10T09:40:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-10T07:40:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-10T07:49:55.123Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=dfe30df1-0fe4-46e6-b2ba-a45eb925863a" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="location-street" surface="L1036" />
+<Entity id="1" startPos="6" endPos="15" type="location-city" surface="Weinsberg" />
+<Entity id="2" startPos="25" endPos="35" type="location-city" surface="Kupferzell" />
+<Entity id="3" startPos="45" endPos="51" type="location" surface="Cappel" />
+<Entity id="4" startPos="56" endPos="69" type="location" surface="Untersöllbach" /></Entities><Relations />
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>POL-CLP: <NODE id="9" />Saterland<NODE id="18" /> - Zeugensuche nach <NODE id="38" />Unfall<NODE id="44" />
+<NODE id="45" />30.12.2015<NODE id="55" /> – <NODE id="58" />17:19<NODE id="63" />
+<NODE id="64" />Cloppenburg<NODE id="75" />/<NODE id="76" />Vechta<NODE id="82" /> (ots) - Die <NODE id="95" />Polizei <NODE id="103" />Friesoythe<NODE id="113" /> sucht nach einem <NODE id="131" />Verkehrsunfall<NODE id="145" /> am <NODE id="149" />Mittwoch<NODE id="157" /> nach Zeugen. Gegen <NODE id="177" />11.55 Uhr<NODE id="186" /> befuhr ein <NODE id="198" />75-Jähriger<NODE id="209" /> aus <NODE id="214" />Lilienthal<NODE id="224" /> die <NODE id="229" />B 401<NODE id="234" /> in Richtung <NODE id="247" />Oldenburg<NODE id="256" />. Kurz nach der Ausfahrt <NODE id="281" />Friesoythe<NODE id="291" /> musste er einem Gegenstand, der auf der Fahrbahn lag, ausweichen. Der Pkw des <NODE id="370" />75-Jährigen<NODE id="381" /> streifte die Leitplanke. Anschließend fuhr der Pkw-Fahrer weiter und ließ den Unfall nachträglich aufnehmen. Die Polizei sucht nun Zeugen zu dem Unfall und zu dem Gegenstand, der auf der Fahrbahn lag. Hinweise nimmt die <NODE id="602" />Polizei Friesoythe<NODE id="620" /> (Tel. <NODE id="627" />04491-93160<NODE id="638" />) entgegen.
+Rückfragen bitte an:
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.presseportal.de/blaulicht/pm/70090/3214556@2016-03-10T15:22:36.321+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.presseportal.de/blaulicht/pm/70090/3214556" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="18" type="location" surface="Saterland" />
+<Entity id="1" startPos="38" endPos="44" type="trigger" surface="Unfall" />
+<Entity id="2" startPos="45" endPos="55" type="date" surface="30.12.2015" />
+<Entity id="3" startPos="58" endPos="63" type="time" surface="17:19" />
+<Entity id="4" startPos="64" endPos="75" type="location-city" surface="Cloppenburg" />
+<Entity id="5" startPos="76" endPos="82" type="location-city" surface="Vechta" />
+<Entity id="6" startPos="95" endPos="113" type="organization" surface="Polizei Friesoythe" />
+<Entity id="7" startPos="103" endPos="113" type="location-city" surface="Friesoythe" />
+<Entity id="8" startPos="131" endPos="145" type="trigger" surface="Verkehrsunfall" />
+<Entity id="9" startPos="149" endPos="157" type="date" surface="Mittwoch" />
+<Entity id="10" startPos="177" endPos="186" type="time" surface="11.55 Uhr" />
+<Entity id="11" startPos="198" endPos="209" type="number" surface="75-Jähriger" />
+<Entity id="12" startPos="214" endPos="224" type="location-city" surface="Lilienthal" />
+<Entity id="13" startPos="229" endPos="234" type="location-street" surface="B 401" />
+<Entity id="14" startPos="247" endPos="256" type="location-city" surface="Oldenburg" />
+<Entity id="15" startPos="281" endPos="291" type="location" surface="Friesoythe" />
+<Entity id="16" startPos="370" endPos="381" type="number" surface="75-Jährigen" />
+<Entity id="17" startPos="602" endPos="620" type="organization" surface="Polizei Friesoythe" />
+<Entity id="18" startPos="627" endPos="638" type="number" surface="04491-93160" /></Entities><Relations>
+<Relation id="19" NAME="Accident">
+<Entity id="0" label="location" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="20" NAME="Accident">
+<Entity id="7" label="location" />
+<Entity id="8" label="trigger" />
+<Entity id="9" label="start_date" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die Finanzierungen der Woche diesmal mit <NODE id="41" />Deutsche Bahn<NODE id="54" />, <NODE id="56" />Francotyp-Postalia<NODE id="74" /> und <NODE id="79" />Mercedes-Benz Bank<NODE id="97" /> https://t.co/QJ2Ugb0bYt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754938872778350592" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T07:20:28Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T07:20:34.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/282475987/status/754938872778350592" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="41" endPos="54" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="1" startPos="56" endPos="74" type="organization-company" surface="Francotyp-Postalia" />
+<Entity id="2" startPos="79" endPos="97" type="organization-company" surface="Mercedes-Benz Bank" /></Entities><Relations />
+</Document>

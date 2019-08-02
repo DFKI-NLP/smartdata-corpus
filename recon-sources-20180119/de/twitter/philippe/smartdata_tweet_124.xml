@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @de_hill: @<NODE id="14" />DHLPaket<NODE id="22" /> Großartige Leistung ein Paket wegen falscher Ziffer in der PLZ nach <NODE id="91" />Amerika<NODE id="98" /> zurück zu schicken. Straße und Stadt war…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671095685102596096" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="22" type="organization-company" surface="DHLPaket" />
+<Entity id="1" startPos="91" endPos="98" type="location" surface="Amerika" /></Entities><Relations />
+</Document>

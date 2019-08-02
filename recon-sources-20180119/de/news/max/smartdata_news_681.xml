@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>DJ <NODE id="3" />aktiencheck.de AG<NODE id="20" />: Großartige Bohrresultate - -3-
+<NODE id="53" />12.01.16<NODE id="61" /> <NODE id="62" />13:02<NODE id="67" />
+<NODE id="68" />Dow Jones <NODE id="78" />Newswires
+DJ <NODE id="91" />aktiencheck.de AG<NODE id="108" />: Großartige Bohrresultate - Kursrallye voraus! Gold-Top-Pick vor Entdeckung einer Weltklasse-Goldlagerstätte - Erfolgreiche Finanzierung über CAD <NODE id="255" />3,4 Mio.<NODE id="263" /> stark überzeichnet. Strong Outperformer!
+<NODE id="305" />DGAP-Media<NODE id="315" /> / <NODE id="318" />2016-01-12<NODE id="328" /> / <NODE id="331" />13:02<NODE id="336" />
+Gold-Top-Pick vor Entdeckung einer Weltklasse-Goldlagerstätte
+Unser aktueller Gold-Top-Pick Bonterra Resources Inc. (ISIN: CA0<NODE id="463" />9852<NODE id="467" />X<NODE id="468" />3058<NODE id="472" />, WKN: A<NODE id="480" />12<NODE id="482" />AZ<NODE id="484" />5<NODE id="485" />, Ticker: <NODE id="495" />9<NODE id="496" />BR<NODE id="498" />1<NODE id="499" />, TSX.V Symbol: BTR)
+startet mit großartigen Bohrresultaten ins neue Börsenjahr <NODE id="579" />2016<NODE id="583" />.
+Mit den Bohrlöchern <NODE id="605" />drei<NODE id="609" /> und <NODE id="614" />vier<NODE id="618" /> wurde das erste Bohrprogramm auf Gladiator-Gold-Projekt inmitten des
+Weltklasse-Goldgürtels Abitibi erfolgreich abgeschlossen. Die Goldinvestoren zeigen sich begeistert. Kurz vor
+Weihnachten konnte Bonterra Resources Inc. in einer deutlich überzeichneten Privatplatzierung Eigenkapital im Volumen
+von brutto <NODE id="927" />3,4 Mio. USD <NODE id="940" />einsa
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.aktiencheck.de/news/Artikel-DJ_aktiencheck_de_AG_Grossartige_Bohrresultate_3-6950547@2016-03-10T13:18:51.637+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:18:51.637Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:18:53.484Z" />
+<feature featureName="uri" featureValue="http://www.aktiencheck.de/news/Artikel-DJ_aktiencheck_de_AG_Grossartige_Bohrresultate_3-6950547" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="20" type="organization-company" surface="aktiencheck.de AG" />
+<Entity id="1" startPos="53" endPos="61" type="date" surface="12.01.16" />
+<Entity id="2" startPos="62" endPos="67" type="time" surface="13:02" />
+<Entity id="3" startPos="68" endPos="78" type="organization" surface="Dow Jones " />
+<Entity id="4" startPos="91" endPos="108" type="organization-company" surface="aktiencheck.de AG" />
+<Entity id="5" startPos="255" endPos="263" type="number" surface="3,4 Mio." />
+<Entity id="6" startPos="305" endPos="315" type="organization-company" surface="DGAP-Media" />
+<Entity id="7" startPos="318" endPos="328" type="date" surface="2016-01-12" />
+<Entity id="8" startPos="331" endPos="336" type="time" surface="13:02" />
+<Entity id="9" startPos="463" endPos="467" type="number" surface="9852" />
+<Entity id="10" startPos="468" endPos="472" type="number" surface="3058" />
+<Entity id="11" startPos="480" endPos="482" type="number" surface="12" />
+<Entity id="12" startPos="484" endPos="485" type="number" surface="5" />
+<Entity id="13" startPos="495" endPos="496" type="number" surface="9" />
+<Entity id="14" startPos="498" endPos="499" type="number" surface="1" />
+<Entity id="15" startPos="579" endPos="583" type="date" surface="2016" />
+<Entity id="16" startPos="605" endPos="609" type="number" surface="drei" />
+<Entity id="17" startPos="614" endPos="618" type="number" surface="vier" />
+<Entity id="18" startPos="927" endPos="940" type="number" surface="3,4 Mio. USD " /></Entities><Relations />
+</Document>

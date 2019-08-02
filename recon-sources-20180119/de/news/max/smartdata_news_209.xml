@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" /> Nordic Yards<NODE id="13" />: <NODE id="15" />Genting<NODE id="22" /> kauft <NODE id="29" />drei<NODE id="33" /> weitere Werften in <NODE id="53" />Deutschland<NODE id="64" />
+<NODE id="65" />Nordic Yards<NODE id="77" />: <NODE id="79" />Genting<NODE id="86" /> kauft <NODE id="93" />drei<NODE id="97" /> weitere Werften in <NODE id="117" />Deutschland<NODE id="128" />
+<NODE id="129" />02. März 2016<NODE id="142" />, aktualisiert heute, <NODE id="164" />16:50 Uhr<NODE id="173" />
+Quelle:  <NODE id="183" />Handelsblatt<NODE id="195" /> Online
+Weltweit haben Werften kaum noch freie Baukapazitäten für neue Kreuzfahrtschiffe. Das Geschäft boomt. Deshalb baut der <NODE id="322" />asiatische<NODE id="332" /> <NODE id="333" />Genting<NODE id="340" />-Konzern seine Schiffe gleich selbst und kauft dazu Werften in <NODE id="403" />Deutschland<NODE id="414" />.
+<NODE id="416" />Hongkong<NODE id="424" />/<NODE id="425" />Bremerhaven<NODE id="436" />Der <NODE id="440" />asiatische<NODE id="450" /> <NODE id="451" />Genting<NODE id="458" />-Konzern setzt im boomenden Markt für Kreuzfahrtschiffe auf <NODE id="518" />Deutschland<NODE id="529" />. Nach dem <NODE id="540" />Erwerb<NODE id="546" /> der <NODE id="551" />Bremerhavener<NODE id="564" /> <NODE id="565" />Lloyd-Werft<NODE id="576" /> verkündete <NODE id="588" />Genting<NODE id="595" /> die <NODE id="600" />Übernahme<NODE id="609" /> der <NODE id="614" />drei<NODE id="618" /> Werften von <NODE id="631" />Nordic Yards<NODE id="643" /> in <NODE id="647" />Wismar<NODE id="653" />, <NODE id="655" />Warnemünde<NODE id="665" /> und <NODE id="670" />Stralsund<NODE id="679" /> für <NODE id="684" />230,6 Millionen Euro<NODE id="704" />.
+Gemeinsam mit <NODE id="720" />Bremerhaven<NODE id="731" /> sollen die <NODE id="743" />drei<NODE id="747" /> Standorte in <NODE id="761" />Mecklenburg-Vorpommern<NODE id="783" /> die globale Kreuzfahrtstrategie des Konzerns für das <NODE id="837" />nächste Jahrzehnt<NODE id="854" /> sichern. Die <NODE id="868" />Übernahmen<NODE id="878" /> seien für <NODE id="889" />Genting<NODE id="896" /> strategisch wichtig, sagte <NODE id="924" />Vorstandschef<NODE id="937" /> <NODE id="938" />Tan Sri Li<NODE id="948" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wiwo.de/nordic-yards-genting-kauft-drei-weitere-werften-in-deutschland/13044324.html@2016-03-02T16:50:30.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-02T15:50:30Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T12:34:42.952Z" />
+<feature featureName="uri" featureValue="http://www.wiwo.de/nordic-yards-genting-kauft-drei-weitere-werften-in-deutschland/13044324.html" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="organization-company" surface=" Nordic Yards" />
+<Entity id="1" startPos="15" endPos="22" type="organization-company" surface="Genting" />
+<Entity id="2" startPos="29" endPos="33" type="number" surface="drei" />
+<Entity id="3" startPos="53" endPos="64" type="location-city" surface="Deutschland" />
+<Entity id="4" startPos="65" endPos="77" type="organization-company" surface="Nordic Yards" />
+<Entity id="5" startPos="79" endPos="86" type="organization-company" surface="Genting" />
+<Entity id="6" startPos="93" endPos="97" type="number" surface="drei" />
+<Entity id="7" startPos="117" endPos="128" type="location" surface="Deutschland" />
+<Entity id="8" startPos="129" endPos="142" type="date" surface="02. März 2016" />
+<Entity id="9" startPos="164" endPos="173" type="time" surface="16:50 Uhr" />
+<Entity id="10" startPos="183" endPos="195" type="organization-company" surface="Handelsblatt" />
+<Entity id="11" startPos="322" endPos="332" type="location" surface="asiatische" />
+<Entity id="12" startPos="333" endPos="340" type="organization-company" surface="Genting" />
+<Entity id="13" startPos="403" endPos="414" type="location" surface="Deutschland" />
+<Entity id="14" startPos="416" endPos="424" type="location-city" surface="Hongkong" />
+<Entity id="15" startPos="425" endPos="436" type="location-city" surface="Bremerhaven" />
+<Entity id="16" startPos="440" endPos="450" type="location" surface="asiatische" />
+<Entity id="17" startPos="451" endPos="458" type="organization-company" surface="Genting" />
+<Entity id="18" startPos="518" endPos="529" type="location" surface="Deutschland" />
+<Entity id="19" startPos="540" endPos="546" type="trigger" surface="Erwerb" />
+<Entity id="20" startPos="551" endPos="564" type="location-city" surface="Bremerhavener" />
+<Entity id="21" startPos="565" endPos="576" type="organization-company" surface="Lloyd-Werft" />
+<Entity id="22" startPos="588" endPos="595" type="organization-company" surface="Genting" />
+<Entity id="23" startPos="600" endPos="609" type="trigger" surface="Übernahme" />
+<Entity id="24" startPos="614" endPos="618" type="number" surface="drei" />
+<Entity id="25" startPos="631" endPos="643" type="organization-company" surface="Nordic Yards" />
+<Entity id="26" startPos="647" endPos="653" type="location-city" surface="Wismar" />
+<Entity id="27" startPos="655" endPos="665" type="location-city" surface="Warnemünde" />
+<Entity id="28" startPos="670" endPos="679" type="location-city" surface="Stralsund" />
+<Entity id="29" startPos="684" endPos="704" type="number" surface="230,6 Millionen Euro" />
+<Entity id="30" startPos="720" endPos="731" type="location-city" surface="Bremerhaven" />
+<Entity id="31" startPos="743" endPos="747" type="number" surface="drei" />
+<Entity id="32" startPos="761" endPos="783" type="location" surface="Mecklenburg-Vorpommern" />
+<Entity id="33" startPos="837" endPos="854" type="date" surface="nächste Jahrzehnt" />
+<Entity id="34" startPos="868" endPos="878" type="trigger" surface="Übernahmen" />
+<Entity id="35" startPos="889" endPos="896" type="organization-company" surface="Genting" />
+<Entity id="36" startPos="924" endPos="937" type="org-position" surface="Vorstandschef" />
+<Entity id="37" startPos="938" endPos="948" type="person" surface="Tan Sri Li" /></Entities><Relations>
+<Relation id="38" NAME="Acquisition">
+<Entity id="19" label="trigger" />
+<Entity id="21" label="acquired" />
+<Entity id="22" label="buyer" />
+</Relation>
+<Relation id="39" NAME="Acquisition">
+<Entity id="29" label="price" />
+<Entity id="23" label="trigger" />
+<Entity id="25" label="acquired" />
+<Entity id="22" label="buyer" />
+</Relation>
+<Relation id="40" NAME="OrganizationLeadership">
+<Entity id="37" label="person" />
+<Entity id="35" label="organization" />
+<Entity id="36" label="position" />
+</Relation></Relations>
+</Document>

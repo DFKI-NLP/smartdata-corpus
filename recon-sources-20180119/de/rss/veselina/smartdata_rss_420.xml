@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Donnerstag, 24. März<NODE id="23" />, <NODE id="25" />7.00<NODE id="29" /> – <NODE id="32" />10.00 Uhr<NODE id="41" />
+Meldung:
+<NODE id="51" />EN 459<NODE id="57" /> von <NODE id="62" />Leipzig Hbf<NODE id="73" /> (planmäßige Ankunft <NODE id="94" />9.28 Uhr<NODE id="102" /> in <NODE id="106" />Praha hl.n.<NODE id="117" />) <NODE id="119" />fällt<NODE id="124" /> von <NODE id="129" />Dresden Hbf<NODE id="140" /> bis <NODE id="145" />Děčín hl.n.<NODE id="156" /> <NODE id="157" />aus<NODE id="160" />. Als Ersatz nutzen Sie den Bus von <NODE id="196" />Dresden Hbf<NODE id="207" /> (ab <NODE id="212" />7.14 Uhr<NODE id="220" />) bis <NODE id="226" />Ústí nad Labem<NODE id="240" /> (an <NODE id="245" />8.20 Uhr<NODE id="253" />). In <NODE id="259" />Ústí nad Labem<NODE id="273" /> besteht Anschluss an einen Ersatzzug nach <NODE id="316" />Praha hl.n.<NODE id="327" />
+Grund:
+Oberleitungsarbeiten zwischen <NODE id="365" />Bad Schandau<NODE id="377" /> und <NODE id="382" />Königstein (Sächs Schw)<NODE id="405" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="475" />140<NODE id="478" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#e6f02aae75ce2823b93a14df6ade2963f209da5a@2016-03-02T04:56:13.041+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-02T03:56:13.041Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:25:16.899Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#e6f02aae75ce2823b93a14df6ade2963f209da5a" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="23" type="date" surface="Donnerstag, 24. März" />
+<Entity id="1" startPos="25" endPos="29" type="time" surface="7.00" />
+<Entity id="2" startPos="32" endPos="41" type="time" surface="10.00 Uhr" />
+<Entity id="3" startPos="51" endPos="57" type="location-route" surface="EN 459" />
+<Entity id="4" startPos="62" endPos="73" type="location-stop" surface="Leipzig Hbf" />
+<Entity id="5" startPos="94" endPos="102" type="time" surface="9.28 Uhr" />
+<Entity id="6" startPos="106" endPos="117" type="location-stop" surface="Praha hl.n." />
+<Entity id="7" startPos="119" endPos="124" type="trigger" surface="fällt" />
+<Entity id="8" startPos="129" endPos="140" type="location-stop" surface="Dresden Hbf" />
+<Entity id="9" startPos="145" endPos="156" type="location-stop" surface="Děčín hl.n." />
+<Entity id="10" startPos="157" endPos="160" type="trigger" surface="aus" />
+<Entity id="11" startPos="196" endPos="207" type="location-stop" surface="Dresden Hbf" />
+<Entity id="12" startPos="212" endPos="220" type="time" surface="7.14 Uhr" />
+<Entity id="13" startPos="226" endPos="240" type="location-stop" surface="Ústí nad Labem" />
+<Entity id="14" startPos="245" endPos="253" type="time" surface="8.20 Uhr" />
+<Entity id="15" startPos="259" endPos="273" type="location-stop" surface="Ústí nad Labem" />
+<Entity id="16" startPos="316" endPos="327" type="location-stop" surface="Praha hl.n." />
+<Entity id="17" startPos="365" endPos="377" type="location-stop" surface="Bad Schandau" />
+<Entity id="18" startPos="382" endPos="405" type="location-stop" surface="Königstein (Sächs Schw)" />
+<Entity id="19" startPos="475" endPos="478" type="number" surface="140" /></Entities><Relations>
+<Relation id="20" NAME="CanceledRoute">
+<Entity id="9" label="end_loc" />
+<Entity id="8" label="start_loc" />
+<Entity id="3" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="10" label="trigger" />
+<Entity id="6" label="direction" />
+</Relation></Relations>
+</Document>

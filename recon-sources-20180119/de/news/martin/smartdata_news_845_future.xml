@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> Alle News in Kürze
+<NODE id="20" />06. Januar 2016<NODE id="35" /> - <NODE id="38" />13:26<NODE id="43" />
+Die Biotechfirma <NODE id="61" />Cytos<NODE id="66" />, die <NODE id="72" />letztes Jahr<NODE id="84" /> kurz vor der Pleite stand, kann mit der Firma <NODE id="131" />Kuros<NODE id="136" /> <NODE id="137" />fusionieren<NODE id="148" />. Die <NODE id="154" />Cytos<NODE id="159" />-Aktionäre haben an einer ausserordentlichen Generalversammlung den Zusammenschluss gutgeheissen.
+Sämtliche Anträge des Verwaltungsrates seien mit überwiegender Mehrheit angenommen worden, teilte <NODE id="355" />Cytos<NODE id="360" /> am <NODE id="364" />Mittwoch<NODE id="372" /> mit. Beantragt wurde unter anderem eine ordentliche Kapitalerhöhung im Umfang von rund <NODE id="460" />392 Millionen<NODE id="473" /> Aktien, die für den Erwerb von <NODE id="505" />Kuros<NODE id="510" /> gebraucht werden.
+Nach erfolgtem Zusammenschluss werden die heutigen <NODE id="580" />Cytos<NODE id="585" />-Aktionäre ungefähr einen Fünftel, die heutigen <NODE id="633" />Kuros<NODE id="638" />-Aktionäre ungefähr vier Fünftel an allen Aktien besitzen.
+Der Handel mit <NODE id="712" />Cytos<NODE id="717" />-Aktien wurde von der <NODE id="739" />Schweizer Börse SIX<NODE id="758" /> im Vorfeld der Versammlung ausgesetzt. Um <NODE id="801" />12.45<NODE id="806" /> wurde er wieder aufgenommen. Daraufhin schoss der Kurs der <NODE id="866" />Cytos<NODE id="871" />-Aktien um über <NODE id="887" />5 Prozent<NODE id="896" /> in die Höhe.
+<NODE id="910" />Cytos<NODE id="915" /> und <NODE id="920" />Kuros<NODE id="925" /> wurden beide als 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.swissinfo.ch/ger/cytos-aktionaere-heissen-zusammenschluss-mit-kuros-gut/41877686@2016-01-06T13:37:42.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-06T12:37:42Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T01:24:11.964Z" />
+<feature featureName="uri" featureValue="http://www.swissinfo.ch/ger/cytos-aktionaere-heissen-zusammenschluss-mit-kuros-gut/41877686" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="35" type="date" surface="06. Januar 2016" />
+<Entity id="1" startPos="38" endPos="43" type="time" surface="13:26" />
+<Entity id="2" startPos="61" endPos="66" type="organization-company" surface="Cytos" />
+<Entity id="3" startPos="72" endPos="84" type="date" surface="letztes Jahr" />
+<Entity id="4" startPos="131" endPos="136" type="organization-company" surface="Kuros" />
+<Entity id="5" startPos="137" endPos="148" type="trigger" surface="fusionieren" />
+<Entity id="6" startPos="154" endPos="159" type="organization-company" surface="Cytos" />
+<Entity id="7" startPos="355" endPos="360" type="organization-company" surface="Cytos" />
+<Entity id="8" startPos="364" endPos="372" type="date" surface="Mittwoch" />
+<Entity id="9" startPos="460" endPos="473" type="number" surface="392 Millionen" />
+<Entity id="10" startPos="505" endPos="510" type="organization-company" surface="Kuros" />
+<Entity id="11" startPos="580" endPos="585" type="organization-company" surface="Cytos" />
+<Entity id="12" startPos="633" endPos="638" type="organization-company" surface="Kuros" />
+<Entity id="13" startPos="712" endPos="717" type="organization-company" surface="Cytos" />
+<Entity id="14" startPos="739" endPos="758" type="organization-company" surface="Schweizer Börse SIX" />
+<Entity id="15" startPos="801" endPos="806" type="time" surface="12.45" />
+<Entity id="16" startPos="866" endPos="871" type="organization-company" surface="Cytos" />
+<Entity id="17" startPos="887" endPos="896" type="number" surface="5 Prozent" />
+<Entity id="18" startPos="910" endPos="915" type="organization-company" surface="Cytos" />
+<Entity id="19" startPos="920" endPos="925" type="organization-company" surface="Kuros" /></Entities><Relations>
+<Relation id="20" NAME="Merger">
+<Entity id="2" label="old" />
+<Entity id="4" label="old" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

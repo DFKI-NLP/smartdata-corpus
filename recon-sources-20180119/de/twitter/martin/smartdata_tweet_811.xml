@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Zusammenschluss: Molkereien <NODE id="28" />Sodiaal<NODE id="35" /> und <NODE id="40" />Haute-Normandie<NODE id="55" /> <NODE id="56" />fusionieren<NODE id="67" /> https://t.co/Pt9BqjnmMr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743448046629945344" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T14:20:01Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T14:20:10.204Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Lebensmittel Zeitung/status/743448046629945344" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="28" endPos="35" type="organization-company" surface="Sodiaal" />
+<Entity id="1" startPos="40" endPos="55" type="organization-company" surface="Haute-Normandie" />
+<Entity id="2" startPos="56" endPos="67" type="trigger" surface="fusionieren" /></Entities><Relations>
+<Relation id="3" NAME="Merger">
+<Entity id="1" label="old" />
+<Entity id="0" label="old" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

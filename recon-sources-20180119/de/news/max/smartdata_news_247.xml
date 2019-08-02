@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Google Plus
+Aus für <NODE id="20" />Vural Öger<NODE id="30" />
+Erst vor Kurzem wurde bekannt, dass Vural Öger aus der <NODE id="86" />VOX<NODE id="89" />-Show Die Höhle der Löwen austreten würde. Zwei Insolvenz-Anmeldungen seiner Unternehmen zwangen ihnen dazu, sich wieder vermehrt seinem eigentlichen Geschäft zu widmen. Doch es gibt noch mehr Veränderungen Jury-Karussel der Sendung.
+Frischer Wind für die Jury
+© facebook / Die Höhle der Löwen
+Als Ersatz für <NODE id="398" />Vural Öger<NODE id="408" /> der <NODE id="413" />Hamburger<NODE id="422" /> Unternehmer <NODE id="435" />Ralf Dümmel<NODE id="446" /> kommen. <NODE id="455" />Dümmel<NODE id="461" /> ist Chef des internationalen Handelsunternehmens <NODE id="511" />DS Produkte GmbH <NODE id="528" />und gilt in der deutschen Handelsszene als König der Produkte. Der Unternehmer freut sich schon auf die kommende Herausforderung: Ich investiere in Menschen, nicht in Zahlen, sagt er zuversichtlich. Besonders spannende fände er es mit seinem Wissen junge Gründer fachlich zu begleiten und natürlich auch vor Fehltritten zu bewahren.
+Noch ein Wechsel steht an
+Das ist aber nicht der einzige Wechsel in der Stammbesetzung der Hö
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.gala.de/lifestyle/entertainment/tv/die-hoehle-der-loewen-noch-ein-loewe-verlaesst-die-hoehle_1366902.html@2016-03-10T18:38:10.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T17:38:10Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T17:38:13.316Z" />
+<feature featureName="uri" featureValue="http://www.gala.de/lifestyle/entertainment/tv/die-hoehle-der-loewen-noch-ein-loewe-verlaesst-die-hoehle_1366902.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="30" type="person" surface="Vural Öger" />
+<Entity id="1" startPos="86" endPos="89" type="organization-company" surface="VOX" />
+<Entity id="2" startPos="398" endPos="408" type="person" surface="Vural Öger" />
+<Entity id="3" startPos="413" endPos="422" type="location-city" surface="Hamburger" />
+<Entity id="4" startPos="435" endPos="446" type="person" surface="Ralf Dümmel" />
+<Entity id="5" startPos="455" endPos="461" type="person" surface="Dümmel" />
+<Entity id="6" startPos="511" endPos="528" type="organization-company" surface="DS Produkte GmbH " /></Entities><Relations />
+</Document>

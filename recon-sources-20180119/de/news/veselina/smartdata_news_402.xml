@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />2016-02-23T17:02:00+0100<NODE id="24" />
+<NODE id="25" />Gabriel<NODE id="32" /> erhöht Druck auf <NODE id="50" />Edeka<NODE id="55" /> bei <NODE id="60" />Tengelmann<NODE id="70" />-Übernahme<NODE id="80" />
+<NODE id="81" />Berlin<NODE id="87" /> (<NODE id="89" />dpa<NODE id="92" />) - Bundeswirtschaftsminister <NODE id="122" />Sigmar Gabriel<NODE id="136" /> (<NODE id="138" />SPD<NODE id="141" />) verschärft die Bedingungen für eine Übernahme der Supermarktkette <NODE id="209" />Kaiser's Tengelmann<NODE id="228" /> durch <NODE id="235" />Deutschlands<NODE id="247" /> größten Lebensmittelhändler <NODE id="276" />Edeka<NODE id="281" />.<NODE id="282" />
+ 
+<NODE id="285" />Jetzt weiterlesen und mehr erfahren<NODE id="320" />
+<NODE id="321" />Wenn Sie diesen Inhalt vollständig lesen möchten, benötigen Sie einen kostenpflichtigen Zugang zu unserer Webseite.<NODE id="436" /> <NODE id="437" />Wählen Sie einfach aus einem der folgenden Angebote aus.<NODE id="493" />
+ 
+<NODE id="496" />Das Bundeskartellamt hatte die Übernahme verboten - daraufhin beantragten <NODE id="570" />Edeka<NODE id="575" /> und <NODE id="580" />Tengelmann<NODE id="590" /> bei <NODE id="595" />Gabriel<NODE id="602" /> die Ministererlaubnis, um die Absage...<NODE id="642" />
+<NODE id="643" />Foto: <NODE id="649" />Oliver Berg<NODE id="660" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.peiner-nachrichten.de/wirtschaft/gabriel-erhoeht-druck-auf-edeka-bei-tengelmann-uebernahme-id2201716.html@2016-02-23T17:02:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T16:02:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:40:10.909Z" />
+<feature featureName="uri" featureValue="http://www.peiner-nachrichten.de/wirtschaft/gabriel-erhoeht-druck-auf-edeka-bei-tengelmann-uebernahme-id2201716.html" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="24" type="sentence" surface="2016-02-23T17:02:00+0100" />
+<Entity id="1" startPos="25" endPos="32" type="person" surface="Gabriel" />
+<Entity id="2" startPos="25" endPos="80" type="sentence" surface="Gabriel erhöht Druck auf Edeka bei Tengelmann-Übernahme" />
+<Entity id="3" startPos="50" endPos="55" type="organization-company" surface="Edeka" />
+<Entity id="4" startPos="60" endPos="70" type="organization-company" surface="Tengelmann" />
+<Entity id="5" startPos="81" endPos="87" type="location-city" surface="Berlin" />
+<Entity id="6" startPos="81" endPos="282" type="sentence" surface="Berlin (dpa) - Bundeswirtschaftsminister Sigmar Gabriel (SPD) verschärft die Bedingungen für eine Übernahme der Supermarktkette Kaiser's Tengelmann durch Deutschlands größten Lebensmittelhändler Edeka." />
+<Entity id="7" startPos="89" endPos="92" type="organization-company" surface="dpa" />
+<Entity id="8" startPos="122" endPos="136" type="person" surface="Sigmar Gabriel" />
+<Entity id="9" startPos="138" endPos="141" type="organization" surface="SPD" />
+<Entity id="10" startPos="209" endPos="228" type="organization-company" surface="Kaiser's Tengelmann" />
+<Entity id="11" startPos="235" endPos="247" type="location" surface="Deutschlands" />
+<Entity id="12" startPos="276" endPos="281" type="organization-company" surface="Edeka" />
+<Entity id="13" startPos="285" endPos="320" type="sentence" surface="Jetzt weiterlesen und mehr erfahren" />
+<Entity id="14" startPos="321" endPos="436" type="sentence" surface="Wenn Sie diesen Inhalt vollständig lesen möchten, benötigen Sie einen kostenpflichtigen Zugang zu unserer Webseite." />
+<Entity id="15" startPos="437" endPos="493" type="sentence" surface="Wählen Sie einfach aus einem der folgenden Angebote aus." />
+<Entity id="16" startPos="496" endPos="642" type="sentence" surface="Das Bundeskartellamt hatte die Übernahme verboten - daraufhin beantragten Edeka und Tengelmann bei Gabriel die Ministererlaubnis, um die Absage..." />
+<Entity id="17" startPos="570" endPos="575" type="organization-company" surface="Edeka" />
+<Entity id="18" startPos="580" endPos="590" type="organization-company" surface="Tengelmann" />
+<Entity id="19" startPos="595" endPos="602" type="person" surface="Gabriel" />
+<Entity id="20" startPos="643" endPos="660" type="sentence" surface="Foto: Oliver Berg" />
+<Entity id="21" startPos="649" endPos="660" type="person" surface="Oliver Berg" /></Entities><Relations />
+</Document>

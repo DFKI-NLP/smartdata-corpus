@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die Folgen der anhaltenden <NODE id="27" />Dürre<NODE id="32" /> in #<NODE id="37" />Kalifornien<NODE id="48" /> lassen sich auch aus dem All beobachten. http://t.co/rHbc73AjiR http://t.co/ITJFeLmWsr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="634357736365363200" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-20T13:34:04Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T01:48:15.731Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="27" endPos="32" type="disaster-type" surface="Dürre" />
+<Entity id="1" startPos="37" endPos="48" type="location" surface="Kalifornien" /></Entities><Relations>
+<Relation id="2" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="type" />
+</Relation></Relations>
+</Document>

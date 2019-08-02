@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @stoerungsblog: #<NODE id="20" />Pegida<NODE id="26" />-Ableger im #<NODE id="39" />Allgäu<NODE id="45" />: Schon wieder? #Allgida https://t.co/cXdPHP0p8V
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="748121229891088384" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-29T11:49:35Z" />
+<feature featureName="indexDate" featureValue="2016-06-29T11:49:41.627Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3084368090/status/748121229891088384" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="26" type="organization" surface="Pegida" />
+<Entity id="1" startPos="39" endPos="45" type="location" surface="Allgäu" /></Entities><Relations />
+</Document>

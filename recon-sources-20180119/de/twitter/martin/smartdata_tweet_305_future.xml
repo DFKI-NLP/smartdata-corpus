@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />Lufthansa_DE<NODE id="16" />: <NODE id="18" />UFO<NODE id="21" /> <NODE id="22" />Streik<NODE id="28" /> Ankündigung für <NODE id="45" />LH<NODE id="47" /> Flüge am <NODE id="57" />10.11.2015<NODE id="67" />. Mehr Informationen hier: https://t.co/4SAmMiao8e
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="663741154664570880" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-09T15:33:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:27:45.728Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="16" type="organization-company" surface="Lufthansa_DE" />
+<Entity id="1" startPos="18" endPos="21" type="organization" surface="UFO" />
+<Entity id="2" startPos="22" endPos="28" type="trigger" surface="Streik" />
+<Entity id="3" startPos="45" endPos="47" type="organization-company" surface="LH" />
+<Entity id="4" startPos="57" endPos="67" type="date" surface="10.11.2015" /></Entities><Relations>
+<Relation id="5" NAME="Strike">
+<Entity id="4" label="date" />
+<Entity id="0" label="company" />
+<Entity id="1" label="union" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

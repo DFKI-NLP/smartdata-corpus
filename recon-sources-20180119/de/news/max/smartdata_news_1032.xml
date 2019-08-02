@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Wincor Nixdorf<NODE id="14" /> kämpft seit Jahren mit einer schwachen Nachfrage vor allem nach Geldautomaten.
+Foto: <NODE id="100" />Bernd Thissen<NODE id="113" /> (<NODE id="115" />dpa<NODE id="118" />)
+Die Papiere des MDax-Wertes gewannen um mehr als <NODE id="169" />16 Prozent <NODE id="180" />an Wert auf mehr als <NODE id="201" />45 Euro<NODE id="208" />. Der Geldautomaten-Hersteller steht vor einer Milliardenübernahme durch den <NODE id="285" />US<NODE id="287" />-Rivalen <NODE id="296" />Diebold<NODE id="303" />. <NODE id="305" />Diebold<NODE id="312" /> bietet rund <NODE id="325" />1,7 Milliarden Euro<NODE id="344" /> oder<NODE id="349" /> 52,50 Euro<NODE id="360" /> je Aktie. Die Übernahme ist aber noch nicht unter Dach und Fach.
+Der <NODE id="430" />Paderborner<NODE id="441" /> Konzern kämpft seit Jahren mit einer schwachen Nachfrage vor allem nach Geldautomaten. Das Unternehmen hatte bereits ein Sanierungsprogramm gestartet. Dazu gehört auch ein Stellenabbau. Von rund <NODE id="637" />9200<NODE id="641" /> Arbeitsplätzen sollen rund <NODE id="669" />1100<NODE id="673" /> Jobs gestrichen werden, davon <NODE id="704" />500<NODE id="707" /> in Deutschland. (<NODE id="725" />dpa<NODE id="728" />)
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.augsburger-allgemeine.de/wirtschaft/Uebernahmeplaene-lassen-Wincor-Nixdorf-Kurs-hochschiessen-id35832002.html@2016-03-11T00:46:06.241+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T23:46:06.241Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T23:46:13.484Z" />
+<feature featureName="uri" featureValue="http://www.augsburger-allgemeine.de/wirtschaft/Uebernahmeplaene-lassen-Wincor-Nixdorf-Kurs-hochschiessen-id35832002.html" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="organization-company" surface="Wincor Nixdorf" />
+<Entity id="1" startPos="100" endPos="113" type="person" surface="Bernd Thissen" />
+<Entity id="2" startPos="115" endPos="118" type="organization-company" surface="dpa" />
+<Entity id="3" startPos="169" endPos="180" type="number" surface="16 Prozent " />
+<Entity id="4" startPos="201" endPos="208" type="number" surface="45 Euro" />
+<Entity id="5" startPos="285" endPos="287" type="location" surface="US" />
+<Entity id="6" startPos="296" endPos="303" type="organization-company" surface="Diebold" />
+<Entity id="7" startPos="305" endPos="312" type="organization-company" surface="Diebold" />
+<Entity id="8" startPos="325" endPos="344" type="number" surface="1,7 Milliarden Euro" />
+<Entity id="9" startPos="349" endPos="360" type="number" surface=" 52,50 Euro" />
+<Entity id="10" startPos="430" endPos="441" type="location-city" surface="Paderborner" />
+<Entity id="11" startPos="637" endPos="641" type="number" surface="9200" />
+<Entity id="12" startPos="669" endPos="673" type="number" surface="1100" />
+<Entity id="13" startPos="704" endPos="707" type="number" surface="500" />
+<Entity id="14" startPos="725" endPos="728" type="organization-company" surface="dpa" /></Entities><Relations />
+</Document>

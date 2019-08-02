@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Vor 38 Minuten<NODE id="14" />   <NODE id="17" />FOCUS Online<NODE id="29" />
+<NODE id="30" />Facebook<NODE id="38" /> kommt seinen Kritikern entgegen und will gegen Hass-Kommentare künftig auch von <NODE id="119" />Deutschland<NODE id="130" /> aus aktiv werden.<NODE id="148" />
+<NODE id="149" />Dabei setzt das Netzwerk nach Informationen des „<NODE id="198" />Spiegel<NODE id="205" />“ auf einen externen Partner.<NODE id="234" /> <NODE id="235" />Demnach sollen Mitarbeiter der <NODE id="266" />Bertelsmann<NODE id="277" />-<NODE id="278" />Tochter<NODE id="285" /> <NODE id="286" />Arvato<NODE id="292" />, die auch fließend Arabisch, Französisch oder Türkisch sprechen, künftig entsprechende Inhalte in dem <NODE id="395" />Facebook<NODE id="403" />-Netzwerk prüfen und von <NODE id="428" />Berlin<NODE id="434" /> aus schneller löschen können.<NODE id="464" /> <NODE id="465" />In ersten Reaktionen wurde diese Entscheidung von Seiten der Politik begrüßt.<NODE id="542" /> <NODE id="543" />Der bisherige, recht schleppende Umgang mit Hasskommentaren war wiederholt in die Kritik geraten.<NODE id="640" />
+<NODE id="641" />Insgesamt sollen laut „<NODE id="664" />Spiegel<NODE id="671" />“ künftig Kontrolleure in dreistelliger Zahl von <NODE id="720" />Berlin<NODE id="726" /> aus gegen die Hasstiraden vorgehen.<NODE id="762" /> <NODE id="763" />„<NODE id="764" />Facebooks<NODE id="773" /> Gemeinschaftsstandards verbieten Hass-Reden, Terrorismus sowie bestimmte Gewaltandrohungen und Mobbing“, sagte eine <NODE id="890" />Facebook<NODE id="898" />-Sprecherin der <NODE id="914" />Deutschen Presse-Agentur<NODE id="938" />.<NODE id="939" /> <NODE id="940" />Facebook investier<NODE id="958" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nachrichten.de/wirtschaft/Gegen-Hetze-im-Netz-Facebook-will-nun-von-Deutschland-aus-gegen-Hass-Kommentare-vorgehen-aid_2537365172054031353.html@2016-03-10T13:24:18.534+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:24:18.534Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:24:23.318Z" />
+<feature featureName="uri" featureValue="http://www.nachrichten.de/wirtschaft/Gegen-Hetze-im-Netz-Facebook-will-nun-von-Deutschland-aus-gegen-Hass-Kommentare-vorgehen-aid_2537365172054031353.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="sentence" surface="Vor 38 Minuten" />
+<Entity id="1" startPos="17" endPos="29" type="sentence" surface="FOCUS Online" />
+<Entity id="2" startPos="30" endPos="38" type="organization-company" surface="Facebook" />
+<Entity id="3" startPos="30" endPos="148" type="sentence" surface="Facebook kommt seinen Kritikern entgegen und will gegen Hass-Kommentare künftig auch von Deutschland aus aktiv werden." />
+<Entity id="4" startPos="119" endPos="130" type="location" surface="Deutschland" />
+<Entity id="5" startPos="149" endPos="234" type="sentence" surface="Dabei setzt das Netzwerk nach Informationen des „Spiegel“ auf einen externen Partner." />
+<Entity id="6" startPos="198" endPos="205" type="organization-company" surface="Spiegel" />
+<Entity id="7" startPos="235" endPos="464" type="sentence" surface="Demnach sollen Mitarbeiter der Bertelsmann-Tochter Arvato, die auch fließend Arabisch, Französisch oder Türkisch sprechen, künftig entsprechende Inhalte in dem Facebook-Netzwerk prüfen und von Berlin aus schneller löschen können." />
+<Entity id="8" startPos="266" endPos="277" type="organization-company" surface="Bertelsmann" />
+<Entity id="9" startPos="278" endPos="285" type="trigger" surface="Tochter" />
+<Entity id="10" startPos="286" endPos="292" type="organization-company" surface="Arvato" />
+<Entity id="11" startPos="395" endPos="403" type="organization-company" surface="Facebook" />
+<Entity id="12" startPos="428" endPos="434" type="location-city" surface="Berlin" />
+<Entity id="13" startPos="465" endPos="542" type="sentence" surface="In ersten Reaktionen wurde diese Entscheidung von Seiten der Politik begrüßt." />
+<Entity id="14" startPos="543" endPos="640" type="sentence" surface="Der bisherige, recht schleppende Umgang mit Hasskommentaren war wiederholt in die Kritik geraten." />
+<Entity id="15" startPos="641" endPos="762" type="sentence" surface="Insgesamt sollen laut „Spiegel“ künftig Kontrolleure in dreistelliger Zahl von Berlin aus gegen die Hasstiraden vorgehen." />
+<Entity id="16" startPos="664" endPos="671" type="organization-company" surface="Spiegel" />
+<Entity id="17" startPos="720" endPos="726" type="location-city" surface="Berlin" />
+<Entity id="18" startPos="763" endPos="939" type="sentence" surface="„Facebooks Gemeinschaftsstandards verbieten Hass-Reden, Terrorismus sowie bestimmte Gewaltandrohungen und Mobbing“, sagte eine Facebook-Sprecherin der Deutschen Presse-Agentur." />
+<Entity id="19" startPos="764" endPos="773" type="organization-company" surface="Facebooks" />
+<Entity id="20" startPos="890" endPos="898" type="organization-company" surface="Facebook" />
+<Entity id="21" startPos="914" endPos="938" type="organization-company" surface="Deutschen Presse-Agentur" />
+<Entity id="22" startPos="940" endPos="958" type="sentence" surface="Facebook investier" /></Entities><Relations>
+<Relation id="23" NAME="CompanyRelationship">
+<Entity id="8" label="parent" />
+<Entity id="9" label="trigger" />
+<Entity id="10" label="child" />
+</Relation></Relations>
+</Document>

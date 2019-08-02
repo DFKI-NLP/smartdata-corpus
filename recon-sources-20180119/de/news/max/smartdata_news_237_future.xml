@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> &gt; <NODE id="3" />Tausende<NODE id="11" /> protestieren bundesweit gegen <NODE id="42" />Stellenabbau<NODE id="54" /> bei <NODE id="59" />Bombardier<NODE id="69" />
+Aktualisiert
+<NODE id="83" />17.03.2016<NODE id="93" />, <NODE id="95" />15:00 Uhr<NODE id="104" />
+<NODE id="105" />Tausende<NODE id="113" /> protestieren bundesweit gegen <NODE id="144" />Stellenabbau<NODE id="156" /> bei <NODE id="161" />Bombardier<NODE id="171" />
+dpa <NODE id="176" />Hennigsdorf<NODE id="187" />. Aus Protest gegen den angekündigten <NODE id="225" />Stellenabbau<NODE id="237" /> beim Zughersteller <NODE id="257" />Bombardier<NODE id="267" /> haben sich <NODE id="279" />Tausende<NODE id="287" /> Mitarbeiter an einem bundesweiten Aktionstag beteiligt. Allein vor den <NODE id="359" />sächsischen<NODE id="370" /> Werken in <NODE id="381" />Görlitz<NODE id="388" /> und <NODE id="393" />Bautzen<NODE id="400" /> versammelten sich rund <NODE id="424" />1800<NODE id="428" /> Beschäftigte. In <NODE id="446" />Hennigsdorf<NODE id="457" /> in <NODE id="461" />Brandenburg<NODE id="472" /> kamen mehr als <NODE id="488" />800<NODE id="491" /> Menschen zusammen. <NODE id="511" />Bombardier<NODE id="521" /> will <NODE id="527" />1430<NODE id="531" /> seiner <NODE id="539" />10 500<NODE id="545" /> <NODE id="546" />Arbeitsplätze<NODE id="559" /> in <NODE id="563" />Deutschland<NODE id="574" /> <NODE id="575" />streichen<NODE id="584" /> - davon rund <NODE id="598" />1200<NODE id="602" /> an seinen <NODE id="613" />drei<NODE id="617" /> größten Standorten im Osten. Der <NODE id="651" />kanadische<NODE id="661" /> Zughersteller hält bislang trotz wachsenden Widerstands an den Plänen fest.
+(c) Grafschafter Nachrichten <NODE id="767" />2016<NODE id="771" />. Alle Rechte vorbehalten
+Vervielfältigung nur mit Genehmigung der <NODE id="838" />Grafschafter Nachrichten GmbH &amp; Co. KG<NODE id="876" /> .
+Diesen Artikel
+weitersagen
+Empfehlung - Tausende pro
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://gn-online.de/Nachrichten/Tausende-protestieren-bundesweit-gegen-Stellenabbau-bei-Bombardier-145320.html@2016-03-17T15:28:46.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-17T14:28:46Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T17:09:01.94Z" />
+<feature featureName="uri" featureValue="http://gn-online.de/Nachrichten/Tausende-protestieren-bundesweit-gegen-Stellenabbau-bei-Bombardier-145320.html" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="11" type="number" surface="Tausende" />
+<Entity id="1" startPos="42" endPos="54" type="trigger" surface="Stellenabbau" />
+<Entity id="2" startPos="59" endPos="69" type="organization-company" surface="Bombardier" />
+<Entity id="3" startPos="83" endPos="93" type="date" surface="17.03.2016" />
+<Entity id="4" startPos="95" endPos="104" type="time" surface="15:00 Uhr" />
+<Entity id="5" startPos="105" endPos="113" type="number" surface="Tausende" />
+<Entity id="6" startPos="144" endPos="156" type="trigger" surface="Stellenabbau" />
+<Entity id="7" startPos="161" endPos="171" type="organization-company" surface="Bombardier" />
+<Entity id="8" startPos="176" endPos="187" type="location-city" surface="Hennigsdorf" />
+<Entity id="9" startPos="225" endPos="237" type="trigger" surface="Stellenabbau" />
+<Entity id="10" startPos="257" endPos="267" type="organization-company" surface="Bombardier" />
+<Entity id="11" startPos="279" endPos="287" type="number" surface="Tausende" />
+<Entity id="12" startPos="359" endPos="370" type="location" surface="sächsischen" />
+<Entity id="13" startPos="381" endPos="388" type="location-city" surface="Görlitz" />
+<Entity id="14" startPos="393" endPos="400" type="location-city" surface="Bautzen" />
+<Entity id="15" startPos="424" endPos="428" type="number" surface="1800" />
+<Entity id="16" startPos="446" endPos="457" type="location-city" surface="Hennigsdorf" />
+<Entity id="17" startPos="461" endPos="472" type="location" surface="Brandenburg" />
+<Entity id="18" startPos="488" endPos="491" type="number" surface="800" />
+<Entity id="19" startPos="511" endPos="521" type="organization-company" surface="Bombardier" />
+<Entity id="20" startPos="527" endPos="531" type="number" surface="1430" />
+<Entity id="21" startPos="539" endPos="545" type="number" surface="10 500" />
+<Entity id="22" startPos="546" endPos="559" type="trigger" surface="Arbeitsplätze" />
+<Entity id="23" startPos="563" endPos="574" type="location" surface="Deutschland" />
+<Entity id="24" startPos="575" endPos="584" type="trigger" surface="streichen" />
+<Entity id="25" startPos="598" endPos="602" type="number" surface="1200" />
+<Entity id="26" startPos="613" endPos="617" type="number" surface="drei" />
+<Entity id="27" startPos="651" endPos="661" type="location" surface="kanadische" />
+<Entity id="28" startPos="767" endPos="771" type="date" surface="2016" />
+<Entity id="29" startPos="838" endPos="876" type="organization-company" surface="Grafschafter Nachrichten GmbH &amp; Co. KG" /></Entities><Relations>
+<Relation id="30" NAME="Layoffs">
+<Entity id="20" label="num_laid_off" />
+<Entity id="19" label="company" />
+<Entity id="23" label="location" />
+<Entity id="22" label="trigger" />
+<Entity id="24" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Zugunglück<NODE id="10" /> von <NODE id="15" />Bad Aibling<NODE id="26" />: Fahrdienstleiter soll am Handy gespielt haben https://t.co/T3xAlo1Wde
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="719940628612845568" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-12T17:29:56Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T02:09:51.633Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2948610748/status/719940628612845568" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="disaster-type" surface="Zugunglück" />
+<Entity id="1" startPos="15" endPos="26" type="location-city" surface="Bad Aibling" /></Entities><Relations>
+<Relation id="2" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="type" />
+</Relation></Relations>
+</Document>

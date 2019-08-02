@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: Unbekannte haben ein Hotel in der <NODE id="42" />Hauptstadt von <NODE id="57" />Burkina Faso<NODE id="69" /> gestürmt - ein <NODE id="85" />Ableger von al-Qaida<NODE id="105" /> bekennt sich. https://t.co/H0FqiT…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="688365343643947008" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-16T14:21:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:01:14.121Z" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="42" endPos="69" type="location-city" surface="Hauptstadt von Burkina Faso" />
+<Entity id="2" startPos="57" endPos="69" type="location" surface="Burkina Faso" />
+<Entity id="3" startPos="85" endPos="105" type="organization" surface="Ableger von al-Qaida" /></Entities><Relations />
+</Document>

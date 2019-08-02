@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />zeitonline<NODE id="14" />: Nach ihrer ersten Trennung schrieb <NODE id="51" />Elizabeth Gilbert<NODE id="68" /> Eat Pray Love. Nun hat sie sich wieder getrennt. https://t.co/joBsri…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755052356052680704" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T14:51:24Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T14:51:34.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2622353385/status/755052356052680704" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="organization-company" surface="zeitonline" />
+<Entity id="1" startPos="51" endPos="68" type="person" surface="Elizabeth Gilbert" /></Entities><Relations />
+</Document>

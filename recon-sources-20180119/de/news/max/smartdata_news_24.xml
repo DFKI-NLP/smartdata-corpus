@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ticker
+<NODE id="7" />Kataloniens<NODE id="18" /> neuer Ministerpräsident dringt auf Abspaltung von <NODE id="69" />Spanien<NODE id="76" />
+<NODE id="77" />11.01.2016<NODE id="87" /> <NODE id="88" />Barcelona<NODE id="97" />. Der Separatist <NODE id="114" />Carles Puigdemont<NODE id="131" /> ist neuer Regierungschef von <NODE id="161" />Katalonien<NODE id="171" />. Er erhielt im Regionalparlament <NODE id="205" />70<NODE id="207" /> Stimmen der separatistischen Allianz Gemeinsam fürs Ja und der linksradikalen Partei <NODE id="293" />CUP<NODE id="296" />. <NODE id="298" />63<NODE id="300" /> Parlamentarier votierten gegen ihn, zwei enthielten sich. Der <NODE id="363" />53<NODE id="365" />-jährige <NODE id="374" />Puigdemont<NODE id="384" /> kündigte an, die wirtschaftsstärkste Region <NODE id="429" />Spaniens<NODE id="437" /> in einen unabhängigen Staat zu verwandeln. Die <NODE id="485" />spanische<NODE id="494" /> Zentralregierung betonte erneut, dass sie eine Abspaltung <NODE id="553" />Kataloniens<NODE id="564" /> unter keinen Umständen zulassen werde.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.general-anzeiger-bonn.de/news/ticker/Kataloniens-neuer-Ministerpraesident-dringt-auf-Abspaltung-von-Spanien-article1800165.html?f=111@2016-01-11T07:28:19.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.general-anzeiger-bonn.de/news/ticker/Kataloniens-neuer-Ministerpraesident-dringt-auf-Abspaltung-von-Spanien-article1800165.html?f=111" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="7" endPos="18" type="location" surface="Kataloniens" />
+<Entity id="1" startPos="69" endPos="76" type="location" surface="Spanien" />
+<Entity id="2" startPos="77" endPos="87" type="date" surface="11.01.2016" />
+<Entity id="3" startPos="88" endPos="97" type="location-city" surface="Barcelona" />
+<Entity id="4" startPos="114" endPos="131" type="person" surface="Carles Puigdemont" />
+<Entity id="5" startPos="161" endPos="171" type="location" surface="Katalonien" />
+<Entity id="6" startPos="205" endPos="207" type="number" surface="70" />
+<Entity id="7" startPos="293" endPos="296" type="organization" surface="CUP" />
+<Entity id="8" startPos="298" endPos="300" type="number" surface="63" />
+<Entity id="9" startPos="363" endPos="365" type="number" surface="53" />
+<Entity id="10" startPos="374" endPos="384" type="person" surface="Puigdemont" />
+<Entity id="11" startPos="429" endPos="437" type="location" surface="Spaniens" />
+<Entity id="12" startPos="485" endPos="494" type="location" surface="spanische" />
+<Entity id="13" startPos="553" endPos="564" type="location" surface="Kataloniens" /></Entities><Relations />
+</Document>

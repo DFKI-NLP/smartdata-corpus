@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>- von <NODE id="6" />Andreas Framke<NODE id="20" /> und <NODE id="25" />Peter Maushagen<NODE id="40" />
+<NODE id="41" />Frankfurt<NODE id="50" /> (Reuters) - Die Flugbegleitergewerkschaft <NODE id="93" />Ufo<NODE id="96" /> weitet ihren <NODE id="110" />Streik<NODE id="116" /> bei der <NODE id="125" />Lufthansa<NODE id="134" /> zu Wochenbeginn massiv aus.
+Wie die Gewerkschaft am <NODE id="187" />Sonntag<NODE id="194" /> in <NODE id="198" />Frankfurt<NODE id="207" /> mitteilte, ruft sie ihre Mitglieder an den Standorten <NODE id="262" />Frankfurt<NODE id="271" />, <NODE id="273" />Düsseldorf<NODE id="283" /> und <NODE id="288" />München<NODE id="295" /> für <NODE id="300" />Montag<NODE id="306" /> zu ganztägigen <NODE id="322" />Streiks<NODE id="329" /> auf. Diese betreffen Flüge auf der Kurz-, Mittel- und Langstrecke. Passagiere müssen deshalb erneut mit <NODE id="434" />Hunderten<NODE id="443" /> Flugausfällen und massiven Verspätungen rechnen. Am <NODE id="496" />Samstag<NODE id="503" /> waren bereits mehr als <NODE id="527" />500<NODE id="530" /> Flüge ausgefallen.
+<NODE id="550" />Ufo<NODE id="553" />-<NODE id="554" />Chef<NODE id="558" /> <NODE id="559" />Nicoley Baublies<NODE id="575" /> machte die <NODE id="587" />Lufthansa<NODE id="596" /> dafür verantwortlich, dass der Streik nun an Intensität zunimmt. Seit <NODE id="667" />Donnerstagnachmittag<NODE id="687" /> habe die Airline den Kontakt mit der Gewerkschaft angebrochen. Dieser Darstellung widersprach eine <NODE id="787" />Lufthansa<NODE id="796" />-Sprecherin. Sie kündigte zugleich an, im Laufe des Tages werde einen Sonderflugplan für <NODE id="885" />Montag<NODE id="891" /> erarbeitet.
+Der Streik, der die ganze Woche dauern soll, hatte
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.boerse-online.de/nachrichten/aktien/Flugbegleiter-weiten-Streik-auf-Muenchen-aus-1000900860@2016-03-10T17:27:07.743+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T16:27:07.743Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T16:27:13.316Z" />
+<feature featureName="uri" featureValue="http://www.boerse-online.de/nachrichten/aktien/Flugbegleiter-weiten-Streik-auf-Muenchen-aus-1000900860" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="20" type="person" surface="Andreas Framke" />
+<Entity id="1" startPos="25" endPos="40" type="person" surface="Peter Maushagen" />
+<Entity id="2" startPos="41" endPos="50" type="location-city" surface="Frankfurt" />
+<Entity id="3" startPos="93" endPos="96" type="organization" surface="Ufo" />
+<Entity id="4" startPos="110" endPos="116" type="trigger" surface="Streik" />
+<Entity id="5" startPos="125" endPos="134" type="organization-company" surface="Lufthansa" />
+<Entity id="6" startPos="187" endPos="194" type="date" surface="Sonntag" />
+<Entity id="7" startPos="198" endPos="207" type="location-city" surface="Frankfurt" />
+<Entity id="8" startPos="262" endPos="271" type="location-city" surface="Frankfurt" />
+<Entity id="9" startPos="273" endPos="283" type="location-city" surface="Düsseldorf" />
+<Entity id="10" startPos="288" endPos="295" type="location-city" surface="München" />
+<Entity id="11" startPos="300" endPos="306" type="date" surface="Montag" />
+<Entity id="12" startPos="322" endPos="329" type="trigger" surface="Streiks" />
+<Entity id="13" startPos="434" endPos="443" type="number" surface="Hunderten" />
+<Entity id="14" startPos="496" endPos="503" type="date" surface="Samstag" />
+<Entity id="15" startPos="527" endPos="530" type="number" surface="500" />
+<Entity id="16" startPos="550" endPos="553" type="organization" surface="Ufo" />
+<Entity id="17" startPos="554" endPos="558" type="org-position" surface="Chef" />
+<Entity id="18" startPos="559" endPos="575" type="person" surface="Nicoley Baublies" />
+<Entity id="19" startPos="587" endPos="596" type="organization-company" surface="Lufthansa" />
+<Entity id="20" startPos="667" endPos="687" type="date" surface="Donnerstagnachmittag" />
+<Entity id="21" startPos="787" endPos="796" type="organization-company" surface="Lufthansa" />
+<Entity id="22" startPos="885" endPos="891" type="date" surface="Montag" /></Entities><Relations>
+<Relation id="23" NAME="OrganizationLeadership">
+<Entity id="18" label="person" />
+<Entity id="16" label="organization" />
+<Entity id="17" label="position" />
+</Relation>
+<Relation id="24" NAME="Strike">
+<Entity id="5" label="company" />
+<Entity id="3" label="union" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

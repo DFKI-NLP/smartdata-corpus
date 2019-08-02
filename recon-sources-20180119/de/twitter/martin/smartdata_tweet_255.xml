@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-AA<NODE id="6" />:<NODE id="7" /> Rems-Murr-Kreis<NODE id="23" />: Verkehrsunfälle und Straftaten bis <NODE id="60" />10.00<NODE id="65" /> Uhr #Polizei https://t.co/1qp6a4BPln
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670975565759909892" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-29T14:40:15Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:23:03.315Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization" surface="POL-AA" />
+<Entity id="1" startPos="7" endPos="23" type="location" surface=" Rems-Murr-Kreis" />
+<Entity id="2" startPos="60" endPos="65" type="time" surface="10.00" /></Entities><Relations />
+</Document>

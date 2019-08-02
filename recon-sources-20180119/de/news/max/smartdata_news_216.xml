@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> <NODE id="1" />Telekom<NODE id="8" />, <NODE id="10" />E-Plus<NODE id="16" />, <NODE id="18" />O2<NODE id="20" />: Was Telefon- und Internetkunden <NODE id="54" />2016<NODE id="58" /> erwartet
+<NODE id="68" />Telekom<NODE id="75" />, <NODE id="77" />E-Plus<NODE id="83" />, <NODE id="85" />O2<NODE id="87" />
+Was Telefon- und Internetkunden <NODE id="120" />2016<NODE id="124" /> erwartet
+von:
+Datum:
+<NODE id="146" />29.12.2015<NODE id="156" /> <NODE id="157" />11:42 Uhr<NODE id="166" />
+Eine wichtige Entscheidung für Viel-Telefonierer ist getroffen: <NODE id="231" />2016<NODE id="235" /> sollen die Roaming-Gebühren bei Auslandsreisen deutlich sinken. Gilt das auch für die Preise hierzulande? Auf was Kunden sich einstellen müssen.
+Sie haben den Artikel in Ihre Merkliste aufgenommen.
+Möchten Sie ihn nicht auch gleich mit Feunden teilen?
+Nicht mehr fragen.
+<NODE id="507" />Frankfurt<NODE id="516" />Der <NODE id="520" />Zusammenschluss<NODE id="535" /> von <NODE id="540" />E-Plus<NODE id="546" /> und <NODE id="551" />Telefonica Deutschland<NODE id="573" /> (<NODE id="575" />O2<NODE id="577" />) <NODE id="579" />vor gut einem Jahr<NODE id="597" /> hat den Mobilfunkmarkt in <NODE id="624" />Deutschland<NODE id="635" /> durcheinandergewirbelt. Ob Verbraucher davon profitieren, ist allerdings fraglich.
+Wie entwickelt sich der Mobilfunk-Markt ?
+Auch nach der milliardenschweren <NODE id="794" />Übernahme<NODE id="803" /> von <NODE id="808" />E-Plus<NODE id="814" /> durch <NODE id="821" />Telefónica Deutschland <NODE id="844" />(<NODE id="845" />O2<NODE id="847" />) führt die <NODE id="859" />Telekom<NODE id="866" /> das Feld gemessen am Umsatz weiter an. Sie hat Experten zufolge im Schnitt die hö
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.handelsblatt.com/unternehmen/it-medien/telekom-e-plus-o2-was-telefon-und-internetkunden-2016-erwartet/12768654.html@2015-12-29T11:42:44.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-29T10:42:44Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:21:31.929Z" />
+<feature featureName="uri" featureValue="http://www.handelsblatt.com/unternehmen/it-medien/telekom-e-plus-o2-was-telefon-und-internetkunden-2016-erwartet/12768654.html" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="8" type="organization-company" surface="Telekom" />
+<Entity id="1" startPos="10" endPos="16" type="organization-company" surface="E-Plus" />
+<Entity id="2" startPos="18" endPos="20" type="organization-company" surface="O2" />
+<Entity id="3" startPos="54" endPos="58" type="date" surface="2016" />
+<Entity id="4" startPos="68" endPos="75" type="organization-company" surface="Telekom" />
+<Entity id="5" startPos="77" endPos="83" type="organization-company" surface="E-Plus" />
+<Entity id="6" startPos="85" endPos="87" type="organization-company" surface="O2" />
+<Entity id="7" startPos="120" endPos="124" type="date" surface="2016" />
+<Entity id="8" startPos="146" endPos="156" type="date" surface="29.12.2015" />
+<Entity id="9" startPos="157" endPos="166" type="time" surface="11:42 Uhr" />
+<Entity id="10" startPos="231" endPos="235" type="date" surface="2016" />
+<Entity id="11" startPos="507" endPos="516" type="location-city" surface="Frankfurt" />
+<Entity id="12" startPos="520" endPos="535" type="trigger" surface="Zusammenschluss" />
+<Entity id="13" startPos="540" endPos="546" type="organization-company" surface="E-Plus" />
+<Entity id="14" startPos="551" endPos="573" type="organization-company" surface="Telefonica Deutschland" />
+<Entity id="15" startPos="575" endPos="577" type="organization-company" surface="O2" />
+<Entity id="16" startPos="579" endPos="597" type="date" surface="vor gut einem Jahr" />
+<Entity id="17" startPos="624" endPos="635" type="location" surface="Deutschland" />
+<Entity id="18" startPos="794" endPos="803" type="trigger" surface="Übernahme" />
+<Entity id="19" startPos="808" endPos="814" type="organization-company" surface="E-Plus" />
+<Entity id="20" startPos="821" endPos="844" type="organization-company" surface="Telefónica Deutschland " />
+<Entity id="21" startPos="845" endPos="847" type="organization-company" surface="O2" />
+<Entity id="22" startPos="859" endPos="866" type="organization-company" surface="Telekom" /></Entities><Relations>
+<Relation id="23" NAME="Acquisition">
+<Entity id="18" label="trigger" />
+<Entity id="19" label="acquired" />
+<Entity id="20" label="buyer" />
+</Relation>
+<Relation id="24" NAME="Identity">
+<Entity id="20" label="company" />
+<Entity id="21" label="coreference" />
+</Relation>
+<Relation id="25" NAME="Merger">
+<Entity id="13" label="old" />
+<Entity id="12" label="trigger" />
+<Entity id="14" label="old" />
+</Relation></Relations>
+</Document>

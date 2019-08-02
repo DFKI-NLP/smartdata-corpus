@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />EW1744<NODE id="7" /> kommt in #<NODE id="18" />GenfFlughafen<NODE id="31" /> #<NODE id="33" />GVA<NODE id="36" /> um <NODE id="40" />16:15<NODE id="45" /> Uhr an https://t.co/53JSkj956i
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="707540195764269056" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-09T12:15:02Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T01:56:25.581Z" />
+<feature featureName="uri" featureValue="https://twitter.com/4685078090/status/707540195764269056" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="7" type="location-route" surface="EW1744" />
+<Entity id="1" startPos="18" endPos="31" type="location-stop" surface="GenfFlughafen" />
+<Entity id="2" startPos="33" endPos="36" type="location-stop" surface="GVA" />
+<Entity id="3" startPos="40" endPos="45" type="time" surface="16:15" /></Entities><Relations />
+</Document>

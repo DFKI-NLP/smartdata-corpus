@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>| von <NODE id="6" />Peter  Hammer<NODE id="19" />
+Der neue Auftritt der <NODE id="42" />Sparkassen<NODE id="52" /> von <NODE id="57" />Jung von Matt<NODE id="70" />
+<NODE id="71" />Ein Jahr<NODE id="79" /> lang hat sich der <NODE id="98" />Sparkassen<NODE id="108" />-Dachverband <NODE id="121" />DSGV<NODE id="125" /> Zeit genommen, um das Corporate Design und die Positionierung zu überarbeiten. Jetzt startet der neue Markenauftritt. Er kommt von der Stammagentur <NODE id="274" />Jung von Matt/Spree <NODE id="294" />und setzt sich deutlich von der bisherigen Kommunkation ab. Zentrales Thema ist Einfachheit. Oder wie es <NODE id="399" />Silke Lehm<NODE id="409" />, Leiterin Marketing-Kommunikation formuliert: Wir wollen deutlich machen, dass wir ein moderner und zugänglicher Finanzpartner sind, der es den Menschen einfach macht, ihre Fragen rund ums Geld zu lösen.
+Es bestand Handlungsbedarf. Eine Studie hatte unter anderem ergeben, dass die <NODE id="692" />Sparkassen<NODE id="702" /> trotz des dichten Filialnetzes beim Punkt emotionale Nähe schlechter abschnitten als mancher Wettbewerber. In den Augen vieler Menschen gelten sie als konservativ und somit wenig progressiv. Daran hatten offenbar auch die wiederholt prämierten Ka
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wuv.de/marketing/der_neue_auftritt_der_sparkassen_von_jung_von_matt@2016-03-10T14:10:44.923+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:10:44.923Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:10:53.484Z" />
+<feature featureName="uri" featureValue="http://www.wuv.de/marketing/der_neue_auftritt_der_sparkassen_von_jung_von_matt" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="19" type="person" surface="Peter  Hammer" />
+<Entity id="1" startPos="42" endPos="52" type="organization-company" surface="Sparkassen" />
+<Entity id="2" startPos="57" endPos="70" type="person" surface="Jung von Matt" />
+<Entity id="3" startPos="71" endPos="79" type="duration" surface="Ein Jahr" />
+<Entity id="4" startPos="98" endPos="108" type="organization-company" surface="Sparkassen" />
+<Entity id="5" startPos="121" endPos="125" type="organization-company" surface="DSGV" />
+<Entity id="6" startPos="274" endPos="294" type="organization-company" surface="Jung von Matt/Spree " />
+<Entity id="7" startPos="399" endPos="409" type="person" surface="Silke Lehm" />
+<Entity id="8" startPos="692" endPos="702" type="organization-company" surface="Sparkassen" /></Entities><Relations />
+</Document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A61<NODE id="3" /> <NODE id="4" />Mönchengladbach<NODE id="19" /> Richtung <NODE id="29" />Koblenz<NODE id="36" /> zwischen <NODE id="46" />Dreieck Jackerath<NODE id="63" /> und <NODE id="68" />Bergheim<NODE id="76" /> <NODE id="77" />1 km<NODE id="81" /> <NODE id="82" />Stau<NODE id="86" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#27@2016-02-18T13:12:49.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-18T12:12:49Z" />
+<feature featureName="indexDate" featureValue="2016-03-18T15:18:56.361Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A61" />
+<Entity id="1" startPos="4" endPos="19" type="location-city" surface="Mönchengladbach" />
+<Entity id="2" startPos="29" endPos="36" type="location-city" surface="Koblenz" />
+<Entity id="3" startPos="46" endPos="63" type="location" surface="Dreieck Jackerath" />
+<Entity id="4" startPos="68" endPos="76" type="location" surface="Bergheim" />
+<Entity id="5" startPos="77" endPos="81" type="distance" surface="1 km" />
+<Entity id="6" startPos="82" endPos="86" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

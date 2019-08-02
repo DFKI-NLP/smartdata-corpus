@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />:<NODE id="18" /> <NODE id="19" />Megafusion: Der <NODE id="35" />Viagra<NODE id="41" />-<NODE id="42" />Hersteller<NODE id="52" /> #<NODE id="54" />Pfizer<NODE id="60" /> ist an einer <NODE id="74" />Übernahme<NODE id="83" /> des <NODE id="88" />Botox<NODE id="93" />-<NODE id="94" />Herstellers<NODE id="105" /> <NODE id="106" />Allergan<NODE id="114" /> interessiert.<NODE id="128" /> 
+<NODE id="130" />https://t…<NODE id="140" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="659819819706007552" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-29T19:51:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T13:58:05.73Z" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="18" type="sentence" surface="RT @SPIEGELONLINE:" />
+<Entity id="1" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="2" startPos="19" endPos="128" type="sentence" surface="Megafusion: Der Viagra-Hersteller #Pfizer ist an einer Übernahme des Botox-Herstellers Allergan interessiert." />
+<Entity id="3" startPos="35" endPos="41" type="product" surface="Viagra" />
+<Entity id="4" startPos="42" endPos="52" type="trigger" surface="Hersteller" />
+<Entity id="5" startPos="54" endPos="60" type="organization-company" surface="Pfizer" />
+<Entity id="6" startPos="74" endPos="83" type="trigger" surface="Übernahme" />
+<Entity id="7" startPos="88" endPos="93" type="product" surface="Botox" />
+<Entity id="8" startPos="94" endPos="105" type="trigger" surface="Herstellers" />
+<Entity id="9" startPos="106" endPos="114" type="organization-company" surface="Allergan" />
+<Entity id="10" startPos="130" endPos="140" type="sentence" surface="https://t…" /></Entities><Relations>
+<Relation id="11" NAME="Acquisition">
+<Entity id="6" label="trigger" />
+<Entity id="9" label="acquired" />
+<Entity id="5" label="buyer" />
+</Relation>
+<Relation id="12" NAME="CompanyProvidesProduct">
+<Entity id="3" label="product" />
+<Entity id="5" label="company" />
+<Entity id="4" label="trigger" />
+</Relation>
+<Relation id="13" NAME="CompanyProvidesProduct">
+<Entity id="7" label="product" />
+<Entity id="9" label="company" />
+<Entity id="8" label="trigger" />
+</Relation></Relations>
+</Document>

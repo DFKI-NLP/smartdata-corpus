@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Heilbronn<NODE id="9" /> Richtung <NODE id="19" />Nürnberg<NODE id="27" /> zwischen <NODE id="37" />Schwäbisch Hall<NODE id="52" /> und <NODE id="57" />Crailsheim<NODE id="67" /> Unfall mit LKW, Unfall, Gefahr durch auslaufendes Öl, rechter Fahrstreifen blockiert, <NODE id="154" />20 km<NODE id="159" /> Stau (<NODE id="166" />Ausfahrt Crailsheim<NODE id="185" /> gesperrt. Bitte <NODE id="202" />U 85<NODE id="206" /> benutzen. Teilweise Vollsperrung an der Unfallstelle erforderlich)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=15eaf634-c5c1-4fa4-93a2-2d0865d4e54e@2016-03-10T17:38:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T16:38:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T17:55:19.374Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=15eaf634-c5c1-4fa4-93a2-2d0865d4e54e" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location" surface="Heilbronn" />
+<Entity id="1" startPos="19" endPos="27" type="location" surface="Nürnberg" />
+<Entity id="2" startPos="37" endPos="52" type="location" surface="Schwäbisch Hall" />
+<Entity id="3" startPos="57" endPos="67" type="location" surface="Crailsheim" />
+<Entity id="4" startPos="154" endPos="159" type="distance" surface="20 km" />
+<Entity id="5" startPos="166" endPos="185" type="location" surface="Ausfahrt Crailsheim" />
+<Entity id="6" startPos="202" endPos="206" type="location-street" surface="U 85" /></Entities><Relations />
+</Document>

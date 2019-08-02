@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Maserati<NODE id="8" />: Der <NODE id="14" />Levante<NODE id="21" /> kommt
+Firmenkunden stehen auf <NODE id="52" />Ghibli<NODE id="58" /> und <NODE id="63" />Quattroporte<NODE id="75" />. In <NODE id="80" />Genf<NODE id="84" /> stellt <NODE id="92" />Maserati<NODE id="100" /> den Edel-SUV <NODE id="114" />Levante<NODE id="121" /> vor
+Wer von kleinen Zahlen kommt, kann leicht große vermelden. <NODE id="185" />Maserati<NODE id="193" /> ist so ein Fall. Der <NODE id="215" />italienische<NODE id="227" /> Sportwagenhersteller hat zwischen <NODE id="262" />2012<NODE id="266" /> und <NODE id="271" />2014<NODE id="275" /> seinen Absatz versechsfacht, auf jährlich über <NODE id="323" />36.000<NODE id="329" /> Einheiten. Ein Rekordergebnis seit Bestehen des Unternehmens. Mehr als die Hälfte geht auf das Konto des <NODE id="435" />Ghibli<NODE id="441" />, <NODE id="443" />Maseratis<NODE id="452" /> erste Business-Limousine, die auch mit einem Dieselmotor erhältlich ist. Ein wichtiges Kaufargument in <NODE id="556" />Europa<NODE id="562" />.
+Doch so schön es klingt, die Prognosen, die man vor einigen Jahren machte, klangen deutlich optimistischer. Gar achtmal so viele sollten es werden. Die Marke wird einen starken Volumenschub bekommen, versprach noch <NODE id="779" />2012<NODE id="783" /> der Marketing-Leiter <NODE id="805" />Thomas Rompel<NODE id="818" />. Marken- und Vorstandschef <NODE id="846" />Harald Wester<NODE id="859" /> nannte die dazugehörige Zahl: <NODE id="890" />50.000<NODE id="896" /> Einheiten in <NODE id="910" />2015<NODE id="914" />.
+Nun, ganz so viele wurden es dann doch nicht. Die Nachfrag
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.firmenauto.de/maserati-der-levante-kommt-6862844.html@2016-02-24T09:19:28.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T08:19:28Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T09:41:02.952Z" />
+<feature featureName="uri" featureValue="http://www.firmenauto.de/maserati-der-levante-kommt-6862844.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="organization-company" surface="Maserati" />
+<Entity id="1" startPos="14" endPos="21" type="product" surface="Levante" />
+<Entity id="2" startPos="52" endPos="58" type="product" surface="Ghibli" />
+<Entity id="3" startPos="63" endPos="75" type="product" surface="Quattroporte" />
+<Entity id="4" startPos="80" endPos="84" type="location-city" surface="Genf" />
+<Entity id="5" startPos="92" endPos="100" type="organization-company" surface="Maserati" />
+<Entity id="6" startPos="114" endPos="121" type="product" surface="Levante" />
+<Entity id="7" startPos="185" endPos="193" type="organization-company" surface="Maserati" />
+<Entity id="8" startPos="215" endPos="227" type="location" surface="italienische" />
+<Entity id="9" startPos="262" endPos="266" type="date" surface="2012" />
+<Entity id="10" startPos="271" endPos="275" type="date" surface="2014" />
+<Entity id="11" startPos="323" endPos="329" type="number" surface="36.000" />
+<Entity id="12" startPos="435" endPos="441" type="product" surface="Ghibli" />
+<Entity id="13" startPos="443" endPos="452" type="organization-company" surface="Maseratis" />
+<Entity id="14" startPos="556" endPos="562" type="location" surface="Europa" />
+<Entity id="15" startPos="779" endPos="783" type="date" surface="2012" />
+<Entity id="16" startPos="805" endPos="818" type="person" surface="Thomas Rompel" />
+<Entity id="17" startPos="846" endPos="859" type="person" surface="Harald Wester" />
+<Entity id="18" startPos="890" endPos="896" type="number" surface="50.000" />
+<Entity id="19" startPos="910" endPos="914" type="date" surface="2015" /></Entities><Relations>
+<Relation id="20" NAME="CompanyProvidesProduct">
+<Entity id="6" label="product" />
+<Entity id="5" label="company" />
+</Relation>
+<Relation id="21" NAME="CompanyProvidesProduct">
+<Entity id="12" label="product" />
+<Entity id="13" label="company" />
+</Relation></Relations>
+</Document>

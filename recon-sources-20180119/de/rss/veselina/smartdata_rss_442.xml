@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A3<NODE id="2" /> <NODE id="3" />Passau<NODE id="9" /> Richtung <NODE id="19" />Nürnberg<NODE id="27" /> zwischen <NODE id="37" />Oberölsbach<NODE id="48" /> und <NODE id="53" />Kreuz Altdorf<NODE id="66" /> <NODE id="67" />2 km<NODE id="71" /> <NODE id="72" />Stau<NODE id="76" /> wegen <NODE id="83" />Bergungsarbeiten<NODE id="99" /> auf der rechten Spur
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#15@2016-02-24T16:39:25.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T15:39:25Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:18:20.531Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A3" />
+<Entity id="1" startPos="3" endPos="9" type="location-city" surface="Passau" />
+<Entity id="2" startPos="19" endPos="27" type="location-city" surface="Nürnberg" />
+<Entity id="3" startPos="37" endPos="48" type="location" surface="Oberölsbach" />
+<Entity id="4" startPos="53" endPos="66" type="location" surface="Kreuz Altdorf" />
+<Entity id="5" startPos="67" endPos="71" type="distance" surface="2 km" />
+<Entity id="6" startPos="72" endPos="76" type="trigger" surface="Stau" />
+<Entity id="7" startPos="83" endPos="99" type="trigger" surface="Bergungsarbeiten" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="7" label="cause" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="jam_length" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

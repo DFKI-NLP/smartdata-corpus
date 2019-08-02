@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@RailService @<NODE id="14" />RBS_ch<NODE id="20" /> Das nenne ich öV, Zug hat Verspätung, der letzte Bus ist weg, kein Personal mehr am Bhf und ich darf ein Taxi bezahlen!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667953318052917248" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-21T06:30:55Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:02:55.728Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="20" type="organization-company" surface="RBS_ch" /></Entities><Relations />
+</Document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />faznet<NODE id="7" /> Hat die Hosen voll, kein Rückrat. Peinlich bis degoutant.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671379452748816384" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-30T17:25:09Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:25:05.727Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="7" type="organization-company" surface="faznet" /></Entities><Relations />
+</Document>

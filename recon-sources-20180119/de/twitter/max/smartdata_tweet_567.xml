@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: Zum ersten Mal nach den Ereignissen im #<NODE id="52" />Bataclan<NODE id="60" /> in #<NODE id="65" />Paris<NODE id="70" /> sprechen die „<NODE id="85" />Eagles of Death Metal<NODE id="106" />“ über den Abend: https://t.co/WS…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668488867670966272" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-22T17:59:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:06:55.73Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="52" endPos="60" type="location" surface="Bataclan" />
+<Entity id="2" startPos="65" endPos="70" type="location-city" surface="Paris" />
+<Entity id="3" startPos="85" endPos="106" type="organization" surface="Eagles of Death Metal" /></Entities><Relations />
+</Document>

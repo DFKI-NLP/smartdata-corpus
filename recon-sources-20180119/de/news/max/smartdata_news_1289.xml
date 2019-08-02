@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Das betroffene Produkt. (Foto: <NODE id="31" />Hofer<NODE id="36" />)
+Das betroffene Produkt. (Foto: <NODE id="69" />Hofer<NODE id="74" />)
+Vorsicht! Die <NODE id="90" />Sorger GmbH<NODE id="101" /> ruft seine <NODE id="113" />Frauntaler Ungarische Salami<NODE id="141" /> zurück. Das Produkt war vorübergehend in einigen <NODE id="191" />Hofer<NODE id="196" />-Filialen verkauft worden, und kann mit  EHEC-Bakterien  verunreinigt sein. 
+Konkret handelt es sich um die <NODE id="304" />100-Gramm<NODE id="313" /> Packung mit dem Ablaufdatum <NODE id="342" />06.01.2016<NODE id="352" />.
+Das Produkt wurde bereits aus den <NODE id="388" />Hofer<NODE id="393" />-Regalen genommen, der Kaufpreis wird auch ohne Vorweis des Belegs zurückerstattet.
+Das EHEC ist ein Bakterium, das lebensgefährliche Darminfekte verursacht. Eine Infektion mit dem Erreger, der oft fälschlicherweise als Virus bezeichnet wird, geht in der Regel mit blutigem Durchfall (enterohämorrhagische Colitis) einher. Besonders gefährlich ist die Krankheit bei Kleinkindern, hier kann es zu Nierenversagen kommen. 
+Lebensgefährliche Darminfekte
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.heute.at/lifestyle/gesundheit/Hofer-ruft-Salami-mit-EHEC-Erreger-zurueck;art23696,1248492@2016-01-08T11:51:05.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-08T10:51:05Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:40:52.952Z" />
+<feature featureName="uri" featureValue="http://www.heute.at/lifestyle/gesundheit/Hofer-ruft-Salami-mit-EHEC-Erreger-zurueck;art23696,1248492" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="31" endPos="36" type="organization-company" surface="Hofer" />
+<Entity id="1" startPos="69" endPos="74" type="organization-company" surface="Hofer" />
+<Entity id="2" startPos="90" endPos="101" type="organization-company" surface="Sorger GmbH" />
+<Entity id="3" startPos="113" endPos="141" type="product" surface="Frauntaler Ungarische Salami" />
+<Entity id="4" startPos="191" endPos="196" type="organization-company" surface="Hofer" />
+<Entity id="5" startPos="304" endPos="313" type="number" surface="100-Gramm" />
+<Entity id="6" startPos="342" endPos="352" type="date" surface="06.01.2016" />
+<Entity id="7" startPos="388" endPos="393" type="organization-company" surface="Hofer" /></Entities><Relations>
+<Relation id="8" NAME="CompanyProvidesProduct">
+<Entity id="3" label="product" />
+<Entity id="2" label="company" />
+</Relation></Relations>
+</Document>

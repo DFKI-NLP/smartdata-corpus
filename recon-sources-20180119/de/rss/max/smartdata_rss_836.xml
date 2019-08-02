@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A5<NODE id="2" /> <NODE id="3" />Frankfurt<NODE id="12" /> Richtung <NODE id="22" />Karlsruhe<NODE id="31" /> zwischen <NODE id="41" />Bruchsal<NODE id="49" /> und <NODE id="54" />Karlsruhe-Nord <NODE id="69" />Baumfällarbeiten<NODE id="85" />, <NODE id="87" />2 km<NODE id="91" /> <NODE id="92" />Stau<NODE id="96" />, die rechte Spur ist gesperrt.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#16@2016-04-07T15:15:01.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-07T13:15:01Z" />
+<feature featureName="indexDate" featureValue="2016-04-07T13:15:13.264Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A5" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Frankfurt" />
+<Entity id="2" startPos="22" endPos="31" type="location-city" surface="Karlsruhe" />
+<Entity id="3" startPos="41" endPos="49" type="location" surface="Bruchsal" />
+<Entity id="4" startPos="54" endPos="69" type="location" surface="Karlsruhe-Nord " />
+<Entity id="5" startPos="69" endPos="85" type="trigger" surface="Baumfällarbeiten" />
+<Entity id="6" startPos="87" endPos="91" type="distance" surface="2 km" />
+<Entity id="7" startPos="92" endPos="96" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="6" label="jam_length" />
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

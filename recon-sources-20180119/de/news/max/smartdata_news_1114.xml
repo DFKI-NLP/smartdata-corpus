@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />WDR<NODE id="3" />-Kino-Koproduktion „Zwischen den Jahren“ – Ein Filmüber Sühne und späte Rache nach einem Verbrechen
+<NODE id="103" />11. Februar 2016<NODE id="119" /> | Abgelegt unter: Kunst &amp; Kultur | Beitrag von: Presse
+In <NODE id="178" />Köln<NODE id="182" /> und Umgebung haben kürzlich die Dreharbeiten
+zum Kino-Debüt von Regisseur <NODE id="257" />Lars Henning<NODE id="269" /> begonnen. Der Film mit dem
+Arbeitstitel „Zwischen den Jahren“ handelt von einem verurteilten
+Mörder, der nach Verbüßung seiner Strafe von seiner Vergangenheit
+wieder eingeholt wird. In den Hauptrollen: <NODE id="472" />Peter Kurth<NODE id="483" />, <NODE id="485" />Karl
+Markovics<NODE id="499" />, <NODE id="501" />Leonardo Nigro<NODE id="515" /> und <NODE id="520" />Catrin Striebeck<NODE id="536" />. Die Dreharbeiten
+werden bis zum <NODE id="570" />7. März<NODE id="577" /> andauern.
+Zum Inhalt: <NODE id="600" />Becker<NODE id="606" /> (<NODE id="608" />Peter Kurth<NODE id="619" />), ein wortkarger, etwas
+grobschlächtiger Mann, ist nach einer lebenslangen Haftstrafe aus dem
+Gefängnis entlassen worden. Sein altes Leben liegt genau so weit
+hinter ihm wie die schreckliche Tat, die er damals begangen hat.
+Jetzt will er nur noch seine Ruhe, sein neues Leben führen. In der
+Firma, in der er arbeitet, hat er so
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.gateo.de/wdr-kino-koproduktion-zwischen-den-jahren-ein-filmuber-suhne-und-spate-rache-nach-einem-verbrechen-1320025.html/@2016-02-11T18:30:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-11T17:30:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:20:23.429Z" />
+<feature featureName="uri" featureValue="http://www.gateo.de/wdr-kino-koproduktion-zwischen-den-jahren-ein-filmuber-suhne-und-spate-rache-nach-einem-verbrechen-1320025.html/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization-company" surface="WDR" />
+<Entity id="1" startPos="103" endPos="119" type="date" surface="11. Februar 2016" />
+<Entity id="2" startPos="178" endPos="182" type="location-city" surface="Köln" />
+<Entity id="3" startPos="257" endPos="269" type="person" surface="Lars Henning" />
+<Entity id="4" startPos="472" endPos="483" type="person" surface="Peter Kurth" />
+<Entity id="5" startPos="485" endPos="499" type="person" surface="Karl&#xA;Markovics" />
+<Entity id="6" startPos="501" endPos="515" type="person" surface="Leonardo Nigro" />
+<Entity id="7" startPos="520" endPos="536" type="person" surface="Catrin Striebeck" />
+<Entity id="8" startPos="570" endPos="577" type="date" surface="7. März" />
+<Entity id="9" startPos="600" endPos="606" type="person" surface="Becker" />
+<Entity id="10" startPos="608" endPos="619" type="person" surface="Peter Kurth" /></Entities><Relations />
+</Document>

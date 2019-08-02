@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Leistungstext:
+Art und Umfang des Auftragsgegenstandes :
+Die <NODE id="61" />Vitos GmbH<NODE id="71" /> schreibt für ihre <NODE id="90" />Tochtergesellschaft<NODE id="109" />, die <NODE id="115" />Vitos Orthopädische Klinik Kassel gemeinnützige GmbH<NODE id="167" />, die Beschaffung eines Operationsmikroskop zum direkten Einsatz im OP für den Chefarztbereich Wirbelsäule/Spine im Wege eines Interessenbekundungsverfahrens mit anschließender Freihändigen Vergabe aus.
+Objekttyp:
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.bauportal-deutschland.de/oeffentliche_ausschreibung_vobvol_details_34131_Kassel_Operationsmikroskop__1061511.html@2016-01-25T02:01:54.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-25T01:01:54Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T04:15:21.931Z" />
+<feature featureName="uri" featureValue="http://www.bauportal-deutschland.de/oeffentliche_ausschreibung_vobvol_details_34131_Kassel_Operationsmikroskop__1061511.html" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="61" endPos="71" type="organization-company" surface="Vitos GmbH" />
+<Entity id="1" startPos="90" endPos="109" type="trigger" surface="Tochtergesellschaft" />
+<Entity id="2" startPos="115" endPos="167" type="organization-company" surface="Vitos Orthopädische Klinik Kassel gemeinnützige GmbH" /></Entities><Relations>
+<Relation id="3" NAME="CompanyRelationship">
+<Entity id="0" label="parent" />
+<Entity id="1" label="trigger" />
+<Entity id="2" label="child" />
+</Relation></Relations>
+</Document>

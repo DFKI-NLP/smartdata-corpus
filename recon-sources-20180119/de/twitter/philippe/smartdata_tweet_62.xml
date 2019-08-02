@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />WN_Redaktion<NODE id="16" />: Ab <NODE id="21" />heute<NODE id="26" /> <NODE id="27" />Schienenersatzverkehr<NODE id="48" /> für die <NODE id="57" />RB 64<NODE id="62" /> zwischen #<NODE id="73" />Münster Hbf<NODE id="84" /> und #<NODE id="90" />Altenberge<NODE id="100" /> - aber nur von <NODE id="116" />20.45<NODE id="121" /> bis <NODE id="126" />5 Uhr<NODE id="131" />. http:/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="630681882032738304" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="16" type="organization-company" surface="WN_Redaktion" />
+<Entity id="1" startPos="21" endPos="26" type="date" surface="heute" />
+<Entity id="2" startPos="27" endPos="48" type="trigger" surface="Schienenersatzverkehr" />
+<Entity id="3" startPos="57" endPos="62" type="location-route" surface="RB 64" />
+<Entity id="4" startPos="73" endPos="84" type="location-stop" surface="Münster Hbf" />
+<Entity id="5" startPos="90" endPos="100" type="location-stop" surface="Altenberge" />
+<Entity id="6" startPos="116" endPos="121" type="time" surface="20.45" />
+<Entity id="7" startPos="126" endPos="131" type="time" surface="5 Uhr" /></Entities><Relations>
+<Relation id="8" NAME="RailReplacementService">
+<Entity id="5" label="end_loc" />
+<Entity id="4" label="start_loc" />
+<Entity id="3" label="location" />
+<Entity id="2" label="trigger" />
+<Entity id="6" label="start_date" />
+<Entity id="7" label="start_date" />
+</Relation></Relations>
+</Document>

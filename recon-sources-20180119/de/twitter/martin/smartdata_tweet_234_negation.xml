@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>⭐️ #<NODE id="4" />Hamburg<NODE id="11" /> • Zunächst keine Entlassungen am <NODE id="45" />Flughafen Lübeck<NODE id="61" />:  https://t.co/sbeVCLdlA2
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710882877957742592" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-18T17:37:40Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T13:56:45.041Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="11" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="45" endPos="61" type="organization-company" surface="Flughafen Lübeck" /></Entities><Relations />
+</Document>

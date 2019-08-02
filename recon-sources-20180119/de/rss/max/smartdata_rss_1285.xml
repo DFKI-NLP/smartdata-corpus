@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Stuttgart<NODE id="9" /> Richtung <NODE id="19" />Karlsruhe<NODE id="28" /> zwischen <NODE id="38" />Kreuz Stuttgart<NODE id="53" /> und <NODE id="58" />Rutesheim<NODE id="67" /> <NODE id="68" />12 km<NODE id="73" /> <NODE id="74" />stockender Verkehr<NODE id="92" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=af072333-2a9f-4c06-bd1e-c62b988f508f@2016-07-18T11:21:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T09:21:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T11:36:51.79Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=af072333-2a9f-4c06-bd1e-c62b988f508f" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Stuttgart" />
+<Entity id="1" startPos="19" endPos="28" type="location-city" surface="Karlsruhe" />
+<Entity id="2" startPos="38" endPos="53" type="location" surface="Kreuz Stuttgart" />
+<Entity id="3" startPos="58" endPos="67" type="location" surface="Rutesheim" />
+<Entity id="4" startPos="68" endPos="73" type="distance" surface="12 km" />
+<Entity id="5" startPos="74" endPos="92" type="trigger" surface="stockender Verkehr" /></Entities><Relations />
+</Document>

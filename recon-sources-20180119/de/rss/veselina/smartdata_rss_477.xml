@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sonstiges
+Abschnitt: (<NODE id="22" />Berlin<NODE id="28" />)
+Gültig ab: <NODE id="41" />27.03.2016<NODE id="51" /> <NODE id="52" />15:54<NODE id="57" />
+Straße geräumt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_63551@2016-03-27T16:54:07.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-27T14:54:07Z" />
+<feature featureName="indexDate" featureValue="2016-03-27T15:03:38.879Z" />
+<feature featureName="uri" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_63551" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="22" endPos="28" type="location-city" surface="Berlin" />
+<Entity id="1" startPos="41" endPos="51" type="date" surface="27.03.2016" />
+<Entity id="2" startPos="52" endPos="57" type="time" surface="15:54" /></Entities><Relations />
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Sonntag, 15. Mai<NODE id="19" />, <NODE id="21" />ganztägig<NODE id="30" />
+Meldung:
+Die <NODE id="44" />IC-Züge<NODE id="51" /> <NODE id="52" />verspäten<NODE id="61" /> sich zwischen <NODE id="76" />Traunstein<NODE id="86" /> und <NODE id="91" />Freilassing<NODE id="102" /> sowie darüber hinaus um <NODE id="127" />8<NODE id="128" /> –<NODE id="130" />16 Min.<NODE id="137" />
+Grund:
+Brückenarbeiten <NODE id="161" />Lauter<NODE id="167" /> – <NODE id="170" />Teisendorf<NODE id="180" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="250" />90<NODE id="252" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_26-Binz_-_Stralsund_Westerland-Hamburg-Hannover-Giessen-Frankfurt_M-Karlsuhe_Nuernberg-Oberstdorf_Passau_Muenchen_Berchtesgaden_/11#736296dbda109889e947064c0d24330eafd5d13d@2016-02-26T17:15:46.254+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-26T16:15:46.254Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:27:09.02Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_26-Binz_-_Stralsund_Westerland-Hamburg-Hannover-Giessen-Frankfurt_M-Karlsuhe_Nuernberg-Oberstdorf_Passau_Muenchen_Berchtesgaden_/11#736296dbda109889e947064c0d24330eafd5d13d" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="19" type="date" surface="Sonntag, 15. Mai" />
+<Entity id="1" startPos="21" endPos="30" type="time" surface="ganztägig" />
+<Entity id="2" startPos="44" endPos="51" type="location-route" surface="IC-Züge" />
+<Entity id="3" startPos="52" endPos="61" type="trigger" surface="verspäten" />
+<Entity id="4" startPos="76" endPos="86" type="location-stop" surface="Traunstein" />
+<Entity id="5" startPos="91" endPos="102" type="location-stop" surface="Freilassing" />
+<Entity id="6" startPos="127" endPos="128" type="duration" surface="8" />
+<Entity id="7" startPos="130" endPos="137" type="duration" surface="16 Min." />
+<Entity id="8" startPos="161" endPos="167" type="location-stop" surface="Lauter" />
+<Entity id="9" startPos="170" endPos="180" type="location-stop" surface="Teisendorf" />
+<Entity id="10" startPos="250" endPos="252" type="number" surface="90" /></Entities><Relations>
+<Relation id="11" NAME="Delay">
+<Entity id="7" label="delay" />
+<Entity id="6" label="delay" />
+<Entity id="5" label="end_loc" />
+<Entity id="4" label="start_loc" />
+<Entity id="2" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A52<NODE id="3" /> <NODE id="4" />Düsseldorf<NODE id="14" /> Richtung <NODE id="24" />Essen<NODE id="29" /> zwischen <NODE id="39" />Düsseldorf-Rath<NODE id="54" /> und <NODE id="59" />Essen-Kettwig<NODE id="72" /> <NODE id="73" />10 km<NODE id="78" /> <NODE id="79" />Stau<NODE id="83" /> wegen <NODE id="90" />Bergungsarbeiten<NODE id="106" /> (Zeitverlust: etwa <NODE id="126" />eine Stunde<NODE id="137" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#47@2016-02-24T17:40:24.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T16:40:24Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:19:50.015Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A52" />
+<Entity id="1" startPos="4" endPos="14" type="location-city" surface="Düsseldorf" />
+<Entity id="2" startPos="24" endPos="29" type="location-city" surface="Essen" />
+<Entity id="3" startPos="39" endPos="54" type="location" surface="Düsseldorf-Rath" />
+<Entity id="4" startPos="59" endPos="72" type="location" surface="Essen-Kettwig" />
+<Entity id="5" startPos="73" endPos="78" type="distance" surface="10 km" />
+<Entity id="6" startPos="79" endPos="83" type="trigger" surface="Stau" />
+<Entity id="7" startPos="90" endPos="106" type="trigger" surface="Bergungsarbeiten" />
+<Entity id="8" startPos="126" endPos="137" type="duration" surface="eine Stunde" /></Entities><Relations>
+<Relation id="9" NAME="TrafficJam">
+<Entity id="8" label="delay" />
+<Entity id="4" label="end_loc" />
+<Entity id="7" label="cause" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="jam_length" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

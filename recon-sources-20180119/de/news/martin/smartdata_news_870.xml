@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Nach Streikjahr <NODE id="16" />2015<NODE id="20" />: Wo <NODE id="25" />2016<NODE id="29" /> Tarifverhandlungen anstehen
+<NODE id="58" />28.12.2015<NODE id="68" /> | <NODE id="71" />12:00 Uhr<NODE id="80" /> <NODE id="81" />2015-12-28T12:00:13+01:00<NODE id="106" />
+Wie und wo wird <NODE id="123" />2016<NODE id="127" /> gestreikt? In den Tarifverhandlungen geht es um noch mehr Beschäftigte als im Jahr <NODE id="211" />2015<NODE id="215" />.Foto: <NODE id="222" />dpa<NODE id="225" />
+<NODE id="226" />Frankfurt<NODE id="235" />.  Noch nie wurden Tarifstreitigkeiten in Deutschland so heftig ausgetragen wie <NODE id="315" />2015<NODE id="319" />. Ein Ausblick, in welchen Branchen <NODE id="355" />2016<NODE id="359" /> verhandelt wird.
+Metall, Chemie und Bau – der deutsche Tarifkalender für <NODE id="433" />2016<NODE id="437" /> ist mit Verhandlungen in den wichtigen Industriesparten gespickt. Bereits im <NODE id="515" />ersten Quartal<NODE id="529" /> beginnen die Gespräche über die Entgelte und Arbeitsbedingungen der größten Beschäftigtengruppen, unter anderem Metall.
+Nach einer Zusammenstellung des <NODE id="682" />Düsseldorfer<NODE id="694" /> WSI-Tarifarchivs der gewerkschaftsnahen <NODE id="735" />Hans-Böckler-Stiftung<NODE id="756" /> werden von <NODE id="768" />Ende 2015<NODE id="777" /> bis <NODE id="782" />Ende 2016<NODE id="791" /> neue Tarife für knapp <NODE id="814" />zwölf Millionen<NODE id="829" /> Beschäftigte verhandelt. Dabei geht es um rund <NODE id="877" />eine Million<NODE id="889" /> Beschäftigte mehr als <NODE id="912" />2015<NODE id="916" />, als gestritten wurde n
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.derwesten.de/wirtschaft/nach-streikjahr-2015-wo-2016-tarifverhandlungen-anstehen-id11411799.html@2016-03-10T12:44:11.629+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:44:11.629Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:44:13.317Z" />
+<feature featureName="uri" featureValue="http://www.derwesten.de/wirtschaft/nach-streikjahr-2015-wo-2016-tarifverhandlungen-anstehen-id11411799.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="20" type="date" surface="2015" />
+<Entity id="1" startPos="25" endPos="29" type="date" surface="2016" />
+<Entity id="2" startPos="58" endPos="68" type="date" surface="28.12.2015" />
+<Entity id="3" startPos="71" endPos="80" type="time" surface="12:00 Uhr" />
+<Entity id="4" startPos="81" endPos="106" type="date" surface="2015-12-28T12:00:13+01:00" />
+<Entity id="5" startPos="123" endPos="127" type="date" surface="2016" />
+<Entity id="6" startPos="211" endPos="215" type="date" surface="2015" />
+<Entity id="7" startPos="222" endPos="225" type="organization-company" surface="dpa" />
+<Entity id="8" startPos="226" endPos="235" type="location-city" surface="Frankfurt" />
+<Entity id="9" startPos="315" endPos="319" type="date" surface="2015" />
+<Entity id="10" startPos="355" endPos="359" type="date" surface="2016" />
+<Entity id="11" startPos="433" endPos="437" type="date" surface="2016" />
+<Entity id="12" startPos="515" endPos="529" type="date" surface="ersten Quartal" />
+<Entity id="13" startPos="682" endPos="694" type="location-city" surface="Düsseldorfer" />
+<Entity id="14" startPos="735" endPos="756" type="organization" surface="Hans-Böckler-Stiftung" />
+<Entity id="15" startPos="768" endPos="777" type="date" surface="Ende 2015" />
+<Entity id="16" startPos="782" endPos="791" type="date" surface="Ende 2016" />
+<Entity id="17" startPos="814" endPos="829" type="number" surface="zwölf Millionen" />
+<Entity id="18" startPos="877" endPos="889" type="number" surface="eine Million" />
+<Entity id="19" startPos="912" endPos="916" type="date" surface="2015" /></Entities><Relations />
+</Document>

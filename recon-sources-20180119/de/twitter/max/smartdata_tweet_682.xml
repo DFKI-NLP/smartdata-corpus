@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>■ #<NODE id="3" />Hamburg<NODE id="10" />: die <NODE id="16" />Ohlsdorfer Straße<NODE id="33" />  ist zwischen <NODE id="48" />Jahnring <NODE id="57" />und <NODE id="61" />Winterhuder Marktplatz<NODE id="83" /> wegen #<NODE id="91" />Bauarbeiten<NODE id="102" /> bis <NODE id="107" />Ende Juli <NODE id="117" />gesperrt<NODE id="125" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="611398244510367744" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-18T05:01:15Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:48:11.665Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="10" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="16" endPos="33" type="location-street" surface="Ohlsdorfer Straße" />
+<Entity id="2" startPos="48" endPos="57" type="location-street" surface="Jahnring " />
+<Entity id="3" startPos="61" endPos="83" type="location-street" surface="Winterhuder Marktplatz" />
+<Entity id="4" startPos="91" endPos="102" type="trigger" surface="Bauarbeiten" />
+<Entity id="5" startPos="107" endPos="117" type="date" surface="Ende Juli " />
+<Entity id="6" startPos="117" endPos="125" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="7" NAME="Obstruction">
+<Entity id="5" label="end_date" />
+<Entity id="3" label="end_loc" />
+<Entity id="4" label="cause" />
+<Entity id="2" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="6" label="trigger" />
+</Relation></Relations>
+</Document>

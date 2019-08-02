@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>&#x1f50d; <NODE id="3" />Flughafen Stuttgart GmbH<NODE id="27" /> sucht Centermanager (m/w) Akquisition Retail &#x1f50e;
+#Jobs #<NODE id="83" />Stuttgart<NODE id="92" /> https://t.co/keTgY070Ll
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743966518891913217" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-18T00:40:14Z" />
+<feature featureName="indexDate" featureValue="2016-06-18T00:40:20.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Jobbörse Stuttgart/status/743966518891913217" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="27" type="organization-company" surface="Flughafen Stuttgart GmbH" />
+<Entity id="1" startPos="83" endPos="92" type="location-city" surface="Stuttgart" /></Entities><Relations />
+</Document>

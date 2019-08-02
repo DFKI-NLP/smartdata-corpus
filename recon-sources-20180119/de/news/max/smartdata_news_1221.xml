@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />NEW YORK<NODE id="8" /> (<NODE id="10" />dpa-AFX<NODE id="17" />) - In der <NODE id="28" />VW<NODE id="30" />
+-Abgas-Affäre haben mehrere <NODE id="59" />US<NODE id="61" />-Bundesstaaten, darunter <NODE id="86" />New York<NODE id="94" /> und <NODE id="99" />Massachusetts<NODE id="112" />, weitere Klagen gegen <NODE id="135" />Volkswagen<NODE id="145" />
+und <NODE id="150" />Porsche<NODE id="157" /> angekündigt. Die Manipulation mit einer speziellen Software sei auf höchster Ebene geplant und genehmigt gewesen, auch der damalige Vorstandschef <NODE id="304" />Martin Winterkorn<NODE id="321" /> sei beteiligt gewesen, heißt es in einer gemeinsamen Mitteilung der Generalstaatsanwälte von <NODE id="415" />New York<NODE id="423" /> und <NODE id="428" />Massachusetts<NODE id="441" />, <NODE id="443" />Eric Schneiderman<NODE id="460" /> und <NODE id="465" />Maura Healey<NODE id="477" /> vom <NODE id="482" />Dienstag<NODE id="490" />. Auch im Bundesstaat <NODE id="512" />Maryland<NODE id="520" /> wird die Ankündigung einer Klage erwartet.
+Die Klagen richten sich gegen die <NODE id="598" />Volkswagen AG<NODE id="611" />, die <NODE id="617" />Audi
+AG<NODE id="624" /> und die <NODE id="633" />Porsche AG<NODE id="643" /> sowie die jeweiligen <NODE id="665" />US<NODE id="667" />-Ableger der Firmen. Einer der Vorwürfe lautet auch auf die Zerstörung wichtiger Beweismittel. Mehrere <NODE id="770" />VW<NODE id="772" />-Mitarbeiter hätten einem Tipp von einem Hausjuristen folgend die Beweise geschreddert./dm/DP/jha
+ISIN  DE0006757008  DE0007664005  DE0007664039
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanznachrichten.de/nachrichten-2016-07/38019827-us-bundesstaaten-kuendigen-weitere-klagen-gegen-vw-an-016.htm@2016-07-19T18:00:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-19T16:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-19T16:06:57.912Z" />
+<feature featureName="uri" featureValue="http://www.finanznachrichten.de/nachrichten-2016-07/38019827-us-bundesstaaten-kuendigen-weitere-klagen-gegen-vw-an-016.htm" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-city" surface="NEW YORK" />
+<Entity id="1" startPos="10" endPos="17" type="organization-company" surface="dpa-AFX" />
+<Entity id="2" startPos="28" endPos="30" type="organization-company" surface="VW" />
+<Entity id="3" startPos="59" endPos="61" type="location" surface="US" />
+<Entity id="4" startPos="86" endPos="94" type="location" surface="New York" />
+<Entity id="5" startPos="99" endPos="112" type="location" surface="Massachusetts" />
+<Entity id="6" startPos="135" endPos="145" type="organization-company" surface="Volkswagen" />
+<Entity id="7" startPos="150" endPos="157" type="organization-company" surface="Porsche" />
+<Entity id="8" startPos="304" endPos="321" type="person" surface="Martin Winterkorn" />
+<Entity id="9" startPos="415" endPos="423" type="location" surface="New York" />
+<Entity id="10" startPos="428" endPos="441" type="location" surface="Massachusetts" />
+<Entity id="11" startPos="443" endPos="460" type="person" surface="Eric Schneiderman" />
+<Entity id="12" startPos="465" endPos="477" type="person" surface="Maura Healey" />
+<Entity id="13" startPos="482" endPos="490" type="date" surface="Dienstag" />
+<Entity id="14" startPos="512" endPos="520" type="location" surface="Maryland" />
+<Entity id="15" startPos="598" endPos="611" type="organization-company" surface="Volkswagen AG" />
+<Entity id="16" startPos="617" endPos="624" type="organization-company" surface="Audi&#xA;AG" />
+<Entity id="17" startPos="633" endPos="643" type="organization-company" surface="Porsche AG" />
+<Entity id="18" startPos="665" endPos="667" type="location" surface="US" />
+<Entity id="19" startPos="770" endPos="772" type="organization-company" surface="VW" /></Entities><Relations />
+</Document>

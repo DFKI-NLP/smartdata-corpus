@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Insiderdeals bei <NODE id="17" />Wirecard<NODE id="25" />-Aktie, <NODE id="33" />Telekom<NODE id="40" /> und <NODE id="45" />Bayer<NODE id="50" />: Wo Top-Manager gekauft haben
+Heute im Fokus
+DAX freundlich -- Dow Jones kaum bewegt -- <NODE id="139" />US<NODE id="141" />-Jobmarkt boomt - Löhne enttäuschen -- Anklage gegen <NODE id="194" />K+S<NODE id="197" />-Chef -- <NODE id="206" />ProSiebenSat.1<NODE id="220" /> kommt in den DAX -- <NODE id="241" />Hewlett Packard Enterprises<NODE id="268" />, <NODE id="270" />GEA<NODE id="273" /> im Fokus
+<NODE id="283" />Siemens<NODE id="290" />-<NODE id="291" />Gamesa<NODE id="297" />-Deal stößt offenbar auf Probleme. <NODE id="332" />Martin Zielke<NODE id="345" /> wird angeblich neuer <NODE id="367" />Commerzbank<NODE id="378" />-Chef. <NODE id="385" />adidas<NODE id="391" /> will <NODE id="397" />3.000<NODE id="402" /> neue Läden bis <NODE id="418" />2020<NODE id="422" /> in <NODE id="426" />China<NODE id="431" /> eröffnen. <NODE id="442" />VW<NODE id="444" /> legt Jahreszahlen am <NODE id="466" />28. April<NODE id="475" /> vor. <NODE id="481" />London Stock Exchange<NODE id="502" /> geht gestärkt in <NODE id="520" />Fusion<NODE id="526" /> mit <NODE id="531" />Deutscher Börse<NODE id="546" />. <NODE id="548" />SNB<NODE id="551" /> fährt <NODE id="558" />2015<NODE id="562" /> Rekordverlust ein.
+NACHRICHTEN
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzen.net/nachricht/aktien/Kaufempfehlungen-KW-9-Diese-Aktien-empfehlen-die-Experten-zum-Kauf-4758150@2016-03-04T17:06:01.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-04T16:06:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T23:46:12.952Z" />
+<feature featureName="uri" featureValue="http://www.finanzen.net/nachricht/aktien/Kaufempfehlungen-KW-9-Diese-Aktien-empfehlen-die-Experten-zum-Kauf-4758150" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="25" type="organization-company" surface="Wirecard" />
+<Entity id="1" startPos="33" endPos="40" type="organization-company" surface="Telekom" />
+<Entity id="2" startPos="45" endPos="50" type="organization-company" surface="Bayer" />
+<Entity id="3" startPos="139" endPos="141" type="location" surface="US" />
+<Entity id="4" startPos="194" endPos="197" type="organization-company" surface="K+S" />
+<Entity id="5" startPos="206" endPos="220" type="organization-company" surface="ProSiebenSat.1" />
+<Entity id="6" startPos="241" endPos="268" type="organization-company" surface="Hewlett Packard Enterprises" />
+<Entity id="7" startPos="270" endPos="273" type="organization-company" surface="GEA" />
+<Entity id="8" startPos="283" endPos="290" type="organization-company" surface="Siemens" />
+<Entity id="9" startPos="291" endPos="297" type="organization-company" surface="Gamesa" />
+<Entity id="10" startPos="332" endPos="345" type="person" surface="Martin Zielke" />
+<Entity id="11" startPos="367" endPos="378" type="organization-company" surface="Commerzbank" />
+<Entity id="12" startPos="385" endPos="391" type="organization-company" surface="adidas" />
+<Entity id="13" startPos="397" endPos="402" type="number" surface="3.000" />
+<Entity id="14" startPos="418" endPos="422" type="date" surface="2020" />
+<Entity id="15" startPos="426" endPos="431" type="location" surface="China" />
+<Entity id="16" startPos="442" endPos="444" type="organization-company" surface="VW" />
+<Entity id="17" startPos="466" endPos="475" type="date" surface="28. April" />
+<Entity id="18" startPos="481" endPos="502" type="organization-company" surface="London Stock Exchange" />
+<Entity id="19" startPos="520" endPos="526" type="trigger" surface="Fusion" />
+<Entity id="20" startPos="531" endPos="546" type="organization-company" surface="Deutscher Börse" />
+<Entity id="21" startPos="548" endPos="551" type="organization-company" surface="SNB" />
+<Entity id="22" startPos="558" endPos="562" type="date" surface="2015" /></Entities><Relations>
+<Relation id="23" NAME="Merger">
+<Entity id="20" label="old" />
+<Entity id="18" label="old" />
+<Entity id="19" label="trigger" />
+</Relation></Relations>
+</Document>

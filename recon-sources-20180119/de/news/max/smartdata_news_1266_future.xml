@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />07.04.2016 <NODE id="11" />     - aktualisiert vor <NODE id="35" />23 Minuten<NODE id="45" />
+:
+<NODE id="48" />Verdi<NODE id="53" /> ruft <NODE id="59" />Amazon<NODE id="65" />-Beschäftigte erneut zum <NODE id="90" />Streik<NODE id="96" /> auf
+<NODE id="101" />Verdi<NODE id="106" /> verlangt von <NODE id="120" />Amazon<NODE id="126" /> seit <NODE id="132" />drei Jahren<NODE id="143" /> die Anerkennung der Tarifverträge im Einzel- und Versandhandel, was der Handelsriese bisher kategorisch ablehnt. Foto: <NODE id="263" />Henning Kaiser<NODE id="277" /> Bild: <NODE id="284" />dpa-infocom GmbH<NODE id="300" />
+Die Gewerkschaft <NODE id="318" />Verdi<NODE id="323" /> hat erneut zu <NODE id="338" />Streiks<NODE id="345" /> beim Online-Händler <NODE id="366" />Amazon<NODE id="372" /> aufgerufen.
+Anlässlich des Weltgesundheitstages will <NODE id="426" />Verdi<NODE id="431" /> während des Streiktags die Gesundheit am Arbeitsplatz in den Mittelpunkt stellen.
+«Arbeit darf nicht krank machen, und da liegt bei <NODE id="564" />Amazon<NODE id="570" /> einiges im argen, denn die Krankheitsquoten sind außerordentlich hoch», sagte Gewerkschaftssekretärin <NODE id="673" />Mechthild Middeke<NODE id="690" />. «Wir wollen genauer wissen, wo der Schuh drückt und Forderungen entwickeln.»
+Zum Streik aufgerufen hat <NODE id="795" />Verdi<NODE id="800" /> zunächst im <NODE id="813" />hessischen<NODE id="823" /> <NODE id="824" />Bad Hersfeld<NODE id="836" /> sowie in <NODE id="846" />Koblenz<NODE id="853" />. Der Ausstand soll bis zum <NODE id="881" />Donnerstagabend<NODE id="896" /> dauern.
+<NODE id="905" />Verdi<NODE id="910" /> verlangt von <NODE id="924" />Amazon<NODE id="930" /> seit <NODE id="936" />drei Jahren <NODE id="948" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nwzonline.de/wirtschaft/verdi-ruft-amazon-beschaeftigte-erneut-zum-streik-auf_a_6,1,1993849561.html@2016-04-07T11:27:32.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-07T09:27:32Z" />
+<feature featureName="indexDate" featureValue="2016-04-07T09:35:51.928Z" />
+<feature featureName="uri" featureValue="http://www.nwzonline.de/wirtschaft/verdi-ruft-amazon-beschaeftigte-erneut-zum-streik-auf_a_6,1,1993849561.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="date" surface="07.04.2016 " />
+<Entity id="1" startPos="35" endPos="45" type="duration" surface="23 Minuten" />
+<Entity id="2" startPos="48" endPos="53" type="organization" surface="Verdi" />
+<Entity id="3" startPos="59" endPos="65" type="organization-company" surface="Amazon" />
+<Entity id="4" startPos="90" endPos="96" type="trigger" surface="Streik" />
+<Entity id="5" startPos="101" endPos="106" type="organization" surface="Verdi" />
+<Entity id="6" startPos="120" endPos="126" type="organization-company" surface="Amazon" />
+<Entity id="7" startPos="132" endPos="143" type="duration" surface="drei Jahren" />
+<Entity id="8" startPos="263" endPos="277" type="person" surface="Henning Kaiser" />
+<Entity id="9" startPos="284" endPos="300" type="organization-company" surface="dpa-infocom GmbH" />
+<Entity id="10" startPos="318" endPos="323" type="organization" surface="Verdi" />
+<Entity id="11" startPos="338" endPos="345" type="trigger" surface="Streiks" />
+<Entity id="12" startPos="366" endPos="372" type="organization-company" surface="Amazon" />
+<Entity id="13" startPos="426" endPos="431" type="organization" surface="Verdi" />
+<Entity id="14" startPos="564" endPos="570" type="organization-company" surface="Amazon" />
+<Entity id="15" startPos="673" endPos="690" type="person" surface="Mechthild Middeke" />
+<Entity id="16" startPos="795" endPos="800" type="organization" surface="Verdi" />
+<Entity id="17" startPos="813" endPos="823" type="location" surface="hessischen" />
+<Entity id="18" startPos="824" endPos="836" type="location-city" surface="Bad Hersfeld" />
+<Entity id="19" startPos="846" endPos="853" type="location-city" surface="Koblenz" />
+<Entity id="20" startPos="881" endPos="896" type="date" surface="Donnerstagabend" />
+<Entity id="21" startPos="905" endPos="910" type="organization" surface="Verdi" />
+<Entity id="22" startPos="924" endPos="930" type="organization-company" surface="Amazon" />
+<Entity id="23" startPos="936" endPos="948" type="duration" surface="drei Jahren " /></Entities><Relations>
+<Relation id="24" NAME="Strike">
+<Entity id="3" label="company" />
+<Entity id="2" label="union" />
+<Entity id="4" label="trigger" />
+</Relation>
+<Relation id="25" NAME="Strike">
+<Entity id="12" label="company" />
+<Entity id="10" label="union" />
+<Entity id="11" label="trigger" />
+</Relation></Relations>
+</Document>

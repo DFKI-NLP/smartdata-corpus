@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />■ #<NODE id="3" />A7<NODE id="5" /> #<NODE id="7" />Flensburg<NODE id="16" /> - #<NODE id="20" />Hamburg<NODE id="27" /> zwischen #<NODE id="38" />Hamburg-#Stellingen<NODE id="57" /> und #<NODE id="63" />Volkspark<NODE id="72" /> <NODE id="73" />behindern<NODE id="82" /> in <NODE id="86" />beiden Richtungen<NODE id="103" /> #<NODE id="105" />Bauarbeiten<NODE id="116" /> den Verkehr<NODE id="128" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="612130669985181696" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-20T05:31:39Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:51:35.508Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="128" type="sentence" surface="■ #A7 #Flensburg - #Hamburg zwischen #Hamburg-#Stellingen und #Volkspark behindern in beiden Richtungen #Bauarbeiten den Verkehr" />
+<Entity id="1" startPos="3" endPos="5" type="location-street" surface="A7" />
+<Entity id="2" startPos="7" endPos="16" type="location-city" surface="Flensburg" />
+<Entity id="3" startPos="20" endPos="27" type="location-city" surface="Hamburg" />
+<Entity id="4" startPos="38" endPos="57" type="location" surface="Hamburg-#Stellingen" />
+<Entity id="5" startPos="63" endPos="72" type="location" surface="Volkspark" />
+<Entity id="6" startPos="73" endPos="82" type="trigger" surface="behindern" />
+<Entity id="7" startPos="86" endPos="103" type="location" surface="beiden Richtungen" />
+<Entity id="8" startPos="105" endPos="116" type="trigger" surface="Bauarbeiten" /></Entities><Relations>
+<Relation id="9" NAME="Obstruction">
+<Entity id="5" label="end_loc" />
+<Entity id="4" label="start_loc" />
+<Entity id="8" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="7" label="direction" />
+</Relation></Relations>
+</Document>

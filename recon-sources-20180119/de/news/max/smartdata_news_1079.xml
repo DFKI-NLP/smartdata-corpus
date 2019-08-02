@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />22.04.2016<NODE id="10" />, <NODE id="12" />11:30 Uhr<NODE id="21" />
+<NODE id="22" />Verdi<NODE id="27" /> kündigt Streiks an Flughäfen an
+<NODE id="60" />Berlin<NODE id="66" /> (<NODE id="68" />dpa<NODE id="71" />). An mehreren deutschen Flughäfen ist laut Gewerkschaft <NODE id="128" />Verdi<NODE id="133" /> wegen Warnstreiks kommenden <NODE id="162" />Mittwoch<NODE id="170" /> mit starken Verzögerungen und massiven Flugausfällen zu rechnen. Betroffen sein sollen die Flughäfen <NODE id="272" />Frankfurt<NODE id="281" />, <NODE id="283" />München<NODE id="290" />, <NODE id="292" />Düsseldorf<NODE id="302" />, <NODE id="304" />Köln/Bonn<NODE id="313" />, <NODE id="315" />Dortmund<NODE id="323" /> und <NODE id="328" />Hannover-Langenhagen<NODE id="348" />, teilte <NODE id="357" />Verdi<NODE id="362" /> mit. Mit den Ausständen will <NODE id="392" />Verdi<NODE id="397" /> den Druck im Tarifstreit um den öffentlichen Dienst von Bund und Kommunen erhöhen. Bestreikt werden sollen unter anderem Check-In und Luftsicherheitskontrolleure. Auch in anderen Bereichen wie Kitas und Krankenhäusern sind die Beschäftigten immer wieder im Ausstand.
+<NODE id="665" />0.0<NODE id="668" />
+<NODE id="669" />0,0<NODE id="672" /> (<NODE id="674" />0<NODE id="675" /> Stimmen)
+Copyright © <NODE id="697" />Rhein-Zeitung<NODE id="710" /> <NODE id="711" />2016<NODE id="715" />. Texte und Fotos von <NODE id="737" />Rhein-Zeitung.de <NODE id="754" />sind urheberrechtlich geschützt. Weiterverwendung nur mit Genehmigung, siehe Impressum .
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rhein-zeitung.de/nachrichten/deutschland-und-welt_artikel,-Verdi-kuendigt-Streiks-an-Flughaefen-an-_arid,1474994.html@2016-04-22T11:30:06.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-22T09:30:06Z" />
+<feature featureName="indexDate" featureValue="2016-04-22T10:37:29.6Z" />
+<feature featureName="uri" featureValue="http://www.rhein-zeitung.de/nachrichten/deutschland-und-welt_artikel,-Verdi-kuendigt-Streiks-an-Flughaefen-an-_arid,1474994.html" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="22.04.2016" />
+<Entity id="1" startPos="12" endPos="21" type="time" surface="11:30 Uhr" />
+<Entity id="2" startPos="22" endPos="27" type="organization" surface="Verdi" />
+<Entity id="3" startPos="60" endPos="66" type="location-city" surface="Berlin" />
+<Entity id="4" startPos="68" endPos="71" type="organization-company" surface="dpa" />
+<Entity id="5" startPos="128" endPos="133" type="organization" surface="Verdi" />
+<Entity id="6" startPos="162" endPos="170" type="date" surface="Mittwoch" />
+<Entity id="7" startPos="272" endPos="281" type="location" surface="Frankfurt" />
+<Entity id="8" startPos="283" endPos="290" type="location" surface="München" />
+<Entity id="9" startPos="292" endPos="302" type="location" surface="Düsseldorf" />
+<Entity id="10" startPos="304" endPos="313" type="location" surface="Köln/Bonn" />
+<Entity id="11" startPos="315" endPos="323" type="location" surface="Dortmund" />
+<Entity id="12" startPos="328" endPos="348" type="location" surface="Hannover-Langenhagen" />
+<Entity id="13" startPos="357" endPos="362" type="organization" surface="Verdi" />
+<Entity id="14" startPos="392" endPos="397" type="organization" surface="Verdi" />
+<Entity id="15" startPos="665" endPos="668" type="number" surface="0.0" />
+<Entity id="16" startPos="669" endPos="672" type="number" surface="0,0" />
+<Entity id="17" startPos="674" endPos="675" type="number" surface="0" />
+<Entity id="18" startPos="697" endPos="710" type="organization-company" surface="Rhein-Zeitung" />
+<Entity id="19" startPos="711" endPos="715" type="date" surface="2016" />
+<Entity id="20" startPos="737" endPos="754" type="organization-company" surface="Rhein-Zeitung.de " /></Entities><Relations />
+</Document>

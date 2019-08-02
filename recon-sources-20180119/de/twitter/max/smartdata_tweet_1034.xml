@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />zeitonline<NODE id="14" />: <NODE id="16" />Stellenabbau<NODE id="28" /> bei #<NODE id="34" />VW<NODE id="36" />: <NODE id="38" />Tausende<NODE id="46" /> Bürokräfte bekommen den #Abgasskandal zu spüren. (nd) https://t.co/JHpUMciqWy
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="707943095774650368" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:56:01Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T01:10:10.691Z" />
+<feature featureName="uri" featureValue="https://twitter.com/469651287/status/707943095774650368" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="organization-company" surface="zeitonline" />
+<Entity id="1" startPos="16" endPos="28" type="trigger" surface="Stellenabbau" />
+<Entity id="2" startPos="34" endPos="36" type="organization-company" surface="VW" />
+<Entity id="3" startPos="38" endPos="46" type="number" surface="Tausende" /></Entities><Relations>
+<Relation id="4" NAME="Layoffs">
+<Entity id="3" label="num_laid_off" />
+<Entity id="2" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

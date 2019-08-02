@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Marriott<NODE id="8" /> will größte Hotelkette der Welt werden
+ 
+Leider konnte Ihre E-Mail nicht versendet werden. Bitte überprüfen Sie Ihre Angaben.
+Das Senden der E-Mail war erfolgreich.
+Verwandte Themen
++ merken gemerkt
+Wirtschaft <NODE id="219" />Marriott<NODE id="227" /> will größte Hotelkette der Welt werden
+Durch den Zusammenschluss entstünde der größte Hotel-Konzern der Welt mit mehr als <NODE id="350" />5500<NODE id="354" /> Hotels und über <NODE id="371" />einer Million<NODE id="384" /> Betten. Foto: <NODE id="399" />Soeren Stache<NODE id="412" /> (Foto: DPA)
+Die<NODE id="428" /> US<NODE id="431" />-Branchenriesen <NODE id="447" />Marriott International<NODE id="469" /> und <NODE id="474" />Starwood Hotels<NODE id="489" /> wollen in einer <NODE id="506" />Milliarden<NODE id="516" />-Fusion die weltgrößte Hotelkette entstehen lassen. Marken wie <NODE id="579" />Ritz-Carlton<NODE id="591" />, <NODE id="593" />Le Meridien<NODE id="604" />, <NODE id="606" />Westin<NODE id="612" /> oder <NODE id="618" />Sheraton<NODE id="626" /> würden durch die Übernahme unter einem Konzerndach vereint.
+Die Hotelkette <NODE id="702" />Marriott International<NODE id="724" /> will den Konkurrenten <NODE id="747" />Starwood Hotels<NODE id="762" /> für gut <NODE id="771" />zwölf Milliarden Dollar <NODE id="795" />übernehmen. Die Verwaltungsräte beider Unternehmen hätten dem Vorhaben zugestimmt, teilten die Konzerne mit.
+Durch den Zusammenschluss entstünde der
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.n24.de/n24/Nachrichten/Wirtschaft/d/7627346/marriott-will-groesste-hotelkette-der-welt-werden.html@2016-03-11T01:00:37.078+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T00:00:37.078Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T00:00:43.484Z" />
+<feature featureName="uri" featureValue="http://www.n24.de/n24/Nachrichten/Wirtschaft/d/7627346/marriott-will-groesste-hotelkette-der-welt-werden.html" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="organization-company" surface="Marriott" />
+<Entity id="1" startPos="219" endPos="227" type="organization-company" surface="Marriott" />
+<Entity id="2" startPos="350" endPos="354" type="number" surface="5500" />
+<Entity id="3" startPos="371" endPos="384" type="number" surface="einer Million" />
+<Entity id="4" startPos="399" endPos="412" type="person" surface="Soeren Stache" />
+<Entity id="5" startPos="428" endPos="431" type="location" surface=" US" />
+<Entity id="6" startPos="447" endPos="469" type="organization-company" surface="Marriott International" />
+<Entity id="7" startPos="474" endPos="489" type="organization-company" surface="Starwood Hotels" />
+<Entity id="8" startPos="506" endPos="516" type="number" surface="Milliarden" />
+<Entity id="9" startPos="579" endPos="591" type="organization-company" surface="Ritz-Carlton" />
+<Entity id="10" startPos="593" endPos="604" type="organization-company" surface="Le Meridien" />
+<Entity id="11" startPos="606" endPos="612" type="organization-company" surface="Westin" />
+<Entity id="12" startPos="618" endPos="626" type="organization-company" surface="Sheraton" />
+<Entity id="13" startPos="702" endPos="724" type="organization-company" surface="Marriott International" />
+<Entity id="14" startPos="747" endPos="762" type="organization-company" surface="Starwood Hotels" />
+<Entity id="15" startPos="771" endPos="795" type="number" surface="zwölf Milliarden Dollar " /></Entities><Relations>
+<Relation id="16" NAME="Acquisition">
+<Entity id="15" label="price" />
+<Entity id="14" label="acquired" />
+<Entity id="13" label="buyer" />
+</Relation></Relations>
+</Document>

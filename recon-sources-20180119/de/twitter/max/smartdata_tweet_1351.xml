@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Ex-Luftwaffenchef <NODE id="37" />Öztürk<NODE id="43" /> hat Beteiligung am #Putschversuch in der <NODE id="85" />Türkei<NODE id="91" /> wohl doch nicht gestanden. https://t.co/CdmshIc…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755124755771039744" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T19:39:05Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T19:39:12.351Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2721878217/status/755124755771039744" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="37" endPos="43" type="person" surface="Öztürk" />
+<Entity id="2" startPos="85" endPos="91" type="location" surface="Türkei" /></Entities><Relations />
+</Document>

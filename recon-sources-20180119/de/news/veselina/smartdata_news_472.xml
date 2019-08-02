@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Warnstreiks sorgen für Verspätungen am Theater Neustrelitz<NODE id="58" />
+<NODE id="59" />Artikel per E-Mail empfehlen<NODE id="87" />
+<NODE id="88" />Warnstreiks sorgen für Verspätungen am Theater Neustrelitz<NODE id="146" />
+<NODE id="147" />Empfänger E-Mail<NODE id="163" />
+<NODE id="164" />Tipp: mehrere E-Mailadressen mit Komma      trennen<NODE id="215" />
+<NODE id="216" />persönliche Nachrichtoptional<NODE id="245" />
+<NODE id="246" />Bitte tragen Sie den Code in das      Eingabefeld ein.<NODE id="300" />
+<NODE id="301" />Tipp: das Bild anklicken um den Code neu      zu generieren<NODE id="360" />
+<NODE id="361" />Empfänger E-Mail<NODE id="377" />
+<NODE id="378" />Twittern<NODE id="386" />
+<NODE id="387" />Neustrelitz<NODE id="398" /> (<NODE id="400" />dpa<NODE id="403" />/<NODE id="404" />mv<NODE id="406" />) -<NODE id="409" /> <NODE id="410" />Theaterbesucher mussten am Wochenende in <NODE id="451" />Neustrelitz<NODE id="462" /> (Kreis <NODE id="470" />Mecklenburgische Seenplatte<NODE id="497" />) Verspätungen wegen Warnstreiks von Schauspielern und Sängern hinnehmen.<NODE id="570" /> <NODE id="571" />Die Aktionen der <NODE id="588" />Vereinigung Deutscher Opernchöre und Bühnentänzer<NODE id="637" /> und der <NODE id="646" />Genossenschaft Deutscher Bühnen-Angehöriger<NODE id="689" /> betrafen die Vorführungen «Die lustige Witwe» am Freitag und «Wie im Himmel» am Samstagabend, wie eine Sprecherin der <NODE id="808" />Theater und Orchester GmbH<NODE id="834" /> <NODE id="835" />Neubrandenburg<NODE id="849" />/<NODE id="850" />Neustrelitz<NODE id="861" /> am Sonntag erklärte.<NODE id="882" /> <NODE id="883" />Die Vorstellungen begannen etwa 20 Minuten später, wurde<NODE id="939" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/regionales/mecklenburg-vorpommern/article149907127/Warnstreiks-sorgen-fuer-Verspaetungen-am-Theater-Neustrelitz.html@2015-12-13T13:06:16.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-13T12:06:16Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:45:42.954Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/regionales/mecklenburg-vorpommern/article149907127/Warnstreiks-sorgen-fuer-Verspaetungen-am-Theater-Neustrelitz.html" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="58" type="sentence" surface="Warnstreiks sorgen für Verspätungen am Theater Neustrelitz" />
+<Entity id="1" startPos="59" endPos="87" type="sentence" surface="Artikel per E-Mail empfehlen" />
+<Entity id="2" startPos="88" endPos="146" type="sentence" surface="Warnstreiks sorgen für Verspätungen am Theater Neustrelitz" />
+<Entity id="3" startPos="147" endPos="163" type="sentence" surface="Empfänger E-Mail" />
+<Entity id="4" startPos="164" endPos="215" type="sentence" surface="Tipp: mehrere E-Mailadressen mit Komma      trennen" />
+<Entity id="5" startPos="216" endPos="245" type="sentence" surface="persönliche Nachrichtoptional" />
+<Entity id="6" startPos="246" endPos="300" type="sentence" surface="Bitte tragen Sie den Code in das      Eingabefeld ein." />
+<Entity id="7" startPos="301" endPos="360" type="sentence" surface="Tipp: das Bild anklicken um den Code neu      zu generieren" />
+<Entity id="8" startPos="361" endPos="377" type="sentence" surface="Empfänger E-Mail" />
+<Entity id="9" startPos="378" endPos="386" type="sentence" surface="Twittern" />
+<Entity id="10" startPos="387" endPos="398" type="location-city" surface="Neustrelitz" />
+<Entity id="11" startPos="387" endPos="409" type="sentence" surface="Neustrelitz (dpa/mv) -" />
+<Entity id="12" startPos="400" endPos="403" type="organization-company" surface="dpa" />
+<Entity id="13" startPos="404" endPos="406" type="location" surface="mv" />
+<Entity id="14" startPos="410" endPos="570" type="sentence" surface="Theaterbesucher mussten am Wochenende in Neustrelitz (Kreis Mecklenburgische Seenplatte) Verspätungen wegen Warnstreiks von Schauspielern und Sängern hinnehmen." />
+<Entity id="15" startPos="451" endPos="462" type="location-city" surface="Neustrelitz" />
+<Entity id="16" startPos="470" endPos="497" type="location" surface="Mecklenburgische Seenplatte" />
+<Entity id="17" startPos="571" endPos="882" type="sentence" surface="Die Aktionen der Vereinigung Deutscher Opernchöre und Bühnentänzer und der Genossenschaft Deutscher Bühnen-Angehöriger betrafen die Vorführungen «Die lustige Witwe» am Freitag und «Wie im Himmel» am Samstagabend, wie eine Sprecherin der Theater und Orchester GmbH Neubrandenburg/Neustrelitz am Sonntag erklärte." />
+<Entity id="18" startPos="588" endPos="637" type="organization" surface="Vereinigung Deutscher Opernchöre und Bühnentänzer" />
+<Entity id="19" startPos="646" endPos="689" type="organization" surface="Genossenschaft Deutscher Bühnen-Angehöriger" />
+<Entity id="20" startPos="808" endPos="834" type="organization-company" surface="Theater und Orchester GmbH" />
+<Entity id="21" startPos="835" endPos="849" type="location" surface="Neubrandenburg" />
+<Entity id="22" startPos="850" endPos="861" type="location-city" surface="Neustrelitz" />
+<Entity id="23" startPos="883" endPos="939" type="sentence" surface="Die Vorstellungen begannen etwa 20 Minuten später, wurde" /></Entities><Relations />
+</Document>

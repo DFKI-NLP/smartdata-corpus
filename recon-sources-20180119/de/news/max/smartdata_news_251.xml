@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />27.12.2015<NODE id="10" /> | <NODE id="13" />19:14 Uhr<NODE id="22" /> <NODE id="23" />2015-12-27<NODE id="33" />T<NODE id="34" />19:14:12+01:00<NODE id="48" />
+Nach heftigen Regenfällen steht eine U-Bahnstation in <NODE id="103" />Dänemark<NODE id="111" /> unter Wasser.Foto: <NODE id="131" />Mathias Oegendal<NODE id="147" />/dpa
+<NODE id="152" />Kopenhagen<NODE id="162" />.  Es hat nicht aufgehört zu schütten: Dauerregen seit dem <NODE id="221" />zweiten<NODE id="228" /> Weihnachtstag hat in <NODE id="250" />Dänemark<NODE id="258" /> zahlreiche Straßen überflutet und Wohnungen unter Wasser gesetzt.
+Eine Autobahn bei <NODE id="343" />Taulov<NODE id="349" /> in <NODE id="353" />Jütland<NODE id="360" /> war wegen Schlamm und Wassermassen am <NODE id="399" />Sonntag<NODE id="406" /> gesperrt. Am <NODE id="420" />Nachmittag<NODE id="430" /> stellte die <NODE id="443" />dänische<NODE id="451" /> Bahn<NODE id="456" /> den Zugverkehr zwischen <NODE id="481" />Jelling<NODE id="488" /> und <NODE id="493" />Vejle<NODE id="498" /> in <NODE id="502" />Jütland<NODE id="509" /> nach einem Erdrutsch ein.
+Südlich von <NODE id="548" />Kopenhagen<NODE id="558" /> wurden etwa <NODE id="571" />20<NODE id="573" /> Wohnungen evakuiert, wie die Polizei berichtete. Das Wasser drang sogar in Erdgeschosswohnungen. Mancherorts traten Flüsse über die Ufer. Auch im <NODE id="720" />südschwedischen<NODE id="735" /> <NODE id="736" />Schonen<NODE id="743" /> gab es <NODE id="751" />Überschwemmungen<NODE id="767" />. Etwas weiter nördlich führten Schneefälle zu glatten Straßen und Unfällen.
+(dpa)
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.derwesten.de/ikz/panorama/dauerregen-in-daenemark-id11410846.html@2016-03-10T21:29:02.075+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T20:29:02.075Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T20:29:03.315Z" />
+<feature featureName="uri" featureValue="http://www.derwesten.de/ikz/panorama/dauerregen-in-daenemark-id11410846.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="27.12.2015" />
+<Entity id="1" startPos="13" endPos="22" type="time" surface="19:14 Uhr" />
+<Entity id="2" startPos="23" endPos="33" type="date" surface="2015-12-27" />
+<Entity id="3" startPos="34" endPos="48" type="time" surface="19:14:12+01:00" />
+<Entity id="4" startPos="103" endPos="111" type="location" surface="Dänemark" />
+<Entity id="5" startPos="131" endPos="147" type="person" surface="Mathias Oegendal" />
+<Entity id="6" startPos="152" endPos="162" type="location-city" surface="Kopenhagen" />
+<Entity id="7" startPos="221" endPos="228" type="number" surface="zweiten" />
+<Entity id="8" startPos="250" endPos="258" type="location" surface="Dänemark" />
+<Entity id="9" startPos="343" endPos="349" type="location-city" surface="Taulov" />
+<Entity id="10" startPos="353" endPos="360" type="location" surface="Jütland" />
+<Entity id="11" startPos="399" endPos="406" type="date" surface="Sonntag" />
+<Entity id="12" startPos="420" endPos="430" type="date" surface="Nachmittag" />
+<Entity id="13" startPos="443" endPos="451" type="location" surface="dänische" />
+<Entity id="14" startPos="443" endPos="456" type="organization-company" surface="dänische Bahn" />
+<Entity id="15" startPos="481" endPos="488" type="location-city" surface="Jelling" />
+<Entity id="16" startPos="493" endPos="498" type="location-city" surface="Vejle" />
+<Entity id="17" startPos="502" endPos="509" type="location" surface="Jütland" />
+<Entity id="18" startPos="548" endPos="558" type="location-city" surface="Kopenhagen" />
+<Entity id="19" startPos="571" endPos="573" type="number" surface="20" />
+<Entity id="20" startPos="720" endPos="735" type="location" surface="südschwedischen" />
+<Entity id="21" startPos="736" endPos="743" type="location-city" surface="Schonen" />
+<Entity id="22" startPos="751" endPos="767" type="disaster-type" surface="Überschwemmungen" /></Entities><Relations>
+<Relation id="23" NAME="Disaster">
+<Entity id="21" label="location" />
+<Entity id="22" label="type" />
+</Relation></Relations>
+</Document>

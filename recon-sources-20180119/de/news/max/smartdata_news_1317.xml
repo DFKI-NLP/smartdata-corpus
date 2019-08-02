@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Beschreibung des Fehlers*
+gültige E-Mail-Adresse fehlt
+Nach der Anordnung der Zwangsverwaltung hat die <NODE id="103" />türkische<NODE id="112" /> Polizei den Sitz der regierungskritischen Zeitung «<NODE id="164" />Zaman<NODE id="169" />» gewaltsam übernommen. Wie ein <NODE id="201" />AFP<NODE id="204" />-Reporter berichtete, setzte die Polizei am <NODE id="248" />Freitagabend<NODE id="260" /> Tränengas und Wasserwerfer gegen hunderte Demonstranten ein, die sich vor dem «<NODE id="340" />Zaman<NODE id="345" />»-Sitz in <NODE id="355" />Istanbul<NODE id="363" /> versammelt hatten, und drang dann in das Gebäude ein. Die Zeitung steht einem Erzfeind von Staatschef <NODE id="466" />Recep Tayyip Erdogan<NODE id="486" /> nahe.
+Die Demonstranten hielten Plakate mit der Aufschrift «Wir kämpfen für eine freie Presse» und «Wir werden nicht schweigen» hoch. Zuvor hatte ein <NODE id="637" />Istanbuler<NODE id="647" /> Gericht die Einsetzung eines neuen Managements bei «<NODE id="700" />Zaman<NODE id="705" />» (<NODE id="708" />Zeit<NODE id="712" />) angeordnet. Das Blatt ist mit nach Branchenangaben rund <NODE id="770" />650.000<NODE id="777" /> Exemplaren täglich die auflagenstärkste Tageszeitung des Landes. Das Flaggschiff der Bewegung von <NODE id="876" />Fethullah Gülen<NODE id="891" /> ist eine der führenden regierungskritischen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://thunertagblatt.ch/ausland/europa/Tuerkische-Polizei-stuermt-Sitz-von-regierungskritischer-Zeitung/story/23990889@2016-03-05T02:09:24.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-05T01:09:24Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:11:02.952Z" />
+<feature featureName="uri" featureValue="http://thunertagblatt.ch/ausland/europa/Tuerkische-Polizei-stuermt-Sitz-von-regierungskritischer-Zeitung/story/23990889" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="103" endPos="112" type="location" surface="türkische" />
+<Entity id="1" startPos="164" endPos="169" type="organization-company" surface="Zaman" />
+<Entity id="2" startPos="201" endPos="204" type="organization" surface="AFP" />
+<Entity id="3" startPos="248" endPos="260" type="date" surface="Freitagabend" />
+<Entity id="4" startPos="340" endPos="345" type="organization-company" surface="Zaman" />
+<Entity id="5" startPos="355" endPos="363" type="location-city" surface="Istanbul" />
+<Entity id="6" startPos="466" endPos="486" type="person" surface="Recep Tayyip Erdogan" />
+<Entity id="7" startPos="637" endPos="647" type="location-city" surface="Istanbuler" />
+<Entity id="8" startPos="700" endPos="705" type="organization-company" surface="Zaman" />
+<Entity id="9" startPos="708" endPos="712" type="organization-company" surface="Zeit" />
+<Entity id="10" startPos="770" endPos="777" type="number" surface="650.000" />
+<Entity id="11" startPos="876" endPos="891" type="person" surface="Fethullah Gülen" /></Entities><Relations />
+</Document>

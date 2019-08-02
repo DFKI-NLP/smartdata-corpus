@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />13:50<NODE id="5" /> - Aufgrund einer Veranstaltung im Bereich <NODE id="48" />Pillnitz L.-da-Vinci-Straße<NODE id="75" /> <NODE id="76" />entfällt<NODE id="84" /> der Pendelverkehr der Linie <NODE id="113" />63<NODE id="115" /> nach <NODE id="121" />Bonnewitz/Graupa<NODE id="137" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="746672477338800128" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-25T11:52:45Z" />
+<feature featureName="indexDate" featureValue="2016-06-27T08:44:32.735Z" />
+<feature featureName="uri" featureValue="https://twitter.com/96793904/status/746672477338800128" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="time" surface="13:50" />
+<Entity id="1" startPos="48" endPos="75" type="location-stop" surface="Pillnitz L.-da-Vinci-Straße" />
+<Entity id="2" startPos="76" endPos="84" type="trigger" surface="entfällt" />
+<Entity id="3" startPos="113" endPos="115" type="location-route" surface="63" />
+<Entity id="4" startPos="121" endPos="137" type="location-stop" surface="Bonnewitz/Graupa" /></Entities><Relations>
+<Relation id="5" NAME="CanceledRoute">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="location" />
+<Entity id="1" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

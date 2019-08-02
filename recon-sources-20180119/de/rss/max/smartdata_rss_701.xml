@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Heilbronn<NODE id="9" /> Richtung <NODE id="19" />Stuttgart<NODE id="28" /> zwischen <NODE id="38" />Stuttgart-Feuerbach<NODE id="57" /> und <NODE id="62" />Engelbergtunnel<NODE id="77" /> Gefahr durch Gegenstände auf der Fahrbahn (Reifen teilweise auf dem linken Fahrstreifen)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=375eef38-732e-4ea9-866a-4721d56aa269@2016-05-24T07:05:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-24T05:05:00Z" />
+<feature featureName="indexDate" featureValue="2016-05-24T05:18:15.698Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=375eef38-732e-4ea9-866a-4721d56aa269" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Heilbronn" />
+<Entity id="1" startPos="19" endPos="28" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="38" endPos="57" type="location" surface="Stuttgart-Feuerbach" />
+<Entity id="3" startPos="62" endPos="77" type="location" surface="Engelbergtunnel" /></Entities><Relations />
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Von <NODE id="4" />Sven  Flohr<NODE id="15" /> <NODE id="16" />Sven  Flohr<NODE id="27" /> Biografie und alle Artikel des Autors Twitter Stv. Ressortleiter Sport
+Foto: pa/augenklick/firo Sportphoto Felix Passlack spielt ab sofort bei den Profis des <NODE id="186" />BVB<NODE id="189" /> mit
+Besondere Gäste beim Trainingsauftakt des <NODE id="236" />BVB<NODE id="239" />. Am <NODE id="244" />Dienstag<NODE id="252" /> versammelten sich <NODE id="271" />Borussia Dortmunds<NODE id="289" /> Spieler erstmals im neuen Jahr auf dem Platz. Mit dabei: <NODE id="347" />zwei<NODE id="351" /> <NODE id="352" />17-Jährige<NODE id="362" />. <NODE id="364" />Felix Passlack<NODE id="378" /> und <NODE id="383" />Christian Pulisic<NODE id="400" /> wurden von Trainer <NODE id="420" />Thomas Tuchel<NODE id="433" /> befördert und trainieren von nun an fest mit den Profis.
+Vor wenigen Tagen hatte der <NODE id="519" />BVB<NODE id="522" /> <NODE id="523" />Jonas Hofmann<NODE id="536" /> für rund <NODE id="546" />acht Millionen Euro<NODE id="565" /> Ablöse an <NODE id="576" />Borussia Mönchengladbach<NODE id="600" /> verkauft. Offenbar soll für ihn kein Ersatz von außen geholt werden. Denn gerade Passlack gilt als Versprechen auf eine herausragende Zukunft.
+Vorbereitung
+So trainiert die <NODE id="774" />Bundesliga<NODE id="784" /> für die Rückrunde
+Ich sehe ich mich im rechten offensiven Mittelfeld. Da fühle ich mich am wohlsten, sagte der Hochtalentierte im <NODE id="915" />Oktober<NODE id="922" /> im Interview mit
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/article150622733/Der-BVB-befoerdert-sein-Jahrhunderttalent.html@2016-03-10T16:30:27.530+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/article150622733/Der-BVB-befoerdert-sein-Jahrhunderttalent.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="15" type="person" surface="Sven  Flohr" />
+<Entity id="1" startPos="16" endPos="27" type="person" surface="Sven  Flohr" />
+<Entity id="2" startPos="186" endPos="189" type="organization" surface="BVB" />
+<Entity id="3" startPos="236" endPos="239" type="organization" surface="BVB" />
+<Entity id="4" startPos="244" endPos="252" type="date" surface="Dienstag" />
+<Entity id="5" startPos="271" endPos="289" type="organization" surface="Borussia Dortmunds" />
+<Entity id="6" startPos="347" endPos="351" type="number" surface="zwei" />
+<Entity id="7" startPos="352" endPos="362" type="number" surface="17-Jährige" />
+<Entity id="8" startPos="364" endPos="378" type="person" surface="Felix Passlack" />
+<Entity id="9" startPos="383" endPos="400" type="person" surface="Christian Pulisic" />
+<Entity id="10" startPos="420" endPos="433" type="person" surface="Thomas Tuchel" />
+<Entity id="11" startPos="519" endPos="522" type="organization" surface="BVB" />
+<Entity id="12" startPos="523" endPos="536" type="person" surface="Jonas Hofmann" />
+<Entity id="13" startPos="546" endPos="565" type="number" surface="acht Millionen Euro" />
+<Entity id="14" startPos="576" endPos="600" type="organization" surface="Borussia Mönchengladbach" />
+<Entity id="15" startPos="774" endPos="784" type="organization" surface="Bundesliga" />
+<Entity id="16" startPos="915" endPos="922" type="date" surface="Oktober" /></Entities><Relations />
+</Document>

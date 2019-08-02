@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A14<NODE id="3" /> <NODE id="4" />Nossen<NODE id="10" /> Richtung <NODE id="20" />Leipzig<NODE id="27" /> in Höhe <NODE id="36" />Mutzschen<NODE id="45" />
+Gefahr durch Gegenstände auf der Fahrbahn (ein Plastikteil), bitte vorsichtig fahren
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp@2016-04-04T15:13:52.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-04T13:13:52Z" />
+<feature featureName="indexDate" featureValue="2016-04-04T13:41:29.315Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A14" />
+<Entity id="1" startPos="4" endPos="10" type="location-city" surface="Nossen" />
+<Entity id="2" startPos="20" endPos="27" type="location-city" surface="Leipzig" />
+<Entity id="3" startPos="36" endPos="45" type="location" surface="Mutzschen" /></Entities><Relations />
+</Document>

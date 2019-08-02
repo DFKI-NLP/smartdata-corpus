@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Flughafen Berlin Brandenburg<NODE id="28" />: Der Termin <NODE id="41" />2017<NODE id="45" /> ist gestorben - Die <NODE id="66" />insolvenz<NODE id="75" /> von <NODE id="80" />Imtech<NODE id="86" /> wird laut Insidern drasti… http://t.co/1hCtQEX13X
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="629763260305272832" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-07T21:17:16Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T01:31:34.121Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="28" type="location" surface="Flughafen Berlin Brandenburg" />
+<Entity id="1" startPos="41" endPos="45" type="date" surface="2017" />
+<Entity id="2" startPos="66" endPos="75" type="trigger" surface="insolvenz" />
+<Entity id="3" startPos="80" endPos="86" type="organization-company" surface="Imtech" /></Entities><Relations>
+<Relation id="4" NAME="Insolvency">
+<Entity id="3" label="company" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

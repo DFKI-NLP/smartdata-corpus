@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bauarbeiten<NODE id="11" /> der <NODE id="16" />Deutschen Bahn<NODE id="30" /> – <NODE id="33" />Schienenersatzverkehr<NODE id="54" /> beim <NODE id="60" />Donau-Isar-Express<NODE id="78" />: Einschränkungen <NODE id="96" />Passau<NODE id="102" />-Reisende https://t.co/YQH78iQeSQ
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754219420256342016" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-16T07:41:37Z" />
+<feature featureName="indexDate" featureValue="2016-07-16T07:41:40.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/742702570070802432/status/754219420256342016" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="trigger" surface="Bauarbeiten" />
+<Entity id="1" startPos="16" endPos="30" type="organization-company" surface="Deutschen Bahn" />
+<Entity id="2" startPos="33" endPos="54" type="trigger" surface="Schienenersatzverkehr" />
+<Entity id="3" startPos="60" endPos="78" type="location-route" surface="Donau-Isar-Express" />
+<Entity id="4" startPos="96" endPos="102" type="location-city" surface="Passau" /></Entities><Relations>
+<Relation id="5" NAME="RailReplacementService">
+<Entity id="0" label="cause" />
+<Entity id="3" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

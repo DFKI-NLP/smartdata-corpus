@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ich habe ein @<NODE id="14" />YouTube<NODE id="21" />-Video von @kinnikuchu positiv bewertet: https://t.co/6kOikRimzA Goku and Black Goku Fusion | Archangel Goku |
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755895473215537152" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-20T22:41:39Z" />
+<feature featureName="indexDate" featureValue="2016-07-20T22:41:45.046Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2957261482/status/755895473215537152" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="21" type="organization-company" surface="YouTube" /></Entities><Relations />
+</Document>

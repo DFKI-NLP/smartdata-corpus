@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A3<NODE id="2" /> <NODE id="3" />Frankfurt<NODE id="12" /> Richtung <NODE id="22" />Oberhausen<NODE id="32" /> zwischen <NODE id="42" />Königsforst<NODE id="53" /> und <NODE id="58" />Leverkusen-Zentrum<NODE id="76" /> <NODE id="77" />8 km<NODE id="81" /> <NODE id="82" />Stau<NODE id="86" /> nach <NODE id="92" />Bergungsarbeiten<NODE id="108" /> (Zeitverlust: etwa eine <NODE id="133" />Dreiviertelstunde<NODE id="150" />). Deshalb auch <NODE id="166" />6 km<NODE id="170" /> <NODE id="171" />Stau<NODE id="175" /> auf der <NODE id="184" />A4<NODE id="186" /> ab <NODE id="190" />Köln-Poll<NODE id="199" />. Wer kann, sollte großräumig umfahren.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#13@2016-04-01T16:31:05.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-01T14:31:05Z" />
+<feature featureName="indexDate" featureValue="2016-04-01T14:31:23.707Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A3" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Frankfurt" />
+<Entity id="2" startPos="22" endPos="32" type="location-city" surface="Oberhausen" />
+<Entity id="3" startPos="42" endPos="53" type="location" surface="Königsforst" />
+<Entity id="4" startPos="58" endPos="76" type="location" surface="Leverkusen-Zentrum" />
+<Entity id="5" startPos="77" endPos="81" type="distance" surface="8 km" />
+<Entity id="6" startPos="82" endPos="86" type="trigger" surface="Stau" />
+<Entity id="7" startPos="92" endPos="108" type="trigger" surface="Bergungsarbeiten" />
+<Entity id="8" startPos="133" endPos="150" type="duration" surface="Dreiviertelstunde" />
+<Entity id="9" startPos="166" endPos="170" type="distance" surface="6 km" />
+<Entity id="10" startPos="171" endPos="175" type="trigger" surface="Stau" />
+<Entity id="11" startPos="184" endPos="186" type="location-street" surface="A4" />
+<Entity id="12" startPos="190" endPos="199" type="location" surface="Köln-Poll" /></Entities><Relations>
+<Relation id="13" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="7" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="8" label="delay" />
+<Entity id="4" label="end_loc" />
+</Relation>
+<Relation id="14" NAME="TrafficJam">
+<Entity id="9" label="jam_length" />
+<Entity id="11" label="location" />
+<Entity id="10" label="trigger" />
+<Entity id="12" label="end_loc" />
+</Relation></Relations>
+</Document>

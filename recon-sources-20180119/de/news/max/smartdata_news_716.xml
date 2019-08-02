@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die Tatort Kolumne
+Das haben Sie ganz toll gemacht
+Im Entwurf ist dieser »Tatort« durchaus originell. Doch aus soviel Mühe wird allerdings kein Film, sondern Journalismus: <NODE id="172" />Matthias Dell<NODE id="185" /> über den Sonntagskrimi »Totenstille«
+Die Programmierung des Saarbrücker »Tatort« <NODE id="267" />Ende Januar<NODE id="278" /> hat eine gewisse Tradition. Ende dieses Monats findet alljährlich das beliebte <NODE id="358" />Saarbrücker<NODE id="369" /> Filmfestival <NODE id="383" />Max-Ophüls-Preis<NODE id="399" /> statt, auf dem sich die jeweils neueste Folge des Sonntagskrimis aus der Region dann als Premiere zeigen lässt. <NODE id="512" />Saarlands<NODE id="521" /> Stolz auf <NODE id="532" />Saarlands<NODE id="541" /> Stolz - die föderalen Effekte der »Tatort«-Popularität werden in solchen Verbindungen anschaulich.
+Und aus dieser Perspektive leuchtet unmittelbar ein, warum in »Totenstille« (<NODE id="718" />SR<NODE id="720" />-Redaktion: <NODE id="732" />Christian Bauer<NODE id="747" />) der nassforsch-dropsige Kommissar <NODE id="783" />Stellbrink<NODE id="793" /> (<NODE id="795" />Devid Striesow<NODE id="809" />) so putzig auf seiner roten Mofette über die majestätischen Brücken von <NODE id="882" />Saarbrücken<NODE id="893" /> düst oder relativ absurd in einem Ein-Raum-Dachaufbau über der St
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.neues-deutschland.de/artikel/999274.das-haben-sie-ganz-toll-gemacht.html@2016-01-24T21:47:06.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-24T20:47:06Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:02:07.616Z" />
+<feature featureName="uri" featureValue="http://www.neues-deutschland.de/artikel/999274.das-haben-sie-ganz-toll-gemacht.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="172" endPos="185" type="person" surface="Matthias Dell" />
+<Entity id="1" startPos="267" endPos="278" type="date" surface="Ende Januar" />
+<Entity id="2" startPos="358" endPos="369" type="location-city" surface="Saarbrücker" />
+<Entity id="3" startPos="383" endPos="399" type="organization" surface="Max-Ophüls-Preis" />
+<Entity id="4" startPos="512" endPos="521" type="location" surface="Saarlands" />
+<Entity id="5" startPos="532" endPos="541" type="location" surface="Saarlands" />
+<Entity id="6" startPos="718" endPos="720" type="organization-company" surface="SR" />
+<Entity id="7" startPos="732" endPos="747" type="person" surface="Christian Bauer" />
+<Entity id="8" startPos="783" endPos="793" type="person" surface="Stellbrink" />
+<Entity id="9" startPos="795" endPos="809" type="person" surface="Devid Striesow" />
+<Entity id="10" startPos="882" endPos="893" type="location-city" surface="Saarbrücken" /></Entities><Relations />
+</Document>

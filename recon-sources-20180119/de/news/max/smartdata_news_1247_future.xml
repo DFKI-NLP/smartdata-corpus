@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Fehler melden
+Sie haben einen Fehler gefunden?
+Bitte markieren Sie die entsprechenden Wörter im Text. Mit nur <NODE id="110" />zwei<NODE id="114" /> Klicks melden Sie den Fehler der Redaktion.
+<NODE id="159" />Deutsche Börse<NODE id="173" /> und <NODE id="178" />London Stock Exchange<NODE id="199" /> wollen <NODE id="207" />fusionieren<NODE id="218" />
+<NODE id="219" />FRANKFURT<NODE id="228" /> - Die <NODE id="235" />Deutsche Börse<NODE id="249" />  will sich mit der Börse in <NODE id="278" />London<NODE id="284" /> zusammenschließen. Wie beide Unternehmen am <NODE id="329" />Dienstag<NODE id="337" /> mitteilten, werde ein Zusammengehen auf Augenhöhe geprüft. Dabei sollen die Aktionäre der <NODE id="428" />Deutschen Börse<NODE id="443" /> an dem neuen Konzern mit etwas über <NODE id="480" />54 Prozent<NODE id="490" /> die Mehrheit halten.
+ROUNDUP: Kunststoff in <NODE id="535" />Mars<NODE id="539" />, <NODE id="541" />Snickers<NODE id="549" /> und <NODE id="554" />Milky Way<NODE id="563" /> gefunden - Rückrufaktion
+<NODE id="589" />VIERSEN<NODE id="596" /> - Wegen eines Kunststoffteilchens in einem Schokoriegel hat der <NODE id="661" />US<NODE id="663" />-Schokoladenkonzern <NODE id="683" />Mars<NODE id="687" /> einen großen Produktrückruf gestartet. Betroffen sind nach Angaben eines Unternehmenssprechers vom <NODE id="787" />Dienstag<NODE id="795" /> alle Süßigkeiten der Marken <NODE id="824" />Mars<NODE id="828" /> und <NODE id="833" />Snickers<NODE id="841" />, daneben einige <NODE id="858" />Milky-Way<NODE id="867" />-Riegel und Produkte von <NODE id="892" />Celebrations<NODE id="904" /> mit den Mindesthaltbarkeitsdaten vom <NODE id="942" />1<NODE id="943" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.focus.de/finanzen/news/wirtschaftsticker/dpa-afx-ueberblick-unternehmen-vom-23-02-2016-15-15-uhr_id_5308625.html@2016-02-23T15:27:44.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T14:27:44Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:40:20.908Z" />
+<feature featureName="uri" featureValue="http://www.focus.de/finanzen/news/wirtschaftsticker/dpa-afx-ueberblick-unternehmen-vom-23-02-2016-15-15-uhr_id_5308625.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="110" endPos="114" type="number" surface="zwei" />
+<Entity id="1" startPos="159" endPos="173" type="organization" surface="Deutsche Börse" />
+<Entity id="2" startPos="178" endPos="199" type="organization" surface="London Stock Exchange" />
+<Entity id="3" startPos="207" endPos="218" type="trigger" surface="fusionieren" />
+<Entity id="4" startPos="219" endPos="228" type="location-city" surface="FRANKFURT" />
+<Entity id="5" startPos="235" endPos="249" type="organization" surface="Deutsche Börse" />
+<Entity id="6" startPos="278" endPos="284" type="location-city" surface="London" />
+<Entity id="7" startPos="329" endPos="337" type="date" surface="Dienstag" />
+<Entity id="8" startPos="428" endPos="443" type="organization" surface="Deutschen Börse" />
+<Entity id="9" startPos="480" endPos="490" type="number" surface="54 Prozent" />
+<Entity id="10" startPos="535" endPos="539" type="product" surface="Mars" />
+<Entity id="11" startPos="541" endPos="549" type="product" surface="Snickers" />
+<Entity id="12" startPos="554" endPos="563" type="product" surface="Milky Way" />
+<Entity id="13" startPos="589" endPos="596" type="location-city" surface="VIERSEN" />
+<Entity id="14" startPos="661" endPos="663" type="location" surface="US" />
+<Entity id="15" startPos="683" endPos="687" type="organization-company" surface="Mars" />
+<Entity id="16" startPos="787" endPos="795" type="date" surface="Dienstag" />
+<Entity id="17" startPos="824" endPos="828" type="product" surface="Mars" />
+<Entity id="18" startPos="833" endPos="841" type="product" surface="Snickers" />
+<Entity id="19" startPos="858" endPos="867" type="product" surface="Milky-Way" />
+<Entity id="20" startPos="892" endPos="904" type="product" surface="Celebrations" />
+<Entity id="21" startPos="942" endPos="943" type="number" surface="1" /></Entities><Relations>
+<Relation id="22" NAME="Merger">
+<Entity id="1" label="old" />
+<Entity id="2" label="old" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

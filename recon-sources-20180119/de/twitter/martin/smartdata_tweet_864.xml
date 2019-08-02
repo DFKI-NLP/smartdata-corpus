@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />RB 40<NODE id="5" /> <NODE id="6" />Niedersachsen<NODE id="19" /> <NODE id="20" />Zugausfall<NODE id="30" /> und <NODE id="35" />Ersatzverkehr<NODE id="48" /> <NODE id="49" />Braunschweig Hbf<NODE id="65" />  <NODE id="67" />Magdeburg<NODE id="76" /> (verschiedene Abschnitte) sowie ... https://t.co/u4ALUT5u40
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744336885909073922" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T01:11:57Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T01:12:04.726Z" />
+<feature featureName="uri" featureValue="https://twitter.com/StörungenBahnverkehr/status/744336885909073922" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="location-route" surface="RB 40" />
+<Entity id="1" startPos="6" endPos="19" type="location" surface="Niedersachsen" />
+<Entity id="2" startPos="20" endPos="30" type="trigger" surface="Zugausfall" />
+<Entity id="3" startPos="35" endPos="48" type="trigger" surface="Ersatzverkehr" />
+<Entity id="4" startPos="49" endPos="65" type="location-stop" surface="Braunschweig Hbf" />
+<Entity id="5" startPos="67" endPos="76" type="location-stop" surface="Magdeburg" /></Entities><Relations>
+<Relation id="6" NAME="CanceledRoute">
+<Entity id="5" label="end_loc" />
+<Entity id="4" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="7" NAME="RailReplacementService">
+<Entity id="5" label="end_loc" />
+<Entity id="4" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="0" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

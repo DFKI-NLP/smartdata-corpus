@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>&gt; <NODE id="2" />SAF-HOLLAND S.A.<NODE id="18" /> mit Rekordjahr <NODE id="34" />2015<NODE id="38" /> - Dividende steigt um 2...
+<NODE id="66" />SAF-HOLLAND S.A.<NODE id="82" /> mit Rekordjahr <NODE id="98" />2015<NODE id="102" /> - Dividende steigt um <NODE id="125" />25%<NODE id="128" />
+<NODE id="129" />heute<NODE id="134" />, <NODE id="136" />07:45<NODE id="141" />
+<NODE id="142" />SAF-HOLLAND S.A.<NODE id="158" /> mit Rekordjahr 2015 - Dividende steigt um 25%
+<NODE id="205" />SAF-HOLLAND S.A.<NODE id="221" /> / Schlagwort(e): Jahresergebnis/Dividende
+Veröffentlichung einer Ad-hoc-Mitteilung nach § 15 WpHG, übermittelt durch DGAP - ein Service der <NODE id="362" />EQS Group AG<NODE id="374" />.
+Für den Inhalt der Mitteilung ist der Emittent verantwortlich.
+- Konzernumsatz legt um <NODE id="463" />10,5%<NODE id="468" /> auf <NODE id="473" />1.060,7 Mio. Euro<NODE id="490" /> zu
+- Bereinigtes EBIT wächst überproportional um <NODE id="540" />33,0%<NODE id="545" />
+- Bereinigte EBIT-Marge erreicht <NODE id="579" />8,9%<NODE id="583" />
+- Im <NODE id="589" />August 2015<NODE id="600" /> erhöhte Umsatz- und Ergebnisprognose leicht übertroffen
+<NODE id="657" />Luxemburg<NODE id="666" />, <NODE id="668" />11. März 2016<NODE id="681" /> - Trotz der im Geschäftsjahr <NODE id="711" />2015<NODE id="715" /> ausgeprägten Marktschwäche in wichtigen Absatzmärkten wie <NODE id="774" />Brasilien<NODE id="783" />, <NODE id="785" />Australien<NODE id="795" /> und der <NODE id="804" />Russischen Föderation<NODE id="825" /> konnte der im SDAX gelistete Nutzfahrzeugzulieferer <NODE id="878" />SAF-HOLLAND<NODE id="889" /> den Konzernumsatz um <NODE id="911" />10,5%<NODE id="916" /> auf <NODE id="921" />1.060,7 Mio. Euro<NODE id="938" /> (Vj. 959,
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.onvista.de/news/saf-holland-s-a-mit-rekordjahr-2015-dividende-steigt-um-25-27300233@2016-03-11T07:45:05.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T06:45:05Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T09:08:21.929Z" />
+<feature featureName="uri" featureValue="http://www.onvista.de/news/saf-holland-s-a-mit-rekordjahr-2015-dividende-steigt-um-25-27300233" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="2" endPos="18" type="organization-company" surface="SAF-HOLLAND S.A." />
+<Entity id="1" startPos="34" endPos="38" type="date" surface="2015" />
+<Entity id="2" startPos="66" endPos="82" type="organization-company" surface="SAF-HOLLAND S.A." />
+<Entity id="3" startPos="98" endPos="102" type="date" surface="2015" />
+<Entity id="4" startPos="125" endPos="128" type="number" surface="25%" />
+<Entity id="5" startPos="129" endPos="134" type="date" surface="heute" />
+<Entity id="6" startPos="136" endPos="141" type="date" surface="07:45" />
+<Entity id="7" startPos="142" endPos="158" type="organization-company" surface="SAF-HOLLAND S.A." />
+<Entity id="8" startPos="205" endPos="221" type="organization-company" surface="SAF-HOLLAND S.A." />
+<Entity id="9" startPos="362" endPos="374" type="organization-company" surface="EQS Group AG" />
+<Entity id="10" startPos="463" endPos="468" type="number" surface="10,5%" />
+<Entity id="11" startPos="473" endPos="490" type="number" surface="1.060,7 Mio. Euro" />
+<Entity id="12" startPos="540" endPos="545" type="number" surface="33,0%" />
+<Entity id="13" startPos="579" endPos="583" type="number" surface="8,9%" />
+<Entity id="14" startPos="589" endPos="600" type="date" surface="August 2015" />
+<Entity id="15" startPos="657" endPos="666" type="location" surface="Luxemburg" />
+<Entity id="16" startPos="668" endPos="681" type="date" surface="11. März 2016" />
+<Entity id="17" startPos="711" endPos="715" type="date" surface="2015" />
+<Entity id="18" startPos="774" endPos="783" type="location" surface="Brasilien" />
+<Entity id="19" startPos="785" endPos="795" type="location" surface="Australien" />
+<Entity id="20" startPos="804" endPos="825" type="location" surface="Russischen Föderation" />
+<Entity id="21" startPos="878" endPos="889" type="organization-company" surface="SAF-HOLLAND" />
+<Entity id="22" startPos="911" endPos="916" type="number" surface="10,5%" />
+<Entity id="23" startPos="921" endPos="938" type="number" surface="1.060,7 Mio. Euro" /></Entities><Relations />
+</Document>

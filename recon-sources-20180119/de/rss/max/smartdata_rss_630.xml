@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>
+        PD <NODE id="12" />Leipzig<NODE id="19" /> - Nach oben offene Richterskala/ Einbrecher mit klebrigen Fingern/Reviermarkierung mit Pinsel und Farbe
+      .
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/de/MI_2016_42123.htm@2016-04-15T13:55:05.076+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-15T11:55:05.076Z" />
+<feature featureName="indexDate" featureValue="2016-04-15T11:55:43.091Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/de/MI_2016_42123.htm" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="19" type="location-city" surface="Leipzig" /></Entities><Relations />
+</Document>

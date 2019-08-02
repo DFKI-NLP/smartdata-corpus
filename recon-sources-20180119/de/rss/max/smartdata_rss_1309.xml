@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A8<NODE id="2" /> <NODE id="3" />München<NODE id="10" /> Richtung <NODE id="20" />Stuttgart<NODE id="29" /> zwischen <NODE id="39" />Günzburg<NODE id="47" /> und <NODE id="52" />Leipheim<NODE id="60" /> <NODE id="61" />Wanderbaustelle<NODE id="76" />, die rechte Spur ist blockiert.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#7@2016-04-13T12:18:02.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-13T10:18:02Z" />
+<feature featureName="indexDate" featureValue="2016-04-13T10:23:09.535Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A8" />
+<Entity id="1" startPos="3" endPos="10" type="location-city" surface="München" />
+<Entity id="2" startPos="20" endPos="29" type="location-city" surface="Stuttgart" />
+<Entity id="3" startPos="39" endPos="47" type="location" surface="Günzburg" />
+<Entity id="4" startPos="52" endPos="60" type="location" surface="Leipheim" />
+<Entity id="5" startPos="61" endPos="76" type="trigger" surface="Wanderbaustelle" /></Entities><Relations />
+</Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>austria.com   News   <NODE id="21" />IFM<NODE id="24" /> will Beteiligung am <NODE id="45" />Flughafen Wien<NODE id="59" /> erhöhen
+<NODE id="68" />14. März 2016<NODE id="81" /> <NODE id="82" />08:47<NODE id="87" />;
+<NODE id="89" />14. März 2016<NODE id="102" /> <NODE id="103" />08:51<NODE id="108" />;
+<NODE id="110" />IFM<NODE id="113" /> will Beteiligung am <NODE id="134" />Flughafen Wien<NODE id="148" /> erhöhen
+Der <NODE id="161" />australische<NODE id="173" /> Pensionsfonds <NODE id="188" />IFM<NODE id="191" /> will seinen Anteil am <NODE id="214" />Flughafen Wien<NODE id="228" /> um bis zu <NODE id="239" />10 Prozent<NODE id="249" /> erhöhen und bietet den Aktionären in einem freiwilligen öffentlichen Angebot <NODE id="327" />100 Euro <NODE id="336" />pro Aktie. Dies entspricht plus <NODE id="368" />20,9 Prozent<NODE id="380" /> gegenüber dem Schlusskurs vom vergangenen <NODE id="423" />Freitag<NODE id="430" /> und plus <NODE id="440" />24,2 Prozent<NODE id="452" /> gegenüber dem Durchschnittskurs für den letzten Monat. <NODE id="508" />IFM<NODE id="511" /> hält derzeit <NODE id="525" />29,9 Prozent<NODE id="537" /> am Flughafen.
+Bitte geben Sie eine gültige Email-Adresse ein
+Fehler beim Senden.
+Ihre Korrekutr wurde erfolgreich gesendet.
+*Pflichtfeld
+Bitte geben Sie eine gültige Email-Adresse ein
+Bitte geben Sie einen Link an.
+Fehler beim Einsenden des Links.
+Ihr Link wurde erfolgreich eingesendet.
+*Pflichtfeld
+Das öffentliche Angebot wird von <NODE id="872" />Airports Group Europe S.à r.l.<NODE id="902" /> (“<NODE id="905" />Airports Group Europe<NODE id="926" />”), einer indirekten Toch
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.austria.com/ifm-will-beteiligung-am-flughafen-wien-erhoehen/apa-1328721312@2016-03-14T09:02:24.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T08:02:24Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:44:06.699Z" />
+<feature featureName="uri" featureValue="http://www.austria.com/ifm-will-beteiligung-am-flughafen-wien-erhoehen/apa-1328721312" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="21" endPos="24" type="organization-company" surface="IFM" />
+<Entity id="1" startPos="45" endPos="59" type="organization-company" surface="Flughafen Wien" />
+<Entity id="2" startPos="68" endPos="81" type="date" surface="14. März 2016" />
+<Entity id="3" startPos="82" endPos="87" type="time" surface="08:47" />
+<Entity id="4" startPos="89" endPos="102" type="date" surface="14. März 2016" />
+<Entity id="5" startPos="103" endPos="108" type="time" surface="08:51" />
+<Entity id="6" startPos="110" endPos="113" type="organization-company" surface="IFM" />
+<Entity id="7" startPos="134" endPos="148" type="organization-company" surface="Flughafen Wien" />
+<Entity id="8" startPos="161" endPos="173" type="location" surface="australische" />
+<Entity id="9" startPos="188" endPos="191" type="organization-company" surface="IFM" />
+<Entity id="10" startPos="214" endPos="228" type="organization-company" surface="Flughafen Wien" />
+<Entity id="11" startPos="239" endPos="249" type="number" surface="10 Prozent" />
+<Entity id="12" startPos="327" endPos="336" type="number" surface="100 Euro " />
+<Entity id="13" startPos="368" endPos="380" type="number" surface="20,9 Prozent" />
+<Entity id="14" startPos="423" endPos="430" type="date" surface="Freitag" />
+<Entity id="15" startPos="440" endPos="452" type="number" surface="24,2 Prozent" />
+<Entity id="16" startPos="508" endPos="511" type="organization-company" surface="IFM" />
+<Entity id="17" startPos="525" endPos="537" type="number" surface="29,9 Prozent" />
+<Entity id="18" startPos="872" endPos="902" type="organization-company" surface="Airports Group Europe S.à r.l." />
+<Entity id="19" startPos="905" endPos="926" type="organization-company" surface="Airports Group Europe" /></Entities><Relations />
+</Document>

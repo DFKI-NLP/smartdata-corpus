@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Euskirchen<NODE id="10" /> <NODE id="11" />15:23<NODE id="16" /> -&gt; <NODE id="20" />Bonn Hbf<NODE id="28" /> <NODE id="29" />16:04<NODE id="34" />: +<NODE id="37" />6<NODE id="38" />, <NODE id="40" />Verzögerungen<NODE id="53" /> im Betriebsablauf
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755034669595385856" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T13:41:07Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T13:41:14.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/245287916/status/755034669595385856" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="location-stop" surface="Euskirchen" />
+<Entity id="1" startPos="0" endPos="28" type="location-route" surface="Euskirchen 15:23 -&gt; Bonn Hbf" />
+<Entity id="2" startPos="11" endPos="16" type="time" surface="15:23" />
+<Entity id="3" startPos="20" endPos="28" type="location-stop" surface="Bonn Hbf" />
+<Entity id="4" startPos="29" endPos="34" type="time" surface="16:04" />
+<Entity id="5" startPos="37" endPos="38" type="duration" surface="6" />
+<Entity id="6" startPos="40" endPos="53" type="trigger" surface="Verzögerungen" /></Entities><Relations>
+<Relation id="7" NAME="Delay">
+<Entity id="5" label="delay" />
+<Entity id="3" label="end_loc" />
+<Entity id="0" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="start_date" />
+</Relation></Relations>
+</Document>

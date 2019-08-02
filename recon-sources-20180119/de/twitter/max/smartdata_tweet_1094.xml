@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A3<NODE id="2" /> <NODE id="3" />Frankfurt<NODE id="12" /> Richtung <NODE id="22" />Oberhausen<NODE id="32" /> zwischen <NODE id="42" />Königsforst<NODE id="53" /> und <NODE id="58" />Leverkusen-Zentrum<NODE id="76" /> <NODE id="77" />8 km<NODE id="81" /> <NODE id="82" />Stau<NODE id="86" /> wegen <NODE id="93" />Bergungsarbeiten<NODE id="109" /> (Zeitverlust: etwa eine...
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="702525969198743553" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T16:10:18Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T04:57:18.226Z" />
+<feature featureName="uri" featureValue="https://twitter.com/123856079/status/702525969198743553" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A3" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Frankfurt" />
+<Entity id="2" startPos="22" endPos="32" type="location-city" surface="Oberhausen" />
+<Entity id="3" startPos="42" endPos="53" type="location" surface="Königsforst" />
+<Entity id="4" startPos="58" endPos="76" type="location" surface="Leverkusen-Zentrum" />
+<Entity id="5" startPos="77" endPos="81" type="distance" surface="8 km" />
+<Entity id="6" startPos="82" endPos="86" type="trigger" surface="Stau" />
+<Entity id="7" startPos="93" endPos="109" type="trigger" surface="Bergungsarbeiten" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="7" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

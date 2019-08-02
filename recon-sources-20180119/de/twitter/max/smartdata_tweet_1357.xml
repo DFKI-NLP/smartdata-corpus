@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: Anschlag in <NODE id="20" />Nizza<NODE id="25" />: Der Terror kann uns schlagen - besiegen kann er uns nicht, kommentiert <NODE id="98" />Stefan Ulrich<NODE id="111" /> https://t.co/iKWzVqdpCM
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="753959494128902144" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-15T14:28:45Z" />
+<feature featureName="indexDate" featureValue="2016-07-15T14:28:50.53Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2431647611/status/753959494128902144" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="20" endPos="25" type="location-city" surface="Nizza" />
+<Entity id="2" startPos="98" endPos="111" type="person" surface="Stefan Ulrich" /></Entities><Relations />
+</Document>

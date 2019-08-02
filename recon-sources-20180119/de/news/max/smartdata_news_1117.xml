@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>vergrößern
+Foto: <NODE id="17" />dpa<NODE id="20" />
+Fußball-Bundesligist <NODE id="42" />1. FC Köln<NODE id="52" /> trauert um seine Sturm-Ikone <NODE id="82" />Hannes Löhr<NODE id="93" />. Der langjährige Profi, Trainer und Manager der <NODE id="142" />Geißböcke<NODE id="151" /> starb am Montag im Alter von <NODE id="181" />73 Jahren<NODE id="190" /> in <NODE id="194" />Köln<NODE id="198" />.
+Für den <NODE id="208" />FC<NODE id="210" /> bestritt <NODE id="220" />Löhr<NODE id="224" /> zwischen <NODE id="234" />1964<NODE id="238" /> und <NODE id="243" />1978<NODE id="247" /> <NODE id="248" />381<NODE id="251" /> <NODE id="252" />Bundesliga<NODE id="262" />-Spiele und  erzielte dabei <NODE id="290" />166<NODE id="293" /> Tore
+Für <NODE id="303" />Deutschland<NODE id="314" /> absolvierte Löhr <NODE id="332" />20<NODE id="334" /> Länderspiele und  war <NODE id="357" />1970<NODE id="361" /> in <NODE id="365" />Mexiko<NODE id="371" /> <NODE id="372" />WM<NODE id="374" />-Teilnehmer. <NODE id="387" />1968<NODE id="391" /> wurde er mit <NODE id="405" />27<NODE id="407" /> Treffern  <NODE id="418" />Bundesliga<NODE id="428" />-Torschützenkönig.
+Mehr zu diesem Thema lesen Sie am Dienstag im GrenzEcho.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.grenzecho.net/zeitung/aktuell/shortnews_detail.asp?a=D6DDAFA5-31A5-4B84-9BCE-5C93968FEE87@2016-02-29T16:03:37.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-29T15:03:37Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:32:41.93Z" />
+<feature featureName="uri" featureValue="http://www.grenzecho.net/zeitung/aktuell/shortnews_detail.asp?a=D6DDAFA5-31A5-4B84-9BCE-5C93968FEE87" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="20" type="organization-company" surface="dpa" />
+<Entity id="1" startPos="42" endPos="52" type="organization" surface="1. FC Köln" />
+<Entity id="2" startPos="82" endPos="93" type="person" surface="Hannes Löhr" />
+<Entity id="3" startPos="142" endPos="151" type="organization" surface="Geißböcke" />
+<Entity id="4" startPos="181" endPos="190" type="duration" surface="73 Jahren" />
+<Entity id="5" startPos="194" endPos="198" type="location-city" surface="Köln" />
+<Entity id="6" startPos="208" endPos="210" type="organization" surface="FC" />
+<Entity id="7" startPos="220" endPos="224" type="person" surface="Löhr" />
+<Entity id="8" startPos="234" endPos="238" type="date" surface="1964" />
+<Entity id="9" startPos="243" endPos="247" type="date" surface="1978" />
+<Entity id="10" startPos="248" endPos="251" type="number" surface="381" />
+<Entity id="11" startPos="252" endPos="262" type="organization" surface="Bundesliga" />
+<Entity id="12" startPos="290" endPos="293" type="number" surface="166" />
+<Entity id="13" startPos="303" endPos="314" type="location" surface="Deutschland" />
+<Entity id="14" startPos="332" endPos="334" type="number" surface="20" />
+<Entity id="15" startPos="357" endPos="361" type="date" surface="1970" />
+<Entity id="16" startPos="365" endPos="371" type="location" surface="Mexiko" />
+<Entity id="17" startPos="372" endPos="374" type="organization" surface="WM" />
+<Entity id="18" startPos="387" endPos="391" type="date" surface="1968" />
+<Entity id="19" startPos="405" endPos="407" type="number" surface="27" />
+<Entity id="20" startPos="418" endPos="428" type="organization" surface="Bundesliga" /></Entities><Relations>
+<Relation id="21" NAME="Identity">
+<Entity id="1" label="source" />
+<Entity id="6" label="target" />
+<Entity id="3" label="target" />
+</Relation></Relations>
+</Document>

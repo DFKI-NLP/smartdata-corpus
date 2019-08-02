@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />1<NODE id="1" />. Wählen Sie zunächst die Ausgabe/n, die Sie gerne als ePaper abonnieren möchten.
+Sie können hier <NODE id="99" />eine<NODE id="103" /> oder mehrere Ausgaben auswählen.
+<NODE id="137" />Neue Presse Coburg<NODE id="155" />
+JA, ich bin bereits Printabonnent und möchte die Vergünstigung beim ePaper nutzen!
+<NODE id="239" />2<NODE id="240" />. Anmelden oder Registrieren
+Wenn Sie bereits einen Benutzeraccount haben, so melden Sie sich bitte an.                    Sind Sie Neukunde können Sie direkt das Registrierungsformular benutzen.
+Geben Sie bitte folgende Daten ein, um sich zu registrieren und Ihre Bestellung zu tätigen.
+gewünschter Benutzername:
+Land:
+ 
+Bitte informieren Sie mich auch per E-Mail und Telefon über Ihre neuen Dienstleistungen und Produkte. Kontoinhaber:
+Kontonummer:
+Ich bin mit der Abbuchung des Rechnungsbetrages einverstanden. Diese Bankeinzugsermächtigung kann jederzeit schriftlich widerrufen werden.
+ 
+Bitte beantworten Sie noch die folgende Sicherheitsfrage:
+Wie viel ist <NODE id="903" />8<NODE id="904" /> + <NODE id="907" />2<NODE id="908" />: 
+<NODE id="911" />3<NODE id="912" />. Bestellung absenden
+Bitte bestätigen Sie vor dem Absenden der Bes
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.np-coburg.de/4742721@2016-03-23T18:04:50.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-23T17:04:50Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:19:52.952Z" />
+<feature featureName="uri" featureValue="http://www.np-coburg.de/4742721" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="1" type="number" surface="1" />
+<Entity id="1" startPos="99" endPos="103" type="number" surface="eine" />
+<Entity id="2" startPos="137" endPos="155" type="organization-company" surface="Neue Presse Coburg" />
+<Entity id="3" startPos="239" endPos="240" type="number" surface="2" />
+<Entity id="4" startPos="903" endPos="904" type="number" surface="8" />
+<Entity id="5" startPos="907" endPos="908" type="number" surface="2" />
+<Entity id="6" startPos="911" endPos="912" type="number" surface="3" /></Entities><Relations />
+</Document>

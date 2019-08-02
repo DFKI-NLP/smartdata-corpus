@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Google<NODE id="6" /> Plus
+Schon Wochen vor der Oscar-Verleihung machen sich die <NODE id="66" />Hollywood<NODE id="75" />-Stars Gedanken über ihr Outfit für die Nacht der Nächte. So auch in diesem Jahr: Bei <NODE id="161" />23<NODE id="163" /> Grad und strahlendem Sonnenschein präsentierten die Damen und Herren des Filmgeschäfts die schönsten Roben und schicksten Anzüge. Doch von einigen Promis, die sich sonst besonders gern auf dem roten Teppich zeigen, war in diesem Jahr gar nichts zu sehen.
+Film
+Oscars <NODE id="431" />2016<NODE id="435" />Die Highlights in GIFs
+Sie kam vieeeeel zu spät
+Sie war in der Kategorie Beste Hauptdarstellerin nominiert und sorgte in der Vergangenheit schon für einige Lacher auf diesem wichtigen Event: <NODE id="626" />Jennifer Lawrence<NODE id="643" /> . Klar, dass die Reporter und Fotografen auch letzte Nacht sehnsüchtig auf sie warteten. Und warteten. Und warteten. Denn die Schauspielerin kam mit einer riesigen Verspätung am Dolby Theatre in <NODE id="839" />Losa Angeles<NODE id="851" /> an, schlich sich quasi an den Journalisten vorbei und stellte sich nur ganz kurz vor die unaufhaltsam
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.gala.de/stars/news/oscars-2016-diese-stars-waren-nicht-dabei_1399877_1371305.html@2016-02-29T11:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-29T10:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:10:01.927Z" />
+<feature featureName="uri" featureValue="http://www.gala.de/stars/news/oscars-2016-diese-stars-waren-nicht-dabei_1399877_1371305.html" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization-company" surface="Google" />
+<Entity id="1" startPos="66" endPos="75" type="location" surface="Hollywood" />
+<Entity id="2" startPos="161" endPos="163" type="number" surface="23" />
+<Entity id="3" startPos="431" endPos="435" type="date" surface="2016" />
+<Entity id="4" startPos="626" endPos="643" type="person" surface="Jennifer Lawrence" />
+<Entity id="5" startPos="839" endPos="851" type="location-city" surface="Losa Angeles" /></Entities><Relations />
+</Document>

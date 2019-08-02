@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Twittern
+<NODE id="9" />Thyssenkrupp<NODE id="21" />: <NODE id="23" />Erste<NODE id="28" /> Erfolge, aber noch nicht am Ziel
+<NODE id="62" />Essen<NODE id="67" /> (<NODE id="69" />dpa<NODE id="72" />) - <NODE id="76" />Thyssenkrupp<NODE id="88" />-<NODE id="89" />Chef<NODE id="93" /> <NODE id="94" />Heinrich Hiesinger<NODE id="112" /> sieht den Konzern nach Jahren der Krise wieder in der Erfolgsspur - auch wegen der trüberen globalen Wirtschaftslage treibt er den Umbau aber weiter voran.
+«Wir sind von unserem Mindestanspruch und unseren Zielen noch ein gutes Stück entfernt», sagte der Manager am <NODE id="379" />Donnerstag<NODE id="389" /> in <NODE id="393" />Essen<NODE id="398" />.
+Das Unternehmen habe sich inzwischen zwar stabilisiert, doch dies reiche noch nicht aus. Der Umbau gehe weiter und brauche seine Zeit. Mit einem neuen Logo will <NODE id="561" />Thyssenkrupp<NODE id="573" /> den Neuanfang nun auch optisch verdeutlichen.
+<NODE id="620" />Hiesinger<NODE id="629" /> verteidigte erneut seine Strategie, den Konzern als Ganzes zu erhalten. Dabei müsse es darum gehen, die lange weitgehend unabhängig voneinander agierenden Unternehmensteile stärker zusammenzubinden: «Wir können Kompetenzen aus den unterschiedlichen Branchen und Anwendungsbereichen produktiv verknüpfen.»
+Damit will Hie
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wz-newsline.de/home/wirtschaft/thyssenkrupp-erste-erfolge-aber-noch-nicht-am-ziel-1.2062733@2015-11-19T15:05:32.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-19T14:05:32Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:42:41.929Z" />
+<feature featureName="uri" featureValue="http://www.wz-newsline.de/home/wirtschaft/thyssenkrupp-erste-erfolge-aber-noch-nicht-am-ziel-1.2062733" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="21" type="organization-company" surface="Thyssenkrupp" />
+<Entity id="1" startPos="23" endPos="28" type="number" surface="Erste" />
+<Entity id="2" startPos="62" endPos="67" type="location-city" surface="Essen" />
+<Entity id="3" startPos="69" endPos="72" type="organization-company" surface="dpa" />
+<Entity id="4" startPos="76" endPos="88" type="organization-company" surface="Thyssenkrupp" />
+<Entity id="5" startPos="89" endPos="93" type="org-position" surface="Chef" />
+<Entity id="6" startPos="94" endPos="112" type="person" surface="Heinrich Hiesinger" />
+<Entity id="7" startPos="379" endPos="389" type="date" surface="Donnerstag" />
+<Entity id="8" startPos="393" endPos="398" type="location-city" surface="Essen" />
+<Entity id="9" startPos="561" endPos="573" type="organization-company" surface="Thyssenkrupp" />
+<Entity id="10" startPos="620" endPos="629" type="person" surface="Hiesinger" /></Entities><Relations>
+<Relation id="11" NAME="OrganizationLeadership">
+<Entity id="6" label="person" />
+<Entity id="4" label="organization" />
+<Entity id="5" label="position" />
+</Relation></Relations>
+</Document>

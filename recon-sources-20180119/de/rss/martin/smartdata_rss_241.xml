@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A96<NODE id="3" /> <NODE id="4" />Lindau<NODE id="10" /> Richtung <NODE id="20" />München<NODE id="27" /> zwischen <NODE id="37" />Schöffelding<NODE id="49" /> und <NODE id="54" />Inning a. Ammersee<NODE id="72" /> <NODE id="73" />10 km<NODE id="78" /> <NODE id="79" />Stau<NODE id="83" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#32@2016-03-28T20:06:25.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-28T18:06:25Z" />
+<feature featureName="indexDate" featureValue="2016-03-28T18:09:10.491Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A96" />
+<Entity id="1" startPos="4" endPos="10" type="location-city" surface="Lindau" />
+<Entity id="2" startPos="20" endPos="27" type="location-city" surface="München" />
+<Entity id="3" startPos="37" endPos="49" type="location" surface="Schöffelding" />
+<Entity id="4" startPos="54" endPos="72" type="location" surface="Inning a. Ammersee" />
+<Entity id="5" startPos="73" endPos="78" type="distance" surface="10 km" />
+<Entity id="6" startPos="79" endPos="83" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

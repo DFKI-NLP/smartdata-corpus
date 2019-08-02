@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />The Drift's<NODE id="11" /> gelungene Fusion https://t.co/4FEelKwHTo  #darkjazz #<NODE id="65" />thedrift<NODE id="73" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="733492831076143104" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-20T03:01:33Z" />
+<feature featureName="indexDate" featureValue="2016-05-20T03:01:34.039Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="organization" surface="The Drift's" />
+<Entity id="1" startPos="65" endPos="73" type="organization" surface="thedrift" /></Entities><Relations />
+</Document>

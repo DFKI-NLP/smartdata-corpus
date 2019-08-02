@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Baustelle Kulturwandel: Mit Teamarbeit zur digitalen Transformation?!<NODE id="69" />
+<NODE id="70" />Düsseldorf<NODE id="80" /> (ots) -<NODE id="88" /> <NODE id="89" />Zusammenarbeit ist als Quelle für Agilität und  Innovation unverzichtbar!<NODE id="162" /> <NODE id="163" />In der aktuellen Spotlight-Analyse  Baustelle Kulturwandel identifizieren <NODE id="237" />PAC<NODE id="240" /> und <NODE id="245" />Damovo<NODE id="251" /> 5  Handlungsfelder für eine effiziente, virtuelle Teamarbeit.<NODE id="313" />  <NODE id="315" />Führungskräfte aus Vertrieb, Marketing, IT und das TOP-Management  sind aufgerufen die passenden Rahmenbedingungen für eine  kollaborative Unternehmenskultur zu schaffen.<NODE id="485" />
+<NODE id="486" />Je stärker die digitale Transformation an den Grundfesten der  Unternehmen rüttelt, desto lauter erschallt der Ruf nach mehr  Agilität und Innovationsfähigkeit.<NODE id="646" /> <NODE id="647" />Das bedeutet auch, dass die  Teamarbeit wieder stärker in den Blickpunkt der Unternehmenslenker  rückt.<NODE id="750" /> <NODE id="751" />Wenn eine effektive Zusammenarbeit gelingt, dann kann die  Umsetzung von Innovationsvorhaben verbessert werden.<NODE id="862" />
+<NODE id="863" />Diese Einschätzung wird heute von der überwiegenden Mehrheit der<NODE id="927" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanznachrichten.de/nachrichten-2016-01/36125057-baustelle-kulturwandel-mit-teamarbeit-zur-digitalen-transformation-007.htm@2016-03-10T15:22:09.266+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:22:09.266Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:22:13.317Z" />
+<feature featureName="uri" featureValue="http://www.finanznachrichten.de/nachrichten-2016-01/36125057-baustelle-kulturwandel-mit-teamarbeit-zur-digitalen-transformation-007.htm" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="69" type="sentence" surface="Baustelle Kulturwandel: Mit Teamarbeit zur digitalen Transformation?!" />
+<Entity id="1" startPos="70" endPos="80" type="location-city" surface="Düsseldorf" />
+<Entity id="2" startPos="70" endPos="88" type="sentence" surface="Düsseldorf (ots) -" />
+<Entity id="3" startPos="89" endPos="162" type="sentence" surface="Zusammenarbeit ist als Quelle für Agilität und  Innovation unverzichtbar!" />
+<Entity id="4" startPos="163" endPos="313" type="sentence" surface="In der aktuellen Spotlight-Analyse  Baustelle Kulturwandel identifizieren PAC und Damovo 5  Handlungsfelder für eine effiziente, virtuelle Teamarbeit." />
+<Entity id="5" startPos="237" endPos="240" type="organization-company" surface="PAC" />
+<Entity id="6" startPos="245" endPos="251" type="organization-company" surface="Damovo" />
+<Entity id="7" startPos="315" endPos="485" type="sentence" surface="Führungskräfte aus Vertrieb, Marketing, IT und das TOP-Management  sind aufgerufen die passenden Rahmenbedingungen für eine  kollaborative Unternehmenskultur zu schaffen." />
+<Entity id="8" startPos="486" endPos="646" type="sentence" surface="Je stärker die digitale Transformation an den Grundfesten der  Unternehmen rüttelt, desto lauter erschallt der Ruf nach mehr  Agilität und Innovationsfähigkeit." />
+<Entity id="9" startPos="647" endPos="750" type="sentence" surface="Das bedeutet auch, dass die  Teamarbeit wieder stärker in den Blickpunkt der Unternehmenslenker  rückt." />
+<Entity id="10" startPos="751" endPos="862" type="sentence" surface="Wenn eine effektive Zusammenarbeit gelingt, dann kann die  Umsetzung von Innovationsvorhaben verbessert werden." />
+<Entity id="11" startPos="863" endPos="927" type="sentence" surface="Diese Einschätzung wird heute von der überwiegenden Mehrheit der" /></Entities><Relations />
+</Document>

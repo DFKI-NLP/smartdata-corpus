@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wegen eines <NODE id="12" />Notartseinsatzes<NODE id="28" /> ist derzeit die <NODE id="45" />Strecke<NODE id="52" /> zwischen <NODE id="62" />Gerlenhofen<NODE id="73" /> und <NODE id="78" />Senden<NODE id="84" /> <NODE id="85" />gesperrt<NODE id="93" />. Es gibt noch keinen Schienenersatzverkehr. (<NODE id="139" />15:28<NODE id="144" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.br-online.de/aktuell/verkehr/verkehr-verkehrsmeldungen-staumeldungen-ID119730167093.xml@2016-03-18T16:20:25.092+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.br-online.de/aktuell/verkehr/verkehr-verkehrsmeldungen-staumeldungen-ID119730167093.xml" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="28" type="trigger" surface="Notartseinsatzes" />
+<Entity id="1" startPos="45" endPos="52" type="location-route" surface="Strecke" />
+<Entity id="2" startPos="62" endPos="73" type="location-stop" surface="Gerlenhofen" />
+<Entity id="3" startPos="78" endPos="84" type="location-stop" surface="Senden" />
+<Entity id="4" startPos="85" endPos="93" type="trigger" surface="gesperrt" />
+<Entity id="5" startPos="139" endPos="144" type="time" surface="15:28" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="start_loc" />
+<Entity id="0" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

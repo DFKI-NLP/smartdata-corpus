@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />24<NODE id="6" /> Türchen bis <NODE id="19" />Weihnachten<NODE id="30" /> sind für viele Eltern der Horror. Auf unserer Elterncouch erzählt eine Mutter warum. https://t.co/WMxC29n06R
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670917138392072192" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-29T10:48:05Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:22:24.615Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="number" surface="24" />
+<Entity id="1" startPos="19" endPos="30" type="date" surface="Weihnachten" /></Entities><Relations />
+</Document>

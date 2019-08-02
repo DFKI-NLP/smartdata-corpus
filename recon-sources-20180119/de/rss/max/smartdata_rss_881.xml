@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A8<NODE id="2" /> <NODE id="3" />München<NODE id="10" /> Richtung <NODE id="20" />Salzburg<NODE id="28" /> zwischen <NODE id="38" />Bernau<NODE id="44" /> und dem <NODE id="53" />Grenzübergang Bad Reichenhall <NODE id="83" />stockender Verkehr<NODE id="101" /> wegen eines <NODE id="114" />Schwertransports<NODE id="130" />, der nicht überholt werden kann
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#21@2016-05-12T21:23:57.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-12T19:23:57Z" />
+<feature featureName="indexDate" featureValue="2016-05-12T19:24:32.431Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A8" />
+<Entity id="1" startPos="3" endPos="10" type="location-city" surface="München" />
+<Entity id="2" startPos="20" endPos="28" type="location-city" surface="Salzburg" />
+<Entity id="3" startPos="38" endPos="44" type="location" surface="Bernau" />
+<Entity id="4" startPos="53" endPos="83" type="location" surface="Grenzübergang Bad Reichenhall " />
+<Entity id="5" startPos="83" endPos="101" type="trigger" surface="stockender Verkehr" />
+<Entity id="6" startPos="114" endPos="130" type="trigger" surface="Schwertransports" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="6" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

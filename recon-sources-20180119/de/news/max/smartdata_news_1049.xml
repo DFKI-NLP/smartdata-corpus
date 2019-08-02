@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>So geht es jetzt bei <NODE id="21" />Zielpunkt<NODE id="30" /> weiter
+ 
+So geht es jetzt bei <NODE id="61" />Zielpunkt<NODE id="70" /> weiter
+Die Gewerkschaft kritisiert die überraschende Insolvenz, die Eigentümer verteidigen sie.
+Von <NODE id="171" />Iris Burtscher<NODE id="185" />, <NODE id="187" />Monika Graf<NODE id="198" />   /   <NODE id="205" />27.11.2015<NODE id="215" /> - <NODE id="218" />13:59<NODE id="223" />
+Aus für die Handelskette und <NODE id="253" />2600<NODE id="257" /> Mitarbeiter. Bild: <NODE id="277" />SN<NODE id="279" />/<NODE id="280" />apa<NODE id="283" />/<NODE id="284" />helmut fohringer<NODE id="300" />
+Wir sind alle unter Schock, sagt <NODE id="334" />Manuela J.<NODE id="344" /> Sie ist eine der <NODE id="362" />2600<NODE id="366" /> Mitarbeiterinnen der Handelskette <NODE id="401" />Zielpunkt<NODE id="410" />, die im Zuge der <NODE id="428" />Insolvenz<NODE id="437" /> den <NODE id="442" />Job verlieren<NODE id="455" /> werden . Vor <NODE id="469" />einem Monat<NODE id="480" /> hat sie von <NODE id="493" />Penny<NODE id="498" /> dorthin gewechselt, weil die Arbeitsbedingungen viel besser sind. Nun weiß sie nicht, wie es weitergeht, ebenso wenig wie ihre Kollegin hinter der Wursttheke, die ebenfalls erst seit <NODE id="682" />sechs Monaten<NODE id="695" /> bei <NODE id="700" />Zielpunkt<NODE id="709" /> ist.
+Tatsächlich hat die oberösterreichische <NODE id="755" />Pfeiffer<NODE id="763" />-Gruppe noch bis vor Kurzem Pläne für ihre angeschlagene Tochter gewälzt, Filialen umgebaut und neue Leute eingestellt. Ziel war es, <NODE id="896" />Zielpunkt<NODE id="905" /> bis <NODE id="910" />2018<NODE id="914" /> in die schwarzen Zahlen zu bringen. Seit Wo
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.salzburg.com/nachrichten/rubriken/bestestellen/karriere-nachrichten/sn/artikel/so-geht-es-jetzt-bei-zielpunkt-weiter-174924/@2015-11-27T13:59:59.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-27T12:59:59Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T07:17:41.929Z" />
+<feature featureName="uri" featureValue="http://www.salzburg.com/nachrichten/rubriken/bestestellen/karriere-nachrichten/sn/artikel/so-geht-es-jetzt-bei-zielpunkt-weiter-174924/" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="21" endPos="30" type="organization-company" surface="Zielpunkt" />
+<Entity id="1" startPos="61" endPos="70" type="organization-company" surface="Zielpunkt" />
+<Entity id="2" startPos="171" endPos="185" type="person" surface="Iris Burtscher" />
+<Entity id="3" startPos="187" endPos="198" type="person" surface="Monika Graf" />
+<Entity id="4" startPos="205" endPos="215" type="date" surface="27.11.2015" />
+<Entity id="5" startPos="218" endPos="223" type="time" surface="13:59" />
+<Entity id="6" startPos="253" endPos="257" type="number" surface="2600" />
+<Entity id="7" startPos="277" endPos="279" type="organization-company" surface="SN" />
+<Entity id="8" startPos="280" endPos="283" type="organization-company" surface="apa" />
+<Entity id="9" startPos="284" endPos="300" type="person" surface="helmut fohringer" />
+<Entity id="10" startPos="334" endPos="344" type="person" surface="Manuela J." />
+<Entity id="11" startPos="362" endPos="366" type="number" surface="2600" />
+<Entity id="12" startPos="401" endPos="410" type="organization-company" surface="Zielpunkt" />
+<Entity id="13" startPos="428" endPos="437" type="trigger" surface="Insolvenz" />
+<Entity id="14" startPos="442" endPos="455" type="trigger" surface="Job verlieren" />
+<Entity id="15" startPos="469" endPos="480" type="duration" surface="einem Monat" />
+<Entity id="16" startPos="493" endPos="498" type="organization-company" surface="Penny" />
+<Entity id="17" startPos="682" endPos="695" type="duration" surface="sechs Monaten" />
+<Entity id="18" startPos="700" endPos="709" type="organization-company" surface="Zielpunkt" />
+<Entity id="19" startPos="755" endPos="763" type="organization-company" surface="Pfeiffer" />
+<Entity id="20" startPos="896" endPos="905" type="organization-company" surface="Zielpunkt" />
+<Entity id="21" startPos="910" endPos="914" type="date" surface="2018" /></Entities><Relations>
+<Relation id="22" NAME="Insolvency">
+<Entity id="12" label="company" />
+<Entity id="13" label="trigger" />
+</Relation>
+<Relation id="23" NAME="Layoffs">
+<Entity id="11" label="num_laid_off" />
+<Entity id="12" label="company" />
+<Entity id="14" label="trigger" />
+</Relation></Relations>
+</Document>

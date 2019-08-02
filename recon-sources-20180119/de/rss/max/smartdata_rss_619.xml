@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Dienstag<NODE id="11" />, <NODE id="13" />22. März<NODE id="21" />, <NODE id="23" />8.00<NODE id="27" /> – <NODE id="30" />18.00 Uhr<NODE id="39" />
+Meldung:
+Die <NODE id="53" />EC-Züge<NODE id="60" /> <NODE id="61" />fallen<NODE id="67" /> zwischen <NODE id="77" />Dresden Hbf <NODE id="89" />und <NODE id="93" />Děčín hl.n.<NODE id="104" /> <NODE id="105" />aus<NODE id="108" />. Als Ersatz nutzen Sie bitte die Busse zwischen <NODE id="157" />Dresden Hbf<NODE id="168" /> und <NODE id="173" />Ústí nad Labem<NODE id="187" />.
+Grund:
+Oberleitungsarbeiten zwischen <NODE id="226" />Bad Schandau<NODE id="238" /> und <NODE id="243" />Kurort Rathen<NODE id="256" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="326" />119<NODE id="329" /> kB)
+Sonderinformation zu dieser Meldung:
+Fahrplan (<NODE id="381" />Berlin Hbf<NODE id="391" /> – <NODE id="394" />Usti nad Labem<NODE id="408" />) <NODE id="410" />04.03<NODE id="415" />. – <NODE id="419" />03.04.2016<NODE id="429" /> (<NODE id="431" />400<NODE id="434" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/EC_27-Westerland_Kiel_-_Hamburg-Berlin-Dresden-Praha_-_Budapest/12#9c9429fcfcd1ef6c2dde3ff53e735cc2060dfca7@2016-03-02T04:35:48.379+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-02T03:35:48.379Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:24:33.514Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/EC_27-Westerland_Kiel_-_Hamburg-Berlin-Dresden-Praha_-_Budapest/12#9c9429fcfcd1ef6c2dde3ff53e735cc2060dfca7" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="11" type="date" surface="Dienstag" />
+<Entity id="1" startPos="13" endPos="21" type="date" surface="22. März" />
+<Entity id="2" startPos="23" endPos="27" type="time" surface="8.00" />
+<Entity id="3" startPos="30" endPos="39" type="time" surface="18.00 Uhr" />
+<Entity id="4" startPos="53" endPos="60" type="location-route" surface="EC-Züge" />
+<Entity id="5" startPos="61" endPos="67" type="trigger" surface="fallen" />
+<Entity id="6" startPos="77" endPos="89" type="location-stop" surface="Dresden Hbf " />
+<Entity id="7" startPos="93" endPos="104" type="location-stop" surface="Děčín hl.n." />
+<Entity id="8" startPos="105" endPos="108" type="trigger" surface="aus" />
+<Entity id="9" startPos="157" endPos="168" type="location-stop" surface="Dresden Hbf" />
+<Entity id="10" startPos="173" endPos="187" type="location-stop" surface="Ústí nad Labem" />
+<Entity id="11" startPos="226" endPos="238" type="location-stop" surface="Bad Schandau" />
+<Entity id="12" startPos="243" endPos="256" type="location-stop" surface="Kurort Rathen" />
+<Entity id="13" startPos="326" endPos="329" type="number" surface="119" />
+<Entity id="14" startPos="381" endPos="391" type="location-stop" surface="Berlin Hbf" />
+<Entity id="15" startPos="394" endPos="408" type="location-stop" surface="Usti nad Labem" />
+<Entity id="16" startPos="410" endPos="415" type="date" surface="04.03" />
+<Entity id="17" startPos="419" endPos="429" type="date" surface="03.04.2016" />
+<Entity id="18" startPos="431" endPos="434" type="number" surface="400" /></Entities><Relations>
+<Relation id="19" NAME="CanceledRoute">
+<Entity id="7" label="end_loc" />
+<Entity id="6" label="start_loc" />
+<Entity id="4" label="location" />
+<Entity id="8" label="trigger" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

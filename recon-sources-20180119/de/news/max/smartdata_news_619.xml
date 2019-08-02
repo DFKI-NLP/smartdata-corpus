@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ließ Personalfrage Tourismusfusion scheitern? Landrat <NODE id="54" />Walch<NODE id="59" /> wehrt….
+
+Ließ Personalfrage Tourismusfusion scheitern? Landrat <NODE id="123" />Walch<NODE id="128" /> wehrt ab
+von <NODE id="142" />Robert Seifert<NODE id="156" />
+Artikel
+Artikel <NODE id="173" />2<NODE id="174" /> / <NODE id="177" />104<NODE id="180" />
+<NODE id="181" />Traunsteins<NODE id="192" /> Landrat <NODE id="201" />Siegfried Walch<NODE id="216" /> wehrt sich gegen den Vorwurf, man habe den <NODE id="260" />Rosenheimern<NODE id="272" /> <NODE id="273" />Traunsteiner<NODE id="285" /> Personal aufzwingen wollen. − Foto: <NODE id="322" />Chiemgau Tourismus<NODE id="340" />
+<NODE id="341" />Traunsteins<NODE id="352" /> Landrat <NODE id="361" />Siegfried Walch<NODE id="376" /> wehrt sich gegen den Vorwurf, man habe den <NODE id="420" />Rosenheimern<NODE id="432" /> <NODE id="433" />Traunsteiner<NODE id="445" /> Personal aufzwingen wollen. − Foto: <NODE id="482" />Chiemgau Tourismus<NODE id="500" />
+Landrat <NODE id="509" />Siegfried Walch<NODE id="524" /> (<NODE id="526" />CSU<NODE id="529" />) hat am <NODE id="538" />Dienstag<NODE id="546" /> vor dem Kreisausschuss noch einmal das Scheitern der Fusion zwischen den Tourismusverbänden <NODE id="639" />Chiemgau<NODE id="647" /> und <NODE id="652" />Chiemsee-Alpenland<NODE id="670" /> geschildert. Demnach habe sein Amtskollege <NODE id="714" />Wolfgang Berthaler<NODE id="732" /> das <NODE id="737" />Rosenheimer<NODE id="748" /> Nein am <NODE id="757" />4. März<NODE id="764" /> in einem Anruf in <NODE id="783" />Walchs<NODE id="789" /> Vorzimmer und tags darauf in der Presse verkündet. Die Fusionsverhandlungen waren zu diesem Zeitpunkt jedoch bereits abgeschlossen, verdeutlichte <NODE id="936" />Walch<NODE id="941" />.
+Trotz dieses unvorhersehbaren Vorgehens der <NODE id="987" />Rosenheim<NODE id="996" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.heimatzeitung.de/lokales/landkreis_traunstein/1998809_Liess-Personalfrage-Tourismusfusion-scheitern-Landrat-Walch-wehrt-ab.html@2016-03-15T14:28:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-15T13:28:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T21:32:02.952Z" />
+<feature featureName="uri" featureValue="http://www.heimatzeitung.de/lokales/landkreis_traunstein/1998809_Liess-Personalfrage-Tourismusfusion-scheitern-Landrat-Walch-wehrt-ab.html" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="54" endPos="59" type="person" surface="Walch" />
+<Entity id="1" startPos="123" endPos="128" type="person" surface="Walch" />
+<Entity id="2" startPos="142" endPos="156" type="person" surface="Robert Seifert" />
+<Entity id="3" startPos="173" endPos="174" type="number" surface="2" />
+<Entity id="4" startPos="177" endPos="180" type="number" surface="104" />
+<Entity id="5" startPos="181" endPos="192" type="location-city" surface="Traunsteins" />
+<Entity id="6" startPos="201" endPos="216" type="person" surface="Siegfried Walch" />
+<Entity id="7" startPos="260" endPos="272" type="location-city" surface="Rosenheimern" />
+<Entity id="8" startPos="273" endPos="285" type="location-city" surface="Traunsteiner" />
+<Entity id="9" startPos="322" endPos="340" type="organization" surface="Chiemgau Tourismus" />
+<Entity id="10" startPos="341" endPos="352" type="location-city" surface="Traunsteins" />
+<Entity id="11" startPos="361" endPos="376" type="person" surface="Siegfried Walch" />
+<Entity id="12" startPos="420" endPos="432" type="location-city" surface="Rosenheimern" />
+<Entity id="13" startPos="433" endPos="445" type="location-city" surface="Traunsteiner" />
+<Entity id="14" startPos="482" endPos="500" type="organization" surface="Chiemgau Tourismus" />
+<Entity id="15" startPos="509" endPos="524" type="person" surface="Siegfried Walch" />
+<Entity id="16" startPos="526" endPos="529" type="organization" surface="CSU" />
+<Entity id="17" startPos="538" endPos="546" type="date" surface="Dienstag" />
+<Entity id="18" startPos="639" endPos="647" type="location" surface="Chiemgau" />
+<Entity id="19" startPos="652" endPos="670" type="location" surface="Chiemsee-Alpenland" />
+<Entity id="20" startPos="714" endPos="732" type="person" surface="Wolfgang Berthaler" />
+<Entity id="21" startPos="737" endPos="748" type="location-city" surface="Rosenheimer" />
+<Entity id="22" startPos="757" endPos="764" type="date" surface="4. März" />
+<Entity id="23" startPos="783" endPos="789" type="person" surface="Walchs" />
+<Entity id="24" startPos="936" endPos="941" type="person" surface="Walch" />
+<Entity id="25" startPos="987" endPos="996" type="location-city" surface="Rosenheim" /></Entities><Relations />
+</Document>

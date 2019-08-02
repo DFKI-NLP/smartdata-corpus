@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A29<NODE id="26" /> <NODE id="27" />Oldenburg<NODE id="36" /> Richtung <NODE id="46" />Ahlhorner Heide<NODE id="61" /> zwischen <NODE id="71" />Wardenburg<NODE id="81" /> und <NODE id="86" />Großenkneten<NODE id="98" /> liegen Gegenstände!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#3@2016-04-20T05:03:12.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-20T03:03:12Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T03:05:19.969Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="26" type="location-street" surface="A29" />
+<Entity id="1" startPos="27" endPos="36" type="location-city" surface="Oldenburg" />
+<Entity id="2" startPos="46" endPos="61" type="location" surface="Ahlhorner Heide" />
+<Entity id="3" startPos="71" endPos="81" type="location" surface="Wardenburg" />
+<Entity id="4" startPos="86" endPos="98" type="location" surface="Großenkneten" /></Entities><Relations />
+</Document>

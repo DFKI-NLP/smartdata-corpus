@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />KaiGehring<NODE id="11" /> In welchem Zug sitzen Sie denn? /ch
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754759816132890625" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T19:28:57Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T19:29:02.353Z" />
+<feature featureName="uri" featureValue="https://twitter.com/39999078/status/754759816132890625" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="11" type="person" surface="KaiGehring" /></Entities><Relations />
+</Document>

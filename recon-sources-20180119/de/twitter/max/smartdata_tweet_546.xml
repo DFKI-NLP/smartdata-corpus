@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Am Bahnhof hängt ein Plakat zu dem neuen Heidi Film was mich wundert wieso da <NODE id="78" />Hitler<NODE id="84" /> drauf ist ! #deruntergang #heidi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672413259652296704" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-03T13:53:08Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:32:34.12Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="78" endPos="84" type="person" surface="Hitler" /></Entities><Relations />
+</Document>

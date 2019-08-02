@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Banane0711: Die Insolvenz ist natürlich nur buchhalterisch relevant. Die Korruptionskrake #<NODE id="95" />Imtech<NODE id="101" /> ärmelt weiter. http://t.co/W8vlL2kTAF…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="629596719391592448" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-07T10:15:29Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T01:31:45.73Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="95" endPos="101" type="organization-company" surface="Imtech" /></Entities><Relations />
+</Document>

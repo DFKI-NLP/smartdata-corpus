@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Das Stellwerk <NODE id="14" />Ruhleben-Spandau<NODE id="30" /> wurde über <NODE id="42" />200 Minuten<NODE id="53" /> gespielt!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754426290413895680" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-16T21:23:38Z" />
+<feature featureName="indexDate" featureValue="2016-07-16T21:23:40.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/440024416/status/754426290413895680" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="30" type="location" surface="Ruhleben-Spandau" />
+<Entity id="1" startPos="42" endPos="53" type="duration" surface="200 Minuten" /></Entities><Relations />
+</Document>

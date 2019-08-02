@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die Winde haben seitdem nichts an Heftigkeit verloren. Nur ängstliche Kapitäne mit schlecht ausgebildeten Mannschaften wählen lieber den längeren Seeweg um das Kap der Guten Hoffnung, um ihre Ziele an der <NODE id="205" />Westküste Amerikas <NODE id="224" />zu erreichen, lästern Kap Hoorniers.
+Alle wollen nach <NODE id="278" />Santiago<NODE id="286" />, sagt Maria
+Wasser, Inseln, Berge, das ist <NODE id="330" />Feuerland<NODE id="339" />. Die <NODE id="345" />fünftägige<NODE id="355" /> Kreuzfahrt durch die Fjorde <NODE id="384" />Feuerlands<NODE id="394" /> beginnt in <NODE id="406" />Punta Arenas<NODE id="418" />, ganz im Süden <NODE id="434" />Chiles<NODE id="440" />. Hier kutschiert Taxifahrerin Maria die Passagiere vom Flughafen zum Check-In-Terminal im Hafen. „Alle wollen nach <NODE id="556" />Santiago<NODE id="564" /> “, sagt Maria.
+Die legendäre <NODE id="594" />Magellanstraße<NODE id="608" />, die den <NODE id="618" />Atlantischen<NODE id="630" /> mit dem <NODE id="639" />Pazifischen Ozean<NODE id="656" /> verbindet, liegt zu ihrer Linken. „Es ist einfach langweilig in<NODE id="720" /> Punta Arenas<NODE id="733" />. Meistens regnet es. Und wenn es doch einmal über <NODE id="784" />20 Grad<NODE id="791" /> sind, glauben alle es sei Sommer. Doch das ist nur <NODE id="843" />zwei Tage<NODE id="852" /> im Jahr so.“ Also will sie auch weg? „Nein, ich nicht, ich bin privilegiert“, lacht Maria. Sie sei ja über die interes
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.tagesspiegel.de/weltspiegel/reise/chile-und-argentinien-immer-gegen-den-wind/12778986.html@2016-03-10T14:45:38.254+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:45:38.254Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:45:43.316Z" />
+<feature featureName="uri" featureValue="http://www.tagesspiegel.de/weltspiegel/reise/chile-und-argentinien-immer-gegen-den-wind/12778986.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="205" endPos="224" type="location" surface="Westküste Amerikas " />
+<Entity id="1" startPos="278" endPos="286" type="location-city" surface="Santiago" />
+<Entity id="2" startPos="330" endPos="339" type="location" surface="Feuerland" />
+<Entity id="3" startPos="345" endPos="355" type="number" surface="fünftägige" />
+<Entity id="4" startPos="384" endPos="394" type="location" surface="Feuerlands" />
+<Entity id="5" startPos="406" endPos="418" type="location-city" surface="Punta Arenas" />
+<Entity id="6" startPos="434" endPos="440" type="location" surface="Chiles" />
+<Entity id="7" startPos="556" endPos="564" type="location-city" surface="Santiago" />
+<Entity id="8" startPos="594" endPos="608" type="location" surface="Magellanstraße" />
+<Entity id="9" startPos="618" endPos="630" type="location" surface="Atlantischen" />
+<Entity id="10" startPos="639" endPos="656" type="location" surface="Pazifischen Ozean" />
+<Entity id="11" startPos="720" endPos="733" type="location-city" surface=" Punta Arenas" />
+<Entity id="12" startPos="784" endPos="791" type="number" surface="20 Grad" />
+<Entity id="13" startPos="843" endPos="852" type="duration" surface="zwei Tage" /></Entities><Relations />
+</Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Pleite mit Pelletsheizungen, mit Stubenmädchen, mit <NODE id="52" />Swarovski<NODE id="61" />-Kristallen...
+Wieder gibt es Insolvenzen / Bild: APA/dpa-Zentralbild
+In <NODE id="134" />Wien<NODE id="138" /> ging eine Firma pleite, die Service für Hotels anbot. In <NODE id="196" />Oberösterreich<NODE id="210" /> rutschte ein Anbieter von Pelletsheizungen in die Insolvenz. Und außerdem gibt es einen Millionenpleite.test
+Mehr A A A
+In <NODE id="334" />Wien<NODE id="338" /> ging eine Firma pleite, die Service für Hotels anbot. In <NODE id="396" />Oberösterreich<NODE id="410" /> rutschte ein Anbieter von Pelletsheizungen in die Insolvenz. Und außerdem gibt es einen Millionenpleite.
+Über das das Vermögen <NODE id="538" />Wiener<NODE id="544" /> Firma <NODE id="551" />Gratzer! Technologies GmbH &amp; Co KG<NODE id="585" /> wurde am Handelsgericht <NODE id="610" />Wien<NODE id="614" /> ein <NODE id="619" />Konkursverfahren<NODE id="635" /> eröffnet. Die Passiva des <NODE id="662" />Unternehmens<NODE id="674" /> liegen bei <NODE id="686" />1,9 Millionen Euro<NODE id="704" />. Laut Gläubigerschutzverband <NODE id="734" />AKV<NODE id="737" /> wird eine Fortführung nicht angestrebt. Die <NODE id="782" />Firma<NODE id="787" /> mit <NODE id="792" />Roland Gratzer<NODE id="806" /> als <NODE id="811" />Geschäftsführer<NODE id="826" /> setzte auf den Glanz der <NODE id="852" />Swarovski<NODE id="861" />-Kristalle und kreierte „ easy Crystal “, ein System, mit dem man Kristall
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://wirtschaftsblatt.at/home/nachrichten/oesterreich/4922819/Pleite-mit-Pelletsheizungen-mit-Stubenmaedchen-mit-SwarovskiKristallen?from=rss@2016-02-10T12:11:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://wirtschaftsblatt.at/home/nachrichten/oesterreich/4922819/Pleite-mit-Pelletsheizungen-mit-Stubenmaedchen-mit-SwarovskiKristallen?from=rss" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="52" endPos="61" type="organization-company" surface="Swarovski" />
+<Entity id="1" startPos="134" endPos="138" type="location-city" surface="Wien" />
+<Entity id="2" startPos="196" endPos="210" type="location" surface="Oberösterreich" />
+<Entity id="3" startPos="334" endPos="338" type="location-city" surface="Wien" />
+<Entity id="4" startPos="396" endPos="410" type="location" surface="Oberösterreich" />
+<Entity id="5" startPos="538" endPos="544" type="location-city" surface="Wiener" />
+<Entity id="6" startPos="551" endPos="585" type="organization-company" surface="Gratzer! Technologies GmbH &amp; Co KG" />
+<Entity id="7" startPos="610" endPos="614" type="location-city" surface="Wien" />
+<Entity id="8" startPos="619" endPos="635" type="trigger" surface="Konkursverfahren" />
+<Entity id="9" startPos="662" endPos="674" type="organization-company" surface="Unternehmens" />
+<Entity id="10" startPos="686" endPos="704" type="number" surface="1,9 Millionen Euro" />
+<Entity id="11" startPos="734" endPos="737" type="organization" surface="AKV" />
+<Entity id="12" startPos="782" endPos="787" type="organization-company" surface="Firma" />
+<Entity id="13" startPos="792" endPos="806" type="person" surface="Roland Gratzer" />
+<Entity id="14" startPos="811" endPos="826" type="org-position" surface="Geschäftsführer" />
+<Entity id="15" startPos="852" endPos="861" type="person" surface="Swarovski" /></Entities><Relations>
+<Relation id="16" NAME="Identity">
+<Entity id="6" label="source" />
+<Entity id="9" label="target" />
+<Entity id="12" label="target" />
+</Relation>
+<Relation id="17" NAME="Insolvency">
+<Entity id="7" label="location" />
+<Entity id="6" label="company" />
+<Entity id="8" label="trigger" />
+</Relation>
+<Relation id="18" NAME="OrganizationLeadership">
+<Entity id="13" label="person" />
+<Entity id="12" label="organization" />
+<Entity id="14" label="position" />
+</Relation></Relations>
+</Document>

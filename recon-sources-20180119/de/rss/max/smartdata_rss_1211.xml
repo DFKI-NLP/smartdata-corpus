@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>an mehreren Terminen
+ von <NODE id="26" />Montag, 1. August<NODE id="43" />, <NODE id="45" />22.10 Uhr<NODE id="54" /> bis <NODE id="59" />Donnerstag, 4. August<NODE id="80" />, <NODE id="82" />7.45 Uhr<NODE id="90" />
+ von <NODE id="96" />Freitag, 18. November<NODE id="117" />, <NODE id="119" />22.10 Uhr<NODE id="128" /> bis <NODE id="133" />Montag, 28. November<NODE id="153" />, <NODE id="155" />7.45 Uhr<NODE id="163" />
+Meldung:
+Die <NODE id="177" />EC-Züge<NODE id="184" /> werden zwischen <NODE id="201" />Berlin Hbf<NODE id="211" /> und <NODE id="216" />Frankfurt (Oder)<NODE id="232" /> <NODE id="233" />durch Busse ersetzt<NODE id="252" />. Die Busse halten nicht in <NODE id="280" />Berlin Ostbahnhof<NODE id="297" />. B eachten Sie die <NODE id="317" />61 – 67 Min.<NODE id="329" /> frühere Abfahrt/spätere Ankunft der Busse in <NODE id="375" />Berlin Hbf<NODE id="385" />.
+Hinweise: 
+ Bitte beachten Sie, dass die Haltestellen des Schienenersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.
+ In den Bussen ist leider keine Fahrradbeförderung möglich, Kinderwagen und Rollstühle können nur eingeschränkt befördert werden.
+ Die Fahrplantabelle finden Sie in diesem PDF-Dokument
+Grund:
+Brückenarbeiten in <NODE id="734" />Friedrichshagen<NODE id="749" /> und <NODE id="754" />Fürstenwalde<NODE id="766" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="836" />194<NODE id="839" /> kB)
+Sonderinformation zu dieser Meldung:
+Plakat: Bauarbeiten <NODE id="901" />Frankfurt (Oder)<NODE id="917" /> – <NODE id="920" />Berlin<NODE id="926" />, bis <NODE id="932" />Dezember 2016<NODE id="945" /> (
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/EC_95-BERLIN-WARSZAWA_EXPRESS_Berlin-Poznan-Gdynia_Warszawa/50#5ec20b0bd01986da656e0dddc80a485602b48e4e@2016-06-13T09:22:28.852+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-13T07:22:28.852Z" />
+<feature featureName="indexDate" featureValue="2016-06-13T07:22:45.293Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/EC_95-BERLIN-WARSZAWA_EXPRESS_Berlin-Poznan-Gdynia_Warszawa/50#5ec20b0bd01986da656e0dddc80a485602b48e4e" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="26" endPos="43" type="date" surface="Montag, 1. August" />
+<Entity id="1" startPos="45" endPos="54" type="time" surface="22.10 Uhr" />
+<Entity id="2" startPos="59" endPos="80" type="date" surface="Donnerstag, 4. August" />
+<Entity id="3" startPos="82" endPos="90" type="time" surface="7.45 Uhr" />
+<Entity id="4" startPos="96" endPos="117" type="date" surface="Freitag, 18. November" />
+<Entity id="5" startPos="119" endPos="128" type="time" surface="22.10 Uhr" />
+<Entity id="6" startPos="133" endPos="153" type="date" surface="Montag, 28. November" />
+<Entity id="7" startPos="155" endPos="163" type="time" surface="7.45 Uhr" />
+<Entity id="8" startPos="177" endPos="184" type="location-route" surface="EC-Züge" />
+<Entity id="9" startPos="201" endPos="211" type="location-stop" surface="Berlin Hbf" />
+<Entity id="10" startPos="216" endPos="232" type="location-stop" surface="Frankfurt (Oder)" />
+<Entity id="11" startPos="233" endPos="252" type="trigger" surface="durch Busse ersetzt" />
+<Entity id="12" startPos="280" endPos="297" type="location-stop" surface="Berlin Ostbahnhof" />
+<Entity id="13" startPos="317" endPos="329" type="duration" surface="61 – 67 Min." />
+<Entity id="14" startPos="375" endPos="385" type="location-stop" surface="Berlin Hbf" />
+<Entity id="15" startPos="734" endPos="749" type="location-stop" surface="Friedrichshagen" />
+<Entity id="16" startPos="754" endPos="766" type="location-stop" surface="Fürstenwalde" />
+<Entity id="17" startPos="836" endPos="839" type="number" surface="194" />
+<Entity id="18" startPos="901" endPos="917" type="location-stop" surface="Frankfurt (Oder)" />
+<Entity id="19" startPos="920" endPos="926" type="location-stop" surface="Berlin" />
+<Entity id="20" startPos="932" endPos="945" type="date" surface="Dezember 2016" /></Entities><Relations>
+<Relation id="21" NAME="RailReplacementService">
+<Entity id="8" label="location" />
+<Entity id="11" label="trigger" />
+<Entity id="10" label="end_loc" />
+<Entity id="9" label="end_loc" />
+</Relation></Relations>
+</Document>

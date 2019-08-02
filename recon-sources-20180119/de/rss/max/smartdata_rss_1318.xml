@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A7<NODE id="25" /> <NODE id="26" />Hannover<NODE id="34" /> Richtung <NODE id="44" />Hamburg<NODE id="51" /> zwischen <NODE id="61" />Bad Fallingbostel<NODE id="78" /> und <NODE id="83" />Dorfmark<NODE id="91" /> liegen Gegenstände!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#2@2016-07-12T17:18:25.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-12T15:18:25Z" />
+<feature featureName="indexDate" featureValue="2016-07-12T15:23:13.716Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="25" type="location-street" surface="A7" />
+<Entity id="1" startPos="26" endPos="34" type="location-city" surface="Hannover" />
+<Entity id="2" startPos="44" endPos="51" type="location-city" surface="Hamburg" />
+<Entity id="3" startPos="61" endPos="78" type="location" surface="Bad Fallingbostel" />
+<Entity id="4" startPos="83" endPos="91" type="location" surface="Dorfmark" /></Entities><Relations />
+</Document>

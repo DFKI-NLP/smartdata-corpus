@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Dem Süden brachte das Schlechtwettersystem heftige Regenfälle mit teils schweren <NODE id="81" />Überflutungen<NODE id="94" />.<NODE id="95" />
+<NODE id="96" />Foto: <NODE id="102" />Erik S. Lesser<NODE id="116" />
+<NODE id="117" />1<NODE id="118" /> von 1<NODE id="124" />
+<NODE id="125" />Betroffen sind sieben Bundesstaaten.<NODE id="161" /> <NODE id="162" />In <NODE id="165" />New Mexico<NODE id="175" /> im Südwesten des Landes wurde der <NODE id="210" />Schneenotstand<NODE id="224" /> ausgerufen.<NODE id="236" />
+<NODE id="237" />Dem Bericht zufolge starben am <NODE id="268" />Samstag<NODE id="275" /> in <NODE id="279" />Missouri<NODE id="287" /> mindestens <NODE id="299" />acht<NODE id="303" /> Menschen und in <NODE id="320" />Illinois<NODE id="328" /> <NODE id="329" />fünf<NODE id="333" />, nachdem heftige <NODE id="351" />Regenfälle<NODE id="361" /> <NODE id="362" />Sturzfluten<NODE id="373" /> ausgelöst hatten.<NODE id="391" /> <NODE id="392" />In Vororten der Stadt <NODE id="414" />Dallas<NODE id="420" /> in <NODE id="424" />Texas<NODE id="429" /> waren am selben Tag <NODE id="450" />elf<NODE id="453" /> Menschen durch <NODE id="469" />Tornados<NODE id="477" /> getötet worden.<NODE id="493" /> <NODE id="494" />Bereits am ersten Weihnachtstag hatten schwere <NODE id="541" />Stürme<NODE id="547" /> in den drei südlichen Staaten <NODE id="578" />Mississippi<NODE id="589" />, <NODE id="591" />Tennessee<NODE id="600" /> und <NODE id="605" />Arkansas<NODE id="613" /> <NODE id="614" />17<NODE id="616" /> Menschen in den Tod gerissen.<NODE id="646" /> <NODE id="647" />Zwei<NODE id="651" /> weitere Tote wurden <NODE id="672" />ABC<NODE id="675" /> zufolge aus <NODE id="688" />Alabama<NODE id="695" /> gemeldet.<NODE id="705" />
+<NODE id="706" />In <NODE id="709" />New Mexico<NODE id="719" /> waren zahlreiche Straßen am <NODE id="748" />Sonntag<NODE id="755" /> nach heftigen <NODE id="770" />Schneefällen<NODE id="782" /> unpassierbar, mehrere Gemeinden völlig abgeschnitten. Stürme verursachten mehr als <NODE id="866" />zwei Meter<NODE id="876" /> hohe Schneeverwehungen.<NODE id="900" /> <NODE id="901" />Während die <NODE id="913" />Tornados<NODE id="921" /> und der Regen auf ungewö<NODE id="946" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.shz.de/nachrichten/deutschland-welt/tornado-tote-und-waermerekorde-wetterchaos-in-den-usa-id12301756.html@2016-03-11T02:15:12.803+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T01:15:12.803Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T01:15:13.484Z" />
+<feature featureName="uri" featureValue="http://www.shz.de/nachrichten/deutschland-welt/tornado-tote-und-waermerekorde-wetterchaos-in-den-usa-id12301756.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="95" type="sentence" surface="Dem Süden brachte das Schlechtwettersystem heftige Regenfälle mit teils schweren Überflutungen." />
+<Entity id="1" startPos="81" endPos="94" type="disaster-type" surface="Überflutungen" />
+<Entity id="2" startPos="96" endPos="116" type="sentence" surface="Foto: Erik S. Lesser" />
+<Entity id="3" startPos="102" endPos="116" type="person" surface="Erik S. Lesser" />
+<Entity id="4" startPos="117" endPos="118" type="number" surface="1" />
+<Entity id="5" startPos="117" endPos="124" type="sentence" surface="1 von 1" />
+<Entity id="6" startPos="125" endPos="161" type="sentence" surface="Betroffen sind sieben Bundesstaaten." />
+<Entity id="7" startPos="162" endPos="236" type="sentence" surface="In New Mexico im Südwesten des Landes wurde der Schneenotstand ausgerufen." />
+<Entity id="8" startPos="165" endPos="175" type="location" surface="New Mexico" />
+<Entity id="9" startPos="210" endPos="224" type="disaster-type" surface="Schneenotstand" />
+<Entity id="10" startPos="237" endPos="391" type="sentence" surface="Dem Bericht zufolge starben am Samstag in Missouri mindestens acht Menschen und in Illinois fünf, nachdem heftige Regenfälle Sturzfluten ausgelöst hatten." />
+<Entity id="11" startPos="268" endPos="275" type="date" surface="Samstag" />
+<Entity id="12" startPos="279" endPos="287" type="location" surface="Missouri" />
+<Entity id="13" startPos="299" endPos="303" type="number" surface="acht" />
+<Entity id="14" startPos="320" endPos="328" type="location" surface="Illinois" />
+<Entity id="15" startPos="329" endPos="333" type="number" surface="fünf" />
+<Entity id="16" startPos="351" endPos="361" type="trigger" surface="Regenfälle" />
+<Entity id="17" startPos="362" endPos="373" type="disaster-type" surface="Sturzfluten" />
+<Entity id="18" startPos="392" endPos="493" type="sentence" surface="In Vororten der Stadt Dallas in Texas waren am selben Tag elf Menschen durch Tornados getötet worden." />
+<Entity id="19" startPos="414" endPos="420" type="location-city" surface="Dallas" />
+<Entity id="20" startPos="424" endPos="429" type="location" surface="Texas" />
+<Entity id="21" startPos="450" endPos="453" type="number" surface="elf" />
+<Entity id="22" startPos="469" endPos="477" type="disaster-type" surface="Tornados" />
+<Entity id="23" startPos="494" endPos="646" type="sentence" surface="Bereits am ersten Weihnachtstag hatten schwere Stürme in den drei südlichen Staaten Mississippi, Tennessee und Arkansas 17 Menschen in den Tod gerissen." />
+<Entity id="24" startPos="541" endPos="547" type="disaster-type" surface="Stürme" />
+<Entity id="25" startPos="578" endPos="589" type="location" surface="Mississippi" />
+<Entity id="26" startPos="591" endPos="600" type="location" surface="Tennessee" />
+<Entity id="27" startPos="605" endPos="613" type="location" surface="Arkansas" />
+<Entity id="28" startPos="614" endPos="616" type="number" surface="17" />
+<Entity id="29" startPos="647" endPos="651" type="number" surface="Zwei" />
+<Entity id="30" startPos="647" endPos="705" type="sentence" surface="Zwei weitere Tote wurden ABC zufolge aus Alabama gemeldet." />
+<Entity id="31" startPos="672" endPos="675" type="organization-company" surface="ABC" />
+<Entity id="32" startPos="688" endPos="695" type="location" surface="Alabama" />
+<Entity id="33" startPos="706" endPos="900" type="sentence" surface="In New Mexico waren zahlreiche Straßen am Sonntag nach heftigen Schneefällen unpassierbar, mehrere Gemeinden völlig abgeschnitten. Stürme verursachten mehr als zwei Meter hohe Schneeverwehungen." />
+<Entity id="34" startPos="709" endPos="719" type="location" surface="New Mexico" />
+<Entity id="35" startPos="748" endPos="755" type="date" surface="Sonntag" />
+<Entity id="36" startPos="770" endPos="782" type="disaster-type" surface="Schneefällen" />
+<Entity id="37" startPos="866" endPos="876" type="number" surface="zwei Meter" />
+<Entity id="38" startPos="901" endPos="946" type="sentence" surface="Während die Tornados und der Regen auf ungewö" />
+<Entity id="39" startPos="913" endPos="921" type="disaster-type" surface="Tornados" /></Entities><Relations>
+<Relation id="40" NAME="Disaster">
+<Entity id="8" label="location" />
+<Entity id="9" label="type" />
+</Relation>
+<Relation id="41" NAME="Disaster">
+<Entity id="12" label="location" />
+<Entity id="16" label="trigger" />
+<Entity id="17" label="type" />
+</Relation>
+<Relation id="42" NAME="Disaster">
+<Entity id="14" label="location" />
+<Entity id="16" label="trigger" />
+<Entity id="17" label="type" />
+<Entity id="15" label="victims" />
+</Relation>
+<Relation id="43" NAME="Disaster">
+<Entity id="19" label="location" />
+<Entity id="22" label="type" />
+</Relation>
+<Relation id="44" NAME="Disaster">
+<Entity id="26" label="location" />
+<Entity id="25" label="location" />
+<Entity id="27" label="location" />
+<Entity id="24" label="type" />
+</Relation>
+<Relation id="45" NAME="Disaster">
+<Entity id="34" label="location" />
+<Entity id="36" label="type" />
+</Relation></Relations>
+</Document>

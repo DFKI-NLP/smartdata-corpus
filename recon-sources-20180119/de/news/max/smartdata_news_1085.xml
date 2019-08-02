@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Wittens<NODE id="7" /> Rat schreibt vorerst letzten Akt im „Drama“ Wickmann
+<NODE id="61" />16.03.2016<NODE id="71" /> | <NODE id="74" />20:10 Uh<NODE id="82" />r <NODE id="84" />2016-03-16<NODE id="94" />T<NODE id="95" />20:10:33+01:00<NODE id="109" />
+Links die Wickmannfläche, rechts Real: An der <NODE id="156" />Annenstraße<NODE id="167" /> könnten nun neue Fachmärkte entstehen.Foto: hh
+<NODE id="215" />Witten<NODE id="221" />.   Mit der Fortschreibung des Masterplans Einzelhandel hat der Rat endgültig die Weichen für die Öffnung der Wickmannfläche für neue Fachmärkte gestellt.
+Der Rat hat in seiner jüngsten Sitzung das vorerst letzte Kapitel im „Drama“ um das Wickmanngelände geschrieben. Er bestätigte den Beschluss der Fachausschüsse, die umstrittene Fläche in den Masterplan Einzelhandel aufzunehmen und somit künftig Ansiedlungen zu ermöglichen, die bisher als innenstadtschädlich galten.
+Die Argumente, die Befürworter und Gegner einmal mehr austauschten, waren nicht neu: Kritiker wie die <NODE id="795" />Linken<NODE id="801" /> bemängelten erneut, dass hier einem speziellen Investor, „<NODE id="860" />SchöWo<NODE id="866" />“ Wohnungsbau, ein Gefallen getan werde. Fraktionsmitglied <NODE id="925" />Oliver Kalusch<NODE id="939" /> appellierte a
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.derwesten.de/staedte/witten/wittens-rat-schreibt-vorerst-letzten-akt-im-drama-wickmann-id11659287.html@2016-03-16T20:10:33.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-16T19:10:33Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:38:12.952Z" />
+<feature featureName="uri" featureValue="http://www.derwesten.de/staedte/witten/wittens-rat-schreibt-vorerst-letzten-akt-im-drama-wickmann-id11659287.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="Wittens" />
+<Entity id="1" startPos="61" endPos="71" type="date" surface="16.03.2016" />
+<Entity id="2" startPos="74" endPos="82" type="time" surface="20:10 Uh" />
+<Entity id="3" startPos="84" endPos="94" type="date" surface="2016-03-16" />
+<Entity id="4" startPos="95" endPos="109" type="time" surface="20:10:33+01:00" />
+<Entity id="5" startPos="156" endPos="167" type="location-street" surface="Annenstraße" />
+<Entity id="6" startPos="215" endPos="221" type="location-city" surface="Witten" />
+<Entity id="7" startPos="795" endPos="801" type="organization" surface="Linken" />
+<Entity id="8" startPos="860" endPos="866" type="organization-company" surface="SchöWo" />
+<Entity id="9" startPos="925" endPos="939" type="person" surface="Oliver Kalusch" /></Entities><Relations />
+</Document>

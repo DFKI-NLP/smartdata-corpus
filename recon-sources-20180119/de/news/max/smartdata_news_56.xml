@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Melden
+Nach einem <NODE id="18" />Erdbeben<NODE id="26" /> und einem <NODE id="37" />Tsunami<NODE id="44" /> waren am <NODE id="54" />11. März 2011<NODE id="67" /> in <NODE id="71" />Japan<NODE id="76" /> <NODE id="77" />18'500<NODE id="83" /> Menschen ums Leben gekommen. Im Atomkraftwerk <NODE id="130" />Fukushima<NODE id="139" /> an der <NODE id="147" />Ostküste<NODE id="155" /> war es zum Ausfall der Kühlsysteme gekommen, worauf mehrere Reaktorkerne schmelzten. Es war die schwerste <NODE id="262" />Atomkatastrophe<NODE id="277" /> seit <NODE id="283" />Tschernobyl<NODE id="294" /> <NODE id="295" />1986<NODE id="299" /> mit weltweiten Konsequenzen.
+In <NODE id="332" />Japan<NODE id="337" /> leben noch <NODE id="349" />Zehntausende<NODE id="361" /> Menschen in provisorischen Unterkünften. «Ich hoffe, die Gesellschaft wird sich an uns erinnern, dass das Leben der Umgesiedelten noch sehr schwierig ist, auch finanziell», sagte Kazuko Nihei am Freitag bei einer Gedenkveranstaltung in <NODE id="598" />Tokio<NODE id="603" />.
+«Hier wird auch an die Zusammenarbeit unter uns gedacht», sagte die <NODE id="673" />39-Jährige<NODE id="683" />, die vor der atomaren Verseuchung mit ihren <NODE id="728" />zwei<NODE id="732" /> Töchtern aus <NODE id="746" />Fukushima<NODE id="755" /> in die Hauptstadt geflüchtet war. Nun leitet sie eine Selbsthilfegruppe für Mütter.
+Durch die Atomkatastrophe drohen der <NODE id="877" />japanischen<NODE id="888" /> Bevölkerung nach Einschätzung <NODE id="919" />zweier<NODE id="925" /> Nichtregierungsorganisat
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.blick.ch/news/ausland/fuenf-jahre-fukushima-schweigeminute-in-japan-fuer-18500-tsunami-tote-id4788410.html@2016-03-11T09:43:58.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.blick.ch/news/ausland/fuenf-jahre-fukushima-schweigeminute-in-japan-fuer-18500-tsunami-tote-id4788410.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="26" type="disaster-type" surface="Erdbeben" />
+<Entity id="1" startPos="37" endPos="44" type="disaster-type" surface="Tsunami" />
+<Entity id="2" startPos="54" endPos="67" type="date" surface="11. März 2011" />
+<Entity id="3" startPos="71" endPos="76" type="location" surface="Japan" />
+<Entity id="4" startPos="77" endPos="83" type="number" surface="18'500" />
+<Entity id="5" startPos="130" endPos="139" type="location-city" surface="Fukushima" />
+<Entity id="6" startPos="147" endPos="155" type="location" surface="Ostküste" />
+<Entity id="7" startPos="262" endPos="277" type="disaster-type" surface="Atomkatastrophe" />
+<Entity id="8" startPos="283" endPos="294" type="location" surface="Tschernobyl" />
+<Entity id="9" startPos="295" endPos="299" type="date" surface="1986" />
+<Entity id="10" startPos="332" endPos="337" type="location" surface="Japan" />
+<Entity id="11" startPos="349" endPos="361" type="number" surface="Zehntausende" />
+<Entity id="12" startPos="598" endPos="603" type="location-city" surface="Tokio" />
+<Entity id="13" startPos="673" endPos="683" type="number" surface="39-Jährige" />
+<Entity id="14" startPos="728" endPos="732" type="number" surface="zwei" />
+<Entity id="15" startPos="746" endPos="755" type="location-city" surface="Fukushima" />
+<Entity id="16" startPos="877" endPos="888" type="location" surface="japanischen" />
+<Entity id="17" startPos="919" endPos="925" type="number" surface="zweier" /></Entities><Relations>
+<Relation id="18" NAME="Disaster">
+<Entity id="2" label="date" />
+<Entity id="3" label="location" />
+<Entity id="0" label="type" />
+<Entity id="4" label="victims" />
+</Relation>
+<Relation id="19" NAME="Disaster">
+<Entity id="2" label="date" />
+<Entity id="3" label="location" />
+<Entity id="1" label="type" />
+<Entity id="4" label="victims" />
+</Relation>
+<Relation id="20" NAME="Disaster">
+<Entity id="9" label="date" />
+<Entity id="8" label="location" />
+<Entity id="7" label="type" />
+</Relation></Relations>
+</Document>

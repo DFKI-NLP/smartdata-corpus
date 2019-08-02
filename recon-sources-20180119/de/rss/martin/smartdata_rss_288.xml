@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Das <NODE id="4" />Bayerische<NODE id="14" /> Landeskriminalamt sucht für das Dezernat <NODE id="56" />32<NODE id="58" /> – IuK-Betrieb in der Abteilung III- Informations- und Kommunikationstechnik mit Sitz in <NODE id="147" />München<NODE id="154" /> baldmöglichst einen IuK-Betriebs-Architekt (m/w) Diplom-Informatiker (Univ./ Master) oder Diplom-Ingenieur der Elektrotech-nik/Informationstechnik (Univ./ Master).
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.bayern.de/lka/wir/stellenangebote/index.html/239795@2016-04-15T23:55:36.808+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-15T21:55:36.808Z" />
+<feature featureName="indexDate" featureValue="2016-04-15T21:56:17.64Z" />
+<feature featureName="uri" featureValue="http://www.polizei.bayern.de/lka/wir/stellenangebote/index.html/239795" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="location" surface="Bayerische" />
+<Entity id="1" startPos="56" endPos="58" type="number" surface="32" />
+<Entity id="2" startPos="147" endPos="154" type="location-city" surface="München" /></Entities><Relations />
+</Document>

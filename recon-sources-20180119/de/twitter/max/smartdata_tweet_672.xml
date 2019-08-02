@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Ein verheerender <NODE id="36" />Taifun<NODE id="42" /> hat in #<NODE id="51" />China<NODE id="56" /> mindestens <NODE id="68" />acht<NODE id="72" /> Menschen das Leben gekostet, <NODE id="102" />Zehntausende<NODE id="114" /> wurden evakuiert. http:/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="630319263354613761" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-09T10:06:37Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:34:45.729Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="36" endPos="42" type="disaster-type" surface="Taifun" />
+<Entity id="2" startPos="51" endPos="56" type="location" surface="China" />
+<Entity id="3" startPos="68" endPos="72" type="number" surface="acht" />
+<Entity id="4" startPos="102" endPos="114" type="number" surface="Zehntausende" /></Entities><Relations>
+<Relation id="5" NAME="Disaster">
+<Entity id="2" label="location" />
+<Entity id="1" label="type" />
+<Entity id="3" label="victims" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: Immobilienkonzern <NODE id="26" />Vonovia<NODE id="33" /> scheitert mit feindlicher Übernahme von <NODE id="74" />Deutsche Wohnen<NODE id="89" /> https://t.co/zgTkH2ckJW
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="697406044222464001" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-10T13:05:32Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T14:28:35.548Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2183340520/status/697406044222464001" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="26" endPos="33" type="organization-company" surface="Vonovia" />
+<Entity id="2" startPos="74" endPos="89" type="organization-company" surface="Deutsche Wohnen" /></Entities><Relations />
+</Document>

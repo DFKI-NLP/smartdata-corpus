@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Text kleiner größer<NODE id="19" />
+<NODE id="20" />Tarife –<NODE id="28" /> <NODE id="29" />Lufthansa<NODE id="38" /> sagt wegen Streiks für Mittwoch 930 Flüge ab<NODE id="83" />
+<NODE id="84" />Unternehmen und Gewerkschaft bekunden zwar eifrig ihre Gesprächsbereitschaft, doch der Streik bei der größten deutschen Fluglinie dürfte auch am Mittwoch weitergehen.<NODE id="250" /> <NODE id="251" />In dem Streit spielen Arbeitsgerichte eine immer wichtigere Rolle.<NODE id="317" />
+<NODE id="318" />Voriger Artikel<NODE id="333" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.kn-online.de/News/Nachrichten-Wirtschaft/Aktuelle-Nachrichten-Wirtschaft-aus-der-Welt/Hoffnung-bei-Lufthansa-auf-Streik-Ende-durch-Schlichtung@2016-03-10T14:45:16.591+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:45:16.591Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:45:23.317Z" />
+<feature featureName="uri" featureValue="http://www.kn-online.de/News/Nachrichten-Wirtschaft/Aktuelle-Nachrichten-Wirtschaft-aus-der-Welt/Hoffnung-bei-Lufthansa-auf-Streik-Ende-durch-Schlichtung" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="19" type="sentence" surface="Text kleiner größer" />
+<Entity id="1" startPos="20" endPos="28" type="sentence" surface="Tarife –" />
+<Entity id="2" startPos="29" endPos="38" type="organization-company" surface="Lufthansa" />
+<Entity id="3" startPos="29" endPos="83" type="sentence" surface="Lufthansa sagt wegen Streiks für Mittwoch 930 Flüge ab" />
+<Entity id="4" startPos="84" endPos="250" type="sentence" surface="Unternehmen und Gewerkschaft bekunden zwar eifrig ihre Gesprächsbereitschaft, doch der Streik bei der größten deutschen Fluglinie dürfte auch am Mittwoch weitergehen." />
+<Entity id="5" startPos="251" endPos="317" type="sentence" surface="In dem Streit spielen Arbeitsgerichte eine immer wichtigere Rolle." />
+<Entity id="6" startPos="318" endPos="333" type="sentence" surface="Voriger Artikel" /></Entities><Relations />
+</Document>

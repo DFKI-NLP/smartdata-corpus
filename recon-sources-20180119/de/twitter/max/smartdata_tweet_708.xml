@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />Lufthansa<NODE id="10" />-Flugbegleiter<NODE id="24" /> setzen #<NODE id="33" />Streik<NODE id="39" /> fort: Flüge gestrichen #<NODE id="64" />MUC<NODE id="67" /> #<NODE id="69" />FlughafenMünchen <NODE id="86" />
+https://t.co/WLF96VYTj6 https://t.co/MuFWnWkMWV
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="664338003670736896" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-11T07:04:57Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T20:05:12.143Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="10" type="organization-company" surface="Lufthansa" />
+<Entity id="1" startPos="1" endPos="24" type="organization" surface="Lufthansa-Flugbegleiter" />
+<Entity id="2" startPos="33" endPos="39" type="trigger" surface="Streik" />
+<Entity id="3" startPos="64" endPos="67" type="location-stop" surface="MUC" />
+<Entity id="4" startPos="69" endPos="86" type="location-stop" surface="FlughafenMünchen " /></Entities><Relations>
+<Relation id="5" NAME="Strike">
+<Entity id="0" label="company" />
+<Entity id="3" label="location" />
+<Entity id="4" label="location" />
+<Entity id="1" label="union" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

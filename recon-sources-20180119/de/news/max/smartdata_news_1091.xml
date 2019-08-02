@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Esprit<NODE id="6" /> veröffentlicht Zwischenergebnis für das Geschäftsjahr <NODE id="61" />2015<NODE id="65" />
+<NODE id="66" />23.02.2016<NODE id="76" />
+<NODE id="77" />Hongkong<NODE id="85" /> (<NODE id="87" />ots<NODE id="90" />) - Stabiler Gesamtumsatz (<NODE id="117" />-0,4%<NODE id="122" /> in lokaler Währung) nach <NODE id="148" />vier<NODE id="152" /> aufeinanderfolgenden Halbjahresergebnissen mit signifikantem Umsatzrückgang
+- Retail-Umsatz (<NODE id="246" />67,2%<NODE id="251" /> des Gesamtumsatzes) wuchs im      Vorjahresvergleich um <NODE id="308" />+6,0%<NODE id="313" /> in Landeswährung. Haupttreiber war      <NODE id="354" />Europa<NODE id="360" /> mit einem Retail-Umsatzwachstum in Höhe von <NODE id="405" />+8,6%<NODE id="410" /> in      Landeswährung
+- Bruttogewinnspanne blieb stabil bei <NODE id="471" />50,5%<NODE id="476" />, die am häufigsten      wiederkehrenden OPEX-Treiber wurden planmäßig abgebaut
+- Der Halbjahresverlust in Höhe von <NODE id="592" />HK$238 Millionen<NODE id="608" /> basiert im      Wesentlichen auf der Entscheidung die Ausgaben für      Brandmarketing zu erhöhen und entspricht Markterwartungen
+- Die Gruppe bleibt mit einem gesunden Finanzmittelbestand in Höhe      von <NODE id="815" />HK$4.192 Millionen<NODE id="833" /> schuldenfrei
+Fortschritt in den wesentlichen Bereichen der Unternehmensstrategie
+- Vertikales Mod
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.boerse-social.com/2016/02/23/esprit_veroffentlicht_zwischenergebnis_fur_das_geschaftsjahr_2015@2016-02-23T10:17:08.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T09:17:08Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:37:40.91Z" />
+<feature featureName="uri" featureValue="http://www.boerse-social.com/2016/02/23/esprit_veroffentlicht_zwischenergebnis_fur_das_geschaftsjahr_2015" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization-company" surface="Esprit" />
+<Entity id="1" startPos="61" endPos="65" type="date" surface="2015" />
+<Entity id="2" startPos="66" endPos="76" type="date" surface="23.02.2016" />
+<Entity id="3" startPos="77" endPos="85" type="location-city" surface="Hongkong" />
+<Entity id="4" startPos="87" endPos="90" type="organization-company" surface="ots" />
+<Entity id="5" startPos="117" endPos="122" type="number" surface="-0,4%" />
+<Entity id="6" startPos="148" endPos="152" type="number" surface="vier" />
+<Entity id="7" startPos="246" endPos="251" type="number" surface="67,2%" />
+<Entity id="8" startPos="308" endPos="313" type="number" surface="+6,0%" />
+<Entity id="9" startPos="354" endPos="360" type="location" surface="Europa" />
+<Entity id="10" startPos="405" endPos="410" type="number" surface="+8,6%" />
+<Entity id="11" startPos="471" endPos="476" type="number" surface="50,5%" />
+<Entity id="12" startPos="592" endPos="608" type="number" surface="HK$238 Millionen" />
+<Entity id="13" startPos="815" endPos="833" type="number" surface="HK$4.192 Millionen" /></Entities><Relations />
+</Document>

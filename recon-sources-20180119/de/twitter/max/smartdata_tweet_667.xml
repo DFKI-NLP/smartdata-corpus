@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />S2<NODE id="3" /> noch bis <NODE id="13" />12.10.<NODE id="19" /> (<NODE id="21" />Mo<NODE id="23" />) ca. <NODE id="29" />1.30 Uhr<NODE id="37" /> <NODE id="38" />Ersatzverkehr<NODE id="51" /> mit Bussen #<NODE id="64" />Marienfelde<NODE id="75" />&lt;&gt;#<NODE id="78" />Blankenfelde<NODE id="90" /> 
+Info: http://t.co/GEFBrT6aN4
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="653282939074048001" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-11T18:56:04Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T00:02:54.149Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="3" type="location-route" surface="S2" />
+<Entity id="1" startPos="13" endPos="19" type="date" surface="12.10." />
+<Entity id="2" startPos="21" endPos="23" type="date" surface="Mo" />
+<Entity id="3" startPos="29" endPos="37" type="time" surface="1.30 Uhr" />
+<Entity id="4" startPos="38" endPos="51" type="trigger" surface="Ersatzverkehr" />
+<Entity id="5" startPos="64" endPos="75" type="location-stop" surface="Marienfelde" />
+<Entity id="6" startPos="78" endPos="90" type="location-stop" surface="Blankenfelde" /></Entities><Relations>
+<Relation id="7" NAME="RailReplacementService">
+<Entity id="1" label="end_date" />
+<Entity id="6" label="end_loc" />
+<Entity id="5" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

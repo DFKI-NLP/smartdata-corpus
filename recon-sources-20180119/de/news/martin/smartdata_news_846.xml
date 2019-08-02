@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Arbeitskampf: Teilerfolg für Unternehmer
+<NODE id="41" />18.12.2015<NODE id="51" /> | <NODE id="54" />05:36 Uhr<NODE id="63" /> <NODE id="64" />2015-12-18T05:36:29+01:00<NODE id="89" />
+<NODE id="90" />Westheim<NODE id="98" />/<NODE id="99" />Hamm<NODE id="103" />. Der Fall sorgte für Schlagzeilen: Weil es dem Inhaber der Firma <NODE id="169" />Kombi-Massiv-Bau (KMB)<NODE id="191" /> in <NODE id="195" />Marsberg<NODE id="203" /> nicht passte, dass seine Belegschaft - damals <NODE id="250" />140<NODE id="253" /> Mitarbeiter und <NODE id="270" />13,3 Millionen Euro<NODE id="289" /> Umsatz - <NODE id="299" />Ende 2011<NODE id="308" /> eine Arbeitnehmervertretung gewählt hatte, zahlte er den Betriebsräten einfach keinen Lohn. Daraus entwickelte sich ein <NODE id="429" />zwei Jahre<NODE id="439" /> dauernder Arbeitskampf, in dem sich die <NODE id="480" />IG Bauen-Agrar-Umwelt<NODE id="501" /> und die Firmenleitung unversöhnlich gegenüberstanden.
+<NODE id="556" />2013<NODE id="560" /> gründete der Eigentümer auf seinem Werksgelände einen neuen Betrieb - <NODE id="631" />Kombiton<NODE id="639" />. Die <NODE id="645" />IG BAU<NODE id="651" /> vertrat den Standpunkt, dass es sich dabei um einen Betriebsübergang handelte und forderte deshalb die Beschäftigung der <NODE id="773" />13<NODE id="775" /> erst streikenden und dann gekündigten Mitarbeiter ein. Das Arbeitsgericht <NODE id="850" />Arnsberg<NODE id="858" /> teilte diesen Standpunkt. Worauf die Firmenleitung Insolvenz anmeldete. Das Landesarbeitsgericht H
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.derwesten.de/wp/wirtschaft/arbeitskampf-teilerfolg-fuer-unternehmer-aimp-id11391370.html@2016-03-10T13:25:27.450+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:25:27.45Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:25:33.319Z" />
+<feature featureName="uri" featureValue="http://www.derwesten.de/wp/wirtschaft/arbeitskampf-teilerfolg-fuer-unternehmer-aimp-id11391370.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="41" endPos="51" type="date" surface="18.12.2015" />
+<Entity id="1" startPos="54" endPos="63" type="time" surface="05:36 Uhr" />
+<Entity id="2" startPos="64" endPos="89" type="date" surface="2015-12-18T05:36:29+01:00" />
+<Entity id="3" startPos="90" endPos="98" type="location-city" surface="Westheim" />
+<Entity id="4" startPos="99" endPos="103" type="location-city" surface="Hamm" />
+<Entity id="5" startPos="169" endPos="191" type="organization-company" surface="Kombi-Massiv-Bau (KMB)" />
+<Entity id="6" startPos="195" endPos="203" type="location-city" surface="Marsberg" />
+<Entity id="7" startPos="250" endPos="253" type="number" surface="140" />
+<Entity id="8" startPos="270" endPos="289" type="number" surface="13,3 Millionen Euro" />
+<Entity id="9" startPos="299" endPos="308" type="date" surface="Ende 2011" />
+<Entity id="10" startPos="429" endPos="439" type="duration" surface="zwei Jahre" />
+<Entity id="11" startPos="480" endPos="501" type="organization" surface="IG Bauen-Agrar-Umwelt" />
+<Entity id="12" startPos="556" endPos="560" type="date" surface="2013" />
+<Entity id="13" startPos="631" endPos="639" type="organization-company" surface="Kombiton" />
+<Entity id="14" startPos="645" endPos="651" type="organization" surface="IG BAU" />
+<Entity id="15" startPos="773" endPos="775" type="number" surface="13" />
+<Entity id="16" startPos="850" endPos="858" type="location-city" surface="Arnsberg" /></Entities><Relations />
+</Document>

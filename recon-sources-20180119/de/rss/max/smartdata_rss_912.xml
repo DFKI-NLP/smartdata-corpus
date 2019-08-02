@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A1<NODE id="2" /> <NODE id="3" />Osnabrück<NODE id="12" /> Richtung <NODE id="22" />Hamburg<NODE id="29" /> zwischen <NODE id="39" />Dreieck Stuhr<NODE id="52" /> und <NODE id="57" />Bremer Kreuz<NODE id="69" /> <NODE id="70" />11 km<NODE id="75" /> <NODE id="76" />stockender Verkehr<NODE id="94" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#11@2016-06-17T12:36:27.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T10:36:27Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T12:02:33.203Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A1" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Osnabrück" />
+<Entity id="2" startPos="22" endPos="29" type="location-city" surface="Hamburg" />
+<Entity id="3" startPos="39" endPos="52" type="location" surface="Dreieck Stuhr" />
+<Entity id="4" startPos="57" endPos="69" type="location" surface="Bremer Kreuz" />
+<Entity id="5" startPos="70" endPos="75" type="distance" surface="11 km" />
+<Entity id="6" startPos="76" endPos="94" type="trigger" surface="stockender Verkehr" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

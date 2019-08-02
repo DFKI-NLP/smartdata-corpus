@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A30<NODE id="26" /> <NODE id="27" />Osnabrück<NODE id="36" /> Richtung <NODE id="46" />Bad Oeynhausen<NODE id="60" /> zwischen <NODE id="70" />Gesmold<NODE id="77" /> und <NODE id="82" />Melle-West<NODE id="92" /> liegen Gegenstände!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#1@2016-03-26T09:53:07.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-26T08:53:07Z" />
+<feature featureName="indexDate" featureValue="2016-03-26T08:54:39.094Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="26" type="location-street" surface="A30" />
+<Entity id="1" startPos="27" endPos="36" type="location-city" surface="Osnabrück" />
+<Entity id="2" startPos="46" endPos="60" type="location-city" surface="Bad Oeynhausen" />
+<Entity id="3" startPos="70" endPos="77" type="location" surface="Gesmold" />
+<Entity id="4" startPos="82" endPos="92" type="location" surface="Melle-West" /></Entities><Relations />
+</Document>

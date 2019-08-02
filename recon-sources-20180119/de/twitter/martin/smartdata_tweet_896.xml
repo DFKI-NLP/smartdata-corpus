@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bus #TXL<NODE id="8" /> braucht iM min.<NODE id="24" />20min.<NODE id="30" /> länger wg.<NODE id="41" />Sperrung<NODE id="49" /> und <NODE id="54" />Stau<NODE id="58" />.Könnte man das nicht aktuell in die App einspeisen, liebe #<NODE id="118" />bvg<NODE id="121" />?
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="746321036719890432" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-24T12:36:15Z" />
+<feature featureName="indexDate" featureValue="2016-06-27T08:56:13.869Z" />
+<feature featureName="uri" featureValue="https://twitter.com/865266068/status/746321036719890432" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-route" surface="Bus #TXL" />
+<Entity id="1" startPos="24" endPos="30" type="duration" surface="20min." />
+<Entity id="2" startPos="41" endPos="49" type="trigger" surface="Sperrung" />
+<Entity id="3" startPos="54" endPos="58" type="trigger" surface="Stau" />
+<Entity id="4" startPos="118" endPos="121" type="organization-company" surface="bvg" /></Entities><Relations>
+<Relation id="5" NAME="Delay">
+<Entity id="1" label="delay" />
+<Entity id="0" label="location" />
+<Entity id="3" label="trigger" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Die Freiwillige Feuerwehr Seeth ist auch für den Brandschutz in der Erstaufnahme-Einrichtung zuständig.<NODE id="103" />
+<NODE id="104" />Foto: hem<NODE id="113" />
+<NODE id="114" />1 von 1<NODE id="121" />
+<NODE id="122" />Der jüngste Einsatz ereignete sich wenige Stunden vor der um 19 Uhr beginnenden Jahresversammlung der <NODE id="224" />Freiwilligen Feuerwehr Seeth<NODE id="252" /> – und er rief die Aktiven zum wiederholten Mal in die Flüchtlings-Erstaufnahme-Einrichtung (EAE) in der ehemaligen Kaserne.<NODE id="376" /> <NODE id="377" />Um 14.40 Uhr rückten die Freiwilligen aus, um 15.30 Uhr war die Aktion beendet.<NODE id="456" /> <NODE id="457" />Die Einsätze waren im Übrigen auch Gegenstand des Jahresberichtes von Wehrführer <NODE id="538" />Dennis Andresen<NODE id="553" /> .<NODE id="555" /> <NODE id="556" />Auffallend: Von den 16 Einsätzen des Jahres 2015 entfielen acht auf die Erstaufnahmeeinrichtung.<NODE id="652" /> <NODE id="653" />„Es ist keine leichte Aufgabe.“<NODE id="684" /> <NODE id="685" />Gleich mehrfach mussten innerhalb der großen Einrichtung eilig verschlossene Türen für den Rettungsdienst geöffnet werden.<NODE id="807" /> <NODE id="808" />Die <NODE id="812" />Feuerwehr Seeth<NODE id="827" /> muss dort den Brandschutz sicherstellen.<NODE id="868" /> <NODE id="869" />„Es ist für uns als kleine-Dorf-Wehr keine einfache und alltägliche Aufgabe, die wir zu<NODE id="956" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.shz.de/lokales/husumer-nachrichten/erstaufnahme-belastet-die-feuerwehr-seeth-id12412091.html@2016-03-10T14:02:14.532+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:02:14.532Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:02:23.318Z" />
+<feature featureName="uri" featureValue="http://www.shz.de/lokales/husumer-nachrichten/erstaufnahme-belastet-die-feuerwehr-seeth-id12412091.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="103" type="sentence" surface="Die Freiwillige Feuerwehr Seeth ist auch für den Brandschutz in der Erstaufnahme-Einrichtung zuständig." />
+<Entity id="1" startPos="104" endPos="113" type="sentence" surface="Foto: hem" />
+<Entity id="2" startPos="114" endPos="121" type="sentence" surface="1 von 1" />
+<Entity id="3" startPos="122" endPos="376" type="sentence" surface="Der jüngste Einsatz ereignete sich wenige Stunden vor der um 19 Uhr beginnenden Jahresversammlung der Freiwilligen Feuerwehr Seeth – und er rief die Aktiven zum wiederholten Mal in die Flüchtlings-Erstaufnahme-Einrichtung (EAE) in der ehemaligen Kaserne." />
+<Entity id="4" startPos="224" endPos="252" type="organization" surface="Freiwilligen Feuerwehr Seeth" />
+<Entity id="5" startPos="377" endPos="456" type="sentence" surface="Um 14.40 Uhr rückten die Freiwilligen aus, um 15.30 Uhr war die Aktion beendet." />
+<Entity id="6" startPos="457" endPos="555" type="sentence" surface="Die Einsätze waren im Übrigen auch Gegenstand des Jahresberichtes von Wehrführer Dennis Andresen ." />
+<Entity id="7" startPos="538" endPos="553" type="person" surface="Dennis Andresen" />
+<Entity id="8" startPos="556" endPos="652" type="sentence" surface="Auffallend: Von den 16 Einsätzen des Jahres 2015 entfielen acht auf die Erstaufnahmeeinrichtung." />
+<Entity id="9" startPos="653" endPos="684" type="sentence" surface="„Es ist keine leichte Aufgabe.“" />
+<Entity id="10" startPos="685" endPos="807" type="sentence" surface="Gleich mehrfach mussten innerhalb der großen Einrichtung eilig verschlossene Türen für den Rettungsdienst geöffnet werden." />
+<Entity id="11" startPos="808" endPos="868" type="sentence" surface="Die Feuerwehr Seeth muss dort den Brandschutz sicherstellen." />
+<Entity id="12" startPos="812" endPos="827" type="organization" surface="Feuerwehr Seeth" />
+<Entity id="13" startPos="869" endPos="956" type="sentence" surface="„Es ist für uns als kleine-Dorf-Wehr keine einfache und alltägliche Aufgabe, die wir zu" /></Entities><Relations />
+</Document>

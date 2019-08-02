@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Tipps
+Großeinsatz bei Wohnhausbrand
+In <NODE id="39" />Dorf Rosenau <NODE id="52" />(Bezirk <NODE id="60" />Zwettl<NODE id="66" />) ist am <NODE id="75" />Samstagvormittag<NODE id="91" /> ein Wohnhaus in <NODE id="108" />Brand<NODE id="113" /> geraten. Nach Angaben der Einsatzkräfte breitete sich das Feuer vom Erdgeschoss in den Dachbereich aus. Verletzt wurde aber niemand.
+Die Einsatzkräfte wurden um <NODE id="275" />8.40 Uhr<NODE id="283" /> alarmiert, berichtete Manuel Pfeiffer  von der <NODE id="331" />Freiwilligen Feuerwehr Dorf Rosenau<NODE id="366" />. „Bei der Ankunft waren das Erdgeschoss und der Dachboden bereits in Brand.“ Die Feuerwehr ging bei der Brandbekämpfung daher unter Einsatz von Atemschutzgeräten vor.
+<NODE id="534" />Feuerwehr Dorf Rosenau<NODE id="556" /> / <NODE id="559" />Pfeiffer<NODE id="567" />
+Um <NODE id="571" />11.40<NODE id="576" /> Uhr konnte laut <NODE id="593" />Pfeiffer<NODE id="601" /> „Brand aus“ gegeben werden, die Brandsicherheitswache dauerte am <NODE id="667" />Samstagnachmittag<NODE id="684" /> aber noch an. Warum das <NODE id="709" />Feuer<NODE id="714" /> ausgebrochen ist, stand vorerst nicht fest. Im Einsatz waren <NODE id="776" />sieben<NODE id="782" /> Feuerwehren mit <NODE id="799" />acht<NODE id="803" /> Fahrzeugen und <NODE id="819" />80<NODE id="821" /> Helfern.
+Links:
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://noe.orf.at/news/stories/2758827/@2016-02-20T16:35:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-20T15:35:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T08:57:12.952Z" />
+<feature featureName="uri" featureValue="http://noe.orf.at/news/stories/2758827/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="39" endPos="52" type="location-city" surface="Dorf Rosenau " />
+<Entity id="1" startPos="60" endPos="66" type="location" surface="Zwettl" />
+<Entity id="2" startPos="75" endPos="91" type="date" surface="Samstagvormittag" />
+<Entity id="3" startPos="108" endPos="113" type="disaster-type" surface="Brand" />
+<Entity id="4" startPos="275" endPos="283" type="time" surface="8.40 Uhr" />
+<Entity id="5" startPos="331" endPos="366" type="organization" surface="Freiwilligen Feuerwehr Dorf Rosenau" />
+<Entity id="6" startPos="534" endPos="556" type="organization" surface="Feuerwehr Dorf Rosenau" />
+<Entity id="7" startPos="559" endPos="567" type="person" surface="Pfeiffer" />
+<Entity id="8" startPos="571" endPos="576" type="date" surface="11.40" />
+<Entity id="9" startPos="593" endPos="601" type="person" surface="Pfeiffer" />
+<Entity id="10" startPos="667" endPos="684" type="date" surface="Samstagnachmittag" />
+<Entity id="11" startPos="709" endPos="714" type="disaster-type" surface="Feuer" />
+<Entity id="12" startPos="776" endPos="782" type="number" surface="sieben" />
+<Entity id="13" startPos="799" endPos="803" type="number" surface="acht" />
+<Entity id="14" startPos="819" endPos="821" type="number" surface="80" /></Entities><Relations>
+<Relation id="15" NAME="Disaster">
+<Entity id="2" label="date" />
+<Entity id="0" label="location" />
+<Entity id="1" label="location" />
+<Entity id="3" label="type" />
+</Relation></Relations>
+</Document>

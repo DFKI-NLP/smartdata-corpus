@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>an mehreren Terminen
+an den <NODE id="28" />Sonntagen<NODE id="37" />, <NODE id="39" />24. Juli<NODE id="47" /> bis <NODE id="52" />7. August<NODE id="61" />, jeweils <NODE id="71" />13.40<NODE id="76" /> – <NODE id="79" />16.00 Uhr<NODE id="88" />
+Meldung:
+<NODE id="98" />IC 2197<NODE id="105" /> nach <NODE id="111" />Köln Hbf<NODE id="119" /> (planmäßig <NODE id="131" />13.52 Uhr<NODE id="140" /> ab <NODE id="144" />Flensburg<NODE id="153" />) fährt früher in <NODE id="171" />Flensburg<NODE id="180" /> ab und <NODE id="188" />hält nicht<NODE id="198" /> in <NODE id="202" />Hamburg Dammtor<NODE id="217" /> .
+Grund:
+Gleiserneuerung in Brokstedt
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="325" />183<NODE id="328" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_1-SPRINTER_Koeln-Essen-Hamburg/1#1e766003b96568762d9d921ede00b6e46a313f73@2016-05-12T15:27:41.055+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-12T13:27:41.055Z" />
+<feature featureName="indexDate" featureValue="2016-05-12T13:27:48.498Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_1-SPRINTER_Koeln-Essen-Hamburg/1#1e766003b96568762d9d921ede00b6e46a313f73" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="28" endPos="37" type="set" surface="Sonntagen" />
+<Entity id="1" startPos="39" endPos="47" type="date" surface="24. Juli" />
+<Entity id="2" startPos="52" endPos="61" type="date" surface="7. August" />
+<Entity id="3" startPos="71" endPos="76" type="time" surface="13.40" />
+<Entity id="4" startPos="79" endPos="88" type="time" surface="16.00 Uhr" />
+<Entity id="5" startPos="98" endPos="105" type="location-route" surface="IC 2197" />
+<Entity id="6" startPos="111" endPos="119" type="location-stop" surface="Köln Hbf" />
+<Entity id="7" startPos="131" endPos="140" type="time" surface="13.52 Uhr" />
+<Entity id="8" startPos="144" endPos="153" type="location-stop" surface="Flensburg" />
+<Entity id="9" startPos="171" endPos="180" type="location-stop" surface="Flensburg" />
+<Entity id="10" startPos="188" endPos="198" type="trigger" surface="hält nicht" />
+<Entity id="11" startPos="202" endPos="217" type="location-stop" surface="Hamburg Dammtor" />
+<Entity id="12" startPos="325" endPos="328" type="number" surface="183" /></Entities><Relations>
+<Relation id="13" NAME="CanceledStop">
+<Entity id="5" label="route" />
+<Entity id="11" label="location" />
+<Entity id="10" label="trigger" />
+<Entity id="6" label="direction" />
+</Relation></Relations>
+</Document>

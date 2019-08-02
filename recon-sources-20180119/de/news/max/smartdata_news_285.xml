@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Landesverwaltungsamt: Chef fordert sachliche Debatte über Zukunft
+Artikel per E-Mail empfehlen
+Chef fordert sachliche Debatte über Zukunft
+Empfänger E-Mail
+Tipp: mehrere E-Mailadressen mit Komma      trennen
+persönliche Nachrichtoptional
+Bitte tragen Sie den Code in das      Eingabefeld ein.
+Tipp: das Bild anklicken um den Code neu      zu generieren
+Empfänger E-Mail
+Twittern
+Foto: dpa
+<NODE id="389" />Weimar<NODE id="395" /> (dpa/th) - In der Debatte über die Zukunft des Landesverwaltungsamts warnt Präsident <NODE id="481" />Frank Roßner<NODE id="493" /> vor Schnellschüssen. «Ich sehe die Diskussion über die Verwaltungsreform noch ganz am Anfang», sagte er der <NODE id="602" />Deutschen Presse-Agentur<NODE id="626" />. Es werde noch zu wenig sachlich und inhaltlich diskutiert.
+«Wer beispielsweise verbreiten lässt, <NODE id="725" />60 Prozent<NODE id="735" /> der Aufgaben des Landesverwaltungsamtes wären an Kommunen übertragbar, kann nur wenig Ahnung von kommunaler Verwaltung haben und/oder nicht wissen, welche Verwaltungsprozesse momentan im Landesver
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/regionales/thueringen/article150817177/Chef-fordert-sachliche-Debatte-ueber-Zukunft.html@2016-03-10T15:23:25.542+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:23:25.542Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:23:33.484Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/regionales/thueringen/article150817177/Chef-fordert-sachliche-Debatte-ueber-Zukunft.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="389" endPos="395" type="location-city" surface="Weimar" />
+<Entity id="1" startPos="481" endPos="493" type="person" surface="Frank Roßner" />
+<Entity id="2" startPos="602" endPos="626" type="organization-company" surface="Deutschen Presse-Agentur" />
+<Entity id="3" startPos="725" endPos="735" type="number" surface="60 Prozent" /></Entities><Relations />
+</Document>

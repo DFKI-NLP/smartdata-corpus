@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>ROUNDUP 2: <NODE id="11" />Deutsche Bank<NODE id="24" /> baut Geschäft in <NODE id="42" />Russland<NODE id="50" /> ab
+<NODE id="54" />15:05<NODE id="59" /> <NODE id="60" />18.09.15<NODE id="68" />
+(Neu: Aussagen von <NODE id="88" />Russlands<NODE id="97" /> Vize-Zentralbankchef <NODE id="119" />Sergej Schwezow<NODE id="134" />)
+<NODE id="136" />FRANKFURT<NODE id="145" /> (dpa-AFX) - <NODE id="158" />Die Deutsche Bank<NODE id="175" /> ( <NODE id="178" />Deutsche Bank<NODE id="191" /> Aktie ) zieht sich im Rahmen des Konzernumbaus teilweise aus <NODE id="253" />Russland<NODE id="261" /> zurück. Die örtliche Präsenz des Wertpapier-Geschäfts der Unternehmensfinanzierung (Corporate Banking &amp; Securities) werde bis <NODE id="388" />Ende dieses Jahres<NODE id="406" /> aufgegeben, teilte das größte <NODE id="437" />deutsche<NODE id="445" /> Geldhaus am <NODE id="458" />Freitag<NODE id="465" /> in <NODE id="469" />Frankfurt<NODE id="478" /> mit. Danach sollen die Kunden dieses Geschäftsbereichs von anderen Standorten aus betreut werden.
+Die Bank werde danach noch mehr als <NODE id="613" />1000<NODE id="617" /> Mitarbeiter in <NODE id="633" />Russland<NODE id="641" /> haben. Derzeit seien es zirka <NODE id="672" />1300<NODE id="676" />. Der jetzt bekannt gegebene Stellenabbau fällt geringer aus als einige Experten erwartet hatten. Zuletzt wurde spekuliert, dass sich das Institut fast komplett aus dem Land zurückziehen könnte.
+<NODE id="871" />Moskau<NODE id="877" /> reagiert gelassen: Das Volumen der Geschäfte wird nicht von der Z
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ariva.de/news/ROUNDUP-2-Deutsche-Bank-baut-Geschaeft-in-Russland-ab-5493335@2016-03-10T17:20:43.849+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T16:20:43.849Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T16:20:53.506Z" />
+<feature featureName="uri" featureValue="http://www.ariva.de/news/ROUNDUP-2-Deutsche-Bank-baut-Geschaeft-in-Russland-ab-5493335" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="11" endPos="24" type="organization-company" surface="Deutsche Bank" />
+<Entity id="1" startPos="42" endPos="50" type="location" surface="Russland" />
+<Entity id="2" startPos="54" endPos="59" type="time" surface="15:05" />
+<Entity id="3" startPos="60" endPos="68" type="date" surface="18.09.15" />
+<Entity id="4" startPos="88" endPos="97" type="location" surface="Russlands" />
+<Entity id="5" startPos="119" endPos="134" type="person" surface="Sergej Schwezow" />
+<Entity id="6" startPos="136" endPos="145" type="location-city" surface="FRANKFURT" />
+<Entity id="7" startPos="158" endPos="175" type="organization-company" surface="Die Deutsche Bank" />
+<Entity id="8" startPos="178" endPos="191" type="organization-company" surface="Deutsche Bank" />
+<Entity id="9" startPos="253" endPos="261" type="location" surface="Russland" />
+<Entity id="10" startPos="388" endPos="406" type="date" surface="Ende dieses Jahres" />
+<Entity id="11" startPos="437" endPos="445" type="location" surface="deutsche" />
+<Entity id="12" startPos="458" endPos="465" type="date" surface="Freitag" />
+<Entity id="13" startPos="469" endPos="478" type="location-city" surface="Frankfurt" />
+<Entity id="14" startPos="613" endPos="617" type="number" surface="1000" />
+<Entity id="15" startPos="633" endPos="641" type="location" surface="Russland" />
+<Entity id="16" startPos="672" endPos="676" type="number" surface="1300" />
+<Entity id="17" startPos="871" endPos="877" type="location-city" surface="Moskau" /></Entities><Relations />
+</Document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bund-Future         <NODE id="20" />158,68%<NODE id="27" />     <NODE id="32" />-60<NODE id="35" />
++++++ FINANZMARKT <NODE id="54" />USA<NODE id="57" /> +++++
+An der Wall Street agieren Anleger nervös. Zwar wird der weitere Verfall der <NODE id="141" />US<NODE id="143" />-Ölpreise etwas abgebremst, doch Kauflust will am Aktienmarkt nicht aufkommen. In der vergangenen Woche hatte das immer billigere Öl die Aktien mit sich nach unten gerissen. Nun sorgt die Volatilität am Ölmarkt weiter für Unsicherheit. Eine Trendwende am Ölmarkt ist nicht in Sicht. WTI fiel zwischenzeitlich erstmals seit <NODE id="466" />Februar 2009<NODE id="478" /> unter die Marke von <NODE id="499" />35 US-Dollar<NODE id="511" /> - erholt sich aber anschließend wieder etwas. Nach der Flutung der Märkte durch die <NODE id="596" />Opec<NODE id="600" /> belastet nun zusätzlich das Weltklimaabkommen. Denn dort wurde nicht weniger als die langfristige Abkehr von Kohle und Öl als Energieträger beschlossen. Etwas gestützt wird die Stimmung am Aktienmarkt durch überraschend positive Daten zu Industrieproduktion und Einzelhandel in <NODE id="879" />China<NODE id="884" />. Die Aufmerksamkeit gilt aber darüber hinaus immer stärker der <NODE id="948" />US<NODE id="950" />-Note
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.goyax.de/nachricht/dj-late-briefing-unternehmen-und-maerkte-2_1284689@2015-12-14T19:13:08.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-14T18:13:08Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:43:22.95Z" />
+<feature featureName="uri" featureValue="http://www.goyax.de/nachricht/dj-late-briefing-unternehmen-und-maerkte-2_1284689" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="27" type="number" surface="158,68%" />
+<Entity id="1" startPos="32" endPos="35" type="number" surface="-60" />
+<Entity id="2" startPos="54" endPos="57" type="location" surface="USA" />
+<Entity id="3" startPos="141" endPos="143" type="location" surface="US" />
+<Entity id="4" startPos="466" endPos="478" type="date" surface="Februar 2009" />
+<Entity id="5" startPos="499" endPos="511" type="number" surface="35 US-Dollar" />
+<Entity id="6" startPos="596" endPos="600" type="organization" surface="Opec" />
+<Entity id="7" startPos="879" endPos="884" type="location" surface="China" />
+<Entity id="8" startPos="948" endPos="950" type="location" surface="US" /></Entities><Relations />
+</Document>

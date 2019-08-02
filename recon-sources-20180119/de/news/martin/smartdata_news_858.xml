@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Tipper gewinnt <NODE id="15" />1,1 Millionen Euro<NODE id="33" /> beim Eurojackpot
+Liebe Leserinnen und Leser,
+wir bitten um Verständnis, dass es im Unterschied zu vielen anderen Artikeln auf unserem Portal unter diesem Artikel keine Kommentarfunktion gibt. Bei einzelnen Themen behält sich die Redaktion vor, die Kommentarmöglichkeiten einzuschränken, um Missbrauch zu vermeiden.
+Die Redaktion
+Kommentare
+Unsere Kommentarfunktion wird über den Anbieter DISQUS gesteuert. Nutzer, die diesen Dienst nicht verwenden, können sich hier über das alte HNA-Login anmelden .
+Hinweise zum Kommentieren: Auf <NODE id="566" />HNA.de<NODE id="572" /> können Sie Ihre Meinung zu einem Artikel äußern. Im Interesse aller Nutzer behält sich die Redaktion vor, Beiträge zu prüfen und gegebenenfalls abzulehnen. Halten Sie sich beim Kommentieren bitte an unsere Richtlinien: Bleiben Sie fair und sachlich - keine Beleidigungen, keine rassistischen, rufschädigenden und gegen die guten Sitten verstoßenden Beiträge. Kommentare, d
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.hna.de/welt/erdbeben-vanuatu-tsunami-warnung-suedpazifik-zr-6274407.html?cmp=defrss@2016-04-03T11:00:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-03T09:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-03T09:22:01.928Z" />
+<feature featureName="uri" featureValue="http://www.hna.de/welt/erdbeben-vanuatu-tsunami-warnung-suedpazifik-zr-6274407.html?cmp=defrss" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="33" type="number" surface="1,1 Millionen Euro" />
+<Entity id="1" startPos="566" endPos="572" type="organization-company" surface="HNA.de" /></Entities><Relations />
+</Document>

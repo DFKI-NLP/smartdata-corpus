@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />B27<NODE id="3" /> <NODE id="4" />Stuttgart<NODE id="13" /> Richtung <NODE id="23" />Mühlacker<NODE id="32" /> zwischen <NODE id="42" />Zuffenhausen-Süd<NODE id="58" /> (<NODE id="60" />Friedrichswahl<NODE id="74" />) in <NODE id="79" />Stuttgart-Feuerbach<NODE id="98" /> und <NODE id="103" />Korntal<NODE id="110" /> <NODE id="111" />Baustelle<NODE id="120" />, linker Fahrstreifen gesperrt, <NODE id="152" />2 km<NODE id="156" /> <NODE id="157" />Stau<NODE id="161" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9c9d2a18-cb96-47ae-809d-3984def886ac@2016-02-26T12:51:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9c9d2a18-cb96-47ae-809d-3984def886ac" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="B27" />
+<Entity id="1" startPos="4" endPos="13" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="23" endPos="32" type="location-city" surface="Mühlacker" />
+<Entity id="3" startPos="42" endPos="58" type="location" surface="Zuffenhausen-Süd" />
+<Entity id="4" startPos="60" endPos="74" type="location" surface="Friedrichswahl" />
+<Entity id="5" startPos="79" endPos="98" type="location" surface="Stuttgart-Feuerbach" />
+<Entity id="6" startPos="103" endPos="110" type="location" surface="Korntal" />
+<Entity id="7" startPos="111" endPos="120" type="trigger" surface="Baustelle" />
+<Entity id="8" startPos="152" endPos="156" type="distance" surface="2 km" />
+<Entity id="9" startPos="157" endPos="161" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="10" NAME="Obstruction">
+<Entity id="6" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation>
+<Relation id="11" NAME="TrafficJam">
+<Entity id="6" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="8" label="jam_length" />
+<Entity id="9" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

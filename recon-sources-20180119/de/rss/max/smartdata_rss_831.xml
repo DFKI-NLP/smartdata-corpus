@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Hamburg<NODE id="7" />: <NODE id="9" />Lokstedter Weg<NODE id="23" /> <NODE id="24" />stadtauswärts<NODE id="37" /> zwischen <NODE id="47" />Ludolfstraße<NODE id="59" /> und <NODE id="64" />Ernst-Thälmann-Platz<NODE id="84" /> ist wegen <NODE id="95" />Bauarbeiten<NODE id="106" /> die rechte Spur bis <NODE id="127" />morgen<NODE id="133" /> <NODE id="134" />gesperrt<NODE id="142" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#29@2016-01-08T10:50:49.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-08T09:50:49Z" />
+<feature featureName="indexDate" featureValue="2016-03-18T15:47:21.391Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="9" endPos="23" type="location-street" surface="Lokstedter Weg" />
+<Entity id="2" startPos="24" endPos="37" type="location" surface="stadtauswärts" />
+<Entity id="3" startPos="47" endPos="59" type="location-street" surface="Ludolfstraße" />
+<Entity id="4" startPos="64" endPos="84" type="location-street" surface="Ernst-Thälmann-Platz" />
+<Entity id="5" startPos="95" endPos="106" type="trigger" surface="Bauarbeiten" />
+<Entity id="6" startPos="127" endPos="133" type="date" surface="morgen" />
+<Entity id="7" startPos="134" endPos="142" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="8" NAME="Obstruction">
+<Entity id="6" label="end_date" />
+<Entity id="5" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

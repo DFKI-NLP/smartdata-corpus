@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A43<NODE id="3" /> <NODE id="4" />Wuppertal<NODE id="13" /> Richtung <NODE id="23" />Recklinghausen<NODE id="37" /> zwischen <NODE id="47" />Kreuz Bochum/Witten <NODE id="67" />und <NODE id="71" />Bochum-Riemke<NODE id="84" /> <NODE id="85" />8 km<NODE id="89" /> <NODE id="90" />stockender Verkehr<NODE id="108" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#64@2016-05-04T15:16:58.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-04T13:16:58Z" />
+<feature featureName="indexDate" featureValue="2016-05-04T13:17:38.379Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A43" />
+<Entity id="1" startPos="4" endPos="13" type="location-city" surface="Wuppertal" />
+<Entity id="2" startPos="23" endPos="37" type="location-city" surface="Recklinghausen" />
+<Entity id="3" startPos="47" endPos="67" type="location" surface="Kreuz Bochum/Witten " />
+<Entity id="4" startPos="71" endPos="84" type="location" surface="Bochum-Riemke" />
+<Entity id="5" startPos="85" endPos="89" type="distance" surface="8 km" />
+<Entity id="6" startPos="90" endPos="108" type="trigger" surface="stockender Verkehr" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

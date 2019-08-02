@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @JuttaKrellmann: #<NODE id="21" />Streik<NODE id="27" /> bei #<NODE id="33" />Ameos<NODE id="38" /> in #<NODE id="43" />Hildesheim<NODE id="53" /> #<NODE id="55" />verdi<NODE id="60" /> über 50% #Leiharbeit Übernahme TvÖD! Ohne Mampf keinen Kampf @_verdi https://t…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745119579924357121" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-21T05:02:06Z" />
+<feature featureName="indexDate" featureValue="2016-06-21T05:02:07.144Z" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="21" endPos="27" type="trigger" surface="Streik" />
+<Entity id="1" startPos="33" endPos="38" type="organization-company" surface="Ameos" />
+<Entity id="2" startPos="43" endPos="53" type="location" surface="Hildesheim" />
+<Entity id="3" startPos="55" endPos="60" type="organization" surface="verdi" /></Entities><Relations>
+<Relation id="4" NAME="Strike">
+<Entity id="1" label="company" />
+<Entity id="2" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="3" label="union" />
+</Relation></Relations>
+</Document>

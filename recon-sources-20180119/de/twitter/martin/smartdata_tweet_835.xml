@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@c_vogt @<NODE id="9" />Ralf_Stegner<NODE id="21" /> Was wollt Ihr eigentlich alle? Alle aktiv am Personalabbau Beteiligten machen jetzt einen auf Entrüstung. Peinlich.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743453149168541700" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T14:40:18Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T14:40:21.736Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Sarkast/status/743453149168541700" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="21" type="person" surface="Ralf_Stegner" /></Entities><Relations />
+</Document>

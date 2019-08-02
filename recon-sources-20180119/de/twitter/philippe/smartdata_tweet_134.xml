@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />faznet<NODE id="7" /> Unser Mond beweist Gott und daß es keine Naturgesetze gibt
+https://t.co/LmSqWWBtN3 https://t.co/rDlPDdMCKQ
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666180188305272833" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="7" type="organization-company" surface="faznet" /></Entities><Relations />
+</Document>

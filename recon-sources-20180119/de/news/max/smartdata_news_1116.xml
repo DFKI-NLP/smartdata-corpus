@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Quelle: Transfermarkt.at - Heute
+Am <NODE id="36" />29<NODE id="38" />. <NODE id="40" />Premier League<NODE id="54" />-Spieltag treffen bei der Partie <NODE id="87" />Watford<NODE id="94" /> gegen <NODE id="101" />Leicester<NODE id="110" /> (<NODE id="112" />Samstag<NODE id="119" />, <NODE id="121" />18.30 Uhr<NODE id="130" />) die beiden besten Sturmduos direkt aufein...
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.newsdump.at/news/transfermarkttv-ighalo-und-deeney-gegen-vardy-und-okazaki@2016-03-04T15:59:10.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-04T14:59:10Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T08:23:41.929Z" />
+<feature featureName="uri" featureValue="http://www.newsdump.at/news/transfermarkttv-ighalo-und-deeney-gegen-vardy-und-okazaki" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="36" endPos="38" type="number" surface="29" />
+<Entity id="1" startPos="40" endPos="54" type="organization" surface="Premier League" />
+<Entity id="2" startPos="87" endPos="94" type="organization" surface="Watford" />
+<Entity id="3" startPos="101" endPos="110" type="organization" surface="Leicester" />
+<Entity id="4" startPos="112" endPos="119" type="date" surface="Samstag" />
+<Entity id="5" startPos="121" endPos="130" type="time" surface="18.30 Uhr" /></Entities><Relations />
+</Document>

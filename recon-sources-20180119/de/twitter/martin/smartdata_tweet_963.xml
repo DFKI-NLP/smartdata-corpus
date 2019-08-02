@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>■  #<NODE id="4" />Hamburg<NODE id="11" />: Die <NODE id="17" />Scharbeutzer Straße<NODE id="36" /> ist zwischen <NODE id="50" />Rahlstedter Weg<NODE id="65" /> und <NODE id="70" /> Boltenhagener Straße<NODE id="91" /> in <NODE id="95" />beiden Richtungen<NODE id="112" /> bis zum 7. ...
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744318980836438017" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T00:00:48Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T00:00:54.726Z" />
+<feature featureName="uri" featureValue="https://twitter.com/TMC Nord/status/744318980836438017" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="11" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="17" endPos="36" type="location-street" surface="Scharbeutzer Straße" />
+<Entity id="2" startPos="50" endPos="65" type="location-street" surface="Rahlstedter Weg" />
+<Entity id="3" startPos="70" endPos="91" type="location-street" surface=" Boltenhagener Straße" />
+<Entity id="4" startPos="95" endPos="112" type="location" surface="beiden Richtungen" /></Entities><Relations />
+</Document>

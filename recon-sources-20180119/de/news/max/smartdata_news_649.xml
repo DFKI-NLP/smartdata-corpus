@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Solebad will <NODE id="13" />Ende März<NODE id="22" /> aus der Insolvenz sein
+Solebad will <NODE id="59" />Ende März<NODE id="68" /> aus der Insolvenz sein
+<NODE id="92" />03.03.16<NODE id="100" /> - <NODE id="103" />16:32<NODE id="108" />
++
+© Eickmann
+Das alte Solebad liegt brach – wie das neue aussehen soll, präsentiert die Stadt am <NODE id="206" />18. März<NODE id="214" />.
+© Eickmann
+<NODE id="227" />Werne<NODE id="232" />  - Licht am Ende des Tunnels: Im Gleichschritt zur Neubauplanung will das Solebad bald die Insolvenz abschütteln.
+Das hat GmbH-Geschäftsführer <NODE id="376" />Jürgen Thöne<NODE id="388" /> mitgeteilt, nachdem die Gesellschafterversammlung ihre Zustimmung zur Aufhebung des Insolvenzverfahren erteilt hat. Nach Abschluss der Arbeitsrechtsprozesse sei das letzte große Insolvenzrisiko ausgestanden und die <NODE id="604" />Natur-Solebad Werne GmbH<NODE id="628" /> mit dem Nachschuss von <NODE id="652" />415 000 Euro<NODE id="664" /> aus der Stadtkasse wieder flüssig.
+Mit dem Votum von <NODE id="718" />Mittwochabend<NODE id="731" /> und entsprechenden Bilanzen zum Insolvenz- und Sanierungsplan können Thöne und der eingesetzte Insolvenzberater beim <NODE id="849" />Amtsgericht <NODE id="861" />Dortmund<NODE id="869" /> mit dem Antrag auf Aufhebung der eigenverwalteten Insolvenz vorstellig werden. Der Bad
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wa.de/lokales/werne/solebad-will-ende-maerz-insolvenz-sein-6177740.html?cmp=defrss@2016-03-03T16:32:14.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-03T15:32:14Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T17:05:42.952Z" />
+<feature featureName="uri" featureValue="http://www.wa.de/lokales/werne/solebad-will-ende-maerz-insolvenz-sein-6177740.html?cmp=defrss" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="13" endPos="22" type="date" surface="Ende März" />
+<Entity id="1" startPos="59" endPos="68" type="date" surface="Ende März" />
+<Entity id="2" startPos="92" endPos="100" type="date" surface="03.03.16" />
+<Entity id="3" startPos="103" endPos="108" type="date" surface="16:32" />
+<Entity id="4" startPos="206" endPos="214" type="date" surface="18. März" />
+<Entity id="5" startPos="227" endPos="232" type="location-city" surface="Werne" />
+<Entity id="6" startPos="376" endPos="388" type="person" surface="Jürgen Thöne" />
+<Entity id="7" startPos="604" endPos="628" type="organization-company" surface="Natur-Solebad Werne GmbH" />
+<Entity id="8" startPos="652" endPos="664" type="number" surface="415 000 Euro" />
+<Entity id="9" startPos="718" endPos="731" type="date" surface="Mittwochabend" />
+<Entity id="10" startPos="849" endPos="869" type="organization" surface="Amtsgericht Dortmund" />
+<Entity id="11" startPos="861" endPos="869" type="location-city" surface="Dortmund" /></Entities><Relations />
+</Document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>S-Bahn <NODE id="7" />S4<NODE id="9" /> Richtung <NODE id="19" />Schwabstraße<NODE id="31" /> mit der nächsten Haltestelle <NODE id="61" />Ludwigsburg<NODE id="72" /> hat <NODE id="77" />0:05:00<NODE id="84" /> <NODE id="85" />Verspätung<NODE id="95" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743187702380699648" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-15T21:05:30Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T03:23:15.05Z" />
+<feature featureName="uri" featureValue="https://twitter.com/728370809862008832/status/743187702380699648" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="7" endPos="9" type="location-route" surface="S4" />
+<Entity id="1" startPos="19" endPos="31" type="location-stop" surface="Schwabstraße" />
+<Entity id="2" startPos="61" endPos="72" type="location-stop" surface="Ludwigsburg" />
+<Entity id="3" startPos="77" endPos="84" type="duration" surface="0:05:00" />
+<Entity id="4" startPos="85" endPos="95" type="trigger" surface="Verspätung" /></Entities><Relations>
+<Relation id="5" NAME="Delay">
+<Entity id="3" label="delay" />
+<Entity id="0" label="location" />
+<Entity id="4" label="trigger" />
+<Entity id="1" label="direction" />
+</Relation></Relations>
+</Document>

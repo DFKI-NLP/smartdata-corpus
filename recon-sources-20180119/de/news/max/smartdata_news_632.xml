@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Kulmbacher<NODE id="10" /> Firma <NODE id="17" />Töpfer<NODE id="23" /> <NODE id="24" />entlässt<NODE id="32" /> <NODE id="33" />60<NODE id="35" /> Mitarbeiter
+Die Firma <NODE id="58" />Töpfer<NODE id="64" /> in <NODE id="68" />Kulmbach<NODE id="76" /> kündigte am <NODE id="89" />Dienstag<NODE id="97" /> die <NODE id="102" />Entlassung<NODE id="112" /> von <NODE id="117" />60<NODE id="119" /> Mitarbeitern an.
+Die <NODE id="141" />Kulmbacher<NODE id="151" /> Firma <NODE id="158" />Töpfer<NODE id="164" /> <NODE id="165" />entlässt<NODE id="173" /> <NODE id="174" />60<NODE id="176" /> Mitarbeiter. Foto: <NODE id="196" />Alexander Müller<NODE id="212" />
+BILDER
+ 
+von <NODE id="226" />ALEXANDER MÜLLER<NODE id="242" />
+Der Hersteller von Etiketten für die Getränkeindustrie und flexibler Verpackungen für die Nahrungs- und Genussmittelindustrie hat im vergangenen Jahr zum ersten Mal einen Verlust gemacht und reagiert nun mit dem Personalabbau darauf.
+In einem Pressegespräch betonten die Geschäftsführer <NODE id="530" />Rainer<NODE id="536" /> und <NODE id="541" />Mark Töpfer<NODE id="552" />, dass alle Bereiche des Unternehmens von der Maßnahme betroffen seien. Ziel sei es, möglichst sozialverträgliche Lösungen zu finden und die freigesetzten Mitarbeiter bei der Suche von neuen Beschäftigungsmöglichkeiten zu unterstützen.
+Neben Abfindungen soll mit Betriebsrat und Gewerkschaft auch ein Sozialplan ausgehandelt werden, zudem sei geplant, eine Transfergesellschaft einzuschalten.   Im 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.infranken.de/1645994@2016-02-23T21:29:24.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T20:29:24Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:42:20.909Z" />
+<feature featureName="uri" featureValue="http://www.infranken.de/1645994" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="location-city" surface="Kulmbacher" />
+<Entity id="1" startPos="17" endPos="23" type="organization-company" surface="Töpfer" />
+<Entity id="2" startPos="24" endPos="32" type="trigger" surface="entlässt" />
+<Entity id="3" startPos="33" endPos="35" type="number" surface="60" />
+<Entity id="4" startPos="58" endPos="64" type="organization-company" surface="Töpfer" />
+<Entity id="5" startPos="68" endPos="76" type="location-city" surface="Kulmbach" />
+<Entity id="6" startPos="89" endPos="97" type="date" surface="Dienstag" />
+<Entity id="7" startPos="102" endPos="112" type="trigger" surface="Entlassung" />
+<Entity id="8" startPos="117" endPos="119" type="number" surface="60" />
+<Entity id="9" startPos="141" endPos="151" type="location-city" surface="Kulmbacher" />
+<Entity id="10" startPos="158" endPos="164" type="organization-company" surface="Töpfer" />
+<Entity id="11" startPos="165" endPos="173" type="trigger" surface="entlässt" />
+<Entity id="12" startPos="174" endPos="176" type="number" surface="60" />
+<Entity id="13" startPos="196" endPos="212" type="person" surface="Alexander Müller" />
+<Entity id="14" startPos="226" endPos="242" type="person" surface="ALEXANDER MÜLLER" />
+<Entity id="15" startPos="530" endPos="536" type="person" surface="Rainer" />
+<Entity id="16" startPos="541" endPos="552" type="person" surface="Mark Töpfer" /></Entities><Relations>
+<Relation id="17" NAME="Layoffs">
+<Entity id="3" label="num_laid_off" />
+<Entity id="0" label="location" />
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="18" NAME="Layoffs">
+<Entity id="6" label="date" />
+<Entity id="8" label="num_laid_off" />
+<Entity id="4" label="company" />
+<Entity id="5" label="location" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="19" NAME="Layoffs">
+<Entity id="12" label="num_laid_off" />
+<Entity id="10" label="company" />
+<Entity id="11" label="trigger" />
+</Relation></Relations>
+</Document>

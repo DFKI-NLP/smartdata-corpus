@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ist der <NODE id="8" />Brenner<NODE id="15" /> bald dicht? Flüchtlingskrise: <NODE id="46" />Österreich<NODE id="56" /> will seine Südgrenze strenger kontrollieren
+<NODE id="101" />dpa<NODE id="104" />, <NODE id="106" />16.02.2016<NODE id="116" /> <NODE id="117" />19:28 Uhr<NODE id="126" />
+Flüchtlinge an der <NODE id="146" />östereichisch<NODE id="159" />-<NODE id="160" />slowenischen<NODE id="172" /> Grenze. <NODE id="181" />Österreich<NODE id="191" /> plant deutlich mehr Kontrollen an seiner Grenzen. Foto: <NODE id="248" />dpa<NODE id="251" />
+Stehen <NODE id="259" />Italien<NODE id="266" />-Urlauber am <NODE id="279" />Brenner<NODE id="286" /> bald im Stau? <NODE id="301" />Österreich<NODE id="311" /> plant in der Flüchtlingspolitik deutlich mehr Kontrollen - und auch weitere Zäune. In der <NODE id="402" />Ägäis<NODE id="407" /> konnten neue Katastrophen verhindert werden.
+<NODE id="453" />Wien<NODE id="457" />/<NODE id="458" />Piräus<NODE id="464" /> - <NODE id="467" />Österreich<NODE id="477" /> setzt in der Flüchtlingspolitik mehr denn je auf Abschreckung und plant weitere Grenzzäune. Künftig solle die Südgrenze des Landes lückenlos deutlich strenger als bisher kontrolliert werden. Auch am <NODE id="677" />Brenner<NODE id="684" />, der wichtigsten Grenzstation zwischen <NODE id="724" />Italien<NODE id="731" /> und <NODE id="736" />Österreich<NODE id="746" />, werden laut Bundeskanzler <NODE id="774" />Werner Faymann<NODE id="788" /> Vorbereitungen für Kontrollen getroffen. Indes konnten neue Flüchtlingstragödien im <NODE id="873" />Mittelmeer<NODE id="883" /> verhindert werden. Die Küstenwachen <NODE id="920" />Griechenlands<NODE id="933" /> und d
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.abendzeitung-muenchen.de/inhalt.ist-der-brenner-bald-dicht-fluechtlingskrise-oesterreich-will-seine-suedgrenze-strenger-kontrollieren.719e2be7-4235-40cf-9fb4-84e2d7569cf2.html@2016-02-16T19:28:30.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-16T18:28:30Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:26:21.936Z" />
+<feature featureName="uri" featureValue="http://www.abendzeitung-muenchen.de/inhalt.ist-der-brenner-bald-dicht-fluechtlingskrise-oesterreich-will-seine-suedgrenze-strenger-kontrollieren.719e2be7-4235-40cf-9fb4-84e2d7569cf2.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="15" type="location-street" surface="Brenner" />
+<Entity id="1" startPos="46" endPos="56" type="location" surface="Österreich" />
+<Entity id="2" startPos="101" endPos="104" type="organization-company" surface="dpa" />
+<Entity id="3" startPos="106" endPos="116" type="date" surface="16.02.2016" />
+<Entity id="4" startPos="117" endPos="126" type="time" surface="19:28 Uhr" />
+<Entity id="5" startPos="146" endPos="159" type="location" surface="östereichisch" />
+<Entity id="6" startPos="160" endPos="172" type="location" surface="slowenischen" />
+<Entity id="7" startPos="181" endPos="191" type="location" surface="Österreich" />
+<Entity id="8" startPos="248" endPos="251" type="organization-company" surface="dpa" />
+<Entity id="9" startPos="259" endPos="266" type="location" surface="Italien" />
+<Entity id="10" startPos="279" endPos="286" type="location-street" surface="Brenner" />
+<Entity id="11" startPos="301" endPos="311" type="location" surface="Österreich" />
+<Entity id="12" startPos="402" endPos="407" type="location" surface="Ägäis" />
+<Entity id="13" startPos="453" endPos="457" type="location-city" surface="Wien" />
+<Entity id="14" startPos="458" endPos="464" type="location-city" surface="Piräus" />
+<Entity id="15" startPos="467" endPos="477" type="location" surface="Österreich" />
+<Entity id="16" startPos="677" endPos="684" type="location-street" surface="Brenner" />
+<Entity id="17" startPos="724" endPos="731" type="location" surface="Italien" />
+<Entity id="18" startPos="736" endPos="746" type="location" surface="Österreich" />
+<Entity id="19" startPos="774" endPos="788" type="person" surface="Werner Faymann" />
+<Entity id="20" startPos="873" endPos="883" type="location" surface="Mittelmeer" />
+<Entity id="21" startPos="920" endPos="933" type="location" surface="Griechenlands" /></Entities><Relations />
+</Document>

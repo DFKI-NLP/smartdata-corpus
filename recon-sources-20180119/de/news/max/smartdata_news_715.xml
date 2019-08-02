@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Mehr Termine
+Inhalt
+Als <NODE id="24" />Hubert<NODE id="30" /> und <NODE id="35" />Staller<NODE id="42" /> einen vermeintlich angesägten Hochsitz untersuchen, werden sie auf eine Frau aufmerksam, die sich in unmittelbarer Nähe auf einer Bank auszuruhen scheint. Mit vorgeneigtem Oberkörper und umgeben von Streuselkuchenbrösel sitzt die <NODE id="273" />80-jährige<NODE id="283" /> <NODE id="284" />Anna Szczypiorski<NODE id="301" /> auf der Bank. Doch die Frau kann den Ausblick nicht genießen. Sie ist blind und vor allem: tot. Polizeiobermeister <NODE id="417" />Staller<NODE id="424" /> ist sich sicher, dass es sich hier weder um einen natürlichen Tod noch um einen Unfall handelt. Der pathologische Befund ergibt, dass jemand der alten Dame so lange trockenen Streuselkuchen in den Mund gestopft haben muss, bis sie daran erstickte. <NODE id="673" />Elfriede Kretschmar<NODE id="692" /> und <NODE id="697" />Lieselotte Meier<NODE id="713" />, mit denen die Verstorbene in einer Wohngemeinschaft lebte - die eine taub, die andere blind - können zur Lösung des Falls zunächst nichts beitragen. <NODE id="864" />Hubert<NODE id="870" /> und <NODE id="875" />Staller<NODE id="882" /> versuchen anhand der Herkunft des Streuselkuchens den Mörder zu identifizieren. Doch nicht 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.klack.de/tv-programm/fernsehsendung/2020968/hubert-und-staller.html@2016-03-10T12:39:36.240+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:39:36.24Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:39:43.485Z" />
+<feature featureName="uri" featureValue="http://www.klack.de/tv-programm/fernsehsendung/2020968/hubert-und-staller.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="24" endPos="30" type="person" surface="Hubert" />
+<Entity id="1" startPos="35" endPos="42" type="person" surface="Staller" />
+<Entity id="2" startPos="273" endPos="283" type="number" surface="80-jährige" />
+<Entity id="3" startPos="284" endPos="301" type="person" surface="Anna Szczypiorski" />
+<Entity id="4" startPos="417" endPos="424" type="person" surface="Staller" />
+<Entity id="5" startPos="673" endPos="692" type="person" surface="Elfriede Kretschmar" />
+<Entity id="6" startPos="697" endPos="713" type="person" surface="Lieselotte Meier" />
+<Entity id="7" startPos="864" endPos="870" type="person" surface="Hubert" />
+<Entity id="8" startPos="875" endPos="882" type="person" surface="Staller" /></Entities><Relations />
+</Document>

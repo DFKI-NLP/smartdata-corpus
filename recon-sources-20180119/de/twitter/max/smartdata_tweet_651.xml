@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Sky_SvenT: Tiefer Einschnitt! <NODE id="34" />Leon #Andreasen<NODE id="49" /> will nach seinem Küchenmesser-Unfall mit Spezialschiene auflaufen. #ssnhd #<NODE id="125" />h96<NODE id="128" /> https://t.…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667458075733946368" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-19T21:43:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:59:34.08Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="34" endPos="49" type="person" surface="Leon #Andreasen" />
+<Entity id="1" startPos="125" endPos="128" type="organization" surface="h96" /></Entities><Relations />
+</Document>

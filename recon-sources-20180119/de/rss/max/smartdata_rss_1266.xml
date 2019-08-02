@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />B93<NODE id="3" /> <NODE id="4" />Zwickau<NODE id="11" />, <NODE id="13" />Uhdestraße<NODE id="23" /> in Höhe <NODE id="32" />Casparistraße<NODE id="45" /> <NODE id="46" />Unfall<NODE id="52" /> im Kreuzungsbereich, Verkehrsbehinderung, Staugefahr Behinderungen stadein.- und auswärts
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp@2016-05-11T07:11:31.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-11T05:11:31Z" />
+<feature featureName="indexDate" featureValue="2016-05-11T07:41:37.513Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="B93" />
+<Entity id="1" startPos="4" endPos="11" type="location-city" surface="Zwickau" />
+<Entity id="2" startPos="13" endPos="23" type="location-street" surface="Uhdestraße" />
+<Entity id="3" startPos="32" endPos="45" type="location-street" surface="Casparistraße" />
+<Entity id="4" startPos="46" endPos="52" type="trigger" surface="Unfall" /></Entities><Relations>
+<Relation id="5" NAME="Accident">
+<Entity id="3" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="2" label="location" />
+<Entity id="0" label="location" />
+<Entity id="1" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />B217<NODE id="8" /> <NODE id="9" />Springe<NODE id="16" /> Richtung <NODE id="26" />Hannover<NODE id="34" /> ist in Höhe <NODE id="47" />Alvesrode/Wisentgehege<NODE id="69" /> wegen <NODE id="76" />Bauarbeiten<NODE id="87" /> bis <NODE id="92" />Samstag<NODE id="99" /> <NODE id="100" />17:00 Uhr<NODE id="109" /> <NODE id="110" />gesperrt<NODE id="118" />. Eine Umleitung ist eingerichtet.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#53@2016-04-05T05:58:27.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-05T03:58:27Z" />
+<feature featureName="indexDate" featureValue="2016-04-05T21:16:28.089Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="8" type="location-street" surface="B217" />
+<Entity id="1" startPos="9" endPos="16" type="location-city" surface="Springe" />
+<Entity id="2" startPos="26" endPos="34" type="location-city" surface="Hannover" />
+<Entity id="3" startPos="47" endPos="69" type="location" surface="Alvesrode/Wisentgehege" />
+<Entity id="4" startPos="76" endPos="87" type="trigger" surface="Bauarbeiten" />
+<Entity id="5" startPos="92" endPos="99" type="date" surface="Samstag" />
+<Entity id="6" startPos="100" endPos="109" type="time" surface="17:00 Uhr" />
+<Entity id="7" startPos="110" endPos="118" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="8" NAME="Obstruction">
+<Entity id="6" label="end_date" />
+<Entity id="4" label="cause" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="5" label="end_date" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

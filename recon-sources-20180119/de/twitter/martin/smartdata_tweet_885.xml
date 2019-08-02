@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>■  #<NODE id="4" />Hamburg<NODE id="11" />: <NODE id="13" />Grusonstraße<NODE id="25" /> - <NODE id="28" />Wöhlerstraße<NODE id="40" /> zwischen <NODE id="50" />Bredowbrücke<NODE id="62" /> und <NODE id="67" />Liebigstraße<NODE id="79" /> ist wegen #Bauarbeiten bis zum <NODE id="111" />23. Oktober<NODE id="122" /> ...
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743450830339211264" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T14:31:05Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T14:31:10.204Z" />
+<feature featureName="uri" featureValue="https://twitter.com/TMC Nord/status/743450830339211264" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="11" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="13" endPos="25" type="location-street" surface="Grusonstraße" />
+<Entity id="2" startPos="28" endPos="40" type="location-street" surface="Wöhlerstraße" />
+<Entity id="3" startPos="50" endPos="62" type="location" surface="Bredowbrücke" />
+<Entity id="4" startPos="67" endPos="79" type="location-street" surface="Liebigstraße" />
+<Entity id="5" startPos="111" endPos="122" type="date" surface="23. Oktober" /></Entities><Relations />
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Berkheim<NODE id="8" /> - <NODE id="11" />Biberach<NODE id="19" /> zwischen <NODE id="29" />Erlenmoos<NODE id="38" /> und <NODE id="43" />Ochsenhausen<NODE id="55" /> in <NODE id="59" />beiden Richtungen<NODE id="76" /> mit <NODE id="81" />Hochwasser<NODE id="91" /> ist zu rechnen, verschmutzte Fahrbahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=06100c8a-8c72-4c7c-aa70-9e02488d4f80@2016-06-01T04:40:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-01T02:40:00Z" />
+<feature featureName="indexDate" featureValue="2016-06-01T05:29:50.013Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=06100c8a-8c72-4c7c-aa70-9e02488d4f80" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-city" surface="Berkheim" />
+<Entity id="1" startPos="11" endPos="19" type="location-city" surface="Biberach" />
+<Entity id="2" startPos="29" endPos="38" type="location" surface="Erlenmoos" />
+<Entity id="3" startPos="43" endPos="55" type="location" surface="Ochsenhausen" />
+<Entity id="4" startPos="59" endPos="76" type="location" surface="beiden Richtungen" />
+<Entity id="5" startPos="81" endPos="91" type="disaster-type" surface="Hochwasser" /></Entities><Relations />
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />ICE 546<NODE id="7" /> --&gt; <NODE id="12" />Düsseldorf Hbf <NODE id="27" />mit
+<NODE id="31" />ICE 556<NODE id="38" /> --&gt; <NODE id="43" />Bonn Hbf<NODE id="51" />,
+Abfahrt <NODE id="61" />Berlin Hbf<NODE id="71" /> <NODE id="72" />14:51 Uhr<NODE id="81" />,
+<NODE id="83" />Verspätung<NODE id="93" />: ca +<NODE id="99" />50 Minuten<NODE id="109" />
+Grund: <NODE id="117" />Fahrzeugstörung<NODE id="132" /> #T2
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="665902062090248193" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-15T14:39:58Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:45:24.12Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-route" surface="ICE 546" />
+<Entity id="1" startPos="12" endPos="27" type="location-stop" surface="Düsseldorf Hbf " />
+<Entity id="2" startPos="31" endPos="38" type="location-route" surface="ICE 556" />
+<Entity id="3" startPos="43" endPos="51" type="location-stop" surface="Bonn Hbf" />
+<Entity id="4" startPos="61" endPos="71" type="location-stop" surface="Berlin Hbf" />
+<Entity id="5" startPos="72" endPos="81" type="time" surface="14:51 Uhr" />
+<Entity id="6" startPos="83" endPos="93" type="trigger" surface="Verspätung" />
+<Entity id="7" startPos="99" endPos="109" type="duration" surface="50 Minuten" />
+<Entity id="8" startPos="117" endPos="132" type="trigger" surface="Fahrzeugstörung" /></Entities><Relations>
+<Relation id="9" NAME="Delay">
+<Entity id="7" label="delay" />
+<Entity id="4" label="start_loc" />
+<Entity id="8" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="1" label="direction" />
+<Entity id="5" label="start_date" />
+</Relation>
+<Relation id="10" NAME="Delay">
+<Entity id="7" label="delay" />
+<Entity id="4" label="start_loc" />
+<Entity id="8" label="cause" />
+<Entity id="2" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="3" label="direction" />
+<Entity id="5" label="start_date" />
+</Relation></Relations>
+</Document>

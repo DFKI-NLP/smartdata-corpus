@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />30.03.2016<NODE id="10" /> | <NODE id="13" />20:39 Uhr<NODE id="22" /> | <NODE id="25" />Inken Hägermann<NODE id="40" />
+Stellenabbau
+<NODE id="54" />Hannover<NODE id="62" />: <NODE id="64" />IBM<NODE id="67" /> macht <NODE id="74" />zwei<NODE id="78" /> Abteilungen dicht
+Schlechte Nachrichten für den <NODE id="127" />IBM<NODE id="130" />-Standort in <NODE id="143" />Hannover<NODE id="151" />: Rund <NODE id="158" />ein Drittel<NODE id="169" /> der Belegschaft (etwa <NODE id="192" />600<NODE id="195" /> Mitarbeiter) muss damit rechnen, dass seine Stellen abgebaut werden. Die Gewerkschaft <NODE id="282" />Verdi<NODE id="287" /> hat am <NODE id="295" />Mittwoch<NODE id="303" /> über den bundesweit geplanten <NODE id="334" />Stellenabbau<NODE id="346" /> bei <NODE id="351" />IBM<NODE id="354" /> berichtet.
+Um diesen Artikel weiterzulesen, melden Sie sich bitte an oder wählen eines der unten aufgeführten Angebote aus.
+Bitte geben Sie die notwendigen Informationen an. Benötigte Felder sind mit einem Stern markiert.
+Benutzername
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.neuepresse.de/Hannover/Meine-Stadt/Hannover-IBM-macht-zwei-Abteilungen-dicht@2016-03-30T20:39:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-30T18:39:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-30T20:11:06.692Z" />
+<feature featureName="uri" featureValue="http://www.neuepresse.de/Hannover/Meine-Stadt/Hannover-IBM-macht-zwei-Abteilungen-dicht" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="30.03.2016" />
+<Entity id="1" startPos="13" endPos="22" type="time" surface="20:39 Uhr" />
+<Entity id="2" startPos="25" endPos="40" type="person" surface="Inken Hägermann" />
+<Entity id="3" startPos="54" endPos="62" type="location-city" surface="Hannover" />
+<Entity id="4" startPos="64" endPos="67" type="organization-company" surface="IBM" />
+<Entity id="5" startPos="74" endPos="78" type="number" surface="zwei" />
+<Entity id="6" startPos="127" endPos="130" type="organization-company" surface="IBM" />
+<Entity id="7" startPos="143" endPos="151" type="location-city" surface="Hannover" />
+<Entity id="8" startPos="158" endPos="169" type="number" surface="ein Drittel" />
+<Entity id="9" startPos="192" endPos="195" type="number" surface="600" />
+<Entity id="10" startPos="282" endPos="287" type="organization" surface="Verdi" />
+<Entity id="11" startPos="295" endPos="303" type="date" surface="Mittwoch" />
+<Entity id="12" startPos="334" endPos="346" type="trigger" surface="Stellenabbau" />
+<Entity id="13" startPos="351" endPos="354" type="organization-company" surface="IBM" /></Entities><Relations>
+<Relation id="14" NAME="Layoffs">
+<Entity id="13" label="company" />
+<Entity id="12" label="trigger" />
+</Relation></Relations>
+</Document>

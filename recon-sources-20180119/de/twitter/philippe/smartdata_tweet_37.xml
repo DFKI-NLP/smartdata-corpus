@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Protest @igbce gegen Entlassungen in #<NODE id="38" />Dresden<NODE id="45" />. Mitarbeiter des Chipherstellers <NODE id="79" />Globalfoundries<NODE id="94" /> <NODE id="95" />gehen auf die Straße<NODE id="115" /> https://t.co/KqaqtKIn2Y
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="673196623472775168" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="38" endPos="45" type="location-city" surface="Dresden" />
+<Entity id="1" startPos="79" endPos="94" type="organization-company" surface="Globalfoundries" />
+<Entity id="2" startPos="95" endPos="115" type="trigger" surface="gehen auf die Straße" /></Entities><Relations>
+<Relation id="3" NAME="Strike">
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

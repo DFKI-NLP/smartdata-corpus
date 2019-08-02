@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />Regio_NRW<NODE id="13" />: ⚠ #<NODE id="18" />S8<NODE id="20" /> #<NODE id="22" />S11<NODE id="25" /> #<NODE id="27" />Bauarbeiten<NODE id="38" /> #<NODE id="40" />Düsseldorf<NODE id="50" /> &lt;&gt; #<NODE id="55" />Neuss<NODE id="60" /> vom  <NODE id="66" />26.06.<NODE id="72" />(<NODE id="73" />22:50<NODE id="78" />) - <NODE id="82" />30.06.2016<NODE id="92" /> (<NODE id="94" />4:15<NODE id="98" />). <NODE id="101" />Nachts<NODE id="107" />: #Schienenersatzverkehr https:/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="746418772983033856" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-24T19:04:37Z" />
+<feature featureName="indexDate" featureValue="2016-06-27T08:40:45.758Z" />
+<feature featureName="uri" featureValue="https://twitter.com/352551346/status/746418772983033856" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="13" type="organization-company" surface="Regio_NRW" />
+<Entity id="1" startPos="18" endPos="20" type="location-route" surface="S8" />
+<Entity id="2" startPos="22" endPos="25" type="location-route" surface="S11" />
+<Entity id="3" startPos="27" endPos="38" type="trigger" surface="Bauarbeiten" />
+<Entity id="4" startPos="40" endPos="50" type="location-stop" surface="Düsseldorf" />
+<Entity id="5" startPos="55" endPos="60" type="location-stop" surface="Neuss" />
+<Entity id="6" startPos="66" endPos="72" type="date" surface="26.06." />
+<Entity id="7" startPos="73" endPos="78" type="time" surface="22:50" />
+<Entity id="8" startPos="82" endPos="92" type="date" surface="30.06.2016" />
+<Entity id="9" startPos="94" endPos="98" type="time" surface="4:15" />
+<Entity id="10" startPos="101" endPos="107" type="time" surface="Nachts" /></Entities><Relations>
+<Relation id="11" NAME="Obstruction">
+<Entity id="8" label="end_date" />
+<Entity id="5" label="end_loc" />
+<Entity id="4" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="3" label="trigger" />
+<Entity id="6" label="start_date" />
+</Relation>
+<Relation id="12" NAME="Obstruction">
+<Entity id="8" label="end_date" />
+<Entity id="4" label="end_loc" />
+<Entity id="5" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="3" label="trigger" />
+<Entity id="6" label="start_date" />
+</Relation>
+<Relation id="13" NAME="Obstruction">
+<Entity id="8" label="end_date" />
+<Entity id="4" label="end_loc" />
+<Entity id="5" label="start_loc" />
+<Entity id="2" label="location" />
+<Entity id="3" label="trigger" />
+<Entity id="6" label="start_date" />
+</Relation>
+<Relation id="14" NAME="Obstruction">
+<Entity id="8" label="end_date" />
+<Entity id="5" label="end_loc" />
+<Entity id="4" label="start_loc" />
+<Entity id="2" label="location" />
+<Entity id="3" label="trigger" />
+<Entity id="6" label="start_date" />
+</Relation></Relations>
+</Document>

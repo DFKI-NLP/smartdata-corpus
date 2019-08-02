@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A1<NODE id="2" /> <NODE id="3" />Köln<NODE id="7" /> Richtung <NODE id="17" />Euskirchen<NODE id="27" /> zwischen <NODE id="37" />Köln-Lövenich<NODE id="50" /> und <NODE id="55" />Hürth<NODE id="60" /> <NODE id="61" />10 km<NODE id="66" /> <NODE id="67" />Stau<NODE id="71" /> Dort steht ein defektes Fahrzeug.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#3@2016-01-28T17:08:47.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-28T16:08:47Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T03:31:23.841Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A1" />
+<Entity id="1" startPos="3" endPos="7" type="location-city" surface="Köln" />
+<Entity id="2" startPos="17" endPos="27" type="location-city" surface="Euskirchen" />
+<Entity id="3" startPos="37" endPos="50" type="location" surface="Köln-Lövenich" />
+<Entity id="4" startPos="55" endPos="60" type="location" surface="Hürth" />
+<Entity id="5" startPos="61" endPos="66" type="distance" surface="10 km" />
+<Entity id="6" startPos="67" endPos="71" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

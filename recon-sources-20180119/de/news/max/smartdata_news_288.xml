@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />14.01.16<NODE id="8" /> | <NODE id="11" />08:41 Uhr<NODE id="20" /> | <NODE id="23" />7<NODE id="24" /> mal gelesen | dts-nachrichtenagentur.de
+Der Ölpreis könnte laut <NODE id="89" />Helima Croft<NODE id="101" />, Leiterin Rohstoffanalyse bei der Investmentbanksparte der Royal Bank of ...
+Bild: © über dts Nachrichtenagentur
+Expertin: Ölpreis-Absturz bis auf <NODE id="249" />20 Dollar<NODE id="258" /> je Fass ist möglich
+Der Ölpreis könnte laut <NODE id="303" />Helima Croft<NODE id="315" />, Leiterin Rohstoffanalyse bei der Investmentbanksparte der <NODE id="375" />Royal Bank of Canada<NODE id="395" />, nach den jüngsten Preiseinbrüchen weiter fallen: Kurzfristig kann der Preis sogar unter die <NODE id="489" />20-Dollar<NODE id="498" />-Marke für <NODE id="509" />ein Barrel<NODE id="519" /> beim Nordseeöl Brent fallen, sagte <NODE id="555" />Croft<NODE id="560" /> dem <NODE id="565" />Handelsblatt<NODE id="577" /> (Donnerstagausgabe).
+Derzeit kostet das Barrel etwas mehr als <NODE id="640" />30 Dollar<NODE id="649" />. Nach Ansicht von Croft leidet der Markt unter einem Überangebot. Zum Ausgleich von Angebot und Nachfrage werde es noch eine Zeit dauern. Bis <NODE id="792" />Ende des Jahres<NODE id="807" /> könnten aber wieder <NODE id="828" />53 Dollar<NODE id="837" /> erreicht werden. Im Sommer <NODE id="865" />vergangenen Jahres <NODE id="884" />kostete der wichtigste Energierohstoff in der Spitze deutlic
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ad-hoc-news.de/der-oelpreis-koennte-laut-helima-croft-leiterin-rohstoffanalyse-bei-der--/de/News/47942157@2016-03-10T13:28:38.758+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:28:38.758Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:28:43.486Z" />
+<feature featureName="uri" featureValue="http://www.ad-hoc-news.de/der-oelpreis-koennte-laut-helima-croft-leiterin-rohstoffanalyse-bei-der--/de/News/47942157" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="date" surface="14.01.16" />
+<Entity id="1" startPos="11" endPos="20" type="time" surface="08:41 Uhr" />
+<Entity id="2" startPos="23" endPos="24" type="number" surface="7" />
+<Entity id="3" startPos="89" endPos="101" type="person" surface="Helima Croft" />
+<Entity id="4" startPos="249" endPos="258" type="number" surface="20 Dollar" />
+<Entity id="5" startPos="303" endPos="315" type="person" surface="Helima Croft" />
+<Entity id="6" startPos="375" endPos="395" type="organization-company" surface="Royal Bank of Canada" />
+<Entity id="7" startPos="489" endPos="498" type="number" surface="20-Dollar" />
+<Entity id="8" startPos="509" endPos="519" type="number" surface="ein Barrel" />
+<Entity id="9" startPos="555" endPos="560" type="person" surface="Croft" />
+<Entity id="10" startPos="565" endPos="577" type="organization-company" surface="Handelsblatt" />
+<Entity id="11" startPos="640" endPos="649" type="number" surface="30 Dollar" />
+<Entity id="12" startPos="792" endPos="807" type="date" surface="Ende des Jahres" />
+<Entity id="13" startPos="828" endPos="837" type="number" surface="53 Dollar" />
+<Entity id="14" startPos="865" endPos="884" type="date" surface="vergangenen Jahres " /></Entities><Relations />
+</Document>

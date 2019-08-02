@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />43<NODE id="2" /> : <NODE id="5" />Verkehrsunfall<NODE id="19" /> - <NODE id="22" />Umleitung<NODE id="31" /> zwischen <NODE id="41" />Brünnlbadgasse<NODE id="55" /> und <NODE id="60" />Rosensteingasse<NODE id="75" /> über die <NODE id="85" />44<NODE id="87" /> + <NODE id="90" />9<NODE id="91" /> #wlvi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666951514792005636" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-18T12:10:07Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:54:15.728Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="43" />
+<Entity id="1" startPos="5" endPos="19" type="trigger" surface="Verkehrsunfall" />
+<Entity id="2" startPos="22" endPos="31" type="trigger" surface="Umleitung" />
+<Entity id="3" startPos="41" endPos="55" type="location-street" surface="Brünnlbadgasse" />
+<Entity id="4" startPos="60" endPos="75" type="location-street" surface="Rosensteingasse" />
+<Entity id="5" startPos="85" endPos="87" type="location-street" surface="44" />
+<Entity id="6" startPos="90" endPos="91" type="location-street" surface="9" /></Entities><Relations>
+<Relation id="7" NAME="Obstruction">
+<Entity id="4" label="end_loc" />
+<Entity id="1" label="cause" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

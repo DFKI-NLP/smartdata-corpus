@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Aaaalt Irgendwie.<NODE id="17" />Bahnhof Herne<NODE id="30" /> in <NODE id="34" />Herne<NODE id="39" />, in der in der Astronomie in der <NODE id="73" />GDL<NODE id="76" /> Streik nun auch <NODE id="93" />UHR<NODE id="96" /> Streik nun auch so.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="689325289437052928" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="30" type="location-stop" surface="Bahnhof Herne" />
+<Entity id="1" startPos="34" endPos="39" type="location-city" surface="Herne" />
+<Entity id="2" startPos="73" endPos="76" type="organization" surface="GDL" />
+<Entity id="3" startPos="93" endPos="96" type="organization" surface="UHR" /></Entities><Relations />
+</Document>

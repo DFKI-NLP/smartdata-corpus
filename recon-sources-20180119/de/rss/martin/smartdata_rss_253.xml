@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Freitag, 17. Juni<NODE id="20" />, <NODE id="22" />14.55<NODE id="27" /> – <NODE id="30" />16.45 Uhr<NODE id="39" />
+Meldung:
+<NODE id="49" />IC 1972<NODE id="56" /> von <NODE id="61" />Frankfurt (Main) Hbf<NODE id="81" /> (planmäßige Ankunft <NODE id="102" />16.46 Uhr<NODE id="111" /> in <NODE id="115" />Hamburg-Altona<NODE id="129" />) endet in <NODE id="140" />Hannover Hbf<NODE id="152" /> und <NODE id="157" />fällt<NODE id="162" /> von <NODE id="167" />Hannover Hbf<NODE id="179" /> bis <NODE id="184" />Hamburg-Altona<NODE id="198" /> <NODE id="199" />aus<NODE id="202" />.
+Grund:
+Weichenerneuerung zwischen <NODE id="238" />Suderburg<NODE id="247" /> und <NODE id="252" />Eschede<NODE id="259" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="329" />185<NODE id="332" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_16-Berlin-Hannover-Kassel-Fulda-Frankfurt_M_-_Zuerich/7#16dfc4907c20b3de3921140a647a7ef155a3a189@2016-04-18T14:26:54.580+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-18T12:26:54.58Z" />
+<feature featureName="indexDate" featureValue="2016-04-18T12:27:08.499Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_16-Berlin-Hannover-Kassel-Fulda-Frankfurt_M_-_Zuerich/7#16dfc4907c20b3de3921140a647a7ef155a3a189" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="20" type="date" surface="Freitag, 17. Juni" />
+<Entity id="1" startPos="22" endPos="27" type="time" surface="14.55" />
+<Entity id="2" startPos="30" endPos="39" type="time" surface="16.45 Uhr" />
+<Entity id="3" startPos="49" endPos="56" type="location-route" surface="IC 1972" />
+<Entity id="4" startPos="61" endPos="81" type="location-stop" surface="Frankfurt (Main) Hbf" />
+<Entity id="5" startPos="102" endPos="111" type="time" surface="16.46 Uhr" />
+<Entity id="6" startPos="115" endPos="129" type="location-stop" surface="Hamburg-Altona" />
+<Entity id="7" startPos="140" endPos="152" type="location-stop" surface="Hannover Hbf" />
+<Entity id="8" startPos="157" endPos="162" type="trigger" surface="fällt" />
+<Entity id="9" startPos="167" endPos="179" type="location-stop" surface="Hannover Hbf" />
+<Entity id="10" startPos="184" endPos="198" type="location-stop" surface="Hamburg-Altona" />
+<Entity id="11" startPos="199" endPos="202" type="trigger" surface="aus" />
+<Entity id="12" startPos="238" endPos="247" type="location-stop" surface="Suderburg" />
+<Entity id="13" startPos="252" endPos="259" type="location-stop" surface="Eschede" />
+<Entity id="14" startPos="329" endPos="332" type="number" surface="185" /></Entities><Relations>
+<Relation id="15" NAME="CanceledRoute">
+<Entity id="10" label="end_loc" />
+<Entity id="9" label="start_loc" />
+<Entity id="3" label="location" />
+<Entity id="8" label="trigger" />
+<Entity id="11" label="trigger" />
+</Relation></Relations>
+</Document>

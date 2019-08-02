@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>von <NODE id="4" />Donnerstag, 24. März<NODE id="24" />, <NODE id="26" />20.30 Uhr<NODE id="35" /> bis <NODE id="40" />Montag, 28. März<NODE id="56" />, <NODE id="58" />16.00 Uhr<NODE id="67" />
+Meldung:
+Mehrere <NODE id="85" />Nacht-<NODE id="91" /> und <NODE id="96" />Fernverkehrszüge<NODE id="112" /> <NODE id="113" />verspäten<NODE id="122" /> sich ab <NODE id="131" />Regensburg Hbf<NODE id="145" /> um <NODE id="149" />6 – 12 Min.<NODE id="160" />
+Grund:
+Weichenarbeiten
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="253" />140<NODE id="256" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#9eeb28fdff382de79a0c571bc49ea797076563a9@2016-03-02T04:56:13.041+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-02T03:56:13.041Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:25:16.899Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#9eeb28fdff382de79a0c571bc49ea797076563a9" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="24" type="date" surface="Donnerstag, 24. März" />
+<Entity id="1" startPos="26" endPos="35" type="date" surface="20.30 Uhr" />
+<Entity id="2" startPos="40" endPos="56" type="date" surface="Montag, 28. März" />
+<Entity id="3" startPos="58" endPos="67" type="date" surface="16.00 Uhr" />
+<Entity id="4" startPos="85" endPos="91" type="location-route" surface="Nacht-" />
+<Entity id="5" startPos="96" endPos="112" type="location-route" surface="Fernverkehrszüge" />
+<Entity id="6" startPos="113" endPos="122" type="trigger" surface="verspäten" />
+<Entity id="7" startPos="131" endPos="145" type="location-stop" surface="Regensburg Hbf" />
+<Entity id="8" startPos="149" endPos="160" type="duration" surface="6 – 12 Min." />
+<Entity id="9" startPos="253" endPos="256" type="number" surface="140" /></Entities><Relations>
+<Relation id="10" NAME="Delay">
+<Entity id="7" label="location" />
+<Entity id="4" label="location" />
+<Entity id="5" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="8" label="delay" />
+</Relation></Relations>
+</Document>

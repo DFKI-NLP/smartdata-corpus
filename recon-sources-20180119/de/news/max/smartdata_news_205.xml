@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bruns<NODE id="5" />-Gruppe stellt Logistik-Bereich neu auf – Zustellung künftig als eigenständiger Dienstleister auch für <NODE id="108" />Dritte<NODE id="114" /> unterwegs
+Anzeige
+<NODE id="133" />Bruns<NODE id="138" />-Gruppe stellt Logistik-Bereich neu auf – Zustellung künftig als eigenständiger Dienstleister auch für Dritte unterwegs
+veröffentlicht
+Die neue <NODE id="282" />Bruns Logistik GmbH<NODE id="301" /> hat allen bisherigen MT-Zustellern die
+Übernahme zu den alten Konditionen angeboten. Gleichzeitig startet sie
+eine Einstellungsoffensive, um sich für die neuen Aufgaben optimal
+aufstellen zu können. (© Repro: MT)
+Minden (mt). Die <NODE id="532" />J.C.C. Bruns Betriebs GmbH<NODE id="558" /> <NODE id="559" />Minden<NODE id="565" />, unter anderem Herausgeberin des  Mindener Tageblatts, hat den Unternehmensbereich Zustellung in die  eigenständige <NODE id="682" />Bruns Logistik GmbH<NODE id="701" /> <NODE id="702" />ausgegliedert<NODE id="715" />. Die Gesellschaft wurde  im <NODE id="744" />Oktober 2015 <NODE id="757" />gegründet und hat nun im Zuge des Übergangs in die neue  Betriebsform allen bisher bei der Dachgesellschaft beschäftigten rund  <NODE id="885" />300<NODE id="888" /> Zustellerinnen und Zustellern eine Übernahme zu gleichen Kondit
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.mt.de/lokales/minden/20674296_Bruns-Gruppe-stellt-Logistik-Bereich-neu-auf-Zustellung-kuenftig-als-eigenstaendiger-Dienstleister-auch-fuer-Dritte-unterwegs.html@2016-03-10T15:21:37.580+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:21:37.58Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:21:43.483Z" />
+<feature featureName="uri" featureValue="http://www.mt.de/lokales/minden/20674296_Bruns-Gruppe-stellt-Logistik-Bereich-neu-auf-Zustellung-kuenftig-als-eigenstaendiger-Dienstleister-auch-fuer-Dritte-unterwegs.html" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="organization-company" surface="Bruns" />
+<Entity id="1" startPos="108" endPos="114" type="number" surface="Dritte" />
+<Entity id="2" startPos="133" endPos="138" type="organization-company" surface="Bruns" />
+<Entity id="3" startPos="282" endPos="301" type="organization-company" surface="Bruns Logistik GmbH" />
+<Entity id="4" startPos="532" endPos="558" type="organization-company" surface="J.C.C. Bruns Betriebs GmbH" />
+<Entity id="5" startPos="559" endPos="565" type="location-city" surface="Minden" />
+<Entity id="6" startPos="682" endPos="701" type="organization-company" surface="Bruns Logistik GmbH" />
+<Entity id="7" startPos="702" endPos="715" type="trigger" surface="ausgegliedert" />
+<Entity id="8" startPos="744" endPos="757" type="date" surface="Oktober 2015 " />
+<Entity id="9" startPos="885" endPos="888" type="number" surface="300" /></Entities><Relations>
+<Relation id="10" NAME="SpinOff">
+<Entity id="4" label="parent" />
+<Entity id="7" label="trigger" />
+<Entity id="6" label="child" />
+</Relation></Relations>
+</Document>

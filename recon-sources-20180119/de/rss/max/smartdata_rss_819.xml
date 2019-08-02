@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Samstag, 13.<NODE id="15" /> und <NODE id="20" />Sonntag, 14. Februar<NODE id="40" />, jeweils <NODE id="50" />ganztägig<NODE id="59" />&lt;br /&gt;
+&lt;br /&gt;
+Meldung:&lt;br /&gt;
+Die <NODE id="92" />IC-Züge<NODE id="99" /> enden/beginnen in <NODE id="118" />Bad Bentheim<NODE id="130" /> und <NODE id="135" />fallen<NODE id="141" /> zwischen <NODE id="151" />Bad Bentheim <NODE id="164" />und <NODE id="168" />Amsterdam Centraal<NODE id="186" /> <NODE id="187" />aus<NODE id="190" />. Bitte nutzen Sie den Schienenersatzverkehr in diesem Abschnitt.&lt;br /&gt;
+&lt;br /&gt;Grund:&lt;br /&gt;
+Bauarbeiten <NODE id="293" />Hengelo<NODE id="300" /> – <NODE id="303" />Almelo<NODE id="309" />&lt;br /&gt;
+&lt;br /&gt;Link zur detaillierten Meldung: &lt;br /&gt;
+&lt;a href=/&gt;&lt;br /&gt;
+Link zum kompletten PDF-Dokument: &lt;br /&gt;
+&lt;a href=target=_blank&gt;(<NODE id="442" />83<NODE id="444" /> kB)&lt;br /&gt;&lt;br /&gt;------------------&lt;br /&gt;&lt;br /&gt;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_77-Berlin-Stendal_-Hannover-Amsterdam/37#e6e591bac92c206bc2f5390b5ef4486b9c739b49@2016-02-09T15:11:41.921+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-09T14:11:41.921Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:26:20.083Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_77-Berlin-Stendal_-Hannover-Amsterdam/37#e6e591bac92c206bc2f5390b5ef4486b9c739b49" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="15" type="date" surface="Samstag, 13." />
+<Entity id="1" startPos="20" endPos="40" type="date" surface="Sonntag, 14. Februar" />
+<Entity id="2" startPos="50" endPos="59" type="duration" surface="ganztägig" />
+<Entity id="3" startPos="92" endPos="99" type="location-route" surface="IC-Züge" />
+<Entity id="4" startPos="118" endPos="130" type="location-stop" surface="Bad Bentheim" />
+<Entity id="5" startPos="135" endPos="141" type="trigger" surface="fallen" />
+<Entity id="6" startPos="151" endPos="164" type="location-stop" surface="Bad Bentheim " />
+<Entity id="7" startPos="168" endPos="186" type="location-stop" surface="Amsterdam Centraal" />
+<Entity id="8" startPos="187" endPos="190" type="trigger" surface="aus" />
+<Entity id="9" startPos="293" endPos="300" type="location-stop" surface="Hengelo" />
+<Entity id="10" startPos="303" endPos="309" type="location-stop" surface="Almelo" />
+<Entity id="11" startPos="442" endPos="444" type="number" surface="83" /></Entities><Relations>
+<Relation id="12" NAME="CanceledRoute">
+<Entity id="7" label="end_loc" />
+<Entity id="6" label="start_loc" />
+<Entity id="3" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="8" label="trigger" />
+</Relation></Relations>
+</Document>

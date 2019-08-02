@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A2<NODE id="2" /> <NODE id="3" />Dortmund<NODE id="11" /> Richtung <NODE id="21" />Oberhausen<NODE id="31" /> zwischen <NODE id="41" />Gladbeck-Ellinghorst<NODE id="61" /> und <NODE id="66" />Oberhausen-Königshardt<NODE id="88" /> <NODE id="89" />6 km<NODE id="93" /> <NODE id="94" />Stau<NODE id="98" /> (Zeitverlust mehr als eine <NODE id="126" />Viertelstunde<NODE id="139" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#9@2016-02-01T08:35:40.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-01T07:35:40Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T02:28:31.307Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A2" />
+<Entity id="1" startPos="3" endPos="11" type="location-city" surface="Dortmund" />
+<Entity id="2" startPos="21" endPos="31" type="location-city" surface="Oberhausen" />
+<Entity id="3" startPos="41" endPos="61" type="location" surface="Gladbeck-Ellinghorst" />
+<Entity id="4" startPos="66" endPos="88" type="location" surface="Oberhausen-Königshardt" />
+<Entity id="5" startPos="89" endPos="93" type="distance" surface="6 km" />
+<Entity id="6" startPos="94" endPos="98" type="trigger" surface="Stau" />
+<Entity id="7" startPos="126" endPos="139" type="duration" surface="Viertelstunde" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="7" label="delay" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

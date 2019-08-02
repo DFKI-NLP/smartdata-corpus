@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @B_Denklich: @<NODE id="17" />Ralf_Stegner<NODE id="29" /> waren es nicht die rot-grünen BL, die den Stellenabbau bei der Polizei vorantrieben? Was soll das also?
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743408512823398400" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T11:42:55Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T11:43:01.667Z" />
+<feature featureName="uri" featureValue="https://twitter.com/thoefer/status/743408512823398400" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="29" type="person" surface="Ralf_Stegner" /></Entities><Relations />
+</Document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @ConCrafter: Mein Flug boardet in <NODE id="37" />20 Minuten<NODE id="47" />
+
+Luca steht im Stau
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671798382424367104" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="37" endPos="47" type="duration" surface="20 Minuten" /></Entities><Relations />
+</Document>

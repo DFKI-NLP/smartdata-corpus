@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Twittern
+Foto: <NODE id="15" />dpa<NODE id="18" />
+<NODE id="19" />Ingolstadt<NODE id="29" /> - <NODE id="32" />Media-Saturn<NODE id="44" />-<NODE id="45" />Manager<NODE id="52" /> <NODE id="53" />Pieter Haas<NODE id="64" /> setzt wieder verstärkt auf den Handel im Laden. Zwar liege das Ziel beim Internetgeschäft langfristig bei <NODE id="171" />15<NODE id="173" /> bis <NODE id="178" />20 Prozent<NODE id="188" />, sagte <NODE id="196" />Haas<NODE id="200" /> dem «<NODE id="206" />Donaukurier<NODE id="217" />» in <NODE id="222" />Ingolstadt<NODE id="232" />. Allerdings sei «die Wiederauferstehung des Ladens» dazwischengekommen.
+«<NODE id="306" />Vor vier Jahren<NODE id="321" /> hätte man noch gesagt, dass der Online-Handel schon bald <NODE id="379" />40 Prozent<NODE id="389" /> des Umsatzes ausmacht. Aber Sie sehen, dass auch Online seine Grenzen hat.» Stattdessen eröffneten Internethändler wie <NODE id="509" />Amazon<NODE id="515" /> eigene Läden.
+«In den vergangenen z<NODE id="551" />wei Jahren<NODE id="561" /> hat sich da einiges in den Köpfen der Kunden und Manager getan», sagte der Geschäftsführer. «Ich musste mir anhören: Ihr werdet doch vom Online-Handel überrollt, müsst bald alle Märkte schließen.» Die Leute hätten eine düstere Zukunft prophezeit. «Und jetzt? Alles spricht nur noch von Omnichannel und Multichannel. Die Kunden gehen wieder gerne in die Märkte.»
+Daher will die Elektromarktk
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article152202468/Online-Geschaeft-hat-seine-Grenzen.html@2016-02-13T14:34:01.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-13T13:34:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:48:01.931Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article152202468/Online-Geschaeft-hat-seine-Grenzen.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="18" type="organization-company" surface="dpa" />
+<Entity id="1" startPos="19" endPos="29" type="location-city" surface="Ingolstadt" />
+<Entity id="2" startPos="32" endPos="44" type="organization-company" surface="Media-Saturn" />
+<Entity id="3" startPos="45" endPos="52" type="org-position" surface="Manager" />
+<Entity id="4" startPos="53" endPos="64" type="person" surface="Pieter Haas" />
+<Entity id="5" startPos="171" endPos="173" type="number" surface="15" />
+<Entity id="6" startPos="178" endPos="188" type="number" surface="20 Prozent" />
+<Entity id="7" startPos="196" endPos="200" type="person" surface="Haas" />
+<Entity id="8" startPos="206" endPos="217" type="organization-company" surface="Donaukurier" />
+<Entity id="9" startPos="222" endPos="232" type="location-city" surface="Ingolstadt" />
+<Entity id="10" startPos="306" endPos="321" type="date" surface="Vor vier Jahren" />
+<Entity id="11" startPos="379" endPos="389" type="number" surface="40 Prozent" />
+<Entity id="12" startPos="509" endPos="515" type="organization-company" surface="Amazon" />
+<Entity id="13" startPos="551" endPos="561" type="duration" surface="wei Jahren" /></Entities><Relations>
+<Relation id="14" NAME="OrganizationLeadership">
+<Entity id="4" label="person" />
+<Entity id="2" label="organization" />
+<Entity id="3" label="position" />
+</Relation></Relations>
+</Document>

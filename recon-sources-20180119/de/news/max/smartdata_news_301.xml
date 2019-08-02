@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Rheinische Post<NODE id="15" />: Kommentar /  Dschihad-Drohungen und <NODE id="53" />Silvester<NODE id="62" />-Feiern  = Von <NODE id="77" />Gregor Mayntz<NODE id="90" />
+Gerade hatten wir uns mit der Frage befasst, ob
+man in der Nähe von Flüchtlingsheimen auf die Silvesterknallerei
+verzichten sollte, weil traumatisierte Bürgerkriegsopfer Böller mit
+Bomben verwechseln könnten, da dreht sich die Parallelität ins
+Gegenteil: Die Kulisse von Raketen und Krachern wollten Islamisten in
+<NODE id="405" />Brüssel<NODE id="412" /> für blutige Anschläge im Herzen der Hauptstadt nutzen. Ein
+Alptraum wäre Realität geworden. Den Fahndern gebührt Dank, die
+Terrorpläne aufgedeckt und potenzielle Täter gestoppt zu haben. In
+die Erleichterung schleicht sich jedoch, ob wir es wollen oder nicht,
+das mulmige Gefühl, dass <NODE id="698" />Brüssel<NODE id="705" /> nicht allein Hort von
+Dschihad-Heimkehrern, „Schläfern“ mit Terror-Potenzial und unentdeckt
+radikalisierten „einsamen Wölfen“ sein könnte. Das ist das, was die
+Sicherheitsbehörden mit „<NODE id="891" />Deutschland<NODE id="902" /> im Fadenkreuz des Terrors“ und
+d
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.iinews.de/rheinische-post-kommentar-dschihad-drohungen-und-silvester-feiern-von-gregor-mayntz-1304051.html@2016-03-10T15:28:02.260+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:28:02.26Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:28:03.316Z" />
+<feature featureName="uri" featureValue="http://www.iinews.de/rheinische-post-kommentar-dschihad-drohungen-und-silvester-feiern-von-gregor-mayntz-1304051.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="15" type="organization-company" surface="Rheinische Post" />
+<Entity id="1" startPos="53" endPos="62" type="date" surface="Silvester" />
+<Entity id="2" startPos="77" endPos="90" type="person" surface="Gregor Mayntz" />
+<Entity id="3" startPos="405" endPos="412" type="location-city" surface="Brüssel" />
+<Entity id="4" startPos="698" endPos="705" type="location-city" surface="Brüssel" />
+<Entity id="5" startPos="891" endPos="902" type="location" surface="Deutschland" /></Entities><Relations />
+</Document>

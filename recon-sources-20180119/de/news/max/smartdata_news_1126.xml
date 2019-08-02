@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Analysen
+Top Themen <NODE id="20" />Heute<NODE id="25" />
+DAX gewinnt Kampf um <NODE id="47" />9600<NODE id="51" /> Punkte-Marke knapp <NODE id="71" />Deutsche Bank<NODE id="84" /> sieht derzeit keinen Grund für Kapitalerhöhung - Aktie gibt ab Potash kürzt nach schwachem Jahr erstmals Dividende
+<NODE id="200" />NEW YORK<NODE id="208" /> (<NODE id="210" />dpa-AFX<NODE id="217" />) - Die <NODE id="225" />US<NODE id="227" />-Aktienmärkte haben sich am <NODE id="255" />Donnerstag<NODE id="265" /> nach einem wechselhaften Vormittagsverlauf auf etwas höherem Niveau stabilisiert. Bestimmt wurde die Sitzung von divergierenden Einflussfaktoren: Enttäuschenden <NODE id="427" />US<NODE id="429" />-Konjunkturdaten standen erneut deutlich anziehende Ölpreise gegenüber. Auf Unternehmensseite waren bei den Quartalsberichten Licht und Schatten zu finden.
+Der Dow Jones Industrial ( Dow Jones ) notierte zuletzt <NODE id="641" />0,59 Prozent<NODE id="653" /> höher bei <NODE id="664" />16 037,87 <NODE id="674" />Punkten, nachdem er am <NODE id="697" />Mittwoch<NODE id="705" /> in Reaktion auf geldpolitische Kommentare der <NODE id="752" />US<NODE id="754" />-Notenbank um <NODE id="768" />1,4 Prozent<NODE id="779" /> gefallen war. Der marktbreite S&amp;P-<NODE id="814" />500<NODE id="817" />-Index ( S&amp;P <NODE id="830" />500<NODE id="833" /> ) stieg am <NODE id="845" />Donnerstag<NODE id="855" /> um <NODE id="859" />0,64 Prozent<NODE id="871" /> auf <NODE id="876" />1894,93 Punkte<NODE id="890" />. Der Technologie-Auswahlindex NASDAQ <NODE id="928" />100<NODE id="931" /> gewann <NODE id="939" />1,38 Prozent<NODE id="951" /> auf
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzen.net/nachricht/aktien/Aktien-New-York-Dow-stabilisiert-sich-im-Plus-Oelpreis-steigt-ueber-33-Dollar-4710033@2016-01-28T20:15:59.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-28T19:15:59Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:32:51.939Z" />
+<feature featureName="uri" featureValue="http://www.finanzen.net/nachricht/aktien/Aktien-New-York-Dow-stabilisiert-sich-im-Plus-Oelpreis-steigt-ueber-33-Dollar-4710033" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="25" type="date" surface="Heute" />
+<Entity id="1" startPos="47" endPos="51" type="number" surface="9600" />
+<Entity id="2" startPos="71" endPos="84" type="organization-company" surface="Deutsche Bank" />
+<Entity id="3" startPos="200" endPos="208" type="location-city" surface="NEW YORK" />
+<Entity id="4" startPos="210" endPos="217" type="organization-company" surface="dpa-AFX" />
+<Entity id="5" startPos="225" endPos="227" type="location" surface="US" />
+<Entity id="6" startPos="255" endPos="265" type="date" surface="Donnerstag" />
+<Entity id="7" startPos="427" endPos="429" type="location" surface="US" />
+<Entity id="8" startPos="641" endPos="653" type="number" surface="0,59 Prozent" />
+<Entity id="9" startPos="664" endPos="674" type="number" surface="16 037,87 " />
+<Entity id="10" startPos="697" endPos="705" type="date" surface="Mittwoch" />
+<Entity id="11" startPos="752" endPos="754" type="location" surface="US" />
+<Entity id="12" startPos="768" endPos="779" type="number" surface="1,4 Prozent" />
+<Entity id="13" startPos="814" endPos="817" type="number" surface="500" />
+<Entity id="14" startPos="830" endPos="833" type="number" surface="500" />
+<Entity id="15" startPos="845" endPos="855" type="date" surface="Donnerstag" />
+<Entity id="16" startPos="859" endPos="871" type="number" surface="0,64 Prozent" />
+<Entity id="17" startPos="876" endPos="890" type="number" surface="1894,93 Punkte" />
+<Entity id="18" startPos="928" endPos="931" type="number" surface="100" />
+<Entity id="19" startPos="939" endPos="951" type="number" surface="1,38 Prozent" /></Entities><Relations />
+</Document>

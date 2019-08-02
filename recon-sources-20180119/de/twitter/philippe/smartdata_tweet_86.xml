@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>AVK / Blitzer in <NODE id="17" />Neuwied<NODE id="24" />-<NODE id="25" />Heddesdorfer Berg<NODE id="42" /> <NODE id="43" />Weinbergstraße<NODE id="57" />, aktuelle Umleitung <NODE id="78" />B42<NODE id="81" />. 
+<NODE id="84" />30kmh<NODE id="89" /> erlaubt.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="665864170915631104" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="24" type="location-city" surface="Neuwied" />
+<Entity id="1" startPos="25" endPos="42" type="location" surface="Heddesdorfer Berg" />
+<Entity id="2" startPos="43" endPos="57" type="location-street" surface="Weinbergstraße" />
+<Entity id="3" startPos="78" endPos="81" type="location-street" surface="B42" />
+<Entity id="4" startPos="84" endPos="89" type="number" surface="30kmh" /></Entities><Relations />
+</Document>

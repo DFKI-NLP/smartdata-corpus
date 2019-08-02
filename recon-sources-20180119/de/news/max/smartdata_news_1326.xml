@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Hamburg<NODE id="7" /> (ots) - - Querverweis: Bildmaterial ist abrufbar unter http://www presseportal de/bilder - Schluss mit dem Schönheitsdruck! In einem exklusiven Interview mit <NODE id="166" />GALA<NODE id="170" /> (Ausgabe <NODE id="180" />9<NODE id="181" />/<NODE id="182" />16<NODE id="184" />, ab morgen im Handel) fordert Schauspiel-Ikone <NODE id="232" />Iris Berben<NODE id="243" /> (<NODE id="245" />65<NODE id="247" />) neue Ideale
+<NODE id="261" />24.02.16<NODE id="269" /> | <NODE id="272" />11:21 Uhr<NODE id="281" /> | <NODE id="284" />1<NODE id="285" /> mal gelesen | presseportal.de <NODE id="316" />Iris Berben<NODE id="327" />: Mädels, riskiert keine dicke Lippe!
+<NODE id="365" />Hamburg<NODE id="372" /> (ots) - - Querverweis: Bildmaterial ist abrufbar unter http://www.presseportal.de/bilder - Schluss mit dem Schönheitsdruck! In einem exklusiven Interview mit GALA (Ausgabe 9/16, ab morgen im Handel) fordert Schauspiel-Ikone <NODE id="597" />Iris Berben<NODE id="608" /> (<NODE id="610" />65<NODE id="612" />) neue Ideale. Wenn ich sehe, wie ...
+<NODE id="650" />Hamburg<NODE id="657" /> (ots) -
+- Querverweis: Bildmaterial ist abrufbar unter http://www.presseportal.de/bilder -
+Schluss mit dem Schönheitsdruck! In einem exklusiven Interview mit GALA (Ausgabe 9/16, ab morgen im Handel) fordert Schauspiel-Ikone <NODE id="882" />Iris Berben<NODE id="893" /> (<NODE id="895" />65<NODE id="897" />) neue Ideale. Wenn ich sehe, wie
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ad-hoc-news.de/hamburg-ots-querverweis-bildmaterial-ist-abrufbar-unter-http-www-presseportal-de--/de/News/48566326@2016-02-24T10:21:18.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T09:21:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T09:39:12.95Z" />
+<feature featureName="uri" featureValue="http://www.ad-hoc-news.de/hamburg-ots-querverweis-bildmaterial-ist-abrufbar-unter-http-www-presseportal-de--/de/News/48566326" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="166" endPos="170" type="organization-company" surface="GALA" />
+<Entity id="2" startPos="180" endPos="181" type="date" surface="9" />
+<Entity id="3" startPos="182" endPos="184" type="date" surface="16" />
+<Entity id="4" startPos="232" endPos="243" type="person" surface="Iris Berben" />
+<Entity id="5" startPos="245" endPos="247" type="number" surface="65" />
+<Entity id="6" startPos="261" endPos="269" type="date" surface="24.02.16" />
+<Entity id="7" startPos="272" endPos="281" type="time" surface="11:21 Uhr" />
+<Entity id="8" startPos="284" endPos="285" type="number" surface="1" />
+<Entity id="9" startPos="316" endPos="327" type="person" surface="Iris Berben" />
+<Entity id="10" startPos="365" endPos="372" type="location-city" surface="Hamburg" />
+<Entity id="11" startPos="597" endPos="608" type="person" surface="Iris Berben" />
+<Entity id="12" startPos="610" endPos="612" type="number" surface="65" />
+<Entity id="13" startPos="650" endPos="657" type="location-city" surface="Hamburg" />
+<Entity id="14" startPos="882" endPos="893" type="person" surface="Iris Berben" />
+<Entity id="15" startPos="895" endPos="897" type="number" surface="65" /></Entities><Relations />
+</Document>

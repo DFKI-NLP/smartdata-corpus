@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Von <NODE id="4" />Thomas Heuzeroth<NODE id="20" /> <NODE id="21" />Thomas Heuzeroth<NODE id="37" /> Biografie und alle Artikel des Autors <NODE id="76" />Facebook<NODE id="84" /> <NODE id="85" />Google<NODE id="91" /> + <NODE id="94" />Twitter<NODE id="101" /> Wirtschaftsredakteur
+Nein, noch einmal sollte sich das nicht wiederholen. Mit Unbehagen erinnern sich die Hersteller der Unterhaltungselektronik an die Formatkämpfe der Vergangenheit. Erst verunsicherte man die Verbraucher mit den Videostandards Betamax und VHS, später gab es ein Déjà-vu mit Blu-Ray und HD-DVD.
+Beim ultrascharfen 4K-Fernsehen wollen die Hersteller der TV-Geräte ein solches Durcheinander vermeiden, gilt es doch, die Verbraucher zum Kauf der teuren Fernseher zu verleiten. Aus diesem Grund hat die Branche nun auf der Elektronikmesse <NODE id="655" />CES<NODE id="658" /> in <NODE id="662" />Las Vegas<NODE id="671" /> ein gemeinsames Logo ins Leben gerufen: Ultra HD Premium.
+Die Fehler der Vergangenheit haben bereits im vergangenen Jahr zur Gründung der <NODE id="810" />UHD Alliance<NODE id="822" /> geführt. Die Mitgliederliste liest sich wie das Who's who der Branche: <NODE id="894" />Sony<NODE id="898" />, <NODE id="900" />Samsung<NODE id="907" />, <NODE id="909" />LG<NODE id="911" />, <NODE id="913" />Panasonic<NODE id="922" />, <NODE id="924" />Sky<NODE id="927" />, <NODE id="929" />DirecTV<NODE id="936" />, <NODE id="938" />Netflix<NODE id="945" />, <NODE id="947" />Amazon<NODE id="953" />, D
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/print/welt_kompakt/webwelt/article150713664/Mit-diesen-Abkuerzungen-nerven-uns-die-TV-Hersteller.html@2016-03-10T16:01:32.876+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T15:01:32.876Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T15:01:33.485Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/print/welt_kompakt/webwelt/article150713664/Mit-diesen-Abkuerzungen-nerven-uns-die-TV-Hersteller.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="20" type="person" surface="Thomas Heuzeroth" />
+<Entity id="1" startPos="21" endPos="37" type="person" surface="Thomas Heuzeroth" />
+<Entity id="2" startPos="76" endPos="84" type="organization-company" surface="Facebook" />
+<Entity id="3" startPos="85" endPos="91" type="organization-company" surface="Google" />
+<Entity id="4" startPos="94" endPos="101" type="organization-company" surface="Twitter" />
+<Entity id="5" startPos="655" endPos="658" type="organization" surface="CES" />
+<Entity id="6" startPos="662" endPos="671" type="location-city" surface="Las Vegas" />
+<Entity id="7" startPos="810" endPos="822" type="organization" surface="UHD Alliance" />
+<Entity id="8" startPos="894" endPos="898" type="organization-company" surface="Sony" />
+<Entity id="9" startPos="900" endPos="907" type="organization-company" surface="Samsung" />
+<Entity id="10" startPos="909" endPos="911" type="organization-company" surface="LG" />
+<Entity id="11" startPos="913" endPos="922" type="organization-company" surface="Panasonic" />
+<Entity id="12" startPos="924" endPos="927" type="organization-company" surface="Sky" />
+<Entity id="13" startPos="929" endPos="936" type="organization-company" surface="DirecTV" />
+<Entity id="14" startPos="938" endPos="945" type="organization-company" surface="Netflix" />
+<Entity id="15" startPos="947" endPos="953" type="organization-company" surface="Amazon" /></Entities><Relations />
+</Document>

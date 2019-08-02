@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>© Mediengruppe Kreiszeitung
+<NODE id="28" />Lemförde<NODE id="36" /> - Ein <NODE id="43" />Unfall<NODE id="49" /> auf dem <NODE id="58" />Lemförder<NODE id="67" /> <NODE id="68" />Aldi<NODE id="72" />-Parkplatz beschäftigt die Polizei
+Ein bislang unbekannter Fahrer hat am <NODE id="145" />Dienstag<NODE id="153" /> zwischen <NODE id="163" />8.30<NODE id="167" /> und <NODE id="172" />8.45 Uhr<NODE id="180" />, vermutlich beim Ein- oder Ausparken, einen <NODE id="225" />Ford<NODE id="229" /> Mustang, der auf besagtem Parkplatz an der Burgstraße abgestellt war, beschädigt. Anschließend entfernte sich der Verursacher unerlaubt von der Unfallstelle. Der Schaden beläuft sich auf etwa <NODE id="422" />1000 Euro<NODE id="431" />. Hinweise nimmt die Polizei in Lemförde unter der Telefonnummer <NODE id="496" />05443<NODE id="501" />/<NODE id="502" />2872<NODE id="506" /> entgegen..
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.kreiszeitung.de/lokales/diepholz/schaden-1000-euro-6113191.html?cmp=defrss@2016-02-10T17:41:06.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-10T16:41:06Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:20:11.931Z" />
+<feature featureName="uri" featureValue="http://www.kreiszeitung.de/lokales/diepholz/schaden-1000-euro-6113191.html?cmp=defrss" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="28" endPos="36" type="location-city" surface="Lemförde" />
+<Entity id="1" startPos="43" endPos="49" type="trigger" surface="Unfall" />
+<Entity id="2" startPos="58" endPos="67" type="location" surface="Lemförder" />
+<Entity id="3" startPos="68" endPos="72" type="organization-company" surface="Aldi" />
+<Entity id="4" startPos="145" endPos="153" type="date" surface="Dienstag" />
+<Entity id="5" startPos="163" endPos="167" type="time" surface="8.30" />
+<Entity id="6" startPos="172" endPos="180" type="time" surface="8.45 Uhr" />
+<Entity id="7" startPos="225" endPos="229" type="organization-company" surface="Ford" />
+<Entity id="8" startPos="422" endPos="431" type="number" surface="1000 Euro" />
+<Entity id="9" startPos="496" endPos="501" type="number" surface="05443" />
+<Entity id="10" startPos="502" endPos="506" type="number" surface="2872" /></Entities><Relations>
+<Relation id="11" NAME="Accident">
+<Entity id="0" label="location" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

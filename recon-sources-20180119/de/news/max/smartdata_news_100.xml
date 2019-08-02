@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Blue Fire Co.<NODE id="13" /> startet Herrenlinie
+<NODE id="34" />8. Januar 2016<NODE id="48" /> in Business von <NODE id="65" />Regine Lettow<NODE id="78" />
+Neue Zielgruppe! Das Jeanslabel aus <NODE id="115" />Neuss<NODE id="120" /> erweitert sein Angebot zur <NODE id="148" />Herbst<NODE id="154" />/<NODE id="155" />Wintersaison<NODE id="167" /> um eine Herrenkollektion mit über <NODE id="202" />zehn<NODE id="206" /> Modellen.
+Verwandte Themen: Blue Fire , Menswear , neue Kollektion , <NODE id="276" />Sejour Moden GmbH<NODE id="293" />
+Blue Fire ergänzt seine Damenrange im <NODE id="332" />Herbst<NODE id="338" /> um eine eigene Herrenlinie
+Die <NODE id="370" />Sejour Moden GmbH<NODE id="387" /> erweitert das Spektrum ihres Denimlabels <NODE id="429" />Blue Fire Co.<NODE id="442" /> zur Saison <NODE id="454" />Herbst<NODE id="460" />/<NODE id="461" />Winter 2016<NODE id="472" /> erstmals um eine eigene Herrenlinie. Insgesamt gibt es drei Schnitte: James (Regular Fit), Jacob (Tapered Fit) und Liam (Skinny Fit). Die Farbpalette reicht von Grau über Schwarz bis hin zu Blau. Abgerundet wird das Angebot mit einem Jeanshemd und einer Jeansjacke in schwarz/grauen Waschungen.
+Die Jeans werden allesamt aus einer besonderen Stoffmischung, bestehend aus Lycra, Polyester und Baumwolle gefertig. Die hat den Vorteil, dass das viel Bewegungsfreiheit lässt,
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.fabeau.de/news/blue-fire-co-startet-herrenlinie/@2016-03-10T15:40:45.696+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.fabeau.de/news/blue-fire-co-startet-herrenlinie/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="organization-company" surface="Blue Fire Co." />
+<Entity id="1" startPos="34" endPos="48" type="date" surface="8. Januar 2016" />
+<Entity id="2" startPos="65" endPos="78" type="person" surface="Regine Lettow" />
+<Entity id="3" startPos="115" endPos="120" type="location-city" surface="Neuss" />
+<Entity id="4" startPos="148" endPos="154" type="date" surface="Herbst" />
+<Entity id="5" startPos="155" endPos="167" type="date" surface="Wintersaison" />
+<Entity id="6" startPos="202" endPos="206" type="number" surface="zehn" />
+<Entity id="7" startPos="276" endPos="293" type="organization-company" surface="Sejour Moden GmbH" />
+<Entity id="8" startPos="332" endPos="338" type="date" surface="Herbst" />
+<Entity id="9" startPos="370" endPos="387" type="organization-company" surface="Sejour Moden GmbH" />
+<Entity id="10" startPos="429" endPos="442" type="organization-company" surface="Blue Fire Co." />
+<Entity id="11" startPos="454" endPos="460" type="date" surface="Herbst" />
+<Entity id="12" startPos="461" endPos="472" type="date" surface="Winter 2016" /></Entities><Relations />
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Weil am Rhein<NODE id="13" />:<NODE id="14" /> <NODE id="15" />Tank wird bei <NODE id="29" />Unfall<NODE id="35" /> in <NODE id="39" />Weil am Rhein<NODE id="52" /> aufgerissen |<NODE id="66" /> <NODE id="67" />SÜDKURIER Online<NODE id="83" /> https://t.co/9DcEgYMwgT https://t.co/Lnz5xtTCr5<NODE id="131" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670117530833428481" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-27T05:50:44Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:17:45.728Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="location-city" surface="Weil am Rhein" />
+<Entity id="1" startPos="0" endPos="14" type="sentence" surface="Weil am Rhein:" />
+<Entity id="2" startPos="15" endPos="66" type="sentence" surface="Tank wird bei Unfall in Weil am Rhein aufgerissen |" />
+<Entity id="3" startPos="29" endPos="35" type="trigger" surface="Unfall" />
+<Entity id="4" startPos="39" endPos="52" type="location-city" surface="Weil am Rhein" />
+<Entity id="5" startPos="67" endPos="83" type="organization-company" surface="SÜDKURIER Online" />
+<Entity id="6" startPos="67" endPos="131" type="sentence" surface="SÜDKURIER Online https://t.co/9DcEgYMwgT https://t.co/Lnz5xtTCr5" /></Entities><Relations>
+<Relation id="7" NAME="Accident">
+<Entity id="4" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

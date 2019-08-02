@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-OG<NODE id="6" />: <NODE id="8" />Kuppenheim<NODE id="18" /> - Unfall mit leichtverletzter Person #Polizei https://t.co/Ibw7Rklz0C
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="711990428837531652" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T18:58:41Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T06:49:27.614Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2827914745/status/711990428837531652" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization" surface="POL-OG" />
+<Entity id="1" startPos="8" endPos="18" type="location-city" surface="Kuppenheim" /></Entities><Relations />
+</Document>

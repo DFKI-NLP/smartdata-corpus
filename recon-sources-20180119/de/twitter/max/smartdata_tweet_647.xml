@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />JuleWasabi<NODE id="14" />: Gerade realisiert, dass der <NODE id="44" />15<NODE id="46" />. schon war &amp; ich noch nicht pleite bin. https://t.co/QZmpH6ROSg
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="733412744280592384" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-19T21:43:19Z" />
+<feature featureName="indexDate" featureValue="2016-05-19T21:43:24.039Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="person" surface="JuleWasabi" />
+<Entity id="1" startPos="44" endPos="46" type="date" surface="15" /></Entities><Relations />
+</Document>

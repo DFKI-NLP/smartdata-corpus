@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Vogtlandkreis<NODE id="13" />, <NODE id="15" />K7880<NODE id="20" />, <NODE id="22" />K6680<NODE id="27" /> zwischen <NODE id="37" />Jocketa<NODE id="44" /> und <NODE id="49" />Röttis<NODE id="55" /> <NODE id="56" />Erdrutsch<NODE id="65" />, Aufräumarbeiten, <NODE id="84" />Vollsperrung<NODE id="96" />, ortskundige Autofahrer werden gebeten, das Gebiet weiträumig zu umfahren
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp@2016-01-30T19:30:24.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-30T18:30:24Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T08:27:08.09Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="location" surface="Vogtlandkreis" />
+<Entity id="1" startPos="15" endPos="20" type="location-street" surface="K7880" />
+<Entity id="2" startPos="22" endPos="27" type="location-street" surface="K6680" />
+<Entity id="3" startPos="37" endPos="44" type="location" surface="Jocketa" />
+<Entity id="4" startPos="49" endPos="55" type="location" surface="Röttis" />
+<Entity id="5" startPos="56" endPos="65" type="disaster-type" surface="Erdrutsch" />
+<Entity id="6" startPos="84" endPos="96" type="trigger" surface="Vollsperrung" /></Entities><Relations>
+<Relation id="7" NAME="Disaster">
+<Entity id="0" label="location" />
+<Entity id="5" label="type" />
+</Relation>
+<Relation id="8" NAME="Obstruction">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="2" label="location" />
+<Entity id="6" label="trigger" />
+</Relation></Relations>
+</Document>

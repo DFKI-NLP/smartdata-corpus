@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Kreis Biberach<NODE id="14" />, <NODE id="16" />K7588<NODE id="21" /> zwischen <NODE id="31" />Daugendorf<NODE id="41" /> und <NODE id="46" />Unlingen<NODE id="54" /> in <NODE id="58" />beiden Richtungen<NODE id="75" /> Gefahr durch <NODE id="89" />Hochwasser<NODE id="99" />, Verbindungsfahrbahn <NODE id="121" />gesperrt<NODE id="129" />, eine örtliche Umleitung ist eingerichtet, bis <NODE id="177" />19.04.2016<NODE id="187" /> <NODE id="188" />17:00 Uhr<NODE id="197" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=99f652ac-0c71-4db9-aebc-003834b035d4@2016-04-19T13:29:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-19T11:29:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-19T15:03:29.112Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=99f652ac-0c71-4db9-aebc-003834b035d4" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="location" surface="Kreis Biberach" />
+<Entity id="1" startPos="16" endPos="21" type="location-street" surface="K7588" />
+<Entity id="2" startPos="31" endPos="41" type="location" surface="Daugendorf" />
+<Entity id="3" startPos="46" endPos="54" type="location" surface="Unlingen" />
+<Entity id="4" startPos="58" endPos="75" type="location" surface="beiden Richtungen" />
+<Entity id="5" startPos="89" endPos="99" type="trigger" surface="Hochwasser" />
+<Entity id="6" startPos="121" endPos="129" type="trigger" surface="gesperrt" />
+<Entity id="7" startPos="177" endPos="187" type="date" surface="19.04.2016" />
+<Entity id="8" startPos="188" endPos="197" type="time" surface="17:00 Uhr" /></Entities><Relations>
+<Relation id="9" NAME="Obstruction">
+<Entity id="7" label="end_date" />
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="start_loc" />
+<Entity id="5" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="direction" />
+</Relation></Relations>
+</Document>

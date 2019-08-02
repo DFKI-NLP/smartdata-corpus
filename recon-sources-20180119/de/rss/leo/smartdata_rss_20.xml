@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>1. Aktualisierung <NODE id="18" />Nürnberg<NODE id="26" /> - <NODE id="29" />Bamberg<NODE id="36" />: Notarzteinsatz am Gleis / <NODE id="64" />Schienenersatzverkehr<NODE id="85" /> eingerichtet (Stand <NODE id="106" />24.03.2016<NODE id="116" />, <NODE id="118" />12:45 Uhr<NODE id="127" />)
+<NODE id="129" />KBS820<NODE id="135" />:
+ <NODE id="138" />Nürnberg<NODE id="146" /> - <NODE id="149" />Bamberg<NODE id="156" /> - <NODE id="159" />Lichtenfels<NODE id="170" /> - <NODE id="173" />Sonneberg<NODE id="182" />
+<NODE id="183" />S 1<NODE id="186" />:
+ <NODE id="189" />Hartmannshof<NODE id="201" /> - <NODE id="204" />Nürnberg<NODE id="212" /> - <NODE id="215" />Bamberg<NODE id="222" />
+Meldung:
+ wegen eines Notarzteinsatzes am Gleis ist die <NODE id="279" />Strecke<NODE id="286" /> zwischen <NODE id="296" />Hirschaid<NODE id="305" /> und <NODE id="310" />Forchheim<NODE id="319" /> weiterhin <NODE id="330" />gesperrt<NODE id="338" />. Die S-Bahnen der Linie <NODE id="363" />S 1<NODE id="366" /> aus Richtung <NODE id="380" />Bamberg<NODE id="387" /> verkehren bis <NODE id="402" />Hirschaid<NODE id="411" /> und enden dort vorzeitig. Die <NODE id="442" />S-Bahnen<NODE id="450" /> aus Richtung <NODE id="464" />Hartmannshof<NODE id="476" /> verkehren bis <NODE id="491" />Forchheim<NODE id="500" /> und enden vorzeitig. 
+Die <NODE id="527" />Regionalzüge<NODE id="539" /> aus Richtung <NODE id="553" />Nürnberg<NODE id="561" /> verkehren bis <NODE id="576" />Forchheim<NODE id="585" /> und enden dort vorzeitig. Die <NODE id="616" />Züge<NODE id="620" /> aus Richtung <NODE id="634" />Lichtenfels<NODE id="645" /> verkehren bis <NODE id="660" />Bamberg<NODE id="667" /> und <NODE id="672" />enden vorzeitig<NODE id="687" />. 
+Ein Schienenersatzverkehr mit Bus zwischen <NODE id="733" />Hirschaid<NODE id="742" /> und <NODE id="747" />Forchheim<NODE id="756" /> ist für Sie eingerichtet.
+ 
+ Letzte Aktualisierung: <NODE id="809" />2016-03-24<NODE id="819" /> <NODE id="820" />12:48:41<NODE id="828" />
+ 
+Meldehistorie zu dieser Störung einsehen
+Ältere Meldungen:
+<NODE id="890" />Nürnberg<NODE id="898" /> - <NODE id="901" />Bamberg<NODE id="908" />: No
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://page2rss.com/p/6f38c0bbc2074eacceba1a037104d190_8011153_8013790@2016-03-24T14:50:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://page2rss.com/p/6f38c0bbc2074eacceba1a037104d190_8011153_8013790" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="26" type="location-stop" surface="Nürnberg" />
+<Entity id="1" startPos="29" endPos="36" type="location-stop" surface="Bamberg" />
+<Entity id="2" startPos="64" endPos="85" type="trigger" surface="Schienenersatzverkehr" />
+<Entity id="3" startPos="106" endPos="116" type="date" surface="24.03.2016" />
+<Entity id="4" startPos="118" endPos="127" type="time" surface="12:45 Uhr" />
+<Entity id="5" startPos="129" endPos="135" type="location-route" surface="KBS820" />
+<Entity id="6" startPos="138" endPos="146" type="location-stop" surface="Nürnberg" />
+<Entity id="7" startPos="149" endPos="156" type="location-stop" surface="Bamberg" />
+<Entity id="8" startPos="159" endPos="170" type="location-stop" surface="Lichtenfels" />
+<Entity id="9" startPos="173" endPos="182" type="location-stop" surface="Sonneberg" />
+<Entity id="10" startPos="183" endPos="186" type="location-route" surface="S 1" />
+<Entity id="11" startPos="189" endPos="201" type="location-stop" surface="Hartmannshof" />
+<Entity id="12" startPos="204" endPos="212" type="location-stop" surface="Nürnberg" />
+<Entity id="13" startPos="215" endPos="222" type="location-stop" surface="Bamberg" />
+<Entity id="14" startPos="279" endPos="286" type="location-route" surface="Strecke" />
+<Entity id="15" startPos="296" endPos="305" type="location-stop" surface="Hirschaid" />
+<Entity id="16" startPos="310" endPos="319" type="location-stop" surface="Forchheim" />
+<Entity id="17" startPos="330" endPos="338" type="trigger" surface="gesperrt" />
+<Entity id="18" startPos="363" endPos="366" type="location-route" surface="S 1" />
+<Entity id="19" startPos="380" endPos="387" type="location-stop" surface="Bamberg" />
+<Entity id="20" startPos="402" endPos="411" type="location-stop" surface="Hirschaid" />
+<Entity id="21" startPos="442" endPos="450" type="location-route" surface="S-Bahnen" />
+<Entity id="22" startPos="464" endPos="476" type="location-stop" surface="Hartmannshof" />
+<Entity id="23" startPos="491" endPos="500" type="location-stop" surface="Forchheim" />
+<Entity id="24" startPos="527" endPos="539" type="location-route" surface="Regionalzüge" />
+<Entity id="25" startPos="553" endPos="561" type="location-stop" surface="Nürnberg" />
+<Entity id="26" startPos="576" endPos="585" type="location-stop" surface="Forchheim" />
+<Entity id="27" startPos="616" endPos="620" type="location-route" surface="Züge" />
+<Entity id="28" startPos="634" endPos="645" type="location-stop" surface="Lichtenfels" />
+<Entity id="29" startPos="660" endPos="667" type="location-stop" surface="Bamberg" />
+<Entity id="30" startPos="672" endPos="687" type="trigger" surface="enden vorzeitig" />
+<Entity id="31" startPos="733" endPos="742" type="location-stop" surface="Hirschaid" />
+<Entity id="32" startPos="747" endPos="756" type="location-stop" surface="Forchheim" />
+<Entity id="33" startPos="809" endPos="819" type="date" surface="2016-03-24" />
+<Entity id="34" startPos="820" endPos="828" type="time" surface="12:48:41" />
+<Entity id="35" startPos="890" endPos="898" type="location-stop" surface="Nürnberg" />
+<Entity id="36" startPos="901" endPos="908" type="location-stop" surface="Bamberg" /></Entities><Relations>
+<Relation id="37" NAME="Obstruction">
+<Entity id="16" label="end_loc" />
+<Entity id="15" label="start_loc" />
+<Entity id="14" label="location" />
+<Entity id="17" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>
+        <NODE id="9" />PD Chemnitz<NODE id="20" /> - Mit Waffe bedroht und Geld erbeutet
+      .
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/de/MI_2016_41613.htm@2016-03-17T03:52:53.123+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-17T02:52:53.123Z" />
+<feature featureName="indexDate" featureValue="2016-03-17T02:53:23.115Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/de/MI_2016_41613.htm" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="20" type="organization" surface="PD Chemnitz" /></Entities><Relations />
+</Document>

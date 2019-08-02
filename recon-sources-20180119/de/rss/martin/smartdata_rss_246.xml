@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A40<NODE id="3" /> <NODE id="4" />Essen<NODE id="9" /> Richtung <NODE id="19" />Venlo<NODE id="24" /> zwischen <NODE id="34" />Mülheim<NODE id="41" /> und <NODE id="46" />Duisburg-Homberg<NODE id="62" /> <NODE id="63" />Unfall<NODE id="69" /> <NODE id="70" />9 km<NODE id="74" /> <NODE id="75" />Stau<NODE id="79" /> (Zeitverlust: <NODE id="94" />mehr als eine Dreiviertelstunde<NODE id="125" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#33@2016-02-26T16:00:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-26T15:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:23:33.334Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A40" />
+<Entity id="1" startPos="4" endPos="9" type="location-city" surface="Essen" />
+<Entity id="2" startPos="19" endPos="24" type="location-city" surface="Venlo" />
+<Entity id="3" startPos="34" endPos="41" type="location" surface="Mülheim" />
+<Entity id="4" startPos="46" endPos="62" type="location" surface="Duisburg-Homberg" />
+<Entity id="5" startPos="63" endPos="69" type="trigger" surface="Unfall" />
+<Entity id="6" startPos="70" endPos="74" type="distance" surface="9 km" />
+<Entity id="7" startPos="75" endPos="79" type="trigger" surface="Stau" />
+<Entity id="8" startPos="94" endPos="125" type="duration" surface="mehr als eine Dreiviertelstunde" /></Entities><Relations>
+<Relation id="9" NAME="Accident">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation>
+<Relation id="10" NAME="TrafficJam">
+<Entity id="8" label="delay" />
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="jam_length" />
+<Entity id="7" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

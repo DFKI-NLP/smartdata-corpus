@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Unfall<NODE id="6" />
+Abschnitt: (<NODE id="19" />Berlin<NODE id="25" />)
+Gültig ab: <NODE id="38" />12.03.2016<NODE id="48" /> <NODE id="49" />01:32<NODE id="54" />
+Unfall mit Verletzten, rechter Fahrstreifen gesperrt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_62514@2016-03-12T01:32:43.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-12T00:32:43Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T01:44:23.401Z" />
+<feature featureName="uri" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_62514" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="trigger" surface="Unfall" />
+<Entity id="1" startPos="19" endPos="25" type="location-city" surface="Berlin" />
+<Entity id="2" startPos="38" endPos="48" type="date" surface="12.03.2016" />
+<Entity id="3" startPos="49" endPos="54" type="time" surface="01:32" /></Entities><Relations />
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />tagesspiegel<NODE id="16" />: Kurz vor den #Ferien sind <NODE id="44" />12.000<NODE id="50" /> angestellte Lehrer zum #Streik aufgerufen. https://t.co/VafTZvY2Jr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710180686414667776" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-16T19:07:24Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T15:26:44.271Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="16" type="organization-company" surface="tagesspiegel" />
+<Entity id="1" startPos="44" endPos="50" type="number" surface="12.000" /></Entities><Relations />
+</Document>

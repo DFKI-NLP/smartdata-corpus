@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>von <NODE id="4" />Sonntag, 8. Mai<NODE id="19" />, <NODE id="21" />20.00 Uhr<NODE id="30" /> bis <NODE id="35" />Samstag, 28. Mai<NODE id="51" />, <NODE id="53" />5.45 Uhr<NODE id="61" />
+Meldung:
+Mehrere <NODE id="79" />Nachtzüge<NODE id="88" /> werden zwischen <NODE id="105" />Hamburg-Harburg<NODE id="120" /> und <NODE id="125" />Hannover Hbf<NODE id="137" /> umgeleitet und <NODE id="153" />verspäten<NODE id="162" /> sich um bis zu <NODE id="178" />25 Min<NODE id="184" />. Der Halt in <NODE id="198" />Lüneburg<NODE id="206" /> fällt aus.
+Grund:
+Schwellenauswechslung zwischen <NODE id="256" />Hannover Hbf<NODE id="268" /> und <NODE id="273" />Celle<NODE id="278" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="348" />236<NODE id="351" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#bd50625c63218de688215aceb64d357a4bdc9b92@2016-04-25T09:46:04.932+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-25T07:46:04.932Z" />
+<feature featureName="indexDate" featureValue="2016-04-25T07:47:01.566Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#bd50625c63218de688215aceb64d357a4bdc9b92" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="19" type="date" surface="Sonntag, 8. Mai" />
+<Entity id="1" startPos="21" endPos="30" type="time" surface="20.00 Uhr" />
+<Entity id="2" startPos="35" endPos="51" type="date" surface="Samstag, 28. Mai" />
+<Entity id="3" startPos="53" endPos="61" type="time" surface="5.45 Uhr" />
+<Entity id="4" startPos="79" endPos="88" type="location-route" surface="Nachtzüge" />
+<Entity id="5" startPos="105" endPos="120" type="location-stop" surface="Hamburg-Harburg" />
+<Entity id="6" startPos="125" endPos="137" type="location-stop" surface="Hannover Hbf" />
+<Entity id="7" startPos="153" endPos="162" type="trigger" surface="verspäten" />
+<Entity id="8" startPos="178" endPos="184" type="duration" surface="25 Min" />
+<Entity id="9" startPos="198" endPos="206" type="location-stop" surface="Lüneburg" />
+<Entity id="10" startPos="256" endPos="268" type="location-stop" surface="Hannover Hbf" />
+<Entity id="11" startPos="273" endPos="278" type="location-stop" surface="Celle" />
+<Entity id="12" startPos="348" endPos="351" type="number" surface="236" /></Entities><Relations>
+<Relation id="13" NAME="Delay">
+<Entity id="8" label="delay" />
+<Entity id="6" label="end_loc" />
+<Entity id="5" label="start_loc" />
+<Entity id="4" label="location" />
+<Entity id="7" label="trigger" />
+</Relation></Relations>
+</Document>

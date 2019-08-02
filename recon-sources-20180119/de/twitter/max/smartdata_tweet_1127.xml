@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Pflege-Check: Kann man noch in Würde alt werden? @<NODE id="50" />ZDF<NODE id="53" />-Doku zeigt: So mies steht es um unsere Pflege. https://t.co/WVwVkuflif
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="707484672243142656" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-09T08:34:24Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T01:55:33.978Z" />
+<feature featureName="uri" featureValue="https://twitter.com/9204502/status/707484672243142656" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="50" endPos="53" type="organization-company" surface="ZDF" /></Entities><Relations />
+</Document>

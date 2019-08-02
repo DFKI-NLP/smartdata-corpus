@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Lübbecke<NODE id="8" />
+<NODE id="9" />SuS Holzhausen<NODE id="23" /> holt <NODE id="29" />drei<NODE id="33" /> Punkte
+Vorstoß über die linke Seite: <NODE id="71" />Giovanni Ronzetti<NODE id="88" /> steuerte gestern die <NODE id="110" />1<NODE id="111" />:<NODE id="112" />0<NODE id="113" />-Führung zum <NODE id="126" />Holzhauser<NODE id="136" /> <NODE id="137" />2<NODE id="138" />:<NODE id="139" />0<NODE id="140" />-Heimsieg gegen <NODE id="156" />Windheim<NODE id="164" /> bei. Dabei ließen die Gastgeber einige Chancen ungenutzt.  | © <NODE id="228" />Andreas Gerth<NODE id="241" />
+Aktualisiert am
+<NODE id="258" />13.03.2016<NODE id="268" />, <NODE id="270" />21:04 Uhr<NODE id="279" />
+Pr. Oldendorf <NODE id="294" />SuS Holzhausen<NODE id="308" /> holt <NODE id="314" />drei<NODE id="318" /> Punkte
+Fußball-Bezirksliga: <NODE id="347" />SuS Holzhausen<NODE id="361" /> verbucht im Heimspiel gegen den Tabellenletzten <NODE id="410" />Windheim<NODE id="418" /> einen Pflichtsieg und die Saisonpunkte <NODE id="458" />25<NODE id="460" /> bis <NODE id="465" />27<NODE id="467" />. Ronzetti und Koch treffen. <NODE id="496" />Bohlmann<NODE id="504" /> nicht zufrieden
+<NODE id="521" />Pr. Oldendorf-Bad Holzhausen<NODE id="549" />. Kein Offensivfeuerwerk wie gegen <NODE id="584" />Varl<NODE id="588" /> und <NODE id="593" />Union Minden<NODE id="605" /> abgebrannt, aber erneut <NODE id="630" />drei<NODE id="634" /> Punkte geholt: Der <NODE id="654" />SuS Holzhausen<NODE id="668" /> hat gestern Nachmittag auf eigenem Platz die Pflichtaufgabe gegen den abgeschlagenen Tabellenletzten <NODE id="770" />TuS Windheim<NODE id="782" /> erfolgreich gelöst und mit einem <NODE id="816" />2<NODE id="817" />:<NODE id="818" />0<NODE id="819" /> (<NODE id="821" />1<NODE id="822" />:<NODE id="823" />0<NODE id="824" />)-Heimsieg den <NODE id="839" />dritten<NODE id="846" /> <NODE id="847" />Dreier<NODE id="853" /> in Folge eingefahren.
+Gleichzeitig haben sich die <NODE id="904" />Holzhauser<NODE id="914" /> mit nunmehr <NODE id="927" />27<NODE id="929" /> Punkten in eine vielv
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nw.de/sport/kreis_minden_luebbecke/luebbecke/20737129_SuS-Holzhausen-holt-drei-Punkte.html@2016-03-14T08:44:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T07:44:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:44:06.699Z" />
+<feature featureName="uri" featureValue="http://www.nw.de/sport/kreis_minden_luebbecke/luebbecke/20737129_SuS-Holzhausen-holt-drei-Punkte.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-city" surface="Lübbecke" />
+<Entity id="1" startPos="9" endPos="23" type="organization" surface="SuS Holzhausen" />
+<Entity id="2" startPos="29" endPos="33" type="number" surface="drei" />
+<Entity id="3" startPos="71" endPos="88" type="person" surface="Giovanni Ronzetti" />
+<Entity id="4" startPos="110" endPos="111" type="number" surface="1" />
+<Entity id="5" startPos="112" endPos="113" type="number" surface="0" />
+<Entity id="6" startPos="126" endPos="136" type="organization" surface="Holzhauser" />
+<Entity id="7" startPos="137" endPos="138" type="number" surface="2" />
+<Entity id="8" startPos="139" endPos="140" type="number" surface="0" />
+<Entity id="9" startPos="156" endPos="164" type="organization" surface="Windheim" />
+<Entity id="10" startPos="228" endPos="241" type="person" surface="Andreas Gerth" />
+<Entity id="11" startPos="258" endPos="268" type="date" surface="13.03.2016" />
+<Entity id="12" startPos="270" endPos="279" type="time" surface="21:04 Uhr" />
+<Entity id="13" startPos="294" endPos="308" type="organization" surface="SuS Holzhausen" />
+<Entity id="14" startPos="314" endPos="318" type="date" surface="drei" />
+<Entity id="15" startPos="347" endPos="361" type="organization" surface="SuS Holzhausen" />
+<Entity id="16" startPos="410" endPos="418" type="organization" surface="Windheim" />
+<Entity id="17" startPos="458" endPos="460" type="number" surface="25" />
+<Entity id="18" startPos="465" endPos="467" type="number" surface="27" />
+<Entity id="19" startPos="496" endPos="504" type="person" surface="Bohlmann" />
+<Entity id="20" startPos="521" endPos="549" type="location" surface="Pr. Oldendorf-Bad Holzhausen" />
+<Entity id="21" startPos="584" endPos="588" type="organization" surface="Varl" />
+<Entity id="22" startPos="593" endPos="605" type="organization" surface="Union Minden" />
+<Entity id="23" startPos="630" endPos="634" type="number" surface="drei" />
+<Entity id="24" startPos="654" endPos="668" type="organization" surface="SuS Holzhausen" />
+<Entity id="25" startPos="770" endPos="782" type="organization" surface="TuS Windheim" />
+<Entity id="26" startPos="816" endPos="817" type="number" surface="2" />
+<Entity id="27" startPos="818" endPos="819" type="number" surface="0" />
+<Entity id="28" startPos="821" endPos="822" type="number" surface="1" />
+<Entity id="29" startPos="823" endPos="824" type="number" surface="0" />
+<Entity id="30" startPos="839" endPos="846" type="number" surface="dritten" />
+<Entity id="31" startPos="847" endPos="853" type="number" surface="Dreier" />
+<Entity id="32" startPos="904" endPos="914" type="organization" surface="Holzhauser" />
+<Entity id="33" startPos="927" endPos="929" type="number" surface="27" /></Entities><Relations />
+</Document>

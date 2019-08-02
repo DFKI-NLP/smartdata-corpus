@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @exprofis: Damit #<NODE id="21" />Tornado<NODE id="28" /> - Bodenkontakt wahrscheinlich <NODE id="59" />bestätigt<NODE id="68" /> für #<NODE id="74" />Hamburg<NODE id="81" /> #Twitternwiekachelmann https://t.co/BTkrYyH3qG
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743904336447684609" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T20:33:09Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T20:33:20.079Z" />
+<feature featureName="uri" featureValue="https://twitter.com/niiio hd/status/743904336447684609" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="21" endPos="28" type="disaster-type" surface="Tornado" />
+<Entity id="1" startPos="59" endPos="68" type="trigger" surface="bestätigt" />
+<Entity id="2" startPos="74" endPos="81" type="location-city" surface="Hamburg" /></Entities><Relations>
+<Relation id="3" NAME="Disaster">
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+<Entity id="0" label="type" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A72<NODE id="3" /> <NODE id="4" />Zwickau<NODE id="11" /> Richtung <NODE id="21" />Hof<NODE id="24" /> zwischen <NODE id="34" />Plauen-Ost<NODE id="44" /> und <NODE id="49" />Plauen-Süd<NODE id="59" />
+Fahrstreifensperrung wieder aufgehoben
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp@2016-04-01T08:28:09.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-01T06:28:09Z" />
+<feature featureName="indexDate" featureValue="2016-04-01T06:43:23.156Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A72" />
+<Entity id="1" startPos="4" endPos="11" type="location-city" surface="Zwickau" />
+<Entity id="2" startPos="21" endPos="24" type="location-city" surface="Hof" />
+<Entity id="3" startPos="34" endPos="44" type="location" surface="Plauen-Ost" />
+<Entity id="4" startPos="49" endPos="59" type="location" surface="Plauen-Süd" /></Entities><Relations />
+</Document>

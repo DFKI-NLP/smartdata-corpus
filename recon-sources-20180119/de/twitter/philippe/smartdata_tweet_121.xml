@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />rpo<NODE id="7" />_panorama: Komplize der #<NODE id="32" />Paris<NODE id="37" />-Attentäter: #<NODE id="51" />Belgien<NODE id="58" /> startet Fahndung nach <NODE id="81" />Mohamed #Abrini<NODE id="96" /> https://t.co/Yt4T3uzCWF
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669217790671351809" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="organization-company" surface="rpo" />
+<Entity id="1" startPos="32" endPos="37" type="location-city" surface="Paris" />
+<Entity id="2" startPos="51" endPos="58" type="location" surface="Belgien" />
+<Entity id="3" startPos="81" endPos="96" type="person" surface="Mohamed #Abrini" /></Entities><Relations />
+</Document>

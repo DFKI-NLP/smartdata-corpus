@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Frau in der Bahn mir gegenüber liest den Spinoff (!) von <NODE id="57" />50<NODE id="59" /> Shades of Grey (!!!). Ihre Augenbrauen sind lediglich Striche. I don't even...
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="659422187544252416" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="57" endPos="59" type="number" surface="50" /></Entities><Relations />
+</Document>

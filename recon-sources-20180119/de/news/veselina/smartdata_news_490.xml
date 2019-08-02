@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Neue Version der Password-Self-Service-Lösung entspricht höchsten Sicherheitsstandards<NODE id="86" />
+<NODE id="87" />Software nach höchsten Standards auditiert<NODE id="129" />
+<NODE id="130" />Neue Version der Password-Self-Service-Lösung entspricht höchsten Sicherheitsstandards<NODE id="216" />
+<NODE id="217" />Bergisch Gladbach<NODE id="234" />, 11. Januar 2016 -<NODE id="253" /> <NODE id="254" />Tools4ever<NODE id="264" />, führender Anbieter im Bereich Identity Governance &amp; Administration (IGA), bringt eine komplett erneuerte Version von <NODE id="383" />Self Service Reset Password Management (SSRPM)<NODE id="429" /> auf den Markt.<NODE id="444" /> <NODE id="445" />Dazu gehört eine vollständige GUI-Neukonzeption, wodurch die Benutzer von einer neuen intuitiven Web-Oberfläche und einem Desktop Client profitieren.<NODE id="594" /> <NODE id="595" />Außerdem bietet SSRPM nun auch während der Registrierung des Benutzers eine Zwei-Faktor Re-authentifizierung: der Benutzer muss während des Registrierungsprozesses einen per E-Mail oder SMS zugesandten PIN-Code eingeben und sich so authentifizieren.<NODE id="844" /> <NODE id="845" />Die neueste Lösung für Passwort-Resets wurde von einem renom<NODE id="905" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.news4press.com/Neue-Version-der-Password-Self-Service-L_922037.html@2016-03-10T15:13:58.739+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:13:58.739Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:14:03.484Z" />
+<feature featureName="uri" featureValue="http://www.news4press.com/Neue-Version-der-Password-Self-Service-L_922037.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="86" type="sentence" surface="Neue Version der Password-Self-Service-Lösung entspricht höchsten Sicherheitsstandards" />
+<Entity id="1" startPos="87" endPos="129" type="sentence" surface="Software nach höchsten Standards auditiert" />
+<Entity id="2" startPos="130" endPos="216" type="sentence" surface="Neue Version der Password-Self-Service-Lösung entspricht höchsten Sicherheitsstandards" />
+<Entity id="3" startPos="217" endPos="234" type="location-city" surface="Bergisch Gladbach" />
+<Entity id="4" startPos="217" endPos="253" type="sentence" surface="Bergisch Gladbach, 11. Januar 2016 -" />
+<Entity id="5" startPos="254" endPos="264" type="organization-company" surface="Tools4ever" />
+<Entity id="6" startPos="254" endPos="444" type="sentence" surface="Tools4ever, führender Anbieter im Bereich Identity Governance &amp; Administration (IGA), bringt eine komplett erneuerte Version von Self Service Reset Password Management (SSRPM) auf den Markt." />
+<Entity id="7" startPos="383" endPos="429" type="product" surface="Self Service Reset Password Management (SSRPM)" />
+<Entity id="8" startPos="445" endPos="594" type="sentence" surface="Dazu gehört eine vollständige GUI-Neukonzeption, wodurch die Benutzer von einer neuen intuitiven Web-Oberfläche und einem Desktop Client profitieren." />
+<Entity id="9" startPos="595" endPos="844" type="sentence" surface="Außerdem bietet SSRPM nun auch während der Registrierung des Benutzers eine Zwei-Faktor Re-authentifizierung: der Benutzer muss während des Registrierungsprozesses einen per E-Mail oder SMS zugesandten PIN-Code eingeben und sich so authentifizieren." />
+<Entity id="10" startPos="845" endPos="905" type="sentence" surface="Die neueste Lösung für Passwort-Resets wurde von einem renom" /></Entities><Relations>
+<Relation id="11" NAME="CompanyProvidesProduct">
+<Entity id="7" label="product" />
+<Entity id="5" label="company" />
+</Relation></Relations>
+</Document>

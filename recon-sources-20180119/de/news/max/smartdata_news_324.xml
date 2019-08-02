@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Mopedfahrer bei <NODE id="16" />Unfall<NODE id="22" /> in <NODE id="26" />Bad Elster<NODE id="36" /> schwer verletzt
+<NODE id="53" />Mittwoch<NODE id="61" />, <NODE id="63" />30.12.2015<NODE id="73" />
+Mopedfahrer bei <NODE id="90" />Unfall<NODE id="96" /> in <NODE id="100" />Bad Elster<NODE id="110" /> schwer verletzt
+<NODE id="127" />Bad Elster<NODE id="137" />. Ein <NODE id="143" />15-Jähriger<NODE id="154" /> ist in<NODE id="161" /> Bad Elster<NODE id="172" /> (<NODE id="174" />Vogtlandkreis<NODE id="187" />) mit seinem Moped auf ein Auto <NODE id="219" />aufgefahren<NODE id="230" /> und schwer verletzt worden.
+Der Jugendliche bemerkte zu spät, dass der Wagen vor ihm anhielt, wie die Polizei in <NODE id="344" />Zwickau<NODE id="351" /> am <NODE id="355" />Mittwoch<NODE id="363" /> mitteilte. Er fuhr daraufhin am <NODE id="396" />Dienstag<NODE id="404" /> in das Heck des Autos und stürzte. Mit schweren Verletzungen wurde der <NODE id="476" />15-Jährige<NODE id="486" /> ins Krankenhaus gebracht.
+zur Startseite
+Drucken Empfehlen Ihre Mitteilung an uns
+Empfehlung - Mopedfahrer bei <NODE id="598" />Unfall<NODE id="604" /> in <NODE id="608" />Bad Elster <NODE id="619" />schwer verletzt
+<NODE id="635" />Bad Elster<NODE id="645" />. Ein <NODE id="651" />15-Jähriger<NODE id="662" /> ist in <NODE id="670" />Bad Elster<NODE id="680" /> (<NODE id="682" />Vogtlandkreis<NODE id="695" />) mit seinem Moped auf ein Auto <NODE id="727" />aufgefahren<NODE id="738" /> und schwer verletzt worden.(...)   Link zum Artikel:  http://www.sz-online.de/sachsen/mopedfahrer-bei-unfall-in-bad-elster-schwer-verletzt-3286190.html
+E-Mail-Versand
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.sz-online.de/sachsen/mopedfahrer-bei-unfall-in-bad-elster-schwer-verletzt-3286190.html@2016-03-10T15:25:42.802+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:25:42.802Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:25:52.858Z" />
+<feature featureName="uri" featureValue="http://www.sz-online.de/sachsen/mopedfahrer-bei-unfall-in-bad-elster-schwer-verletzt-3286190.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="22" type="trigger" surface="Unfall" />
+<Entity id="1" startPos="26" endPos="36" type="location-city" surface="Bad Elster" />
+<Entity id="2" startPos="53" endPos="61" type="date" surface="Mittwoch" />
+<Entity id="3" startPos="63" endPos="73" type="date" surface="30.12.2015" />
+<Entity id="4" startPos="90" endPos="96" type="trigger" surface="Unfall" />
+<Entity id="5" startPos="100" endPos="110" type="location-city" surface="Bad Elster" />
+<Entity id="6" startPos="127" endPos="137" type="location-city" surface="Bad Elster" />
+<Entity id="7" startPos="143" endPos="154" type="number" surface="15-Jähriger" />
+<Entity id="8" startPos="161" endPos="172" type="location-city" surface=" Bad Elster" />
+<Entity id="9" startPos="174" endPos="187" type="location" surface="Vogtlandkreis" />
+<Entity id="10" startPos="219" endPos="230" type="trigger" surface="aufgefahren" />
+<Entity id="11" startPos="344" endPos="351" type="location-city" surface="Zwickau" />
+<Entity id="12" startPos="355" endPos="363" type="date" surface="Mittwoch" />
+<Entity id="13" startPos="396" endPos="404" type="date" surface="Dienstag" />
+<Entity id="14" startPos="476" endPos="486" type="number" surface="15-Jährige" />
+<Entity id="15" startPos="598" endPos="604" type="trigger" surface="Unfall" />
+<Entity id="16" startPos="608" endPos="619" type="location-city" surface="Bad Elster " />
+<Entity id="17" startPos="635" endPos="645" type="location-city" surface="Bad Elster" />
+<Entity id="18" startPos="651" endPos="662" type="number" surface="15-Jähriger" />
+<Entity id="19" startPos="670" endPos="680" type="location-city" surface="Bad Elster" />
+<Entity id="20" startPos="682" endPos="695" type="location" surface="Vogtlandkreis" />
+<Entity id="21" startPos="727" endPos="738" type="trigger" surface="aufgefahren" /></Entities><Relations>
+<Relation id="22" NAME="Accident">
+<Entity id="1" label="location" />
+<Entity id="0" label="trigger" />
+</Relation>
+<Relation id="23" NAME="Accident">
+<Entity id="5" label="location" />
+<Entity id="4" label="trigger" />
+</Relation>
+<Relation id="24" NAME="Accident">
+<Entity id="8" label="location" />
+<Entity id="10" label="trigger" />
+</Relation>
+<Relation id="25" NAME="Accident">
+<Entity id="16" label="location" />
+<Entity id="15" label="trigger" />
+</Relation>
+<Relation id="26" NAME="Accident">
+<Entity id="19" label="location" />
+<Entity id="21" label="trigger" />
+</Relation></Relations>
+</Document>

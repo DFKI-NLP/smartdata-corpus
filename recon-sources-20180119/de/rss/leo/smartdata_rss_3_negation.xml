@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A5<NODE id="2" /> <NODE id="3" />Karlsruhe<NODE id="12" /> Richtung <NODE id="22" />Heidelberg<NODE id="32" /> zwischen <NODE id="42" />Karlsruhe-Nord<NODE id="56" /> und <NODE id="61" />Bruchsal<NODE id="69" /> <NODE id="70" />Unfallstelle<NODE id="82" /> geräumt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=19e16851-9c4c-4133-9f15-475b0497fed3@2016-04-07T23:42:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=19e16851-9c4c-4133-9f15-475b0497fed3" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A5" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Karlsruhe" />
+<Entity id="2" startPos="22" endPos="32" type="location-city" surface="Heidelberg" />
+<Entity id="3" startPos="42" endPos="56" type="location" surface="Karlsruhe-Nord" />
+<Entity id="4" startPos="61" endPos="69" type="location" surface="Bruchsal" />
+<Entity id="5" startPos="70" endPos="82" type="trigger" surface="Unfallstelle" /></Entities><Relations />
+</Document>

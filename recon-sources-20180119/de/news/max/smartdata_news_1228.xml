@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />E.ON<NODE id="4" /> bringt <NODE id="12" />Tochter<NODE id="19" /> <NODE id="20" />Uniper<NODE id="26" /> im <NODE id="30" />September<NODE id="39" /> an die Börse
+Aktien Vor <NODE id="64" />8 Minuten<NODE id="73" />
+© Reuters. The flag of <NODE id="97" />Uniper<NODE id="103" /> flutters in <NODE id="116" />Duesseldorf<NODE id="127" />
+<NODE id="128" />Düsseldorf<NODE id="138" /> (<NODE id="140" />Reuters<NODE id="147" />) - <NODE id="151" />E.ON<NODE id="155" />-<NODE id="156" />Chef<NODE id="160" /> <NODE id="161" />Johannes Teyssen<NODE id="177" /> treibt den Börsengang der <NODE id="204" />Kraftwerkstochter<NODE id="221" /> <NODE id="222" />Uniper<NODE id="228" /> voran.
+Die Notierung sei im <NODE id="257" />September<NODE id="266" /> geplant, kündigte <NODE id="285" />der Manager<NODE id="296" /> am <NODE id="300" />Mittwoch<NODE id="308" /> an. Klagen gegen die Pläne zur Abspaltung der Tochter habe es nicht gegeben. <NODE id="386" />Der Energieriese<NODE id="402" /> will <NODE id="408" />53 Prozent<NODE id="418" /> der <NODE id="423" />Uniper<NODE id="429" />-Anteile an die Börse bringen und den eigenen Aktionären ins Depot buchen. <NODE id="504" />Teyssen<NODE id="511" /> hatte das Geschäft mit Kohle- und Gaskraftwerken sowie dem Energiehandel Anfang des Jahres in die neue Gesellschaft abgespalten. <NODE id="641" />E.ON<NODE id="645" /> (DE: <NODE id="651" />EONGn<NODE id="656" /> ) selbst will sich auf Ökostrom konzentrieren. Das Management verspricht sich von dem Schritt ein schärferes Profil für beide Gesellschaften, das neue Investoren anlocken soll.
+Für <NODE id="838" />Uniper<NODE id="844" /> öffnet sich damit der Weg in eine eigene Zukunft als selbstständiges Unternehmen, das mit einer fok
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://de.investing.com/news/aktienmarkt-nachrichten/e.on-bringt-tochter-uniper-im-september-an-die-b%C3%B6rse-404844@2016-07-20T10:47:27.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-20T08:47:27Z" />
+<feature featureName="indexDate" featureValue="2016-07-20T09:43:19.001Z" />
+<feature featureName="uri" featureValue="http://de.investing.com/news/aktienmarkt-nachrichten/e.on-bringt-tochter-uniper-im-september-an-die-b%C3%B6rse-404844" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="organization-company" surface="E.ON" />
+<Entity id="1" startPos="12" endPos="19" type="trigger" surface="Tochter" />
+<Entity id="2" startPos="20" endPos="26" type="organization-company" surface="Uniper" />
+<Entity id="3" startPos="30" endPos="39" type="date" surface="September" />
+<Entity id="4" startPos="64" endPos="73" type="duration" surface="8 Minuten" />
+<Entity id="5" startPos="97" endPos="103" type="organization-company" surface="Uniper" />
+<Entity id="6" startPos="116" endPos="127" type="location-city" surface="Duesseldorf" />
+<Entity id="7" startPos="128" endPos="138" type="location-city" surface="Düsseldorf" />
+<Entity id="8" startPos="140" endPos="147" type="organization-company" surface="Reuters" />
+<Entity id="9" startPos="151" endPos="155" type="organization-company" surface="E.ON" />
+<Entity id="10" startPos="156" endPos="160" type="org-position" surface="Chef" />
+<Entity id="11" startPos="161" endPos="177" type="person" surface="Johannes Teyssen" />
+<Entity id="12" startPos="204" endPos="221" type="trigger" surface="Kraftwerkstochter" />
+<Entity id="13" startPos="222" endPos="228" type="organization-company" surface="Uniper" />
+<Entity id="14" startPos="257" endPos="266" type="date" surface="September" />
+<Entity id="15" startPos="285" endPos="296" type="person" surface="der Manager" />
+<Entity id="16" startPos="300" endPos="308" type="date" surface="Mittwoch" />
+<Entity id="17" startPos="386" endPos="402" type="organization-company" surface="Der Energieriese" />
+<Entity id="18" startPos="408" endPos="418" type="number" surface="53 Prozent" />
+<Entity id="19" startPos="423" endPos="429" type="organization-company" surface="Uniper" />
+<Entity id="20" startPos="504" endPos="511" type="person" surface="Teyssen" />
+<Entity id="21" startPos="641" endPos="645" type="organization-company" surface="E.ON" />
+<Entity id="22" startPos="651" endPos="656" type="organization-company" surface="EONGn" />
+<Entity id="23" startPos="838" endPos="844" type="organization-company" surface="Uniper" /></Entities><Relations>
+<Relation id="24" NAME="CompanyRelationship">
+<Entity id="0" label="parent" />
+<Entity id="1" label="trigger" />
+<Entity id="2" label="child" />
+</Relation>
+<Relation id="25" NAME="CompanyRelationship">
+<Entity id="9" label="parent" />
+<Entity id="12" label="trigger" />
+<Entity id="13" label="child" />
+</Relation>
+<Relation id="26" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="17" label="target" />
+</Relation>
+<Relation id="27" NAME="Identity">
+<Entity id="11" label="source" />
+<Entity id="20" label="target" />
+<Entity id="15" label="target" />
+</Relation>
+<Relation id="28" NAME="OrganizationLeadership">
+<Entity id="11" label="person" />
+<Entity id="9" label="organization" />
+<Entity id="10" label="position" />
+</Relation></Relations>
+</Document>

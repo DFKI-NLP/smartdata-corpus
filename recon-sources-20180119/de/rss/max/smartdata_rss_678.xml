@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Stuttgart<NODE id="9" /> - <NODE id="12" />Ulm<NODE id="15" /> zwischen <NODE id="25" />Hedelfingen<NODE id="36" /> in <NODE id="40" />Stuttgart-Hedelfingen<NODE id="61" /> und <NODE id="66" />Mettingen<NODE id="75" /> in <NODE id="79" />beiden Richtungen<NODE id="96" /> Gefahr durch Personen auf der Fahrbahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=a884a4c4-2ade-49a5-a972-02be8798a63e@2016-02-27T11:54:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-27T10:54:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T07:45:06.146Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=a884a4c4-2ade-49a5-a972-02be8798a63e" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Stuttgart" />
+<Entity id="1" startPos="12" endPos="15" type="location-city" surface="Ulm" />
+<Entity id="2" startPos="25" endPos="36" type="location" surface="Hedelfingen" />
+<Entity id="3" startPos="40" endPos="61" type="location" surface="Stuttgart-Hedelfingen" />
+<Entity id="4" startPos="66" endPos="75" type="location" surface="Mettingen" />
+<Entity id="5" startPos="79" endPos="96" type="location" surface="beiden Richtungen" /></Entities><Relations />
+</Document>

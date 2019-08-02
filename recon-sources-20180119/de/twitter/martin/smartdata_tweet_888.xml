@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />25.06.2016<NODE id="10" /> » Strab <NODE id="19" />11<NODE id="21" />, <NODE id="23" />12<NODE id="25" />, <NODE id="27" />Ebbel-Ex<NODE id="35" /> » Straßenbahnen werden wegen <NODE id="65" />Parade der Kulturen<NODE id="84" /> <NODE id="85" />umgeleitet<NODE id="95" /> https://t.co/Fu1k3BZyqt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745954707470852097" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-23T12:20:36Z" />
+<feature featureName="indexDate" featureValue="2016-06-27T08:50:29.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/1408378098/status/745954707470852097" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="25.06.2016" />
+<Entity id="1" startPos="19" endPos="21" type="location-route" surface="11" />
+<Entity id="2" startPos="23" endPos="25" type="location-route" surface="12" />
+<Entity id="3" startPos="27" endPos="35" type="location-route" surface="Ebbel-Ex" />
+<Entity id="4" startPos="65" endPos="84" type="trigger" surface="Parade der Kulturen" />
+<Entity id="5" startPos="85" endPos="95" type="trigger" surface="umgeleitet" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="4" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="2" label="location" />
+<Entity id="3" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="0" label="start_date" />
+</Relation></Relations>
+</Document>

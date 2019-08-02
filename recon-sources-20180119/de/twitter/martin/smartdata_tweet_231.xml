@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Entlassungen<NODE id="12" /> bei der <NODE id="21" />Deutschen Bahn<NODE id="35" />: <NODE id="37" />Bund<NODE id="41" /> in der Pflicht? #<NODE id="59" />Berlin<NODE id="65" /> https://t.co/go6OPxaZOP
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="656432906353680384" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-20T11:32:55Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T04:06:45.73Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="trigger" surface="Entlassungen" />
+<Entity id="1" startPos="21" endPos="35" type="organization-company" surface="Deutschen Bahn" />
+<Entity id="2" startPos="37" endPos="41" type="organization" surface="Bund" />
+<Entity id="3" startPos="59" endPos="65" type="location-city" surface="Berlin" /></Entities><Relations>
+<Relation id="4" NAME="Layoffs">
+<Entity id="1" label="company" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

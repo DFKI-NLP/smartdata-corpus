@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />SNI-Nord Regaltechnik GmbH <NODE id="27" />vergleicht Reparatur mit Austausch
+(<NODE id="63" />PresseBox<NODE id="72" />) (<NODE id="75" />Wildeshausen<NODE id="87" />,
+<NODE id="89" />11.01.2016<NODE id="99" />
+) Jeder Lagerbetreiber kennt das Problem: Die Regalanlagen zeigen schnell erste Makel, Hubwagen und Stapler sorgen für Schäden. Die Sicherheit der Mitarbeiter ist gefährdet und auch die Ware ist vor Beschädigungen nicht geschützt. Frei nach dem Motto „the show must go on“ dürfen die Arbeitsabläufe nicht darunter leiden, trotzdem soll alles schnell und unkompliziert vonstattengehen. Die <NODE id="489" />SNI-Nord Regaltechnik GmbH<NODE id="515" /> überprüft herstellerunabhängig Regalanlagen und führt eine Inspektion durch. Dabei entscheidet sich, ob eine Reparatur oder doch ein kompletter Austausch der Regalanlagen von Vorteil ist. „Ein Austausch ist definitiv zeitintensiver, trotz allem ist er nicht oft vonnöten. Eine Reparatur reicht häufig aus“, sagt Nils Schulze, Geschäftsführer der <NODE id="862" />SNI Regaltechnik<NODE id="878" />.
+Austausch: Pro und Contra
+Ein kompletter Austausch der Regalanlag
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.pressebox.de/pressemitteilung/sni-nord-regaltechnik-gmbh/System-versus-Aufwand/boxid/772868@2016-03-10T15:14:08.326+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:14:08.326Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:14:13.318Z" />
+<feature featureName="uri" featureValue="http://www.pressebox.de/pressemitteilung/sni-nord-regaltechnik-gmbh/System-versus-Aufwand/boxid/772868" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="27" type="organization-company" surface="SNI-Nord Regaltechnik GmbH " />
+<Entity id="1" startPos="63" endPos="72" type="organization-company" surface="PresseBox" />
+<Entity id="2" startPos="75" endPos="87" type="location-city" surface="Wildeshausen" />
+<Entity id="3" startPos="89" endPos="99" type="date" surface="11.01.2016" />
+<Entity id="4" startPos="489" endPos="515" type="organization-company" surface="SNI-Nord Regaltechnik GmbH" />
+<Entity id="5" startPos="862" endPos="878" type="organization-company" surface="SNI Regaltechnik" /></Entities><Relations />
+</Document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-DH<NODE id="6" />: +++ <NODE id="12" />Sulingen<NODE id="20" /> - LKW verunfallt +++ <NODE id="42" />Diepholz<NODE id="50" /> - Einbruch in Garage +++ Einbruch in Bus +++
+<NODE id="96" />05.02.2016<NODE id="106" /> – <NODE id="109" />11:13<NODE id="114" />
+<NODE id="115" />Diepholz<NODE id="123" /> (<NODE id="125" />ots<NODE id="128" />) - +++ <NODE id="136" />Sulingen<NODE id="144" /> - LKW verunfallt +++
+Ein <NODE id="170" />39-jähriger<NODE id="181" /> LKW-Fahrer fuhr am Donnerstagabend gegen <NODE id="223" />18:30 Uhr<NODE id="232" /> auf der <NODE id="241" />B214<NODE id="245" /> in Richtung <NODE id="258" />Sulingen<NODE id="266" />. Im Bereich der <NODE id="283" />Südumgehung<NODE id="294" /> kam er aus bislang ungeklärter Ursache von der Straße ab und landete im Seitenraum. Verletzt wurde niemand. Es entstanden jedoch Sachschäden am LKW und an dessen Ladung. Das Gespann war nicht mehr fahrbereit und musste abgeschleppt werden. Für die <NODE id="543" />Bergungsarbeiten<NODE id="559" /> musste die <NODE id="571" />B214<NODE id="575" /> am Abend zeitweise <NODE id="595" />gesperrt<NODE id="603" /> werden.
++++ <NODE id="616" />Diepholz<NODE id="624" /> - Einbruch in Garage +++
+Unbekannte Täter brachen in der Nacht von <NODE id="692" />Mittwoch<NODE id="700" />, <NODE id="702" />18:00 Uhr<NODE id="711" />, auf <NODE id="717" />Donnerstag<NODE id="727" />, <NODE id="729" />08:00 Uhr<NODE id="738" />, in eine Garage des Waschcenters in der <NODE id="779" />Kruppstraße<NODE id="790" /> ein. Anschließend entwendeten sie daraus diverse Auto-Radsätze. Der Schaden dürfte bei ca. <NODE id="882" />60.000 Euro<NODE id="893" /> liegen. Auf
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.presseportal.de/blaulicht/pm/68439/3244082@2016-02-05T11:49:59.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-05T10:49:59Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:11:23.427Z" />
+<feature featureName="uri" featureValue="http://www.presseportal.de/blaulicht/pm/68439/3244082" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization" surface="POL-DH" />
+<Entity id="1" startPos="12" endPos="20" type="location-city" surface="Sulingen" />
+<Entity id="2" startPos="42" endPos="50" type="location-city" surface="Diepholz" />
+<Entity id="3" startPos="96" endPos="106" type="date" surface="05.02.2016" />
+<Entity id="4" startPos="109" endPos="114" type="time" surface="11:13" />
+<Entity id="5" startPos="115" endPos="123" type="location-city" surface="Diepholz" />
+<Entity id="6" startPos="125" endPos="128" type="organization-company" surface="ots" />
+<Entity id="7" startPos="136" endPos="144" type="location-city" surface="Sulingen" />
+<Entity id="8" startPos="170" endPos="181" type="duration" surface="39-jähriger" />
+<Entity id="9" startPos="223" endPos="232" type="time" surface="18:30 Uhr" />
+<Entity id="10" startPos="241" endPos="245" type="location-street" surface="B214" />
+<Entity id="11" startPos="258" endPos="266" type="location-city" surface="Sulingen" />
+<Entity id="12" startPos="283" endPos="294" type="location-city" surface="Südumgehung" />
+<Entity id="13" startPos="543" endPos="559" type="trigger" surface="Bergungsarbeiten" />
+<Entity id="14" startPos="571" endPos="575" type="location-street" surface="B214" />
+<Entity id="15" startPos="595" endPos="603" type="trigger" surface="gesperrt" />
+<Entity id="16" startPos="616" endPos="624" type="location-city" surface="Diepholz" />
+<Entity id="17" startPos="692" endPos="700" type="date" surface="Mittwoch" />
+<Entity id="18" startPos="702" endPos="711" type="time" surface="18:00 Uhr" />
+<Entity id="19" startPos="717" endPos="727" type="date" surface="Donnerstag" />
+<Entity id="20" startPos="729" endPos="738" type="time" surface="08:00 Uhr" />
+<Entity id="21" startPos="779" endPos="790" type="location-street" surface="Kruppstraße" />
+<Entity id="22" startPos="882" endPos="893" type="number" surface="60.000 Euro" /></Entities><Relations>
+<Relation id="23" NAME="Obstruction">
+<Entity id="13" label="cause" />
+<Entity id="14" label="location" />
+<Entity id="15" label="trigger" />
+</Relation></Relations>
+</Document>

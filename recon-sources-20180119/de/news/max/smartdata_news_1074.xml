@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Verdi<NODE id="5" /> will am <NODE id="14" />Mittwoch<NODE id="22" /> an Flughäfen streiken
+Die Flughäfen <NODE id="59" />München<NODE id="66" />, <NODE id="68" />Frankfurt<NODE id="77" />, <NODE id="79" />Düsseldorf<NODE id="89" />, <NODE id="91" />Köln/Bonn<NODE id="100" />, <NODE id="102" />Dortmund<NODE id="110" /> und <NODE id="115" />Hannover-Langenhagen<NODE id="135" /> sollen betroffen sein.
+© <NODE id="161" />dpa<NODE id="164" /> / <NODE id="167" />Peter Kneffel<NODE id="180" />/Archiv
+<NODE id="188" />Verdi<NODE id="193" /> will am Mittwoch an Flughäfen streiken
+<NODE id="233" />Berlin<NODE id="239" /> (<NODE id="241" />dpa<NODE id="244" />) - Wegen Warnstreiks an mehreren deutschen Flughäfen müssen Reisende am kommenden <NODE id="327" />Mittwoch<NODE id="335" /> mit starken Verzögerungen und massiven Flugausfällen rechnen.
+Voraussichtlich werden die Airports <NODE id="434" />Frankfurt<NODE id="443" />, <NODE id="445" />München<NODE id="452" />, <NODE id="454" />Düsseldorf<NODE id="464" />, <NODE id="466" />Köln/Bonn<NODE id="475" />, <NODE id="477" />Dortmund<NODE id="485" /> und <NODE id="490" />Hannover-Langenhagen<NODE id="510" /> betroffen sein, wie die Gewerkschaft <NODE id="548" />Verdi<NODE id="553" /> mitteilte.
+Mit den Ausständen will sie den Druck im Tarifstreit um den öffentlichen Dienst von Bund und Kommunen erhöhen. Bestreikt werden sollen etwa Check-In, Werkstätten, Luftsicherheitskontrolleure sowie Bodenverkehrsdienste wie Vorfeld, Fracht, Gepäck und Verwaltung.
+Auch in vielen anderen Bereichen wie Kitas, Krankenhäusern, Rathäusern und dem Nahverkehr sind die Beschäftigten derzeit immer
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://web.de/magazine/politik/verdi-mittwoch-flughaefen-streiken-31515052@2016-04-22T16:16:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-22T14:16:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-22T14:28:53.053Z" />
+<feature featureName="uri" featureValue="http://web.de/magazine/politik/verdi-mittwoch-flughaefen-streiken-31515052" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="organization" surface="Verdi" />
+<Entity id="1" startPos="14" endPos="22" type="date" surface="Mittwoch" />
+<Entity id="2" startPos="59" endPos="66" type="location" surface="München" />
+<Entity id="3" startPos="68" endPos="77" type="location" surface="Frankfurt" />
+<Entity id="4" startPos="79" endPos="89" type="location" surface="Düsseldorf" />
+<Entity id="5" startPos="91" endPos="100" type="location" surface="Köln/Bonn" />
+<Entity id="6" startPos="102" endPos="110" type="location" surface="Dortmund" />
+<Entity id="7" startPos="115" endPos="135" type="location" surface="Hannover-Langenhagen" />
+<Entity id="8" startPos="161" endPos="164" type="organization-company" surface="dpa" />
+<Entity id="9" startPos="167" endPos="180" type="person" surface="Peter Kneffel" />
+<Entity id="10" startPos="188" endPos="193" type="organization" surface="Verdi" />
+<Entity id="11" startPos="233" endPos="239" type="location-city" surface="Berlin" />
+<Entity id="12" startPos="241" endPos="244" type="organization-company" surface="dpa" />
+<Entity id="13" startPos="327" endPos="335" type="date" surface="Mittwoch" />
+<Entity id="14" startPos="434" endPos="443" type="location" surface="Frankfurt" />
+<Entity id="15" startPos="445" endPos="452" type="location" surface="München" />
+<Entity id="16" startPos="454" endPos="464" type="location" surface="Düsseldorf" />
+<Entity id="17" startPos="466" endPos="475" type="location" surface="Köln/Bonn" />
+<Entity id="18" startPos="477" endPos="485" type="location" surface="Dortmund" />
+<Entity id="19" startPos="490" endPos="510" type="location" surface="Hannover-Langenhagen" />
+<Entity id="20" startPos="548" endPos="553" type="organization" surface="Verdi" /></Entities><Relations />
+</Document>

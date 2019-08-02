@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A43<NODE id="3" /> <NODE id="4" />Wuppertal<NODE id="13" /> Richtung <NODE id="23" />Recklinghausen<NODE id="37" /> zwischen <NODE id="47" />Kreuz Bochum/Witten<NODE id="66" /> und <NODE id="71" />Recklinghausen-Hochlarmark<NODE id="97" /> - immer wieder <NODE id="113" />stockender Verkehr<NODE id="131" /> auf einer Strecke von mehr als <NODE id="163" />10 Kilometern<NODE id="176" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#38@2016-04-11T17:29:04.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-11T15:29:04Z" />
+<feature featureName="indexDate" featureValue="2016-04-11T15:30:23.379Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A43" />
+<Entity id="1" startPos="4" endPos="13" type="location-city" surface="Wuppertal" />
+<Entity id="2" startPos="23" endPos="37" type="location-city" surface="Recklinghausen" />
+<Entity id="3" startPos="47" endPos="66" type="location" surface="Kreuz Bochum/Witten" />
+<Entity id="4" startPos="71" endPos="97" type="location" surface="Recklinghausen-Hochlarmark" />
+<Entity id="5" startPos="113" endPos="131" type="trigger" surface="stockender Verkehr" />
+<Entity id="6" startPos="163" endPos="176" type="distance" surface="10 Kilometern" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="6" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

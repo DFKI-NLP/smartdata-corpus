@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />ClouderaDE<NODE id="14" />: .@<NODE id="18" />Google<NODE id="24" /> Ableger will Staus mit #BigData bekämpfen @<NODE id="68" />heiseonline<NODE id="79" />: https://t.co/aZO4WPhEpJ https://t.co/EvdHV0h0DO
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="711940163912540162" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T15:38:56Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T14:03:45.038Z" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="organization-company" surface="ClouderaDE" />
+<Entity id="1" startPos="18" endPos="24" type="organization-company" surface="Google" />
+<Entity id="2" startPos="68" endPos="79" type="organization-company" surface="heiseonline" /></Entities><Relations />
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: Die Täter von <NODE id="26" />Bad Godesberg<NODE id="39" /> sind noch immer flüchtig: https://t.co/3ZiOevNZ0u
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="731883010929393664" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-15T16:24:42Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T06:14:03.553Z" />
+<feature featureName="uri" featureValue="https://twitter.com/531481375/status/731883010929393664" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="26" endPos="39" type="location-city" surface="Bad Godesberg" /></Entities><Relations />
+</Document>

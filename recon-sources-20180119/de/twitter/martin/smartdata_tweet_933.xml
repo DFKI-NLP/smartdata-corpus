@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-DN<NODE id="6" />: Rind sorgte für Gefahrenstelle auf und an der Autobahn https://t.co/rkjeHWydV1
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744270699678752768" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-18T20:48:57Z" />
+<feature featureName="indexDate" featureValue="2016-06-18T20:49:04.727Z" />
+<feature featureName="uri" featureValue="https://twitter.com/24PR.de/status/744270699678752768" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization" surface="POL-DN" /></Entities><Relations />
+</Document>

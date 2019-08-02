@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Grenzenloser <NODE id="13" />Krieg<NODE id="18" />
+Fatale Gewaltstrategien in Nahost
+Die bedrohten <NODE id="67" />arabischen<NODE id="77" /> Regime sind mit nackter Gewalt gegen ihre Untertanen vorgegangen, die nach Freiheit rufen. Sie haben damit einen Sturm mit zerstörerischen Folgen ausgelöst.
+Kommentar
+von <NODE id="249" />Jürg Bischoff<NODE id="262" />
+<NODE id="263" />14.1.2016<NODE id="272" />, <NODE id="274" />06:44 Uhr<NODE id="283" />
+Ein Knabe in einer Schule in der <NODE id="317" />syrischen<NODE id="326" /> Injara. Die Zerstörungen sollen Folgen eines <NODE id="372" />russischen<NODE id="382" /> <NODE id="383" />Luftangriffs<NODE id="395" /> sein.  (Bild: <NODE id="410" />Reuters<NODE id="417" />)
+Die <NODE id="423" />Hinrichtung<NODE id="434" /> von <NODE id="439" />43<NODE id="441" /> Kaida-Terroristen und <NODE id="464" />vier<NODE id="468" /> schiitischen Dissidenten in <NODE id="497" />Saudiarabien<NODE id="509" /> hat zu <NODE id="517" />Anfang dieses Jahres <NODE id="538" />die Spannungen im ganzen<NODE id="562" /> Nahen Osten <NODE id="575" />auf eine neue Ebene gehoben. Es ist die erste <NODE id="621" />Massenexekution<NODE id="636" /> im Königreich seit <NODE id="656" />1980<NODE id="660" />, als <NODE id="666" />63<NODE id="668" /> islamistische Fanatiker öffentlich enthauptet wurden, welche die Grosse Moschee von Mekka überfallen und in ein Schlachtfeld verwandelt hatten. Damals wie heute beantwortet das Haus Saud die Infragestellung seiner absoluten Herrschaft, indem es seine Widersacher in den Tod s
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nzz.ch/meinung/fatale-gewaltstrategien-in-nahost-1.18676908@2016-03-10T12:02:47.030+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:02:47.03Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:02:53.316Z" />
+<feature featureName="uri" featureValue="http://www.nzz.ch/meinung/fatale-gewaltstrategien-in-nahost-1.18676908" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="13" endPos="18" type="disaster-type" surface="Krieg" />
+<Entity id="1" startPos="67" endPos="77" type="location" surface="arabischen" />
+<Entity id="2" startPos="249" endPos="262" type="person" surface="Jürg Bischoff" />
+<Entity id="3" startPos="263" endPos="272" type="date" surface="14.1.2016" />
+<Entity id="4" startPos="274" endPos="283" type="time" surface="06:44 Uhr" />
+<Entity id="5" startPos="317" endPos="326" type="location" surface="syrischen" />
+<Entity id="6" startPos="372" endPos="382" type="location" surface="russischen" />
+<Entity id="7" startPos="383" endPos="395" type="disaster-type" surface="Luftangriffs" />
+<Entity id="8" startPos="410" endPos="417" type="organization-company" surface="Reuters" />
+<Entity id="9" startPos="423" endPos="434" type="disaster-type" surface="Hinrichtung" />
+<Entity id="10" startPos="439" endPos="441" type="number" surface="43" />
+<Entity id="11" startPos="464" endPos="468" type="number" surface="vier" />
+<Entity id="12" startPos="497" endPos="509" type="location" surface="Saudiarabien" />
+<Entity id="13" startPos="517" endPos="538" type="date" surface="Anfang dieses Jahres " />
+<Entity id="14" startPos="562" endPos="575" type="location" surface=" Nahen Osten " />
+<Entity id="15" startPos="621" endPos="636" type="disaster-type" surface="Massenexekution" />
+<Entity id="16" startPos="656" endPos="660" type="date" surface="1980" />
+<Entity id="17" startPos="666" endPos="668" type="number" surface="63" /></Entities><Relations>
+<Relation id="18" NAME="Disaster">
+<Entity id="13" label="date" />
+<Entity id="12" label="location" />
+<Entity id="9" label="type" />
+<Entity id="10" label="victims" />
+<Entity id="11" label="victims" />
+</Relation></Relations>
+</Document>

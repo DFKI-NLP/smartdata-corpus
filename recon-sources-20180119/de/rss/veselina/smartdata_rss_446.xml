@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Auf der <NODE id="8" />A81<NODE id="11" /> <NODE id="12" />Singen<NODE id="18" /> Richtung <NODE id="28" />Stuttgart<NODE id="37" /> ist der <NODE id="46" />Schönbuchtunnel<NODE id="61" /> vorübergehend <NODE id="76" />gesperrt<NODE id="84" />, der Verkehr wird über die Gegenfahrbahn geleitet, <NODE id="136" />5 km<NODE id="140" /> <NODE id="141" />Stau<NODE id="145" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#29@2016-03-15T20:14:33.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-15T19:14:33Z" />
+<feature featureName="indexDate" featureValue="2016-03-15T19:14:46.028Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="11" type="location-street" surface="A81" />
+<Entity id="1" startPos="12" endPos="18" type="location-city" surface="Singen" />
+<Entity id="2" startPos="28" endPos="37" type="location-city" surface="Stuttgart" />
+<Entity id="3" startPos="46" endPos="61" type="location-street" surface="Schönbuchtunnel" />
+<Entity id="4" startPos="76" endPos="84" type="trigger" surface="gesperrt" />
+<Entity id="5" startPos="136" endPos="140" type="distance" surface="5 km" />
+<Entity id="6" startPos="141" endPos="145" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="7" NAME="Obstruction">
+<Entity id="3" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="4" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="3" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="jam_length" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

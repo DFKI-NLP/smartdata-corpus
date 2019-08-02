@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Twittern
+<NODE id="9" />Bangalore<NODE id="18" /> (Reuters) - Der Luxusauto-Hersteller <NODE id="56" />Jaguar Land Rover<NODE id="73" /> hat einem Zeitungsbericht zufolge wegen des Absatzrückgangs in <NODE id="137" />China<NODE id="142" /> ein Programm zur Kostensenkung von umgerechnet <NODE id="190" />6,3 Milliarden Euro<NODE id="209" /> gestartet.
+Ein Personalabbau im Rahmen des bis <NODE id="257" />Ende des Jahrzehnts<NODE id="276" /> angesetzten Projekts sei aber nicht geplant, berichtete die <NODE id="337" />Sunday Times<NODE id="349" /> unter Berufung auf mit dem Vorgang vertraute Personen. Vorgesehen sei aber, mehr Fahrzeuge auf demselben Grundgerüst zu bauen. Bis zum <NODE id="485" />Ende des Jahrzehnts<NODE id="504" /> solle die Produktion auf <NODE id="530" />rund eine Million<NODE id="547" /> Autos mehr als verdoppelt werden. Mit dem Sparprogramm sollen dem Bericht zufolge auch Kosten aufgefangen werden, die zum Erreichen der Emissionsvorschriften anfallen.
+Der <NODE id="720" />indische<NODE id="728" /> <NODE id="729" />Mutterkonzern<NODE id="742" /> <NODE id="743" />Tata Motor<NODE id="753" /> war für eine Stellungnahme zunächst nicht erreichbar.
+Das Unternehmen hat in <NODE id="831" />China<NODE id="836" /> in den Monaten <NODE id="852" />Juli<NODE id="856" /> bis <NODE id="861" />September<NODE id="870" /> fast <NODE id="876" />ein Drittel<NODE id="887" /> weniger Fahrzeuge verkauft. Vergangenes Jahr war <NODE id="937" />China<NODE id="942" /> no
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.boerse-online.de/nachrichten/aktien/Zeitung-Jaguar-Land-Rover-drosselt-Kosten-wegen-China-Absatzkrise-1000901236@2016-03-10T17:19:09.360+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.boerse-online.de/nachrichten/aktien/Zeitung-Jaguar-Land-Rover-drosselt-Kosten-wegen-China-Absatzkrise-1000901236" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="18" type="location-city" surface="Bangalore" />
+<Entity id="1" startPos="56" endPos="73" type="organization-company" surface="Jaguar Land Rover" />
+<Entity id="2" startPos="137" endPos="142" type="location" surface="China" />
+<Entity id="3" startPos="190" endPos="209" type="number" surface="6,3 Milliarden Euro" />
+<Entity id="4" startPos="257" endPos="276" type="date" surface="Ende des Jahrzehnts" />
+<Entity id="5" startPos="337" endPos="349" type="organization-company" surface="Sunday Times" />
+<Entity id="6" startPos="485" endPos="504" type="date" surface="Ende des Jahrzehnts" />
+<Entity id="7" startPos="530" endPos="547" type="number" surface="rund eine Million" />
+<Entity id="8" startPos="720" endPos="728" type="location" surface="indische" />
+<Entity id="9" startPos="729" endPos="742" type="trigger" surface="Mutterkonzern" />
+<Entity id="10" startPos="743" endPos="753" type="organization-company" surface="Tata Motor" />
+<Entity id="11" startPos="831" endPos="836" type="location" surface="China" />
+<Entity id="12" startPos="852" endPos="856" type="date" surface="Juli" />
+<Entity id="13" startPos="861" endPos="870" type="date" surface="September" />
+<Entity id="14" startPos="876" endPos="887" type="number" surface="ein Drittel" />
+<Entity id="15" startPos="937" endPos="942" type="location" surface="China" /></Entities><Relations />
+</Document>

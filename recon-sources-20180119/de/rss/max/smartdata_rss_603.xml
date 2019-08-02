@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A45<NODE id="3" /> <NODE id="4" />Gießen<NODE id="10" /> Richtung <NODE id="20" />Hagen<NODE id="25" /> zwischen <NODE id="35" />Freudenberg<NODE id="46" /> und <NODE id="51" />Olpe<NODE id="55" /> <NODE id="56" />2 km<NODE id="60" /> <NODE id="61" />Stau<NODE id="65" /> nach <NODE id="71" />Bergungsarbeiten<NODE id="87" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#6@2016-02-19T04:13:40.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-19T03:13:40Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T04:46:18.751Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A45" />
+<Entity id="1" startPos="4" endPos="10" type="location-city" surface="Gießen" />
+<Entity id="2" startPos="20" endPos="25" type="location-city" surface="Hagen" />
+<Entity id="3" startPos="35" endPos="46" type="location" surface="Freudenberg" />
+<Entity id="4" startPos="51" endPos="55" type="location" surface="Olpe" />
+<Entity id="5" startPos="56" endPos="60" type="distance" surface="2 km" />
+<Entity id="6" startPos="61" endPos="65" type="trigger" surface="Stau" />
+<Entity id="7" startPos="71" endPos="87" type="trigger" surface="Bergungsarbeiten" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="7" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

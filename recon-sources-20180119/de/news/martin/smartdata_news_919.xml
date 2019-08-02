@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Polizeipräsenz im <NODE id="18" />Kreis Euskirchen<NODE id="34" />: „Nur <NODE id="41" />fünf<NODE id="45" /> Streifenwagen im Einsatz“
+Erstellt <NODE id="81" />11.02.2016<NODE id="91" />
+Schwerpunktkontrollen  können die Beamten im <NODE id="137" />Kreis Euskirchen<NODE id="153" /> nur noch mit Hilfe ihrer Kollegen der Bereitschaftspolizei durchführen. Gewerkschaftler führen die dünne Personaldecke als Grund an.  Foto: <NODE id="294" />Zimmermann<NODE id="304" />
+Die Sicherheit stand im Fokus des politischen Aschermittwochs der <NODE id="371" />Jungen Union<NODE id="383" />. Die Sehnsucht nach Sicherheit sei nach den Vorfällen in <NODE id="441" />Köln<NODE id="445" /> in der Bevölkerung deutlich größer geworden.  Von <NODE id="496" />Kirsten Röder<NODE id="509" />
+Drucken per Mail
+<NODE id="527" />Mechernich-Kommern<NODE id="545" />. 
+Alles andere als beruhigend war das, was <NODE id="589" />Markus Hilgers<NODE id="603" />, Vize-Kreisvorsitzender der <NODE id="632" />Polizeigewerkschaft<NODE id="651" /> und Personalratsvorsitzender der <NODE id="685" />Euskirchener Polizei<NODE id="705" />, skizzierte. „Sicher im Kreis!? Oder hat <NODE id="747" />Silvester<NODE id="756" /> doch alles verändert?“ lautete das Thema des politischen Aschermittwochs der <NODE id="834" />Jungen Union<NODE id="846" /> (<NODE id="848" />JU<NODE id="850" />) im <NODE id="855" />Kommerner<NODE id="864" /> Bistro Classico.
+Von ihren Erfahrungen berichteten neben <NODE id="922" />Hilgers<NODE id="929" /> DRK-Kreisg
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.rundschau-online.de/eifelland/polizeipraesenz-im-kreis-euskirchen--nur-fuenf-streifenwagen-im-einsatz-,16064602,33768646.html@2016-02-12T13:09:38.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-12T12:09:38Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:57:16.698Z" />
+<feature featureName="uri" featureValue="http://www.rundschau-online.de/eifelland/polizeipraesenz-im-kreis-euskirchen--nur-fuenf-streifenwagen-im-einsatz-,16064602,33768646.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="34" type="location" surface="Kreis Euskirchen" />
+<Entity id="1" startPos="41" endPos="45" type="number" surface="fünf" />
+<Entity id="2" startPos="81" endPos="91" type="date" surface="11.02.2016" />
+<Entity id="3" startPos="137" endPos="153" type="location" surface="Kreis Euskirchen" />
+<Entity id="4" startPos="294" endPos="304" type="person" surface="Zimmermann" />
+<Entity id="5" startPos="371" endPos="383" type="organization" surface="Jungen Union" />
+<Entity id="6" startPos="441" endPos="445" type="location-city" surface="Köln" />
+<Entity id="7" startPos="496" endPos="509" type="person" surface="Kirsten Röder" />
+<Entity id="8" startPos="527" endPos="545" type="location-city" surface="Mechernich-Kommern" />
+<Entity id="9" startPos="589" endPos="603" type="person" surface="Markus Hilgers" />
+<Entity id="10" startPos="632" endPos="651" type="organization" surface="Polizeigewerkschaft" />
+<Entity id="11" startPos="685" endPos="705" type="organization" surface="Euskirchener Polizei" />
+<Entity id="12" startPos="747" endPos="756" type="date" surface="Silvester" />
+<Entity id="13" startPos="834" endPos="846" type="organization" surface="Jungen Union" />
+<Entity id="14" startPos="848" endPos="850" type="organization" surface="JU" />
+<Entity id="15" startPos="855" endPos="864" type="location-city" surface="Kommerner" />
+<Entity id="16" startPos="922" endPos="929" type="person" surface="Hilgers" /></Entities><Relations />
+</Document>

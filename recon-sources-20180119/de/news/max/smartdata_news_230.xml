@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Solarwatt<NODE id="9" /> will sich in <NODE id="23" />diesem Jahr<NODE id="34" /> weiter am Speichermarkt etablieren.
+Foto: <NODE id="77" />Solarwatt GmbH<NODE id="91" />
+<NODE id="92" />Solarwatt<NODE id="101" /> erweitert Produktionskapazitäten für Photovoltaik-Speicher
+<NODE id="161" />25. Januar 2016 <NODE id="177" />|  Märkte und Trends, Speicher und Netze, Topnews
+Interview: <NODE id="238" />Ende vergangenen Jahres<NODE id="261" /> kündigte das <NODE id="275" />sächsische<NODE id="285" /> Photovoltaik-Unternehmen eine engere Zusammenarbeit mit <NODE id="342" />Bosch<NODE id="347" /> an. Die <NODE id="356" />zwei<NODE id="360" /> neuen Komplettsysteme, die neben einer Photovoltaik-Anlage auch einen Speicher oder eine Wärmepumpe enthalten, bietet <NODE id="479" />Solarwatt<NODE id="488" /> für unter <NODE id="499" />10.000 Euro<NODE id="510" /> an, wie <NODE id="519" />Vorstandschef<NODE id="532" /> <NODE id="533" />Detlef Neuhaus<NODE id="547" /> im Interview mit <NODE id="565" />pv magazine<NODE id="576" /> erklärt. Sein Ziel ist es, in <NODE id="607" />diesem Jahr<NODE id="618" /> das Unternehmen weiter im Speichermarkt zu etablieren. Die Produktionskapazitäten werden dafür ausgebaut.
+Diesen Artikel teilen
+Zur Anmeldung
+<NODE id="761" />pv magazine<NODE id="772" />: Wie kam die Kooperation mit <NODE id="802" />Bosch<NODE id="807" /> zustande?
+<NODE id="818" />Detlef Neuhaus<NODE id="832" /> (Foto): Der Kontakt kam über unsere <NODE id="869" />Tochtergesellschaft<NODE id="888" /> in den <NODE id="896" />Niederlanden<NODE id="908" /> zustande. Die Solarw
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.pv-magazine.de/nachrichten/details/beitrag/solarwatt-erweitert-produktionskapazitten-fr-photovoltaik-speicher_100021816/?L=1%27@2016-01-25T10:21:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-25T09:21:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T04:08:41.931Z" />
+<feature featureName="uri" featureValue="http://www.pv-magazine.de/nachrichten/details/beitrag/solarwatt-erweitert-produktionskapazitten-fr-photovoltaik-speicher_100021816/?L=1%27" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="organization-company" surface="Solarwatt" />
+<Entity id="1" startPos="23" endPos="34" type="date" surface="diesem Jahr" />
+<Entity id="2" startPos="77" endPos="91" type="organization-company" surface="Solarwatt GmbH" />
+<Entity id="3" startPos="92" endPos="101" type="organization-company" surface="Solarwatt" />
+<Entity id="4" startPos="161" endPos="177" type="date" surface="25. Januar 2016 " />
+<Entity id="5" startPos="238" endPos="261" type="date" surface="Ende vergangenen Jahres" />
+<Entity id="6" startPos="275" endPos="285" type="location" surface="sächsische" />
+<Entity id="7" startPos="342" endPos="347" type="organization-company" surface="Bosch" />
+<Entity id="8" startPos="356" endPos="360" type="number" surface="zwei" />
+<Entity id="9" startPos="479" endPos="488" type="organization-company" surface="Solarwatt" />
+<Entity id="10" startPos="499" endPos="510" type="number" surface="10.000 Euro" />
+<Entity id="11" startPos="519" endPos="532" type="org-position" surface="Vorstandschef" />
+<Entity id="12" startPos="533" endPos="547" type="person" surface="Detlef Neuhaus" />
+<Entity id="13" startPos="565" endPos="576" type="organization-company" surface="pv magazine" />
+<Entity id="14" startPos="607" endPos="618" type="date" surface="diesem Jahr" />
+<Entity id="15" startPos="761" endPos="772" type="organization-company" surface="pv magazine" />
+<Entity id="16" startPos="802" endPos="807" type="organization-company" surface="Bosch" />
+<Entity id="17" startPos="818" endPos="832" type="person" surface="Detlef Neuhaus" />
+<Entity id="18" startPos="869" endPos="888" type="trigger" surface="Tochtergesellschaft" />
+<Entity id="19" startPos="896" endPos="908" type="location" surface="Niederlanden" /></Entities><Relations />
+</Document>

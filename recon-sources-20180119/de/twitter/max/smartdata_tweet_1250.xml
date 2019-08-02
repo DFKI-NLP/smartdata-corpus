@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />5,00€<NODE id="5" /> Sofort-Rabatt-Coupon auf <NODE id="31" />Gillette<NODE id="39" /> <NODE id="40" />Fusion ProShield Chill Rasierer<NODE id="71" /> [Bundesweit] https://t.co/RIVPkIOSpY #dealster #<NODE id="120" />germany<NODE id="127" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754745581247922178" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T18:32:23Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T18:32:30.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3825846459/status/754745581247922178" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="number" surface="5,00€" />
+<Entity id="1" startPos="31" endPos="39" type="organization-company" surface="Gillette" />
+<Entity id="2" startPos="40" endPos="71" type="product" surface="Fusion ProShield Chill Rasierer" />
+<Entity id="3" startPos="120" endPos="127" type="location" surface="germany" /></Entities><Relations>
+<Relation id="4" NAME="CompanyProvidesProduct">
+<Entity id="2" label="product" />
+<Entity id="1" label="company" />
+</Relation></Relations>
+</Document>

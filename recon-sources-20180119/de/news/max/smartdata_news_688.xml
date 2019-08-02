@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>ROUNDUP: Streikwelle gegen Sparkurs in <NODE id="39" />Griechenland<NODE id="51" />.
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.eniteo.de/dvt2/markt.htn?i=10893611&amp;rss=1@2016-03-10T16:24:13.330+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T15:24:13.33Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T15:24:23.318Z" />
+<feature featureName="uri" featureValue="http://www.eniteo.de/dvt2/markt.htn?i=10893611&amp;rss=1" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="39" endPos="51" type="location" surface="Griechenland" /></Entities><Relations />
+</Document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Zukunft des Riesenrads im <NODE id="26" />Spreepark<NODE id="35" /> wird geprüft
+Zukunft des Riesenrads im <NODE id="75" />Spreepark<NODE id="84" /> wird geprüft
+<NODE id="98" />24.03.16<NODE id="106" />, <NODE id="108" />14:53 Uhr<NODE id="117" />
+<NODE id="118" />twitter<NODE id="125" />
+<NODE id="126" />Berlin<NODE id="132" /> -
+Das alte Riesenrad im <NODE id="157" />Berliner<NODE id="165" /> <NODE id="166" />Spreepark<NODE id="175" /> könnte mit Hilfe früherer Baupläne gerettet werden. Man habe Kontakt zu dem <NODE id="252" />holländischen<NODE id="265" /> Hersteller aufgenommen, sagte der <NODE id="300" />Geschäftsführer<NODE id="315" /> der <NODE id="320" />Grün Berlin GmbH<NODE id="336" />, <NODE id="338" />Christoph Schmidt<NODE id="355" />, am <NODE id="360" />Donnerstag<NODE id="370" />. «Möglicherweise hat er noch eine Statik dafür und alte Pläne.» Die Gesellschaft hatte das gesperrte Areal zum <NODE id="482" />Jahresbeginn<NODE id="494" /> vom <NODE id="499" />Berliner<NODE id="507" /> Liegenschaftsfonds übernommen. Zuvor hatten «<NODE id="553" />Bild<NODE id="557" />» und «<NODE id="564" />B.Z<NODE id="567" />.» von einem Rettungsplan für das Rad berichtet.
+Der <NODE id="620" />Spreepark<NODE id="629" /> war am <NODE id="637" />4. Oktober 1969 <NODE id="653" />zum <NODE id="657" />20.<NODE id="660" /> Geburtstag der <NODE id="676" />DDR<NODE id="679" /> eröffnet worden. Seit der Insolvenz vor fast <NODE id="725" />15 Jahren<NODE id="734" /> verrottet der Rummelplatz jedoch.
+<NODE id="769" />Schmidt<NODE id="776" /> zufolge ist die Zukunft des Riesenrads, das sich noch heute gespenstisch quietschend im Wind dreht, offen. <NODE id="884" />Grün Berlin <NODE id="896" />hatte bei der Übernahme des Areals angekündigt, die e
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ksta.de/zukunft-des-riesenrads-im-spreepark-wird-geprueft-23780636?dmcid=f_yho_Nachrichten@2016-03-24T14:53:19.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-24T13:53:19Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T17:20:31.939Z" />
+<feature featureName="uri" featureValue="http://www.ksta.de/zukunft-des-riesenrads-im-spreepark-wird-geprueft-23780636?dmcid=f_yho_Nachrichten" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="26" endPos="35" type="location" surface="Spreepark" />
+<Entity id="1" startPos="75" endPos="84" type="location" surface="Spreepark" />
+<Entity id="2" startPos="98" endPos="106" type="date" surface="24.03.16" />
+<Entity id="3" startPos="108" endPos="117" type="time" surface="14:53 Uhr" />
+<Entity id="4" startPos="118" endPos="125" type="organization-company" surface="twitter" />
+<Entity id="5" startPos="126" endPos="132" type="location-city" surface="Berlin" />
+<Entity id="6" startPos="157" endPos="165" type="location-city" surface="Berliner" />
+<Entity id="7" startPos="166" endPos="175" type="location" surface="Spreepark" />
+<Entity id="8" startPos="252" endPos="265" type="location" surface="holländischen" />
+<Entity id="9" startPos="300" endPos="315" type="org-position" surface="Geschäftsführer" />
+<Entity id="10" startPos="320" endPos="336" type="organization-company" surface="Grün Berlin GmbH" />
+<Entity id="11" startPos="338" endPos="355" type="person" surface="Christoph Schmidt" />
+<Entity id="12" startPos="360" endPos="370" type="date" surface="Donnerstag" />
+<Entity id="13" startPos="482" endPos="494" type="date" surface="Jahresbeginn" />
+<Entity id="14" startPos="499" endPos="507" type="location" surface="Berliner" />
+<Entity id="15" startPos="553" endPos="557" type="organization-company" surface="Bild" />
+<Entity id="16" startPos="564" endPos="567" type="organization-company" surface="B.Z" />
+<Entity id="17" startPos="620" endPos="629" type="location" surface="Spreepark" />
+<Entity id="18" startPos="637" endPos="653" type="date" surface="4. Oktober 1969 " />
+<Entity id="19" startPos="657" endPos="660" type="date" surface="20." />
+<Entity id="20" startPos="676" endPos="679" type="location" surface="DDR" />
+<Entity id="21" startPos="725" endPos="734" type="duration" surface="15 Jahren" />
+<Entity id="22" startPos="769" endPos="776" type="person" surface="Schmidt" />
+<Entity id="23" startPos="884" endPos="896" type="organization-company" surface="Grün Berlin " /></Entities><Relations>
+<Relation id="24" NAME="OrganizationLeadership">
+<Entity id="11" label="person" />
+<Entity id="10" label="organization" />
+<Entity id="9" label="position" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />103<NODE id="3" />: Betriebsstörung <NODE id="21" />Verspätungen<NODE id="33" /> von bis zu <NODE id="45" />10 Minuten<NODE id="55" />. 
+<NODE id="58" />Schienenersatzverkehr<NODE id="79" /> zwischen den (H) <NODE id="97" />Gerschede<NODE id="106" /> und D... http://t.co/taiRPadpt3
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="646362146713018368" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-route" surface="103" />
+<Entity id="1" startPos="21" endPos="33" type="trigger" surface="Verspätungen" />
+<Entity id="2" startPos="45" endPos="55" type="duration" surface="10 Minuten" />
+<Entity id="3" startPos="58" endPos="79" type="trigger" surface="Schienenersatzverkehr" />
+<Entity id="4" startPos="97" endPos="106" type="location-stop" surface="Gerschede" /></Entities><Relations>
+<Relation id="5" NAME="Delay">
+<Entity id="2" label="delay" />
+<Entity id="0" label="location" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

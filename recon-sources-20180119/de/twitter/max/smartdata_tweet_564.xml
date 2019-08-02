@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />BILD<NODE id="8" />: Spontane Zeilen gegen den Terror: Mit seinem Song Nur ein Lied wird Sänger <NODE id="85" />Alex Diehl<NODE id="95" /> über Nacht zum Internet-Hit. https://t.co…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666368717396254720" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-16T21:34:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:48:45.73Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="8" type="organization-company" surface="BILD" />
+<Entity id="1" startPos="85" endPos="95" type="person" surface="Alex Diehl" /></Entities><Relations />
+</Document>

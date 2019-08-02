@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />RE82<NODE id="5" /> Es verkehrt ein <NODE id="22" />Schienenersatzverkehr<NODE id="43" /> von <NODE id="48" />Bielefeld<NODE id="57" />  nach <NODE id="64" />Detmold<NODE id="71" /> im <NODE id="75" />Bielefelder Busbahnhof<NODE id="97" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="612519231968661504" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-21T07:15:39Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T23:41:05.012Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="5" type="location-route" surface="RE82" />
+<Entity id="1" startPos="22" endPos="43" type="trigger" surface="Schienenersatzverkehr" />
+<Entity id="2" startPos="48" endPos="57" type="location-stop" surface="Bielefeld" />
+<Entity id="3" startPos="64" endPos="71" type="location-stop" surface="Detmold" />
+<Entity id="4" startPos="75" endPos="97" type="location-stop" surface="Bielefelder Busbahnhof" /></Entities><Relations>
+<Relation id="5" NAME="RailReplacementService">
+<Entity id="1" label="trigger" />
+<Entity id="3" label="end_loc" />
+<Entity id="0" label="location" />
+<Entity id="2" label="start_loc" />
+</Relation></Relations>
+</Document>

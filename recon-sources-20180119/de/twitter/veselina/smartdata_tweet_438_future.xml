@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Pläne für <NODE id="10" />Bahn<NODE id="14" />-Umbau: Milliardenverluste und <NODE id="45" />Stellenabbau<NODE id="57" />: Der Konzernumbau bei der <NODE id="84" />Deutschen Bahn<NODE id="98" /> wird teuer ...<NODE id="113" /> <NODE id="114" />https://t.co/ROaii7QyE1<NODE id="137" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="677449057623670784" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-17T11:23:36Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T03:46:14.119Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="113" type="sentence" surface="Pläne für Bahn-Umbau: Milliardenverluste und Stellenabbau: Der Konzernumbau bei der Deutschen Bahn wird teuer ..." />
+<Entity id="1" startPos="10" endPos="14" type="organization-company" surface="Bahn" />
+<Entity id="2" startPos="45" endPos="57" type="trigger" surface="Stellenabbau" />
+<Entity id="3" startPos="84" endPos="98" type="organization-company" surface="Deutschen Bahn" />
+<Entity id="4" startPos="114" endPos="137" type="sentence" surface="https://t.co/ROaii7QyE1" /></Entities><Relations>
+<Relation id="5" NAME="Identity">
+<Entity id="3" label="source" />
+<Entity id="1" label="target" />
+</Relation>
+<Relation id="6" NAME="Layoffs">
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

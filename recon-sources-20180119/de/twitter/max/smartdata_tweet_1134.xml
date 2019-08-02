@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />rpo<NODE id="7" />_wirtschaft: #Dieselgate: Zahl der #Autobesitzer für Sammelklage gegen <NODE id="78" />VW<NODE id="80" /> steigt auf <NODE id="92" />80.000<NODE id="98" /> im #Abgasskandal https://t.co/CwlmT37PAq
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="707442474881572865" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-09T05:46:44Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T01:55:10.789Z" />
+<feature featureName="uri" featureValue="https://twitter.com/246998220/status/707442474881572865" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="organization-company" surface="rpo" />
+<Entity id="1" startPos="78" endPos="80" type="organization-company" surface="VW" />
+<Entity id="2" startPos="92" endPos="98" type="number" surface="80.000" /></Entities><Relations />
+</Document>

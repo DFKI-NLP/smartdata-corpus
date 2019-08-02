@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />EVG<NODE id="3" />-Chef warnt vor weiterem <NODE id="28" />Stellenabbau<NODE id="40" /> bei der <NODE id="49" />Deutschen Bahn<NODE id="63" /> https://t.co/bAIUgp8Ztn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710072280768905217" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-16T11:56:38Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T15:13:15.042Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization" surface="EVG" />
+<Entity id="1" startPos="28" endPos="40" type="trigger" surface="Stellenabbau" />
+<Entity id="2" startPos="49" endPos="63" type="organization-company" surface="Deutschen Bahn" /></Entities><Relations>
+<Relation id="3" NAME="Layoffs">
+<Entity id="2" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

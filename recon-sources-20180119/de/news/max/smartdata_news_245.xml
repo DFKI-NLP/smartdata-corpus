@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />23.03.2016<NODE id="10" />
+Bekleidungsunternehmen <NODE id="34" />Steilmann<NODE id="43" /> ist <NODE id="48" />insolvent<NODE id="57" />
+<NODE id="58" />Bergkamen<NODE id="67" /> (dpa) - Das Bekleidungsunternehmen <NODE id="103" />Steilmann<NODE id="112" />, zu dem unter anderem die<NODE id="138" /> Adler Modemärkte<NODE id="155" /> gehören, ist <NODE id="169" />insolvent<NODE id="178" />. «Der Vorstand der <NODE id="198" />Steilmann SE<NODE id="210" /> ist nach umfassender Prüfung heute zu der Überzeugung gelangt, dass im Zuge des aktuellen Geschäftsverlaufs die <NODE id="323" />Steilmann SE<NODE id="335" /> <NODE id="336" />zahlungsunfähig<NODE id="351" /> ist», teilte das Unternehmen am <NODE id="384" />Mittwoch<NODE id="392" /> in <NODE id="396" />Bergkamen<NODE id="405" /> in einer Pflichtmitteilung mit. Sanierungsverhandlungen hätten keinen Erfolg gehabt. «Der Vorstand wird vor diesem Hintergrund nunmehr unverzüglich den Insolvenzantrag stellen», hieß es weiter. Die Firma war zunächst nicht für Nachfragen zu erreichen.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.borkenerzeitung.de/in-+ausland/nrw_artikel,-Bekleidungsunternehmen-Steilmann-ist-insolvent-_arid,588328.html@2016-03-23T21:45:18.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-23T20:45:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:23:01.93Z" />
+<feature featureName="uri" featureValue="http://www.borkenerzeitung.de/in-+ausland/nrw_artikel,-Bekleidungsunternehmen-Steilmann-ist-insolvent-_arid,588328.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="23.03.2016" />
+<Entity id="1" startPos="34" endPos="43" type="organization-company" surface="Steilmann" />
+<Entity id="2" startPos="48" endPos="57" type="trigger" surface="insolvent" />
+<Entity id="3" startPos="58" endPos="67" type="location-city" surface="Bergkamen" />
+<Entity id="4" startPos="103" endPos="112" type="organization-company" surface="Steilmann" />
+<Entity id="5" startPos="138" endPos="155" type="organization-company" surface=" Adler Modemärkte" />
+<Entity id="6" startPos="169" endPos="178" type="trigger" surface="insolvent" />
+<Entity id="7" startPos="198" endPos="210" type="organization-company" surface="Steilmann SE" />
+<Entity id="8" startPos="323" endPos="335" type="organization-company" surface="Steilmann SE" />
+<Entity id="9" startPos="336" endPos="351" type="trigger" surface="zahlungsunfähig" />
+<Entity id="10" startPos="384" endPos="392" type="date" surface="Mittwoch" />
+<Entity id="11" startPos="396" endPos="405" type="location-city" surface="Bergkamen" /></Entities><Relations>
+<Relation id="12" NAME="Insolvency">
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation>
+<Relation id="13" NAME="Insolvency">
+<Entity id="4" label="company" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="14" NAME="Insolvency">
+<Entity id="8" label="company" />
+<Entity id="9" label="trigger" />
+</Relation></Relations>
+</Document>

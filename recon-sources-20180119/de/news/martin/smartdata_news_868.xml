@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Chef der <NODE id="9" />Ethikbank<NODE id="18" /> kündigt Streik an - Protest gegen <NODE id="53" />Europas<NODE id="60" /> Bankenpolitik
+<NODE id="75" />14:31<NODE id="80" /> <NODE id="81" />24.02.16<NODE id="89" />
+<NODE id="90" />EISENBERG<NODE id="99" />/<NODE id="100" />ERFURT<NODE id="106" /> (<NODE id="108" />dpa-AFX<NODE id="115" />) - Der <NODE id="123" />Vorstandschef<NODE id="136" /> der <NODE id="141" />Ethikbank<NODE id="150" />, <NODE id="152" />Klaus Euler<NODE id="163" />, sieht Genossenschaftsbanken und Sparkassen am Rand der Belastungsgrenze und hat deswegen zu einem Streiktag aufgerufen. Einerseits sei durch die Politik der niedrigen Zinsen eine wichtige Einnahmequelle weggebrochen, andererseits würden mittelständische Banken durch immer neue bürokratische Auflagen überreguliert, sagte <NODE id="487" />Euler<NODE id="492" /> am <NODE id="496" />Mittwoch<NODE id="504" /> in <NODE id="508" />Erfurt<NODE id="514" />. Die Idee der Genossenschaftsbanken stirbt gerade und unsere Interessensvertretung, der <NODE id="603" />Bundesverband Deutscher Volksbanken und Raiffeisenbanken<NODE id="659" />, schaut dabei zu.
+Aus Protest wolle er mit seinen Mitarbeitern seine Bank im Frühjahr einen Tag schließen. Einen genauen Termin nannte er noch nicht. Er rief alle Genossenschaftsbanken und Sparkassen zum Schulterschluss auf. <NODE id="885" />Euler<NODE id="890" /> ist <NODE id="895" />Chef<NODE id="899" /> der <NODE id="904" />Volksbank Eisenberg<NODE id="923" /> und ihrer Tochter Ethi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ariva.de/news/Chef-der-Ethikbank-kuendigt-Streik-an-Protest-gegen-Europas-Bankenpolitik-5659624@2016-02-24T14:31:11.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T13:31:11Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T09:45:12.951Z" />
+<feature featureName="uri" featureValue="http://www.ariva.de/news/Chef-der-Ethikbank-kuendigt-Streik-an-Protest-gegen-Europas-Bankenpolitik-5659624" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="18" type="organization-company" surface="Ethikbank" />
+<Entity id="1" startPos="53" endPos="60" type="location" surface="Europas" />
+<Entity id="2" startPos="75" endPos="80" type="time" surface="14:31" />
+<Entity id="3" startPos="81" endPos="89" type="date" surface="24.02.16" />
+<Entity id="4" startPos="90" endPos="99" type="location-city" surface="EISENBERG" />
+<Entity id="5" startPos="100" endPos="106" type="location-city" surface="ERFURT" />
+<Entity id="6" startPos="108" endPos="115" type="organization-company" surface="dpa-AFX" />
+<Entity id="7" startPos="123" endPos="136" type="org-position" surface="Vorstandschef" />
+<Entity id="8" startPos="141" endPos="150" type="organization-company" surface="Ethikbank" />
+<Entity id="9" startPos="152" endPos="163" type="person" surface="Klaus Euler" />
+<Entity id="10" startPos="487" endPos="492" type="person" surface="Euler" />
+<Entity id="11" startPos="496" endPos="504" type="date" surface="Mittwoch" />
+<Entity id="12" startPos="508" endPos="514" type="location-city" surface="Erfurt" />
+<Entity id="13" startPos="603" endPos="659" type="organization" surface="Bundesverband Deutscher Volksbanken und Raiffeisenbanken" />
+<Entity id="14" startPos="885" endPos="890" type="person" surface="Euler" />
+<Entity id="15" startPos="895" endPos="899" type="org-position" surface="Chef" />
+<Entity id="16" startPos="904" endPos="923" type="organization-company" surface="Volksbank Eisenberg" /></Entities><Relations>
+<Relation id="17" NAME="OrganizationLeadership">
+<Entity id="9" label="person" />
+<Entity id="8" label="organization" />
+<Entity id="7" label="position" />
+</Relation>
+<Relation id="18" NAME="OrganizationLeadership">
+<Entity id="14" label="person" />
+<Entity id="16" label="organization" />
+<Entity id="15" label="position" />
+</Relation></Relations>
+</Document>

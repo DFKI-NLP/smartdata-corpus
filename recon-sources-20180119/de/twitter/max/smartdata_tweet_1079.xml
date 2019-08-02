@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT <NODE id="3" />WDR<NODE id="6" />: <NODE id="8" />Unwetter<NODE id="16" /> und Bombendrohung in <NODE id="38" />Hamm<NODE id="42" />. Veranstaltung Hammer Summer abgesagt. https://t.co/eT3zHfhpGx
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="739010280731054080" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-04T08:25:55Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T13:16:39.403Z" />
+<feature featureName="uri" featureValue="https://twitter.com/4596499635/status/739010280731054080" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="6" type="organization-company" surface="WDR" />
+<Entity id="1" startPos="8" endPos="16" type="disaster-type" surface="Unwetter" />
+<Entity id="2" startPos="38" endPos="42" type="location-city" surface="Hamm" /></Entities><Relations>
+<Relation id="3" NAME="Disaster">
+<Entity id="2" label="location" />
+<Entity id="1" label="type" />
+</Relation></Relations>
+</Document>

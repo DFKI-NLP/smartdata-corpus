@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Lufthansa<NODE id="9" />-Flugbegleiter <NODE id="24" />streiken<NODE id="32" /> auch am <NODE id="41" />Dienstag<NODE id="49" />
+<NODE id="50" />Frankfurt<NODE id="59" /> - Die Flugbegleiter der <NODE id="84" />Lufthansa<NODE id="93" /> setzen ihren <NODE id="107" />Streik<NODE id="113" /> leicht abgeschwächt am <NODE id="137" />Dienstag<NODE id="145" /> fort. An den beiden Grossflughäfen <NODE id="181" />Frankfurt<NODE id="190" /> und <NODE id="195" />München<NODE id="202" /> sollen im Unterschied zum <NODE id="229" />Montag<NODE id="235" /> nur die Langstrecken bestreikt werden, wie die Gewerkschaft <NODE id="296" />Ufo<NODE id="299" /> am <NODE id="303" />Montag<NODE id="309" /> mitteilte. In <NODE id="324" />Düsseldorf<NODE id="334" /> bleibt es wie in den Tagen zuvor dabei, dass sich der Arbeitskampf auch auf Kurz- und Mittelstrecken erstreckt.
+In <NODE id="450" />Frankfurt<NODE id="459" /> würden von <NODE id="471" />04.30 Uhr<NODE id="480" /> bis <NODE id="485" />23.00 Uhr<NODE id="494" /> alle Langstreckenflüge, in <NODE id="522" />München<NODE id="529" /> von <NODE id="534" />05.00 Uhr<NODE id="543" /> bis <NODE id="548" />24.00 Uhr<NODE id="557" /> ebenfalls alle Langstreckenflüge und in <NODE id="598" />Düsseldorf<NODE id="608" /> alle Kurz- und Langstreckenflüge von <NODE id="646" />4.30 Uhr<NODE id="654" /> bis <NODE id="659" />23.00 Uhr<NODE id="668" /> bestreikt, teilte <NODE id="687" />Ufo<NODE id="690" /> mit.
+Arbeitskampf und kein Ende in Sicht
+Der in der vergangenen Woche begonnene Streik soll noch bis einschliesslich ...
+Den vollständigen Artikel lesen ...
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanznachrichten.de/nachrichten-2015-11/35534347-lufthansa-flugbegleiter-streiken-auch-am-dienstag-095.htm@2016-03-10T14:55:32.832+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:55:32.832Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:55:33.318Z" />
+<feature featureName="uri" featureValue="http://www.finanznachrichten.de/nachrichten-2015-11/35534347-lufthansa-flugbegleiter-streiken-auch-am-dienstag-095.htm" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="organization-company" surface="Lufthansa" />
+<Entity id="1" startPos="24" endPos="32" type="trigger" surface="streiken" />
+<Entity id="2" startPos="41" endPos="49" type="date" surface="Dienstag" />
+<Entity id="3" startPos="50" endPos="59" type="location-city" surface="Frankfurt" />
+<Entity id="4" startPos="84" endPos="93" type="organization-company" surface="Lufthansa" />
+<Entity id="5" startPos="107" endPos="113" type="trigger" surface="Streik" />
+<Entity id="6" startPos="137" endPos="145" type="date" surface="Dienstag" />
+<Entity id="7" startPos="181" endPos="190" type="location-city" surface="Frankfurt" />
+<Entity id="8" startPos="195" endPos="202" type="location-city" surface="München" />
+<Entity id="9" startPos="229" endPos="235" type="date" surface="Montag" />
+<Entity id="10" startPos="296" endPos="299" type="organization" surface="Ufo" />
+<Entity id="11" startPos="303" endPos="309" type="date" surface="Montag" />
+<Entity id="12" startPos="324" endPos="334" type="location-city" surface="Düsseldorf" />
+<Entity id="13" startPos="450" endPos="459" type="location-city" surface="Frankfurt" />
+<Entity id="14" startPos="471" endPos="480" type="time" surface="04.30 Uhr" />
+<Entity id="15" startPos="485" endPos="494" type="time" surface="23.00 Uhr" />
+<Entity id="16" startPos="522" endPos="529" type="location-city" surface="München" />
+<Entity id="17" startPos="534" endPos="543" type="time" surface="05.00 Uhr" />
+<Entity id="18" startPos="548" endPos="557" type="time" surface="24.00 Uhr" />
+<Entity id="19" startPos="598" endPos="608" type="location-city" surface="Düsseldorf" />
+<Entity id="20" startPos="646" endPos="654" type="time" surface="4.30 Uhr" />
+<Entity id="21" startPos="659" endPos="668" type="time" surface="23.00 Uhr" />
+<Entity id="22" startPos="687" endPos="690" type="organization" surface="Ufo" /></Entities><Relations>
+<Relation id="23" NAME="Strike">
+<Entity id="2" label="date" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="24" NAME="Strike">
+<Entity id="6" label="date" />
+<Entity id="3" label="location" />
+<Entity id="4" label="company" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

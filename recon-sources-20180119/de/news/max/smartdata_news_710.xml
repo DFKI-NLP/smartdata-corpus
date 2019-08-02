@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Text kleiner größer
+Wetter – Frost im ganzen Land: Wintereinbruch führt zu Unfällen
+Reisende hadern, Wintersportler jubeln: Der Winter breitet sich in <NODE id="151" />Deutschland<NODE id="162" /> aus. Das weiße Idyll mag verzaubern, doch Autofahrern werden die rutschigen Straßen schnell zum Verhängnis.
+Voriger Artikel
+Artikel veröffentlicht: <NODE id="311" />Samstag, 16.01.2016<NODE id="330" /> <NODE id="331" />15:21 Uhr<NODE id="340" />
+Artikel aktualisiert: <NODE id="363" />Samstag, 16.01.2016<NODE id="382" /> <NODE id="383" />15:31 Uhr<NODE id="392" />
+Ein Auto fährt bei <NODE id="412" />Muggenbrunn<NODE id="423" /> (<NODE id="425" />Baden-Württemberg<NODE id="442" />) an einem Schneewarnschild vorbei. Aufgrund von Glätte und Schnee kam es auf vielen Straßen in <NODE id="538" />Deutschland<NODE id="549" /> zu Unfällen
+Quelle: <NODE id="570" />Patrick Seeger<NODE id="584" />
+Tweet
+<NODE id="591" />München<NODE id="598" />/<NODE id="599" />Stuttgart<NODE id="608" />. Glatte und verschneite Straßen haben vor allem in <NODE id="660" />Süddeutschland<NODE id="674" /> zu zahlreichen Unfällen geführt, und es soll noch winterlicher werden.
+Typisch deutsches Winterwetter stellte der <NODE id="789" />Deutsche Wetterdienst<NODE id="810" /> (<NODE id="812" />DWD<NODE id="815" />) für die kommende Woche in Aussicht. Ein Tief sorge zunächst für örtlich kräftigen Schneefall, ein folgendes Hoch konserviere die win
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.maz-online.de/Nachrichten/Buntes/Frost-im-ganzen-Land-Wintereinbruch-fuehrt-zu-Unfaellen@2016-03-10T13:55:18.993+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:55:18.993Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:55:23.319Z" />
+<feature featureName="uri" featureValue="http://www.maz-online.de/Nachrichten/Buntes/Frost-im-ganzen-Land-Wintereinbruch-fuehrt-zu-Unfaellen" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="151" endPos="162" type="location" surface="Deutschland" />
+<Entity id="1" startPos="311" endPos="330" type="date" surface="Samstag, 16.01.2016" />
+<Entity id="2" startPos="331" endPos="340" type="time" surface="15:21 Uhr" />
+<Entity id="3" startPos="363" endPos="382" type="date" surface="Samstag, 16.01.2016" />
+<Entity id="4" startPos="383" endPos="392" type="time" surface="15:31 Uhr" />
+<Entity id="5" startPos="412" endPos="423" type="location-city" surface="Muggenbrunn" />
+<Entity id="6" startPos="425" endPos="442" type="location" surface="Baden-Württemberg" />
+<Entity id="7" startPos="538" endPos="549" type="location" surface="Deutschland" />
+<Entity id="8" startPos="570" endPos="584" type="person" surface="Patrick Seeger" />
+<Entity id="9" startPos="591" endPos="598" type="location-city" surface="München" />
+<Entity id="10" startPos="599" endPos="608" type="location-city" surface="Stuttgart" />
+<Entity id="11" startPos="660" endPos="674" type="location" surface="Süddeutschland" />
+<Entity id="12" startPos="789" endPos="810" type="organization" surface="Deutsche Wetterdienst" />
+<Entity id="13" startPos="812" endPos="815" type="organization" surface="DWD" /></Entities><Relations />
+</Document>

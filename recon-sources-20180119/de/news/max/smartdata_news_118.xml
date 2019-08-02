@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Auto: Betriebsratschef: <NODE id="24" />Opel<NODE id="28" />-Zentrale bekommt <NODE id="46" />Hunderte<NODE id="54" /> neue Jobs
+Der Autobauer <NODE id="79" />Opel<NODE id="83" /> legt nicht nur beim Absatz zu - am Stammsitz <NODE id="129" />Rüsselsheim<NODE id="140" /> wächst nach... mehr
+Betriebsratschef: <NODE id="179" />Opel<NODE id="183" />-Zentrale bekommt <NODE id="201" />Hunderte<NODE id="209" /> neue Jobs
+<NODE id="220" />RÜSSELSHEIM<NODE id="231" /> (dpa-AFX) - Der Autobauer <NODE id="258" />Opel<NODE id="262" /> legt nicht nur beim Absatz zu - am Stammsitz... mehr
+Landtag muss nach Feueralarm für kurze Zeit geräumt werden
+Ein durchgebranntes Netzteil hat im <NODE id="411" />hessischen<NODE id="421" /> Landtag in <NODE id="433" />Wiesbaden<NODE id="442" /> einen Feueralarm... mehr
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nachrichten.de/sport/Genclerbirligi-Ankara-Saisonbeginn-Erstligist-Arbeitsplatz-Capa-cid_2285054/@2016-03-10T12:40:24.886+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.nachrichten.de/sport/Genclerbirligi-Ankara-Saisonbeginn-Erstligist-Arbeitsplatz-Capa-cid_2285054/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="24" endPos="28" type="organization-company" surface="Opel" />
+<Entity id="1" startPos="46" endPos="54" type="number" surface="Hunderte" />
+<Entity id="2" startPos="79" endPos="83" type="organization-company" surface="Opel" />
+<Entity id="3" startPos="129" endPos="140" type="location-city" surface="Rüsselsheim" />
+<Entity id="4" startPos="179" endPos="183" type="organization-company" surface="Opel" />
+<Entity id="5" startPos="201" endPos="209" type="number" surface="Hunderte" />
+<Entity id="6" startPos="220" endPos="231" type="location-city" surface="RÜSSELSHEIM" />
+<Entity id="7" startPos="258" endPos="262" type="organization-company" surface="Opel" />
+<Entity id="8" startPos="411" endPos="421" type="location" surface="hessischen" />
+<Entity id="9" startPos="433" endPos="442" type="location-city" surface="Wiesbaden" /></Entities><Relations />
+</Document>

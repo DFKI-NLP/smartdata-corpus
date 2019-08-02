@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Fahrzeugbau Bundesweite Proteste gegen <NODE id="39" />Stellenabbau<NODE id="51" /> bei <NODE id="56" />Bombardier<NODE id="66" />
+Mitarbeiter von <NODE id="83" />Bombardier<NODE id="93" /> demonstrieren am gegen geplante Stellenstreichungen. Foto:  <NODE id="154" />Uwe Zucchi<NODE id="164" />
+<NODE id="165" />Görlitz<NODE id="172" />/<NODE id="173" />Hennigsdorf<NODE id="184" /> (dpa) - Aus Protest gegen den angekündigten <NODE id="229" />Stellenabbau<NODE id="241" /> beim Zughersteller <NODE id="261" />Bombardier<NODE id="271" /> haben sich <NODE id="283" />Tausende<NODE id="291" /> Mitarbeiter an einem bundesweiten Aktionstag beteiligt.
+Von dpa
+Allein vor den <NODE id="371" />sächsischen<NODE id="382" /> Werken in <NODE id="393" />Görlitz<NODE id="400" /> und <NODE id="405" />Bautzen<NODE id="412" /> versammelten sich rund <NODE id="436" />1800<NODE id="440" /> Beschäftigte. «Wir kämpfen um unsere Arbeitsplätze. Bis heute gibt es seitens der Konzernleitung einen nicht nachvollziehbaren Zick-Zack-Kurs, der ideen- und innovationslos erscheint», sagte <NODE id="632" />Jan Otto<NODE id="640" /> von der <NODE id="649" />IG Metall Ostsachsen<NODE id="669" />.
+<NODE id="671" />Bombardier<NODE id="681" /> will <NODE id="687" />1430<NODE id="691" /> seiner <NODE id="699" />10 500<NODE id="705" /> Arbeitsplätze in <NODE id="723" />Deutschland<NODE id="734" /> <NODE id="735" />streichen<NODE id="744" /> - davon rund <NODE id="758" />1200<NODE id="762" /> an seinen <NODE id="773" />drei<NODE id="777" /> größten Standorten im Osten. Die <NODE id="811" />IG Metall <NODE id="821" />kündigte an, dem <NODE id="838" />kanadischen<NODE id="849" /> Unternehmen ein Gegenkonzept zum angekündigten Stellenabbau vorzulegen.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wn.de/Welt/Wirtschaft/2304068-Fahrzeugbau-Bundesweite-Proteste-gegen-Stellenabbau-bei-Bombardier@2016-03-17T14:25:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-17T13:25:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T17:08:11.931Z" />
+<feature featureName="uri" featureValue="http://www.wn.de/Welt/Wirtschaft/2304068-Fahrzeugbau-Bundesweite-Proteste-gegen-Stellenabbau-bei-Bombardier" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="39" endPos="51" type="trigger" surface="Stellenabbau" />
+<Entity id="1" startPos="56" endPos="66" type="organization-company" surface="Bombardier" />
+<Entity id="2" startPos="83" endPos="93" type="organization-company" surface="Bombardier" />
+<Entity id="3" startPos="154" endPos="164" type="person" surface="Uwe Zucchi" />
+<Entity id="4" startPos="165" endPos="172" type="location-city" surface="Görlitz" />
+<Entity id="5" startPos="173" endPos="184" type="location-city" surface="Hennigsdorf" />
+<Entity id="6" startPos="229" endPos="241" type="trigger" surface="Stellenabbau" />
+<Entity id="7" startPos="261" endPos="271" type="organization-company" surface="Bombardier" />
+<Entity id="8" startPos="283" endPos="291" type="number" surface="Tausende" />
+<Entity id="9" startPos="371" endPos="382" type="location" surface="sächsischen" />
+<Entity id="10" startPos="393" endPos="400" type="location-city" surface="Görlitz" />
+<Entity id="11" startPos="405" endPos="412" type="location-city" surface="Bautzen" />
+<Entity id="12" startPos="436" endPos="440" type="number" surface="1800" />
+<Entity id="13" startPos="632" endPos="640" type="person" surface="Jan Otto" />
+<Entity id="14" startPos="649" endPos="669" type="organization" surface="IG Metall Ostsachsen" />
+<Entity id="15" startPos="671" endPos="681" type="organization-company" surface="Bombardier" />
+<Entity id="16" startPos="687" endPos="691" type="number" surface="1430" />
+<Entity id="17" startPos="699" endPos="705" type="number" surface="10 500" />
+<Entity id="18" startPos="723" endPos="734" type="location" surface="Deutschland" />
+<Entity id="19" startPos="735" endPos="744" type="trigger" surface="streichen" />
+<Entity id="20" startPos="758" endPos="762" type="number" surface="1200" />
+<Entity id="21" startPos="773" endPos="777" type="number" surface="drei" />
+<Entity id="22" startPos="811" endPos="821" type="organization" surface="IG Metall " />
+<Entity id="23" startPos="838" endPos="849" type="location" surface="kanadischen" /></Entities><Relations>
+<Relation id="24" NAME="Layoffs">
+<Entity id="16" label="num_laid_off" />
+<Entity id="15" label="company" />
+<Entity id="18" label="location" />
+<Entity id="19" label="trigger" />
+</Relation></Relations>
+</Document>

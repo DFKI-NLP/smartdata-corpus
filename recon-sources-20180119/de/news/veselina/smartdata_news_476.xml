@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Düsseldorf<NODE id="10" /> Verkehr<NODE id="18" />
+<NODE id="19" />Nichts ging mehr voran in <NODE id="45" />Düsseldorf<NODE id="55" />: <NODE id="57" />Vollsperrung<NODE id="69" /> des <NODE id="74" />Rheinufertunnel<NODE id="89" /> in der Hauptverkehrszeit ab <NODE id="118" />15 Uhr am Dienstag<NODE id="136" />
+<NODE id="137" />Verkehr<NODE id="144" />
+<NODE id="145" />Düsseldorf<NODE id="155" /> nach dem 10.000-Volt-Kurzschluss: <NODE id="190" />Rheinufertunnel<NODE id="205" /> zwei Stunden <NODE id="219" />gesperrt<NODE id="227" /> - Nichts ging mehr!<NODE id="247" />
+<NODE id="248" />Diese Hauptverkehrszeit am Nachmittag werden Pendler so schnell nicht vergessen: Tausende von Autos standen am Dienstag ab 15 Uhr im Stau.<NODE id="386" /> <NODE id="387" />Bis in die Dunkelheit hinein brach der Verkehr auf den Hauptverkehrsstraßen zusammen.<NODE id="472" /> <NODE id="473" />Hunderte Fahrzeuge samt Fahrer waren gefangen im Altstadtparkhaus: Nichts ging mehr in <NODE id="560" />Düsseldorf<NODE id="570" />.<NODE id="571" /> <NODE id="572" />Grund: ein Kurzschluss in einem 10.000 Volt-Kabel im <NODE id="625" />Rheintunnel<NODE id="636" />.<NODE id="637" />
+<NODE id="638" />Damit waren die vier wichtigsten Fahrbahnen der Stadt für mehr als zwei Stunden lahm gelegt.<NODE id="730" /> <NODE id="731" />Erst versuchte die Polizei noch, den Verkehr von Hand durch den <NODE id="795" />Rheinufertunnel<NODE id="810" /> zu leiten.<NODE id="821" /> <NODE id="822" />Doch rasch stellten die Beamten diesen Versuch ein.<NODE id="873" /> <NODE id="874" />Es war einfach zu gefährli<NODE id="900" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.report-k.de/Report-D/Duesseldorf/Verkehr/Duesseldorf-nach-dem-10.000-Volt-Kurzschluss-Rheinufertunnel-zwei-Stunden-gesperrt-Nichts-ging-mehr%21-51712@2015-12-01T19:12:35.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-01T18:12:35Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T08:46:50.478Z" />
+<feature featureName="uri" featureValue="http://www.report-k.de/Report-D/Duesseldorf/Verkehr/Duesseldorf-nach-dem-10.000-Volt-Kurzschluss-Rheinufertunnel-zwei-Stunden-gesperrt-Nichts-ging-mehr%21-51712" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="location-city" surface="Düsseldorf" />
+<Entity id="1" startPos="0" endPos="18" type="sentence" surface="Düsseldorf Verkehr" />
+<Entity id="2" startPos="19" endPos="136" type="sentence" surface="Nichts ging mehr voran in Düsseldorf: Vollsperrung des Rheinufertunnel in der Hauptverkehrszeit ab 15 Uhr am Dienstag" />
+<Entity id="3" startPos="45" endPos="55" type="location-city" surface="Düsseldorf" />
+<Entity id="4" startPos="57" endPos="69" type="trigger" surface="Vollsperrung" />
+<Entity id="5" startPos="74" endPos="89" type="location" surface="Rheinufertunnel" />
+<Entity id="6" startPos="118" endPos="136" type="date" surface="15 Uhr am Dienstag" />
+<Entity id="7" startPos="137" endPos="144" type="sentence" surface="Verkehr" />
+<Entity id="8" startPos="145" endPos="155" type="location-city" surface="Düsseldorf" />
+<Entity id="9" startPos="145" endPos="247" type="sentence" surface="Düsseldorf nach dem 10.000-Volt-Kurzschluss: Rheinufertunnel zwei Stunden gesperrt - Nichts ging mehr!" />
+<Entity id="10" startPos="190" endPos="205" type="location" surface="Rheinufertunnel" />
+<Entity id="11" startPos="219" endPos="227" type="trigger" surface="gesperrt" />
+<Entity id="12" startPos="248" endPos="386" type="sentence" surface="Diese Hauptverkehrszeit am Nachmittag werden Pendler so schnell nicht vergessen: Tausende von Autos standen am Dienstag ab 15 Uhr im Stau." />
+<Entity id="13" startPos="387" endPos="472" type="sentence" surface="Bis in die Dunkelheit hinein brach der Verkehr auf den Hauptverkehrsstraßen zusammen." />
+<Entity id="14" startPos="473" endPos="571" type="sentence" surface="Hunderte Fahrzeuge samt Fahrer waren gefangen im Altstadtparkhaus: Nichts ging mehr in Düsseldorf." />
+<Entity id="15" startPos="560" endPos="570" type="location-city" surface="Düsseldorf" />
+<Entity id="16" startPos="572" endPos="637" type="sentence" surface="Grund: ein Kurzschluss in einem 10.000 Volt-Kabel im Rheintunnel." />
+<Entity id="17" startPos="625" endPos="636" type="location" surface="Rheintunnel" />
+<Entity id="18" startPos="638" endPos="730" type="sentence" surface="Damit waren die vier wichtigsten Fahrbahnen der Stadt für mehr als zwei Stunden lahm gelegt." />
+<Entity id="19" startPos="731" endPos="821" type="sentence" surface="Erst versuchte die Polizei noch, den Verkehr von Hand durch den Rheinufertunnel zu leiten." />
+<Entity id="20" startPos="795" endPos="810" type="location" surface="Rheinufertunnel" />
+<Entity id="21" startPos="822" endPos="873" type="sentence" surface="Doch rasch stellten die Beamten diesen Versuch ein." />
+<Entity id="22" startPos="874" endPos="900" type="sentence" surface="Es war einfach zu gefährli" /></Entities><Relations>
+<Relation id="23" NAME="Obstruction">
+<Entity id="5" label="location" />
+<Entity id="4" label="trigger" />
+<Entity id="6" label="start_date" />
+</Relation>
+<Relation id="24" NAME="Obstruction">
+<Entity id="10" label="location" />
+<Entity id="11" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Zitat:<NODE id="6" />
+<NODE id="7" />Zitat von Rajo1967<NODE id="25" />
+<NODE id="26" />�brigens gibt es da noch andere Gesellschaften bei Unfall mit denen ich noch nie Probleme in der Regulierung hatte.<NODE id="141" /> <NODE id="142" />Concordia<NODE id="151" />, <NODE id="153" />Mannheimer<NODE id="163" /> (nicht verwechseln mit <NODE id="187" />HamburgMannheimer<NODE id="204" /> / <NODE id="207" />Ergo<NODE id="211" />), <NODE id="214" />Interrisk<NODE id="223" /> u.s.w.<NODE id="230" /> <NODE id="231" />Bei den Gesellschaften lief alles sauber, auch wenn mal kleinere oder gr��ere Schwierigkeiten auftraten.<NODE id="335" />
+<NODE id="336" />Deine namentlich genannten kenne ich in den letzten Jahren auch so und die sind auch bei Ungereimtheiten meist gespr�chsbereit.<NODE id="463" />
+<NODE id="464" />Moin Rajo, ohja die darf man wirklich nicht verwechseln mit der <NODE id="528" />ERGO<NODE id="532" /> Versicherung ich hatte in meinem fr�heren Leben als Bauunternehmer(vor Unfall) schon einige Versicherungen auf dem Schirm wo Auftr�ge (Schadensbehebung/Geb�udeversicherung) mit Vorsicht zu genie�en waren (zusammen teilweise 6-stellige Rechnungsaussenst�nde �ber mehrere Monate,meisst nur durch Mahnverfahren einzufordern).<NODE id="855" /> <NODE id="856" />Auf der roten Liste standen bei mir u.a. die <NODE id="901" />ERGO<NODE id="905" />,<NODE id="906" />Alte Leipziger<NODE id="920" />,<NODE id="921" />ARAG<NODE id="925" />,<NODE id="926" />Allianz<NODE id="933" />,<NODE id="934" />Generali<NODE id="942" />,<NODE id="943" />R+V<NODE id="946" />,<NODE id="947" />N�rnberger<NODE id="957" /> und auch die<NODE id="970" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.unfallopfer.de/forum/showthread.php?t=34061&amp;goto=newpost@2016-03-10T16:08:21.606+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T15:08:21.606Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T15:08:23.485Z" />
+<feature featureName="uri" featureValue="http://www.unfallopfer.de/forum/showthread.php?t=34061&amp;goto=newpost" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="sentence" surface="Zitat:" />
+<Entity id="1" startPos="7" endPos="25" type="sentence" surface="Zitat von Rajo1967" />
+<Entity id="2" startPos="26" endPos="141" type="sentence" surface="�brigens gibt es da noch andere Gesellschaften bei Unfall mit denen ich noch nie Probleme in der Regulierung hatte." />
+<Entity id="3" startPos="142" endPos="151" type="organization-company" surface="Concordia" />
+<Entity id="4" startPos="142" endPos="230" type="sentence" surface="Concordia, Mannheimer (nicht verwechseln mit HamburgMannheimer / Ergo), Interrisk u.s.w." />
+<Entity id="5" startPos="153" endPos="163" type="organization-company" surface="Mannheimer" />
+<Entity id="6" startPos="187" endPos="204" type="organization-company" surface="HamburgMannheimer" />
+<Entity id="7" startPos="207" endPos="211" type="organization-company" surface="Ergo" />
+<Entity id="8" startPos="214" endPos="223" type="organization-company" surface="Interrisk" />
+<Entity id="9" startPos="231" endPos="335" type="sentence" surface="Bei den Gesellschaften lief alles sauber, auch wenn mal kleinere oder gr��ere Schwierigkeiten auftraten." />
+<Entity id="10" startPos="336" endPos="463" type="sentence" surface="Deine namentlich genannten kenne ich in den letzten Jahren auch so und die sind auch bei Ungereimtheiten meist gespr�chsbereit." />
+<Entity id="11" startPos="464" endPos="855" type="sentence" surface="Moin Rajo, ohja die darf man wirklich nicht verwechseln mit der ERGO Versicherung ich hatte in meinem fr�heren Leben als Bauunternehmer(vor Unfall) schon einige Versicherungen auf dem Schirm wo Auftr�ge (Schadensbehebung/Geb�udeversicherung) mit Vorsicht zu genie�en waren (zusammen teilweise 6-stellige Rechnungsaussenst�nde �ber mehrere Monate,meisst nur durch Mahnverfahren einzufordern)." />
+<Entity id="12" startPos="528" endPos="532" type="organization-company" surface="ERGO" />
+<Entity id="13" startPos="856" endPos="970" type="sentence" surface="Auf der roten Liste standen bei mir u.a. die ERGO,Alte Leipziger,ARAG,Allianz,Generali,R+V,N�rnberger und auch die" />
+<Entity id="14" startPos="901" endPos="905" type="organization-company" surface="ERGO" />
+<Entity id="15" startPos="906" endPos="920" type="organization-company" surface="Alte Leipziger" />
+<Entity id="16" startPos="921" endPos="925" type="organization-company" surface="ARAG" />
+<Entity id="17" startPos="926" endPos="933" type="organization-company" surface="Allianz" />
+<Entity id="18" startPos="934" endPos="942" type="organization-company" surface="Generali" />
+<Entity id="19" startPos="943" endPos="946" type="organization-company" surface="R+V" />
+<Entity id="20" startPos="947" endPos="957" type="organization-company" surface="N�rnberger" /></Entities><Relations />
+</Document>

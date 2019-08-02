@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-HA<NODE id="6" />: Unfall unter Alkohol- und Tabletteneinfluss
+<NODE id="52" />14.01.2016<NODE id="62" /> – <NODE id="65" />13:17<NODE id="70" />
+<NODE id="71" />Hagen<NODE id="76" /> (<NODE id="78" />ots<NODE id="81" />) - Am <NODE id="88" />Mittwochabend<NODE id="101" /> beobachtete ein Zeuge einen merkwürdigen <NODE id="143" />Verkehrsunfall<NODE id="157" /> im <NODE id="161" />Hochschulviertel<NODE id="177" /> und rief die Polizei hinzu. Gegen <NODE id="212" />21.15 Uhr<NODE id="221" /> stand ein unbeleuchteter Audi in der <NODE id="259" />Veilchenstraße<NODE id="273" />. Der Pkw setzte ohne Beleuchtung zurück, touchierte einen parkenden Mazda und es entstand erheblicher Sachschaden. Dennoch blieb der Autofahrer reglos in dem Audi sitzen. Auch beim Eintreffen der Polizisten befand sich der <NODE id="497" />56-jährige<NODE id="507" /> Fahrer im Wagen, wirkte teilnahmslos und gab an, sich an keinen Unfall erinnern zu können. Ein Alkoholtest ergab einen Wert über <NODE id="637" />zwei Promille<NODE id="650" /> und zusätzlich gab der Unfallverursacher an, Medikamente genommen zu haben. Er musste mit zur Blutprobe und ist nun den Führerschein los, die weiteren Ermittlungen dauern an. Eine erste Schätzung der Schadenshöhe an den beiden Autos beläuft sich auf ca.<NODE id="904" /> 3500 Euro<NODE id="914" />.
+Rückfragen bitte an:
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.presseportal.de/blaulicht/pm/30835/3225041@2016-03-10T12:15:55.412+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:15:55.412Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:16:03.319Z" />
+<feature featureName="uri" featureValue="http://www.presseportal.de/blaulicht/pm/30835/3225041" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization" surface="POL-HA" />
+<Entity id="1" startPos="52" endPos="62" type="date" surface="14.01.2016" />
+<Entity id="2" startPos="65" endPos="70" type="time" surface="13:17" />
+<Entity id="3" startPos="71" endPos="76" type="location-city" surface="Hagen" />
+<Entity id="4" startPos="78" endPos="81" type="organization-company" surface="ots" />
+<Entity id="5" startPos="88" endPos="101" type="date" surface="Mittwochabend" />
+<Entity id="6" startPos="143" endPos="157" type="trigger" surface="Verkehrsunfall" />
+<Entity id="7" startPos="161" endPos="177" type="location" surface="Hochschulviertel" />
+<Entity id="8" startPos="212" endPos="221" type="time" surface="21.15 Uhr" />
+<Entity id="9" startPos="259" endPos="273" type="location-street" surface="Veilchenstraße" />
+<Entity id="10" startPos="497" endPos="507" type="number" surface="56-jährige" />
+<Entity id="11" startPos="637" endPos="650" type="number" surface="zwei Promille" />
+<Entity id="12" startPos="904" endPos="914" type="number" surface=" 3500 Euro" /></Entities><Relations>
+<Relation id="13" NAME="Accident">
+<Entity id="3" label="location" />
+<Entity id="7" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="5" label="start_date" />
+<Entity id="5" label="end_date" />
+</Relation></Relations>
+</Document>

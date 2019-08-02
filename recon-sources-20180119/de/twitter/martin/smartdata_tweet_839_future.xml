@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>&#x1f30f; <NODE id="3" />DZ<NODE id="5" /> und <NODE id="10" />WGZ<NODE id="13" /> treiben <NODE id="22" />Fusion<NODE id="28" /> voran: Bald Klarheit über Stellenabbau https://t.co/sWHKV2f3qH ❚DT. BÖRSE AG
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745929957084434432" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-23T10:42:15Z" />
+<feature featureName="indexDate" featureValue="2016-06-23T10:42:17.092Z" />
+<feature featureName="uri" featureValue="https://twitter.com/194538182/status/745929957084434432" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="5" type="organization-company" surface="DZ" />
+<Entity id="1" startPos="10" endPos="13" type="organization-company" surface="WGZ" />
+<Entity id="2" startPos="22" endPos="28" type="trigger" surface="Fusion" /></Entities><Relations>
+<Relation id="3" NAME="Merger">
+<Entity id="0" label="old" />
+<Entity id="1" label="old" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

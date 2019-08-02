@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Der Funkstreifzug: Airlines knausern bei Entschädigungen
+Experten haben anhand von Flugdaten berechnet, dass im <NODE id="112" />vergangenen Jahr<NODE id="128" /> allein in <NODE id="139" />Deutschland<NODE id="150" /> <NODE id="151" />720 Millionen Euro<NODE id="169" /> Entschädigungen nicht ausbezahlt wurden. Dabei sind die Fluggastrechte in der <NODE id="248" />EU<NODE id="250" /> klar geregelt: Passagieren steht bei Verspätung ab <NODE id="302" />drei Stunden<NODE id="314" /> Wartezeit ein Ausgleich von <NODE id="343" />250<NODE id="346" /> bis <NODE id="351" />600 Euro<NODE id="359" /> zu. Doch häufig schaffen es die Geschädigten nicht, ihre Ansprüche durchzusetzen.
+Experten: Airlines wimmeln Forderungen ab
+Die Ursache sehen Reiserechtsexperten im kundenunfreundlichen Verhalten der Airlines. Viele Passagiere werden demnach gar nicht oder falsch über ihre Rechte informiert oder die Forderungen würden abgewimmelt. Das bestätigen auch Umfragen der <NODE id="726" />EU-Kommission<NODE id="739" />.
+Entschädigungsanspruch ab <NODE id="767" />drei Stunden<NODE id="779" /> Verspätung
+Die Fluggastrechte-Verordnung der EU sieht Ausgleichszahlungen ab <NODE id="857" />3 Stunden<NODE id="866" /> Verspätung bzw. Annullierung je nach Fluggstrecke vor.
+Bis <NODE id="926" />1.500 Kilometer<NODE id="941" />: 2
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.br.de/nachrichten/fluggastrechte-ausgleichszahlungen-durchsetzen-104.html@2016-04-02T06:50:40.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-02T04:50:40Z" />
+<feature featureName="indexDate" featureValue="2016-04-02T05:04:06.691Z" />
+<feature featureName="uri" featureValue="http://www.br.de/nachrichten/fluggastrechte-ausgleichszahlungen-durchsetzen-104.html" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="112" endPos="128" type="date" surface="vergangenen Jahr" />
+<Entity id="1" startPos="139" endPos="150" type="location" surface="Deutschland" />
+<Entity id="2" startPos="151" endPos="169" type="number" surface="720 Millionen Euro" />
+<Entity id="3" startPos="248" endPos="250" type="location" surface="EU" />
+<Entity id="4" startPos="302" endPos="314" type="duration" surface="drei Stunden" />
+<Entity id="5" startPos="343" endPos="346" type="number" surface="250" />
+<Entity id="6" startPos="351" endPos="359" type="number" surface="600 Euro" />
+<Entity id="7" startPos="726" endPos="739" type="organization" surface="EU-Kommission" />
+<Entity id="8" startPos="767" endPos="779" type="duration" surface="drei Stunden" />
+<Entity id="9" startPos="857" endPos="866" type="duration" surface="3 Stunden" />
+<Entity id="10" startPos="926" endPos="941" type="distance" surface="1.500 Kilometer" /></Entities><Relations />
+</Document>

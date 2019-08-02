@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Von <NODE id="4" />Daniel Eckert<NODE id="17" /> <NODE id="18" />Daniel Eckert<NODE id="31" /> Biografie und alle Artikel des Autors Facebook Google + Twitter Finanzredakteur
+Foto: Infografik Die Welt
+Vor ziemlich genau einem Jahr, am <NODE id="172" />15. Januar 2015<NODE id="187" />, traf die <NODE id="198" />Schweizerische Nationalbank <NODE id="226" />(<NODE id="227" />SNB<NODE id="230" />) eine folgenschwere Entscheidung. Völlig überraschend löste sie den Franken vom Euro, der Währung ihrer wichtigsten Handelspartner, und ließ den Kurs frei schwanken. Von vielen im In- und Ausland als Akt der geldpolitischen Souveränität bejubelt, war damals schon klar: Die <NODE id="505" />SNB<NODE id="508" /> würde für den unerwarteten Schritt einen hohen Preis zahlen müssen.
+Die Rechnung kam nun, in Gestalt eines gigantischen Buchverlustes: Mit einem Jahresverlust von <NODE id="672" />23 Milliarden Franken<NODE id="693" /> (rund <NODE id="700" />21 Milliarden Euro<NODE id="718" />) hat die eidgenössische Notenbank das größte Minus ihrer Geschichte eingefahren. Das hat die <NODE id="812" />SNB<NODE id="815" /> am Freitag auf Basis vorläufiger Berechnungen mitgeteilt.
+Der größte Teil der Verluste geht auf Kosten der Devisenturbulenzen n
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/finanzen/article150793641/Schweiz-zahlt-hohen-Preis-im-Waehrungskrieg.html@2016-03-10T15:34:47.410+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.welt.de/finanzen/article150793641/Schweiz-zahlt-hohen-Preis-im-Waehrungskrieg.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="person" surface="Daniel Eckert" />
+<Entity id="1" startPos="18" endPos="31" type="person" surface="Daniel Eckert" />
+<Entity id="2" startPos="172" endPos="187" type="date" surface="15. Januar 2015" />
+<Entity id="3" startPos="198" endPos="226" type="organization" surface="Schweizerische Nationalbank " />
+<Entity id="4" startPos="227" endPos="230" type="organization-company" surface="SNB" />
+<Entity id="5" startPos="505" endPos="508" type="organization" surface="SNB" />
+<Entity id="6" startPos="672" endPos="693" type="number" surface="23 Milliarden Franken" />
+<Entity id="7" startPos="700" endPos="718" type="number" surface="21 Milliarden Euro" />
+<Entity id="8" startPos="812" endPos="815" type="organization" surface="SNB" /></Entities><Relations />
+</Document>

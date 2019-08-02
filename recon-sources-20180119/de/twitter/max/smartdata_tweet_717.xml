@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die nächste Verspätung wird immer genau zum Ablauf der vorherigen angesagt.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670630687591014400" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-28T15:49:50Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:22:04.122Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities /><Relations />
+</Document>

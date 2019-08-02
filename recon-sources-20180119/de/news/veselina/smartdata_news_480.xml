@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Für die aufgeführten Inhalte kann keine Gewährleistung für die Vollständigkeit, Richtigkeit und Genauigkeit übernommen werden.<NODE id="126" />
+<NODE id="127" />Kursinformationen von <NODE id="149" />SIX Financial Information Deutschland GmbH<NODE id="191" />.<NODE id="192" /> <NODE id="193" />Verzögerung 15 Min. (Nasdaq, NYSE: 20 Min.).<NODE id="237" /> <NODE id="238" />© 1999-2016 <NODE id="250" />finanzen.net GmbH<NODE id="267" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzen.at/nachrichten/anleihen/Resolute-Forest-Products-Inc-Moodys-lowers-Resolutes-liquidity-rating-to-SGL-2;-affirms-Ba3-ratings-1001002857@2016-03-10T17:52:56.015+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T16:52:56.015Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T16:53:03.483Z" />
+<feature featureName="uri" featureValue="http://www.finanzen.at/nachrichten/anleihen/Resolute-Forest-Products-Inc-Moodys-lowers-Resolutes-liquidity-rating-to-SGL-2;-affirms-Ba3-ratings-1001002857" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="126" type="sentence" surface="Für die aufgeführten Inhalte kann keine Gewährleistung für die Vollständigkeit, Richtigkeit und Genauigkeit übernommen werden." />
+<Entity id="1" startPos="127" endPos="192" type="sentence" surface="Kursinformationen von SIX Financial Information Deutschland GmbH." />
+<Entity id="2" startPos="149" endPos="191" type="organization-company" surface="SIX Financial Information Deutschland GmbH" />
+<Entity id="3" startPos="193" endPos="237" type="sentence" surface="Verzögerung 15 Min. (Nasdaq, NYSE: 20 Min.)." />
+<Entity id="4" startPos="238" endPos="267" type="sentence" surface="© 1999-2016 finanzen.net GmbH" />
+<Entity id="5" startPos="250" endPos="267" type="organization-company" surface="finanzen.net GmbH" /></Entities><Relations />
+</Document>

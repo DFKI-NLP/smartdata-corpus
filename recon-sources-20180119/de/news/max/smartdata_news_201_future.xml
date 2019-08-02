@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>***<NODE id="3" />Chemchina<NODE id="12" /> steht kurz vor <NODE id="28" />Übernahme<NODE id="37" /> von <NODE id="42" />Syngenta<NODE id="50" />, Deal über <NODE id="62" />43 MRD USD<NODE id="72" />(Kreise)
+<NODE id="81" />02.02.2016<NODE id="91" /> <NODE id="92" />13:25<NODE id="97" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://feeds.cash.ch/c/32619/f/501848/s/4d4dc065/sc/17/l/0L0Scash0Bch0Cnews0Cboersenticker0Crss0Cchemchina0Isteht0Ikurz0Ivor0Iuebernahme0Ivon0Isyngenta0Ideal0Iueber0I430Imrd0Iusdkreise0E34148810E450A/story01.htm@2016-02-02T13:25:19.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-02T12:25:19Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T19:39:02.953Z" />
+<feature featureName="uri" featureValue="http://feeds.cash.ch/c/32619/f/501848/s/4d4dc065/sc/17/l/0L0Scash0Bch0Cnews0Cboersenticker0Crss0Cchemchina0Isteht0Ikurz0Ivor0Iuebernahme0Ivon0Isyngenta0Ideal0Iueber0I430Imrd0Iusdkreise0E34148810E450A/story01.htm" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="12" type="organization-company" surface="Chemchina" />
+<Entity id="1" startPos="28" endPos="37" type="trigger" surface="Übernahme" />
+<Entity id="2" startPos="42" endPos="50" type="organization-company" surface="Syngenta" />
+<Entity id="3" startPos="62" endPos="72" type="number" surface="43 MRD USD" />
+<Entity id="4" startPos="81" endPos="91" type="date" surface="02.02.2016" />
+<Entity id="5" startPos="92" endPos="97" type="time" surface="13:25" /></Entities><Relations>
+<Relation id="6" NAME="Acquisition">
+<Entity id="3" label="price" />
+<Entity id="1" label="trigger" />
+<Entity id="2" label="acquired" />
+<Entity id="0" label="buyer" />
+</Relation></Relations>
+</Document>

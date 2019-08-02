@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Tough News: <NODE id="12" />Buffer<NODE id="18" /> macht alle Überlegungen zu <NODE id="46" />Entlassungen<NODE id="58" /> (<NODE id="60" />11%<NODE id="63" /> der Mitarbeiter) öffentlich https://t.co/CjV4gsxzaI
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745920097701797888" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-23T10:03:04Z" />
+<feature featureName="indexDate" featureValue="2016-06-23T10:03:11.432Z" />
+<feature featureName="uri" featureValue="https://twitter.com/36171551/status/745920097701797888" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="18" type="organization-company" surface="Buffer" />
+<Entity id="1" startPos="46" endPos="58" type="trigger" surface="Entlassungen" />
+<Entity id="2" startPos="60" endPos="63" type="number" surface="11%" /></Entities><Relations>
+<Relation id="3" NAME="Layoffs">
+<Entity id="2" label="num_laid_off" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

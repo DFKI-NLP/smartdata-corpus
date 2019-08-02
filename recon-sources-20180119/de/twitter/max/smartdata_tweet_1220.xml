@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @fmpreuss: <NODE id="14" />BoConcept<NODE id="23" /> <NODE id="24" />NRW<NODE id="27" />: <NODE id="29" />Oki Sato<NODE id="37" /> - Das Gesicht hinter Fusion https://t.co/q8YPUsmKh8
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755844425444569094" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-20T19:18:48Z" />
+<feature featureName="indexDate" featureValue="2016-07-20T19:18:55.047Z" />
+<feature featureName="uri" featureValue="https://twitter.com/4447653915/status/755844425444569094" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="23" type="organization-company" surface="BoConcept" />
+<Entity id="1" startPos="24" endPos="27" type="location" surface="NRW" />
+<Entity id="2" startPos="29" endPos="37" type="person" surface="Oki Sato" /></Entities><Relations />
+</Document>

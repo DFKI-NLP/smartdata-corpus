@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Anfang,
+meiner Geschichtskenntnis nach ist sowas immer <NODE id="55" />1<NODE id="56" /> Anfang.
+Außer er hat doch noch <NODE id="88" />1<NODE id="89" /> Unfall. https://t.co/rqKc1y23U5
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755056995300995073" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T15:09:50Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T15:09:54.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/52016801/status/755056995300995073" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="55" endPos="56" type="number" surface="1" />
+<Entity id="1" startPos="88" endPos="89" type="number" surface="1" /></Entities><Relations />
+</Document>

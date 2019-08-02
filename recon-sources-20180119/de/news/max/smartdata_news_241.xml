@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ex-<NODE id="3" />Imtech<NODE id="9" />-Chef <NODE id="15" />Colsman<NODE id="22" /> geht zu <NODE id="31" />Zech Management<NODE id="46" />
+Artikel vom <NODE id="59" />24.03.2016<NODE id="69" />, <NODE id="71" />12:23<NODE id="76" />
+Ex-<NODE id="80" />Imtech<NODE id="86" />-Deutschlandchef <NODE id="103" />Felix Colsman<NODE id="116" /> ist zu <NODE id="124" />Zech Management<NODE id="139" /> gewechselt. Nach der <NODE id="161" />Übernahme<NODE id="170" /> der Projekt- und Dienstleistungssparten der <NODE id="215" />insolventen<NODE id="226" /> <NODE id="227" />Imtech Deutschland<NODE id="245" /> sowie aller rund <NODE id="263" />2.300<NODE id="268" /> operativen Mitarbeiter und Auszubildenden (über <NODE id="317" />280<NODE id="320" />) durch die <NODE id="332" />Bremer<NODE id="338" /> <NODE id="339" />Gustav-Zech-Stiftung<NODE id="359" /> sucht <NODE id="366" />Colsman<NODE id="373" /> nun als <NODE id="382" />Geschäftsführer<NODE id="397" /> von <NODE id="402" />Zech Management<NODE id="417" /> nach M&amp;A-Gelegenheiten in den Bereichen (Immobilien-)Dienstleistungen, Energie und Industrie.
+<NODE id="512" />Felix Colsman<NODE id="525" />.
+Bild:  <NODE id="534" />Imtech Deutschland<NODE id="552" />
+?Investitionsziele sind große Einheiten mit klarem Verbesserungspotenzial oder kleine Einheiten, die über besondere Fähigkeiten verfügen oder bestehende Aktivitäten der rund <NODE id="727" />200<NODE id="730" /> <NODE id="731" />Zech<NODE id="735" />-Unternehmen ergänzen?, lässt <NODE id="765" />Colsman<NODE id="772" /> auf Nachfrage wissen. <NODE id="795" />Zech Management<NODE id="810" /> ist der zentrale Dienstleister der <NODE id="846" />Zech Group<NODE id="856" />.
+?Die Überleitung der Aktivitäten der operativen Einheiten von <NODE id="920" />Imtech Deutschland <NODE id="939" />von der Insolvenzverwa
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.iz-jobs.de/karriere/koepfe/ex-imtech-chef-coleman-geht-zu-zech-management,1000031881.html@2016-03-24T13:39:45.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-24T12:39:45Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T17:20:00.909Z" />
+<feature featureName="uri" featureValue="http://www.iz-jobs.de/karriere/koepfe/ex-imtech-chef-coleman-geht-zu-zech-management,1000031881.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="9" type="organization-company" surface="Imtech" />
+<Entity id="1" startPos="15" endPos="22" type="person" surface="Colsman" />
+<Entity id="2" startPos="31" endPos="46" type="organization-company" surface="Zech Management" />
+<Entity id="3" startPos="59" endPos="69" type="date" surface="24.03.2016" />
+<Entity id="4" startPos="71" endPos="76" type="time" surface="12:23" />
+<Entity id="5" startPos="80" endPos="86" type="organization-company" surface="Imtech" />
+<Entity id="6" startPos="103" endPos="116" type="person" surface="Felix Colsman" />
+<Entity id="7" startPos="124" endPos="139" type="organization-company" surface="Zech Management" />
+<Entity id="8" startPos="161" endPos="170" type="trigger" surface="Übernahme" />
+<Entity id="9" startPos="215" endPos="226" type="trigger" surface="insolventen" />
+<Entity id="10" startPos="227" endPos="245" type="organization-company" surface="Imtech Deutschland" />
+<Entity id="11" startPos="263" endPos="268" type="number" surface="2.300" />
+<Entity id="12" startPos="317" endPos="320" type="number" surface="280" />
+<Entity id="13" startPos="332" endPos="338" type="location-city" surface="Bremer" />
+<Entity id="14" startPos="339" endPos="359" type="organization" surface="Gustav-Zech-Stiftung" />
+<Entity id="15" startPos="366" endPos="373" type="person" surface="Colsman" />
+<Entity id="16" startPos="382" endPos="397" type="org-position" surface="Geschäftsführer" />
+<Entity id="17" startPos="402" endPos="417" type="organization-company" surface="Zech Management" />
+<Entity id="18" startPos="512" endPos="525" type="person" surface="Felix Colsman" />
+<Entity id="19" startPos="534" endPos="552" type="organization-company" surface="Imtech Deutschland" />
+<Entity id="20" startPos="727" endPos="730" type="number" surface="200" />
+<Entity id="21" startPos="731" endPos="735" type="organization-company" surface="Zech" />
+<Entity id="22" startPos="765" endPos="772" type="person" surface="Colsman" />
+<Entity id="23" startPos="795" endPos="810" type="organization-company" surface="Zech Management" />
+<Entity id="24" startPos="846" endPos="856" type="organization-company" surface="Zech Group" />
+<Entity id="25" startPos="920" endPos="939" type="organization-company" surface="Imtech Deutschland " /></Entities><Relations>
+<Relation id="26" NAME="Acquisition">
+<Entity id="8" label="trigger" />
+<Entity id="10" label="acquired" />
+<Entity id="14" label="buyer" />
+</Relation>
+<Relation id="27" NAME="Insolvency">
+<Entity id="10" label="company" />
+<Entity id="9" label="trigger" />
+</Relation>
+<Relation id="28" NAME="OrganizationLeadership">
+<Entity id="15" label="person" />
+<Entity id="17" label="organization" />
+<Entity id="16" label="position" />
+</Relation></Relations>
+</Document>

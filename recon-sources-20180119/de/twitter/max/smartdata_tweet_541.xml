@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @GamingLeed: Mit <NODE id="20" />77.000 €<NODE id="28" /> hat diese geniale Community wieder einmal ein Zeichen gesetzt  wie man seine Reichweite sinnvoll einbringt! #b…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668482261189320704" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-22T17:32:45Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:06:55.73Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="28" type="number" surface="77.000 €" /></Entities><Relations />
+</Document>

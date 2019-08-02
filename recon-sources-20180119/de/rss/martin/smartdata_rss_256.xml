@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Samstag, 18. Juni<NODE id="20" />, <NODE id="22" />8.30<NODE id="26" /> – <NODE id="29" />8.45 Uhr<NODE id="37" />
+Meldung:
+<NODE id="47" />ICE 1716<NODE id="55" /> von <NODE id="60" />Leipzig Hbf<NODE id="71" /> (planmäßige Ankunft <NODE id="92" />8.41 Uhr<NODE id="100" /> in <NODE id="104" />Berlin-Gesundbrunnen<NODE id="124" />) endet in <NODE id="135" />Berlin Hbf<NODE id="145" /> und <NODE id="150" />fällt<NODE id="155" /> von <NODE id="160" />Berlin Hbf<NODE id="170" /> bis <NODE id="175" />Berlin-Gesundbrunnen<NODE id="195" /> <NODE id="196" />aus<NODE id="199" />.
+Grund:
+Schienenauswechslung <NODE id="229" />Berlin Hbf<NODE id="239" /> – <NODE id="242" />Berlin Bornholmer Str.<NODE id="264" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="334" />193<NODE id="337" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_28-Warnemuende_Binz_Hamburg_-_Berlin-Leipzig-Jena-Nuernberg-Muenchen-Innsbruck/13#b8affd2b0091c0e4c784d70bef10461455d867e0@2016-04-18T09:11:52.836+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-18T07:11:52.836Z" />
+<feature featureName="indexDate" featureValue="2016-04-18T07:12:13.667Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_28-Warnemuende_Binz_Hamburg_-_Berlin-Leipzig-Jena-Nuernberg-Muenchen-Innsbruck/13#b8affd2b0091c0e4c784d70bef10461455d867e0" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="20" type="date" surface="Samstag, 18. Juni" />
+<Entity id="1" startPos="22" endPos="26" type="time" surface="8.30" />
+<Entity id="2" startPos="29" endPos="37" type="time" surface="8.45 Uhr" />
+<Entity id="3" startPos="47" endPos="55" type="location-route" surface="ICE 1716" />
+<Entity id="4" startPos="60" endPos="71" type="location-stop" surface="Leipzig Hbf" />
+<Entity id="5" startPos="92" endPos="100" type="time" surface="8.41 Uhr" />
+<Entity id="6" startPos="104" endPos="124" type="location-stop" surface="Berlin-Gesundbrunnen" />
+<Entity id="7" startPos="135" endPos="145" type="location-stop" surface="Berlin Hbf" />
+<Entity id="8" startPos="150" endPos="155" type="trigger" surface="fällt" />
+<Entity id="9" startPos="160" endPos="170" type="location-stop" surface="Berlin Hbf" />
+<Entity id="10" startPos="175" endPos="195" type="location-stop" surface="Berlin-Gesundbrunnen" />
+<Entity id="11" startPos="196" endPos="199" type="trigger" surface="aus" />
+<Entity id="12" startPos="229" endPos="239" type="location-stop" surface="Berlin Hbf" />
+<Entity id="13" startPos="242" endPos="264" type="location-stop" surface="Berlin Bornholmer Str." />
+<Entity id="14" startPos="334" endPos="337" type="number" surface="193" /></Entities><Relations>
+<Relation id="15" NAME="CanceledRoute">
+<Entity id="10" label="end_loc" />
+<Entity id="9" label="start_loc" />
+<Entity id="3" label="location" />
+<Entity id="8" label="trigger" />
+<Entity id="11" label="trigger" />
+</Relation></Relations>
+</Document>

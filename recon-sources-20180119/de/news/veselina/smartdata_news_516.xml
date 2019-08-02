@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />13.01.2016 - 17:39 Uhr<NODE id="22" />
+<NODE id="23" />DAX dreht ins Minus<NODE id="42" />
+<NODE id="43" />Am Mittwoch hat der DAX nach anfänglichen Gewinnen mit einem zwischenzeitlichen Tageshoch von 10.164 Punkten im Minus geschlossen.<NODE id="173" />
+<NODE id="174" />Zum Xetra-Handelsschluss wurde der Index mit 9.960,96 Punkten berechnet, ein Minus in Höhe von 0,25 Prozent im Vergleich zum Vortagesschluss.<NODE id="315" /> <NODE id="316" />Vom Dow kamen unterdessen negative Vorgaben.<NODE id="360" /> <NODE id="361" />Am Nachmittag wurde der Index mit 16.483,49 Punkten berechnet, ein Minus in Höhe von 0,20 Prozent im Vergleich zum vorherigen Handelstag.<NODE id="498" /> <NODE id="499" />Der Nikkei-Index hatte zuletzt zugelegt und mit einem Stand von 17.715,63 Punkten geschlossen (+2,88 Prozent).<NODE id="609" /> <NODE id="610" />Die europäische Gemeinschaftswährung tendierte am Mittwochnachmittag etwas schwächer.<NODE id="695" /> <NODE id="696" />Ein Euro kostete 1,0847 US-Dollar (-0,01 Prozent).<NODE id="746" /> <NODE id="747" />Der Goldpreis konnte profitieren, am Nachmittag wurden für eine Feinunze 1.089,68 US-Dollar gezahlt (+0,24 Prozent).<NODE id="863" /> <NODE id="864" />Das entspricht einem Preis von 32,30 Euro pro Gramm.<NODE id="916" /> <NODE id="917" />Der Ölpreis sank unterdessen deutlich: Ein Fass der Nordsee-S<NODE id="978" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.direktbroker.de/news/dax-dreht-ins-minus-47932251@2016-03-10T14:40:37.898+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:40:37.898Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:40:43.316Z" />
+<feature featureName="uri" featureValue="http://www.direktbroker.de/news/dax-dreht-ins-minus-47932251" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="22" type="sentence" surface="13.01.2016 - 17:39 Uhr" />
+<Entity id="1" startPos="23" endPos="42" type="sentence" surface="DAX dreht ins Minus" />
+<Entity id="2" startPos="43" endPos="173" type="sentence" surface="Am Mittwoch hat der DAX nach anfänglichen Gewinnen mit einem zwischenzeitlichen Tageshoch von 10.164 Punkten im Minus geschlossen." />
+<Entity id="3" startPos="174" endPos="315" type="sentence" surface="Zum Xetra-Handelsschluss wurde der Index mit 9.960,96 Punkten berechnet, ein Minus in Höhe von 0,25 Prozent im Vergleich zum Vortagesschluss." />
+<Entity id="4" startPos="316" endPos="360" type="sentence" surface="Vom Dow kamen unterdessen negative Vorgaben." />
+<Entity id="5" startPos="361" endPos="498" type="sentence" surface="Am Nachmittag wurde der Index mit 16.483,49 Punkten berechnet, ein Minus in Höhe von 0,20 Prozent im Vergleich zum vorherigen Handelstag." />
+<Entity id="6" startPos="499" endPos="609" type="sentence" surface="Der Nikkei-Index hatte zuletzt zugelegt und mit einem Stand von 17.715,63 Punkten geschlossen (+2,88 Prozent)." />
+<Entity id="7" startPos="610" endPos="695" type="sentence" surface="Die europäische Gemeinschaftswährung tendierte am Mittwochnachmittag etwas schwächer." />
+<Entity id="8" startPos="696" endPos="746" type="sentence" surface="Ein Euro kostete 1,0847 US-Dollar (-0,01 Prozent)." />
+<Entity id="9" startPos="747" endPos="863" type="sentence" surface="Der Goldpreis konnte profitieren, am Nachmittag wurden für eine Feinunze 1.089,68 US-Dollar gezahlt (+0,24 Prozent)." />
+<Entity id="10" startPos="864" endPos="916" type="sentence" surface="Das entspricht einem Preis von 32,30 Euro pro Gramm." />
+<Entity id="11" startPos="917" endPos="978" type="sentence" surface="Der Ölpreis sank unterdessen deutlich: Ein Fass der Nordsee-S" /></Entities><Relations />
+</Document>

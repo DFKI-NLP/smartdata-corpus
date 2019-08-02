@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-NOM<NODE id="7" />: Verkehrsunfall 
+<NODE id="25" />Uslar<NODE id="30" /> (ots) – Am <NODE id="42" />Freitagabend<NODE id="54" />, gegen <NODE id="62" />21.45 <NODE id="68" />Uhr, geriet ein  Pkw-Fahrer aus <NODE id="100" />Gumbsheim<NODE id="109" /> mit... https://t.co/OCc9LO637n
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670885363959795712" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-29T08:41:49Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:22:13.521Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization" surface="POL-NOM" />
+<Entity id="1" startPos="25" endPos="30" type="location-city" surface="Uslar" />
+<Entity id="2" startPos="42" endPos="54" type="date" surface="Freitagabend" />
+<Entity id="3" startPos="62" endPos="68" type="time" surface="21.45 " />
+<Entity id="4" startPos="100" endPos="109" type="location-city" surface="Gumbsheim" /></Entities><Relations />
+</Document>

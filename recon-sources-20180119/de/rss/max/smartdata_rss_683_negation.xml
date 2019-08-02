@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Am Schönborner Jagdhaus<NODE id="23" />, <NODE id="25" />Karlsruhe<NODE id="34" /> - <NODE id="37" />Mannheim<NODE id="45" /> in Höhe <NODE id="54" />Neudorfer Mühle<NODE id="69" /> in <NODE id="73" />beiden Richtungen<NODE id="90" /> Straße wieder frei
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9181efb6-58f6-4ef3-9541-e302dfb0f0ab@2016-03-31T09:39:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-31T07:39:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-31T07:50:22.008Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9181efb6-58f6-4ef3-9541-e302dfb0f0ab" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="23" type="location-street" surface="Am Schönborner Jagdhaus" />
+<Entity id="1" startPos="25" endPos="34" type="location-city" surface="Karlsruhe" />
+<Entity id="2" startPos="37" endPos="45" type="location-city" surface="Mannheim" />
+<Entity id="3" startPos="54" endPos="69" type="location" surface="Neudorfer Mühle" />
+<Entity id="4" startPos="73" endPos="90" type="location" surface="beiden Richtungen" /></Entities><Relations />
+</Document>

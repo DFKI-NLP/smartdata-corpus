@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />rbbonline<NODE id="13" />: Tochterfirma von #BER-Ausrüster stellt Insolvenzantrag, Konsequenzen für Flughafen-Baustelle noch unklar http://t.co/kWS1Hcw…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="629390103530508288" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-06T20:34:28Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:30:05.73Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="13" type="organization-company" surface="rbbonline" /></Entities><Relations />
+</Document>

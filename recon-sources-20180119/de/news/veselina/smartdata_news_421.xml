@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Eingelegt &amp; Nachgeholt #10: <NODE id="28" />The Legend of Zelda Phantom Hourglass<NODE id="65" /> &amp; <NODE id="68" />Spirit Tracks<NODE id="81" />
+von <NODE id="86" />Tiago Albrinck<NODE id="100" /> am 06.12.2015 um 14:00 Uhr<NODE id="127" />
+<NODE id="128" />Nintendo<NODE id="136" /> meint es, zumindest in Sachen Portierungen, echt gut mit den The Legend of Zelda-Fans: Besitzt man einen <NODE id="242" />Nintendo 3DS<NODE id="254" /> und eine <NODE id="264" />Wii U<NODE id="269" />, dann dürfte einem kaum noch ein Teil entgehen.<NODE id="317" /> <NODE id="318" />In diesem Zusammenhang wollen wir euch nun die frisch im eShop erschienen <NODE id="392" />Nintendo DS<NODE id="403" />-Ableger <NODE id="412" />Phantom Hourglass<NODE id="429" /> und <NODE id="434" />Spirit Tracks<NODE id="447" /> vorstellen.<NODE id="459" /> <NODE id="460" />Viel Spaß!<NODE id="470" />
+<NODE id="471" />Galerie:<NODE id="479" />
+<NODE id="480" />Twittern<NODE id="488" />
+<NODE id="489" />Über den Autor:<NODE id="504" />
+<NODE id="505" />Ich bin mir nicht sicher, was zuerst da war: Die Fähigkeit zu denken oder mein erster Game Boy.<NODE id="600" /> <NODE id="601" />Ich weiß aber ganz genau, dass ich seit Anfang 2011 fleißig bei NO unterwegs bin und sich seit damals nie etwas an meiner Begeisterung für <NODE id="740" />Nintendo<NODE id="748" /> geändert hat.<NODE id="762" />
+<NODE id="763" />Das sagen unsere Leser:<NODE id="786" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://nintendo-online.de/nds/news/23826/eingelegt-nachgeholt-10-the-legend-of-zelda-phantom-hourglass-spirit-tracks@2015-12-06T14:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-06T13:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:21:41.929Z" />
+<feature featureName="uri" featureValue="http://nintendo-online.de/nds/news/23826/eingelegt-nachgeholt-10-the-legend-of-zelda-phantom-hourglass-spirit-tracks" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="127" type="sentence" surface="Eingelegt &amp; Nachgeholt #10: The Legend of Zelda Phantom Hourglass &amp; Spirit Tracks&#xA;von Tiago Albrinck am 06.12.2015 um 14:00 Uhr" />
+<Entity id="1" startPos="28" endPos="65" type="product" surface="The Legend of Zelda Phantom Hourglass" />
+<Entity id="2" startPos="68" endPos="81" type="product" surface="Spirit Tracks" />
+<Entity id="3" startPos="86" endPos="100" type="person" surface="Tiago Albrinck" />
+<Entity id="4" startPos="128" endPos="136" type="organization-company" surface="Nintendo" />
+<Entity id="5" startPos="128" endPos="317" type="sentence" surface="Nintendo meint es, zumindest in Sachen Portierungen, echt gut mit den The Legend of Zelda-Fans: Besitzt man einen Nintendo 3DS und eine Wii U, dann dürfte einem kaum noch ein Teil entgehen." />
+<Entity id="6" startPos="242" endPos="254" type="product" surface="Nintendo 3DS" />
+<Entity id="7" startPos="264" endPos="269" type="product" surface="Wii U" />
+<Entity id="8" startPos="318" endPos="459" type="sentence" surface="In diesem Zusammenhang wollen wir euch nun die frisch im eShop erschienen Nintendo DS-Ableger Phantom Hourglass und Spirit Tracks vorstellen." />
+<Entity id="9" startPos="392" endPos="403" type="product" surface="Nintendo DS" />
+<Entity id="10" startPos="412" endPos="429" type="product" surface="Phantom Hourglass" />
+<Entity id="11" startPos="434" endPos="447" type="product" surface="Spirit Tracks" />
+<Entity id="12" startPos="460" endPos="470" type="sentence" surface="Viel Spaß!" />
+<Entity id="13" startPos="471" endPos="479" type="sentence" surface="Galerie:" />
+<Entity id="14" startPos="480" endPos="488" type="sentence" surface="Twittern" />
+<Entity id="15" startPos="489" endPos="504" type="sentence" surface="Über den Autor:" />
+<Entity id="16" startPos="505" endPos="600" type="sentence" surface="Ich bin mir nicht sicher, was zuerst da war: Die Fähigkeit zu denken oder mein erster Game Boy." />
+<Entity id="17" startPos="601" endPos="762" type="sentence" surface="Ich weiß aber ganz genau, dass ich seit Anfang 2011 fleißig bei NO unterwegs bin und sich seit damals nie etwas an meiner Begeisterung für Nintendo geändert hat." />
+<Entity id="18" startPos="740" endPos="748" type="organization-company" surface="Nintendo" />
+<Entity id="19" startPos="763" endPos="786" type="sentence" surface="Das sagen unsere Leser:" /></Entities><Relations>
+<Relation id="20" NAME="CompanyProvidesProduct">
+<Entity id="7" label="product" />
+<Entity id="6" label="product" />
+<Entity id="4" label="company" />
+</Relation></Relations>
+</Document>

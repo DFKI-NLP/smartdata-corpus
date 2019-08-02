@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />SPIEGELONLINE<NODE id="14" />  Endlich geschieht da was.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="720256474795143168" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-13T14:24:59Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T02:14:25.358Z" />
+<feature featureName="uri" featureValue="https://twitter.com/4827858771/status/720256474795143168" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="14" type="organization-company" surface="SPIEGELONLINE" /></Entities><Relations />
+</Document>

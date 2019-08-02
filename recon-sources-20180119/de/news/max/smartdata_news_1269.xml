@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Quelle: GMX.at - Heute
+Wegen Warnstreiks in Kitas müssen Eltern in mehreren <NODE id="76" />deutschen<NODE id="85" /> Städten heute Einschränkungen bei der Betreuung ihrer Kinder hinnehmen. Au...
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.newsdump.at/news/gewerkschaften-wollen-kitas-bestreiken@2016-04-05T04:43:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-05T02:43:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-05T03:37:56.691Z" />
+<feature featureName="uri" featureValue="http://www.newsdump.at/news/gewerkschaften-wollen-kitas-bestreiken" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="76" endPos="85" type="location" surface="deutschen" /></Entities><Relations />
+</Document>

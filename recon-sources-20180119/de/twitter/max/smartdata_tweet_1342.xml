@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />Baden-Württemberg<NODE id="18" />: <NODE id="20" />Zwei<NODE id="24" /> Tote auf offener Straße in #<NODE id="53" />Leinfelden-Echterdingen<NODE id="76" /> https://t.co/tsrbfBIEWc
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754710996040769536" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T16:14:57Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T16:15:00.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/16946517/status/754710996040769536" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="18" type="location" surface="Baden-Württemberg" />
+<Entity id="1" startPos="20" endPos="24" type="number" surface="Zwei" />
+<Entity id="2" startPos="53" endPos="76" type="location-city" surface="Leinfelden-Echterdingen" /></Entities><Relations />
+</Document>

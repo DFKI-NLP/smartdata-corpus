@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>VERKEHRSNACHRICHT Aktuelle <NODE id="27" />Störungsinformation<NODE id="46" />:: Linie <NODE id="55" />3<NODE id="56" />/<NODE id="57" />5<NODE id="58" />: Aufgrund von <NODE id="73" />Stau<NODE id="77" /> auf der <NODE id="86" />Wiblinger Straße <NODE id="103" />beding... https://t.co/sShTtVxI6j
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="738421957805408256" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-02T17:28:08Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T04:26:58.481Z" />
+<feature featureName="uri" featureValue="https://twitter.com/799937166/status/738421957805408256" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="27" endPos="46" type="trigger" surface="Störungsinformation" />
+<Entity id="1" startPos="55" endPos="56" type="location-route" surface="3" />
+<Entity id="2" startPos="57" endPos="58" type="location-route" surface="5" />
+<Entity id="3" startPos="73" endPos="77" type="trigger" surface="Stau" />
+<Entity id="4" startPos="86" endPos="103" type="location-street" surface="Wiblinger Straße " /></Entities><Relations>
+<Relation id="5" NAME="Obstruction">
+<Entity id="1" label="location" />
+<Entity id="2" label="location" />
+<Entity id="0" label="trigger" />
+</Relation>
+<Relation id="6" NAME="TrafficJam">
+<Entity id="4" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

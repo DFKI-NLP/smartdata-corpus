@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />51 Minuten<NODE id="10" /> <NODE id="11" />Verspätung<NODE id="21" /> im Zug nach #<NODE id="35" />hamburg<NODE id="42" /> - #<NODE id="46" />ice<NODE id="49" /> Ausfall #<NODE id="59" />diebahn<NODE id="66" /> macht mobil
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755032264577282048" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T13:31:34Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T13:31:34.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/19581272/status/755032264577282048" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="duration" surface="51 Minuten" />
+<Entity id="1" startPos="11" endPos="21" type="trigger" surface="Verspätung" />
+<Entity id="2" startPos="35" endPos="42" type="location-city" surface="hamburg" />
+<Entity id="3" startPos="46" endPos="49" type="product" surface="ice" />
+<Entity id="4" startPos="59" endPos="66" type="organization-company" surface="diebahn" /></Entities><Relations />
+</Document>

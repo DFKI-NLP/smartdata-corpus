@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Schüleraustausch <NODE id="17" />EGM Münsterschwarzach<NODE id="38" /> – <NODE id="41" />Istituto Statale Superiore E. Balducci<NODE id="79" />  in <NODE id="84" />Pontassieve<NODE id="95" /> – <NODE id="98" />Firenze<NODE id="105" />, <NODE id="107" />Italien<NODE id="114" />
+by admin on <NODE id="127" />novembre 30th<NODE id="140" />, <NODE id="142" />2015<NODE id="146" />
+Nachdem im Frühjahr dieses Jahres eine Gruppe von Schülerinnen und Schülern des <NODE id="227" />EGM<NODE id="230" />  unter der Leitung von Frau <NODE id="259" />Dr. Rosaria Sabetta-Fuß<NODE id="282" /> 10 Tage<NODE id="290" /> lang die Gelegenheit wahrgenommen hatte, in <NODE id="335" />Pontassieve<NODE id="346" />, vor den Toren von <NODE id="366" />Florenz<NODE id="373" />, aufschlussreiche, überraschende und auf jeden Fall positive und vielfältige Erfahrungen mit Schule, Kultur, öffentlichen Institutionen und normalem Alltag zu sammeln, war vom <NODE id="550" />08<NODE id="552" />. bis <NODE id="558" />16.10. 2015<NODE id="569" /> der lang erwartete Gegenbesuch aus <NODE id="605" />Pontassieve<NODE id="616" /> angesagt.
+Die <NODE id="631" />italienische<NODE id="643" /> Gruppe, die per Bus angereist war, traf mit etwas Stau-bedingter Verspätung, aber wohlbehalten, in <NODE id="743" />Münsterschwarzach<NODE id="760" /> ein. Alle <NODE id="771" />28<NODE id="773" /> Teilnehmerinnen und Teilnehmer wurden von Frau <NODE id="821" />Dr. Sabetta-Fuß<NODE id="836" /> und <NODE id="841" />Dr. Albert Fuß<NODE id="855" /> in die Münsterklause eingewiesen. Die  Gruppe fand dort für die kommenden Tage ein 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.italienischgruppe.de/blog/?p=328@2015-11-30T21:18:38.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-30T20:18:38Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:01:07.616Z" />
+<feature featureName="uri" featureValue="http://www.italienischgruppe.de/blog/?p=328" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="38" type="organization" surface="EGM Münsterschwarzach" />
+<Entity id="1" startPos="41" endPos="79" type="organization" surface="Istituto Statale Superiore E. Balducci" />
+<Entity id="2" startPos="84" endPos="95" type="location" surface="Pontassieve" />
+<Entity id="3" startPos="98" endPos="105" type="location-city" surface="Firenze" />
+<Entity id="4" startPos="107" endPos="114" type="location" surface="Italien" />
+<Entity id="5" startPos="127" endPos="140" type="date" surface="novembre 30th" />
+<Entity id="6" startPos="142" endPos="146" type="date" surface="2015" />
+<Entity id="7" startPos="227" endPos="230" type="organization" surface="EGM" />
+<Entity id="8" startPos="259" endPos="282" type="person" surface="Dr. Rosaria Sabetta-Fuß" />
+<Entity id="9" startPos="282" endPos="290" type="duration" surface=" 10 Tage" />
+<Entity id="10" startPos="335" endPos="346" type="location-city" surface="Pontassieve" />
+<Entity id="11" startPos="366" endPos="373" type="location-city" surface="Florenz" />
+<Entity id="12" startPos="550" endPos="552" type="date" surface="08" />
+<Entity id="13" startPos="558" endPos="569" type="date" surface="16.10. 2015" />
+<Entity id="14" startPos="605" endPos="616" type="location-city" surface="Pontassieve" />
+<Entity id="15" startPos="631" endPos="643" type="location" surface="italienische" />
+<Entity id="16" startPos="743" endPos="760" type="location" surface="Münsterschwarzach" />
+<Entity id="17" startPos="771" endPos="773" type="number" surface="28" />
+<Entity id="18" startPos="821" endPos="836" type="person" surface="Dr. Sabetta-Fuß" />
+<Entity id="19" startPos="841" endPos="855" type="person" surface="Dr. Albert Fuß" /></Entities><Relations />
+</Document>

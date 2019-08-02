@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @aktuelle_stunde: Nach den Randalen auf der <NODE id="47" />Kölner #Domplatte<NODE id="64" />: einem #Hooligan soll die Flucht gelungen sein. Der Flughafen wurde inform…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743511883458748417" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T18:33:41Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T18:33:41.735Z" />
+<feature featureName="uri" featureValue="https://twitter.com/EM-Experte Angelo/status/743511883458748417" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="47" endPos="64" type="location" surface="Kölner #Domplatte" /></Entities><Relations />
+</Document>

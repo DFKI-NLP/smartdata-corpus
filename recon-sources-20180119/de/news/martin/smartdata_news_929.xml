@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Heinz Rudolf Kunze<NODE id="18" />: Zeitreise und Bestandsaufnahme
+<NODE id="51" />16. Februar 2016<NODE id="67" /> <NODE id="68" />06:00 Uhr<NODE id="77" />
+<NODE id="78" />Heinz Rudolf Kunze:<NODE id="97" /> Zeitreise und Bestandsaufnahme
+<NODE id="129" />Hannover<NODE id="137" /> - <NODE id="140" />Heinz Rudolf Kunze<NODE id="158" /> zitiert den <NODE id="171" />französischen<NODE id="184" /> Philosophen <NODE id="197" />Blaise Pascal<NODE id="210" />, aber er kennt keinen Titel von <NODE id="243" />Mark Forster<NODE id="255" />. Was aktuell im Radio läuft, interessiert den <NODE id="302" />59<NODE id="304" /> Jahre alten Sänger und Schriftsteller weniger. <NODE id="352" />Heinz Rudolf Kunze<NODE id="370" /> macht sein eigenes Ding - seit <NODE id="402" />35 Jahren<NODE id="411" /> im Musikgeschäft.
+Fullscreen
+<NODE id="441" />Heinz Rudolf Kunze<NODE id="459" /> engagiert sich für Flüchtlinge. Foto: <NODE id="498" />Holger Hollemann<NODE id="514" />
+© <NODE id="517" />dpa-infocom GmbH<NODE id="533" />
+<NODE id="534" />Heinz Rudolf Kunze<NODE id="552" /> zitiert den <NODE id="565" />französischen<NODE id="578" /> Philosophen <NODE id="591" />Blaise Pascal<NODE id="604" />, aber er kennt keinen Titel von <NODE id="637" />Mark Forster<NODE id="649" />. Was aktuell im Radio läuft, interessiert den <NODE id="696" />59<NODE id="698" /> Jahre alten Sänger und Schriftsteller weniger. <NODE id="746" />Heinz Rudolf Kunze<NODE id="764" /> macht sein eigenes Ding - seit <NODE id="796" />35 Jahren<NODE id="805" /> im Musikgeschäft.
+Inspiration findet er in der riesigen Bibliothek und CD-Sammlung seines Hauses in der <NODE id="910" />Wedemark<NODE id="918" /> bei
+<NODE id="923" />Hannover<NODE id="931" /> . Dort bringt d
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.stern.de/kultur/musik/heinz-rudolf-kunze--zeitreise-und-bestandsaufnahme-6700372.html@2016-02-16T06:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-16T05:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:25:50.911Z" />
+<feature featureName="uri" featureValue="http://www.stern.de/kultur/musik/heinz-rudolf-kunze--zeitreise-und-bestandsaufnahme-6700372.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="18" type="person" surface="Heinz Rudolf Kunze" />
+<Entity id="1" startPos="51" endPos="67" type="date" surface="16. Februar 2016" />
+<Entity id="2" startPos="68" endPos="77" type="time" surface="06:00 Uhr" />
+<Entity id="3" startPos="78" endPos="97" type="person" surface="Heinz Rudolf Kunze:" />
+<Entity id="4" startPos="129" endPos="137" type="location-city" surface="Hannover" />
+<Entity id="5" startPos="140" endPos="158" type="person" surface="Heinz Rudolf Kunze" />
+<Entity id="6" startPos="171" endPos="184" type="location" surface="französischen" />
+<Entity id="7" startPos="197" endPos="210" type="person" surface="Blaise Pascal" />
+<Entity id="8" startPos="243" endPos="255" type="person" surface="Mark Forster" />
+<Entity id="9" startPos="302" endPos="304" type="number" surface="59" />
+<Entity id="10" startPos="352" endPos="370" type="person" surface="Heinz Rudolf Kunze" />
+<Entity id="11" startPos="402" endPos="411" type="duration" surface="35 Jahren" />
+<Entity id="12" startPos="441" endPos="459" type="person" surface="Heinz Rudolf Kunze" />
+<Entity id="13" startPos="498" endPos="514" type="person" surface="Holger Hollemann" />
+<Entity id="14" startPos="517" endPos="533" type="organization-company" surface="dpa-infocom GmbH" />
+<Entity id="15" startPos="534" endPos="552" type="person" surface="Heinz Rudolf Kunze" />
+<Entity id="16" startPos="565" endPos="578" type="location" surface="französischen" />
+<Entity id="17" startPos="591" endPos="604" type="person" surface="Blaise Pascal" />
+<Entity id="18" startPos="637" endPos="649" type="person" surface="Mark Forster" />
+<Entity id="19" startPos="696" endPos="698" type="number" surface="59" />
+<Entity id="20" startPos="746" endPos="764" type="person" surface="Heinz Rudolf Kunze" />
+<Entity id="21" startPos="796" endPos="805" type="duration" surface="35 Jahren" />
+<Entity id="22" startPos="910" endPos="918" type="location-city" surface="Wedemark" />
+<Entity id="23" startPos="923" endPos="931" type="location-city" surface="Hannover" /></Entities><Relations />
+</Document>

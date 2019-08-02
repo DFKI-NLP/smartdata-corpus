@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Schwäbisch Hall<NODE id="15" /> Richtung <NODE id="25" />Aalen<NODE id="30" /> zwischen <NODE id="40" />Abzweig nach Hüttlingen<NODE id="63" /> und <NODE id="68" />Überleitung B29<NODE id="83" />, <NODE id="85" />Hüttlingen/B29<NODE id="99" /> Straße wieder frei
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=3b3a5c1a-91d8-431c-b52e-05c4e232ed12@2016-03-30T01:24:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-29T23:24:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-29T23:38:14.204Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=3b3a5c1a-91d8-431c-b52e-05c4e232ed12" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="15" type="location-city" surface="Schwäbisch Hall" />
+<Entity id="1" startPos="25" endPos="30" type="location-city" surface="Aalen" />
+<Entity id="2" startPos="40" endPos="63" type="location" surface="Abzweig nach Hüttlingen" />
+<Entity id="3" startPos="68" endPos="83" type="location" surface="Überleitung B29" />
+<Entity id="4" startPos="85" endPos="99" type="location" surface="Hüttlingen/B29" /></Entities><Relations />
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Cameron<NODE id="7" />: Brexit wäre für immer https://t.co/9k27apLcTy
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744435803888050179" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T07:45:01Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T07:45:04.726Z" />
+<feature featureName="uri" featureValue="https://twitter.com/WirtschaftsBlatt/status/744435803888050179" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="person" surface="Cameron" /></Entities><Relations />
+</Document>

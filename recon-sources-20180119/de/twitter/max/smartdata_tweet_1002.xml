@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Übernahme<NODE id="9" /> von <NODE id="14" />14 griechischen Flughäfen<NODE id="39" /> durch <NODE id="46" />FRAPORT<NODE id="53" /> https://t.co/qUTFZJ6lZY #lügenpresse #<NODE id="92" />pegida<NODE id="98" /> #flüchtlinge
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="724875162852712448" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-26T08:18:01Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T17:41:03.998Z" />
+<feature featureName="uri" featureValue="https://twitter.com/705033373681635329/status/724875162852712448" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="trigger" surface="Übernahme" />
+<Entity id="1" startPos="14" endPos="39" type="organization-company" surface="14 griechischen Flughäfen" />
+<Entity id="2" startPos="46" endPos="53" type="organization-company" surface="FRAPORT" />
+<Entity id="3" startPos="92" endPos="98" type="organization" surface="pegida" /></Entities><Relations>
+<Relation id="4" NAME="Acquisition">
+<Entity id="0" label="trigger" />
+<Entity id="1" label="acquired" />
+<Entity id="2" label="buyer" />
+</Relation></Relations>
+</Document>

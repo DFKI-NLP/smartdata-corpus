@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @refugeeconvoy: Schienenersatzverkehr <NODE id="41" />Ungarn<NODE id="47" /> - <NODE id="50" />Wien<NODE id="54" /> ist jetzt auch auf <NODE id="74" />Twitter<NODE id="81" />. Hashtag #refugeeconvoy und weitere Updates auf <NODE id="130" />FB<NODE id="132" /> http:/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="639726337616420864" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-09-04T09:06:59Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T02:41:14.12Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="41" endPos="47" type="location" surface="Ungarn" />
+<Entity id="1" startPos="50" endPos="54" type="location-city" surface="Wien" />
+<Entity id="2" startPos="74" endPos="81" type="organization-company" surface="Twitter" />
+<Entity id="3" startPos="130" endPos="132" type="organization-company" surface="FB" /></Entities><Relations />
+</Document>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Sonntag, 1. Mai<NODE id="18" />, <NODE id="20" />21.10<NODE id="25" /> – <NODE id="28" />23.45 Uhr<NODE id="37" />
+Meldung:
+ <NODE id="48" />IC 2437<NODE id="55" /> von <NODE id="60" />Emden Hbf<NODE id="69" /> (planmäßige Ankunft <NODE id="90" />23.00 Uhr<NODE id="99" /> in <NODE id="103" />Magdeburg Hbf<NODE id="116" />) wird von <NODE id="127" />Hannover Hbf<NODE id="139" /> bis <NODE id="144" />Braunschweig Hbf<NODE id="160" /> <NODE id="161" />umgeleitet<NODE id="171" /> und <NODE id="176" />hält nicht<NODE id="186" /> in <NODE id="190" />Peine<NODE id="195" />. Aufgrund der Umleitung verspätet sich der Zug um bis zu <NODE id="253" />20 Min.<NODE id="260" />
+ <NODE id="262" />IC 2030<NODE id="269" /> von <NODE id="274" />Dresden Hbf<NODE id="285" /> (planmäßige Ankunft <NODE id="306" />23.23 Uhr<NODE id="315" /> in <NODE id="319" />Hannover Hbf<NODE id="331" />) wird von <NODE id="342" />Braunschweig Hbf<NODE id="358" /> bis <NODE id="363" />Hannover Hbf<NODE id="375" /> <NODE id="376" />umgeleitet<NODE id="386" /> und <NODE id="391" />verspätet<NODE id="400" /> sich um bis zu <NODE id="416" />20 Min.<NODE id="423" />
+Grund:
+Weichenarbeiten in <NODE id="450" />Hannover Hbf<NODE id="462" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="532" />88<NODE id="534" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_56-Norddeich_Emden-Oldenburg-Bremen-Hannover-Magdeburg-Leipzig_Cottbus/30#4194252c51f30e3a2a9401d77689ce1ea38b61bd@2016-03-02T05:36:47.508+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-02T04:36:47.508Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:26:15.676Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_56-Norddeich_Emden-Oldenburg-Bremen-Hannover-Magdeburg-Leipzig_Cottbus/30#4194252c51f30e3a2a9401d77689ce1ea38b61bd" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="18" type="date" surface="Sonntag, 1. Mai" />
+<Entity id="1" startPos="20" endPos="25" type="time" surface="21.10" />
+<Entity id="2" startPos="28" endPos="37" type="time" surface="23.45 Uhr" />
+<Entity id="3" startPos="48" endPos="55" type="location-route" surface="IC 2437" />
+<Entity id="4" startPos="60" endPos="69" type="location-stop" surface="Emden Hbf" />
+<Entity id="5" startPos="90" endPos="99" type="time" surface="23.00 Uhr" />
+<Entity id="6" startPos="103" endPos="116" type="location-stop" surface="Magdeburg Hbf" />
+<Entity id="7" startPos="127" endPos="139" type="location-stop" surface="Hannover Hbf" />
+<Entity id="8" startPos="144" endPos="160" type="location-stop" surface="Braunschweig Hbf" />
+<Entity id="9" startPos="161" endPos="171" type="trigger" surface="umgeleitet" />
+<Entity id="10" startPos="176" endPos="186" type="trigger" surface="hält nicht" />
+<Entity id="11" startPos="190" endPos="195" type="location-stop" surface="Peine" />
+<Entity id="12" startPos="253" endPos="260" type="duration" surface="20 Min." />
+<Entity id="13" startPos="262" endPos="269" type="location-route" surface="IC 2030" />
+<Entity id="14" startPos="274" endPos="285" type="location-stop" surface="Dresden Hbf" />
+<Entity id="15" startPos="306" endPos="315" type="time" surface="23.23 Uhr" />
+<Entity id="16" startPos="319" endPos="331" type="location-stop" surface="Hannover Hbf" />
+<Entity id="17" startPos="342" endPos="358" type="location-stop" surface="Braunschweig Hbf" />
+<Entity id="18" startPos="363" endPos="375" type="location-stop" surface="Hannover Hbf" />
+<Entity id="19" startPos="376" endPos="386" type="trigger" surface="umgeleitet" />
+<Entity id="20" startPos="391" endPos="400" type="trigger" surface="verspätet" />
+<Entity id="21" startPos="416" endPos="423" type="duration" surface="20 Min." />
+<Entity id="22" startPos="450" endPos="462" type="location-stop" surface="Hannover Hbf" />
+<Entity id="23" startPos="532" endPos="534" type="number" surface="88" /></Entities><Relations>
+<Relation id="24" NAME="CanceledStop">
+<Entity id="3" label="route" />
+<Entity id="11" label="location" />
+<Entity id="10" label="trigger" />
+</Relation>
+<Relation id="25" NAME="Delay">
+<Entity id="21" label="delay" />
+<Entity id="18" label="end_loc" />
+<Entity id="14" label="start_loc" />
+<Entity id="13" label="location" />
+<Entity id="20" label="trigger" />
+</Relation>
+<Relation id="26" NAME="Obstruction">
+<Entity id="8" label="end_loc" />
+<Entity id="7" label="start_loc" />
+<Entity id="3" label="location" />
+<Entity id="9" label="trigger" />
+</Relation>
+<Relation id="27" NAME="Obstruction">
+<Entity id="21" label="delay" />
+<Entity id="18" label="end_loc" />
+<Entity id="17" label="start_loc" />
+<Entity id="13" label="location" />
+<Entity id="19" label="trigger" />
+</Relation></Relations>
+</Document>

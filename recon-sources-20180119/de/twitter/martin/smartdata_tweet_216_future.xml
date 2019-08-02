@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Mit <NODE id="4" />25 Jahren<NODE id="13" /> Verspätung könnte es zum <NODE id="39" />Zusammenschluss<NODE id="54" /> <NODE id="55" />hessischer Rundfunk<NODE id="74" /> und <NODE id="79" />ÖR<NODE id="81" /> in <NODE id="85" />Thüringen<NODE id="94" /> kommen.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="654075525422542848" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-13T23:25:32Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T16:35:44.12Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="13" type="duration" surface="25 Jahren" />
+<Entity id="1" startPos="39" endPos="54" type="trigger" surface="Zusammenschluss" />
+<Entity id="2" startPos="55" endPos="74" type="organization-company" surface="hessischer Rundfunk" />
+<Entity id="3" startPos="79" endPos="81" type="organization-company" surface="ÖR" />
+<Entity id="4" startPos="85" endPos="94" type="location" surface="Thüringen" /></Entities><Relations>
+<Relation id="5" NAME="Merger">
+<Entity id="2" label="old" />
+<Entity id="3" label="old" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

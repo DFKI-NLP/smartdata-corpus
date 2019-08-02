@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sonstiges
+Abschnitt: (<NODE id="22" />Berlin<NODE id="28" />)
+Gültig ab: <NODE id="41" />10.03.2016<NODE id="51" /> <NODE id="52" />23:23<NODE id="57" />
+Hindernisse beseitigt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_62453@2016-03-10T23:23:38.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T22:23:38Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T22:29:38.91Z" />
+<feature featureName="uri" featureValue="http://www.viz-info.de/LMS-BR_r_LMS-BR_62453" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="22" endPos="28" type="location-city" surface="Berlin" />
+<Entity id="1" startPos="41" endPos="51" type="date" surface="10.03.2016" />
+<Entity id="2" startPos="52" endPos="57" type="time" surface="23:23" /></Entities><Relations />
+</Document>

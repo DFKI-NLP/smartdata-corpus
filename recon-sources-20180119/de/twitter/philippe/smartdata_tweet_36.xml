@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />EVG<NODE id="3" />&amp;#8211;Chef warnt vor weiterem <NODE id="34" />Stellenabbau<NODE id="46" /> bei der <NODE id="55" />Deutschen Bahn<NODE id="69" /> https://t.co/W1iPSezFMC #blogtraffic
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710004246591217664" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="organization-company" surface="EVG" />
+<Entity id="1" startPos="34" endPos="46" type="trigger" surface="Stellenabbau" />
+<Entity id="2" startPos="55" endPos="69" type="organization-company" surface="Deutschen Bahn" /></Entities><Relations />
+</Document>

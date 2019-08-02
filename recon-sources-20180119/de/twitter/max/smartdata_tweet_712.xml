@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Im Moment von <NODE id="14" />Deutschland<NODE id="25" /> angenervt! #Regen #Kalt #verspätung #Nazis
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667324751388549120" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-19T12:53:13Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:58:24.119Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="25" type="location" surface="Deutschland" /></Entities><Relations />
+</Document>

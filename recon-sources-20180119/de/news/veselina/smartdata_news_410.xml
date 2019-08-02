@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Schweizer<NODE id="9" /> Fleischkonzern<NODE id="24" /> schnappt sich <NODE id="39" />Hubers Landhendl<NODE id="55" />
+<NODE id="56" />Hubers Landhendl<NODE id="72" /> gehören jetzt einem <NODE id="93" />Schweizer<NODE id="102" /> Konzern<NODE id="110" /> / Bild: WB/Peroutka<NODE id="130" />
+<NODE id="131" />Der <NODE id="135" />oberösterreichische<NODE id="154" /> Geflügelspezialist <NODE id="174" />Huber<NODE id="179" /> wird um geschätzte <NODE id="199" />100 Millionen Euro<NODE id="217" /> in die <NODE id="225" />Schweiz<NODE id="232" /> <NODE id="233" />verkauft<NODE id="241" />.<NODE id="242" /> <NODE id="243" />Von der <NODE id="251" />EU<NODE id="253" />-Kommission gibt es grünes Licht für die Übernahme.<NODE id="304" />test<NODE id="308" />
+<NODE id="309" />Mehr<NODE id="313" /> <NODE id="314" />A A A<NODE id="319" />
+<NODE id="320" />Der <NODE id="324" />oberösterreichische<NODE id="343" /> Geflügelspezialist <NODE id="363" />Huber<NODE id="368" /> wird um geschätzte <NODE id="388" />100 Millionen Euro<NODE id="406" /> in die <NODE id="414" />Schweiz<NODE id="421" /> <NODE id="422" />verkauft<NODE id="430" />.<NODE id="431" /> <NODE id="432" />Von der <NODE id="440" />EU<NODE id="442" />-Kommission gibt es grünes Licht für die Übernahme.<NODE id="493" />
+<NODE id="494" />Wieder kommt ein erfolgreiches <NODE id="525" />österreichisches<NODE id="541" /> Familienunternehmen in ausländischen Besitz.<NODE id="586" /> <NODE id="587" />Der <NODE id="591" />Schweizer<NODE id="600" />  Fleischverarbeiter <NODE id="621" />Bell<NODE id="625" /> <NODE id="626" />schnappt sich<NODE id="639" />   Geflügelspezialisten <NODE id="663" />Huber<NODE id="668" /> auf <NODE id="673" />Pfaffstätt<NODE id="683" />, <NODE id="685" />Oberösterreich<NODE id="699" />, zu dem unter anderem <NODE id="722" />Hubers Landhendl<NODE id="738" /> und die auf Putenfleisch spezialisierte <NODE id="779" />Süddeutsche Truthahn AG<NODE id="802" /> <NODE id="803" />gehören<NODE id="810" />.<NODE id="811" /> <NODE id="812" />Der Deal war von den <NODE id="833" />Schweizern<NODE id="843" /> vor Weihnachten angekündigt worden.<NODE id="879" /> <NODE id="880" />Am Montag erhielten sie vom der <NODE id="912" />EU<NODE id="914" />-Kommission grünes Licht für<NODE id="942" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://wirtschaftsblatt.at/home/nachrichten/oesterreich/4935868/Schweizer-Fleischkonzern-schnappt-sich-Hubers-Landhendl-?from=rss@2016-02-29T14:06:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-29T13:06:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:12:51.929Z" />
+<feature featureName="uri" featureValue="http://wirtschaftsblatt.at/home/nachrichten/oesterreich/4935868/Schweizer-Fleischkonzern-schnappt-sich-Hubers-Landhendl-?from=rss" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location" surface="Schweizer" />
+<Entity id="1" startPos="0" endPos="24" type="organization-company" surface="Schweizer Fleischkonzern" />
+<Entity id="2" startPos="0" endPos="55" type="sentence" surface="Schweizer Fleischkonzern schnappt sich Hubers Landhendl" />
+<Entity id="3" startPos="39" endPos="55" type="organization-company" surface="Hubers Landhendl" />
+<Entity id="4" startPos="56" endPos="72" type="organization-company" surface="Hubers Landhendl" />
+<Entity id="5" startPos="56" endPos="130" type="sentence" surface="Hubers Landhendl gehören jetzt einem Schweizer Konzern / Bild: WB/Peroutka" />
+<Entity id="6" startPos="93" endPos="102" type="location" surface="Schweizer" />
+<Entity id="7" startPos="93" endPos="110" type="organization-company" surface="Schweizer Konzern" />
+<Entity id="8" startPos="131" endPos="242" type="sentence" surface="Der oberösterreichische Geflügelspezialist Huber wird um geschätzte 100 Millionen Euro in die Schweiz verkauft." />
+<Entity id="9" startPos="135" endPos="154" type="location" surface="oberösterreichische" />
+<Entity id="10" startPos="174" endPos="179" type="organization-company" surface="Huber" />
+<Entity id="11" startPos="199" endPos="217" type="number" surface="100 Millionen Euro" />
+<Entity id="12" startPos="225" endPos="232" type="organization-company" surface="Schweiz" />
+<Entity id="13" startPos="233" endPos="241" type="trigger" surface="verkauft" />
+<Entity id="14" startPos="243" endPos="304" type="sentence" surface="Von der EU-Kommission gibt es grünes Licht für die Übernahme." />
+<Entity id="15" startPos="251" endPos="253" type="organization" surface="EU" />
+<Entity id="16" startPos="304" endPos="308" type="sentence" surface="test" />
+<Entity id="17" startPos="309" endPos="313" type="sentence" surface="Mehr" />
+<Entity id="18" startPos="314" endPos="319" type="sentence" surface="A A A" />
+<Entity id="19" startPos="320" endPos="431" type="sentence" surface="Der oberösterreichische Geflügelspezialist Huber wird um geschätzte 100 Millionen Euro in die Schweiz verkauft." />
+<Entity id="20" startPos="324" endPos="343" type="location" surface="oberösterreichische" />
+<Entity id="21" startPos="363" endPos="368" type="organization-company" surface="Huber" />
+<Entity id="22" startPos="388" endPos="406" type="number" surface="100 Millionen Euro" />
+<Entity id="23" startPos="414" endPos="421" type="organization-company" surface="Schweiz" />
+<Entity id="24" startPos="422" endPos="430" type="trigger" surface="verkauft" />
+<Entity id="25" startPos="432" endPos="493" type="sentence" surface="Von der EU-Kommission gibt es grünes Licht für die Übernahme." />
+<Entity id="26" startPos="440" endPos="442" type="organization" surface="EU" />
+<Entity id="27" startPos="494" endPos="586" type="sentence" surface="Wieder kommt ein erfolgreiches österreichisches Familienunternehmen in ausländischen Besitz." />
+<Entity id="28" startPos="525" endPos="541" type="location" surface="österreichisches" />
+<Entity id="29" startPos="587" endPos="811" type="sentence" surface="Der Schweizer  Fleischverarbeiter Bell schnappt sich   Geflügelspezialisten Huber auf Pfaffstätt, Oberösterreich, zu dem unter anderem Hubers Landhendl und die auf Putenfleisch spezialisierte Süddeutsche Truthahn AG gehören." />
+<Entity id="30" startPos="591" endPos="600" type="location" surface="Schweizer" />
+<Entity id="31" startPos="621" endPos="625" type="organization-company" surface="Bell" />
+<Entity id="32" startPos="626" endPos="639" type="trigger" surface="schnappt sich" />
+<Entity id="33" startPos="663" endPos="668" type="organization-company" surface="Huber" />
+<Entity id="34" startPos="673" endPos="683" type="location" surface="Pfaffstätt" />
+<Entity id="35" startPos="685" endPos="699" type="location" surface="Oberösterreich" />
+<Entity id="36" startPos="722" endPos="738" type="organization-company" surface="Hubers Landhendl" />
+<Entity id="37" startPos="779" endPos="802" type="organization-company" surface="Süddeutsche Truthahn AG" />
+<Entity id="38" startPos="803" endPos="810" type="trigger" surface="gehören" />
+<Entity id="39" startPos="812" endPos="879" type="sentence" surface="Der Deal war von den Schweizern vor Weihnachten angekündigt worden." />
+<Entity id="40" startPos="833" endPos="843" type="organization-company" surface="Schweizern" />
+<Entity id="41" startPos="880" endPos="942" type="sentence" surface="Am Montag erhielten sie vom der EU-Kommission grünes Licht für" />
+<Entity id="42" startPos="912" endPos="914" type="organization" surface="EU" /></Entities><Relations>
+<Relation id="43" NAME="Acquisition">
+<Entity id="11" label="price" />
+<Entity id="13" label="trigger" />
+<Entity id="10" label="acquired" />
+<Entity id="12" label="buyer" />
+</Relation>
+<Relation id="44" NAME="Acquisition">
+<Entity id="22" label="price" />
+<Entity id="24" label="trigger" />
+<Entity id="21" label="acquired" />
+<Entity id="23" label="buyer" />
+</Relation>
+<Relation id="45" NAME="Acquisition">
+<Entity id="32" label="trigger" />
+<Entity id="33" label="acquired" />
+<Entity id="31" label="buyer" />
+</Relation>
+<Relation id="46" NAME="CompanyRelationship">
+<Entity id="33" label="parent" />
+<Entity id="38" label="trigger" />
+<Entity id="36" label="child" />
+</Relation>
+<Relation id="47" NAME="CompanyRelationship">
+<Entity id="33" label="parent" />
+<Entity id="38" label="trigger" />
+<Entity id="37" label="child" />
+</Relation>
+<Relation id="48" NAME="Identity">
+<Entity id="31" label="source" />
+<Entity id="1" label="target" />
+<Entity id="7" label="target" />
+<Entity id="12" label="target" />
+<Entity id="23" label="target" />
+<Entity id="40" label="target" />
+</Relation></Relations>
+</Document>

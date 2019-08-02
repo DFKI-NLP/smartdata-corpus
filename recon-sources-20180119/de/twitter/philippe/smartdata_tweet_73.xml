@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: <NODE id="19" />Bürgerkrieg<NODE id="30" /> und <NODE id="35" />Dürre<NODE id="40" />: <NODE id="42" />40.000<NODE id="48" /> Menschen im <NODE id="61" />Südsudan<NODE id="69" /> vom Hungertod bedroht. Die <NODE id="97" />Uno<NODE id="100" /> warnt vor einem Massensterben. https:/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="696783561618288640" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="19" endPos="30" type="disaster-type" surface="Bürgerkrieg" />
+<Entity id="2" startPos="35" endPos="40" type="disaster-type" surface="Dürre" />
+<Entity id="3" startPos="42" endPos="48" type="number" surface="40.000" />
+<Entity id="4" startPos="61" endPos="69" type="location" surface="Südsudan" />
+<Entity id="5" startPos="97" endPos="100" type="organization" surface="Uno" /></Entities><Relations>
+<Relation id="6" NAME="Disaster">
+<Entity id="4" label="location" />
+<Entity id="1" label="type" />
+<Entity id="3" label="victims" />
+</Relation>
+<Relation id="7" NAME="Disaster">
+<Entity id="4" label="location" />
+<Entity id="2" label="type" />
+<Entity id="3" label="victims" />
+</Relation></Relations>
+</Document>

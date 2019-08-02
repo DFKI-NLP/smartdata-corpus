@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @streckenagent_M: #<NODE id="22" />S2<NODE id="24" /> #<NODE id="26" />Altomünster<NODE id="37" />: #Ausfall weiterer S-Bahnen #<NODE id="67" />Schienenersatzverkehr<NODE id="88" /> #<NODE id="90" />MVV<NODE id="93" /> #<NODE id="95" />SBahn #<NODE id="102" />München<NODE id="109" /> http://t.co/47uWCYXMFZ
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="629653993665503232" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-07T14:03:05Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T01:31:55.73Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="22" endPos="24" type="location-route" surface="S2" />
+<Entity id="1" startPos="26" endPos="37" type="location-stop" surface="Altomünster" />
+<Entity id="2" startPos="67" endPos="88" type="trigger" surface="Schienenersatzverkehr" />
+<Entity id="3" startPos="90" endPos="93" type="organization-company" surface="MVV" />
+<Entity id="4" startPos="95" endPos="109" type="organization-company" surface="SBahn #München" />
+<Entity id="5" startPos="102" endPos="109" type="location-city" surface="München" /></Entities><Relations>
+<Relation id="6" NAME="RailReplacementService">
+<Entity id="0" label="location" />
+<Entity id="2" label="trigger" />
+<Entity id="1" label="direction" />
+</Relation></Relations>
+</Document>

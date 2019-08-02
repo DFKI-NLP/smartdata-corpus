@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Mailen<NODE id="6" />
+<NODE id="7" />1 von 1<NODE id="14" />
+<NODE id="15" />Rund <NODE id="20" />ein Drittel<NODE id="31" /> der Beschäftigten wird künftig für die neue Tochtergesellschaft arbeiten.<NODE id="105" /> <NODE id="106" />Auch in den Werken beginnt das große Aufteilen.<NODE id="153" /> <NODE id="154" />/Archiv
+Foto: <NODE id="168" />Tobias Hase<NODE id="179" />
+<NODE id="180" />1 von 1<NODE id="187" />
+<NODE id="188" />Damit wolle der Konzern nachhaltig wachsen und das Potenzial der halbleiterbasierten Technik stärker ausschöpfen, sagte Vorstandschef <NODE id="322" />Olaf Berlien<NODE id="334" /> am Dienstag in <NODE id="350" />München<NODE id="357" />.<NODE id="358" /> <NODE id="359" />Die Chipfabrik in <NODE id="377" />Kulim<NODE id="382" /> in <NODE id="386" />Malaysia<NODE id="394" /> soll ab 2017 Teile für LED-Autolampen und -Allgemeinbeleuchtung herstellen.<NODE id="470" />
+<NODE id="471" />Das traditionelle verbrauchernahe Geschäft mit Neonröhren, Halogen- und Energiesparlampen will <NODE id="566" />Osram<NODE id="571" /> im nächsten halben Jahr verkaufen.<NODE id="606" /> <NODE id="607" />Mittlerweile ist entschieden, welche Werke abgespalten werden: <NODE id="670" />Augsburg<NODE id="678" /> sowie Teile der <NODE id="695" />Werke<NODE id="700" /> in <NODE id="704" />Berlin<NODE id="710" /> und <NODE id="715" />Eichstätt<NODE id="724" /> werden abgestoßen, das größte <NODE id="755" />Osram<NODE id="760" />-<NODE id="761" />Werk<NODE id="765" /> <NODE id="766" />Regensburg<NODE id="776" /> dagegen und <NODE id="789" />Schwabmünchen<NODE id="802" /> bei <NODE id="807" />Augsburg<NODE id="815" /> bleiben bei <NODE id="828" />Osram<NODE id="833" />.<NODE id="834" /> <NODE id="835" />Über das laufende Sparprogramm hinaus solle der Umbau in <NODE id="892" />Deutschland<NODE id="903" /> keine zusätzlichen Arbeitsplätze kosten, sagte ein Konzer<NODE id="961" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.shz.de/nachrichten/deutschland-welt/wirtschaft/osram-wird-chipfabrikant-in-malaysia-id11167916.html@2016-03-11T02:46:09.376+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T01:46:09.376Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T01:46:13.484Z" />
+<feature featureName="uri" featureValue="http://www.shz.de/nachrichten/deutschland-welt/wirtschaft/osram-wird-chipfabrikant-in-malaysia-id11167916.html" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="sentence" surface="Mailen" />
+<Entity id="1" startPos="7" endPos="14" type="sentence" surface="1 von 1" />
+<Entity id="2" startPos="15" endPos="105" type="sentence" surface="Rund ein Drittel der Beschäftigten wird künftig für die neue Tochtergesellschaft arbeiten." />
+<Entity id="3" startPos="20" endPos="31" type="number" surface="ein Drittel" />
+<Entity id="4" startPos="106" endPos="153" type="sentence" surface="Auch in den Werken beginnt das große Aufteilen." />
+<Entity id="5" startPos="154" endPos="179" type="sentence" surface="/Archiv&#xA;Foto: Tobias Hase" />
+<Entity id="6" startPos="168" endPos="179" type="person" surface="Tobias Hase" />
+<Entity id="7" startPos="180" endPos="187" type="sentence" surface="1 von 1" />
+<Entity id="8" startPos="188" endPos="358" type="sentence" surface="Damit wolle der Konzern nachhaltig wachsen und das Potenzial der halbleiterbasierten Technik stärker ausschöpfen, sagte Vorstandschef Olaf Berlien am Dienstag in München." />
+<Entity id="9" startPos="322" endPos="334" type="person" surface="Olaf Berlien" />
+<Entity id="10" startPos="350" endPos="357" type="location-city" surface="München" />
+<Entity id="11" startPos="359" endPos="470" type="sentence" surface="Die Chipfabrik in Kulim in Malaysia soll ab 2017 Teile für LED-Autolampen und -Allgemeinbeleuchtung herstellen." />
+<Entity id="12" startPos="377" endPos="382" type="location-city" surface="Kulim" />
+<Entity id="13" startPos="386" endPos="394" type="location" surface="Malaysia" />
+<Entity id="14" startPos="471" endPos="606" type="sentence" surface="Das traditionelle verbrauchernahe Geschäft mit Neonröhren, Halogen- und Energiesparlampen will Osram im nächsten halben Jahr verkaufen." />
+<Entity id="15" startPos="566" endPos="571" type="organization-company" surface="Osram" />
+<Entity id="16" startPos="607" endPos="834" type="sentence" surface="Mittlerweile ist entschieden, welche Werke abgespalten werden: Augsburg sowie Teile der Werke in Berlin und Eichstätt werden abgestoßen, das größte Osram-Werk Regensburg dagegen und Schwabmünchen bei Augsburg bleiben bei Osram." />
+<Entity id="17" startPos="670" endPos="678" type="location-city" surface="Augsburg" />
+<Entity id="18" startPos="695" endPos="700" type="facility-type" surface="Werke" />
+<Entity id="19" startPos="704" endPos="710" type="location-city" surface="Berlin" />
+<Entity id="20" startPos="715" endPos="724" type="location-city" surface="Eichstätt" />
+<Entity id="21" startPos="755" endPos="760" type="organization-company" surface="Osram" />
+<Entity id="22" startPos="761" endPos="765" type="facility-type" surface="Werk" />
+<Entity id="23" startPos="766" endPos="776" type="location-city" surface="Regensburg" />
+<Entity id="24" startPos="789" endPos="802" type="location-city" surface="Schwabmünchen" />
+<Entity id="25" startPos="807" endPos="815" type="location-city" surface="Augsburg" />
+<Entity id="26" startPos="828" endPos="833" type="organization-company" surface="Osram" />
+<Entity id="27" startPos="835" endPos="961" type="sentence" surface="Über das laufende Sparprogramm hinaus solle der Umbau in Deutschland keine zusätzlichen Arbeitsplätze kosten, sagte ein Konzer" />
+<Entity id="28" startPos="892" endPos="903" type="location" surface="Deutschland" /></Entities><Relations>
+<Relation id="29" NAME="CompanyFacility">
+<Entity id="24" label="location" />
+<Entity id="17" label="location" />
+<Entity id="26" label="company" />
+</Relation>
+<Relation id="30" NAME="CompanyFacility">
+<Entity id="19" label="location" />
+<Entity id="20" label="location" />
+<Entity id="26" label="company" />
+<Entity id="18" label="facility_type" />
+</Relation>
+<Relation id="31" NAME="CompanyFacility">
+<Entity id="23" label="location" />
+<Entity id="26" label="company" />
+<Entity id="22" label="facility_type" />
+</Relation></Relations>
+</Document>

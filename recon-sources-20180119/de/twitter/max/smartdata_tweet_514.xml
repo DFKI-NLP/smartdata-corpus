@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />BPOL-F<NODE id="6" />: Entspannter <NODE id="20" />syrischer<NODE id="29" /> Migrant verursacht Verspätungen im Zugverkehr https://t.co/HM8lqea8iH
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672750897508646914" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-04T12:14:47Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:33:45.73Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization" surface="BPOL-F" />
+<Entity id="1" startPos="20" endPos="29" type="location" surface="syrischer" /></Entities><Relations />
+</Document>

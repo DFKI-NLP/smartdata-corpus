@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A39<NODE id="3" /> <NODE id="4" />Braunschweig<NODE id="16" /> Richtung <NODE id="26" />Salzgitter<NODE id="36" /> zwischen <NODE id="46" />Salzgitter-Lichtenberg<NODE id="68" /> und <NODE id="73" />Westerlinde<NODE id="84" /> <NODE id="85" />3 km<NODE id="89" /> <NODE id="90" />Stau<NODE id="94" /> nach einem <NODE id="106" />LKW-Unfall<NODE id="116" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#29@2016-03-16T15:11:34.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A39" />
+<Entity id="1" startPos="4" endPos="16" type="location-city" surface="Braunschweig" />
+<Entity id="2" startPos="26" endPos="36" type="location-city" surface="Salzgitter" />
+<Entity id="3" startPos="46" endPos="68" type="location" surface="Salzgitter-Lichtenberg" />
+<Entity id="4" startPos="73" endPos="84" type="location" surface="Westerlinde" />
+<Entity id="5" startPos="85" endPos="89" type="distance" surface="3 km" />
+<Entity id="6" startPos="90" endPos="94" type="trigger" surface="Stau" />
+<Entity id="7" startPos="106" endPos="116" type="trigger" surface="LKW-Unfall" /></Entities><Relations>
+<Relation id="8" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="7" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="5" label="jam_length" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>EU-Parlamentschef <NODE id="18" />Martin Schulz<NODE id="31" /> schreibt hier, warum er für #UKinEU ist, aber nicht um jeden Preis. #Brexit 
+https://t.co/DCUPoHujWb
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="700362770202624000" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="31" type="person" surface="Martin Schulz" /></Entities><Relations />
+</Document>

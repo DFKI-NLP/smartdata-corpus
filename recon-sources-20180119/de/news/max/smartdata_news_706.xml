@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Deutschland<NODE id="11" /> bisher noch nicht weiß
+Darf sich der Winter nun endlich über Schnee freuen?
+<NODE id="88" />Offenbach<NODE id="97" /> - Bisher war in <NODE id="114" />Deutschland<NODE id="125" /> von Winter keine Spur. Aber mit dem neuen Jahr könnte auch der Schnee endlich den Weg zu uns finden.
+Am <NODE id="230" />Samstag<NODE id="237" /> kommen von Südwesten Niederschläge auf. Diese greifen bis auf die mittleren Gebiete über. Dabei fällt anfangs nur im Bergland Schnee, nach Nordosten teilweise aber auch bis in tiefere Lagen. Im Norden und Osten sowie im Südosten bleibt es trocken mit einigen Auflockerungen.
+Die Temperatur erreicht Höchstwerte zwischen <NODE id="558" />-1 Grad<NODE id="565" /> an der <NODE id="573" />Oder<NODE id="577" /> und <NODE id="582" />+8 Grad<NODE id="589" /> am <NODE id="593" />Niederrhein<NODE id="604" />. Der Südost- bis Ostwind frischt auf mit starken bis stürmischen Böen, an den Küsten und im höheren Bergland teilweise Sturmböen.
+In der Nacht zum <NODE id="752" />Sonntag<NODE id="759" /> breiten sich die Niederschläge weiter nordostwärts aus, teils fällt Schnee bis in tiefe Lagen, im äußersten Südwesten aber meist Regen. In den frühen Morgenstunden des <NODE id="928" />Sonntags<NODE id="936" /> kann es in <NODE id="948" />München<NODE id="955" /> und
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.merkur.de/welt/wetter-deutschland-regen-bisschen-schnee-bergen-zr-6000427.html?cmp=defrss@2016-03-10T14:05:55.593+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:05:55.593Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:06:03.486Z" />
+<feature featureName="uri" featureValue="http://www.merkur.de/welt/wetter-deutschland-regen-bisschen-schnee-bergen-zr-6000427.html?cmp=defrss" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="location" surface="Deutschland" />
+<Entity id="1" startPos="88" endPos="97" type="location-city" surface="Offenbach" />
+<Entity id="2" startPos="114" endPos="125" type="location" surface="Deutschland" />
+<Entity id="3" startPos="230" endPos="237" type="date" surface="Samstag" />
+<Entity id="4" startPos="558" endPos="565" type="number" surface="-1 Grad" />
+<Entity id="5" startPos="573" endPos="577" type="location" surface="Oder" />
+<Entity id="6" startPos="582" endPos="589" type="number" surface="+8 Grad" />
+<Entity id="7" startPos="593" endPos="604" type="location" surface="Niederrhein" />
+<Entity id="8" startPos="752" endPos="759" type="date" surface="Sonntag" />
+<Entity id="9" startPos="928" endPos="936" type="date" surface="Sonntags" />
+<Entity id="10" startPos="948" endPos="955" type="location-city" surface="München" /></Entities><Relations />
+</Document>

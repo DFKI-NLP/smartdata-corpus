@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>POL-AA: Raum <NODE id="13" />Schwäbisch Gmünd<NODE id="29" />: Taschenschlitzer entwendet Handy; Radfahrer bei <NODE id="79" />Unfall<NODE id="85" /> leicht verletzt
+<NODE id="102" />22.12.15<NODE id="110" /> | <NODE id="113" />12:10 Uhr<NODE id="122" /> | <NODE id="125" />1<NODE id="126" /> mal gelesen | presseportal.de <NODE id="157" />Polizeipräsidium Aalen<NODE id="179" /> / POL-AA: Raum <NODE id="195" />Schwäbisch Gmünd<NODE id="211" />: Taschenschlitzer ...
+POL-AA: Raum <NODE id="247" />Schwäbisch Gmünd<NODE id="263" />: Taschenschlitzer entwendet Handy; Radfahrer bei <NODE id="313" />Unfall<NODE id="319" /> leicht verletzt
+<NODE id="336" />Schwäbisch Gmünd <NODE id="353" />(ots) - <NODE id="361" />Schwäbisch Gmünd<NODE id="377" />: Beim Vorbeifahren gestreift
+Am <NODE id="410" />Montag<NODE id="416" /> fuhr ein <NODE id="426" />54-jähriger<NODE id="437" /> Sattelzug-Fahrer auf der <NODE id="463" />Lorcher Straße<NODE id="477" /> an einem verkehrsbedingt stehenden <NODE id="513" />VW <NODE id="516" />Golf vorbei und streifte diesen gegen <NODE id="554" />14.45 Uhr<NODE id="563" /> an der hinteren Stoßstange. Rund <NODE id="597" />1000 Euro<NODE id="606" /> Schaden entstand dabei.
+<NODE id="631" />Schwäbisch Gmünd<NODE id="647" />: Taschenschlitzer entwendet Handy
+Am <NODE id="685" />Montagnachmittag<NODE id="701" /> wurde einer <NODE id="714" />38-jährigen<NODE id="725" /> Frau ein Handy im Wert von <NODE id="753" />500 Euro<NODE id="761" /> aus der Handtasche entwendet. Die Frau trug die Tasche über die rechte Schulter gehängt und hielt sich zwischen <NODE id="874" />16<NODE id="876" /> und <NODE id="881" />17 Uhr<NODE id="887" /> auf dem Weihnachtsmarkt bzw. in einem Ladengeschäft
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ad-hoc-news.de/pol-aa-raum-schwaebisch-gmuend-taschenschlitzer-entwendet-handy-radfahrer-bei--/de/News/47638236@2016-03-10T16:04:06.723+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T15:04:06.723Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T15:04:13.318Z" />
+<feature featureName="uri" featureValue="http://www.ad-hoc-news.de/pol-aa-raum-schwaebisch-gmuend-taschenschlitzer-entwendet-handy-radfahrer-bei--/de/News/47638236" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="13" endPos="29" type="location-city" surface="Schwäbisch Gmünd" />
+<Entity id="1" startPos="79" endPos="85" type="trigger" surface="Unfall" />
+<Entity id="2" startPos="102" endPos="110" type="date" surface="22.12.15" />
+<Entity id="3" startPos="113" endPos="122" type="time" surface="12:10 Uhr" />
+<Entity id="4" startPos="125" endPos="126" type="number" surface="1" />
+<Entity id="5" startPos="157" endPos="179" type="organization" surface="Polizeipräsidium Aalen" />
+<Entity id="6" startPos="195" endPos="211" type="location-city" surface="Schwäbisch Gmünd" />
+<Entity id="7" startPos="247" endPos="263" type="location-city" surface="Schwäbisch Gmünd" />
+<Entity id="8" startPos="313" endPos="319" type="trigger" surface="Unfall" />
+<Entity id="9" startPos="336" endPos="353" type="location-city" surface="Schwäbisch Gmünd " />
+<Entity id="10" startPos="361" endPos="377" type="location-city" surface="Schwäbisch Gmünd" />
+<Entity id="11" startPos="410" endPos="416" type="date" surface="Montag" />
+<Entity id="12" startPos="426" endPos="437" type="number" surface="54-jähriger" />
+<Entity id="13" startPos="463" endPos="477" type="location-street" surface="Lorcher Straße" />
+<Entity id="14" startPos="513" endPos="516" type="organization-company" surface="VW " />
+<Entity id="15" startPos="554" endPos="563" type="time" surface="14.45 Uhr" />
+<Entity id="16" startPos="597" endPos="606" type="number" surface="1000 Euro" />
+<Entity id="17" startPos="631" endPos="647" type="location-city" surface="Schwäbisch Gmünd" />
+<Entity id="18" startPos="685" endPos="701" type="time" surface="Montagnachmittag" />
+<Entity id="19" startPos="714" endPos="725" type="number" surface="38-jährigen" />
+<Entity id="20" startPos="753" endPos="761" type="number" surface="500 Euro" />
+<Entity id="21" startPos="874" endPos="876" type="time" surface="16" />
+<Entity id="22" startPos="881" endPos="887" type="time" surface="17 Uhr" /></Entities><Relations>
+<Relation id="23" NAME="Accident">
+<Entity id="0" label="location" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="24" NAME="Accident">
+<Entity id="7" label="location" />
+<Entity id="8" label="trigger" />
+</Relation></Relations>
+</Document>

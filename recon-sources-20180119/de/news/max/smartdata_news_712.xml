@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Trauerfeier für <NODE id="16" />Pierre Boulez<NODE id="29" /> in <NODE id="33" />Baden-Baden<NODE id="44" />
+<NODE id="45" />Pierre Boulez<NODE id="58" /> hat die Grenzen der Musik ausgelotet. Foto: <NODE id="103" />Rolf Haid<NODE id="112" /> Bild: <NODE id="119" />dpa-infocom GmbH<NODE id="135" />
+<NODE id="136" />Baden<NODE id="141" /> (<NODE id="143" />dpa<NODE id="146" />) - Feierlicher Abschied von <NODE id="175" />Pierre Boulez<NODE id="188" />: Der <NODE id="194" />französische<NODE id="206" /> Komponist und Dirigent ist am <NODE id="237" />Mittwoch<NODE id="245" /> in seinem Alterswohnsitz <NODE id="271" />Baden-Baden<NODE id="282" /> beigesetzt worden. Zuvor hatten ihm Angehörige, Freunde und Wegbegleiter in der Stiftskirche Adieu gesagt.
+Mit Musik von und für <NODE id="412" />Boulez<NODE id="418" />, Lesungen und Gebeten wurde in der Grablege der <NODE id="467" />badischen<NODE id="476" /> Markgrafen bei einer rund <NODE id="503" />einstündigen<NODE id="515" /> Trauerfeier des herausragenden Vertreters der musikalischen Avantgarde gedacht.
+Unter den Trauergästen rund um den mit weißen Rosen und roten Blüten geschmückten Sarg waren Komponisten wie <NODE id="705" />Wolfgang Rihm<NODE id="718" /> und andere Musikschaffende wie Festspielhaus-Intendant <NODE id="774" />Andreas Mölich-Zebhauser<NODE id="798" />. <NODE id="800" />Boulez<NODE id="806" /> war am <NODE id="814" />5. Januar<NODE id="823" /> im Alter von <NODE id="837" />90 Jahren<NODE id="846" /> gestorben. Die offizielle Trauerfeier ist für diesen <NODE id="900" />Donnerstag<NODE id="910" /> in <NODE id="914" />Paris<NODE id="919" /> vorgesehen.
+<NODE id="932" />Baden-Badens<NODE id="944" /> Oberbürg
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nwzonline.de/panorama/trauerfeier-fuer-pierre-boulez-in-baden-baden_a_6,0,2882274002.html@2016-03-10T13:55:15.468+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:55:15.468Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:55:23.319Z" />
+<feature featureName="uri" featureValue="http://www.nwzonline.de/panorama/trauerfeier-fuer-pierre-boulez-in-baden-baden_a_6,0,2882274002.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="29" type="person" surface="Pierre Boulez" />
+<Entity id="1" startPos="33" endPos="44" type="location-city" surface="Baden-Baden" />
+<Entity id="2" startPos="45" endPos="58" type="person" surface="Pierre Boulez" />
+<Entity id="3" startPos="103" endPos="112" type="person" surface="Rolf Haid" />
+<Entity id="4" startPos="119" endPos="135" type="organization-company" surface="dpa-infocom GmbH" />
+<Entity id="5" startPos="136" endPos="141" type="location" surface="Baden" />
+<Entity id="6" startPos="143" endPos="146" type="organization-company" surface="dpa" />
+<Entity id="7" startPos="175" endPos="188" type="person" surface="Pierre Boulez" />
+<Entity id="8" startPos="194" endPos="206" type="location" surface="französische" />
+<Entity id="9" startPos="237" endPos="245" type="date" surface="Mittwoch" />
+<Entity id="10" startPos="271" endPos="282" type="location-city" surface="Baden-Baden" />
+<Entity id="11" startPos="412" endPos="418" type="person" surface="Boulez" />
+<Entity id="12" startPos="467" endPos="476" type="location" surface="badischen" />
+<Entity id="13" startPos="503" endPos="515" type="number" surface="einstündigen" />
+<Entity id="14" startPos="705" endPos="718" type="person" surface="Wolfgang Rihm" />
+<Entity id="15" startPos="774" endPos="798" type="person" surface="Andreas Mölich-Zebhauser" />
+<Entity id="16" startPos="800" endPos="806" type="person" surface="Boulez" />
+<Entity id="17" startPos="814" endPos="823" type="date" surface="5. Januar" />
+<Entity id="18" startPos="837" endPos="846" type="number" surface="90 Jahren" />
+<Entity id="19" startPos="900" endPos="910" type="date" surface="Donnerstag" />
+<Entity id="20" startPos="914" endPos="919" type="location-city" surface="Paris" />
+<Entity id="21" startPos="932" endPos="944" type="location-city" surface="Baden-Badens" /></Entities><Relations />
+</Document>

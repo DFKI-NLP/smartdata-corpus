@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>drucken
+<NODE id="8" />Hamburg<NODE id="15" /> (<NODE id="17" />dpa<NODE id="20" />) - Mit einem gemeinsamen weltweiten Industrieprojekt wollen Unternehmen und Forschung die Entwicklung von schwimmenden Windrädern auf See vorantreiben. «Ziel ist es, einen allgemein anerkannten und einheitlichen Ansatz für die Praxis zu entwickeln», teilte der technische Prüfkonzern <NODE id="305" />DNV GL<NODE id="311" /> in <NODE id="315" />Hamburg<NODE id="322" /> mit. <NODE id="328" />Das <NODE id="332" />norwegische<NODE id="343" /> Unternehmen<NODE id="355" />, das aus der <NODE id="369" />Fusion<NODE id="375" /> von <NODE id="380" />norwegischer<NODE id="392" /> <NODE id="393" />Det Norske Veritas<NODE id="411" /> und dem <NODE id="420" />deutschen<NODE id="429" /> <NODE id="430" />Germanischen Lloyd<NODE id="448" /> entstanden ist, hat die Federführung für das Projekt übernommen. «Standardisierung ist ein wichtiger Meilenstein, wenn es darum geht, die Industrie bei der Entwicklung zuverlässiger schwimmender Windkraftanlagen in die richtige Richtung zu lenken.»
+Derzeit gibt es mehrere verschiedene technische Ansätze, um Windrädern das Schwimmen beizubringen. «Die Entwicklung befindet sich noch in der Anfangsphase», sagte <NODE id="861" />Jan Rispens<NODE id="872" />, <NODE id="874" />Geschäftsführer<NODE id="889" /> des Branchennetzwerkes <NODE id="913" />Erneuerbare Energien Hamburg<NODE id="941" /> (<NODE id="943" />EEHH<NODE id="947" />). Ein Pionier ist der n
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.deutschland.de/de/news/windrader-lernen-schwimmen@2016-07-22T15:10:01.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-22T13:10:01Z" />
+<feature featureName="indexDate" featureValue="2016-07-22T14:14:52.765Z" />
+<feature featureName="uri" featureValue="https://www.deutschland.de/de/news/windrader-lernen-schwimmen" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="15" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="17" endPos="20" type="organization-company" surface="dpa" />
+<Entity id="2" startPos="305" endPos="311" type="organization-company" surface="DNV GL" />
+<Entity id="3" startPos="315" endPos="322" type="location-city" surface="Hamburg" />
+<Entity id="4" startPos="328" endPos="355" type="organization-company" surface="Das norwegische Unternehmen" />
+<Entity id="5" startPos="332" endPos="343" type="location" surface="norwegische" />
+<Entity id="6" startPos="369" endPos="375" type="trigger" surface="Fusion" />
+<Entity id="7" startPos="380" endPos="392" type="location" surface="norwegischer" />
+<Entity id="8" startPos="393" endPos="411" type="organization-company" surface="Det Norske Veritas" />
+<Entity id="9" startPos="420" endPos="429" type="location" surface="deutschen" />
+<Entity id="10" startPos="430" endPos="448" type="organization-company" surface="Germanischen Lloyd" />
+<Entity id="11" startPos="861" endPos="872" type="person" surface="Jan Rispens" />
+<Entity id="12" startPos="874" endPos="889" type="org-position" surface="Geschäftsführer" />
+<Entity id="13" startPos="913" endPos="941" type="organization" surface="Erneuerbare Energien Hamburg" />
+<Entity id="14" startPos="943" endPos="947" type="organization" surface="EEHH" /></Entities><Relations>
+<Relation id="15" NAME="Identity">
+<Entity id="2" label="source" />
+<Entity id="4" label="target" />
+</Relation>
+<Relation id="16" NAME="Merger">
+<Entity id="4" label="new" />
+<Entity id="8" label="old" />
+<Entity id="10" label="old" />
+<Entity id="6" label="trigger" />
+</Relation>
+<Relation id="17" NAME="OrganizationLeadership">
+<Entity id="11" label="person" />
+<Entity id="13" label="organization" />
+<Entity id="12" label="position" />
+</Relation></Relations>
+</Document>

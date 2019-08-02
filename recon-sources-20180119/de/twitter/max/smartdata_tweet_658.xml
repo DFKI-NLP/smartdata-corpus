@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-HWI<NODE id="7" />: Verkehrsbehinderung durch Unfall mit verletzten Personen https://t.co/hsDRJtDNe1
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669871814164680704" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-26T13:34:20Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:17:14.121Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization" surface="POL-HWI" /></Entities><Relations />
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>M Diesen Artikel per E-Mail empfehlen.
+Das Start-up <NODE id="52" />Comfylight<NODE id="62" /> bietet eine Lampe, die ungebetenen Gästen vorgaukelt, es sei jemand daheim. Reicht das nicht, sendet sie ein Alarmsignal.
+<NODE id="185" />Marcus Köhler<NODE id="198" /> wurde in den <NODE id="212" />Niederlanden<NODE id="224" /> erleuchtet. Bei einem Besuch mit einem Freund hatte der ihm über einen kulturellen Unterschied zwischen beiden Ländern aufgeklärt: „<NODE id="357" />Deutschen<NODE id="366" /> Kindern bringt man bei, das Licht auszumachen, wenn sie das Haus verlassen, <NODE id="443" />holländische<NODE id="455" /> Kinder lernen dagegen beim Gehen das Licht extra anzumachen.“ So lassen etwa <NODE id="533" />40 Prozent<NODE id="543" /> der Niederländer die Lampen brennen, wenn sie nicht zu Hause sind, die erleuchteten Häuser sollen Einbrecher abschrecken.
+Das Erlebnis brachte <NODE id="687" />Köhler<NODE id="693" /> und <NODE id="698" />Stefanie Turber<NODE id="713" /> auf eine Geschäftsidee: Sie haben mit ihrem Start-up <NODE id="767" />Comfylight<NODE id="777" /> eine intelligente Lampe entwickelt. Durch einen Bewegungssensor lernt sie die typischen Beleuchtungszyklen und ahmt diese in Abwesenheit nach. „Bislang 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://gruender.wiwo.de/comfy-eine-lampe-die-einbrecher-vertreibt/@2016-02-19T09:03:15.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-19T08:03:15Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T08:46:01.929Z" />
+<feature featureName="uri" featureValue="http://gruender.wiwo.de/comfy-eine-lampe-die-einbrecher-vertreibt/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="52" endPos="62" type="organization-company" surface="Comfylight" />
+<Entity id="1" startPos="185" endPos="198" type="person" surface="Marcus Köhler" />
+<Entity id="2" startPos="212" endPos="224" type="location" surface="Niederlanden" />
+<Entity id="3" startPos="357" endPos="366" type="location" surface="Deutschen" />
+<Entity id="4" startPos="443" endPos="455" type="location" surface="holländische" />
+<Entity id="5" startPos="533" endPos="543" type="number" surface="40 Prozent" />
+<Entity id="6" startPos="687" endPos="693" type="person" surface="Köhler" />
+<Entity id="7" startPos="698" endPos="713" type="person" surface="Stefanie Turber" />
+<Entity id="8" startPos="767" endPos="777" type="organization-company" surface="Comfylight" /></Entities><Relations />
+</Document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />From Software<NODE id="13" /> legt Dark Souls vorerst auf Eis
+Kein Nachfolger in naher Zukunft
+<NODE id="79" />Hidetaka Miyazaki<NODE id="96" />, <NODE id="98" />Präsident<NODE id="107" /> von <NODE id="112" />From Software<NODE id="125" />, hat in einem Interview verkündet, dass es vorerst keine weiteren Ableger von Dark Souls geben wird.
+Das <NODE id="231" />japanische<NODE id="241" /> Hardcore-Rollenspiel Dark Souls ist auf große Beliebtheit in den westlichen Regionen gestoßen und der mittlerweile <NODE id="357" />dritte<NODE id="363" /> Teil der Serie hat erneut Fans und Fachpresse überzeugen können. Aktuell ist ein DLC in der Mache, wer mit einem weiteren vollwertigen Ableger der Reihe rechnet, wird aber nun leider enttäuscht. Denn <NODE id="564" />Hidetaka Miyazaki<NODE id="581" />, seines Zeichens Studioleiter und Game Director, habe mit Dark Souls vorerst abgeschlossen.
+Dies verkündete der Entwickler kürzlich in einem <NODE id="723" />japanischen<NODE id="734" /> Interview, als dieser nach den Zukunftsplänen der Rollenspiel-Reihe gefragt wurde. Dark Souls läge damit eine Pause ein, denn aktuell seien weder Remaster-Editionen, noch Fortset
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://game7.de/dark-souls-3/news/from-software-legt-vorerst-eis-nachfolger-naher-T3e/@2016-07-23T11:00:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-23T09:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-07-23T10:31:35.38Z" />
+<feature featureName="uri" featureValue="https://game7.de/dark-souls-3/news/from-software-legt-vorerst-eis-nachfolger-naher-T3e/" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="organization-company" surface="From Software" />
+<Entity id="1" startPos="79" endPos="96" type="person" surface="Hidetaka Miyazaki" />
+<Entity id="2" startPos="98" endPos="107" type="org-position" surface="Präsident" />
+<Entity id="3" startPos="112" endPos="125" type="organization-company" surface="From Software" />
+<Entity id="4" startPos="231" endPos="241" type="location" surface="japanische" />
+<Entity id="5" startPos="357" endPos="363" type="number" surface="dritte" />
+<Entity id="6" startPos="564" endPos="581" type="person" surface="Hidetaka Miyazaki" />
+<Entity id="7" startPos="723" endPos="734" type="location" surface="japanischen" /></Entities><Relations>
+<Relation id="8" NAME="OrganizationLeadership">
+<Entity id="1" label="person" />
+<Entity id="3" label="organization" />
+<Entity id="2" label="position" />
+</Relation></Relations>
+</Document>

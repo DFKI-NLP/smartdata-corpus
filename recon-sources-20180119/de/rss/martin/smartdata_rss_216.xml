@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>von <NODE id="4" />Mittwoch, 23. März<NODE id="22" />, <NODE id="24" />22.10 Uhr<NODE id="33" /> bis <NODE id="38" />Dienstag, 29. März<NODE id="56" />, <NODE id="58" />7.45 Uhr<NODE id="66" />
+Meldung:
+Die <NODE id="80" />EC-Züge<NODE id="87" /> werden zwischen <NODE id="104" />Berlin Hbf<NODE id="114" /> und <NODE id="119" />Frankfurt (Oder)<NODE id="135" /> durch <NODE id="142" />Busse<NODE id="147" /> <NODE id="148" />ersetzt<NODE id="155" />. Die <NODE id="161" />Busse<NODE id="166" /> <NODE id="167" />halten nicht<NODE id="179" /> in <NODE id="183" />Berlin Ostbahnhof<NODE id="200" />. B eachten Sie die <NODE id="220" />61 – 67 Min.<NODE id="232" /> frühere Abfahrt/spätere Ankunft der Busse in <NODE id="278" />Berlin Hbf<NODE id="288" />.
+Hinweise: 
+ Bitte beachten Sie, dass die Haltestellen des Schienenersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.
+ In den Bussen ist leider keine Fahrradbeförderung möglich, Kinderwagen und Rollstühle können nur eingeschränkt befördert werden.
+ Die Fahrplantabelle finden Sie in diesem PDF-Dokument
+Grund:
+Bauarbeiten <NODE id="630" />Berlin-Rummelsburg<NODE id="648" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="718" />94<NODE id="720" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/EC_95-BERLIN-WARSZAWA_EXPRESS_Berlin-Poznan-Gdynia_Warszawa/50#e72c7119a205703959baa9f24b977656d10a31c0@2016-02-18T13:35:08.347+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-18T12:35:08.347Z" />
+<feature featureName="indexDate" featureValue="2016-03-18T15:27:52.624Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/EC_95-BERLIN-WARSZAWA_EXPRESS_Berlin-Poznan-Gdynia_Warszawa/50#e72c7119a205703959baa9f24b977656d10a31c0" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="22" type="date" surface="Mittwoch, 23. März" />
+<Entity id="1" startPos="24" endPos="33" type="time" surface="22.10 Uhr" />
+<Entity id="2" startPos="38" endPos="56" type="date" surface="Dienstag, 29. März" />
+<Entity id="3" startPos="58" endPos="66" type="time" surface="7.45 Uhr" />
+<Entity id="4" startPos="80" endPos="87" type="location-route" surface="EC-Züge" />
+<Entity id="5" startPos="104" endPos="114" type="location-stop" surface="Berlin Hbf" />
+<Entity id="6" startPos="119" endPos="135" type="location-stop" surface="Frankfurt (Oder)" />
+<Entity id="7" startPos="142" endPos="147" type="trigger" surface="Busse" />
+<Entity id="8" startPos="148" endPos="155" type="trigger" surface="ersetzt" />
+<Entity id="9" startPos="161" endPos="166" type="location-route" surface="Busse" />
+<Entity id="10" startPos="167" endPos="179" type="trigger" surface="halten nicht" />
+<Entity id="11" startPos="183" endPos="200" type="location-stop" surface="Berlin Ostbahnhof" />
+<Entity id="12" startPos="220" endPos="232" type="duration" surface="61 – 67 Min." />
+<Entity id="13" startPos="278" endPos="288" type="location-stop" surface="Berlin Hbf" />
+<Entity id="14" startPos="630" endPos="648" type="location-stop" surface="Berlin-Rummelsburg" />
+<Entity id="15" startPos="718" endPos="720" type="number" surface="94" /></Entities><Relations>
+<Relation id="16" NAME="CanceledStop">
+<Entity id="9" label="route" />
+<Entity id="11" label="location" />
+<Entity id="10" label="trigger" />
+</Relation>
+<Relation id="17" NAME="RailReplacementService">
+<Entity id="6" label="end_loc" />
+<Entity id="5" label="start_loc" />
+<Entity id="4" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="8" label="trigger" />
+</Relation></Relations>
+</Document>

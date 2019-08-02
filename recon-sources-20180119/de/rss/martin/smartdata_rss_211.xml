@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wegen eines <NODE id="12" />Notartz-Einsatzes<NODE id="29" /> ist derzeit die <NODE id="46" />Strecke<NODE id="53" /> zwischen <NODE id="63" />Donauwörth<NODE id="73" /> und <NODE id="78" />Wörnitzstein<NODE id="90" /> <NODE id="91" />gesperrt<NODE id="99" />. Es gibt einen Schienenersatzverkehr (<NODE id="138" />15:08<NODE id="143" />)
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.br-online.de/aktuell/verkehr/verkehr-verkehrsmeldungen-staumeldungen-ID119730167093.xml@2016-03-04T16:26:10.072+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-04T15:26:10.072Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:26:50.342Z" />
+<feature featureName="uri" featureValue="http://www.br-online.de/aktuell/verkehr/verkehr-verkehrsmeldungen-staumeldungen-ID119730167093.xml" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="12" endPos="29" type="trigger" surface="Notartz-Einsatzes" />
+<Entity id="1" startPos="46" endPos="53" type="location-route" surface="Strecke" />
+<Entity id="2" startPos="63" endPos="73" type="location" surface="Donauwörth" />
+<Entity id="3" startPos="78" endPos="90" type="location" surface="Wörnitzstein" />
+<Entity id="4" startPos="91" endPos="99" type="trigger" surface="gesperrt" />
+<Entity id="5" startPos="138" endPos="143" type="time" surface="15:08" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="3" label="end_loc" />
+<Entity id="0" label="cause" />
+<Entity id="2" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

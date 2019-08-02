@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Nationalpark bekommt im <NODE id="24" />Frühjahr<NODE id="32" /> begehbare Wurzelhöhle
+Artikel per E-Mail empfehlen
+Nationalpark bekommt im <NODE id="108" />Frühjahr<NODE id="116" /> begehbare Wurzelhöhle
+Empfänger E-Mail
+Tipp: mehrere E-Mailadressen mit Komma      trennen
+persönliche Nachrichtoptional
+Bitte tragen Sie den Code in das      Eingabefeld ein.
+Tipp: das Bild anklicken um den Code neu      zu generieren
+Empfänger E-Mail
+Twittern
+Foto: dpa
+<NODE id="389" />Schönstedt<NODE id="399" /> (dpa/th) - Besucher des Baumkronenpfads im <NODE id="443" />Nationalpark Hainich<NODE id="463" /> können vom <NODE id="475" />Frühjahr<NODE id="483" /> an durch eine begehbare «Wurzelhöhle» spazieren. Ein genauer Termin für die neue Ausstellung stehe aber noch nicht fest, sagte <NODE id="611" />Nationalpark<NODE id="623" />-<NODE id="624" />Leiter<NODE id="630" /> <NODE id="631" />Manfred Großmann<NODE id="647" />. Die Schau mit einer Gesamtfläche von <NODE id="686" />200 Quadratmetern<NODE id="703" /> zeige Touristen das Leben von Tieren und Pflanzen im Waldboden.
+Die «Wurzelhöhle» habe schon zu den Plänen bereits vor der Eröffnung des Baumkronenpfads gehört, erklärte <NODE id="874" />Großmann<NODE id="882" />. Der Pfad lockte seit <NODE id="905" />2005<NODE id="909" /> <NODE id="910" />Millionen<NODE id="919" /> Besucher an. Die 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/regionales/thueringen/article150817175/Nationalpark-bekommt-im-Fruehjahr-begehbare-Wurzelhoehle.html@2016-03-10T15:24:39.403+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:24:39.403Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:24:43.316Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/regionales/thueringen/article150817175/Nationalpark-bekommt-im-Fruehjahr-begehbare-Wurzelhoehle.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="24" endPos="32" type="date" surface="Frühjahr" />
+<Entity id="1" startPos="108" endPos="116" type="date" surface="Frühjahr" />
+<Entity id="2" startPos="389" endPos="399" type="location-city" surface="Schönstedt" />
+<Entity id="3" startPos="443" endPos="463" type="organization" surface="Nationalpark Hainich" />
+<Entity id="4" startPos="475" endPos="483" type="date" surface="Frühjahr" />
+<Entity id="5" startPos="611" endPos="623" type="organization" surface="Nationalpark" />
+<Entity id="6" startPos="624" endPos="630" type="org-position" surface="Leiter" />
+<Entity id="7" startPos="631" endPos="647" type="person" surface="Manfred Großmann" />
+<Entity id="8" startPos="686" endPos="703" type="number" surface="200 Quadratmetern" />
+<Entity id="9" startPos="874" endPos="882" type="person" surface="Großmann" />
+<Entity id="10" startPos="905" endPos="909" type="date" surface="2005" />
+<Entity id="11" startPos="910" endPos="919" type="number" surface="Millionen" /></Entities><Relations>
+<Relation id="12" NAME="OrganizationLeadership">
+<Entity id="7" label="person" />
+<Entity id="5" label="organization" />
+<Entity id="6" label="position" />
+</Relation></Relations>
+</Document>

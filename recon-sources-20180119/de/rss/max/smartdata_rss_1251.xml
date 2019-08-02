@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Hildesheim<NODE id="10" /> Von <NODE id="15" />Morgen<NODE id="21" /> bis einschliesslich <NODE id="42" />Freitag<NODE id="49" /> wird der <NODE id="59" />Stadtverkehr <NODE id="72" />Hildesheim<NODE id="82" /> von <NODE id="87" />Betriebsbeginn<NODE id="101" /> bis <NODE id="106" />Betriebsende<NODE id="118" /> durch <NODE id="125" />ver.di<NODE id="131" /> <NODE id="132" />bestreikt<NODE id="141" />, dadurch wird der gesamte Busverkehr eingestellt.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#149@2016-06-28T15:36:53.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-28T13:36:53Z" />
+<feature featureName="indexDate" featureValue="2016-06-28T14:45:33.796Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="location-city" surface="Hildesheim" />
+<Entity id="1" startPos="15" endPos="21" type="date" surface="Morgen" />
+<Entity id="2" startPos="42" endPos="49" type="date" surface="Freitag" />
+<Entity id="3" startPos="59" endPos="82" type="organization" surface="Stadtverkehr Hildesheim" />
+<Entity id="4" startPos="72" endPos="82" type="location-city" surface="Hildesheim" />
+<Entity id="5" startPos="87" endPos="101" type="time" surface="Betriebsbeginn" />
+<Entity id="6" startPos="106" endPos="118" type="time" surface="Betriebsende" />
+<Entity id="7" startPos="125" endPos="131" type="organization" surface="ver.di" />
+<Entity id="8" startPos="132" endPos="141" type="trigger" surface="bestreikt" /></Entities><Relations>
+<Relation id="9" NAME="Strike">
+<Entity id="2" label="date" />
+<Entity id="1" label="date" />
+<Entity id="3" label="company" />
+<Entity id="4" label="location" />
+<Entity id="7" label="union" />
+<Entity id="8" label="trigger" />
+</Relation></Relations>
+</Document>

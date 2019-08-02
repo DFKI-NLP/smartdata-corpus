@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />zeitonline<NODE id="14" />: <NODE id="16" />Putins<NODE id="22" /> <NODE id="23" />Verteidigungsminister<NODE id="44" /> hat #<NODE id="50" />Assad<NODE id="55" /> in #<NODE id="60" />Syrien<NODE id="66" /> besucht, um über den Kampf gegen Terrorgruppen zu sprechen (nd) https:…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744369737606496256" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T03:22:29Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T03:22:40.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/gisela Boezio/status/744369737606496256" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="organization-company" surface="zeitonline" />
+<Entity id="1" startPos="16" endPos="22" type="person" surface="Putins" />
+<Entity id="2" startPos="23" endPos="44" type="org-position" surface="Verteidigungsminister" />
+<Entity id="3" startPos="50" endPos="55" type="person" surface="Assad" />
+<Entity id="4" startPos="60" endPos="66" type="location" surface="Syrien" /></Entities><Relations />
+</Document>

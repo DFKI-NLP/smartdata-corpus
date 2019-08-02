@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />titanic<NODE id="11" />: PM offiziell: <NODE id="27" />TITANIC<NODE id="34" /> bietet Präsident #<NODE id="53" />Erdoğan<NODE id="60" /> Asyl an. Für Unterkunft ist gesorgt. <NODE id="98" />Flughafen FFM<NODE id="111" /> unweit. #<NODE id="121" />Türkei<NODE id="127" /> https://t.c…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754454992673771520" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-16T23:17:42Z" />
+<feature featureName="indexDate" featureValue="2016-07-16T23:17:49.878Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2858652737/status/754454992673771520" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="11" type="organization-company" surface="titanic" />
+<Entity id="1" startPos="27" endPos="34" type="organization-company" surface="TITANIC" />
+<Entity id="2" startPos="53" endPos="60" type="person" surface="Erdoğan" />
+<Entity id="3" startPos="98" endPos="111" type="location-stop" surface="Flughafen FFM" />
+<Entity id="4" startPos="121" endPos="127" type="location" surface="Türkei" /></Entities><Relations />
+</Document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Autonetzer<NODE id="10" /> und <NODE id="15" />Drivy<NODE id="20" /> <NODE id="21" />fusionieren<NODE id="32" /> - Private Auto-Revolution: Neuer Carsharing-Riese in <NODE id="86" />Deutschland<NODE id="97" />: <NODE id="99" />Europas<NODE id="106" /> Mar... http://t.co/TEGiK4mggj
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="603821857167450112" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-05-28T07:15:23Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T22:17:24.121Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="organization-company" surface="Autonetzer" />
+<Entity id="1" startPos="15" endPos="20" type="organization-company" surface="Drivy" />
+<Entity id="2" startPos="21" endPos="32" type="trigger" surface="fusionieren" />
+<Entity id="3" startPos="86" endPos="97" type="location" surface="Deutschland" />
+<Entity id="4" startPos="99" endPos="106" type="location" surface="Europas" /></Entities><Relations>
+<Relation id="5" NAME="Merger">
+<Entity id="1" label="old" />
+<Entity id="0" label="old" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

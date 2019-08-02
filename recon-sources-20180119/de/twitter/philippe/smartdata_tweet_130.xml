@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Tyson Fury<NODE id="10" /> tanzt, singt, verhöhnt <NODE id="34" />Wladimir Klitschko<NODE id="52" /> - und schnappt ihm die Titel weg. Ist das der neue Überboxer? https://t.co/bnnc5QOXqS
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671289889774821376" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="person" surface="Tyson Fury" />
+<Entity id="1" startPos="34" endPos="52" type="person" surface="Wladimir Klitschko" /></Entities><Relations />
+</Document>

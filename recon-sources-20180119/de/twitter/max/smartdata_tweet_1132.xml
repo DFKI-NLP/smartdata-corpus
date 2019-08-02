@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @popkulturberlin: Für alle, die es nicht zur #Fusion schaffen. @Rroxymore serviert einen astreinen #popkulturberlin Mix für @<NODE id="128" />Spex<NODE id="132" /> https:…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="749190634716692480" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-02T10:39:01Z" />
+<feature featureName="indexDate" featureValue="2016-07-02T10:39:11.606Z" />
+<feature featureName="uri" featureValue="https://twitter.com/14315894/status/749190634716692480" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="128" endPos="132" type="organization-company" surface="Spex" /></Entities><Relations />
+</Document>

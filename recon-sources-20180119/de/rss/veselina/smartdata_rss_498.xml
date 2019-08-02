@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />München<NODE id="7" /> Richtung <NODE id="17" />Stuttgart<NODE id="26" /> zwischen <NODE id="36" />Hohenstadt<NODE id="46" /> und <NODE id="51" />Mühlhausen<NODE id="61" /> Gefahr durch defekten LKW, rechter Fahrstreifen blockiert
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=66087b34-8d3e-4c01-a8f1-cb8aa768e3b5@2016-03-26T11:13:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-26T10:13:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-26T11:37:40.534Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=66087b34-8d3e-4c01-a8f1-cb8aa768e3b5" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="München" />
+<Entity id="1" startPos="17" endPos="26" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="36" endPos="46" type="location-city" surface="Hohenstadt" />
+<Entity id="3" startPos="51" endPos="61" type="location-city" surface="Mühlhausen" /></Entities><Relations />
+</Document>

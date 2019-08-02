@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />&#x1f441; <NODE id="3" />A3<NODE id="5" /> <NODE id="6" />Baustelle<NODE id="15" /> <NODE id="16" />Hilden<NODE id="22" /> im <NODE id="26" />60er<NODE id="30" /> Bereich auf den linken Spuren: Blitzer hinter Brückenpfeiler in Fahrtrichtung <NODE id="109" />Köln<NODE id="113" />.<NODE id="114" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670939031174299648" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-29T12:15:05Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:22:53.649Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="114" type="sentence" surface="&#x1f441; A3 Baustelle Hilden im 60er Bereich auf den linken Spuren: Blitzer hinter Brückenpfeiler in Fahrtrichtung Köln." />
+<Entity id="1" startPos="3" endPos="5" type="location-street" surface="A3" />
+<Entity id="2" startPos="6" endPos="15" type="trigger" surface="Baustelle" />
+<Entity id="3" startPos="16" endPos="22" type="location-city" surface="Hilden" />
+<Entity id="4" startPos="26" endPos="30" type="number" surface="60er" />
+<Entity id="5" startPos="109" endPos="113" type="location-city" surface="Köln" /></Entities><Relations>
+<Relation id="6" NAME="Obstruction">
+<Entity id="3" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

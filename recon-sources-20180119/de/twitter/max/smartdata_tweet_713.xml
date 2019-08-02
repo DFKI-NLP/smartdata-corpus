@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Großartig, jetzt schon <NODE id="23" />15 Min.<NODE id="30" /> Verspätung - und es wird noch ein außerplanmäßiger Halt eingeplant. Soviel zu früher nachhause. #<NODE id="128" />sbb<NODE id="131" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667727277673816064" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-20T15:32:43Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:01:35.73Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="30" type="duration" surface="15 Min." />
+<Entity id="1" startPos="128" endPos="131" type="organization-company" surface="sbb" /></Entities><Relations />
+</Document>

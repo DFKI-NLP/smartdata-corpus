@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A2<NODE id="25" /> <NODE id="26" />Dortmund<NODE id="34" /> Richtung <NODE id="44" />Hannover<NODE id="52" /> zwischen <NODE id="62" />Garbsen<NODE id="69" /> und <NODE id="74" />Hannover-Herrenhausen<NODE id="95" /> liegt ein Kochtopf
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#1@2016-04-04T07:20:08.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="25" type="location-street" surface="A2" />
+<Entity id="1" startPos="26" endPos="34" type="location-city" surface="Dortmund" />
+<Entity id="2" startPos="44" endPos="52" type="location-city" surface="Hannover" />
+<Entity id="3" startPos="62" endPos="69" type="location" surface="Garbsen" />
+<Entity id="4" startPos="74" endPos="95" type="location" surface="Hannover-Herrenhausen" /></Entities><Relations />
+</Document>

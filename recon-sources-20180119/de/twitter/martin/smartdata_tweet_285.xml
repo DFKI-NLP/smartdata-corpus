@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>■  #<NODE id="4" />Kiel<NODE id="8" />: Wegen #<NODE id="17" />Bauarbeiten<NODE id="28" /> am <NODE id="32" />Barkauer Kreuz<NODE id="46" /> ist die <NODE id="55" />Hochstraße<NODE id="65" /> von der #<NODE id="75" />B404<NODE id="79" /> auf die #<NODE id="89" />B76<NODE id="92" />  bis <NODE id="98" />Ende Oktober<NODE id="110" /> <NODE id="111" />gesperrt<NODE id="119" />.  ...
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="611918932266610688" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-19T15:30:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:50:55.731Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="8" type="location-city" surface="Kiel" />
+<Entity id="1" startPos="17" endPos="28" type="trigger" surface="Bauarbeiten" />
+<Entity id="2" startPos="32" endPos="46" type="location" surface="Barkauer Kreuz" />
+<Entity id="3" startPos="55" endPos="65" type="location-street" surface="Hochstraße" />
+<Entity id="4" startPos="75" endPos="79" type="location-street" surface="B404" />
+<Entity id="5" startPos="89" endPos="92" type="location-street" surface="B76" />
+<Entity id="6" startPos="98" endPos="110" type="date" surface="Ende Oktober" />
+<Entity id="7" startPos="111" endPos="119" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="8" NAME="Obstruction">
+<Entity id="7" label="trigger" />
+<Entity id="1" label="cause" />
+<Entity id="3" label="location" />
+<Entity id="5" label="end_loc" />
+<Entity id="6" label="end_date" />
+<Entity id="4" label="end_loc" />
+</Relation></Relations>
+</Document>

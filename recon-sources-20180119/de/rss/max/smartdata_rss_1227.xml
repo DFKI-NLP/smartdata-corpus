@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />A46<NODE id="7" /> <NODE id="8" />Düsseldorf<NODE id="18" /> / <NODE id="21" />Wuppertal<NODE id="30" /> ist zwischen <NODE id="44" />Düsseldorf-Holthausen<NODE id="65" /> und <NODE id="70" />Düsseldorf-Bilk<NODE id="85" /> in <NODE id="89" />beiden Richtungen<NODE id="106" /> wegen <NODE id="113" />Überflutung<NODE id="124" /> <NODE id="125" />gesperrt<NODE id="133" />. Zurzeit <NODE id="143" />2 km<NODE id="147" /> <NODE id="148" />Stau<NODE id="152" /> in Richtung <NODE id="165" />Düsseldorf<NODE id="175" />. Der <NODE id="181" />Universitätstunnel<NODE id="199" /> und der <NODE id="208" />Tunnel Wersten<NODE id="222" /> stehen unter Wasser.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#16@2016-06-02T00:40:03.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-01T22:40:03Z" />
+<feature featureName="indexDate" featureValue="2016-06-01T22:45:11.127Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="location-street" surface="A46" />
+<Entity id="1" startPos="8" endPos="18" type="location-city" surface="Düsseldorf" />
+<Entity id="2" startPos="21" endPos="30" type="location-city" surface="Wuppertal" />
+<Entity id="3" startPos="44" endPos="65" type="location" surface="Düsseldorf-Holthausen" />
+<Entity id="4" startPos="70" endPos="85" type="location" surface="Düsseldorf-Bilk" />
+<Entity id="5" startPos="89" endPos="106" type="location" surface="beiden Richtungen" />
+<Entity id="6" startPos="113" endPos="124" type="disaster-type" surface="Überflutung" />
+<Entity id="7" startPos="113" endPos="124" type="trigger" surface="Überflutung" />
+<Entity id="8" startPos="125" endPos="133" type="trigger" surface="gesperrt" />
+<Entity id="9" startPos="143" endPos="147" type="distance" surface="2 km" />
+<Entity id="10" startPos="148" endPos="152" type="trigger" surface="Stau" />
+<Entity id="11" startPos="165" endPos="175" type="location-city" surface="Düsseldorf" />
+<Entity id="12" startPos="181" endPos="199" type="location-street" surface="Universitätstunnel" />
+<Entity id="13" startPos="208" endPos="222" type="location-street" surface="Tunnel Wersten" /></Entities><Relations>
+<Relation id="14" NAME="Obstruction">
+<Entity id="7" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="8" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="5" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

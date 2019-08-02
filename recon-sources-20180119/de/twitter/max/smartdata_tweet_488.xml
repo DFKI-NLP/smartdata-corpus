@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>■ #<NODE id="3" />Hamburg<NODE id="10" />: Auf der #<NODE id="21" />Köhlbrandbrücke<NODE id="36" /> ist wegen #<NODE id="48" />Bauarbeiten<NODE id="59" /> bis <NODE id="64" />7. November <NODE id="76" />je Richtung<NODE id="87" /> nur eine Spur frei.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="611873859017527296" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-19T12:31:10Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:50:45.731Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="10" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="21" endPos="36" type="location-street" surface="Köhlbrandbrücke" />
+<Entity id="2" startPos="48" endPos="59" type="trigger" surface="Bauarbeiten" />
+<Entity id="3" startPos="64" endPos="76" type="date" surface="7. November " />
+<Entity id="4" startPos="76" endPos="87" type="location" surface="je Richtung" /></Entities><Relations>
+<Relation id="5" NAME="Obstruction">
+<Entity id="3" label="end_date" />
+<Entity id="1" label="location" />
+<Entity id="2" label="trigger" />
+<Entity id="4" label="direction" />
+</Relation></Relations>
+</Document>

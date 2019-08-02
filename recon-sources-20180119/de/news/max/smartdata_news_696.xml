@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Könnte <NODE id="7" />2016<NODE id="11" /> das Jahr für Emerging-Markets-Aktien werden?
+(<NODE id="58" />lifePR<NODE id="64" />) (<NODE id="67" />München<NODE id="74" />,
+<NODE id="76" />11.01.2016<NODE id="86" />
+) Emerging-Markets-Aktien (EM-Aktien) stehen vor ihrem <NODE id="142" />dritten<NODE id="149" /> negativen Jahr in Folge, und im Vergleich zu Aktien aus Industrieländern sind ihre Bewertungen inzwischen ziemlich günstig. Nach unserer Einschätzung könnte es <NODE id="310" />2016<NODE id="314" /> zu einer Wende kommen – wenn ein paar maßgebliche Trends den richtigen Weg einschlagen.
+Für EM-Aktien waren die letzten <NODE id="435" />fünf Jahre<NODE id="445" /> schwierig. Ihre Gesamtrendite war über diese Zeitspanne negativ; im Gegensatz dazu legten Aktien aus Industrieländern im selben Zeitraum um mehr als <NODE id="595" />60%<NODE id="598" /> zu. Anleger zogen Kapital aus EM-Aktien ab – allein in diesem Jahr mehr als <NODE id="675" />60 Milliarden USD<NODE id="692" />. Infolgedessen sind die meisten Anleger in einem Markt untergewichtet, in dem pauschales Verkaufen den Bewertungsabschlag gegenüber Industrieländeraktien auf nahezu historische Höchststände getrieben hat (Abbildung).
+Im Wachstum liegt der Schlüssel
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.lifepr.de/inaktiv/ab-global/Koennte-2016-das-Jahr-fuer-Emerging-Markets-Aktien-werdenOE/boxid/569188@2016-03-10T15:12:03.099+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:12:03.099Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:12:03.485Z" />
+<feature featureName="uri" featureValue="http://www.lifepr.de/inaktiv/ab-global/Koennte-2016-das-Jahr-fuer-Emerging-Markets-Aktien-werdenOE/boxid/569188" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="7" endPos="11" type="date" surface="2016" />
+<Entity id="1" startPos="58" endPos="64" type="date" surface="lifePR" />
+<Entity id="2" startPos="67" endPos="74" type="location-city" surface="München" />
+<Entity id="3" startPos="76" endPos="86" type="date" surface="11.01.2016" />
+<Entity id="4" startPos="142" endPos="149" type="number" surface="dritten" />
+<Entity id="5" startPos="310" endPos="314" type="date" surface="2016" />
+<Entity id="6" startPos="435" endPos="445" type="duration" surface="fünf Jahre" />
+<Entity id="7" startPos="595" endPos="598" type="number" surface="60%" />
+<Entity id="8" startPos="675" endPos="692" type="number" surface="60 Milliarden USD" /></Entities><Relations />
+</Document>

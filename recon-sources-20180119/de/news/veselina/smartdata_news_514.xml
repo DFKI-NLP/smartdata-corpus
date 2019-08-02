@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Startseite  »  Information &amp; TK  » <NODE id="35" />STARFACE<NODE id="43" /> auf der CCW 2016<NODE id="60" />
+<NODE id="61" />STARFACE auf der CCW 2016<NODE id="86" />
+<NODE id="87" />Karlsruhe<NODE id="96" />, 11. Januar 2016<NODE id="113" /> <NODE id="114" />Die <NODE id="118" />STARFACE GmbH<NODE id="131" /> präsentiert sich auch 2016 vom 22. bis 25. Februar auf der CCW 2016, der internationalen Leitmesse der Contact-Center-Branche in <NODE id="261" />Berlin<NODE id="267" />.<NODE id="268" /> <NODE id="269" />Der <NODE id="273" />Anbieter<NODE id="281" /> hochwertiger IP-Telefonanlagen und Kommunikationslösungen „made in <NODE id="349" />Germany<NODE id="356" />“ zeigt in Halle 2, Stand B2 die Einsatzmöglichkeiten seiner <NODE id="417" />hybriden UCC-Plattform<NODE id="439" /> in Contact-Center-Umgebungen.<NODE id="469" />
+<NODE id="470" />„In einer zunehmend digitalen und komplexen Welt ist es für Unternehmen wichtiger denn je, in allen Bereichen flexibel aufgestellt zu sein – auch in der Kundenkommunikation.<NODE id="643" /> <NODE id="644" />Hochwertiger Kundenservice ist in vielen Branchen heute eines der wichtigsten Qualitätsmerkmale“, erklärt <NODE id="750" />Florian Buzin<NODE id="763" />, <NODE id="765" />Geschäftsführer<NODE id="780" /> von <NODE id="785" />STARFACE<NODE id="793" />.<NODE id="794" /> <NODE id="795" />„Unsere UCC-Plattform <NODE id="817" />STARFACE<NODE id="825" /> liefert Unternehmen eine leistungsstarke Basis für ihren telefonischen Kundenkontakt, die sich zudem individuell und flexibel erweitern lässt.<NODE id="968" /> <NODE id="969" />Ega<NODE id="972" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.itiko.de/artikel/1307705/starface-auf-der-ccw-2016.html/@2016-03-10T16:02:33.928+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T15:02:33.928Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T15:02:43.486Z" />
+<feature featureName="uri" featureValue="http://www.itiko.de/artikel/1307705/starface-auf-der-ccw-2016.html/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="60" type="sentence" surface="Startseite  »  Information &amp; TK  » STARFACE auf der CCW 2016" />
+<Entity id="1" startPos="35" endPos="43" type="organization-company" surface="STARFACE" />
+<Entity id="2" startPos="61" endPos="86" type="sentence" surface="STARFACE auf der CCW 2016" />
+<Entity id="3" startPos="87" endPos="96" type="location-city" surface="Karlsruhe" />
+<Entity id="4" startPos="87" endPos="113" type="sentence" surface="Karlsruhe, 11. Januar 2016" />
+<Entity id="5" startPos="114" endPos="268" type="sentence" surface="Die STARFACE GmbH präsentiert sich auch 2016 vom 22. bis 25. Februar auf der CCW 2016, der internationalen Leitmesse der Contact-Center-Branche in Berlin." />
+<Entity id="6" startPos="118" endPos="131" type="organization-company" surface="STARFACE GmbH" />
+<Entity id="7" startPos="261" endPos="267" type="location-city" surface="Berlin" />
+<Entity id="8" startPos="269" endPos="469" type="sentence" surface="Der Anbieter hochwertiger IP-Telefonanlagen und Kommunikationslösungen „made in Germany“ zeigt in Halle 2, Stand B2 die Einsatzmöglichkeiten seiner hybriden UCC-Plattform in Contact-Center-Umgebungen." />
+<Entity id="9" startPos="273" endPos="281" type="organization-company" surface="Anbieter" />
+<Entity id="10" startPos="349" endPos="356" type="location" surface="Germany" />
+<Entity id="11" startPos="417" endPos="439" type="product" surface="hybriden UCC-Plattform" />
+<Entity id="12" startPos="470" endPos="643" type="sentence" surface="„In einer zunehmend digitalen und komplexen Welt ist es für Unternehmen wichtiger denn je, in allen Bereichen flexibel aufgestellt zu sein – auch in der Kundenkommunikation." />
+<Entity id="13" startPos="644" endPos="794" type="sentence" surface="Hochwertiger Kundenservice ist in vielen Branchen heute eines der wichtigsten Qualitätsmerkmale“, erklärt Florian Buzin, Geschäftsführer von STARFACE." />
+<Entity id="14" startPos="750" endPos="763" type="person" surface="Florian Buzin" />
+<Entity id="15" startPos="765" endPos="780" type="org-position" surface="Geschäftsführer" />
+<Entity id="16" startPos="785" endPos="793" type="organization-company" surface="STARFACE" />
+<Entity id="17" startPos="795" endPos="968" type="sentence" surface="„Unsere UCC-Plattform STARFACE liefert Unternehmen eine leistungsstarke Basis für ihren telefonischen Kundenkontakt, die sich zudem individuell und flexibel erweitern lässt." />
+<Entity id="18" startPos="817" endPos="825" type="organization-company" surface="STARFACE" />
+<Entity id="19" startPos="969" endPos="972" type="sentence" surface="Ega" /></Entities><Relations>
+<Relation id="20" NAME="CompanyProvidesProduct">
+<Entity id="11" label="product" />
+<Entity id="9" label="company" />
+</Relation>
+<Relation id="21" NAME="Identity">
+<Entity id="1" label="source" />
+<Entity id="9" label="target" />
+<Entity id="18" label="target" />
+<Entity id="16" label="target" />
+<Entity id="6" label="target" />
+</Relation>
+<Relation id="22" NAME="OrganizationLeadership">
+<Entity id="14" label="person" />
+<Entity id="16" label="organization" />
+<Entity id="15" label="position" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A1<NODE id="25" /> <NODE id="26" />Bremen<NODE id="32" /> Richtung <NODE id="42" />Hamburg<NODE id="49" /> zwischen <NODE id="59" />Sittensen<NODE id="68" /> und <NODE id="73" />Heidenau<NODE id="81" /> brennt ein Fahrzeug!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#0@2016-03-24T18:26:10.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-24T17:26:10Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T17:29:52.696Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="25" type="location-street" surface="A1" />
+<Entity id="1" startPos="26" endPos="32" type="location-city" surface="Bremen" />
+<Entity id="2" startPos="42" endPos="49" type="location-city" surface="Hamburg" />
+<Entity id="3" startPos="59" endPos="68" type="location" surface="Sittensen" />
+<Entity id="4" startPos="73" endPos="81" type="location" surface="Heidenau" /></Entities><Relations />
+</Document>

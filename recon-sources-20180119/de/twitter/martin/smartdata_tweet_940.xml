@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @XYEinzelfall: <NODE id="18" />Oldenburg<NODE id="27" />: <NODE id="29" />Syrer<NODE id="34" /> beim Schwarzfahren in Bahn erwischt - droht Zugbegleiter Du bist tot!
+https://t.co/tX2ioJSCvE …
+#Einze…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743426692287430658" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T12:55:10Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T12:55:14.602Z" />
+<feature featureName="uri" featureValue="https://twitter.com/w203/status/743426692287430658" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="27" type="location" surface="Oldenburg" />
+<Entity id="1" startPos="29" endPos="34" type="location" surface="Syrer" /></Entities><Relations />
+</Document>

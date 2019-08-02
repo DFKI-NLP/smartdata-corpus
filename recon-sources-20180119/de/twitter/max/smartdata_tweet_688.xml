@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @nschleifologie: #vor<NODE id="24" />90jahren<NODE id="32" /> | <NODE id="35" />11/1925<NODE id="42" />: Bauarbeiten gehen weiter, auch an <NODE id="78" />27%<NODE id="81" />iger Steilstrecke. Noch original erhalten! #nring https://…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669745987217457152" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-26T05:14:21Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:15:14.12Z" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="24" endPos="32" type="date" surface="90jahren" />
+<Entity id="1" startPos="35" endPos="42" type="date" surface="11/1925" />
+<Entity id="2" startPos="78" endPos="81" type="number" surface="27%" /></Entities><Relations />
+</Document>

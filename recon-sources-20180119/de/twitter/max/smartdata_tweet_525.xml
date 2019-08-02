@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: Die <NODE id="12" />USA<NODE id="15" /> schicken Spezialkräfte in den Kampf gegen den <NODE id="62" />IS<NODE id="64" /> https://t.co/tdUtUVB34Q
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671754263383695361" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-01T18:14:31Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:27:45.729Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="12" endPos="15" type="location" surface="USA" />
+<Entity id="2" startPos="62" endPos="64" type="organization" surface="IS" /></Entities><Relations />
+</Document>

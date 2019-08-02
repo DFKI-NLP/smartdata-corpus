@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Twittern
+(neu: mehr Details und Hintergrund)
+<NODE id="45" />HANNOVER<NODE id="53" /> (<NODE id="55" />dpa-AFX<NODE id="62" />) - Die kurzfristig angekündigte Sperrung der ICE-Schnellfahrstrecke <NODE id="131" />Hannover<NODE id="139" />-<NODE id="140" />Kassel<NODE id="146" /> in <NODE id="150" />drei Wochen<NODE id="161" /> soll nach einem Kompromissvorschlag <NODE id="198" />Niedersachsens<NODE id="212" /> zeitweise ausgesetzt werden. Die Arbeiten könnten zwar wie geplant am <NODE id="283" />23. April<NODE id="292" /> beginnen, würden aber während der <NODE id="327" />Hannover-Messe<NODE id="341" /> morgens und abends für je <NODE id="368" />zwei Stunden<NODE id="380" /> ruhen. Auf diese Weise könnte zumindest der Hauptmesseverkehr ohne Verzögerungen abgewickelt werden und man würde wohl auch nicht den Pfingstreiseverkehr tangieren, sagte <NODE id="552" />Niedersachsens<NODE id="566" /> Wirtschaftsminister <NODE id="587" />Olaf Lies<NODE id="596" /> (<NODE id="598" />SPD<NODE id="601" />). Er reagierte auch auf empörte Reaktionen der Wirtschaft, die einen enormen Imageschaden befürchtet.
+<NODE id="704" />Lies<NODE id="708" /> hatte seinen Vorschlag <NODE id="732" />Bahn<NODE id="736" />chef<NODE id="740" /> <NODE id="741" />Rüdiger Grube<NODE id="754" /> und <NODE id="759" />Vorstand<NODE id="767" /> <NODE id="768" />Volker Kefer<NODE id="780" /> am <NODE id="784" />Freitag<NODE id="791" /> unterbreitet. <NODE id="806" />Herr Grube<NODE id="816" /> und dann auch <NODE id="831" />Herr Kefer<NODE id="841" /> in einem weiteren Telefonat haben mir zugesagt, diese Idee zu prüfen, sagte <NODE id="918" />Lies<NODE id="922" />. Auf der wichtigen Str
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.boerse-online.de/nachrichten/aktien/ROUNDUP-2-Empoerung-ueber-geplante-Bahn-Sperrung-zwischen-Hannover-und-Kassel-1001129081@2016-04-01T17:11:39.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-01T15:11:39Z" />
+<feature featureName="indexDate" featureValue="2016-04-01T15:17:31.938Z" />
+<feature featureName="uri" featureValue="http://www.boerse-online.de/nachrichten/aktien/ROUNDUP-2-Empoerung-ueber-geplante-Bahn-Sperrung-zwischen-Hannover-und-Kassel-1001129081" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="45" endPos="53" type="location-city" surface="HANNOVER" />
+<Entity id="1" startPos="55" endPos="62" type="organization-company" surface="dpa-AFX" />
+<Entity id="2" startPos="131" endPos="139" type="location-city" surface="Hannover" />
+<Entity id="3" startPos="140" endPos="146" type="location-city" surface="Kassel" />
+<Entity id="4" startPos="150" endPos="161" type="duration" surface="drei Wochen" />
+<Entity id="5" startPos="198" endPos="212" type="location" surface="Niedersachsens" />
+<Entity id="6" startPos="283" endPos="292" type="date" surface="23. April" />
+<Entity id="7" startPos="327" endPos="341" type="organization" surface="Hannover-Messe" />
+<Entity id="8" startPos="368" endPos="380" type="duration" surface="zwei Stunden" />
+<Entity id="9" startPos="552" endPos="566" type="location" surface="Niedersachsens" />
+<Entity id="10" startPos="587" endPos="596" type="person" surface="Olaf Lies" />
+<Entity id="11" startPos="598" endPos="601" type="organization" surface="SPD" />
+<Entity id="12" startPos="704" endPos="708" type="person" surface="Lies" />
+<Entity id="13" startPos="732" endPos="736" type="organization-company" surface="Bahn" />
+<Entity id="14" startPos="736" endPos="740" type="org-position" surface="chef" />
+<Entity id="15" startPos="741" endPos="754" type="person" surface="Rüdiger Grube" />
+<Entity id="16" startPos="759" endPos="767" type="org-position" surface="Vorstand" />
+<Entity id="17" startPos="768" endPos="780" type="person" surface="Volker Kefer" />
+<Entity id="18" startPos="784" endPos="791" type="date" surface="Freitag" />
+<Entity id="19" startPos="806" endPos="816" type="person" surface="Herr Grube" />
+<Entity id="20" startPos="831" endPos="841" type="person" surface="Herr Kefer" />
+<Entity id="21" startPos="918" endPos="922" type="person" surface="Lies" /></Entities><Relations>
+<Relation id="22" NAME="OrganizationLeadership">
+<Entity id="15" label="person" />
+<Entity id="13" label="organization" />
+<Entity id="14" label="position" />
+</Relation></Relations>
+</Document>

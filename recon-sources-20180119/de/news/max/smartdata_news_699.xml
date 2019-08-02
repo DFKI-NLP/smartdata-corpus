@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Zum Menü .
+Workshop am <NODE id="23" />20. Januar 2016 <NODE id="39" />zum Thema Datenqualität.
+<NODE id="64" />11.01.2016<NODE id="74" />- Mit Beginn des neuen Jahres bietet die <NODE id="115" />cobra GmbH<NODE id="125" /> mit Sitz in <NODE id="138" />Konstanz<NODE id="146" /> einen Workshop zum Thema Adressqualität an. Am <NODE id="194" />20. Januar 2016<NODE id="209" /> informiert der Experte für Adressqualität und Business Intelligence, Gerald Jungeblut über die Notwendigkeit gepflegter Daten und die daraus entstehenden Vorteile für den Anwender. Die Veranstaltung findet in <NODE id="419" />Frankfurt<NODE id="428" /> statt und richtet sich an alle, die Verbesserungsbedarf in ihrer Datenbasis sehen.
+Schlecht gepflegte Daten bedeuten in der Regel nicht nur Zeitverlust, sondern auch finanzielle Verluste und mitunter Imageschäden. Um diesen Problemen entgegenzuwirken, zeigt der Experte für Adressqualität und Business Intelligence, Gerald Jungeblut, auf, wie Probleme bei der Datenqualität entsteht, welches die größten Schwierigkeiten sind und erarbeitet mit den Teilnehmern gewinnbringende Lösungsansätze.
+In einer Mischung aus Vorträgen, Live-
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.crmforum.de/crm-news/2016/Januar/workshop-am-20.-januar-2016-zum-thema-datenqualit%C3%A4t.html@2016-03-10T14:59:02.718+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:59:02.718Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:59:03.318Z" />
+<feature featureName="uri" featureValue="http://www.crmforum.de/crm-news/2016/Januar/workshop-am-20.-januar-2016-zum-thema-datenqualit%C3%A4t.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="39" type="date" surface="20. Januar 2016 " />
+<Entity id="1" startPos="64" endPos="74" type="date" surface="11.01.2016" />
+<Entity id="2" startPos="115" endPos="125" type="organization-company" surface="cobra GmbH" />
+<Entity id="3" startPos="138" endPos="146" type="location-city" surface="Konstanz" />
+<Entity id="4" startPos="194" endPos="209" type="date" surface="20. Januar 2016" />
+<Entity id="5" startPos="419" endPos="428" type="location-city" surface="Frankfurt" /></Entities><Relations />
+</Document>

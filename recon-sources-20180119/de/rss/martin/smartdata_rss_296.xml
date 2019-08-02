@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>
+        <NODE id="9" />PD Chemnitz<NODE id="20" /> - Autos mit Steinen beworfen
+      .
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/de/MI_2016_41574.htm@2016-03-14T13:36:22.694+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T12:36:22.694Z" />
+<feature featureName="indexDate" featureValue="2016-03-14T12:37:02.634Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/de/MI_2016_41574.htm" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="20" type="organization" surface="PD Chemnitz" /></Entities><Relations />
+</Document>

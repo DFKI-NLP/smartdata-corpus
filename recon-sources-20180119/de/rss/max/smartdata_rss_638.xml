@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A2<NODE id="2" /> <NODE id="3" />Dortmund<NODE id="11" /> Richtung <NODE id="21" />Hannover<NODE id="29" /> zwischen <NODE id="39" />Dortmund-Nordost<NODE id="55" /> und <NODE id="60" />Dortmund-Lanstrop<NODE id="77" /> <NODE id="78" />2 km<NODE id="82" /> <NODE id="83" />Stau<NODE id="87" /> Wegen Bauarbeiten ist nur ein Fahrstreifen frei.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#1@2016-03-15T00:17:16.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T23:17:16Z" />
+<feature featureName="indexDate" featureValue="2016-03-14T23:17:33.142Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A2" />
+<Entity id="1" startPos="3" endPos="11" type="location-city" surface="Dortmund" />
+<Entity id="2" startPos="21" endPos="29" type="location-city" surface="Hannover" />
+<Entity id="3" startPos="39" endPos="55" type="location" surface="Dortmund-Nordost" />
+<Entity id="4" startPos="60" endPos="77" type="location" surface="Dortmund-Lanstrop" />
+<Entity id="5" startPos="78" endPos="82" type="distance" surface="2 km" />
+<Entity id="6" startPos="83" endPos="87" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="7" NAME="TrafficJam">
+<Entity id="5" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

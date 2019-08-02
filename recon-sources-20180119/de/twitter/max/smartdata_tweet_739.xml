@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />OzlemEvans<NODE id="14" />: In <NODE id="19" />Stuttgart<NODE id="28" /> angekommen. Können uns gar nicht von unserem Bus trennen ;) Schnitt, Vorbereitungen &amp; Co. Bis morgen! https://…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671777015213785088" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-01T19:44:56Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:27:45.729Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="person" surface="OzlemEvans" />
+<Entity id="1" startPos="19" endPos="28" type="location-city" surface="Stuttgart" /></Entities><Relations />
+</Document>

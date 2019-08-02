@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>«Star Wars» an <NODE id="15" />US<NODE id="17" />-Kinokassen weiter in Führung
+<NODE id="47" />11. Januar 2016<NODE id="62" /> <NODE id="63" />06:15 Uhr<NODE id="72" />
+«Star Wars» an <NODE id="88" />US<NODE id="90" />-Kinokassen weiter in Führung
+<NODE id="120" />Los Angeles<NODE id="131" /> - «Star Wars» liegt an den <NODE id="159" />nordamerikanischen<NODE id="177" /> Kinokassen weiter in Führung. Das Weltraum-Abenteuer «Das Erwachen der Macht» belegte auch an seinem <NODE id="279" />vierten<NODE id="286" /> Wochenende den Spitzenplatz der Kinocharts in den <NODE id="337" />USA<NODE id="340" /> und <NODE id="345" />Kanada<NODE id="351" />.
+Fullscreen
+<NODE id="364" />Daisy Ridley<NODE id="376" /> bei der «Star Wars»-Premiere in <NODE id="409" />Hollywood<NODE id="418" />. Foto: <NODE id="426" />Eugene Garcia<NODE id="439" />
+© dpa-infocom GmbH
+«
+Star Wars » liegt an den <NODE id="486" />nordamerikanischen<NODE id="504" /> Kinokassen weiter in Führung. Das Weltraum-Abenteuer «Das Erwachen der Macht» belegte auch an seinem <NODE id="606" />vierten<NODE id="613" /> Wochenende den Spitzenplatz der Kinocharts in den <NODE id="664" />USA<NODE id="667" /> und <NODE id="672" />Kanada<NODE id="678" />.
+Studioschätzungen zufolge verdiente der <NODE id="720" />siebte<NODE id="726" /> Teil der Sternenkriegersaga weitere <NODE id="763" />41,6 Millionen Dollar<NODE id="784" /> dazu. Damit kletterten die bisherigen Einnahmen in
+<NODE id="836" />Nordamerika<NODE id="847" /> auf <NODE id="852" />812 Millionen Dollar<NODE id="872" /> (gut <NODE id="878" />740 Mio. Euro<NODE id="891" />), ein Rekord in der <NODE id="912" />US<NODE id="914" />-Geschichte.
+Mit dem Rachedrama «The Revenan
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.stern.de/kultur/film/-star-wars--an-us-kinokassen-weiter-in-fuehrung-6641196.html@2016-03-10T15:20:14.239+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.stern.de/kultur/film/-star-wars--an-us-kinokassen-weiter-in-fuehrung-6641196.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="17" type="location" surface="US" />
+<Entity id="1" startPos="47" endPos="62" type="date" surface="11. Januar 2016" />
+<Entity id="2" startPos="63" endPos="72" type="time" surface="06:15 Uhr" />
+<Entity id="3" startPos="88" endPos="90" type="location" surface="US" />
+<Entity id="4" startPos="120" endPos="131" type="location-city" surface="Los Angeles" />
+<Entity id="5" startPos="159" endPos="177" type="location" surface="nordamerikanischen" />
+<Entity id="6" startPos="279" endPos="286" type="number" surface="vierten" />
+<Entity id="7" startPos="337" endPos="340" type="location" surface="USA" />
+<Entity id="8" startPos="345" endPos="351" type="location" surface="Kanada" />
+<Entity id="9" startPos="364" endPos="376" type="person" surface="Daisy Ridley" />
+<Entity id="10" startPos="409" endPos="418" type="location" surface="Hollywood" />
+<Entity id="11" startPos="426" endPos="439" type="person" surface="Eugene Garcia" />
+<Entity id="12" startPos="486" endPos="504" type="location" surface="nordamerikanischen" />
+<Entity id="13" startPos="606" endPos="613" type="number" surface="vierten" />
+<Entity id="14" startPos="664" endPos="667" type="location" surface="USA" />
+<Entity id="15" startPos="672" endPos="678" type="location" surface="Kanada" />
+<Entity id="16" startPos="720" endPos="726" type="number" surface="siebte" />
+<Entity id="17" startPos="763" endPos="784" type="number" surface="41,6 Millionen Dollar" />
+<Entity id="18" startPos="836" endPos="847" type="location" surface="Nordamerika" />
+<Entity id="19" startPos="852" endPos="872" type="number" surface="812 Millionen Dollar" />
+<Entity id="20" startPos="878" endPos="891" type="number" surface="740 Mio. Euro" />
+<Entity id="21" startPos="912" endPos="914" type="location" surface="US" /></Entities><Relations />
+</Document>

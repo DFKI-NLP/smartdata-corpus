@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Forschung   Politik   International   Kommentare   Pressemeldungen  
+<NODE id="69" />11. Jan 2016<NODE id="81" />
+Seit <NODE id="87" />Anfang 2003<NODE id="98" /> liegt der PPVX (+<NODE id="116" />402%<NODE id="120" />) rund <NODE id="127" />289<NODE id="130" /> Prozentpunkte vor dem Erdölaktien-Index (mit +<NODE id="177" />113%<NODE id="181" />). Grafik: Öko Invest
+Versenden
+PPVX: Fiel letzte Woche um <NODE id="240" />7.9%<NODE id="244" /> auf <NODE id="249" />1414<NODE id="253" /> Punkte
+(PM) Der PPVX fiel letzte Woche um <NODE id="296" />7.9%<NODE id="300" /> auf <NODE id="305" />1414<NODE id="309" /> Punkte, der NYSE Arca Oil um <NODE id="339" />8.0%<NODE id="343" />. Seit <NODE id="350" />Jahresanfang 2016<NODE id="367" /> liegt der PPVX mit -<NODE id="388" />7.9%<NODE id="392" /> währungsbereinigt rund <NODE id="416" />0.1<NODE id="419" /> Prozentpunkte vor dem Erdölaktienindex (-<NODE id="461" />8.0%<NODE id="465" />).
+Derzeit ist nur einer der <NODE id="494" />30<NODE id="496" /> Titel (<NODE id="504" />8point3 Energy Partners<NODE id="527" /> mit +<NODE id="533" />2%<NODE id="535" />) im Plus. Der einzige Gewinner der <NODE id="571" />Woche<NODE id="576" /> war <NODE id="581" />8point3 Energy Partners<NODE id="604" /> (+<NODE id="607" />2%<NODE id="609" />), die grössten Verlierer <NODE id="635" />Sky Solar Holdings<NODE id="653" /> (-<NODE id="656" />37%<NODE id="659" />) und <NODE id="665" />SunEdison<NODE id="674" /> (-<NODE id="677" />33%<NODE id="680" />). Der PPVX-Börsenwert beträgt rund <NODE id="716" />46.5 Mrd. Euro<NODE id="730" />. Seit <NODE id="737" />Anfang 2003<NODE id="748" /> liegt der PPVX (+<NODE id="766" />402%<NODE id="770" />) rund <NODE id="777" />289<NODE id="780" /> Prozentpunkte vor dem Erdölaktien-Index (mit +<NODE id="827" />113%<NODE id="831" />). <NODE id="834" />SolarCity<NODE id="843" /> wurde von <NODE id="854" />4<NODE id="855" /> auf <NODE id="860" />5<NODE id="861" /> Gewichtungspunkte hochgestuft, bei <NODE id="897" />SPI Energy<NODE id="907" /> gibt es – nach dem <NODE id="927" />Merger<NODE id="933" /> mit <NODE id="938" />Solar Power<NODE id="949" /> – noch kein
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ee-news.ch/de/solar/international/article/32740/ppvx-fiel-letzte-woche-um-7-9-auf-1414-punkte@2016-01-11T11:42:28.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-11T10:42:28Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T00:50:01.929Z" />
+<feature featureName="uri" featureValue="http://www.ee-news.ch/de/solar/international/article/32740/ppvx-fiel-letzte-woche-um-7-9-auf-1414-punkte" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="69" endPos="81" type="date" surface="11. Jan 2016" />
+<Entity id="1" startPos="87" endPos="98" type="date" surface="Anfang 2003" />
+<Entity id="2" startPos="116" endPos="120" type="number" surface="402%" />
+<Entity id="3" startPos="127" endPos="130" type="number" surface="289" />
+<Entity id="4" startPos="177" endPos="181" type="number" surface="113%" />
+<Entity id="5" startPos="240" endPos="244" type="number" surface="7.9%" />
+<Entity id="6" startPos="249" endPos="253" type="number" surface="1414" />
+<Entity id="7" startPos="296" endPos="300" type="number" surface="7.9%" />
+<Entity id="8" startPos="305" endPos="309" type="number" surface="1414" />
+<Entity id="9" startPos="339" endPos="343" type="number" surface="8.0%" />
+<Entity id="10" startPos="350" endPos="367" type="date" surface="Jahresanfang 2016" />
+<Entity id="11" startPos="388" endPos="392" type="number" surface="7.9%" />
+<Entity id="12" startPos="416" endPos="419" type="number" surface="0.1" />
+<Entity id="13" startPos="461" endPos="465" type="number" surface="8.0%" />
+<Entity id="14" startPos="494" endPos="496" type="number" surface="30" />
+<Entity id="15" startPos="504" endPos="527" type="organization-company" surface="8point3 Energy Partners" />
+<Entity id="16" startPos="533" endPos="535" type="number" surface="2%" />
+<Entity id="17" startPos="571" endPos="576" type="date" surface="Woche" />
+<Entity id="18" startPos="581" endPos="604" type="organization-company" surface="8point3 Energy Partners" />
+<Entity id="19" startPos="607" endPos="609" type="number" surface="2%" />
+<Entity id="20" startPos="635" endPos="653" type="organization-company" surface="Sky Solar Holdings" />
+<Entity id="21" startPos="656" endPos="659" type="number" surface="37%" />
+<Entity id="22" startPos="665" endPos="674" type="organization-company" surface="SunEdison" />
+<Entity id="23" startPos="677" endPos="680" type="number" surface="33%" />
+<Entity id="24" startPos="716" endPos="730" type="number" surface="46.5 Mrd. Euro" />
+<Entity id="25" startPos="737" endPos="748" type="date" surface="Anfang 2003" />
+<Entity id="26" startPos="766" endPos="770" type="number" surface="402%" />
+<Entity id="27" startPos="777" endPos="780" type="number" surface="289" />
+<Entity id="28" startPos="827" endPos="831" type="number" surface="113%" />
+<Entity id="29" startPos="834" endPos="843" type="organization-company" surface="SolarCity" />
+<Entity id="30" startPos="854" endPos="855" type="number" surface="4" />
+<Entity id="31" startPos="860" endPos="861" type="number" surface="5" />
+<Entity id="32" startPos="897" endPos="907" type="organization-company" surface="SPI Energy" />
+<Entity id="33" startPos="927" endPos="933" type="trigger" surface="Merger" />
+<Entity id="34" startPos="938" endPos="949" type="organization-company" surface="Solar Power" /></Entities><Relations>
+<Relation id="35" NAME="Merger">
+<Entity id="32" label="old" />
+<Entity id="34" label="old" />
+<Entity id="33" label="trigger" />
+</Relation></Relations>
+</Document>

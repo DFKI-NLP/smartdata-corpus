@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Infos zum Streik am <NODE id="20" />26.04<NODE id="25" />.: https://t.co/8bgJ7pt5Ag
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="724484509803134976" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-25T06:25:42Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T09:22:14.882Z" />
+<feature featureName="uri" featureValue="https://twitter.com/278401575/status/724484509803134976" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="25" type="date" surface="26.04" /></Entities><Relations />
+</Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Unfall<NODE id="6" /> in #<NODE id="11" />Mahlsdorf<NODE id="20" />: Schwer verletzter Fußgänger. #Stau @<NODE id="58" />bzberlin<NODE id="66" /> @<NODE id="68" />bild_berlin<NODE id="79" /> @reporter_flash https://t.co/KuJxgr6yct
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="707152234463830016" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="trigger" surface="Unfall" />
+<Entity id="1" startPos="11" endPos="20" type="location-city" surface="Mahlsdorf" />
+<Entity id="2" startPos="58" endPos="66" type="organization-company" surface="bzberlin" />
+<Entity id="3" startPos="68" endPos="79" type="organization-company" surface="bild_berlin" /></Entities><Relations>
+<Relation id="4" NAME="Accident">
+<Entity id="1" label="location" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @ahasosojaja: Großartiger <NODE id="29" />FAS<NODE id="32" />-Leitartikel von <NODE id="49" />Volker Zastrow<NODE id="63" /> zur neuen völkischen Bewegung. Fazit: Breaking bad. https://t.co/8bCugBj23M
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670686821035204612" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-28T19:32:53Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:21:45.73Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="29" endPos="32" type="organization-company" surface="FAS" />
+<Entity id="1" startPos="49" endPos="63" type="person" surface="Volker Zastrow" /></Entities><Relations />
+</Document>

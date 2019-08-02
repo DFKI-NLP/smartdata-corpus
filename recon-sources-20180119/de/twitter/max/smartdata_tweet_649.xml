@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Imtech<NODE id="6" />-<NODE id="7" />Pleite<NODE id="13" />: Bauarbeiten an BER sollen weitergehen http://t.co/tTyVMa4F6t http://t.co/kUIGAaEZwc
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="630676281357537281" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-10T09:45:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:37:45.729Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization-company" surface="Imtech" />
+<Entity id="1" startPos="7" endPos="13" type="trigger" surface="Pleite" /></Entities><Relations>
+<Relation id="2" NAME="Insolvency">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

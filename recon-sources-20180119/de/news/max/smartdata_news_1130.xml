@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Kanye West<NODE id="10" />, Ehemann von <NODE id="24" />Kim Kardashian<NODE id="38" />, hat in einem Tweet jetzt <NODE id="65" />Bill Cosby<NODE id="75" /> freigesprochen.
+Bizarrer Tweet <NODE id="107" />Kanye West<NODE id="117" /> hält <NODE id="123" />Bill Cosby<NODE id="133" /> für unschuldig
+<NODE id="149" />10.02.16<NODE id="157" />, <NODE id="159" />15:42 Uhr<NODE id="168" />
+<NODE id="169" />Kanye West<NODE id="179" />, Ehemann von <NODE id="193" />Kim Kardashian<NODE id="207" />, hat jetzt einen völlig bizarren Tweet gepostet:
+<NODE id="257" />Bill Cosby<NODE id="267" /> ist unschuldig!!!!!
+— <NODE id="290" />KANYE WEST<NODE id="300" /> (@kanyewest) <NODE id="314" />9. Februar 2016<NODE id="329" />
+Wir erinnern uns nochmal: Gegen Hollywood-Star <NODE id="377" />Bill Cosby<NODE id="387" /> läuft derzeit ein Verfahren, weil er <NODE id="425" />2004<NODE id="429" /> eine Universitätsangestellte unter Drogen gesetzt und sexuell missbraucht haben soll.
+<NODE id="516" />50<NODE id="518" /> weitere Frauen haben ähnliche Vorwürfe gegen den Schauspieler erhoben.
+<NODE id="590" />Kanye<NODE id="595" /> erntete mit seinem seltsamen Tweet einen Sturm der Empörung. Reagiert hat er darauf nicht.
+<NODE id="687" />Kanye West<NODE id="697" /> und <NODE id="702" />Kim Kardashian<NODE id="716" />
+Foto:
+<NODE id="723" />dpa<NODE id="726" />
+Warum das alles? Vermutlich braucht der Mann von Selbstvermarktungsmaschine <NODE id="803" />Kim Kardaschian<NODE id="818" /> nur mal wieder etwas Aufmerksamkeit. Schließlich hat er sich auch eine neue Platte und neue Schuhe ausgedacht.
+Das könnte Sie auch inter
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.berliner-kurier.de/news/promi--show/bizarrer-tweet-kanye-west-haelt-bill-cosby-fuer-unschuldig--23504282@2016-02-10T15:57:52.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-10T14:57:52Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:32:01.931Z" />
+<feature featureName="uri" featureValue="http://www.berliner-kurier.de/news/promi--show/bizarrer-tweet-kanye-west-haelt-bill-cosby-fuer-unschuldig--23504282" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="person" surface="Kanye West" />
+<Entity id="1" startPos="24" endPos="38" type="person" surface="Kim Kardashian" />
+<Entity id="2" startPos="65" endPos="75" type="person" surface="Bill Cosby" />
+<Entity id="3" startPos="107" endPos="117" type="person" surface="Kanye West" />
+<Entity id="4" startPos="123" endPos="133" type="person" surface="Bill Cosby" />
+<Entity id="5" startPos="149" endPos="157" type="date" surface="10.02.16" />
+<Entity id="6" startPos="159" endPos="168" type="time" surface="15:42 Uhr" />
+<Entity id="7" startPos="169" endPos="179" type="person" surface="Kanye West" />
+<Entity id="8" startPos="193" endPos="207" type="person" surface="Kim Kardashian" />
+<Entity id="9" startPos="257" endPos="267" type="person" surface="Bill Cosby" />
+<Entity id="10" startPos="290" endPos="300" type="person" surface="KANYE WEST" />
+<Entity id="11" startPos="314" endPos="329" type="date" surface="9. Februar 2016" />
+<Entity id="12" startPos="377" endPos="387" type="person" surface="Bill Cosby" />
+<Entity id="13" startPos="425" endPos="429" type="date" surface="2004" />
+<Entity id="14" startPos="516" endPos="518" type="number" surface="50" />
+<Entity id="15" startPos="590" endPos="595" type="person" surface="Kanye" />
+<Entity id="16" startPos="687" endPos="697" type="person" surface="Kanye West" />
+<Entity id="17" startPos="702" endPos="716" type="person" surface="Kim Kardashian" />
+<Entity id="18" startPos="723" endPos="726" type="organization" surface="dpa" />
+<Entity id="19" startPos="803" endPos="818" type="person" surface="Kim Kardaschian" /></Entities><Relations />
+</Document>

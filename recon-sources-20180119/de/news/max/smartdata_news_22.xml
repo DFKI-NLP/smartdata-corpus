@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Topmodell der Business-Limousine <NODE id="33" />Mercedes-AMG<NODE id="45" /> legt bei der E-Klasse nach
+Das Spitzenmodell der <NODE id="95" />E-Klasse<NODE id="103" /> kommt im <NODE id="113" />September<NODE id="122" />. © <NODE id="126" />Mercedes-AMG<NODE id="138" />
+<NODE id="139" />Mercedes<NODE id="147" /> hat gerade erst seine neue <NODE id="175" />E-Klasse<NODE id="183" /> vorgestellt. Der sportliche Ableger <NODE id="220" />AMG<NODE id="223" /> sieht seine Visionen bei der neuen Generation der Business-Limousine mit <NODE id="297" />401 PS<NODE id="303" /> vollkommen gestillt.
+<NODE id="325" />Mercedes-AMG<NODE id="337" /> lässt sich nicht lange bitten. Kurz nach der Weltpremiere der neuen <NODE id="406" />E-Klasse<NODE id="414" /> auf dem <NODE id="423" />Genfer<NODE id="429" /> Autosalon <NODE id="440" />Anfang März<NODE id="451" /> hat die sportliche Tochter aus <NODE id="483" />Affalterbach<NODE id="495" /> das Topmodell der neuen Generation vorgestellt. Der <NODE id="548" />E 43 4Matic<NODE id="559" /> schöpft aus einem <NODE id="578" />drei Liter<NODE id="588" /> großen Sechszylinder-Biturbomotor gleich <NODE id="630" />295 kW<NODE id="636" />/<NODE id="637" />401 PS<NODE id="643" /> und entwickelt die maximale Kraft bei <NODE id="682" />520 Newtonmetern<NODE id="698" />, die zwischen <NODE id="713" />2500<NODE id="717" /> und <NODE id="722" />5000<NODE id="726" /> Umdrehungen anliegen.
+„Der neue <NODE id="759" />E 43 4MATIC<NODE id="770" /> bietet überzeugende Fahrdynamik in Verbindung mit zeitgemäßer Effizienz. Biturbo-Aufladung, Anleihen aus dem Motorsport und das charakteristische <NODE id="917" />AMG<NODE id="920" /> Design signalisieren unse
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.autogazette.de/mercedes-amg/e-klasse/neuwagen/mercedes-amg-legt-bei-der-e-klasse-nach-550614.html@2016-03-11T00:27:18.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.autogazette.de/mercedes-amg/e-klasse/neuwagen/mercedes-amg-legt-bei-der-e-klasse-nach-550614.html" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="33" endPos="45" type="organization-company" surface="Mercedes-AMG" />
+<Entity id="1" startPos="95" endPos="103" type="product" surface="E-Klasse" />
+<Entity id="2" startPos="113" endPos="122" type="date" surface="September" />
+<Entity id="3" startPos="126" endPos="138" type="organization-company" surface="Mercedes-AMG" />
+<Entity id="4" startPos="139" endPos="147" type="organization-company" surface="Mercedes" />
+<Entity id="5" startPos="175" endPos="183" type="product" surface="E-Klasse" />
+<Entity id="6" startPos="220" endPos="223" type="organization-company" surface="AMG" />
+<Entity id="7" startPos="297" endPos="303" type="number" surface="401 PS" />
+<Entity id="8" startPos="325" endPos="337" type="organization-company" surface="Mercedes-AMG" />
+<Entity id="9" startPos="406" endPos="414" type="product" surface="E-Klasse" />
+<Entity id="10" startPos="423" endPos="429" type="location-city" surface="Genfer" />
+<Entity id="11" startPos="440" endPos="451" type="date" surface="Anfang März" />
+<Entity id="12" startPos="483" endPos="495" type="location-city" surface="Affalterbach" />
+<Entity id="13" startPos="548" endPos="559" type="product" surface="E 43 4Matic" />
+<Entity id="14" startPos="578" endPos="588" type="number" surface="drei Liter" />
+<Entity id="15" startPos="630" endPos="636" type="number" surface="295 kW" />
+<Entity id="16" startPos="637" endPos="643" type="number" surface="401 PS" />
+<Entity id="17" startPos="682" endPos="698" type="number" surface="520 Newtonmetern" />
+<Entity id="18" startPos="713" endPos="717" type="number" surface="2500" />
+<Entity id="19" startPos="722" endPos="726" type="number" surface="5000" />
+<Entity id="20" startPos="759" endPos="770" type="product" surface="E 43 4MATIC" />
+<Entity id="21" startPos="917" endPos="920" type="organization-company" surface="AMG" /></Entities><Relations>
+<Relation id="22" NAME="CompanyProvidesProduct">
+<Entity id="5" label="product" />
+<Entity id="4" label="company" />
+</Relation></Relations>
+</Document>

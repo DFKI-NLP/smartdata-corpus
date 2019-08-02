@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Willkommen an diesem sonnigen <NODE id="30" />Montag<NODE id="36" />. 
+Neue Woche neue Staus: Ein bisschen Geduld braucht ihr ihr auf der <NODE id="106" />A2<NODE id="108" /> -... https://t.co/p4Je5gVhd2
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="729539998920413185" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-09T05:14:24Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T05:03:39.053Z" />
+<feature featureName="uri" featureValue="https://twitter.com/19543733/status/729539998920413185" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="30" endPos="36" type="date" surface="Montag" />
+<Entity id="1" startPos="106" endPos="108" type="location-street" surface="A2" /></Entities><Relations />
+</Document>

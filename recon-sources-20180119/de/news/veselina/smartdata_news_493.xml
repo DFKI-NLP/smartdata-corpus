@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>  <NODE id="2" />Der beliebte Jahresrückblick zweier Freunde auf Youtube<NODE id="57" />  
+<NODE id="60" />26. Dezember 2015 17:24 Uhr<NODE id="87" />
+<NODE id="88" />2015-12-26 17:24:17.0<NODE id="109" />
+<NODE id="110" />Frohes Fest 2015<NODE id="126" />
+<NODE id="127" />Der beliebte Jahresrückblick zweier Freunde auf Youtube<NODE id="182" />
+<NODE id="183" />Ihr Jahresrückblick ist auf Youtube jedes Jahr ein Hit.<NODE id="238" /> <NODE id="239" />Frohes Fest 2015 von Zwergpinscher ist wieder zynisch und macht nachdenklich.<NODE id="316" />
+<NODE id="317" />Jan-Philipp Scherz<NODE id="335" /> und <NODE id="340" />Malte Fuhrer<NODE id="352" /> haben mit Frohes Fest 2015 wieder einen Jahresrückblick der besonderen Art auf Youtube gestellt.<NODE id="449" />
+<NODE id="450" />Foto: Screenshot Youtube<NODE id="474" />
+<NODE id="475" />Dieses jährliche Lied gehört wie die Bescherung dazu, schreibt ein Fan auf Youtube .<NODE id="559" />  <NODE id="561" />Mit Frohes Fest 2015 haben die beiden Freunde <NODE id="607" />Jan-Philipp Scherz<NODE id="625" /> und <NODE id="630" />Malte Fuhrer<NODE id="642" /> einen besonderen Jahresrückblik auf Youtube gestellt.<NODE id="696" /> <NODE id="697" />Seit dem Jahr 2009, gibt es von den beiden den musikalischen Jahresrückblick im Netz, der seit Jahren viele Fans hat.<NODE id="814" /> <NODE id="815" />Das Besondere daran sind Ironie, Zynismus und Ernsthaftigkeit, die zum Nachdenken anregen.<NODE id="905" />
+<NODE id="906" />Frohes Fest 2015: Krasse Ere<NODE id="934" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.augsburger-allgemeine.de/digital/Der-beliebte-Jahresrueckblick-zweier-Freunde-auf-Youtube-id36438277.html@2016-03-10T12:46:57.071+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:46:57.071Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:47:03.484Z" />
+<feature featureName="uri" featureValue="http://www.augsburger-allgemeine.de/digital/Der-beliebte-Jahresrueckblick-zweier-Freunde-auf-Youtube-id36438277.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="2" endPos="57" type="sentence" surface="Der beliebte Jahresrückblick zweier Freunde auf Youtube" />
+<Entity id="1" startPos="60" endPos="87" type="sentence" surface="26. Dezember 2015 17:24 Uhr" />
+<Entity id="2" startPos="88" endPos="109" type="sentence" surface="2015-12-26 17:24:17.0" />
+<Entity id="3" startPos="110" endPos="126" type="sentence" surface="Frohes Fest 2015" />
+<Entity id="4" startPos="127" endPos="182" type="sentence" surface="Der beliebte Jahresrückblick zweier Freunde auf Youtube" />
+<Entity id="5" startPos="183" endPos="238" type="sentence" surface="Ihr Jahresrückblick ist auf Youtube jedes Jahr ein Hit." />
+<Entity id="6" startPos="239" endPos="316" type="sentence" surface="Frohes Fest 2015 von Zwergpinscher ist wieder zynisch und macht nachdenklich." />
+<Entity id="7" startPos="317" endPos="335" type="person" surface="Jan-Philipp Scherz" />
+<Entity id="8" startPos="317" endPos="449" type="sentence" surface="Jan-Philipp Scherz und Malte Fuhrer haben mit Frohes Fest 2015 wieder einen Jahresrückblick der besonderen Art auf Youtube gestellt." />
+<Entity id="9" startPos="340" endPos="352" type="person" surface="Malte Fuhrer" />
+<Entity id="10" startPos="450" endPos="474" type="sentence" surface="Foto: Screenshot Youtube" />
+<Entity id="11" startPos="475" endPos="559" type="sentence" surface="Dieses jährliche Lied gehört wie die Bescherung dazu, schreibt ein Fan auf Youtube ." />
+<Entity id="12" startPos="561" endPos="696" type="sentence" surface="Mit Frohes Fest 2015 haben die beiden Freunde Jan-Philipp Scherz und Malte Fuhrer einen besonderen Jahresrückblik auf Youtube gestellt." />
+<Entity id="13" startPos="607" endPos="625" type="person" surface="Jan-Philipp Scherz" />
+<Entity id="14" startPos="630" endPos="642" type="person" surface="Malte Fuhrer" />
+<Entity id="15" startPos="697" endPos="814" type="sentence" surface="Seit dem Jahr 2009, gibt es von den beiden den musikalischen Jahresrückblick im Netz, der seit Jahren viele Fans hat." />
+<Entity id="16" startPos="815" endPos="905" type="sentence" surface="Das Besondere daran sind Ironie, Zynismus und Ernsthaftigkeit, die zum Nachdenken anregen." />
+<Entity id="17" startPos="906" endPos="934" type="sentence" surface="Frohes Fest 2015: Krasse Ere" /></Entities><Relations />
+</Document>

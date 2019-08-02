@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SBahnBerlin<NODE id="15" />: #<NODE id="18" />S5<NODE id="20" />: noch bis <NODE id="31" />30.11.2015<NODE id="41" />, <NODE id="43" />1:30 Uhr<NODE id="51" />, besteht #<NODE id="62" />Strausberg_Nord<NODE id="77" /> &lt;&gt; #<NODE id="82" />Strausberg<NODE id="92" /> <NODE id="93" />Ersatzverkehr<NODE id="106" /> mit Bussen | https://t.co/Pu6l2q…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670110864025001988" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-27T05:24:14Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:17:35.728Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="15" type="organization-company" surface="SBahnBerlin" />
+<Entity id="1" startPos="18" endPos="20" type="location-route" surface="S5" />
+<Entity id="2" startPos="31" endPos="41" type="date" surface="30.11.2015" />
+<Entity id="3" startPos="43" endPos="51" type="time" surface="1:30 Uhr" />
+<Entity id="4" startPos="62" endPos="77" type="location-stop" surface="Strausberg_Nord" />
+<Entity id="5" startPos="82" endPos="92" type="location-stop" surface="Strausberg" />
+<Entity id="6" startPos="93" endPos="106" type="trigger" surface="Ersatzverkehr" /></Entities><Relations>
+<Relation id="7" NAME="RailReplacementService">
+<Entity id="6" label="trigger" />
+<Entity id="1" label="location" />
+<Entity id="2" label="end_date" />
+<Entity id="5" label="end_loc" />
+<Entity id="4" label="end_loc" />
+</Relation></Relations>
+</Document>

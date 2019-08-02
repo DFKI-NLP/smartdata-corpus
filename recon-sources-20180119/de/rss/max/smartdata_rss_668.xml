@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A4<NODE id="2" /> <NODE id="3" />Dresden<NODE id="10" /> Richtung <NODE id="20" />Chemnitz<NODE id="28" /> in Höhe <NODE id="37" />Dresden-Neustadt<NODE id="53" /> defekter Schwertransport auf der rechten Fahrspur, zulässige Höchstgeschwindigkeit von <NODE id="141" />60 km/h<NODE id="148" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#8@2016-04-13T22:24:07.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-13T20:24:07Z" />
+<feature featureName="indexDate" featureValue="2016-04-13T20:24:27.631Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A4" />
+<Entity id="1" startPos="3" endPos="10" type="location-city" surface="Dresden" />
+<Entity id="2" startPos="20" endPos="28" type="location-city" surface="Chemnitz" />
+<Entity id="3" startPos="37" endPos="53" type="location" surface="Dresden-Neustadt" />
+<Entity id="4" startPos="141" endPos="148" type="number" surface="60 km/h" /></Entities><Relations />
+</Document>

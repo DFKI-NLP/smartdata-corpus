@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />14.04.2016<NODE id="10" /> | IT, NewMedia &amp; Software | geschrieben von <NODE id="55" />Christoph Schwartz<NODE id="73" />¹ | Pressemitteilung löschen
+<NODE id="102" />Forcepoint<NODE id="112" /> setzt künftig auf <NODE id="131" />Schwartz Public Relations<NODE id="156" />
+<NODE id="157" />München<NODE id="164" />, <NODE id="166" />14. April 2016<NODE id="180" /> - Die <NODE id="187" />Münchener<NODE id="196" /> Agentur <NODE id="205" />Schwartz Public Relations<NODE id="230" /> ( http://www.schwartzpr.de (http://www.schwartzpr.de)) hat den Cybersecurity-Spezialisten <NODE id="321" />Forcepoint<NODE id="331" /> ( http://www.forcepoint.com/de (http://www.forcepoint.com/de)) als <NODE id="399" />Neukunden<NODE id="408" /> gewonnen. <NODE id="419" />Das amerikanische Unternehmen<NODE id="448" /> mit Deutschlandsitz in <NODE id="472" />München<NODE id="479" /> entwickelt und vertreibt IT-Sicherheits-Lösungen für Web-, Daten- und E-Mail-Security, Insider-Bedrohungen sowie Next Generation Firewalls. <NODE id="620" />Schwartz PR<NODE id="631" /> wird <NODE id="637" />Forcepoint<NODE id="647" /> bei der strategischen Presse- und Öffentlichkeitsarbeit unterstützen, um dem <NODE id="725" />Unternehmen<NODE id="736" />, das aus dem <NODE id="750" />Zusammenschluss<NODE id="765" /> von <NODE id="770" />Websense<NODE id="778" />, <NODE id="780" />Raytheon CyberSecurity<NODE id="802" /> und <NODE id="807" />Stonesoft<NODE id="816" /> hervorgegangen ist, größere Sichtbarkeit in den Medien zu geben. Besonderer Fokus der Kommunikation liegt auf Themen wie Cyber
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://newsfenster.de/it-newmedia-software/pm223882-forcepoint-setzt-kuenftig-schwartz-public-relations.html@2016-04-14T11:38:06.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-14T09:38:06Z" />
+<feature featureName="indexDate" featureValue="2016-04-14T11:14:32.437Z" />
+<feature featureName="uri" featureValue="http://newsfenster.de/it-newmedia-software/pm223882-forcepoint-setzt-kuenftig-schwartz-public-relations.html" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="14.04.2016" />
+<Entity id="1" startPos="55" endPos="73" type="person" surface="Christoph Schwartz" />
+<Entity id="2" startPos="102" endPos="112" type="organization-company" surface="Forcepoint" />
+<Entity id="3" startPos="131" endPos="156" type="organization-company" surface="Schwartz Public Relations" />
+<Entity id="4" startPos="157" endPos="164" type="location-city" surface="München" />
+<Entity id="5" startPos="166" endPos="180" type="date" surface="14. April 2016" />
+<Entity id="6" startPos="187" endPos="196" type="location-city" surface="Münchener" />
+<Entity id="7" startPos="205" endPos="230" type="organization-company" surface="Schwartz Public Relations" />
+<Entity id="8" startPos="321" endPos="331" type="organization-company" surface="Forcepoint" />
+<Entity id="9" startPos="399" endPos="408" type="trigger" surface="Neukunden" />
+<Entity id="10" startPos="419" endPos="448" type="organization-company" surface="Das amerikanische Unternehmen" />
+<Entity id="11" startPos="472" endPos="479" type="location-city" surface="München" />
+<Entity id="12" startPos="620" endPos="631" type="organization-company" surface="Schwartz PR" />
+<Entity id="13" startPos="637" endPos="647" type="organization-company" surface="Forcepoint" />
+<Entity id="14" startPos="725" endPos="736" type="organization-company" surface="Unternehmen" />
+<Entity id="15" startPos="750" endPos="765" type="trigger" surface="Zusammenschluss" />
+<Entity id="16" startPos="770" endPos="778" type="organization-company" surface="Websense" />
+<Entity id="17" startPos="780" endPos="802" type="organization-company" surface="Raytheon CyberSecurity" />
+<Entity id="18" startPos="807" endPos="816" type="organization-company" surface="Stonesoft" /></Entities><Relations>
+<Relation id="19" NAME="CompanyCustomer">
+<Entity id="7" label="company" />
+<Entity id="9" label="trigger" />
+<Entity id="8" label="customer" />
+</Relation>
+<Relation id="20" NAME="CompanyFacility">
+<Entity id="10" label="company" />
+<Entity id="11" label="location" />
+</Relation>
+<Relation id="21" NAME="Identity">
+<Entity id="2" label="source" />
+<Entity id="13" label="target" />
+<Entity id="14" label="target" />
+<Entity id="10" label="target" />
+<Entity id="8" label="target" />
+</Relation>
+<Relation id="22" NAME="Merger">
+<Entity id="14" label="new" />
+<Entity id="18" label="old" />
+<Entity id="17" label="old" />
+<Entity id="16" label="old" />
+<Entity id="15" label="trigger" />
+</Relation></Relations>
+</Document>

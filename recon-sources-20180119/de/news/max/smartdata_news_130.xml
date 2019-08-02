@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Akamai<NODE id="6" /> verbindet die <NODE id="21" />Akamai<NODE id="27" /> Intelligent Platform mit der <NODE id="57" />Google<NODE id="63" /> Cloud Platform
+Unternehmen Cloud Computing-Inhalte schneller und kosteneffizienter bereitstellen
+Anzeige
+(<NODE id="170" />20.01.16<NODE id="178" />) - <NODE id="182" />Akamai Technologies<NODE id="201" /> erstellt im Rahmen des <NODE id="225" />Google<NODE id="231" />-Interconnect-Programms eine Verbindung zur <NODE id="275" />Google<NODE id="281" /> Cloud Platform. <NODE id="298" />Akamai<NODE id="304" />-Kunden, welche die <NODE id="324" />Google<NODE id="330" /> Cloud Platform nutzen, profitieren damit von geringeren Hosting- und Weiterleitungskosten sowie einer höheren Geschwindigkeit.
+Das Engagement von <NODE id="477" />Akamai<NODE id="483" /> als <NODE id="488" />Google<NODE id="494" /> Cloud Platform CDN Interconnect Provider soll sicherstellen, dass der für die <NODE id="573" />Google<NODE id="579" /> Cloud Platform bestimmte Datenverkehr regional direkt über die <NODE id="643" />Akamai<NODE id="649" /> Intelligent Platform zugestellt wird. Die Vorteile für Kunden: deutliche Geschwindigkeitssteigerungen und Einsparungen um bis zu <NODE id="779" />66 Prozent<NODE id="789" /> bei den <NODE id="798" />Google<NODE id="804" />-Cloud-Platform-Egress-Kosten.
+Da immer mehr Unternehmen auf Rechen- und Speicherkapazitäten aus der Cloud angewiesen sind, ist es von entscheidender
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.saasmagazin.de/cloud-computing/services/akamai-technologies200116.html@2016-03-10T15:25:57.616+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.saasmagazin.de/cloud-computing/services/akamai-technologies200116.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization-company" surface="Akamai" />
+<Entity id="1" startPos="21" endPos="27" type="organization-company" surface="Akamai" />
+<Entity id="2" startPos="57" endPos="63" type="organization-company" surface="Google" />
+<Entity id="3" startPos="170" endPos="178" type="date" surface="20.01.16" />
+<Entity id="4" startPos="182" endPos="201" type="organization-company" surface="Akamai Technologies" />
+<Entity id="5" startPos="225" endPos="231" type="organization-company" surface="Google" />
+<Entity id="6" startPos="275" endPos="281" type="organization-company" surface="Google" />
+<Entity id="7" startPos="298" endPos="304" type="organization-company" surface="Akamai" />
+<Entity id="8" startPos="324" endPos="330" type="organization-company" surface="Google" />
+<Entity id="9" startPos="477" endPos="483" type="organization-company" surface="Akamai" />
+<Entity id="10" startPos="488" endPos="494" type="organization-company" surface="Google" />
+<Entity id="11" startPos="573" endPos="579" type="organization-company" surface="Google" />
+<Entity id="12" startPos="643" endPos="649" type="organization-company" surface="Akamai" />
+<Entity id="13" startPos="779" endPos="789" type="number" surface="66 Prozent" />
+<Entity id="14" startPos="798" endPos="804" type="organization-company" surface="Google" /></Entities><Relations />
+</Document>

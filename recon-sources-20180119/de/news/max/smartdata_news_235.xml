@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Alles über Werbung, Stellenanzeigen und Immobilieninserate
+<NODE id="59" />Air France<NODE id="69" /> streicht zunächst weniger Jobs als angekündigt
+<NODE id="117" />18. Oktober 2015<NODE id="133" />, <NODE id="135" />15:00<NODE id="140" />
+<NODE id="141" />2<NODE id="142" /> Postings
+<NODE id="152" />Stellenabbau<NODE id="164" /> für <NODE id="169" />2017<NODE id="173" /> eventuell noch vermeidbar
+<NODE id="200" />Paris<NODE id="205" /> – Die Fluggesellschaft<NODE id="228" /> Air France<NODE id="239" /> geht nach gewaltsamen Protesten der Beschäftigten einen Schritt auf die Gewerkschaften zu. Im <NODE id="334" />kommenden Jahr <NODE id="349" />würden weniger als <NODE id="368" />1.000<NODE id="373" /> Stellen wegfallen, sagte Konzernchef <NODE id="411" />Alexandre de Juniac<NODE id="430" /> am <NODE id="434" />Sonntag<NODE id="441" /> in einem Interview. Dies solle auf freiwilliger Basis geschehen.
+Die für <NODE id="515" />2017<NODE id="519" /> geplanten Stellenstreichungen könnten vermieden werden, falls sich die Fluggesellschaft bis <NODE id="612" />Anfang 2016<NODE id="623" /> mit den Gewerkschaften auf Einsparungen einige. Die Airline hatte angekündigt, <NODE id="703" />2.900<NODE id="708" /> Stellen bis <NODE id="721" />2017<NODE id="725" /> zu streichen.
+Mitarbeiter gingen auf die Barrikaden
+Wütende Mitarbeiter hatten<NODE id="804" /> Anfang Oktober<NODE id="819" /> nach Bekanntgabe des massiven <NODE id="850" />Stellenabbaus<NODE id="863" /> Top-Manager der Fluggesellschaft in die Flucht geschlagen . Die Gespräche mi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://derstandard.at/2000024074747/Air-France-streicht-zunaechst-weniger-Jobs-als-angekuendigt?ref=rss@2016-03-11T02:24:16.978+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T01:24:16.978Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T01:24:23.484Z" />
+<feature featureName="uri" featureValue="http://derstandard.at/2000024074747/Air-France-streicht-zunaechst-weniger-Jobs-als-angekuendigt?ref=rss" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="59" endPos="69" type="organization-company" surface="Air France" />
+<Entity id="1" startPos="117" endPos="133" type="date" surface="18. Oktober 2015" />
+<Entity id="2" startPos="135" endPos="140" type="time" surface="15:00" />
+<Entity id="3" startPos="141" endPos="142" type="number" surface="2" />
+<Entity id="4" startPos="152" endPos="164" type="trigger" surface="Stellenabbau" />
+<Entity id="5" startPos="169" endPos="173" type="date" surface="2017" />
+<Entity id="6" startPos="200" endPos="205" type="location-city" surface="Paris" />
+<Entity id="7" startPos="228" endPos="239" type="organization-company" surface=" Air France" />
+<Entity id="8" startPos="334" endPos="349" type="date" surface="kommenden Jahr " />
+<Entity id="9" startPos="368" endPos="373" type="number" surface="1.000" />
+<Entity id="10" startPos="411" endPos="430" type="person" surface="Alexandre de Juniac" />
+<Entity id="11" startPos="434" endPos="441" type="date" surface="Sonntag" />
+<Entity id="12" startPos="515" endPos="519" type="date" surface="2017" />
+<Entity id="13" startPos="612" endPos="623" type="date" surface="Anfang 2016" />
+<Entity id="14" startPos="703" endPos="708" type="number" surface="2.900" />
+<Entity id="15" startPos="721" endPos="725" type="date" surface="2017" />
+<Entity id="16" startPos="804" endPos="819" type="date" surface=" Anfang Oktober" />
+<Entity id="17" startPos="850" endPos="863" type="trigger" surface="Stellenabbaus" /></Entities><Relations />
+</Document>

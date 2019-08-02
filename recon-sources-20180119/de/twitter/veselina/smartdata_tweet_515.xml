@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Verspätungen<NODE id="12" /> #<NODE id="14" />SBahnStgt<NODE id="23" /> um <NODE id="27" />20:30<NODE id="32" />
+<NODE id="33" />S1<NODE id="35" /> <NODE id="36" />5 +5<NODE id="40" />
+<NODE id="41" />S2<NODE id="43" /> <NODE id="44" />9 +1<NODE id="48" />
+<NODE id="49" />S3<NODE id="51" /> <NODE id="52" />19 +4<NODE id="57" />
+<NODE id="58" />S4<NODE id="60" /> <NODE id="61" />11 +4<NODE id="66" />
+<NODE id="67" />S5<NODE id="69" /> <NODE id="70" />5<NODE id="71" />
+<NODE id="72" />S6<NODE id="74" /> <NODE id="75" />5 +4<NODE id="79" />
+<NODE id="80" />S60<NODE id="83" /> <NODE id="84" />0<NODE id="85" />
+<NODE id="86" />S?<NODE id="88" /> <NODE id="89" />3 +3<NODE id="93" />
+https://t.co/9fBVIDuTku<NODE id="117" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672135655774900225" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T19:30:02Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:29:35.73Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="trigger" surface="Verspätungen" />
+<Entity id="1" startPos="0" endPos="117" type="sentence" surface="Verspätungen #SBahnStgt um 20:30&#xA;S1 5 +5&#xA;S2 9 +1&#xA;S3 19 +4&#xA;S4 11 +4&#xA;S5 5&#xA;S6 5 +4&#xA;S60 0&#xA;S? 3 +3&#xA;https://t.co/9fBVIDuTku" />
+<Entity id="2" startPos="14" endPos="23" type="organization-company" surface="SBahnStgt" />
+<Entity id="3" startPos="27" endPos="32" type="date" surface="20:30" />
+<Entity id="4" startPos="33" endPos="35" type="location-route" surface="S1" />
+<Entity id="5" startPos="36" endPos="40" type="duration" surface="5 +5" />
+<Entity id="6" startPos="41" endPos="43" type="location-route" surface="S2" />
+<Entity id="7" startPos="44" endPos="48" type="duration" surface="9 +1" />
+<Entity id="8" startPos="49" endPos="51" type="location-route" surface="S3" />
+<Entity id="9" startPos="52" endPos="57" type="duration" surface="19 +4" />
+<Entity id="10" startPos="58" endPos="60" type="location-route" surface="S4" />
+<Entity id="11" startPos="61" endPos="66" type="duration" surface="11 +4" />
+<Entity id="12" startPos="67" endPos="69" type="location-route" surface="S5" />
+<Entity id="13" startPos="70" endPos="71" type="duration" surface="5" />
+<Entity id="14" startPos="72" endPos="74" type="location-route" surface="S6" />
+<Entity id="15" startPos="75" endPos="79" type="duration" surface="5 +4" />
+<Entity id="16" startPos="80" endPos="83" type="location-route" surface="S60" />
+<Entity id="17" startPos="84" endPos="85" type="duration" surface="0" />
+<Entity id="18" startPos="86" endPos="88" type="location-route" surface="S?" />
+<Entity id="19" startPos="89" endPos="93" type="duration" surface="3 +3" /></Entities><Relations>
+<Relation id="20" NAME="Delay">
+<Entity id="15" label="delay" />
+<Entity id="14" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="3" label="start_date" />
+</Relation>
+<Relation id="21" NAME="Delay">
+<Entity id="9" label="delay" />
+<Entity id="8" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="3" label="start_date" />
+</Relation>
+<Relation id="22" NAME="Delay">
+<Entity id="5" label="delay" />
+<Entity id="4" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="3" label="start_date" />
+</Relation>
+<Relation id="23" NAME="Delay">
+<Entity id="7" label="delay" />
+<Entity id="6" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="3" label="start_date" />
+</Relation>
+<Relation id="24" NAME="Delay">
+<Entity id="11" label="delay" />
+<Entity id="10" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="3" label="start_date" />
+</Relation>
+<Relation id="25" NAME="Delay">
+<Entity id="13" label="delay" />
+<Entity id="12" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="3" label="start_date" />
+</Relation></Relations>
+</Document>

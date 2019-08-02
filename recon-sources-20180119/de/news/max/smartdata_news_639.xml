@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bahn<NODE id="4" /> mit ICE-Tempo in die Verlustzone
+Angeblich <NODE id="48" />Milliarden<NODE id="58" />-Minus im Jahr <NODE id="73" />2015<NODE id="77" /> – <NODE id="80" />Grube<NODE id="85" /> legt Profitabilitäts-Programm  auf
+<NODE id="121" />Rasmus Buchsteiner<NODE id="139" /> Unseren Agenturen
+Stellenabbau gilt als nicht ausgeschlossen.  <NODE id="203" />Die Bahn<NODE id="211" /> ist einer der größten Arbeitgeber.
+<NODE id="247" />Berlin<NODE id="253" /> Mal kommen sie zu spät, mal in umgekehrter Wagenfolge, mal fahren sie gar nicht: Die Züge der <NODE id="348" />Deutschen Bahn<NODE id="362" /> bescheren dem Konzern und seinen Kunden jede Menge Ärger. Doch nicht nur im „Brot-und-Butter-Geschäft“ Fernverkehr läuft es schlecht, sondern auch im Güterverkehr. Erstmals seit <NODE id="541" />zwölf  Jahren<NODE id="554" /> wird es deshalb für <NODE id="575" />2015<NODE id="579" /> in der Bilanz wieder rote Zahlen geben, Medien spekulieren über einen Verlust von mehr als <NODE id="671" />einer Milliarde Euro<NODE id="691" />.  Beim Eigentümer Bund wächst die Unzufriedenheit – trotz nach wie vor üppiger Dividende von <NODE id="785" />850 Millionen Euro<NODE id="803" />.
+Immer deutlicher wird, dass die miese Bilanz des Unternehmens nicht allein auf Streiks und Sturmschäden zurückgeführt werden kann. Bahnchef <NODE id="945" />Rüdiger Grube<NODE id="958" />, 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nwzonline.de/wirtschaft/bahn-mit-ice-tempo-in-die-verlustzone_a_6,0,969737404.html@2016-03-10T21:43:27.634+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T20:43:27.634Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T20:43:33.483Z" />
+<feature featureName="uri" featureValue="http://www.nwzonline.de/wirtschaft/bahn-mit-ice-tempo-in-die-verlustzone_a_6,0,969737404.html" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="4" type="organization-company" surface="Bahn" />
+<Entity id="1" startPos="48" endPos="58" type="number" surface="Milliarden" />
+<Entity id="2" startPos="73" endPos="77" type="date" surface="2015" />
+<Entity id="3" startPos="80" endPos="85" type="person" surface="Grube" />
+<Entity id="4" startPos="121" endPos="139" type="person" surface="Rasmus Buchsteiner" />
+<Entity id="5" startPos="203" endPos="211" type="organization-company" surface="Die Bahn" />
+<Entity id="6" startPos="247" endPos="253" type="location-city" surface="Berlin" />
+<Entity id="7" startPos="348" endPos="362" type="organization-company" surface="Deutschen Bahn" />
+<Entity id="8" startPos="541" endPos="554" type="duration" surface="zwölf  Jahren" />
+<Entity id="9" startPos="575" endPos="579" type="date" surface="2015" />
+<Entity id="10" startPos="671" endPos="691" type="number" surface="einer Milliarde Euro" />
+<Entity id="11" startPos="785" endPos="803" type="number" surface="850 Millionen Euro" />
+<Entity id="12" startPos="945" endPos="958" type="person" surface="Rüdiger Grube" /></Entities><Relations />
+</Document>

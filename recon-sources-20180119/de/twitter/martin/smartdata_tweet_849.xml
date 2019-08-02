@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />KONKURS<NODE id="7" />!!! Haul <NODE id="16" />SheIn<NODE id="21" /> | <NODE id="24" />Dresslink<NODE id="33" /> | <NODE id="36" />Penneys<NODE id="43" /> | <NODE id="46" />Doriska<NODE id="53" /> https://t.co/sFW95B9vFh via @YouTube
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744699606798262273" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-20T01:13:16Z" />
+<feature featureName="indexDate" featureValue="2016-06-20T01:13:24.727Z" />
+<feature featureName="uri" featureValue="https://twitter.com/yasmineyang3/status/744699606798262273" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="trigger" surface="KONKURS" />
+<Entity id="1" startPos="16" endPos="21" type="organization-company" surface="SheIn" />
+<Entity id="2" startPos="24" endPos="33" type="organization-company" surface="Dresslink" />
+<Entity id="3" startPos="36" endPos="43" type="organization-company" surface="Penneys" />
+<Entity id="4" startPos="46" endPos="53" type="organization-company" surface="Doriska" /></Entities><Relations>
+<Relation id="5" NAME="Insolvency">
+<Entity id="3" label="company" />
+<Entity id="0" label="trigger" />
+</Relation>
+<Relation id="6" NAME="Insolvency">
+<Entity id="4" label="company" />
+<Entity id="0" label="trigger" />
+</Relation>
+<Relation id="7" NAME="Insolvency">
+<Entity id="1" label="company" />
+<Entity id="0" label="trigger" />
+</Relation>
+<Relation id="8" NAME="Insolvency">
+<Entity id="2" label="company" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

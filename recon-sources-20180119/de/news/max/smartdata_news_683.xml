@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Viel Bewegung gab es im Bund Future zuletzt nicht. Das <NODE id="55" />deutsche<NODE id="63" /> Anleihenbarometer hält sich weiter am unteren Ende se...
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.boerse-express.com/pages/1953999@2016-03-10T13:50:36.005+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:50:36.005Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:50:43.484Z" />
+<feature featureName="uri" featureValue="http://www.boerse-express.com/pages/1953999" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="55" endPos="63" type="location" surface="deutsche" /></Entities><Relations />
+</Document>

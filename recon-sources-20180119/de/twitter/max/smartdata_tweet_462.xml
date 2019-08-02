@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Borussia Mönchengladbach<NODE id="24" /> gegen den <NODE id="35" />FC Sevilla<NODE id="45" /> im<NODE id="48" /> Borussia Park<NODE id="62" /> #<NODE id="64" />BMG<NODE id="67" /> #<NODE id="69" />Sev<NODE id="72" /> #<NODE id="74" />BMG<NODE id="77" />v<NODE id="78" />SEV<NODE id="81" /> #<NODE id="83" />BMG<NODE id="86" />SEV <NODE id="90" />@<NODE id="91" />SevillaFC_ENG<NODE id="104" /> @<NODE id="106" />Borussia<NODE id="114" /> https://t.co/7pWbGk6g28
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669602347455225856" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-25T19:43:34Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T21:55:05.727Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="24" type="organization" surface="Borussia Mönchengladbach" />
+<Entity id="1" startPos="35" endPos="45" type="organization" surface="FC Sevilla" />
+<Entity id="2" startPos="48" endPos="62" type="location" surface=" Borussia Park" />
+<Entity id="3" startPos="64" endPos="67" type="organization" surface="BMG" />
+<Entity id="4" startPos="69" endPos="72" type="organization" surface="Sev" />
+<Entity id="5" startPos="74" endPos="77" type="organization" surface="BMG" />
+<Entity id="6" startPos="78" endPos="81" type="organization" surface="SEV" />
+<Entity id="7" startPos="83" endPos="86" type="organization" surface="BMG" />
+<Entity id="8" startPos="86" endPos="90" type="organization" surface="SEV " />
+<Entity id="9" startPos="91" endPos="104" type="organization" surface="SevillaFC_ENG" />
+<Entity id="10" startPos="106" endPos="114" type="organization" surface="Borussia" /></Entities><Relations />
+</Document>

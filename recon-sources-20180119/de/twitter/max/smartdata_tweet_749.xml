@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />guenterhack<NODE id="15" />: Übrigens, <NODE id="27" />Deutsche<NODE id="35" />: Wenn ihr ein Tempolimit auf der Autobahn einführt, dann könnt ihr den Waffenwahn der <NODE id="122" />Amis<NODE id="126" /> viel saubere…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672321506194661377" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-03T07:48:32Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:31:45.729Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="15" type="person" surface="guenterhack" />
+<Entity id="1" startPos="27" endPos="35" type="location" surface="Deutsche" />
+<Entity id="2" startPos="122" endPos="126" type="location" surface="Amis" /></Entities><Relations />
+</Document>

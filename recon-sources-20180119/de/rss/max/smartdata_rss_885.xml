@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />MÜNCHEN<NODE id="7" />. Am <NODE id="12" />Mittwoch, 10.02.2016<NODE id="32" />, gegen <NODE id="40" />12.00 Uhr<NODE id="49" />, befanden sich <NODE id="65" />zwei<NODE id="69" /> Polizeibeamte wegen eines Wasserrohrbruches in einem Gebäude an der <NODE id="138" />Tengstraße<NODE id="148" />. 
+Als von der Straße lautes und andauerndes Hupen zu vernehmen war, gingen die Polizeibeamten auf die Straße, um nach der Ursache des Hupens zu schauen. 
+Dort konnten die Polizisten beobachten, wie hinter einem Einsatzfahrzeug der Feuerwehr eine <NODE id="395" />46-jährige<NODE id="405" /> <NODE id="406" />Audi<NODE id="410" />-Fahrerin stand und fortlaufend ihre Autohupe betätigte. Aufgrund des Gegenverkehrs konnte die <NODE id="505" />Audi<NODE id="509" />-Fahrerin zunächst am stehenden Feuerwehrfahrzeug nicht links vorbeifahren und musste deshalb verkehrsbedingt warten, was sie offensichtlich sehr verärgerte. 
+Einer der beiden eingesetzten Polizeibeamten ging zum Fahrzeug der <NODE id="735" />46-jährigen<NODE id="746" />, um sie nach dem Grund für das Hupen zu fragen. Nachdem sie daraufhin nicht reagierte, wies er sie an nach dem Feuerwehrfahrzeug am Fahrbahnrand zu halten
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.bayern.de/muenchen/news/presse/aktuell/index.html/236298@2016-02-11T16:45:39.508+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-11T15:45:39.508Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T01:39:54.981Z" />
+<feature featureName="uri" featureValue="http://www.polizei.bayern.de/muenchen/news/presse/aktuell/index.html/236298" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location-city" surface="MÜNCHEN" />
+<Entity id="1" startPos="12" endPos="32" type="date" surface="Mittwoch, 10.02.2016" />
+<Entity id="2" startPos="40" endPos="49" type="time" surface="12.00 Uhr" />
+<Entity id="3" startPos="65" endPos="69" type="number" surface="zwei" />
+<Entity id="4" startPos="138" endPos="148" type="location-street" surface="Tengstraße" />
+<Entity id="5" startPos="395" endPos="405" type="number" surface="46-jährige" />
+<Entity id="6" startPos="406" endPos="410" type="organization-company" surface="Audi" />
+<Entity id="7" startPos="505" endPos="509" type="organization-company" surface="Audi" />
+<Entity id="8" startPos="735" endPos="746" type="number" surface="46-jährigen" /></Entities><Relations />
+</Document>

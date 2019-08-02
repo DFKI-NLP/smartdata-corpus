@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>ROUNDUP <NODE id="8" />2<NODE id="9" />: Aktie von <NODE id="21" />GoPro<NODE id="26" /> stürzt nach schwachem Quartal ab
+<NODE id="60" />14.01.16<NODE id="68" /> <NODE id="69" />18:13<NODE id="74" />
+<NODE id="75" />dpa-AFX<NODE id="82" />
+<NODE id="83" />SAN MATEO<NODE id="92" /> (<NODE id="94" />dpa-AFX<NODE id="101" />) - Der Actionkamera-Spezialist <NODE id="133" />GoPro<NODE id="138" /> hat nach einem schwachen Quartal einen deutlichen <NODE id="189" />Stellenabbau<NODE id="201" /> angekündigt, die Aktie brach daraufhin ein.
+Das Papier fiel im frühen <NODE id="272" />US<NODE id="274" />-Handel am <NODE id="285" />Donnerstag<NODE id="295" /> um rund <NODE id="304" />18 Prozent<NODE id="314" />. <NODE id="316" />GoPro<NODE id="321" /> gab zuvor überraschend den Umsatz für das Weihnachtsquartal bekannt - und verfehlte dabei deutlich die Erwartungen der Börsianer. Die Firma aus <NODE id="466" />Kalifornien<NODE id="477" /> rechnet mit Erlösen von <NODE id="502" />435 Millionen Dollar<NODE id="522" /> (<NODE id="524" />400 Mio Euro<NODE id="536" />). Analysten hatten über <NODE id="561" />500 Millionen Dollar<NODE id="581" /> erwartet.
+<NODE id="592" />GoPro<NODE id="597" /> erklärte, vor allem in der <NODE id="625" />ersten<NODE id="631" /> Hälfte des Quartals seien die Verkäufe der Kameras unter den Erwartungen geblieben. Der Umsatz werde auch von Belastungen wegen einer Preissenkung beim neuen Modell <NODE id="797" />Hero4 Session<NODE id="810" /> gedrückt. <NODE id="821" />GoPro<NODE id="826" /> halbierte den Preis nach einem schwachen Verkaufsstart auf <NODE id="886" />199 Dollar<NODE id="896" />.
+Nun sollen <NODE id="909" />sieben Prozent<NODE id="923" /> der Arbeitsplätze gestrichen werde
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.aktiencheck.de/news/Artikel-ROUNDUP_2_Aktie_von_GoPro_stuerzt_schwachem_Quartal-6957227@2016-03-10T22:31:59.621+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T21:31:59.621Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T21:32:03.482Z" />
+<feature featureName="uri" featureValue="http://www.aktiencheck.de/news/Artikel-ROUNDUP_2_Aktie_von_GoPro_stuerzt_schwachem_Quartal-6957227" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="9" type="number" surface="2" />
+<Entity id="1" startPos="21" endPos="26" type="organization-company" surface="GoPro" />
+<Entity id="2" startPos="60" endPos="68" type="date" surface="14.01.16" />
+<Entity id="3" startPos="69" endPos="74" type="time" surface="18:13" />
+<Entity id="4" startPos="75" endPos="82" type="organization-company" surface="dpa-AFX" />
+<Entity id="5" startPos="83" endPos="92" type="location-city" surface="SAN MATEO" />
+<Entity id="6" startPos="94" endPos="101" type="organization-company" surface="dpa-AFX" />
+<Entity id="7" startPos="133" endPos="138" type="organization-company" surface="GoPro" />
+<Entity id="8" startPos="189" endPos="201" type="trigger" surface="Stellenabbau" />
+<Entity id="9" startPos="272" endPos="274" type="location" surface="US" />
+<Entity id="10" startPos="285" endPos="295" type="date" surface="Donnerstag" />
+<Entity id="11" startPos="304" endPos="314" type="number" surface="18 Prozent" />
+<Entity id="12" startPos="316" endPos="321" type="organization-company" surface="GoPro" />
+<Entity id="13" startPos="466" endPos="477" type="location" surface="Kalifornien" />
+<Entity id="14" startPos="502" endPos="522" type="number" surface="435 Millionen Dollar" />
+<Entity id="15" startPos="524" endPos="536" type="number" surface="400 Mio Euro" />
+<Entity id="16" startPos="561" endPos="581" type="number" surface="500 Millionen Dollar" />
+<Entity id="17" startPos="592" endPos="597" type="organization-company" surface="GoPro" />
+<Entity id="18" startPos="625" endPos="631" type="number" surface="ersten" />
+<Entity id="19" startPos="797" endPos="810" type="product" surface="Hero4 Session" />
+<Entity id="20" startPos="821" endPos="826" type="organization-company" surface="GoPro" />
+<Entity id="21" startPos="886" endPos="896" type="number" surface="199 Dollar" />
+<Entity id="22" startPos="909" endPos="923" type="number" surface="sieben Prozent" /></Entities><Relations>
+<Relation id="23" NAME="Layoffs">
+<Entity id="7" label="company" />
+<Entity id="8" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />S-Bahn-Verkehr <NODE id="15" />Stuttgart<NODE id="24" />: <NODE id="26" />Notarzteinsatz<NODE id="40" /> in <NODE id="44" />Feuerbach<NODE id="53" /> sorgt für <NODE id="64" />Verspätungen<NODE id="76" /> https://t.co/BtIEYzNdUE https://t.co/zsLtqDybzj<NODE id="124" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669121436301336577" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-24T11:52:36Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:10:44.121Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="24" type="location-route" surface="S-Bahn-Verkehr Stuttgart" />
+<Entity id="1" startPos="0" endPos="124" type="sentence" surface="S-Bahn-Verkehr Stuttgart: Notarzteinsatz in Feuerbach sorgt für Verspätungen https://t.co/BtIEYzNdUE https://t.co/zsLtqDybzj" />
+<Entity id="2" startPos="15" endPos="24" type="location-city" surface="Stuttgart" />
+<Entity id="3" startPos="26" endPos="40" type="trigger" surface="Notarzteinsatz" />
+<Entity id="4" startPos="44" endPos="53" type="location-city" surface="Feuerbach" />
+<Entity id="5" startPos="64" endPos="76" type="trigger" surface="Verspätungen" /></Entities><Relations>
+<Relation id="6" NAME="Delay">
+<Entity id="3" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

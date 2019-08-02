@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Viernheim<NODE id="9" /> Richtung <NODE id="19" />Weinheim<NODE id="27" /> zwischen <NODE id="37" />Viernheimer Kreuz<NODE id="54" /> und <NODE id="59" />Kreuz Weinheim<NODE id="73" /> geänderte Verkehrsführung im Baustellenbereich, linker Fahrstreifen gesperrt, bis <NODE id="156" />29.02.2016<NODE id="166" /> ca. <NODE id="171" />16:00 Uhr<NODE id="180" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=da02459a-5419-4b38-9bb5-90eff5c99aac@2016-02-29T10:43:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-29T09:43:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T01:56:58.854Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=da02459a-5419-4b38-9bb5-90eff5c99aac" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Viernheim" />
+<Entity id="1" startPos="19" endPos="27" type="location-city" surface="Weinheim" />
+<Entity id="2" startPos="37" endPos="54" type="location" surface="Viernheimer Kreuz" />
+<Entity id="3" startPos="59" endPos="73" type="location" surface="Kreuz Weinheim" />
+<Entity id="4" startPos="156" endPos="166" type="date" surface="29.02.2016" />
+<Entity id="5" startPos="171" endPos="180" type="time" surface="16:00 Uhr" /></Entities><Relations />
+</Document>

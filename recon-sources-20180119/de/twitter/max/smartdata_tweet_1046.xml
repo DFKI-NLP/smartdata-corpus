@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Sprayraumbarbie: Und in jeder Beziehung fragt man sich irgendwann, wann sagt man ihm die magischen <NODE id="103" />drei<NODE id="107" /> Worte: 
+
+Ich bin pleite.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744482734949675008" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T10:51:30Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T10:51:40.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Glumovsky/status/744482734949675008" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="103" endPos="107" type="number" surface="drei" /></Entities><Relations />
+</Document>

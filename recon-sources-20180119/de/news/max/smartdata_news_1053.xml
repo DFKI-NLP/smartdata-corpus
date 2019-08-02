@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Der vom Menschen verursachte Klimawandel verändert einer Studie zufolge die Wetter-Formel für gute Weinernten in <NODE id="113" />Frankreich<NODE id="123" />.
+Foto: <NODE id="131" />Guillaume Horcajuelo<NODE id="151" />/Archiv (<NODE id="160" />dpa<NODE id="163" />)
+Während die besten Wein-Jahre sich über Jahrhunderte durch Trockenperioden am Ende der Wachstumsphase auszeichneten, werden die nötigen Temperaturen für eine frühe und gute Ernte inzwischen ohne Dürre geknackt. «Es ist nur das jüngste Symptom, dass die globale Erwärmung biologische Systeme und die Landwirtschaft beeinflusst», teilte die <NODE id="504" />US-amerikanische<NODE id="520" /> <NODE id="521" />Columbia-Universität<NODE id="541" /> mit.
+«Die schlechte Nachricht ist, wenn wir die Erde weiter erwärmen, werden wir einen Wendepunkt erreichen», warnte Mit-Autorin <NODE id="671" />Elizabeth Wolkovich<NODE id="690" /> von der <NODE id="699" />Universität Harvard<NODE id="718" />. Nach ihrer Einschätzung könnten höhere Temperaturen dann nicht mehr wie bislang zu höherer Weinqualität führen.
+ANZEIGE
+Die in der Fachzeitschrift «Nature Climate Change» veröffentlichte Studie stützt sich auf Daten aus den Jahre
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.augsburger-allgemeine.de/wissenschaft/Klimawandel-aendert-die-Wetter-Formel-fuer-gute-Weinernte-id37294092.html@2016-03-21T17:09:02.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T16:09:02Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T02:22:42.952Z" />
+<feature featureName="uri" featureValue="http://www.augsburger-allgemeine.de/wissenschaft/Klimawandel-aendert-die-Wetter-Formel-fuer-gute-Weinernte-id37294092.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="113" endPos="123" type="location" surface="Frankreich" />
+<Entity id="1" startPos="131" endPos="151" type="person" surface="Guillaume Horcajuelo" />
+<Entity id="2" startPos="160" endPos="163" type="organization-company" surface="dpa" />
+<Entity id="3" startPos="504" endPos="520" type="location" surface="US-amerikanische" />
+<Entity id="4" startPos="521" endPos="541" type="organization" surface="Columbia-Universität" />
+<Entity id="5" startPos="671" endPos="690" type="person" surface="Elizabeth Wolkovich" />
+<Entity id="6" startPos="699" endPos="718" type="organization" surface="Universität Harvard" /></Entities><Relations />
+</Document>

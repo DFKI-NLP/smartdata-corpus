@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Helios-Kliniken<NODE id="15" /> in <NODE id="19" />Bad Kissingen<NODE id="32" /> und <NODE id="37" />Hammelburg<NODE id="47" /> werden <NODE id="55" />bestreikt<NODE id="64" />:https://t.co/hKdMxHZPTo #Pflegestreik
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="747420534158262272" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-27T13:25:16Z" />
+<feature featureName="indexDate" featureValue="2016-06-27T13:25:17.747Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2282180348/status/747420534158262272" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="15" type="organization-company" surface="Helios-Kliniken" />
+<Entity id="1" startPos="19" endPos="32" type="location" surface="Bad Kissingen" />
+<Entity id="2" startPos="37" endPos="47" type="location" surface="Hammelburg" />
+<Entity id="3" startPos="55" endPos="64" type="trigger" surface="bestreikt" /></Entities><Relations>
+<Relation id="4" NAME="Strike">
+<Entity id="0" label="company" />
+<Entity id="2" label="location" />
+<Entity id="1" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

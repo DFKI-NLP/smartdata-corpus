@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Es ist kalt :((
+Ich muss auf die Bahn warten :(((
+Meeeeeehhh :(((((((
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743822956195876864" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T15:09:46Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T15:09:50.081Z" />
+<feature featureName="uri" featureValue="https://twitter.com/[Mongo]FlyingCookies/status/743822956195876864" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities /><Relations />
+</Document>

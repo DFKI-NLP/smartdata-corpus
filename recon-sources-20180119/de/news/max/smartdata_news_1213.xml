@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Fanuc<NODE id="5" /> kommt mit glänzenden Zahlen zur Automatica
+<NODE id="49" />21. Juli 2016<NODE id="62" />
+-
+Ein Rekordergebnis verzeichnete <NODE id="97" />Fanuc Deutschland<NODE id="114" /> im abgelaufenen Geschäftsjahr. Über alle <NODE id="156" />drei<NODE id="160" /> Geschäftsbereiche wuchs der Umsatz um <NODE id="199" />18 Prozent<NODE id="209" /> auf <NODE id="214" />212 Mio. Euro<NODE id="227" />. Im vergangenen Geschäftsjahr <NODE id="258" />2015<NODE id="262" />/<NODE id="263" />16<NODE id="265" /> wurden nahezu <NODE id="280" />4.000<NODE id="285" /> Roboter verkauft und die Stückzahlen in den vergangenen <NODE id="342" />fünf Jahren<NODE id="353" /> fast vervierfacht. Für das laufende Geschäftsjahr erwartet Geschäftsführer <NODE id="429" />Olaf Kramm<NODE id="439" /> erneut ein zweistelliges Wachstum.
+Geschäftsführer <NODE id="491" />Olaf Kramm<NODE id="501" /> von <NODE id="506" />Fanuc Deutschland<NODE id="523" /> (Foto: <NODE id="531" />Fanuc<NODE id="536" />)
+Die Zahl der Mitarbeiter bei <NODE id="567" />Fanuc Deutschland<NODE id="584" /> stieg auf inzwischen circa <NODE id="612" />300<NODE id="615" />. „Ein weiteres, moderates Wachstum ist geplant“, so Geschäftsführer <NODE id="684" />Olaf Kramm<NODE id="694" />. Weiter ausgebaut wird die Zahl der Ausbildungsstellen. Erst seit dem Merger hatte das Unternehmen überhaupt die Möglichkeiten geschaffen, sowohl im kaufmännischen als auch im technischen Bereich auszubilden. „Die Zahl der Ausbildung
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.neue-verpackung.de/43216/fanuc-kommt-mit-glaenzenden-zahlen-zur-automatica/@2016-07-21T08:34:45.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-21T06:34:45Z" />
+<feature featureName="indexDate" featureValue="2016-07-21T10:22:06.119Z" />
+<feature featureName="uri" featureValue="http://www.neue-verpackung.de/43216/fanuc-kommt-mit-glaenzenden-zahlen-zur-automatica/" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="organization-company" surface="Fanuc" />
+<Entity id="1" startPos="49" endPos="62" type="date" surface="21. Juli 2016" />
+<Entity id="2" startPos="97" endPos="114" type="organization-company" surface="Fanuc Deutschland" />
+<Entity id="3" startPos="156" endPos="160" type="number" surface="drei" />
+<Entity id="4" startPos="199" endPos="209" type="number" surface="18 Prozent" />
+<Entity id="5" startPos="214" endPos="227" type="number" surface="212 Mio. Euro" />
+<Entity id="6" startPos="258" endPos="262" type="date" surface="2015" />
+<Entity id="7" startPos="263" endPos="265" type="date" surface="16" />
+<Entity id="8" startPos="280" endPos="285" type="number" surface="4.000" />
+<Entity id="9" startPos="342" endPos="353" type="duration" surface="fünf Jahren" />
+<Entity id="10" startPos="429" endPos="439" type="person" surface="Olaf Kramm" />
+<Entity id="11" startPos="491" endPos="501" type="person" surface="Olaf Kramm" />
+<Entity id="12" startPos="506" endPos="523" type="organization-company" surface="Fanuc Deutschland" />
+<Entity id="13" startPos="531" endPos="536" type="organization-company" surface="Fanuc" />
+<Entity id="14" startPos="567" endPos="584" type="organization-company" surface="Fanuc Deutschland" />
+<Entity id="15" startPos="612" endPos="615" type="number" surface="300" />
+<Entity id="16" startPos="684" endPos="694" type="person" surface="Olaf Kramm" /></Entities><Relations>
+<Relation id="17" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="2" label="target" />
+<Entity id="14" label="target" />
+<Entity id="13" label="target" />
+<Entity id="12" label="target" />
+</Relation></Relations>
+</Document>

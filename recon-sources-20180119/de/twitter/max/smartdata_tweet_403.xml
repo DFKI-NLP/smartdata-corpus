@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Attacd: Konzern kassiert, #<NODE id="31" />Griechenland<NODE id="43" /> haftet: Die <NODE id="56" />Übernahme<NODE id="65" /> <NODE id="66" />griechischer Flughäfen<NODE id="88" /> durch die<NODE id="98" /> Fraport AG<NODE id="109" /> ist ein Skandal. https://t.co…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710012856385847296" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-16T08:00:31Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T15:21:25.039Z" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="31" endPos="43" type="location" surface="Griechenland" />
+<Entity id="1" startPos="56" endPos="65" type="trigger" surface="Übernahme" />
+<Entity id="2" startPos="66" endPos="88" type="organization-company" surface="griechischer Flughäfen" />
+<Entity id="3" startPos="98" endPos="109" type="organization-company" surface=" Fraport AG" /></Entities><Relations>
+<Relation id="4" NAME="Acquisition">
+<Entity id="1" label="trigger" />
+<Entity id="2" label="acquired" />
+<Entity id="3" label="buyer" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Friedrichshafen<NODE id="15" /> Richtung <NODE id="25" />Stockach<NODE id="33" /> zwischen <NODE id="43" />Überlingen-Aufkirch<NODE id="62" /> und <NODE id="67" />Überlingen-Goldbach<NODE id="86" /> Gefahr durch ein totes Tier auf der Fahrbahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=e380f236-ac5b-441c-aa27-01bed7b113de@2016-03-17T21:40:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=e380f236-ac5b-441c-aa27-01bed7b113de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="15" type="location-city" surface="Friedrichshafen" />
+<Entity id="1" startPos="25" endPos="33" type="location-city" surface="Stockach" />
+<Entity id="2" startPos="43" endPos="62" type="location" surface="Überlingen-Aufkirch" />
+<Entity id="3" startPos="67" endPos="86" type="location" surface="Überlingen-Goldbach" /></Entities><Relations />
+</Document>

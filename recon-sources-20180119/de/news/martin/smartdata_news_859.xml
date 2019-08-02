@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Euronews - Africanews<NODE id="21" />: Eine neue <NODE id="33" />Gruppe<NODE id="39" /> im Dienste der Informationsvielfalt
+DAUN, <NODE id="82" />12.04.2016<NODE id="92" />  -  <NODE id="97" />15:47 Uhr<NODE id="106" />
+Digital-TV
+<NODE id="118" />Euronews - Africanews<NODE id="139" />: Eine neue <NODE id="151" />Gruppe<NODE id="157" /> im Dienste der Informationsvielfalt
+<NODE id="194" />Neun Monate<NODE id="205" /> nach der Ankunft eines neuen Mehrheitsgesellschafters und nach der Einweihung des neuen internationalen Headquarters im <NODE id="326" />Oktober<NODE id="333" /> gab <NODE id="338" />Michael Peters<NODE id="352" />, <NODE id="354" />CEO<NODE id="357" /> von <NODE id="362" />Euronews<NODE id="370" /> und <NODE id="375" />Africanews<NODE id="385" />, auf einer Pressekonferenz auf der <NODE id="421" />MIPTV<NODE id="426" /> <NODE id="427" />diese Woche<NODE id="438" /> in <NODE id="442" />Cannes<NODE id="448" />, nun erste Informationen über die neue Positionierung der aus den <NODE id="515" />zwei<NODE id="519" /> internationalen Nachrichtenmedien <NODE id="554" />Euronews<NODE id="562" /> und <NODE id="567" />Africanews<NODE id="577" /> <NODE id="578" />bestehenden<NODE id="589" /> <NODE id="590" />Gruppe<NODE id="596" /> bekannt.
+„Wir engagieren uns im Kampf gegen Desinformation und gegen das Abdriften in eine Überflutung von zusammenhanglosen, unaufbereiteten Informationen. Diese neuen Phänomene werden durch die digitale Revolution noch verstärkt und tragen in der Realität dazu bei, uns täglich mit dem zu versorgen, was unseren Daseinszweck ausmacht: die absolute
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.infosat.de/digital-tv/euronews-africanews-eine-neue-gruppe-im-dienste-der-informationsvielfalt@2016-04-12T15:47:17.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-12T13:47:17Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T13:58:48.926Z" />
+<feature featureName="uri" featureValue="https://www.infosat.de/digital-tv/euronews-africanews-eine-neue-gruppe-im-dienste-der-informationsvielfalt" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="21" type="organization-company" surface="Euronews - Africanews" />
+<Entity id="1" startPos="33" endPos="39" type="organization-company" surface="Gruppe" />
+<Entity id="2" startPos="82" endPos="92" type="date" surface="12.04.2016" />
+<Entity id="3" startPos="97" endPos="106" type="time" surface="15:47 Uhr" />
+<Entity id="4" startPos="118" endPos="139" type="organization-company" surface="Euronews - Africanews" />
+<Entity id="5" startPos="151" endPos="157" type="organization-company" surface="Gruppe" />
+<Entity id="6" startPos="194" endPos="205" type="date" surface="Neun Monate" />
+<Entity id="7" startPos="326" endPos="333" type="date" surface="Oktober" />
+<Entity id="8" startPos="338" endPos="352" type="person" surface="Michael Peters" />
+<Entity id="9" startPos="354" endPos="357" type="org-position" surface="CEO" />
+<Entity id="10" startPos="362" endPos="370" type="organization-company" surface="Euronews" />
+<Entity id="11" startPos="375" endPos="385" type="organization-company" surface="Africanews" />
+<Entity id="12" startPos="421" endPos="426" type="organization-company" surface="MIPTV" />
+<Entity id="13" startPos="427" endPos="438" type="date" surface="diese Woche" />
+<Entity id="14" startPos="442" endPos="448" type="location-city" surface="Cannes" />
+<Entity id="15" startPos="515" endPos="519" type="number" surface="zwei" />
+<Entity id="16" startPos="554" endPos="562" type="organization-company" surface="Euronews" />
+<Entity id="17" startPos="567" endPos="577" type="organization-company" surface="Africanews" />
+<Entity id="18" startPos="578" endPos="589" type="trigger" surface="bestehenden" />
+<Entity id="19" startPos="590" endPos="596" type="organization-company" surface="Gruppe" /></Entities><Relations>
+<Relation id="20" NAME="CompanyRelationship">
+<Entity id="19" label="parent" />
+<Entity id="18" label="trigger" />
+<Entity id="16" label="child" />
+</Relation>
+<Relation id="21" NAME="CompanyRelationship">
+<Entity id="19" label="parent" />
+<Entity id="18" label="trigger" />
+<Entity id="17" label="child" />
+</Relation>
+<Relation id="22" NAME="Identity">
+<Entity id="0" label="source" />
+<Entity id="4" label="target" />
+<Entity id="5" label="target" />
+<Entity id="19" label="target" />
+<Entity id="1" label="target" />
+</Relation>
+<Relation id="23" NAME="OrganizationLeadership">
+<Entity id="8" label="person" />
+<Entity id="10" label="organization" />
+<Entity id="9" label="position" />
+</Relation>
+<Relation id="24" NAME="OrganizationLeadership">
+<Entity id="8" label="person" />
+<Entity id="11" label="organization" />
+<Entity id="9" label="position" />
+</Relation></Relations>
+</Document>

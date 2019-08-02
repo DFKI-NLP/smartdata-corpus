@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bus 41<NODE id="6" /> Richtung <NODE id="16" />Lerchenrainschule<NODE id="33" /> mit der nächsten Haltestelle <NODE id="63" />Lerchenrainschule<NODE id="80" /> hat <NODE id="85" />0:05:00<NODE id="92" /> <NODE id="93" />Verspätung<NODE id="103" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="737978941739311104" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-01T12:07:45Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T04:18:48.878Z" />
+<feature featureName="uri" featureValue="https://twitter.com/730138766338359296/status/737978941739311104" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="location-route" surface="Bus 41" />
+<Entity id="1" startPos="16" endPos="33" type="location-stop" surface="Lerchenrainschule" />
+<Entity id="2" startPos="63" endPos="80" type="location-stop" surface="Lerchenrainschule" />
+<Entity id="3" startPos="85" endPos="92" type="duration" surface="0:05:00" />
+<Entity id="4" startPos="93" endPos="103" type="trigger" surface="Verspätung" /></Entities><Relations>
+<Relation id="5" NAME="Delay">
+<Entity id="3" label="delay" />
+<Entity id="0" label="location" />
+<Entity id="4" label="trigger" />
+<Entity id="1" label="direction" />
+</Relation></Relations>
+</Document>

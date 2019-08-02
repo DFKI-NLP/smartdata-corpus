@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Kommunalwahlen in <NODE id="18" />Hessen<NODE id="24" />: Starke Ergebnisse für <NODE id="48" />AfD<NODE id="51" />
+<NODE id="52" />FRANKFURT<NODE id="61" />/<NODE id="62" />SÜDHESSEN<NODE id="71" /> - Die <NODE id="78" />Alternative für Deutschland<NODE id="105" /> punktet bei der Kommunalwahl in <NODE id="138" />Hessen<NODE id="144" />. Das zeichnet sich nach ersten Auszählungen ab. Ein Signal für die Landtagswahlen in <NODE id="230" />drei<NODE id="234" /> Ländern in <NODE id="246" />genau einer Woche<NODE id="263" />? In <NODE id="268" />Südhessen<NODE id="277" /> wurden zusätzlich die Bürgermeister von <NODE id="318" />Ober-Ramstadt<NODE id="331" /> und <NODE id="336" />Brombachtal<NODE id="347" /> neu gewählt. Zudem gab es im <NODE id="377" />Odenwaldkreis<NODE id="390" /> noch einen Entscheid zur Fusion der Oberzent-Gemeinden.
+Landtagswahlen in <NODE id="465" />Baden-Württemberg<NODE id="482" />, <NODE id="484" />Rheinland-Pfalz<NODE id="499" /> und <NODE id="504" />Sachsen-Anhalt<NODE id="518" />
+<NODE id="519" />MAINZ<NODE id="524" />/<NODE id="525" />STUTTGART<NODE id="534" />/<NODE id="535" />MAGDEBURG<NODE id="544" /> - In <NODE id="550" />Baden-Württemberg<NODE id="567" /> wurden die <NODE id="579" />Grünen<NODE id="585" /> von Ministerpräsident <NODE id="608" />Winfried Kretschmann<NODE id="628" /> den Prognosen (<NODE id="644" />18.00 Uhr<NODE id="653" />) zufolge erstmals in der Geschichte der Bundesrepublik stärkste Partei. Im Duell der Frauen in <NODE id="749" />Rheinland-Pfalz<NODE id="764" /> verwies die <NODE id="777" />SPD<NODE id="780" /> von Regierungschefin <NODE id="802" />Malu Dreyer<NODE id="813" /> die <NODE id="818" />CDU<NODE id="821" /> von Herausforderin <NODE id="841" />Julia Klöckner<NODE id="855" /> auf Platz <NODE id="866" />zwei<NODE id="870" />. Und in <NODE id="879" />Sachen-Anhalt<NODE id="892" /> fuhr die noch junge <NODE id="913" />AfD<NODE id="916" />, die nunmehr in <NODE id="933" />8<NODE id="934" /> der <NODE id="939" />16<NODE id="941" /> Lan
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.gelnhaeuser-tageblatt.de/politik/thema-des-tages/afd-triumph-sorgt-fuer-schwierige-koalitionsbildungen_16722255.htm@2016-03-14T14:07:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-14T13:07:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:45:21.939Z" />
+<feature featureName="uri" featureValue="http://www.gelnhaeuser-tageblatt.de/politik/thema-des-tages/afd-triumph-sorgt-fuer-schwierige-koalitionsbildungen_16722255.htm" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="24" type="location" surface="Hessen" />
+<Entity id="1" startPos="48" endPos="51" type="organization" surface="AfD" />
+<Entity id="2" startPos="52" endPos="61" type="location-city" surface="FRANKFURT" />
+<Entity id="3" startPos="62" endPos="71" type="location" surface="SÜDHESSEN" />
+<Entity id="4" startPos="78" endPos="105" type="organization" surface="Alternative für Deutschland" />
+<Entity id="5" startPos="138" endPos="144" type="location" surface="Hessen" />
+<Entity id="6" startPos="230" endPos="234" type="number" surface="drei" />
+<Entity id="7" startPos="246" endPos="263" type="date" surface="genau einer Woche" />
+<Entity id="8" startPos="268" endPos="277" type="location" surface="Südhessen" />
+<Entity id="9" startPos="318" endPos="331" type="location-city" surface="Ober-Ramstadt" />
+<Entity id="10" startPos="336" endPos="347" type="location-city" surface="Brombachtal" />
+<Entity id="11" startPos="377" endPos="390" type="location" surface="Odenwaldkreis" />
+<Entity id="12" startPos="465" endPos="482" type="location" surface="Baden-Württemberg" />
+<Entity id="13" startPos="484" endPos="499" type="location" surface="Rheinland-Pfalz" />
+<Entity id="14" startPos="504" endPos="518" type="location" surface="Sachsen-Anhalt" />
+<Entity id="15" startPos="519" endPos="524" type="location-city" surface="MAINZ" />
+<Entity id="16" startPos="525" endPos="534" type="location-city" surface="STUTTGART" />
+<Entity id="17" startPos="535" endPos="544" type="location-city" surface="MAGDEBURG" />
+<Entity id="18" startPos="550" endPos="567" type="location" surface="Baden-Württemberg" />
+<Entity id="19" startPos="579" endPos="585" type="organization" surface="Grünen" />
+<Entity id="20" startPos="608" endPos="628" type="person" surface="Winfried Kretschmann" />
+<Entity id="21" startPos="644" endPos="653" type="date" surface="18.00 Uhr" />
+<Entity id="22" startPos="749" endPos="764" type="location" surface="Rheinland-Pfalz" />
+<Entity id="23" startPos="777" endPos="780" type="organization" surface="SPD" />
+<Entity id="24" startPos="802" endPos="813" type="person" surface="Malu Dreyer" />
+<Entity id="25" startPos="818" endPos="821" type="organization" surface="CDU" />
+<Entity id="26" startPos="841" endPos="855" type="person" surface="Julia Klöckner" />
+<Entity id="27" startPos="866" endPos="870" type="number" surface="zwei" />
+<Entity id="28" startPos="879" endPos="892" type="location" surface="Sachen-Anhalt" />
+<Entity id="29" startPos="913" endPos="916" type="organization" surface="AfD" />
+<Entity id="30" startPos="933" endPos="934" type="number" surface="8" />
+<Entity id="31" startPos="939" endPos="941" type="number" surface="16" /></Entities><Relations />
+</Document>

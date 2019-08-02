@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Ulm<NODE id="3" /> Richtung <NODE id="13" />Würzburg<NODE id="21" /> zwischen <NODE id="31" />Aalen/Oberkochen<NODE id="47" /> und <NODE id="52" />Aalen/Westhausen<NODE id="68" /> Verkehrsbehinderung beseitigt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9668cfcb-bd09-45e8-bdbe-2c8dbda16555@2016-04-26T10:03:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-26T08:03:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-26T08:42:59.54Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9668cfcb-bd09-45e8-bdbe-2c8dbda16555" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location" surface="Ulm" />
+<Entity id="1" startPos="13" endPos="21" type="location-city" surface="Würzburg" />
+<Entity id="2" startPos="31" endPos="47" type="location" surface="Aalen/Oberkochen" />
+<Entity id="3" startPos="52" endPos="68" type="location" surface="Aalen/Westhausen" /></Entities><Relations />
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Tausende<NODE id="8" /> Festnahmen und Entlassungen nach Putschversuch in der <NODE id="63" />Türkei<NODE id="69" /> https://t.co/wHwaFkEcTj
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754540965474537472" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T04:59:19Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T04:59:20.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/701445978734379009/status/754540965474537472" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="number" surface="Tausende" />
+<Entity id="1" startPos="63" endPos="69" type="location" surface="Türkei" /></Entities><Relations />
+</Document>

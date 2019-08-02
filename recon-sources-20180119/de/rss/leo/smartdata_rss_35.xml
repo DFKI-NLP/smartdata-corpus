@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A7<NODE id="2" /> <NODE id="3" />Hamburg<NODE id="10" /> Richtung <NODE id="20" />Flensburg<NODE id="29" /> zwischen <NODE id="39" />Kreuz Rendsburg<NODE id="54" /> und <NODE id="59" />Rastplatz Rade<NODE id="73" /> ist die linke Parallelfahrbahn wegen <NODE id="111" />Bergungsarbiten<NODE id="126" /> <NODE id="127" />gesperrt<NODE id="135" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#1@2016-03-28T06:48:02.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A7" />
+<Entity id="1" startPos="3" endPos="10" type="location-city" surface="Hamburg" />
+<Entity id="2" startPos="20" endPos="29" type="location-city" surface="Flensburg" />
+<Entity id="3" startPos="39" endPos="54" type="location" surface="Kreuz Rendsburg" />
+<Entity id="4" startPos="59" endPos="73" type="location" surface="Rastplatz Rade" />
+<Entity id="5" startPos="111" endPos="126" type="trigger" surface="Bergungsarbiten" />
+<Entity id="6" startPos="127" endPos="135" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="7" NAME="Obstruction">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

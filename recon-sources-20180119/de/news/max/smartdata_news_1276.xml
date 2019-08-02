@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Impressum
+Kurse werden bei Verfügbarkeit für NASDAQ, NYSE und NYSEAmex in Echtzeit angezeigt. Siehe auch Zeitverzögerungen für andere Börsen . Kurse und Informationen, die durch unabhängige Anbieter auf der Partnerseite von <NODE id="224" />Yahoo!<NODE id="230" /> Finanzen bereitgestellt wurden. Die Kurse werden automatisch aktualisiert und nach <NODE id="314" />25 Minuten<NODE id="324" /> ohne Aktivität ausgeschaltet. Die Kurse werden mit einer Verspätung von mindestens <NODE id="408" />15 Minuten<NODE id="418" /> angezeigt. Alle Angaben sind ohne Gewähr, dienen lediglich der Information und sind nicht für Handelszwecke oder als Empfehlung gedacht. Weder <NODE id="562" />Yahoo!<NODE id="568" /> noch einer der unabhängigen Anbieter können für Richtigkeit, Vollständigkeit oder Verspätungen sowie Handlungen, die durch die Nutzung der hier enthaltenen Informationen vorgenommen wurden, haftbar gemacht werden. Durch Ihren Besuch der Website von <NODE id="818" />Yahoo!<NODE id="824" /> erklären Sie sich damit einverstanden, die darauf enthaltenen Informationen nicht weiterzugeben.
+F
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://de.finance.yahoo.com/nachrichten/t-mobile-us-schraubt-prognosen-102200052.html@2016-04-26T12:22:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-26T10:22:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-26T10:55:53.053Z" />
+<feature featureName="uri" featureValue="https://de.finance.yahoo.com/nachrichten/t-mobile-us-schraubt-prognosen-102200052.html" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="224" endPos="230" type="organization-company" surface="Yahoo!" />
+<Entity id="1" startPos="314" endPos="324" type="duration" surface="25 Minuten" />
+<Entity id="2" startPos="408" endPos="418" type="duration" surface="15 Minuten" />
+<Entity id="3" startPos="562" endPos="568" type="organization-company" surface="Yahoo!" />
+<Entity id="4" startPos="818" endPos="824" type="organization-company" surface="Yahoo!" /></Entities><Relations />
+</Document>

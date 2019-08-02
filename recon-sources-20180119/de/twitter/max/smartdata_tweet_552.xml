@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />SPIEGELONLINE<NODE id="14" /> bei <NODE id="19" />özdemir<NODE id="26" /> kann ich ja gleich <NODE id="46" />fdp<NODE id="49" /> wählen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668091532432547841" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-21T15:40:08Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:04:14.121Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="14" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="19" endPos="26" type="person" surface="özdemir" />
+<Entity id="2" startPos="46" endPos="49" type="organization" surface="fdp" /></Entities><Relations />
+</Document>

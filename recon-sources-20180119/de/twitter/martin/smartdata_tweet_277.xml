@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ankunft am Flughafen in <NODE id="24" />Tokyo<NODE id="29" />. Und gleich gab es ein kleines <NODE id="61" />Erdbeben<NODE id="69" />. Was völlig neues. https://t.co/A1FMPIgwh0
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="697419757021175808" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-10T14:00:02Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T14:07:43.354Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="24" endPos="29" type="location" surface="Tokyo" />
+<Entity id="1" startPos="61" endPos="69" type="disaster-type" surface="Erdbeben" /></Entities><Relations />
+</Document>

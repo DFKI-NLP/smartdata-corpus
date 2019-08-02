@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @heuteshow: Mit der <NODE id="23" />Alternative für <NODE id="39" />Baden-Württemberg<NODE id="56" /> gibt es wieder eine #<NODE id="78" />AfD<NODE id="81" />-Abspaltung. Immerhin zur Zellteilung ist die Partei fäh…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="750702654981074945" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-06T14:47:14Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T20:20:52.202Z" />
+<feature featureName="uri" featureValue="https://twitter.com/151651999/status/750702654981074945" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="56" type="organization" surface="Alternative für Baden-Württemberg" />
+<Entity id="1" startPos="39" endPos="56" type="location" surface="Baden-Württemberg" />
+<Entity id="2" startPos="78" endPos="81" type="organization" surface="AfD" /></Entities><Relations />
+</Document>

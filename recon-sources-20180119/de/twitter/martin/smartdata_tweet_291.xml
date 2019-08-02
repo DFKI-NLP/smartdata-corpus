@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @julienco_: Noch <NODE id="20" />3,8km<NODE id="25" /> bis nach Hause .. 
+Navi sagt <NODE id="55" />37min<NODE id="60" /> weil Stau &#x1f612;
+
+-&gt; &#x1f621;&#x1f62b;&#x1f624;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666293629955268609" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-16T16:35:55Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:48:15.73Z" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="25" type="distance" surface="3,8km" />
+<Entity id="1" startPos="55" endPos="60" type="duration" surface="37min" /></Entities><Relations />
+</Document>

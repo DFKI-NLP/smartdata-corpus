@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Umwelt und Ökologie
+Autobahnmaut in <NODE id="36" />Deutschland<NODE id="47" />
+Aw:  Autobahnmaut in <NODE id="69" />Deutschland<NODE id="80" /> <NODE id="81" />31.05.2016<NODE id="91" /> <NODE id="92" />23:27<NODE id="97" /> - vor <NODE id="104" />1 Monat<NODE id="111" />, <NODE id="113" />3 Wochen<NODE id="121" />
+ 
+eppf schrieb:
+[...] Nein, unsere Marktwirtschaft bricht nicht zusammen, wenn man in <NODE id="208" />Hamburg<NODE id="215" /> einen Aufpreis für <NODE id="235" />Paulaner<NODE id="243" /> und in München einen Aufpreis für <NODE id="278" />Becks<NODE id="283" /> bezahlen muss
+Sicher, der Warenverkehr ist wichtig, aber was nur aufgrund des absoluten Spottpreises (zu geringe LKW-Maut, Hungelöhne mit Lenkzeitüberschreitung etc.) [..]
+Dieses ständige künstliche Verteuern muss endlich mal vom Tisch, ob es LKW, Auto, Fliegen oder was auch immer betrifft! Jede derartige Steuer oder Abgabe, die nicht für konkrete Linderung von Umweltschäden oder den Aufbau besserer Alternativen verwendet wird, ist nur reine Abzocke!
+In einigen <NODE id="750" />Jahrzehnten<NODE id="761" /> haben wir Solaranlagen im Weltraum, groß wie Kontinente, vielleicht Fusion und damit Energie im Überfluss.Dann sollte Autofahren so billig sein wie heute Fahrrad fahren, und hoffentlich auch
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.priusfreunde.de/portal/index.php?option=com_kunena&amp;Itemid=117&amp;func=view&amp;catid=12&amp;id=228394&amp;limit=15&amp;limitstart=990#348765@2016-07-22T16:20:58.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-22T14:20:58Z" />
+<feature featureName="indexDate" featureValue="2016-07-22T14:23:42.764Z" />
+<feature featureName="uri" featureValue="http://www.priusfreunde.de/portal/index.php?option=com_kunena&amp;Itemid=117&amp;func=view&amp;catid=12&amp;id=228394&amp;limit=15&amp;limitstart=990#348765" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="36" endPos="47" type="location" surface="Deutschland" />
+<Entity id="1" startPos="69" endPos="80" type="location" surface="Deutschland" />
+<Entity id="2" startPos="81" endPos="91" type="date" surface="31.05.2016" />
+<Entity id="3" startPos="92" endPos="97" type="time" surface="23:27" />
+<Entity id="4" startPos="104" endPos="111" type="duration" surface="1 Monat" />
+<Entity id="5" startPos="113" endPos="121" type="duration" surface="3 Wochen" />
+<Entity id="6" startPos="208" endPos="215" type="location-city" surface="Hamburg" />
+<Entity id="7" startPos="235" endPos="243" type="organization-company" surface="Paulaner" />
+<Entity id="8" startPos="278" endPos="283" type="organization-company" surface="Becks" />
+<Entity id="9" startPos="750" endPos="761" type="duration" surface="Jahrzehnten" /></Entities><Relations />
+</Document>

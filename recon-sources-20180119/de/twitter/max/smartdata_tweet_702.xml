@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Streik in <NODE id="10" />GR<NODE id="12" /> ,Schiff kommt mit <NODE id="31" />4 Std.<NODE id="37" /> Verspätung &#x1f61e;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="728566410813771776" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-06T12:45:43Z" />
+<feature featureName="indexDate" featureValue="2016-05-06T12:45:45.651Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="10" endPos="12" type="location" surface="GR" />
+<Entity id="1" startPos="31" endPos="37" type="duration" surface="4 Std." /></Entities><Relations />
+</Document>

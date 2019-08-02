@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Verkaufen
+Top Themen Heute
+Diese Aktien empfehlen die Experten zum Kauf <NODE id="72" />Steilmann<NODE id="81" /> ist <NODE id="86" />insolvent<NODE id="95" /> - Aktie verliert zeitweise über <NODE id="128" />90 %<NODE id="132" /> <NODE id="133" />IWF<NODE id="136" />: Billigöl schiebt globale Konjunktur nicht an
+   Von <NODE id="190" />Herbert Rude<NODE id="202" />
+   <NODE id="206" />FRANKFURT<NODE id="215" /> (Dow Jones)--Gewinnmitnahmen vor dem langen Osterwochenende haben die Kurse am <NODE id="295" />deutschen<NODE id="304" /> Aktienmarkt am <NODE id="320" />Donnerstag<NODE id="330" /> ins Minus gedrückt. Nachdem der Dax am <NODE id="370" />Mittwoch<NODE id="378" /> noch auf dem höchsten Stand seit dem <NODE id="416" />6. Januar<NODE id="425" /> geschlossen hatte, fiel er nun um <NODE id="460" />1,7 Prozent<NODE id="471" /> auf <NODE id="476" />9.851<NODE id="481" /> Punkte. Belastet wurde die Stimmung von der Schaukelpolitik der <NODE id="546" />US<NODE id="548" />-Geldpolitiker.
+   Die ständigen Kurswechsel der <NODE id="597" />US<NODE id="599" />-Notenbank <NODE id="610" />Fed<NODE id="613" /> helfen nicht gerade dabei, Vertrauen oder zumindest etwas Planungssicherheit für die Investoren zu schaffen, sagte <NODE id="729" />Andreas Paciorek<NODE id="745" /> von <NODE id="750" />CMC Markets<NODE id="761" />. Mehrere <NODE id="771" />Fed<NODE id="774" />-Mitglieder haben in den vergangenen Tagen eine Zinserhöhung im <NODE id="838" />April<NODE id="843" /> in den Raum gestellt. Erst in der vergangenen Woche hatten sie ein unerwartet behutsames Vorgehen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzen.net/nachricht/aktien/XETRA-SCHLUSS-Schwach-Steilmann-entsetzt-und-Wincor-fliegen-4798091@2016-03-24T17:58:33.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-24T16:58:33Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T17:22:00.907Z" />
+<feature featureName="uri" featureValue="http://www.finanzen.net/nachricht/aktien/XETRA-SCHLUSS-Schwach-Steilmann-entsetzt-und-Wincor-fliegen-4798091" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="72" endPos="81" type="organization-company" surface="Steilmann" />
+<Entity id="1" startPos="86" endPos="95" type="trigger" surface="insolvent" />
+<Entity id="2" startPos="128" endPos="132" type="number" surface="90 %" />
+<Entity id="3" startPos="133" endPos="136" type="organization" surface="IWF" />
+<Entity id="4" startPos="190" endPos="202" type="person" surface="Herbert Rude" />
+<Entity id="5" startPos="206" endPos="215" type="location-city" surface="FRANKFURT" />
+<Entity id="6" startPos="295" endPos="304" type="location" surface="deutschen" />
+<Entity id="7" startPos="320" endPos="330" type="date" surface="Donnerstag" />
+<Entity id="8" startPos="370" endPos="378" type="date" surface="Mittwoch" />
+<Entity id="9" startPos="416" endPos="425" type="date" surface="6. Januar" />
+<Entity id="10" startPos="460" endPos="471" type="number" surface="1,7 Prozent" />
+<Entity id="11" startPos="476" endPos="481" type="number" surface="9.851" />
+<Entity id="12" startPos="546" endPos="548" type="location" surface="US" />
+<Entity id="13" startPos="597" endPos="599" type="location" surface="US" />
+<Entity id="14" startPos="610" endPos="613" type="organization-company" surface="Fed" />
+<Entity id="15" startPos="729" endPos="745" type="person" surface="Andreas Paciorek" />
+<Entity id="16" startPos="750" endPos="761" type="organization-company" surface="CMC Markets" />
+<Entity id="17" startPos="771" endPos="774" type="organization" surface="Fed" />
+<Entity id="18" startPos="838" endPos="843" type="date" surface="April" /></Entities><Relations>
+<Relation id="19" NAME="Insolvency">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

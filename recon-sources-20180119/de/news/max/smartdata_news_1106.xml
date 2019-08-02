@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>E-Mail  
+<NODE id="9" />8<NODE id="10" /> Bilder ansehen
+<NODE id="26" />Bad Aibling<NODE id="37" /> - Ein Fehlverhalten des Fahrdienstleiters ist nach Erkenntnissen der Ermittler die Ursache für das <NODE id="137" />Zugunglück<NODE id="147" /> von <NODE id="152" />Bad Aibling<NODE id="163" /> mit <NODE id="168" />11<NODE id="170" /> Todesopfern.
+Gegen den <NODE id="194" />39-Jährigen<NODE id="205" /> sei ein Ermittlungsverfahren wegen fahrlässiger Tötung und fahrlässiger Körperverletzung sowie wegen gefährlichen Eingriffs in den Bahnverkehr eingeleitet worden, hieß es bei einer Pressekonferenz. Der Frontalzusammenstoß <NODE id="428" />zweier<NODE id="434" /> Züge am <NODE id="443" />Faschingsdienstag<NODE id="460" /> gilt als eines der schwersten Bahnunglücke <NODE id="504" />Deutschlands<NODE id="516" />.
+Was wir momentan haben, ist ein furchtbares Einzelversagen, sagte der <NODE id="588" />Traunsteiner<NODE id="600" /> Oberstaatsanwalt <NODE id="618" />Jürgen Branz<NODE id="630" /> in <NODE id="634" />Bad Aibling<NODE id="645" />. Hätte er sich regelgemäß, also pflichtgerecht, verhalten, wäre es nicht zum Zusammenstoß gekommen, erläuterte der Leitende Oberstaatsanwalt <NODE id="787" />Wolfgang Giese<NODE id="801" />. Genaue Angaben zu den Ereignissen machte er jedoch nicht.
+Nach bisherigen Erkenntnissen hatte der Zug, der von <NODE id="914" />Holzkirchen<NODE id="925" /> Richtung Rosen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.stuttgarter-nachrichten.de/inhalt.deutschland-fahrdienstleiter-loeste-zugunglueck-von-bad-aibling-aus.63dd1f2c-f9d9-4123-8d21-ec60ce22bba9.html@2016-02-16T17:22:40.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-16T16:22:40Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:42:41.93Z" />
+<feature featureName="uri" featureValue="http://www.stuttgarter-nachrichten.de/inhalt.deutschland-fahrdienstleiter-loeste-zugunglueck-von-bad-aibling-aus.63dd1f2c-f9d9-4123-8d21-ec60ce22bba9.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="10" type="number" surface="8" />
+<Entity id="1" startPos="26" endPos="37" type="location-city" surface="Bad Aibling" />
+<Entity id="2" startPos="137" endPos="147" type="disaster-type" surface="Zugunglück" />
+<Entity id="3" startPos="152" endPos="163" type="location-city" surface="Bad Aibling" />
+<Entity id="4" startPos="168" endPos="170" type="number" surface="11" />
+<Entity id="5" startPos="194" endPos="205" type="number" surface="39-Jährigen" />
+<Entity id="6" startPos="428" endPos="434" type="number" surface="zweier" />
+<Entity id="7" startPos="443" endPos="460" type="date" surface="Faschingsdienstag" />
+<Entity id="8" startPos="504" endPos="516" type="location" surface="Deutschlands" />
+<Entity id="9" startPos="588" endPos="600" type="location-city" surface="Traunsteiner" />
+<Entity id="10" startPos="618" endPos="630" type="person" surface="Jürgen Branz" />
+<Entity id="11" startPos="634" endPos="645" type="location-city" surface="Bad Aibling" />
+<Entity id="12" startPos="787" endPos="801" type="person" surface="Wolfgang Giese" />
+<Entity id="13" startPos="914" endPos="925" type="location-city" surface="Holzkirchen" /></Entities><Relations>
+<Relation id="14" NAME="Disaster">
+<Entity id="3" label="location" />
+<Entity id="2" label="type" />
+<Entity id="4" label="victims" />
+</Relation></Relations>
+</Document>

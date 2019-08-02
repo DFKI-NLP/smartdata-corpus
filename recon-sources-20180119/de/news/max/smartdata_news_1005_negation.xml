@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />DZ Bank <NODE id="8" />startet <NODE id="16" />Vonovia<NODE id="23" /> mit 'Kaufen' - Fairer Wert <NODE id="51" />33 Euro<NODE id="58" />
+Die <NODE id="63" />DZ Bank<NODE id="70" /> hat <NODE id="75" />Vonovia<NODE id="82" /> mit Kaufen und einem fairen Wert von <NODE id="120" />33 Euro<NODE id="127" /> in die Bewertung aufgenommen. Das Immobilienunternehmen sei trotz der gescheiterten Übernahme des Konkurrenten <NODE id="239" />Deutsche Wohnen<NODE id="254" /> auf einem intakten Wachstumspfad, schrieb Analyst <NODE id="305" />Karsten Oblinger<NODE id="321" /> in einer Studie vom <NODE id="342" />Freitag<NODE id="349" />./gl/das
+AFA0049    <NODE id="369" />2016-03-11<NODE id="379" />/<NODE id="380" />13:28<NODE id="385" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanznachrichten.de/nachrichten-2016-03/36741341-dz-bank-startet-vonovia-mit-kaufen-fairer-wert-33-euro-322.htm@2016-03-11T13:31:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T12:31:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T00:14:41.93Z" />
+<feature featureName="uri" featureValue="http://www.finanznachrichten.de/nachrichten-2016-03/36741341-dz-bank-startet-vonovia-mit-kaufen-fairer-wert-33-euro-322.htm" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="organization-company" surface="DZ Bank " />
+<Entity id="1" startPos="16" endPos="23" type="organization-company" surface="Vonovia" />
+<Entity id="2" startPos="51" endPos="58" type="number" surface="33 Euro" />
+<Entity id="3" startPos="63" endPos="70" type="organization-company" surface="DZ Bank" />
+<Entity id="4" startPos="75" endPos="82" type="organization-company" surface="Vonovia" />
+<Entity id="5" startPos="120" endPos="127" type="number" surface="33 Euro" />
+<Entity id="6" startPos="239" endPos="254" type="organization-company" surface="Deutsche Wohnen" />
+<Entity id="7" startPos="305" endPos="321" type="person" surface="Karsten Oblinger" />
+<Entity id="8" startPos="342" endPos="349" type="date" surface="Freitag" />
+<Entity id="9" startPos="369" endPos="379" type="date" surface="2016-03-11" />
+<Entity id="10" startPos="380" endPos="385" type="date" surface="13:28" /></Entities><Relations />
+</Document>

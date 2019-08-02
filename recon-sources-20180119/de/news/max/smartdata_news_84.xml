@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />U 2<NODE id="3" /> am <NODE id="7" />Alexanderplatz<NODE id="21" /> : Risse im U-Bahn-Tunnel, Wasser dringt ein
+Der Feind sei schwächer geworden und nun in der Defensive, schrieb Heeresoberst <NODE id="146" />Steve Warren<NODE id="158" /> im Kurznachrichtendienst <NODE id="184" />Twitter<NODE id="191" />. Der <NODE id="197" />IS<NODE id="199" /> habe seit <NODE id="210" />Mai<NODE id="213" /> im <NODE id="217" />Irak<NODE id="221" /> keinen Boden mehr gewonnen. Die <NODE id="254" />USA<NODE id="257" /> kämpfen mit einer Reihe anderer Länder gegen den <NODE id="307" />IS<NODE id="309" /> und versuchen, dessen Ausbreitung in <NODE id="347" />Syrien<NODE id="353" /> und im <NODE id="361" />Irak<NODE id="365" /> rückgängig zu machen.
+Der militärische Branchendienst <NODE id="420" />IHS Jane's Conflict Monitor<NODE id="447" /> hatte bereits <NODE id="462" />vor zwei Wochen<NODE id="477" /> eine Schätzung verbreitet, derzufolge die Terrormiliz <NODE id="532" />2015<NODE id="536" /> trotz einiger aufsehenerregender Erfolge in <NODE id="581" />Syrien<NODE id="587" /> und im <NODE id="595" />Irak<NODE id="599" /> große Gebietsverluste erlitten hat. Das Herrschaftsgebiet der Dschihadisten schrumpfte demnach von <NODE id="699" />Januar<NODE id="705" /> bis <NODE id="710" />Anfang Dezember<NODE id="725" /> um etwa <NODE id="734" />14 Prozen t<NODE id="745" />.
+Der <NODE id="751" />IS<NODE id="753" /> hatte im Sommer <NODE id="770" />2014<NODE id="774" /> große Teile <NODE id="787" />Syriens<NODE id="794" /> und des <NODE id="803" />Nordiraks<NODE id="812" /> erobert. In den von ihnen kontrollierten Gebieten proklamierten die Dschihadisten islamisches Schariarecht und verüben immer wieder Gr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.tagesspiegel.de/politik/terrormiliz-in-nahost-usa-melden-grosse-erfolge-im-kampf-gegen-is/12795748.html@2016-03-10T13:26:49.403+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.tagesspiegel.de/politik/terrormiliz-in-nahost-usa-melden-grosse-erfolge-im-kampf-gegen-is/12795748.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-route" surface="U 2" />
+<Entity id="1" startPos="7" endPos="21" type="location" surface="Alexanderplatz" />
+<Entity id="2" startPos="146" endPos="158" type="person" surface="Steve Warren" />
+<Entity id="3" startPos="184" endPos="191" type="organization-company" surface="Twitter" />
+<Entity id="4" startPos="197" endPos="199" type="organization" surface="IS" />
+<Entity id="5" startPos="210" endPos="213" type="date" surface="Mai" />
+<Entity id="6" startPos="217" endPos="221" type="location" surface="Irak" />
+<Entity id="7" startPos="254" endPos="257" type="location" surface="USA" />
+<Entity id="8" startPos="307" endPos="309" type="organization" surface="IS" />
+<Entity id="9" startPos="347" endPos="353" type="location" surface="Syrien" />
+<Entity id="10" startPos="361" endPos="365" type="location" surface="Irak" />
+<Entity id="11" startPos="420" endPos="447" type="organization-company" surface="IHS Jane's Conflict Monitor" />
+<Entity id="12" startPos="462" endPos="477" type="date" surface="vor zwei Wochen" />
+<Entity id="13" startPos="532" endPos="536" type="date" surface="2015" />
+<Entity id="14" startPos="581" endPos="587" type="location" surface="Syrien" />
+<Entity id="15" startPos="595" endPos="599" type="location" surface="Irak" />
+<Entity id="16" startPos="699" endPos="705" type="date" surface="Januar" />
+<Entity id="17" startPos="710" endPos="725" type="date" surface="Anfang Dezember" />
+<Entity id="18" startPos="734" endPos="745" type="number" surface="14 Prozen t" />
+<Entity id="19" startPos="751" endPos="753" type="organization" surface="IS" />
+<Entity id="20" startPos="770" endPos="774" type="date" surface="2014" />
+<Entity id="21" startPos="787" endPos="794" type="location" surface="Syriens" />
+<Entity id="22" startPos="803" endPos="812" type="location" surface="Nordiraks" /></Entities><Relations />
+</Document>

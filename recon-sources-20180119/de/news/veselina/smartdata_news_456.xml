@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Top-News: Das ist heute passiert<NODE id="32" />
+<NODE id="33" />Deutsche<NODE id="41" /> Tornados sorgen in <NODE id="61" />Syrien<NODE id="67" /> für Aufklärung<NODE id="82" />
+<NODE id="83" />© imago<NODE id="90" />/<NODE id="91" />Christian Thiel<NODE id="106" />
+<NODE id="107" />Nachrichten heute: <NODE id="126" />Syrien<NODE id="132" />-Einsatz, Anonymous-Aktion, <NODE id="160" />Berliner<NODE id="168" /> Flüchtlingschaos<NODE id="185" />
+<NODE id="186" />Donnerstag, 10. Dezember 2015: Die wichtigsten Meldungen des Tages im Überblick.<NODE id="266" />
+<NODE id="267" />Deutsches <NODE id="277" />Syrien<NODE id="283" />-Einsatz soll rechtswidrig sein<NODE id="314" />
+<NODE id="315" />Ein Rechtsgutachten für die Linke im Bundestag kommt zu dem Schluss, dass der <NODE id="393" />Syrien<NODE id="399" /> -Einsatz der Bundeswehr rechtswidrig ist.<NODE id="441" /> <NODE id="442" />Die von der Bundesregierung in Anspruch genommene rechtliche Begründung für die Entsendung deutscher Streitkräfte nach <NODE id="561" />Syrien<NODE id="567" /> ist unhaltbar, heißt es in dem 11-seitigen Papier.<NODE id="618" />
+<NODE id="619" />Der ganze Artikel: Juristisches Gutachten nennt Tornado-Einsatz rechtswidrig<NODE id="695" />
+<NODE id="696" />Flüchtlingschaos in <NODE id="716" />Berlin<NODE id="722" />: <NODE id="724" />Lageso<NODE id="730" />-Chef tritt zurück<NODE id="748" />
+<NODE id="749" />Der erzwungene Rücktritt des Flüchtlingsamts-Chefs von <NODE id="804" />Berlin<NODE id="810" /> hat den seit Monaten schwelenden Konflikt in der Landeskoalition noch verschärft.<NODE id="892" /> <NODE id="893" />CDU<NODE id="896" />-Fraktionsvize <NODE id="911" />Stefan<NODE id="917" /> 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.gmx.at/magazine/news/nachrichten-071215-31191628@2016-03-11T02:09:15.732+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T01:09:15.732Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T01:09:23.483Z" />
+<feature featureName="uri" featureValue="http://www.gmx.at/magazine/news/nachrichten-071215-31191628" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="32" type="sentence" surface="Top-News: Das ist heute passiert" />
+<Entity id="1" startPos="33" endPos="41" type="location" surface="Deutsche" />
+<Entity id="2" startPos="33" endPos="82" type="sentence" surface="Deutsche Tornados sorgen in Syrien für Aufklärung" />
+<Entity id="3" startPos="61" endPos="67" type="location" surface="Syrien" />
+<Entity id="4" startPos="83" endPos="90" type="organization-company" surface="© imago" />
+<Entity id="5" startPos="83" endPos="106" type="sentence" surface="© imago/Christian Thiel" />
+<Entity id="6" startPos="91" endPos="106" type="person" surface="Christian Thiel" />
+<Entity id="7" startPos="107" endPos="185" type="sentence" surface="Nachrichten heute: Syrien-Einsatz, Anonymous-Aktion, Berliner Flüchtlingschaos" />
+<Entity id="8" startPos="126" endPos="132" type="location" surface="Syrien" />
+<Entity id="9" startPos="160" endPos="168" type="location-city" surface="Berliner" />
+<Entity id="10" startPos="186" endPos="266" type="sentence" surface="Donnerstag, 10. Dezember 2015: Die wichtigsten Meldungen des Tages im Überblick." />
+<Entity id="11" startPos="267" endPos="314" type="sentence" surface="Deutsches Syrien-Einsatz soll rechtswidrig sein" />
+<Entity id="12" startPos="277" endPos="283" type="location" surface="Syrien" />
+<Entity id="13" startPos="315" endPos="441" type="sentence" surface="Ein Rechtsgutachten für die Linke im Bundestag kommt zu dem Schluss, dass der Syrien -Einsatz der Bundeswehr rechtswidrig ist." />
+<Entity id="14" startPos="393" endPos="399" type="location" surface="Syrien" />
+<Entity id="15" startPos="442" endPos="618" type="sentence" surface="Die von der Bundesregierung in Anspruch genommene rechtliche Begründung für die Entsendung deutscher Streitkräfte nach Syrien ist unhaltbar, heißt es in dem 11-seitigen Papier." />
+<Entity id="16" startPos="561" endPos="567" type="location" surface="Syrien" />
+<Entity id="17" startPos="619" endPos="695" type="sentence" surface="Der ganze Artikel: Juristisches Gutachten nennt Tornado-Einsatz rechtswidrig" />
+<Entity id="18" startPos="696" endPos="748" type="sentence" surface="Flüchtlingschaos in Berlin: Lageso-Chef tritt zurück" />
+<Entity id="19" startPos="716" endPos="722" type="location-city" surface="Berlin" />
+<Entity id="20" startPos="724" endPos="730" type="organization-company" surface="Lageso" />
+<Entity id="21" startPos="749" endPos="892" type="sentence" surface="Der erzwungene Rücktritt des Flüchtlingsamts-Chefs von Berlin hat den seit Monaten schwelenden Konflikt in der Landeskoalition noch verschärft." />
+<Entity id="22" startPos="804" endPos="810" type="location-city" surface="Berlin" />
+<Entity id="23" startPos="893" endPos="896" type="organization" surface="CDU" />
+<Entity id="24" startPos="893" endPos="917" type="sentence" surface="CDU-Fraktionsvize Stefan" />
+<Entity id="25" startPos="911" endPos="917" type="person" surface="Stefan" /></Entities><Relations />
+</Document>

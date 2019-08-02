@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ein Anziehungspunkt für Kunstliebhaber in <NODE id="42" />Halle<NODE id="47" /> und die ehemaligen Residenz der Herzöge... mehr
+Das Land schaut nach <NODE id="117" />Köthen<NODE id="123" /> <NODE id="124" />Sachsen-Anhalt<NODE id="138" />-Tag <NODE id="143" />2015<NODE id="147" />
+Vom <NODE id="152" />29. <NODE id="156" />bis <NODE id="160" />31. Mai 2015<NODE id="172" /> ist <NODE id="177" />Köthen<NODE id="183" /> Gastgeber des <NODE id="198" />Sachsen-Anhalt<NODE id="212" />-Tages und feiert zudem... mehr
+News und Informationen zum Weihnachtsmarkt in <NODE id="290" />Aschersleben<NODE id="302" /> Weihnachtsmarkt in <NODE id="322" />Aschersleben<NODE id="334" />
+Der <NODE id="339" />Aschersleber<NODE id="351" /> Weihnachtsmarkt lädt vom <NODE id="377" />27.<NODE id="380" /> November bis <NODE id="394" />20. Dezember 2015<NODE id="411" /> in die... mehr
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nachrichten.de/panorama/Sachsen-Anhalt-Hochwasser-Polder-Hermann-Onko-Aeikens-Magdeburg-cid_2372408/@2016-02-23T18:37:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T17:37:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:41:31.939Z" />
+<feature featureName="uri" featureValue="http://www.nachrichten.de/panorama/Sachsen-Anhalt-Hochwasser-Polder-Hermann-Onko-Aeikens-Magdeburg-cid_2372408/" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="42" endPos="47" type="location-city" surface="Halle" />
+<Entity id="1" startPos="117" endPos="123" type="location-city" surface="Köthen" />
+<Entity id="2" startPos="124" endPos="138" type="location" surface="Sachsen-Anhalt" />
+<Entity id="3" startPos="143" endPos="147" type="date" surface="2015" />
+<Entity id="4" startPos="152" endPos="156" type="date" surface="29. " />
+<Entity id="5" startPos="160" endPos="172" type="date" surface="31. Mai 2015" />
+<Entity id="6" startPos="177" endPos="183" type="location-city" surface="Köthen" />
+<Entity id="7" startPos="198" endPos="212" type="location" surface="Sachsen-Anhalt" />
+<Entity id="8" startPos="290" endPos="302" type="location-city" surface="Aschersleben" />
+<Entity id="9" startPos="322" endPos="334" type="location-city" surface="Aschersleben" />
+<Entity id="10" startPos="339" endPos="351" type="location-city" surface="Aschersleber" />
+<Entity id="11" startPos="377" endPos="380" type="date" surface="27." />
+<Entity id="12" startPos="394" endPos="411" type="date" surface="20. Dezember 2015" /></Entities><Relations />
+</Document>

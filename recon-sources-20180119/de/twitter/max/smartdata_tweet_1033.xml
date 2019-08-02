@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Bank Austria<NODE id="12" /> baut bei <NODE id="22" />Personalabbau<NODE id="35" /> auf freiwillige Kündigungen https://t.co/Lpj0TrR6vn Die Zahl der vom Abbau betroffenen Mitarbeiter ist…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="748531779406016512" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-30T15:00:57Z" />
+<feature featureName="indexDate" featureValue="2016-06-30T15:01:04.035Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2800115239/status/748531779406016512" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="organization-company" surface="Bank Austria" />
+<Entity id="1" startPos="22" endPos="35" type="trigger" surface="Personalabbau" /></Entities><Relations>
+<Relation id="2" NAME="Layoffs">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

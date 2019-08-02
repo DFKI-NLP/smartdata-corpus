@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Anheuser-Busch<NODE id="14" />-<NODE id="15" />Miller<NODE id="21" /> <NODE id="22" />Merger<NODE id="28" /> Wins <NODE id="34" />U.S.<NODE id="38" /> Antitrust Approval https://t.co/BkbLHcBvUM
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755907058680094720" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-20T23:27:41Z" />
+<feature featureName="indexDate" featureValue="2016-07-20T23:27:45.045Z" />
+<feature featureName="uri" featureValue="https://twitter.com/750225382465568768/status/755907058680094720" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="organization-company" surface="Anheuser-Busch" />
+<Entity id="1" startPos="15" endPos="21" type="organization-company" surface="Miller" />
+<Entity id="2" startPos="22" endPos="28" type="trigger" surface="Merger" />
+<Entity id="3" startPos="34" endPos="38" type="location" surface="U.S." /></Entities><Relations>
+<Relation id="4" NAME="Merger">
+<Entity id="0" label="old" />
+<Entity id="1" label="old" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

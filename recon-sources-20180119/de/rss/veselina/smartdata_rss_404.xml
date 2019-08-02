@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A39<NODE id="26" /> <NODE id="27" />Braunschweig<NODE id="39" /> Richtung <NODE id="49" />Wolfsburg<NODE id="58" /> zwischen <NODE id="68" />Wolfsburg-Mörse<NODE id="83" /> und <NODE id="88" />Fallersleben<NODE id="100" /> befindet sich eine ungesicherte <NODE id="133" />Unfallstelle<NODE id="145" />!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#3@2016-04-10T03:20:07.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-10T01:20:07Z" />
+<feature featureName="indexDate" featureValue="2016-04-10T01:23:35.197Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="26" type="location-street" surface="A39" />
+<Entity id="1" startPos="27" endPos="39" type="location-city" surface="Braunschweig" />
+<Entity id="2" startPos="49" endPos="58" type="location-city" surface="Wolfsburg" />
+<Entity id="3" startPos="68" endPos="83" type="location" surface="Wolfsburg-Mörse" />
+<Entity id="4" startPos="88" endPos="100" type="location" surface="Fallersleben" />
+<Entity id="5" startPos="133" endPos="145" type="trigger" surface="Unfallstelle" /></Entities><Relations>
+<Relation id="6" NAME="Accident">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

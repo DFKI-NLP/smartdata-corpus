@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />windmesse_de<NODE id="16" />: <NODE id="18" />Siemens<NODE id="25" /> und <NODE id="30" />Gamesa<NODE id="36" /> wollen <NODE id="44" />Windgeschäfte<NODE id="57" /> <NODE id="58" />fusionieren<NODE id="69" /> und führenden Windkraftanbieter schaffen #windenergy https://t.co/wtX…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743788813621792768" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T12:54:06Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T12:54:10.08Z" />
+<feature featureName="uri" featureValue="https://twitter.com/renewablemarket.in/status/743788813621792768" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="16" type="organization" surface="windmesse_de" />
+<Entity id="1" startPos="18" endPos="25" type="organization-company" surface="Siemens" />
+<Entity id="2" startPos="30" endPos="36" type="organization-company" surface="Gamesa" />
+<Entity id="3" startPos="44" endPos="57" type="organization-company" surface="Windgeschäfte" />
+<Entity id="4" startPos="58" endPos="69" type="trigger" surface="fusionieren" /></Entities><Relations />
+</Document>

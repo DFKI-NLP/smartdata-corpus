@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sie sind hier: Startseite » Nachrichten » Politik »
+Landesweite Streiks in <NODE id="75" />Griechenland<NODE id="87" />
+ Versenden
+Landesweite Streiks in <NODE id="122" />Griechenland<NODE id="134" /> - keine Flüge
+<NODE id="149" />Athen<NODE id="154" /> (<NODE id="156" />dpa<NODE id="159" />) - <NODE id="163" />Griechenland<NODE id="175" /> steht wegen eines landesweiten Streiks aus Protest gegen geplante Rentenkürzungen weitgehend still. Dem <NODE id="280" />Ausstand<NODE id="288" />, zu dem die <NODE id="301" />Gewerkschaft der Staatsdiensteten Griechenlands<NODE id="348" /> (<NODE id="350" />ADEDY<NODE id="355" />) aufgerufen hatte, schlossen sich auch die <NODE id="399" />Fluglotsen<NODE id="409" /> an.
+Wie leer gefegt ist der internationale <NODE id="453" />Flughafen Eleftherios Venizelos<NODE id="484" /> in <NODE id="488" />Athen<NODE id="493" />. <NODE id="495" />Griechenland<NODE id="507" /> bestreikt die Regierung wegen den geplanten Rentenkürzungen. Foto: <NODE id="575" />Friso Gentsch<NODE id="588" />/Archiv
+© <NODE id="598" />dpa<NODE id="601" />
+So ruht heute der gesamte Flugverkehr von und nach <NODE id="653" />Griechenland<NODE id="665" />, während im Land selbst Ministerien, Steuerämter und andere Behörden bestreikt werden. Auch die Lehrer wollen die Arbeit niederlegen. Im Radio und Fernsehen werde es keine Nachrichten geben, teilte die Gewerkschaft der Journalisten des Landes mit.
+Zurzeit verhandelt <NODE id="933" />Athen<NODE id="938" /> mit seien Gläubigern üb
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.giessener-allgemeine.de/Home/Nachrichten/Politik/Artikel,-Landesweite-Streiks-in-Griechenland-_arid,636399_regid,1_puid,1_pageid,10.html@2016-04-07T09:18:01.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-07T07:18:01Z" />
+<feature featureName="indexDate" featureValue="2016-04-07T07:49:46.693Z" />
+<feature featureName="uri" featureValue="http://www.giessener-allgemeine.de/Home/Nachrichten/Politik/Artikel,-Landesweite-Streiks-in-Griechenland-_arid,636399_regid,1_puid,1_pageid,10.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="75" endPos="87" type="location" surface="Griechenland" />
+<Entity id="1" startPos="122" endPos="134" type="location" surface="Griechenland" />
+<Entity id="2" startPos="149" endPos="154" type="location-city" surface="Athen" />
+<Entity id="3" startPos="156" endPos="159" type="organization-company" surface="dpa" />
+<Entity id="4" startPos="163" endPos="175" type="location" surface="Griechenland" />
+<Entity id="5" startPos="280" endPos="288" type="trigger" surface="Ausstand" />
+<Entity id="6" startPos="301" endPos="348" type="organization" surface="Gewerkschaft der Staatsdiensteten Griechenlands" />
+<Entity id="7" startPos="350" endPos="355" type="organization" surface="ADEDY" />
+<Entity id="8" startPos="399" endPos="409" type="person" surface="Fluglotsen" />
+<Entity id="9" startPos="453" endPos="484" type="location" surface="Flughafen Eleftherios Venizelos" />
+<Entity id="10" startPos="488" endPos="493" type="location-city" surface="Athen" />
+<Entity id="11" startPos="495" endPos="507" type="location" surface="Griechenland" />
+<Entity id="12" startPos="575" endPos="588" type="person" surface="Friso Gentsch" />
+<Entity id="13" startPos="598" endPos="601" type="organization-company" surface="dpa" />
+<Entity id="14" startPos="653" endPos="665" type="location" surface="Griechenland" />
+<Entity id="15" startPos="933" endPos="938" type="location-city" surface="Athen" /></Entities><Relations>
+<Relation id="16" NAME="Strike">
+<Entity id="8" label="striker" />
+<Entity id="7" label="company" />
+<Entity id="5" label="trigger" />
+<Entity id="6" label="union" />
+</Relation></Relations>
+</Document>

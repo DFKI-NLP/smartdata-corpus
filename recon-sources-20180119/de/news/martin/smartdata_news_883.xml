@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>&gt; <NODE id="2" />OTS<NODE id="5" />: <NODE id="7" />Hamburger Sparkasse<NODE id="26" /> / <NODE id="29" />Haspa<NODE id="34" /> gewinnt <NODE id="43" />70.000<NODE id="49" /> neue Kunden
+<NODE id="62" />OTS<NODE id="65" />: <NODE id="67" />Hamburger Sparkasse<NODE id="86" /> / <NODE id="89" />Haspa<NODE id="94" /> gewinnt <NODE id="103" />70.000<NODE id="109" /> neue Kunden
+<NODE id="122" />heute<NODE id="127" />, <NODE id="129" />11:01<NODE id="134" />
+<NODE id="135" />dpa-AFX<NODE id="142" />
+<NODE id="143" />Haspa<NODE id="148" /> gewinnt <NODE id="157" />70.000<NODE id="163" /> neue Kunden <NODE id="176" />Hamburg<NODE id="183" /> (<NODE id="185" />ots<NODE id="188" />) -
+- Jahresergebnis erreicht mit <NODE id="222" />80 Mio. Euro<NODE id="234" /> den Vorjahreswert - Anstieg der Kundeneinlagen um über <NODE id="290" />1 Mrd. Euro<NODE id="301" /> - Neukreditvergabe steigt auf <NODE id="332" />6,4 Mrd. Euro<NODE id="345" /> - Baufinanzierungs-Neuzusagen legen um ein Drittel zu - <NODE id="402" />HaspaJoker<NODE id="412" /> mit <NODE id="417" />648.000<NODE id="424" /> Konten erfolgreichstes Mehrwertbanking Programm Europas - Ausbau zur persönlichsten Multikanalbank in <NODE id="527" />Hamburg<NODE id="534" /> - Kostenloses WLAN in Filialen
+Die <NODE id="570" />Hamburger Sparkasse AG (Haspa)<NODE id="600" /> hat <NODE id="605" />2015<NODE id="609" /> ihre Marktführerschaft in der Metropolregion weiter ausgebaut und die Entwicklung zur persönlichsten Multikanalbank in <NODE id="729" />Hamburg<NODE id="736" /> vorangetrieben. Sie gewann <NODE id="764" />70.000<NODE id="770" /> Neukunden und steigerte ihre Kundeneinlagen ebenso wie die Kreditvergabe. Das Jahresergebnis erreichte trotz des herausfordernden Umfeldes und zusätzlicher Belastungen mit 8
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.onvista.de/news/ots-hamburger-sparkasse-haspa-gewinnt-70-000-neue-kunden-26417457@2016-02-29T11:01:23.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-29T10:01:23Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:11:12.951Z" />
+<feature featureName="uri" featureValue="http://www.onvista.de/news/ots-hamburger-sparkasse-haspa-gewinnt-70-000-neue-kunden-26417457" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="2" endPos="5" type="organization-company" surface="OTS" />
+<Entity id="1" startPos="7" endPos="26" type="organization-company" surface="Hamburger Sparkasse" />
+<Entity id="2" startPos="29" endPos="34" type="organization-company" surface="Haspa" />
+<Entity id="3" startPos="43" endPos="49" type="number" surface="70.000" />
+<Entity id="4" startPos="62" endPos="65" type="organization-company" surface="OTS" />
+<Entity id="5" startPos="67" endPos="86" type="organization-company" surface="Hamburger Sparkasse" />
+<Entity id="6" startPos="89" endPos="94" type="organization-company" surface="Haspa" />
+<Entity id="7" startPos="103" endPos="109" type="number" surface="70.000" />
+<Entity id="8" startPos="122" endPos="127" type="date" surface="heute" />
+<Entity id="9" startPos="129" endPos="134" type="time" surface="11:01" />
+<Entity id="10" startPos="135" endPos="142" type="organization-company" surface="dpa-AFX" />
+<Entity id="11" startPos="143" endPos="148" type="organization-company" surface="Haspa" />
+<Entity id="12" startPos="157" endPos="163" type="number" surface="70.000" />
+<Entity id="13" startPos="176" endPos="183" type="location" surface="Hamburg" />
+<Entity id="14" startPos="185" endPos="188" type="organization-company" surface="ots" />
+<Entity id="15" startPos="222" endPos="234" type="number" surface="80 Mio. Euro" />
+<Entity id="16" startPos="290" endPos="301" type="number" surface="1 Mrd. Euro" />
+<Entity id="17" startPos="332" endPos="345" type="number" surface="6,4 Mrd. Euro" />
+<Entity id="18" startPos="402" endPos="412" type="product" surface="HaspaJoker" />
+<Entity id="19" startPos="417" endPos="424" type="number" surface="648.000" />
+<Entity id="20" startPos="527" endPos="534" type="location-city" surface="Hamburg" />
+<Entity id="21" startPos="570" endPos="600" type="organization-company" surface="Hamburger Sparkasse AG (Haspa)" />
+<Entity id="22" startPos="605" endPos="609" type="date" surface="2015" />
+<Entity id="23" startPos="729" endPos="736" type="location-city" surface="Hamburg" />
+<Entity id="24" startPos="764" endPos="770" type="number" surface="70.000" /></Entities><Relations />
+</Document>

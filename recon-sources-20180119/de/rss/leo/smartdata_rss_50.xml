@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>In <NODE id="3" />Meldorf<NODE id="10" /> ist der <NODE id="19" />Weiderbaum<NODE id="29" /> wegen eines <NODE id="42" />Wasserrohrbruchs<NODE id="58" /> in <NODE id="62" />beiden Richtungen<NODE id="79" /> <NODE id="80" />gesperrt<NODE id="88" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#52@2016-03-18T11:15:24.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="10" type="location-city" surface="Meldorf" />
+<Entity id="1" startPos="19" endPos="29" type="location-street" surface="Weiderbaum" />
+<Entity id="2" startPos="42" endPos="58" type="trigger" surface="Wasserrohrbruchs" />
+<Entity id="3" startPos="62" endPos="79" type="location" surface="beiden Richtungen" />
+<Entity id="4" startPos="80" endPos="88" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="5" NAME="Obstruction">
+<Entity id="2" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="4" label="trigger" />
+<Entity id="3" label="direction" />
+</Relation></Relations>
+</Document>

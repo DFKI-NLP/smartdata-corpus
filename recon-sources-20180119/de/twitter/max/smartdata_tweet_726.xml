@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />Obereisesheim<NODE id="14" /> in der <NODE id="22" />wimpfenerstrase<NODE id="37" /> wird beidseitig gebiltz <NODE id="62" />30<NODE id="64" /> erlaubt.... #Blitzer<NODE id="85" />Obereisesheim<NODE id="98" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669459015819247616" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-25T10:14:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:12:55.73Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="14" type="location-city" surface="Obereisesheim" />
+<Entity id="1" startPos="22" endPos="37" type="location-street" surface="wimpfenerstrase" />
+<Entity id="2" startPos="62" endPos="64" type="number" surface="30" />
+<Entity id="3" startPos="85" endPos="98" type="location-city" surface="Obereisesheim" /></Entities><Relations />
+</Document>

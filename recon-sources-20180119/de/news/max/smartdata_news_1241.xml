@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Support
+Budget
+Geplante künftige Einnahmen und Ausgaben während eines bestimmten Zeitraums (Finanzbudget). Bei einem Erfolgsbudget werden die geplanten künftigen Kosten und Erlöse bzw. der geplante Aufwand und Ertrag einander gegenübergestellt.
+SIX
+<NODE id="249" />1995<NODE id="253" /> aus dem Zusammenschluss der <NODE id="282" />Börsen Genf<NODE id="293" />, <NODE id="295" />Basel<NODE id="300" /> und <NODE id="305" />Zürich<NODE id="311" /> entstandener <NODE id="325" />Schweizer<NODE id="334" /> Markt. Seit <NODE id="347" />August 1996<NODE id="358" /> werden sämtliche Wertpapiere elektronisch gehandelt. Das System zeichnet sich aus durch eine Vollintegration der Börsenprozesse, vom Börsenauftrag  bis zur Abwicklung . <NODE id="528" />Anfang 2008<NODE id="539" /> Fusion mit <NODE id="551" />SIS<NODE id="554" /> und <NODE id="559" />Telekurs<NODE id="567" /> zur <NODE id="572" />SIX Group<NODE id="581" /> .
+Support
+Instrument der technischen Analyse . Als Unterstützungslinie gilt ein Kurs, der aus charttechnischen Überlegungen schwer zu unterschreiten ist.
+Der <NODE id="740" />Schweizer<NODE id="749" /> Ableger des <NODE id="762" />deutschen<NODE id="771" /> Softwareriesen <NODE id="787" />SAP<NODE id="790" /> spürt keine Nachwehen von der Aufhebung der Eurountergrenze <NODE id="851" />Anfang 2015<NODE id="862" />. Der Verkauf von IT-Dienstleistungen in der <NODE id="907" />Schweiz<NODE id="914" /> laufe in <NODE id="924" />erster<NODE id="930" /> Linie «über die In
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.fuw.ch/article/sap-in-allen-branchen-massive-investitionen-in-die-it/@2016-03-11T13:39:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T12:39:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T09:22:51.93Z" />
+<feature featureName="uri" featureValue="http://www.fuw.ch/article/sap-in-allen-branchen-massive-investitionen-in-die-it/" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="249" endPos="253" type="date" surface="1995" />
+<Entity id="1" startPos="282" endPos="293" type="organization" surface="Börsen Genf" />
+<Entity id="2" startPos="295" endPos="300" type="organization" surface="Basel" />
+<Entity id="3" startPos="305" endPos="311" type="organization" surface="Zürich" />
+<Entity id="4" startPos="325" endPos="334" type="location" surface="Schweizer" />
+<Entity id="5" startPos="347" endPos="358" type="date" surface="August 1996" />
+<Entity id="6" startPos="528" endPos="539" type="date" surface="Anfang 2008" />
+<Entity id="7" startPos="551" endPos="554" type="organization-company" surface="SIS" />
+<Entity id="8" startPos="559" endPos="567" type="organization-company" surface="Telekurs" />
+<Entity id="9" startPos="572" endPos="581" type="organization-company" surface="SIX Group" />
+<Entity id="10" startPos="740" endPos="749" type="location" surface="Schweizer" />
+<Entity id="11" startPos="762" endPos="771" type="location" surface="deutschen" />
+<Entity id="12" startPos="787" endPos="790" type="organization-company" surface="SAP" />
+<Entity id="13" startPos="851" endPos="862" type="date" surface="Anfang 2015" />
+<Entity id="14" startPos="907" endPos="914" type="location" surface="Schweiz" />
+<Entity id="15" startPos="924" endPos="930" type="number" surface="erster" /></Entities><Relations />
+</Document>

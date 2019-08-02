@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> 
+Streiks und eine Tarifeinigung
+Die <NODE id="37" />Amazon<NODE id="43" />-Beschäftigten in <NODE id="61" />Leipzig<NODE id="68" /> <NODE id="69" />streiken<NODE id="77" />. Wie die Gewerkschaft <NODE id="100" />Verdi<NODE id="105" /> mitteilte, legen die Mitarbeiter für <NODE id="143" />zwei Tage<NODE id="152" /> die Arbeit nieder. <NODE id="172" />Verdi<NODE id="177" /> rechnet damit, dass sich heute bis zu <NODE id="216" />400<NODE id="219" /> Personen an dem Streik beteiligen. Die Gewerkschaft fordert die Aufnahme von Tarifverhandlungen, diese lehnt der <NODE id="333" />US<NODE id="335" />-Konzern jedoch ab. +++ Auch in der Metallindustrie werden die Warnstreiks heute fortgesetzt. Nach Angaben der Gewerkschaft <NODE id="459" />IG Metall<NODE id="468" /> streiken Mitarbeiter in <NODE id="493" />Sachsen<NODE id="500" /> und <NODE id="505" />Thüringen<NODE id="514" />. In <NODE id="519" />Leipzig<NODE id="526" /> ist davon die Gießerei <NODE id="550" />Neue Halberg-Guss<NODE id="567" /> betroffen. Am vergangenen <NODE id="594" />Donnerstag<NODE id="604" /> war eine <NODE id="614" />dritte<NODE id="620" /> Verhandlungsrunde gescheitert. Die Gewerkschaft fordert eine Lohnerhöhung von <NODE id="699" />fünf Prozent<NODE id="711" />, die Arbeitgeber hatten rund <NODE id="741" />zwei Prozent<NODE id="753" /> vorgeschlagen.+++ Bei den Tarifverhandlungen im öffentlichen Dienst gab es jedoch eine Einigung.  Wie <NODE id="856" />Verdi<NODE id="861" /> mitteilte, haben sich die Vertragspartner am vergangenen <NODE id="919" />Freitag<NODE id="926" /> auf einen Kompromiss geeinigt. Dieser sieht Lohner
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://mephisto976.de/nachrichten/sport-vom-wochenende-93@2016-05-02T09:05:47.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-02T07:05:47Z" />
+<feature featureName="indexDate" featureValue="2016-05-02T07:50:59.602Z" />
+<feature featureName="uri" featureValue="http://mephisto976.de/nachrichten/sport-vom-wochenende-93" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="37" endPos="43" type="organization-company" surface="Amazon" />
+<Entity id="1" startPos="61" endPos="68" type="location-city" surface="Leipzig" />
+<Entity id="2" startPos="69" endPos="77" type="trigger" surface="streiken" />
+<Entity id="3" startPos="100" endPos="105" type="organization" surface="Verdi" />
+<Entity id="4" startPos="143" endPos="152" type="duration" surface="zwei Tage" />
+<Entity id="5" startPos="172" endPos="177" type="organization" surface="Verdi" />
+<Entity id="6" startPos="216" endPos="219" type="number" surface="400" />
+<Entity id="7" startPos="333" endPos="335" type="location" surface="US" />
+<Entity id="8" startPos="459" endPos="468" type="organization" surface="IG Metall" />
+<Entity id="9" startPos="493" endPos="500" type="location" surface="Sachsen" />
+<Entity id="10" startPos="505" endPos="514" type="location" surface="Thüringen" />
+<Entity id="11" startPos="519" endPos="526" type="location-city" surface="Leipzig" />
+<Entity id="12" startPos="550" endPos="567" type="organization-company" surface="Neue Halberg-Guss" />
+<Entity id="13" startPos="594" endPos="604" type="date" surface="Donnerstag" />
+<Entity id="14" startPos="614" endPos="620" type="number" surface="dritte" />
+<Entity id="15" startPos="699" endPos="711" type="number" surface="fünf Prozent" />
+<Entity id="16" startPos="741" endPos="753" type="number" surface="zwei Prozent" />
+<Entity id="17" startPos="856" endPos="861" type="organization" surface="Verdi" />
+<Entity id="18" startPos="919" endPos="926" type="date" surface="Freitag" /></Entities><Relations>
+<Relation id="19" NAME="Strike">
+<Entity id="0" label="company" />
+<Entity id="1" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

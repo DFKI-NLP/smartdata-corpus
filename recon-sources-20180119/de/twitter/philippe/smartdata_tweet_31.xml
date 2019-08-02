@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Neues zum Thema #<NODE id="17" />BER<NODE id="20" /> Job-Verbrennungsmotor: Rechtstreit um <NODE id="59" />Massen-Entlassungen<NODE id="78" /> am <NODE id="82" />Flughafen-Tegel<NODE id="97" /> http://t.co/1UynBLK8sh
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="618805667634249728" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="20" type="organization-company" surface="BER" />
+<Entity id="1" startPos="59" endPos="78" type="trigger" surface="Massen-Entlassungen" />
+<Entity id="2" startPos="82" endPos="97" type="location" surface="Flughafen-Tegel" /></Entities><Relations>
+<Relation id="3" NAME="Layoffs">
+<Entity id="2" label="location" />
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

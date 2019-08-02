@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Sonntag, 20. März<NODE id="20" />, <NODE id="22" />16.00<NODE id="27" /> – <NODE id="30" />17.30 Uhr<NODE id="39" />
+Meldung:
+Die <NODE id="53" />IC-Züge<NODE id="60" /> in Richtung <NODE id="73" />Hamburg<NODE id="80" /> fahren bis zu <NODE id="95" />30 Min.<NODE id="102" /> früher in <NODE id="113" />Köln Hbf<NODE id="121" /> ab.
+Grund:
+Brückenarbeiten in <NODE id="152" />Dormagen<NODE id="160" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="230" />91<NODE id="232" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_30-Westerland_Binz_Greifswald_-_Hamburg-Bremen-Dortmund-Koeln-Mainz-Mannheim-Stuttgart_Zuerich/16#758ec4656f23a1a12e48e9a63b7a23bdcaf1045f@2016-02-18T13:04:37.385+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-18T12:04:37.385Z" />
+<feature featureName="indexDate" featureValue="2016-03-18T15:27:06.813Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_30-Westerland_Binz_Greifswald_-_Hamburg-Bremen-Dortmund-Koeln-Mainz-Mannheim-Stuttgart_Zuerich/16#758ec4656f23a1a12e48e9a63b7a23bdcaf1045f" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="20" type="date" surface="Sonntag, 20. März" />
+<Entity id="1" startPos="22" endPos="27" type="time" surface="16.00" />
+<Entity id="2" startPos="30" endPos="39" type="time" surface="17.30 Uhr" />
+<Entity id="3" startPos="53" endPos="60" type="location-route" surface="IC-Züge" />
+<Entity id="4" startPos="73" endPos="80" type="location-city" surface="Hamburg" />
+<Entity id="5" startPos="95" endPos="102" type="duration" surface="30 Min." />
+<Entity id="6" startPos="113" endPos="121" type="location-stop" surface="Köln Hbf" />
+<Entity id="7" startPos="152" endPos="160" type="location-city" surface="Dormagen" />
+<Entity id="8" startPos="230" endPos="232" type="number" surface="91" /></Entities><Relations />
+</Document>

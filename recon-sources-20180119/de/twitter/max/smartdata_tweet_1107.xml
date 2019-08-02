@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Weiter Bahn-Streik in <NODE id="22" />Belgien<NODE id="29" /> https://t.co/iatEVgXs4B
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="738251365231824896" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-02T06:10:16Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T04:23:17.504Z" />
+<feature featureName="uri" featureValue="https://twitter.com/83928524/status/738251365231824896" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="22" endPos="29" type="location" surface="Belgien" /></Entities><Relations />
+</Document>

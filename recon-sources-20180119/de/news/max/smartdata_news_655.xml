@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Kleine Maßnahme mit großer Auswirkung
+<NODE id="38" />04. März 2016 <NODE id="52" />
+<NODE id="53" />1<NODE id="54" />
+Staatssekretär <NODE id="70" />Roland Krämer<NODE id="83" /> (Mitte) übergab die Zuwendung zur Fremdwasserentflechtung im <NODE id="145" />Freisener<NODE id="154" /> Ortsteil <NODE id="164" />Eitzweiler<NODE id="174" /> an Ortsvorsteher <NODE id="192" />Gerald Linn<NODE id="203" /> (li.) und Bürgermeister <NODE id="228" />Karl Josef Scheer<NODE id="245" />. Foto: Ministerium
+Bild <NODE id="270" />1<NODE id="271" /> von <NODE id="276" />1<NODE id="277" />
+<NODE id="278" />EITZWEILER<NODE id="288" /> Mit einer Zuwendung von rund <NODE id="318" />12000 Euro<NODE id="328" /> beteiligt sich das <NODE id="348" />Umweltministerium<NODE id="365" /> der Fremdwasserentflechtung im <NODE id="397" />Freisener<NODE id="406" /> Ortsteil <NODE id="416" />Eitzweiler<NODE id="426" />. Einen entsprechenden Zuwendungsbescheid überreichte Umweltstaatssekretär Roland Krämer dem Bürgermeister der Gemeinde <NODE id="546" />Freisen<NODE id="553" />, <NODE id="555" />Karl Josef Scheer<NODE id="572" />.
+„Auch kleinere Maßnahmen zur Fremdwasserentflechtung haben große Wirkung“, betont Staatssekretär <NODE id="671" />Krämer<NODE id="677" />. „Als <NODE id="684" />Umweltministerium<NODE id="701" /> unterstützen wir die Bemühungen der Kommunen, sauberes Wasser von verunreinigtem Wasser zu trennen. So werden auch die Risiken einer <NODE id="835" />Überflutung<NODE id="846" /> der Kanalisation nach Starkregenereignissen deutlich gesenkt“, erläutert <NODE id="920" />Krämer<NODE id="926" /> im Hinblick auf die vielerorts üb
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wochenspiegelonline.de/content/nachrichten/gemeinden/article/kleine-massnahme-mit-grosser-auswirkung/@2016-03-04T00:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-03T23:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T14:41:01.934Z" />
+<feature featureName="uri" featureValue="http://www.wochenspiegelonline.de/content/nachrichten/gemeinden/article/kleine-massnahme-mit-grosser-auswirkung/" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="38" endPos="52" type="date" surface="04. März 2016 " />
+<Entity id="1" startPos="53" endPos="54" type="number" surface="1" />
+<Entity id="2" startPos="70" endPos="83" type="person" surface="Roland Krämer" />
+<Entity id="3" startPos="145" endPos="154" type="location-city" surface="Freisener" />
+<Entity id="4" startPos="164" endPos="174" type="location" surface="Eitzweiler" />
+<Entity id="5" startPos="192" endPos="203" type="person" surface="Gerald Linn" />
+<Entity id="6" startPos="228" endPos="245" type="person" surface="Karl Josef Scheer" />
+<Entity id="7" startPos="270" endPos="271" type="number" surface="1" />
+<Entity id="8" startPos="276" endPos="277" type="number" surface="1" />
+<Entity id="9" startPos="278" endPos="288" type="location" surface="EITZWEILER" />
+<Entity id="10" startPos="318" endPos="328" type="number" surface="12000 Euro" />
+<Entity id="11" startPos="348" endPos="365" type="organization" surface="Umweltministerium" />
+<Entity id="12" startPos="397" endPos="406" type="location-city" surface="Freisener" />
+<Entity id="13" startPos="416" endPos="426" type="location" surface="Eitzweiler" />
+<Entity id="14" startPos="546" endPos="553" type="location-city" surface="Freisen" />
+<Entity id="15" startPos="555" endPos="572" type="person" surface="Karl Josef Scheer" />
+<Entity id="16" startPos="671" endPos="677" type="person" surface="Krämer" />
+<Entity id="17" startPos="684" endPos="701" type="organization" surface="Umweltministerium" />
+<Entity id="18" startPos="835" endPos="846" type="disaster-type" surface="Überflutung" />
+<Entity id="19" startPos="920" endPos="926" type="person" surface="Krämer" /></Entities><Relations />
+</Document>

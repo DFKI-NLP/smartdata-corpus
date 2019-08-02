@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bürgermeisterwahl in <NODE id="21" />Ortenberg<NODE id="30" /> am <NODE id="34" />25. September<NODE id="47" />
+© <NODE id="50" />dpa<NODE id="53" />
+<NODE id="54" />22. Mär. 2016<NODE id="67" /> - <NODE id="70" />10:02<NODE id="75" />
+Das Datum für die Bürgermeisterwahl in <NODE id="115" />Ortenberg<NODE id="124" /> steht: Am <NODE id="135" />25. September<NODE id="148" /> entscheiden die Bürger über ihren Rathaus-Chef. Den Terminplan hat der Gemeinderat jetzt beschlossen. Offiziell wird die Bürgermeister-Stelle am <NODE id="294" />15. Juli<NODE id="302" /> ausgeschrieben. Bewerber können ab dann bis einschließlich <NODE id="362" />29. August<NODE id="372" /> ihre Bewerbungsunterlagen einreichen. Die <NODE id="415" />erste<NODE id="420" /> Amtszeit von Bürgermeister <NODE id="448" />Markus Vollmer<NODE id="462" /> dauert noch bis <NODE id="479" />Ende November<NODE id="492" />, er hat bereits im <NODE id="512" />Februar<NODE id="519" /> angekündigt, sich zur Wiederwahl zu stellen. <NODE id="565" />2008<NODE id="569" /> erreichte <NODE id="580" />Vollmer<NODE id="587" /> im zweiten Wahlgang über <NODE id="613" />47 Prozent<NODE id="623" /> der Stimmen. (as)
+Weitere News
+Wenn Sie bei Ihrer Anmeldung eine eMail Adresse hinterlegt haben, können Sie sich hier über Ihren aktuellen Punktestand informieren lassen. Geben Sie einfach Ihre eMail-Adresse in das folgende Feld ein.
+E-Mail
+Wenn Sie bei Ihrer Anmeldung eine eMail-Adresse angegeben haben können Sie hier Ihre 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.hitradio-ohr.de/node/88828@2016-03-22T11:14:36.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-22T10:14:36Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T09:09:11.931Z" />
+<feature featureName="uri" featureValue="http://www.hitradio-ohr.de/node/88828" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="21" endPos="30" type="location-city" surface="Ortenberg" />
+<Entity id="1" startPos="34" endPos="47" type="date" surface="25. September" />
+<Entity id="2" startPos="50" endPos="53" type="organization-company" surface="dpa" />
+<Entity id="3" startPos="54" endPos="67" type="date" surface="22. Mär. 2016" />
+<Entity id="4" startPos="70" endPos="75" type="time" surface="10:02" />
+<Entity id="5" startPos="115" endPos="124" type="location-city" surface="Ortenberg" />
+<Entity id="6" startPos="135" endPos="148" type="date" surface="25. September" />
+<Entity id="7" startPos="294" endPos="302" type="date" surface="15. Juli" />
+<Entity id="8" startPos="362" endPos="372" type="date" surface="29. August" />
+<Entity id="9" startPos="415" endPos="420" type="number" surface="erste" />
+<Entity id="10" startPos="448" endPos="462" type="person" surface="Markus Vollmer" />
+<Entity id="11" startPos="479" endPos="492" type="date" surface="Ende November" />
+<Entity id="12" startPos="512" endPos="519" type="date" surface="Februar" />
+<Entity id="13" startPos="565" endPos="569" type="date" surface="2008" />
+<Entity id="14" startPos="580" endPos="587" type="person" surface="Vollmer" />
+<Entity id="15" startPos="613" endPos="623" type="number" surface="47 Prozent" /></Entities><Relations />
+</Document>

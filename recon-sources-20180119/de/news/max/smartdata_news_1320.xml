@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />US<NODE id="2" />-Flair in <NODE id="12" />Oberbayern<NODE id="22" />
+Ein <NODE id="27" />1967er<NODE id="33" /> <NODE id="34" />Ford<NODE id="38" /> <NODE id="39" />Galaxie 500<NODE id="50" />
+<NODE id="51" />Frank Auerswald<NODE id="66" /> hat sich einen Traum erfüllt: Der <NODE id="101" />31-Jährige<NODE id="111" /> holte sich <NODE id="123" />amerikanischen<NODE id="137" /> Flair nach <NODE id="149" />Oberbayern<NODE id="159" /> und lebt nun seine Leidenschaft für Autos aus.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://markt.idowa.de/automarkt/auto/SRLUQL.html@2016-02-19T14:57:46.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-19T13:57:46Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:20:51.932Z" />
+<feature featureName="uri" featureValue="http://markt.idowa.de/automarkt/auto/SRLUQL.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location" surface="US" />
+<Entity id="1" startPos="12" endPos="22" type="location" surface="Oberbayern" />
+<Entity id="2" startPos="27" endPos="33" type="number" surface="1967er" />
+<Entity id="3" startPos="34" endPos="38" type="organization-company" surface="Ford" />
+<Entity id="4" startPos="39" endPos="50" type="product" surface="Galaxie 500" />
+<Entity id="5" startPos="51" endPos="66" type="person" surface="Frank Auerswald" />
+<Entity id="6" startPos="101" endPos="111" type="number" surface="31-Jährige" />
+<Entity id="7" startPos="123" endPos="137" type="location" surface="amerikanischen" />
+<Entity id="8" startPos="149" endPos="159" type="location" surface="Oberbayern" /></Entities><Relations>
+<Relation id="9" NAME="CompanyProvidesProduct">
+<Entity id="4" label="product" />
+<Entity id="3" label="company" />
+</Relation></Relations>
+</Document>

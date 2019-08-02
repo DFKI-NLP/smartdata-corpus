@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>POL-WAF: <NODE id="9" />Verkehrsunfall<NODE id="23" /> mit Personenschaden in <NODE id="47" />Ennigerloh<NODE id="57" /> vom <NODE id="62" />27 12 2015<NODE id="72" />
+<NODE id="73" />27.12.15<NODE id="81" /> | <NODE id="84" />19:15<NODE id="89" /> Uhr | <NODE id="96" />1<NODE id="97" /> mal gelesen | presseportal.de <NODE id="128" />Polizei <NODE id="136" />Warendorf<NODE id="145" /> / POL-WAF: Verkehrsunfall mit Personenschaden in ...
+POL-WAF: <NODE id="208" />Verkehrsunfall<NODE id="222" /> mit Personenschaden in <NODE id="246" />Ennigerloh<NODE id="256" /> vom <NODE id="261" />27.12.2015<NODE id="271" />
+<NODE id="272" />Warendorf<NODE id="281" /> (ots) - <NODE id="290" />Zwei<NODE id="294" /> Verletzte und geringer Sachschaden sind die Bilanz eines <NODE id="352" />Verkehrsunfalls<NODE id="367" />, welcher sich am <NODE id="385" />Sonntag, 27.12.2015<NODE id="404" />, <NODE id="406" />gegen 12:50 Uhr<NODE id="421" />, in <NODE id="426" />Ennigerloh<NODE id="436" /> in der Bauernschaft <NODE id="457" />Hoest<NODE id="462" /> ereignete. Ein <NODE id="478" />64-jähriger<NODE id="489" /> Rennradfahrer aus <NODE id="508" />Ennigerloh<NODE id="518" /> war gemeinsam mit <NODE id="537" />zwei<NODE id="541" /> weiteren Rennradfahrern auf einem unbenannten Wirtschaftweg in der <NODE id="609" />Ennigerloher<NODE id="621" /> Bauernschaft <NODE id="635" />Hoest<NODE id="640" /> unterwegs. Dabei kam es zu einem Zusammenstoß mit einer <NODE id="697" />73 Jahre<NODE id="705" /> alten Fußgängerin aus <NODE id="728" />Beckum<NODE id="734" />, welche den Wirtschaftsweg queren wollte. Die Fußgängerin erlitt bei dem <NODE id="808" />Unfall<NODE id="814" /> schwere Verletzungen und wurde nach notärztlicher Erstversorgung mit dem RTW in ein nahe gelegenes Krankenhaus gebracht. Der
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ad-hoc-news.de/pol-waf-verkehrsunfall-mit-personenschaden-in-ennigerloh-vom27-12-2015--/de/News/47694988@2016-03-10T15:40:14.379+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ad-hoc-news.de/pol-waf-verkehrsunfall-mit-personenschaden-in-ennigerloh-vom27-12-2015--/de/News/47694988" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="23" type="trigger" surface="Verkehrsunfall" />
+<Entity id="1" startPos="47" endPos="57" type="location-city" surface="Ennigerloh" />
+<Entity id="2" startPos="62" endPos="72" type="date" surface="27 12 2015" />
+<Entity id="3" startPos="73" endPos="81" type="date" surface="27.12.15" />
+<Entity id="4" startPos="84" endPos="89" type="date" surface="19:15" />
+<Entity id="5" startPos="96" endPos="97" type="number" surface="1" />
+<Entity id="6" startPos="128" endPos="145" type="organization" surface="Polizei Warendorf" />
+<Entity id="7" startPos="136" endPos="145" type="location-city" surface="Warendorf" />
+<Entity id="8" startPos="208" endPos="222" type="trigger" surface="Verkehrsunfall" />
+<Entity id="9" startPos="246" endPos="256" type="location-city" surface="Ennigerloh" />
+<Entity id="10" startPos="261" endPos="271" type="date" surface="27.12.2015" />
+<Entity id="11" startPos="272" endPos="281" type="location" surface="Warendorf" />
+<Entity id="12" startPos="290" endPos="294" type="number" surface="Zwei" />
+<Entity id="13" startPos="352" endPos="367" type="trigger" surface="Verkehrsunfalls" />
+<Entity id="14" startPos="385" endPos="404" type="date" surface="Sonntag, 27.12.2015" />
+<Entity id="15" startPos="406" endPos="421" type="time" surface="gegen 12:50 Uhr" />
+<Entity id="16" startPos="426" endPos="436" type="location-city" surface="Ennigerloh" />
+<Entity id="17" startPos="457" endPos="462" type="location" surface="Hoest" />
+<Entity id="18" startPos="478" endPos="489" type="number" surface="64-jähriger" />
+<Entity id="19" startPos="508" endPos="518" type="location-city" surface="Ennigerloh" />
+<Entity id="20" startPos="537" endPos="541" type="number" surface="zwei" />
+<Entity id="21" startPos="609" endPos="621" type="location-city" surface="Ennigerloher" />
+<Entity id="22" startPos="635" endPos="640" type="location" surface="Hoest" />
+<Entity id="23" startPos="697" endPos="705" type="number" surface="73 Jahre" />
+<Entity id="24" startPos="728" endPos="734" type="location-city" surface="Beckum" />
+<Entity id="25" startPos="808" endPos="814" type="trigger" surface="Unfall" /></Entities><Relations>
+<Relation id="26" NAME="Accident">
+<Entity id="1" label="location" />
+<Entity id="0" label="trigger" />
+<Entity id="2" label="start_date" />
+</Relation>
+<Relation id="27" NAME="Accident">
+<Entity id="9" label="location" />
+<Entity id="8" label="trigger" />
+<Entity id="10" label="start_date" />
+</Relation>
+<Relation id="28" NAME="Accident">
+<Entity id="17" label="location" />
+<Entity id="16" label="location" />
+<Entity id="13" label="trigger" />
+<Entity id="14" label="start_date" />
+<Entity id="15" label="start_date" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Enzkreis<NODE id="8" />, <NODE id="10" />K4552<NODE id="15" /> zwischen <NODE id="25" />Abzweig nach Dennach<NODE id="45" /> und <NODE id="50" />Abzweig nach Rotenbach<NODE id="72" /> <NODE id="73" />beide Fahrtrichtungen<NODE id="94" /> <NODE id="95" />gesperrt<NODE id="103" />, <NODE id="105" />Erdrutsch<NODE id="114" />, bis <NODE id="120" />16.02.2016<NODE id="130" /> <NODE id="131" />12:00 Uhr<NODE id="140" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9cea98da-47c0-4b83-9976-9021f6a5ff10@2016-02-16T07:30:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-16T06:30:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-18T15:24:04.794Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=9cea98da-47c0-4b83-9976-9021f6a5ff10" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location" surface="Enzkreis" />
+<Entity id="1" startPos="10" endPos="15" type="location-street" surface="K4552" />
+<Entity id="2" startPos="25" endPos="45" type="location-street" surface="Abzweig nach Dennach" />
+<Entity id="3" startPos="50" endPos="72" type="location-street" surface="Abzweig nach Rotenbach" />
+<Entity id="4" startPos="73" endPos="94" type="location" surface="beide Fahrtrichtungen" />
+<Entity id="5" startPos="95" endPos="103" type="trigger" surface="gesperrt" />
+<Entity id="6" startPos="105" endPos="114" type="disaster-type" surface="Erdrutsch" />
+<Entity id="7" startPos="120" endPos="130" type="date" surface="16.02.2016" />
+<Entity id="8" startPos="131" endPos="140" type="time" surface="12:00 Uhr" /></Entities><Relations>
+<Relation id="9" NAME="Disaster">
+<Entity id="0" label="location" />
+<Entity id="6" label="type" />
+</Relation>
+<Relation id="10" NAME="Obstruction">
+<Entity id="7" label="end_date" />
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="start_loc" />
+<Entity id="1" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="4" label="direction" />
+</Relation></Relations>
+</Document>

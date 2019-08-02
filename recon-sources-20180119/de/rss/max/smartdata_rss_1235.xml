@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A94<NODE id="3" /> <NODE id="4" />Passau<NODE id="10" /> Richtung <NODE id="20" />München<NODE id="27" /> zwischen <NODE id="37" />Waldkraiburg<NODE id="49" />/<NODE id="50" />Ampfing<NODE id="57" /> und <NODE id="62" />Heldenstein<NODE id="73" /> ist die <NODE id="82" />Einhausung Wimpasing<NODE id="102" /> <NODE id="103" />gesperrt<NODE id="111" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#26@2016-04-13T20:39:54.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-13T18:39:54Z" />
+<feature featureName="indexDate" featureValue="2016-04-13T18:43:28.356Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A94" />
+<Entity id="1" startPos="4" endPos="10" type="location-city" surface="Passau" />
+<Entity id="2" startPos="20" endPos="27" type="location-city" surface="München" />
+<Entity id="3" startPos="37" endPos="49" type="location" surface="Waldkraiburg" />
+<Entity id="4" startPos="50" endPos="57" type="location" surface="Ampfing" />
+<Entity id="5" startPos="62" endPos="73" type="location" surface="Heldenstein" />
+<Entity id="6" startPos="82" endPos="102" type="location" surface="Einhausung Wimpasing" />
+<Entity id="7" startPos="103" endPos="111" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="8" NAME="Obstruction">
+<Entity id="6" label="location" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="5" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Fast and Furious-Filmreihe bis <NODE id="31" />2021<NODE id="35" /> verlängert
+<NODE id="47" />03.02.2016<NODE id="57" /> | <NODE id="60" />15:11<NODE id="65" /> |  (<NODE id="70" />DiePresse.com<NODE id="83" />)
+Auf mindestens <NODE id="100" />zehn<NODE id="104" /> Teile wird die Actionfilmreihe rund um illegale Straßenrennen anwachsen. <NODE id="178" />Alle zwei Jahre<NODE id="193" /> wird ein Fast and Furious-Film ins Kino kommen.
+Im Zwei-Jahres-Rhythmus soll die erfolgreiche Action-Reihe Fast and Furious rund um illegale Straßenrennen bis <NODE id="353" />2021<NODE id="357" /> fortgesetzt werden. Das teilten die Produktionsfirma <NODE id="411" />Universal Pictures<NODE id="429" /> und Hauptdarsteller <NODE id="450" />Vin Diesel<NODE id="460" /> mit.
+Teil <NODE id="471" />neun<NODE id="475" /> und <NODE id="480" />zehn<NODE id="484" /> werden dem Branchenblatt <NODE id="510" />Variety<NODE id="517" /> zufolge <NODE id="526" />2019<NODE id="530" /> und <NODE id="535" />2021<NODE id="539" /> in die Kinos kommen. Der <NODE id="565" />achte<NODE id="570" /> Teil ist für <NODE id="584" />2017<NODE id="588" /> geplant. Straight Outta Compton-Regisseur <NODE id="631" />F. Gary Gray<NODE id="643" /> inszeniert diesen.
+Pläne auch für Ableger
+<NODE id="686" />Diesel<NODE id="692" /> verriet bereits im <NODE id="712" />Herbst<NODE id="718" />, dass die Filmreihe möglicherweise Ableger erhalten soll. Ideen für einzelne Charaktere, die dann in einem eigenen Film zur Hauptfigur werden, würden derzeit entwickelt, sagte der <NODE id="899" />48-Jährige<NODE id="909" />. Auch andere Blockbuster-Seri
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://diepresse.com/text/home/kultur/film/4918101/Fast-and-FuriousFilmreihe-bis-2021-verlaengert?from=rss@2016-02-03T15:11:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-03T14:11:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T15:28:51.94Z" />
+<feature featureName="uri" featureValue="http://diepresse.com/text/home/kultur/film/4918101/Fast-and-FuriousFilmreihe-bis-2021-verlaengert?from=rss" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="31" endPos="35" type="date" surface="2021" />
+<Entity id="1" startPos="47" endPos="57" type="date" surface="03.02.2016" />
+<Entity id="2" startPos="60" endPos="65" type="time" surface="15:11" />
+<Entity id="3" startPos="70" endPos="83" type="organization-company" surface="DiePresse.com" />
+<Entity id="4" startPos="100" endPos="104" type="number" surface="zehn" />
+<Entity id="5" startPos="178" endPos="193" type="set" surface="Alle zwei Jahre" />
+<Entity id="6" startPos="353" endPos="357" type="date" surface="2021" />
+<Entity id="7" startPos="411" endPos="429" type="organization-company" surface="Universal Pictures" />
+<Entity id="8" startPos="450" endPos="460" type="person" surface="Vin Diesel" />
+<Entity id="9" startPos="471" endPos="475" type="number" surface="neun" />
+<Entity id="10" startPos="480" endPos="484" type="number" surface="zehn" />
+<Entity id="11" startPos="510" endPos="517" type="organization-company" surface="Variety" />
+<Entity id="12" startPos="526" endPos="530" type="date" surface="2019" />
+<Entity id="13" startPos="535" endPos="539" type="date" surface="2021" />
+<Entity id="14" startPos="565" endPos="570" type="number" surface="achte" />
+<Entity id="15" startPos="584" endPos="588" type="date" surface="2017" />
+<Entity id="16" startPos="631" endPos="643" type="person" surface="F. Gary Gray" />
+<Entity id="17" startPos="686" endPos="692" type="organization-company" surface="Diesel" />
+<Entity id="18" startPos="712" endPos="718" type="date" surface="Herbst" />
+<Entity id="19" startPos="899" endPos="909" type="duration" surface="48-Jährige" /></Entities><Relations />
+</Document>

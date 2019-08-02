@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Verbraucherschutzminister <NODE id="26" />Reinhold Jost<NODE id="39" />: Beim Reiseverkehr haben Verbraucherinnen und Verbraucher Rechte
+Pressemitteilung vom <NODE id="126" />28.01.2016<NODE id="136" /> - <NODE id="139" />16:50 Uhr<NODE id="148" />
+Anlässlich des Starts der Messe „Reisemarkt <NODE id="193" />Saarbrücken<NODE id="204" /> Freizeit <NODE id="214" />2016<NODE id="218" /> erinnert Verbraucherschutzminister <NODE id="254" />Reinhold Jost<NODE id="267" /> an die Rechte von Verbraucherinnen und Verbrauchern beim Reiseverkehr.
+„Freizeit- und Urlaubszeit sind für uns alle mitunter die schönsten Zeiten des Jahres. Wir freuen uns darauf, dem Alltag ein Stück weit zu entfliehen, uns zu erholen und Unbekanntes zu erleben. Dabei stehen für uns <NODE id="554" />Saarländer<NODE id="564" /> Reisen nach wie vor hoch im Kurs. Leider kommt es immer mal wieder vor, dass bei der gebuchten Reise etwas schief läuft: Das gebuchte Verkehrsmittel hat Verspätung, ist überbucht oder ein Flug ist gestrichen worden, und wir sitzen auf dem Flughafen fest. In diesen Fällen haben die Verbraucherinnen und Verbraucher Rechte, erklärt d
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.saarland.de/6767_138082.htm@2016-01-28T16:50:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-28T15:50:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:48:56.698Z" />
+<feature featureName="uri" featureValue="http://www.saarland.de/6767_138082.htm" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="26" endPos="39" type="person" surface="Reinhold Jost" />
+<Entity id="1" startPos="126" endPos="136" type="date" surface="28.01.2016" />
+<Entity id="2" startPos="139" endPos="148" type="time" surface="16:50 Uhr" />
+<Entity id="3" startPos="193" endPos="204" type="location-city" surface="Saarbrücken" />
+<Entity id="4" startPos="214" endPos="218" type="date" surface="2016" />
+<Entity id="5" startPos="254" endPos="267" type="person" surface="Reinhold Jost" />
+<Entity id="6" startPos="554" endPos="564" type="location" surface="Saarländer" /></Entities><Relations />
+</Document>

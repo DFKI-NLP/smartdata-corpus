@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>So voll wie hier im Zug wars zuletzt bei der Gerichtsverhandlung der <NODE id="69" />Bahn<NODE id="73" /> gegen die <NODE id="84" />GDL<NODE id="87" /> beim Streik
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="699291466787655681" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="69" endPos="73" type="organization-company" surface="Bahn" />
+<Entity id="1" startPos="84" endPos="87" type="organization" surface="GDL" /></Entities><Relations />
+</Document>

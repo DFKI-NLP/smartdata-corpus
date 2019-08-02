@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>■  #<NODE id="4" />Hamburg-#Tonndorf<NODE id="21" />: Die <NODE id="27" />Kuehnstraße<NODE id="38" /> ist wegen #<NODE id="50" />Bauarbeiten<NODE id="61" /> ab <NODE id="65" />Wilsonstraße<NODE id="77" /> in Richtung <NODE id="90" />Jenfelder Allee<NODE id="105" />  bis zum <NODE id="115" />20. Mai<NODE id="122" /> als ...
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="731492029046358016" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-14T14:31:04Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T06:03:16.251Z" />
+<feature featureName="uri" featureValue="https://twitter.com/703163870/status/731492029046358016" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="21" type="location-city" surface="Hamburg-#Tonndorf" />
+<Entity id="1" startPos="27" endPos="38" type="location-street" surface="Kuehnstraße" />
+<Entity id="2" startPos="50" endPos="61" type="trigger" surface="Bauarbeiten" />
+<Entity id="3" startPos="65" endPos="77" type="location-street" surface="Wilsonstraße" />
+<Entity id="4" startPos="90" endPos="105" type="location-street" surface="Jenfelder Allee" />
+<Entity id="5" startPos="115" endPos="122" type="date" surface="20. Mai" /></Entities><Relations />
+</Document>

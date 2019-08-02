@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Quelle: Finanzen.at - <NODE id="22" />04-02-2016<NODE id="32" />
+<NODE id="33" />EINDHOVEN<NODE id="42" /> (<NODE id="44" />dpa-AFX<NODE id="51" />) - Gute Geschäfte mit hochwertigen Chips für Autos und Mobilfunkprodukte sowie die <NODE id="135" />Freescale<NODE id="144" />-Übernahme bringen dem Chi...
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.newsdump.at/news/nxp-rechnet-nach-freescaleubernahme-mit-umsatzsprung-marge-sinkt@2016-02-04T07:31:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-04T06:31:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T19:01:32.954Z" />
+<feature featureName="uri" featureValue="http://www.newsdump.at/news/nxp-rechnet-nach-freescaleubernahme-mit-umsatzsprung-marge-sinkt" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="22" endPos="32" type="date" surface="04-02-2016" />
+<Entity id="1" startPos="33" endPos="42" type="location-city" surface="EINDHOVEN" />
+<Entity id="2" startPos="44" endPos="51" type="organization-company" surface="dpa-AFX" />
+<Entity id="3" startPos="135" endPos="144" type="organization-company" surface="Freescale" /></Entities><Relations />
+</Document>

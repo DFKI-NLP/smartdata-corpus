@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />B30<NODE id="3" /> <NODE id="4" />Biberach<NODE id="12" /> Richtung <NODE id="22" />Ulm<NODE id="25" /> zwischen <NODE id="35" />Laupheim<NODE id="43" /> und <NODE id="48" />Laupheim-Nord/Achstetten<NODE id="72" /> Hindernisse beseitigt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=704a2e34-8fc7-42f7-8832-723a24565410@2016-05-04T16:47:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-04T14:47:00Z" />
+<feature featureName="indexDate" featureValue="2016-05-04T14:59:21.046Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=704a2e34-8fc7-42f7-8832-723a24565410" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="B30" />
+<Entity id="1" startPos="4" endPos="12" type="location-city" surface="Biberach" />
+<Entity id="2" startPos="22" endPos="25" type="location-city" surface="Ulm" />
+<Entity id="3" startPos="35" endPos="43" type="location" surface="Laupheim" />
+<Entity id="4" startPos="48" endPos="72" type="location" surface="Laupheim-Nord/Achstetten" /></Entities><Relations />
+</Document>

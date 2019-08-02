@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />DB_Bahn<NODE id="8" /> dieser steht bereits seit über <NODE id="40" />20min<NODE id="45" /> dort. Vielleicht überprüfen sie das mal. Danke!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672057657608523776" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T14:20:06Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:29:05.729Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="8" type="organization-company" surface="DB_Bahn" />
+<Entity id="1" startPos="40" endPos="45" type="duration" surface="20min" /></Entities><Relations />
+</Document>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Berlin<NODE id="6" />, <NODE id="8" />07.04.2016<NODE id="18" />, <NODE id="20" />14:42<NODE id="25" />  VideoMarkt | Verkauf
+<NODE id="48" />Fear the Walking Dead<NODE id="69" />-Premiere in <NODE id="82" />Berlin<NODE id="88" />
+<NODE id="89" />Amazon<NODE id="95" />-Video-Chef <NODE id="107" />Christoph Schneider<NODE id="126" /> begrüßte <NODE id="136" />Gale Anne Hurd<NODE id="150" /> in <NODE id="154" />Berlin<NODE id="160" />
+<NODE id="161" />Amazon<NODE id="167" />-Video-Chef <NODE id="179" />Christoph Schneider<NODE id="198" /> begrüßte <NODE id="208" />Gale Anne Hurd<NODE id="222" /> in <NODE id="226" />Berlin<NODE id="232" />  
+Am <NODE id="238" />Mittwoch<NODE id="246" /> und damit <NODE id="257" />fünf Tage vor Start<NODE id="276" /> auf <NODE id="281" />Amazon Prime<NODE id="293" /> feierte der SVoD-Anbieter in <NODE id="323" />Berlin<NODE id="329" /> die <NODE id="334" />Deutschland<NODE id="345" />-Premiere der <NODE id="359" />zweiten<NODE id="366" /> Staffel von  <NODE id="380" />Fear the Walking Dead<NODE id="401" /> . Zu den prominenten Gästen, die <NODE id="435" />Amazon<NODE id="441" />-Video-Chef <NODE id="453" />Christoph Schneider<NODE id="472" /> begrüßen durfte, gehörte auch Produzentin <NODE id="515" />Gale Anne Hurd<NODE id="529" /> . Darüber hinaus kamen Ex-Boxweltmeisterin <NODE id="573" />Regina Halmich<NODE id="587" />, Moderatorin <NODE id="601" />Annabelle Mandeng<NODE id="618" />, die Schauspieler <NODE id="637" />Tina Ruland<NODE id="648" /> und <NODE id="653" />Bruno Eyron<NODE id="664" /> sowie <NODE id="671" />Micaela Schäfer<NODE id="686" /> ins Haus Ungarn in der <NODE id="710" />Karl-Liebknecht-Straße<NODE id="732" />, um die brandneue <NODE id="751" />erste<NODE id="756" /> Folge der <NODE id="767" />zweiten<NODE id="774" /> Season zu sehen.
+Das Spin-off zur populären Zombie-Serie <NODE id="832" />The Walking Dead<NODE id="848" /> streamt <NODE id="857" />Amazon<NODE id="863" /> ab <NODE id="867" />11. April<NODE id="876" /> exklusiv und nur <NODE id="894" />einen Tag<NODE id="903" /> nach <NODE id="909" />US<NODE id="911" />-Erstausstrahlung.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.mediabiz.de/news/fear-the-walking-dead-premiere-in-berlin/405891@2016-04-07T14:42:00.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-07T12:42:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-07T14:03:51.927Z" />
+<feature featureName="uri" featureValue="http://www.mediabiz.de/news/fear-the-walking-dead-premiere-in-berlin/405891" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="location-city" surface="Berlin" />
+<Entity id="1" startPos="8" endPos="18" type="date" surface="07.04.2016" />
+<Entity id="2" startPos="20" endPos="25" type="time" surface="14:42" />
+<Entity id="3" startPos="48" endPos="69" type="product" surface="Fear the Walking Dead" />
+<Entity id="4" startPos="82" endPos="88" type="location-city" surface="Berlin" />
+<Entity id="5" startPos="89" endPos="95" type="organization-company" surface="Amazon" />
+<Entity id="6" startPos="107" endPos="126" type="person" surface="Christoph Schneider" />
+<Entity id="7" startPos="136" endPos="150" type="person" surface="Gale Anne Hurd" />
+<Entity id="8" startPos="154" endPos="160" type="location-city" surface="Berlin" />
+<Entity id="9" startPos="161" endPos="167" type="organization-company" surface="Amazon" />
+<Entity id="10" startPos="179" endPos="198" type="person" surface="Christoph Schneider" />
+<Entity id="11" startPos="208" endPos="222" type="person" surface="Gale Anne Hurd" />
+<Entity id="12" startPos="226" endPos="232" type="location-city" surface="Berlin" />
+<Entity id="13" startPos="238" endPos="246" type="date" surface="Mittwoch" />
+<Entity id="14" startPos="257" endPos="276" type="duration" surface="fünf Tage vor Start" />
+<Entity id="15" startPos="281" endPos="293" type="product" surface="Amazon Prime" />
+<Entity id="16" startPos="323" endPos="329" type="location-city" surface="Berlin" />
+<Entity id="17" startPos="334" endPos="345" type="location" surface="Deutschland" />
+<Entity id="18" startPos="359" endPos="366" type="number" surface="zweiten" />
+<Entity id="19" startPos="380" endPos="401" type="product" surface="Fear the Walking Dead" />
+<Entity id="20" startPos="435" endPos="441" type="organization-company" surface="Amazon" />
+<Entity id="21" startPos="453" endPos="472" type="person" surface="Christoph Schneider" />
+<Entity id="22" startPos="515" endPos="529" type="person" surface="Gale Anne Hurd" />
+<Entity id="23" startPos="573" endPos="587" type="person" surface="Regina Halmich" />
+<Entity id="24" startPos="601" endPos="618" type="person" surface="Annabelle Mandeng" />
+<Entity id="25" startPos="637" endPos="648" type="person" surface="Tina Ruland" />
+<Entity id="26" startPos="653" endPos="664" type="person" surface="Bruno Eyron" />
+<Entity id="27" startPos="671" endPos="686" type="person" surface="Micaela Schäfer" />
+<Entity id="28" startPos="710" endPos="732" type="location-street" surface="Karl-Liebknecht-Straße" />
+<Entity id="29" startPos="751" endPos="756" type="number" surface="erste" />
+<Entity id="30" startPos="767" endPos="774" type="number" surface="zweiten" />
+<Entity id="31" startPos="832" endPos="848" type="product" surface="The Walking Dead" />
+<Entity id="32" startPos="857" endPos="863" type="organization-company" surface="Amazon" />
+<Entity id="33" startPos="867" endPos="876" type="date" surface="11. April" />
+<Entity id="34" startPos="894" endPos="903" type="duration" surface="einen Tag" />
+<Entity id="35" startPos="909" endPos="911" type="location" surface="US" /></Entities><Relations />
+</Document>

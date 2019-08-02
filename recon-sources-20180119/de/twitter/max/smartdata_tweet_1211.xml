@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Oh nein! <NODE id="9" />Halliburton<NODE id="20" />: Geplatzte Fusion kommt Öldienstleister teuer zu stehen https://t.co/3bownvRK7I #gescheitert #fail
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755953715618672644" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-21T02:33:05Z" />
+<feature featureName="indexDate" featureValue="2016-07-21T02:33:07.367Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3131024753/status/755953715618672644" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="20" type="organization-company" surface="Halliburton" /></Entities><Relations />
+</Document>

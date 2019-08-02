@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>von <NODE id="4" />Mittwoch, 27. April<NODE id="23" />, <NODE id="25" />5.30 Uhr<NODE id="33" /> bis <NODE id="38" />Mittwoch, 4. Mai<NODE id="54" />, <NODE id="56" />Betriebsschluss<NODE id="71" />
+Meldung:
+ Mehrere <NODE id="90" />EC-Züge<NODE id="97" /> <NODE id="98" />verspäten<NODE id="107" /> sich zwischen <NODE id="122" />München Hbf <NODE id="134" />und <NODE id="138" />Rosenheim<NODE id="147" /> um <NODE id="151" />6 – 10 Min<NODE id="161" />.
+ <NODE id="164" />IC 1296<NODE id="171" /> nach <NODE id="177" />Frankfurt (Main) Hbf<NODE id="197" /> (planmäßig <NODE id="209" />5.45<NODE id="213" /> Uhr ab<NODE id="220" /> Salzburg Hbf<NODE id="233" />) fährt am <NODE id="244" />27.04<NODE id="249" />. <NODE id="251" />5 Min.<NODE id="257" /> früher in <NODE id="268" />Salzburg Hbf<NODE id="280" /> ab.
+Grund:
+Oberleitungsarbeiten zwischen <NODE id="322" />Grafing Bahnhof <NODE id="338" />und <NODE id="342" />Ostermünchen<NODE id="354" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="424" />102<NODE id="427" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_32-Binz-Berlin-Hannover-Dortmund_Muenster_W-Koeln-Mainz-Mannheim-Stuttgart-Tuebingen_Oesterreich/18#c4198d13e57e84147027c9d87d84cb37db5e404b@2016-02-18T12:44:18.197+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-18T11:44:18.197Z" />
+<feature featureName="indexDate" featureValue="2016-03-18T15:26:24.595Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_32-Binz-Berlin-Hannover-Dortmund_Muenster_W-Koeln-Mainz-Mannheim-Stuttgart-Tuebingen_Oesterreich/18#c4198d13e57e84147027c9d87d84cb37db5e404b" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="23" type="date" surface="Mittwoch, 27. April" />
+<Entity id="1" startPos="25" endPos="33" type="time" surface="5.30 Uhr" />
+<Entity id="2" startPos="38" endPos="54" type="date" surface="Mittwoch, 4. Mai" />
+<Entity id="3" startPos="56" endPos="71" type="time" surface="Betriebsschluss" />
+<Entity id="4" startPos="90" endPos="97" type="location-route" surface="EC-Züge" />
+<Entity id="5" startPos="98" endPos="107" type="trigger" surface="verspäten" />
+<Entity id="6" startPos="122" endPos="134" type="location-stop" surface="München Hbf " />
+<Entity id="7" startPos="138" endPos="147" type="location-stop" surface="Rosenheim" />
+<Entity id="8" startPos="151" endPos="161" type="duration" surface="6 – 10 Min" />
+<Entity id="9" startPos="164" endPos="171" type="location-route" surface="IC 1296" />
+<Entity id="10" startPos="177" endPos="197" type="location-stop" surface="Frankfurt (Main) Hbf" />
+<Entity id="11" startPos="209" endPos="213" type="date" surface="5.45" />
+<Entity id="12" startPos="220" endPos="233" type="location-stop" surface=" Salzburg Hbf" />
+<Entity id="13" startPos="244" endPos="249" type="date" surface="27.04" />
+<Entity id="14" startPos="251" endPos="257" type="duration" surface="5 Min." />
+<Entity id="15" startPos="268" endPos="280" type="location-stop" surface="Salzburg Hbf" />
+<Entity id="16" startPos="322" endPos="338" type="location-stop" surface="Grafing Bahnhof " />
+<Entity id="17" startPos="342" endPos="354" type="location-stop" surface="Ostermünchen" />
+<Entity id="18" startPos="424" endPos="427" type="number" surface="102" /></Entities><Relations>
+<Relation id="19" NAME="Delay">
+<Entity id="8" label="delay" />
+<Entity id="7" label="end_loc" />
+<Entity id="6" label="start_loc" />
+<Entity id="4" label="location" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

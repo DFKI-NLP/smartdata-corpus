@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> 
+<NODE id="2" />23. März 2016<NODE id="15" /> - <NODE id="18" />17:34 Uhr<NODE id="27" />
+Die Geschichte um das Thema Hochhaus auf dem <NODE id="73" />Pragsattel<NODE id="83" /> ist lang. Nun wächst der Skyline getaufte Turm der <NODE id="135" />Bülow AG<NODE id="143" /> in den Himmel. Zudem naht die Fertigstellung des darunterliegenden Bürogebäudes.
+<NODE id="225" />9<NODE id="226" /> Bilder
+<NODE id="234" />18<NODE id="236" /> von <NODE id="241" />22<NODE id="243" /> Stockwerken des Hochhauses sind bereits gebaut.Foto: <NODE id="297" />Lichtgut<NODE id="305" />/<NODE id="306" />Achim Zweygarth<NODE id="321" />
+<NODE id="322" />Stuttgart<NODE id="331" /> - Das ist ein beeindruckendes Bauwerk“, sagte <NODE id="378" />Stuttgarts<NODE id="388" /> Erster Bürgermeister <NODE id="410" />Michael Föll<NODE id="422" /> (<NODE id="424" />CDU<NODE id="427" />) am <NODE id="432" />Mittwoch<NODE id="440" />. Das Gebäude, das er als „Pendant zum Fernsehturm“ bezeichnete ist der Skyline genannte Wohnturm auf der <NODE id="546" />Prag<NODE id="550" />, der inzwischen fast seine endgültige Höhe erreicht hat. Im Unterbau des Hochhauses, dem künftigen Sitz der Mercedes-Hausbank <NODE id="677" />Daimler Financial Services<NODE id="703" /> (<NODE id="705" />DFS<NODE id="708" />), wurde nun Richtfest gefeiert.
+ 
+Der Blick vom neuen Hochhaus am <NODE id="775" />Pragsattel<NODE id="785" /> - genannt Skyline
+Posted by <NODE id="814" />Sven Hahn<NODE id="823" /> on <NODE id="827" />Mittwoch, 23. März 2016<NODE id="850" />
+ 
+„Die Stadt ist nicht allein aus materiellen Gründen froh, dass <NODE id="916" />Bülow<NODE id="921" /> hier baut“, sag
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.stuttgarter-zeitung.de/inhalt.stadtentwicklung-in-stuttgart-foell-pendant-zum-fernsehturm.97741a22-66c4-4957-9236-75d8b0ce4aef.html@2016-03-23T17:34:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-23T16:34:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:19:52.952Z" />
+<feature featureName="uri" featureValue="http://www.stuttgarter-zeitung.de/inhalt.stadtentwicklung-in-stuttgart-foell-pendant-zum-fernsehturm.97741a22-66c4-4957-9236-75d8b0ce4aef.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="2" endPos="15" type="date" surface="23. März 2016" />
+<Entity id="1" startPos="18" endPos="27" type="time" surface="17:34 Uhr" />
+<Entity id="2" startPos="73" endPos="83" type="location" surface="Pragsattel" />
+<Entity id="3" startPos="135" endPos="143" type="organization-company" surface="Bülow AG" />
+<Entity id="4" startPos="225" endPos="226" type="number" surface="9" />
+<Entity id="5" startPos="234" endPos="236" type="number" surface="18" />
+<Entity id="6" startPos="241" endPos="243" type="number" surface="22" />
+<Entity id="7" startPos="297" endPos="305" type="organization-company" surface="Lichtgut" />
+<Entity id="8" startPos="306" endPos="321" type="person" surface="Achim Zweygarth" />
+<Entity id="9" startPos="322" endPos="331" type="location-city" surface="Stuttgart" />
+<Entity id="10" startPos="378" endPos="388" type="location-city" surface="Stuttgarts" />
+<Entity id="11" startPos="410" endPos="422" type="person" surface="Michael Föll" />
+<Entity id="12" startPos="424" endPos="427" type="organization" surface="CDU" />
+<Entity id="13" startPos="432" endPos="440" type="date" surface="Mittwoch" />
+<Entity id="14" startPos="546" endPos="550" type="location" surface="Prag" />
+<Entity id="15" startPos="677" endPos="703" type="organization-company" surface="Daimler Financial Services" />
+<Entity id="16" startPos="705" endPos="708" type="organization-company" surface="DFS" />
+<Entity id="17" startPos="775" endPos="785" type="location" surface="Pragsattel" />
+<Entity id="18" startPos="814" endPos="823" type="person" surface="Sven Hahn" />
+<Entity id="19" startPos="827" endPos="850" type="date" surface="Mittwoch, 23. März 2016" />
+<Entity id="20" startPos="916" endPos="921" type="organization-company" surface="Bülow" /></Entities><Relations />
+</Document>

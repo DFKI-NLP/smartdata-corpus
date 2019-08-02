@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Detailansicht
+<NODE id="14" />Polytec<NODE id="21" /> Spektrometer-Systeme: Flexibel im Prozess
+(pressebox) <NODE id="76" />Waldbronn<NODE id="85" />, <NODE id="87" />24.02.2016<NODE id="97" /> - Wie können einfach und effizient Spektrometersysteme an einen Prozess angebunden werden? Das Geheimnis liegt in der Flexibilität des von <NODE id="237" />Polytec<NODE id="244" /> zur Verfügung gestellten modularen Systemkonzeptes: Durch die Möglichkeit, modulares Zubehör an die kompakten NIR-Spektrometer anschließen zu können, sind die <NODE id="404" />Polytec<NODE id="411" /> Spektrometersysteme für jeglichen Prozesseinsatz geeignet. Unterschiedliche Messsonden erlauben eine Adaption an die jeweilige Messsituation. Die schnelle Verfügbarkeit von Ergebnissen sowie vollautomatisierte Messabläufe unter verschiedensten Prozessbedingungen werden dadurch leicht realisierbar.
+Für nicht-kontaktierende Messungen wie z.B. an Bahnwaren mit einem Abstand zwischen <NODE id="795" />150<NODE id="798" /> und <NODE id="803" />500 mm<NODE id="809" /> zur Sonde ist der Förderbandmesskopf <NODE id="847" />PSS-H-A03<NODE id="856" /> die optimale Lösung.
+Der Kontaktmesskopf <NODE id="898" />PSS-H-B01<NODE id="907" /> ist hingegen für kontaktierende Messunge
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ititpro.com/presse-781807-detail.html@2016-02-24T10:07:40.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T09:07:40Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T09:38:01.929Z" />
+<feature featureName="uri" featureValue="http://www.ititpro.com/presse-781807-detail.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="21" type="organization-company" surface="Polytec" />
+<Entity id="1" startPos="76" endPos="85" type="location-city" surface="Waldbronn" />
+<Entity id="2" startPos="87" endPos="97" type="date" surface="24.02.2016" />
+<Entity id="3" startPos="237" endPos="244" type="organization-company" surface="Polytec" />
+<Entity id="4" startPos="404" endPos="411" type="organization-company" surface="Polytec" />
+<Entity id="5" startPos="795" endPos="798" type="distance" surface="150" />
+<Entity id="6" startPos="803" endPos="809" type="distance" surface="500 mm" />
+<Entity id="7" startPos="847" endPos="856" type="product" surface="PSS-H-A03" />
+<Entity id="8" startPos="898" endPos="907" type="product" surface="PSS-H-B01" /></Entities><Relations />
+</Document>

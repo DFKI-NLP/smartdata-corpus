@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte auf der <NODE id="23" />A7<NODE id="25" /> <NODE id="26" />Hamburg<NODE id="33" /> Richtung <NODE id="43" />Flensburg<NODE id="52" /> zwischen <NODE id="62" />Flensburg<NODE id="71" /> und<NODE id="75" /> Grenzübergang Ellund <NODE id="97" />befindet sich eine ungesicherte <NODE id="129" />Unfallstelle<NODE id="141" />!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#1@2016-03-01T07:25:03.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-01T06:25:03Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T02:37:54.516Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="23" endPos="25" type="location-street" surface="A7" />
+<Entity id="1" startPos="26" endPos="33" type="location-city" surface="Hamburg" />
+<Entity id="2" startPos="43" endPos="52" type="location-city" surface="Flensburg" />
+<Entity id="3" startPos="62" endPos="71" type="location" surface="Flensburg" />
+<Entity id="4" startPos="75" endPos="97" type="location" surface=" Grenzübergang Ellund " />
+<Entity id="5" startPos="129" endPos="141" type="trigger" surface="Unfallstelle" /></Entities><Relations>
+<Relation id="6" NAME="Accident">
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

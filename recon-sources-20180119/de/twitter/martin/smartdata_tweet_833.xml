@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Entlassungen<NODE id="12" /> bei <NODE id="17" />Credit Agricole Indosuez<NODE id="41" /> in <NODE id="45" />Genf<NODE id="49" /> https://t.co/2ol8B23JMy
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745993369352970244" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-23T14:54:13Z" />
+<feature featureName="indexDate" featureValue="2016-06-23T14:54:17.861Z" />
+<feature featureName="uri" featureValue="https://twitter.com/742702570070802432/status/745993369352970244" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="trigger" surface="Entlassungen" />
+<Entity id="1" startPos="17" endPos="41" type="organization-company" surface="Credit Agricole Indosuez" />
+<Entity id="2" startPos="45" endPos="49" type="location" surface="Genf" /></Entities><Relations>
+<Relation id="3" NAME="Layoffs">
+<Entity id="1" label="company" />
+<Entity id="2" label="location" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

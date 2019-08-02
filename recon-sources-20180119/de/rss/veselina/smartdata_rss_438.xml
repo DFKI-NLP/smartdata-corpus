@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Die <NODE id="4" />A96<NODE id="7" /> <NODE id="8" />Lindau<NODE id="14" /> - <NODE id="17" />München<NODE id="24" /> ist in <NODE id="32" />beiden Richtungen<NODE id="49" /> in Höhe des <NODE id="62" />Kohlbergtunnels<NODE id="77" /> nach einem <NODE id="89" />Unfall<NODE id="95" /> im Baustellenbereich <NODE id="117" />gesperrt<NODE id="125" />. Die Umfahrung über <NODE id="146" />Erkheim<NODE id="153" /> beziehungsweise <NODE id="170" />Stetten<NODE id="177" /> ist möglich, allerdings staut es sich hier bereits lange. Wenn Sie sich auskennen, umfahren Sie die Strecke bitte weiteräumig!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#39@2016-04-06T19:46:03.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-06T17:46:03Z" />
+<feature featureName="indexDate" featureValue="2016-04-06T17:46:27.066Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="7" type="location-street" surface="A96" />
+<Entity id="1" startPos="8" endPos="14" type="location-city" surface="Lindau" />
+<Entity id="2" startPos="17" endPos="24" type="location-city" surface="München" />
+<Entity id="3" startPos="32" endPos="49" type="location" surface="beiden Richtungen" />
+<Entity id="4" startPos="62" endPos="77" type="location" surface="Kohlbergtunnels" />
+<Entity id="5" startPos="89" endPos="95" type="trigger" surface="Unfall" />
+<Entity id="6" startPos="117" endPos="125" type="trigger" surface="gesperrt" />
+<Entity id="7" startPos="146" endPos="153" type="location" surface="Erkheim" />
+<Entity id="8" startPos="170" endPos="177" type="location" surface="Stetten" /></Entities><Relations>
+<Relation id="9" NAME="Obstruction">
+<Entity id="4" label="start_loc" />
+<Entity id="5" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

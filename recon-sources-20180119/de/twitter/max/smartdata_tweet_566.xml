@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />rponline<NODE id="12" />: Historisch: <NODE id="26" />Wladimir @Klitschko<NODE id="45" /> hat in #<NODE id="54" />Düsseldorf<NODE id="64" /> seine Weltmeistertitel verloren. https://t.co/MR1LuqUjgv #KlitschkoFury
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="670749693056557056" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-28T23:42:43Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:22:23.143Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="12" type="organization-company" surface="rponline" />
+<Entity id="1" startPos="26" endPos="45" type="person" surface="Wladimir @Klitschko" />
+<Entity id="2" startPos="54" endPos="64" type="location-city" surface="Düsseldorf" /></Entities><Relations />
+</Document>

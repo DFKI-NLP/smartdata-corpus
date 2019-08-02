@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />16:40<NODE id="5" /> @<NODE id="7" />SBahnStgt<NODE id="16" /> <NODE id="17" />S13<NODE id="20" /> nach <NODE id="26" />Kirchheim<NODE id="35" /> hatte bei <NODE id="46" />Bad Cannstatt<NODE id="59" /> <NODE id="60" />15 min.<NODE id="67" /> <NODE id="68" />Verspätung<NODE id="78" /> wegen der ärztl. Versorgung eines Fahrgastes #<NODE id="125" />SBahnStgt<NODE id="134" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754325986511036416" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-16T14:45:04Z" />
+<feature featureName="indexDate" featureValue="2016-07-16T14:45:09.878Z" />
+<feature featureName="uri" featureValue="https://twitter.com/284169380/status/754325986511036416" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="time" surface="16:40" />
+<Entity id="1" startPos="7" endPos="16" type="organization-company" surface="SBahnStgt" />
+<Entity id="2" startPos="17" endPos="20" type="location-route" surface="S13" />
+<Entity id="3" startPos="26" endPos="35" type="location-stop" surface="Kirchheim" />
+<Entity id="4" startPos="46" endPos="59" type="location-stop" surface="Bad Cannstatt" />
+<Entity id="5" startPos="60" endPos="67" type="duration" surface="15 min." />
+<Entity id="6" startPos="68" endPos="78" type="trigger" surface="Verspätung" />
+<Entity id="7" startPos="125" endPos="134" type="organization-company" surface="SBahnStgt" /></Entities><Relations>
+<Relation id="8" NAME="Delay">
+<Entity id="5" label="delay" />
+<Entity id="4" label="start_loc" />
+<Entity id="2" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="3" label="direction" />
+</Relation></Relations>
+</Document>

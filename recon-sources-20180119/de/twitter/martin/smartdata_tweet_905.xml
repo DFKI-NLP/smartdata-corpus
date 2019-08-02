@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Methone: Wieder <NODE id="20" />Streiks<NODE id="27" /> bei <NODE id="32" />Amazon<NODE id="38" /> https://t.co/4rG7O76MNb #<NODE id="64" />Amazon<NODE id="70" /> #Streik
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744800747863187458" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-20T07:55:10Z" />
+<feature featureName="indexDate" featureValue="2016-06-20T07:55:14.726Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Tasha/status/744800747863187458" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="27" type="trigger" surface="Streiks" />
+<Entity id="1" startPos="32" endPos="38" type="organization-company" surface="Amazon" />
+<Entity id="2" startPos="64" endPos="70" type="organization-company" surface="Amazon" /></Entities><Relations>
+<Relation id="3" NAME="Strike">
+<Entity id="1" label="company" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

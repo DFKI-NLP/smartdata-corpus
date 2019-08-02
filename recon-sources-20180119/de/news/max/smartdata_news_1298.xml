@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>DGAP-News: <NODE id="11" />Scholz Holding GmbH<NODE id="30" />: Handelsgericht in <NODE id="50" />Wien<NODE id="54" /> stimmt Stundung der Zinszahlung auf die Inhaber-Schuldverschreibung <NODE id="123" />2012<NODE id="127" />-<NODE id="128" />2017<NODE id="132" /> bis zum <NODE id="141" />31. Mai 2016<NODE id="153" /> zu (deutsch)
+<NODE id="167" />23.02.16<NODE id="175" /> <NODE id="176" />13:53<NODE id="181" />
+<NODE id="182" />dpa-AFX<NODE id="189" />
+<NODE id="190" />Scholz Holding GmbH<NODE id="209" />: Handelsgericht in <NODE id="229" />Wien<NODE id="233" /> stimmt Stundung der Zinszahlung auf die Inhaber-Schuldverschreibung <NODE id="302" />2012<NODE id="306" />-<NODE id="307" />2017<NODE id="311" /> bis zum <NODE id="320" />31. Mai 2016<NODE id="332" /> zu
+<NODE id="336" />Scholz Holding GmbH<NODE id="355" />  / Schlagwort(e): Anleihe
+<NODE id="382" />23.02.2016<NODE id="392" /> <NODE id="393" />13:53<NODE id="398" />
+Veröffentlichung einer Corporate News, übermittelt durch DGAP - ein Service der <NODE id="479" />EQS Group AG<NODE id="491" />.
+Für den Inhalt der Mitteilung ist der Emittent / Herausgeber verantwortlich.
+---------------------------------------------------------------------------
+Presseinformation <NODE id="664" />Scholz Holding GmbH<NODE id="683" />
+<NODE id="684" />London<NODE id="690" />, <NODE id="692" />23. Februar 2016<NODE id="708" />
+Handelsgericht in <NODE id="727" />Wien<NODE id="731" /> stimmt Stundung der Zinszahlung auf die Inhaber-Schuldverschreibung <NODE id="800" />2012<NODE id="804" />-<NODE id="805" />2017<NODE id="809" /> bis zum <NODE id="818" />31. Mai 2016<NODE id="830" /> zu
+- Gerichtsentscheidung schafft, ebenso wie die Verlängerung der im     <NODE id="905" />Dezember 2015<NODE id="918" /> vereinbarten Brückenfinanzie
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.aktiencheck.de/news/Artikel-DGAP_News_Scholz_Holding_GmbH_Handelsgericht_Wien_stimmt_Stundung_Zinszahlung_auf_Inhaber_Schuldverschreibung_2012_2017_bis_zum_31_Mai_2016_deutsch-7036339@2016-02-23T13:55:28.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T12:55:28Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:37:11.94Z" />
+<feature featureName="uri" featureValue="http://www.aktiencheck.de/news/Artikel-DGAP_News_Scholz_Holding_GmbH_Handelsgericht_Wien_stimmt_Stundung_Zinszahlung_auf_Inhaber_Schuldverschreibung_2012_2017_bis_zum_31_Mai_2016_deutsch-7036339" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="11" endPos="30" type="organization-company" surface="Scholz Holding GmbH" />
+<Entity id="1" startPos="50" endPos="54" type="location-city" surface="Wien" />
+<Entity id="2" startPos="123" endPos="127" type="date" surface="2012" />
+<Entity id="3" startPos="128" endPos="132" type="date" surface="2017" />
+<Entity id="4" startPos="141" endPos="153" type="date" surface="31. Mai 2016" />
+<Entity id="5" startPos="167" endPos="175" type="date" surface="23.02.16" />
+<Entity id="6" startPos="176" endPos="181" type="time" surface="13:53" />
+<Entity id="7" startPos="182" endPos="189" type="organization-company" surface="dpa-AFX" />
+<Entity id="8" startPos="190" endPos="209" type="organization-company" surface="Scholz Holding GmbH" />
+<Entity id="9" startPos="229" endPos="233" type="location-city" surface="Wien" />
+<Entity id="10" startPos="302" endPos="306" type="date" surface="2012" />
+<Entity id="11" startPos="307" endPos="311" type="date" surface="2017" />
+<Entity id="12" startPos="320" endPos="332" type="date" surface="31. Mai 2016" />
+<Entity id="13" startPos="336" endPos="355" type="organization-company" surface="Scholz Holding GmbH" />
+<Entity id="14" startPos="382" endPos="392" type="date" surface="23.02.2016" />
+<Entity id="15" startPos="393" endPos="398" type="time" surface="13:53" />
+<Entity id="16" startPos="479" endPos="491" type="organization-company" surface="EQS Group AG" />
+<Entity id="17" startPos="664" endPos="683" type="organization-company" surface="Scholz Holding GmbH" />
+<Entity id="18" startPos="684" endPos="690" type="location-city" surface="London" />
+<Entity id="19" startPos="692" endPos="708" type="date" surface="23. Februar 2016" />
+<Entity id="20" startPos="727" endPos="731" type="location-city" surface="Wien" />
+<Entity id="21" startPos="800" endPos="804" type="date" surface="2012" />
+<Entity id="22" startPos="805" endPos="809" type="date" surface="2017" />
+<Entity id="23" startPos="818" endPos="830" type="date" surface="31. Mai 2016" />
+<Entity id="24" startPos="905" endPos="918" type="date" surface="Dezember 2015" /></Entities><Relations />
+</Document>

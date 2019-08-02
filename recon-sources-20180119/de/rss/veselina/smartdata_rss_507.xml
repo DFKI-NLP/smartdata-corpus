@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Heidelberg<NODE id="10" /> Richtung <NODE id="20" />Mannheim<NODE id="28" /> zwischen <NODE id="38" />Kreuz Heidelberg<NODE id="54" /> und <NODE id="59" />Mannheim-Seckenheim<NODE id="78" /> Gefahr, Gefahr durch <NODE id="100" />1<NODE id="101" /> defektes Fahrzeug auf dem rechten Fahrstreifen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=cd680a8a-21dc-40b4-9289-53b5a9336c99@2016-02-09T17:27:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-09T16:27:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:56:42.98Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=cd680a8a-21dc-40b4-9289-53b5a9336c99" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="location-city" surface="Heidelberg" />
+<Entity id="1" startPos="20" endPos="28" type="location-city" surface="Mannheim" />
+<Entity id="2" startPos="38" endPos="54" type="location" surface="Kreuz Heidelberg" />
+<Entity id="3" startPos="59" endPos="78" type="location" surface="Mannheim-Seckenheim" />
+<Entity id="4" startPos="100" endPos="101" type="number" surface="1" /></Entities><Relations />
+</Document>

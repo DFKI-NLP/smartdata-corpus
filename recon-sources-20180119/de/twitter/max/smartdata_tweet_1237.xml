@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Jeder <NODE id="6" />fünfte<NODE id="12" /> Richter abgesetzt: Festnahmen und Entlassungen - <NODE id="62" />Erdogan<NODE id="69" /> greift durch - <NODE id="85" />n-tv.de<NODE id="92" /> NACHRICHTEN https://t.co/6A5Olkpgkm
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754518859500191745" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T03:31:29Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T03:31:30.529Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2391480325/status/754518859500191745" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="12" type="number" surface="fünfte" />
+<Entity id="1" startPos="62" endPos="69" type="person" surface="Erdogan" />
+<Entity id="2" startPos="85" endPos="92" type="organization-company" surface="n-tv.de" /></Entities><Relations />
+</Document>

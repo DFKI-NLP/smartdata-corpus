@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Eine <NODE id="24" />Lawine<NODE id="30" /> hat in <NODE id="38" />Frankreich<NODE id="48" /> <NODE id="49" />sieben<NODE id="55" /> Menschen in den Tod gerissen - darunter mindestens <NODE id="107" />drei<NODE id="111" /> Deutsche http://t.co/0hA7XJ…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="643827474737037313" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="24" endPos="30" type="disaster-type" surface="Lawine" />
+<Entity id="2" startPos="38" endPos="48" type="location" surface="Frankreich" />
+<Entity id="3" startPos="49" endPos="55" type="number" surface="sieben" />
+<Entity id="4" startPos="107" endPos="111" type="number" surface="drei" /></Entities><Relations>
+<Relation id="5" NAME="Disaster">
+<Entity id="2" label="location" />
+<Entity id="1" label="type" />
+<Entity id="3" label="victims" />
+</Relation></Relations>
+</Document>

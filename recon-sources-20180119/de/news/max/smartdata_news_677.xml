@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RE: <NODE id="4" />Euro Wings <NODE id="15" />mit Verspätung? (von 7rayos….
+
+#10  RE: <NODE id="55" />Euro Wings<NODE id="65" /> mit Verspätung?
+<NODE id="82" />11.01.2016<NODE id="92" /> <NODE id="93" />14:31<NODE id="98" />
+Ich habe solche Situationen in <NODE id="130" />Cuba<NODE id="134" /> bisher <NODE id="142" />zweimal<NODE id="149" /> erlebt. <NODE id="158" />Einmal<NODE id="164" /> mit der <NODE id="173" />Cubana<NODE id="179" />, einmal mit <NODE id="192" />Condor<NODE id="198" />.
+Ich kann nur sagen ..... als das mit der <NODE id="241" />Cubana<NODE id="247" /> (Triebwerkschaden über dem Atlantik, Rückflug nach <NODE id="299" />Havanna<NODE id="306" />) passierte, wurde sich optimal um uns gekümmert. Am Flughafen in <NODE id="372" />Habana<NODE id="378" /> war wohl die Versorgung mit Essen schwierig. Das Essen wurde aus dem Flugzeug geholt und serviert. Nach höchstens <NODE id="493" />3 Stunden<NODE id="502" /> fuhren Busse vor und brachten uns ins <NODE id="541" />Habana libre<NODE id="553" />. Da bekamen wir sofort Zimmer und Essen und Getränkegutscheine (die sehr ausreichend waren). Im Hotel bekamen wir durch einen Betreuer immer wieder Infos, wann es nach Deutschland geht (Das kaputte Teil musste aus <NODE id="768" />Moskau<NODE id="774" /> geliefert werde). Um uns hat man sich wirklich richtig gekümmert.
+Ich wäre danach nie auf die Idee gekommen, eine Ausgleichszahlung zu verlangen.
+Mit der <NODE id="929" />Condor<NODE id="935" />. Landung in <NODE id="948" />Nassau<NODE id="954" /> und da standen wir dann auf dem Flughafen ...
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.kubaforen.de/t548110f5832-RE-Euro-Wings-mit-Verspaetung.html#msg7958451@2016-03-10T13:23:20.981+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:23:20.981Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:23:23.486Z" />
+<feature featureName="uri" featureValue="http://www.kubaforen.de/t548110f5832-RE-Euro-Wings-mit-Verspaetung.html#msg7958451" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="15" type="organization-company" surface="Euro Wings " />
+<Entity id="1" startPos="55" endPos="65" type="organization-company" surface="Euro Wings" />
+<Entity id="2" startPos="82" endPos="92" type="date" surface="11.01.2016" />
+<Entity id="3" startPos="93" endPos="98" type="time" surface="14:31" />
+<Entity id="4" startPos="130" endPos="134" type="location" surface="Cuba" />
+<Entity id="5" startPos="142" endPos="149" type="number" surface="zweimal" />
+<Entity id="6" startPos="158" endPos="164" type="number" surface="Einmal" />
+<Entity id="7" startPos="173" endPos="179" type="organization-company" surface="Cubana" />
+<Entity id="8" startPos="192" endPos="198" type="organization-company" surface="Condor" />
+<Entity id="9" startPos="241" endPos="247" type="organization-company" surface="Cubana" />
+<Entity id="10" startPos="299" endPos="306" type="location-city" surface="Havanna" />
+<Entity id="11" startPos="372" endPos="378" type="location-city" surface="Habana" />
+<Entity id="12" startPos="493" endPos="502" type="duration" surface="3 Stunden" />
+<Entity id="13" startPos="541" endPos="553" type="organization-company" surface="Habana libre" />
+<Entity id="14" startPos="768" endPos="774" type="location-city" surface="Moskau" />
+<Entity id="15" startPos="929" endPos="935" type="organization-company" surface="Condor" />
+<Entity id="16" startPos="948" endPos="954" type="location-city" surface="Nassau" /></Entities><Relations />
+</Document>

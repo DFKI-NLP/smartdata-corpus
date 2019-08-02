@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Auf der <NODE id="8" />A81<NODE id="11" /> <NODE id="12" />Stuttgart<NODE id="21" /> Richtung <NODE id="31" />Singen<NODE id="37" /> steht in der <NODE id="51" />Einfahrt Böblingen-Hulb<NODE id="74" /> ein defekter PKW auf dem Beschleunigungsstreifen.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#23@2016-03-06T19:22:26.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-06T18:22:26Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T06:31:59.991Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="8" endPos="11" type="location-street" surface="A81" />
+<Entity id="1" startPos="12" endPos="21" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="31" endPos="37" type="location-city" surface="Singen" />
+<Entity id="3" startPos="51" endPos="74" type="location" surface="Einfahrt Böblingen-Hulb" /></Entities><Relations />
+</Document>

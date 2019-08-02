@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />2016-03-<NODE id="8" />21<NODE id="10" />T08:42:05+0100<NODE id="24" />
+<NODE id="25" />134<NODE id="28" /> «Tornado»-Einsätze im Anti-<NODE id="56" />IS<NODE id="58" />-Kampf
+<NODE id="65" />Berlin<NODE id="71" /> Die <NODE id="76" />Bundeswehr<NODE id="86" /> hat den Kampf gegen die Terrororganisation <NODE id="130" />Islamischer Staat<NODE id="147" /> (<NODE id="149" />IS<NODE id="151" />) im <NODE id="156" />Januar<NODE id="162" /> und <NODE id="167" />Februar<NODE id="174" /> mit <NODE id="179" />134<NODE id="182" /> «Tornado»-Aufklärungsflügen unterstützt.
+ 
+Jetzt weiterlesen und mehr erfahren
+Wenn Sie diesen Inhalt vollständig lesen möchten, benötigen Sie einen kostenpflichtigen Zugang zu unserer Webseite. Wählen Sie einfach aus einem der folgenden Angebote aus, alle ohne Vertragsbindung.
+ 
+Es ist einer der wichtigsten Beiträge der <NODE id="506" />Bundeswehr<NODE id="516" /> im Kampf gegen den <NODE id="536" />IS<NODE id="538" />: Deutsche Aufklärungs-«Tornados» liefern Daten für Luftangriffe in <NODE id="606" />Syrien<NODE id="612" />...
+Foto: <NODE id="622" />Jens Wolf<NODE id="631" />/Archiv
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.harzkurier.de/nachrichten/europa-und-die-welt/134-tornado-einsaetze-im-anti-is-kampf-id2232285.html@2016-03-21T08:42:05.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T07:42:05Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:28:36.697Z" />
+<feature featureName="uri" featureValue="http://www.harzkurier.de/nachrichten/europa-und-die-welt/134-tornado-einsaetze-im-anti-is-kampf-id2232285.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="date" surface="2016-03-21" />
+<Entity id="1" startPos="8" endPos="24" type="time" surface="21T08:42:05+0100" />
+<Entity id="2" startPos="25" endPos="28" type="number" surface="134" />
+<Entity id="3" startPos="56" endPos="58" type="organization" surface="IS" />
+<Entity id="4" startPos="65" endPos="71" type="location-city" surface="Berlin" />
+<Entity id="5" startPos="76" endPos="86" type="organization" surface="Bundeswehr" />
+<Entity id="6" startPos="130" endPos="147" type="organization" surface="Islamischer Staat" />
+<Entity id="7" startPos="149" endPos="151" type="organization" surface="IS" />
+<Entity id="8" startPos="156" endPos="162" type="date" surface="Januar" />
+<Entity id="9" startPos="167" endPos="174" type="date" surface="Februar" />
+<Entity id="10" startPos="179" endPos="182" type="number" surface="134" />
+<Entity id="11" startPos="506" endPos="516" type="organization" surface="Bundeswehr" />
+<Entity id="12" startPos="536" endPos="538" type="organization" surface="IS" />
+<Entity id="13" startPos="606" endPos="612" type="location" surface="Syrien" />
+<Entity id="14" startPos="622" endPos="631" type="person" surface="Jens Wolf" /></Entities><Relations />
+</Document>

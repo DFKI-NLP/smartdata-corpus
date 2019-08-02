@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Koufogiorgos: Milliardenverluste und <NODE id="41" />Stellenabbau<NODE id="53" /> bei der #<NODE id="63" />Bahn<NODE id="67" />- und die Folgen
+@<NODE id="85" />PB_Aktuell<NODE id="95" /> https://t.co/WozF88iYmc
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="677536336451141632" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="41" endPos="53" type="trigger" surface="Stellenabbau" />
+<Entity id="1" startPos="63" endPos="67" type="organization-company" surface="Bahn" />
+<Entity id="2" startPos="85" endPos="95" type="organization-company" surface="PB_Aktuell" /></Entities><Relations>
+<Relation id="3" NAME="Layoffs">
+<Entity id="1" label="company" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @peterzburg: #<NODE id="17" />Transsibirische #Eisenbahn<NODE id="43" /> <NODE id="44" />Moskau<NODE id="50" />-<NODE id="51" />Wladiwostok<NODE id="62" /> <NODE id="63" />1<NODE id="64" />. Klasse #Rabatt im Winter <NODE id="91" />40%<NODE id="94" />. https://t.co/vNK9xNgSfl https://t.co/QbzR0q…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668436258108997632" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-22T14:29:57Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:06:35.729Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="43" type="organization-company" surface="Transsibirische #Eisenbahn" />
+<Entity id="1" startPos="44" endPos="50" type="location-city" surface="Moskau" />
+<Entity id="2" startPos="51" endPos="62" type="location-city" surface="Wladiwostok" />
+<Entity id="3" startPos="63" endPos="64" type="number" surface="1" />
+<Entity id="4" startPos="91" endPos="94" type="number" surface="40%" /></Entities><Relations />
+</Document>

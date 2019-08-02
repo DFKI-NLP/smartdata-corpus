@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: Wie aus der <NODE id="20" />Edeka<NODE id="25" />-<NODE id="26" />Tengelmann<NODE id="36" />-<NODE id="37" />Fusion<NODE id="43" /> ein Eklat wurde https://t.co/udD0C5SKfg
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710511725901180928" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="20" endPos="25" type="organization-company" surface="Edeka" />
+<Entity id="2" startPos="26" endPos="36" type="organization-company" surface="Tengelmann" />
+<Entity id="3" startPos="37" endPos="43" type="trigger" surface="Fusion" /></Entities><Relations>
+<Relation id="4" NAME="Merger">
+<Entity id="2" label="old" />
+<Entity id="1" label="old" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

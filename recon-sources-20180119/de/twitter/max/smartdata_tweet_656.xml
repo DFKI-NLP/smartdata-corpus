@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-IZ<NODE id="6" />: <NODE id="8" />151116.3<NODE id="16" /> <NODE id="17" />Kellinghusen<NODE id="29" />: <NODE id="31" />Unfall<NODE id="37" /> in der Landesunterkunft https://t.co/SkEk0Fez20
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666230710164811777" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-16T12:25:53Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:47:55.731Z" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization" surface="POL-IZ" />
+<Entity id="1" startPos="8" endPos="16" type="number" surface="151116.3" />
+<Entity id="2" startPos="17" endPos="29" type="location-city" surface="Kellinghusen" />
+<Entity id="3" startPos="31" endPos="37" type="trigger" surface="Unfall" /></Entities><Relations>
+<Relation id="4" NAME="Accident">
+<Entity id="2" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

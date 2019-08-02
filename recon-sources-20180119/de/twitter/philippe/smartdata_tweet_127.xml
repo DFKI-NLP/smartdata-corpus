@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @Elielein: <NODE id="14" />11-jährige<NODE id="24" /> eben zu ner Freundin in der bahn: 'Naja ich bekomme nur <NODE id="81" />22€<NODE id="84" /> im Monat' - Kind,in deinem alter war ich froh wenn ich…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672360336213811200" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="24" type="duration" surface="11-jährige" />
+<Entity id="1" startPos="81" endPos="84" type="number" surface="22€" /></Entities><Relations />
+</Document>

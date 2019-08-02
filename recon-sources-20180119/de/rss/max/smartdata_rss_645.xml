@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A8<NODE id="2" /> <NODE id="3" />Stuttgart<NODE id="12" /> Richtung <NODE id="22" />München<NODE id="29" /> zwischen <NODE id="39" />Sulzemoos<NODE id="48" /> und <NODE id="53" />Dachau/Fürstenfeldbruck <NODE id="77" />Unfall<NODE id="83" /> und <NODE id="88" />4 km <NODE id="93" />Stau<NODE id="97" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#20@2016-03-21T08:15:57.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T07:15:57Z" />
+<feature featureName="indexDate" featureValue="2016-03-21T07:16:17.971Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A8" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Stuttgart" />
+<Entity id="2" startPos="22" endPos="29" type="location-city" surface="München" />
+<Entity id="3" startPos="39" endPos="48" type="location" surface="Sulzemoos" />
+<Entity id="4" startPos="53" endPos="77" type="location" surface="Dachau/Fürstenfeldbruck " />
+<Entity id="5" startPos="77" endPos="83" type="trigger" surface="Unfall" />
+<Entity id="6" startPos="88" endPos="93" type="distance" surface="4 km " />
+<Entity id="7" startPos="93" endPos="97" type="trigger" surface="Stau" /></Entities><Relations>
+<Relation id="8" NAME="Accident">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="5" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation>
+<Relation id="9" NAME="TrafficJam">
+<Entity id="6" label="jam_length" />
+<Entity id="0" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="4" label="end_loc" />
+<Entity id="2" label="direction" />
+<Entity id="3" label="end_loc" />
+</Relation></Relations>
+</Document>

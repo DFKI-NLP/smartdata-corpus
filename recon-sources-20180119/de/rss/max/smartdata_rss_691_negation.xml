@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Basel<NODE id="5" /> Richtung <NODE id="15" />Karlsruhe<NODE id="24" /> Ausfahrt <NODE id="34" />Achern<NODE id="40" /> Verkehr hat sich normalisiert
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=d4076bdd-d56f-4552-a04f-f4ee2641ebfb@2016-05-03T08:12:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-03T06:12:00Z" />
+<feature featureName="indexDate" featureValue="2016-05-03T06:18:01.898Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=d4076bdd-d56f-4552-a04f-f4ee2641ebfb" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="location-city" surface="Basel" />
+<Entity id="1" startPos="15" endPos="24" type="location-city" surface="Karlsruhe" />
+<Entity id="2" startPos="34" endPos="40" type="location" surface="Achern" /></Entities><Relations />
+</Document>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Siemens<NODE id="7" />-Antriebssparte droht Stellenabbau
+<NODE id="42" />München<NODE id="49" /> (dpa) Bei <NODE id="60" />Siemens<NODE id="67" /> droht ein weiterer <NODE id="87" />Stellenabbau<NODE id="99" />.
+Im <NODE id="104" />vergangenen Jahr <NODE id="121" />hatte <NODE id="127" />Siemens<NODE id="134" />-<NODE id="135" />Chef<NODE id="139" /> <NODE id="140" />Kaeser<NODE id="146" /> bereits den <NODE id="159" />Abbau<NODE id="164" /> von konzernweit etwa <NODE id="186" />13 000<NODE id="192" /> Stellen angekündigt. Foto: <NODE id="220" />Jens Büttner<NODE id="232" />
+Bei <NODE id="237" />Siemens<NODE id="244" /> droht ein weiterer <NODE id="264" />Stellenabbau<NODE id="276" />.
+In der Sparte Prozessindustrie und Antriebe soll nach Informationen des «<NODE id="351" />Handelsblatts<NODE id="364" />» eine vierstellige Zahl von Arbeitsplätzen in <NODE id="411" />Deutschland<NODE id="422" /> gestrichen oder ins Ausland verlagert werden.
+Ein Konzernsprecher lehnte am <NODE id="499" />Montag<NODE id="505" /> jeden Kommentar ab. Ein <NODE id="530" />IG-Metall<NODE id="539" />-Sprecher sagte, es liefen Gespräche, wollte sich aber ebenfalls nicht weiter äußern.
+Die Sparte baut in <NODE id="644" />Nürnberg<NODE id="652" />, <NODE id="654" />Berlin<NODE id="660" /> und anderen Werken große Elektroantriebe für die Öl-, Gas- und Bergbauindustrie. Wegen der niedrigen Ölpreise investieren die potenziellen Kunden nur noch wenig. Umsatz und Gewinn der Sparte sind im <NODE id="860" />ersten<NODE id="866" /> Quartal gesunken. In <NODE id="888" />Deutschland<NODE id="899" /> beschäftigt sie rund <NODE id="921" />16 000<NODE id="927" /> Mitarbeiter.
+Siemens-Chef Jo
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.lr-online.de/nachrichten/wirtschaft/Wirtschaft-Siemens-Antriebssparte-droht-Stellenabbau;art77647,5389426@2016-02-08T15:02:03.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-08T14:02:03Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T21:54:01.93Z" />
+<feature featureName="uri" featureValue="http://www.lr-online.de/nachrichten/wirtschaft/Wirtschaft-Siemens-Antriebssparte-droht-Stellenabbau;art77647,5389426" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization-company" surface="Siemens" />
+<Entity id="1" startPos="42" endPos="49" type="location-city" surface="München" />
+<Entity id="2" startPos="60" endPos="67" type="organization-company" surface="Siemens" />
+<Entity id="3" startPos="87" endPos="99" type="trigger" surface="Stellenabbau" />
+<Entity id="4" startPos="104" endPos="121" type="date" surface="vergangenen Jahr " />
+<Entity id="5" startPos="127" endPos="134" type="organization-company" surface="Siemens" />
+<Entity id="6" startPos="135" endPos="139" type="org-position" surface="Chef" />
+<Entity id="7" startPos="140" endPos="146" type="person" surface="Kaeser" />
+<Entity id="8" startPos="159" endPos="164" type="trigger" surface="Abbau" />
+<Entity id="9" startPos="186" endPos="192" type="number" surface="13 000" />
+<Entity id="10" startPos="220" endPos="232" type="person" surface="Jens Büttner" />
+<Entity id="11" startPos="237" endPos="244" type="organization-company" surface="Siemens" />
+<Entity id="12" startPos="264" endPos="276" type="trigger" surface="Stellenabbau" />
+<Entity id="13" startPos="351" endPos="364" type="organization-company" surface="Handelsblatts" />
+<Entity id="14" startPos="411" endPos="422" type="location" surface="Deutschland" />
+<Entity id="15" startPos="499" endPos="505" type="date" surface="Montag" />
+<Entity id="16" startPos="530" endPos="539" type="organization" surface="IG-Metall" />
+<Entity id="17" startPos="644" endPos="652" type="location-city" surface="Nürnberg" />
+<Entity id="18" startPos="654" endPos="660" type="location-city" surface="Berlin" />
+<Entity id="19" startPos="860" endPos="866" type="number" surface="ersten" />
+<Entity id="20" startPos="888" endPos="899" type="location-city" surface="Deutschland" />
+<Entity id="21" startPos="921" endPos="927" type="number" surface="16 000" /></Entities><Relations>
+<Relation id="22" NAME="Layoffs">
+<Entity id="1" label="location" />
+<Entity id="2" label="company" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="23" NAME="OrganizationLeadership">
+<Entity id="7" label="person" />
+<Entity id="5" label="organization" />
+<Entity id="6" label="position" />
+</Relation></Relations>
+</Document>

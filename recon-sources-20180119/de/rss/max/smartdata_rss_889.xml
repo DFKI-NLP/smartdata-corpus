@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht auf der <NODE id="17" />A620<NODE id="21" /> <NODE id="22" />Saarbrücken<NODE id="33" /> Richtung <NODE id="43" />Saarlouis<NODE id="52" /> in der <NODE id="60" />Ausfahrt Saarbrücken-Güdingen<NODE id="89" /> Gefahr durch ein defektes Fahrzeug!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#49@2016-06-15T13:58:23.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-15T11:58:23Z" />
+<feature featureName="indexDate" featureValue="2016-06-15T12:03:29.01Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="21" type="location-street" surface="A620" />
+<Entity id="1" startPos="22" endPos="33" type="location-city" surface="Saarbrücken" />
+<Entity id="2" startPos="43" endPos="52" type="location-city" surface="Saarlouis" />
+<Entity id="3" startPos="60" endPos="89" type="location" surface="Ausfahrt Saarbrücken-Güdingen" /></Entities><Relations />
+</Document>

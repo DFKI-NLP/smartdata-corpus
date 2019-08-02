@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @klaroThanasis: Erfolg, nach über <NODE id="37" />2 Wochen<NODE id="45" /> täglichen Klassenkampfes! Firma wich zurück! Alle <NODE id="96" />17<NODE id="98" /> Entlassungen wurden zurückgenommen! http…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667251305522536448" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-19T08:01:22Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T21:10:55.73Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="37" endPos="45" type="duration" surface="2 Wochen" />
+<Entity id="1" startPos="96" endPos="98" type="number" surface="17" /></Entities><Relations />
+</Document>

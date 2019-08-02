@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>
+        <NODE id="9" />PD Leipzig<NODE id="19" /> - Mancher hat aber auch kein Glück/ Baggerschaufeln im Visier/ Tödlicher Verkehrsunfall
+      .
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/de/MI_2016_41959.htm@2016-04-08T13:36:38.912+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-08T11:36:38.912Z" />
+<feature featureName="indexDate" featureValue="2016-04-08T11:37:13.765Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/de/MI_2016_41959.htm" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="19" type="organization" surface="PD Leipzig" /></Entities><Relations />
+</Document>

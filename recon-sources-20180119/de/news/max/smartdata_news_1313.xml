@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vor <NODE id="4" />2 Stunden <NODE id="14" />  FOCUS Online
+<NODE id="29" />Covestro<NODE id="37" /> hat die Anleger mit einem zuversichtlichen Ausblick auf das laufende Jahr für sich gewonnen.
+Am Morgen stieg die Aktie bis auf <NODE id="165" />28,39 Euro<NODE id="175" /> und stand damit so hoch wie seit <NODE id="209" />zwei Wochen<NODE id="220" /> nicht mehr. Um die Mittagszeit bröckelten die Gewinne allerdings ab. Zuletzt stand noch ein Plus von <NODE id="322" />0,09 Prozent<NODE id="334" /> auf <NODE id="339" />27,375 Euro<NODE id="350" /> zu Buche. Damit entwickelte sich die Aktie aber weiterhin besser als der MDax der mittelgroßen Werte.
+Dass die <NODE id="462" />Bayer<NODE id="467" />-<NODE id="468" />Tochter<NODE id="475" /> trotz der Turbulenzen in den Schwellenländern zuversichtlich auf das laufende Jahr schaut, nannte ein Händler erfreulich. Das erwartete weitere Mengenwachstum sei umso positiver, da die meisten Analysten wegen der Unsicherheiten in Ländern wie <NODE id="720" />China<NODE id="725" />, <NODE id="727" />Brasilien<NODE id="736" />, <NODE id="738" />Russland<NODE id="746" /> oder <NODE id="752" />Indien<NODE id="758" /> mit einem Rückgang gerechnet hätten, sagte er. <NODE id="806" />Covestro<NODE id="814" /> erwartet für <NODE id="828" />2016<NODE id="832" /> einen Mengenzuwachs im mittleren einstelligen Prozentbereich.
+<NODE id="895" />Commerzbank<NODE id="906" />-Analyst <NODE id="915" />Lutz Grüten<NODE id="926" /> nannte vor allem die Divid
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nachrichten.de/wirtschaft/AKTIE-IM-FOKUS-Covestro-steckt-Anleger-mit-Optimismus-an-aid_1906913027089291754.html@2016-02-23T15:45:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T14:45:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:40:31.941Z" />
+<feature featureName="uri" featureValue="http://www.nachrichten.de/wirtschaft/AKTIE-IM-FOKUS-Covestro-steckt-Anleger-mit-Optimismus-an-aid_1906913027089291754.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="14" type="duration" surface="2 Stunden " />
+<Entity id="1" startPos="29" endPos="37" type="organization-company" surface="Covestro" />
+<Entity id="2" startPos="165" endPos="175" type="number" surface="28,39 Euro" />
+<Entity id="3" startPos="209" endPos="220" type="duration" surface="zwei Wochen" />
+<Entity id="4" startPos="322" endPos="334" type="number" surface="0,09 Prozent" />
+<Entity id="5" startPos="339" endPos="350" type="number" surface="27,375 Euro" />
+<Entity id="6" startPos="462" endPos="467" type="organization-company" surface="Bayer" />
+<Entity id="7" startPos="462" endPos="475" type="organization-company" surface="Bayer-Tochter" />
+<Entity id="8" startPos="468" endPos="475" type="trigger" surface="Tochter" />
+<Entity id="9" startPos="720" endPos="725" type="location" surface="China" />
+<Entity id="10" startPos="727" endPos="736" type="location" surface="Brasilien" />
+<Entity id="11" startPos="738" endPos="746" type="location" surface="Russland" />
+<Entity id="12" startPos="752" endPos="758" type="location" surface="Indien" />
+<Entity id="13" startPos="806" endPos="814" type="organization-company" surface="Covestro" />
+<Entity id="14" startPos="828" endPos="832" type="date" surface="2016" />
+<Entity id="15" startPos="895" endPos="906" type="organization-company" surface="Commerzbank" />
+<Entity id="16" startPos="915" endPos="926" type="person" surface="Lutz Grüten" /></Entities><Relations>
+<Relation id="17" NAME="CompanyRelationship">
+<Entity id="6" label="parent" />
+<Entity id="8" label="trigger" />
+<Entity id="7" label="child" />
+</Relation>
+<Relation id="18" NAME="Identity">
+<Entity id="1" label="source" />
+<Entity id="7" label="target" />
+</Relation></Relations>
+</Document>

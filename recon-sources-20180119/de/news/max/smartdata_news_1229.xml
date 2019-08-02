@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Han Solo<NODE id="8" />: <NODE id="10" />Alden Ehrenreich<NODE id="26" /> dreht gleich <NODE id="40" />drei<NODE id="44" /> Filme
+« am: <NODE id="57" />25.07.2016<NODE id="67" />, <NODE id="69" />14:20:12<NODE id="77" /> »
+   
+<NODE id="84" />Alden Ehrenreich<NODE id="100" /> wird (wie berichtet) bald in <NODE id="130" />drei<NODE id="134" /> Filmen als <NODE id="146" />Han Solo<NODE id="154" /> zu sehen sein. Nach zahlreichen Spekulationen wurde nun bestätigt, dass der <NODE id="231" />26-Jährige<NODE id="241" /> den legendären &amp;#8218;Star Wars'-Charakter in dem Spin-Off der Filmreihe spielen soll. Damit wird er Altmeister <NODE id="354" />Harrison Ford<NODE id="367" /> in seiner Rolle ablösen - Der dazugehörige Vertrag sei auch schon unterschrieben. Die Produktionsfirma [&amp;hellip;]The post <NODE id="490" />Han Solo<NODE id="498" />: <NODE id="500" />Alden Ehrenreich<NODE id="516" /> dreht gleich <NODE id="530" />drei<NODE id="534" /> Filme appeared first on klatsch-tratsch.de.
+Quelle: http://www.klatsch-tratsch.de
+   
+Stichworte: Klatsch, Tratsch, Gossip, Celebrities, Promis, News, VIP, VIPs, Promis, Promipannen, Promiklatsch, Prominews, Celebrity News, Celebrities, Hollywood, Stars, Celebs
+Stichworte: Klatsch  Tratsch  Gossip  Celebrities  Promis  News  VIP  VIPs  Promis  Promipannen  Promiklatsch  Prominews  Celebrity News  Celebrities 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://newsparadies.de/index.php?topic=743559.msg792571#msg792571@2016-07-25T14:33:17.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-25T12:33:17Z" />
+<feature featureName="indexDate" featureValue="2016-07-25T12:40:32.759Z" />
+<feature featureName="uri" featureValue="http://newsparadies.de/index.php?topic=743559.msg792571#msg792571" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="person" surface="Han Solo" />
+<Entity id="1" startPos="10" endPos="26" type="person" surface="Alden Ehrenreich" />
+<Entity id="2" startPos="40" endPos="44" type="number" surface="drei" />
+<Entity id="3" startPos="57" endPos="67" type="date" surface="25.07.2016" />
+<Entity id="4" startPos="69" endPos="77" type="time" surface="14:20:12" />
+<Entity id="5" startPos="84" endPos="100" type="person" surface="Alden Ehrenreich" />
+<Entity id="6" startPos="130" endPos="134" type="number" surface="drei" />
+<Entity id="7" startPos="146" endPos="154" type="person" surface="Han Solo" />
+<Entity id="8" startPos="231" endPos="241" type="number" surface="26-Jährige" />
+<Entity id="9" startPos="354" endPos="367" type="person" surface="Harrison Ford" />
+<Entity id="10" startPos="490" endPos="498" type="person" surface="Han Solo" />
+<Entity id="11" startPos="500" endPos="516" type="person" surface="Alden Ehrenreich" />
+<Entity id="12" startPos="530" endPos="534" type="number" surface="drei" /></Entities><Relations />
+</Document>

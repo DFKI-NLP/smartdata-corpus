@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Umleitung <NODE id="10" />Münster (Westf) Hbf<NODE id="29" /> 
+ Zugausfall <NODE id="43" />Köln Hbf<NODE id="51" /> 
+von <NODE id="57" />Mittwoch, 4. Mai<NODE id="73" />, <NODE id="75" />9.40 Uhr<NODE id="83" /> bis <NODE id="88" />Montag, 9. Mai<NODE id="102" />, <NODE id="104" />4.30 Uhr<NODE id="112" />
+Meldung:
+ Die <NODE id="127" />EC-<NODE id="130" /> und <NODE id="135" />IC-Züge<NODE id="142" /> werden zwischen <NODE id="159" />Münster (Westf) Hbf<NODE id="178" /> und <NODE id="183" />Essen Hbf<NODE id="192" /> über <NODE id="198" />Hamm (Westf)<NODE id="210" /> <NODE id="211" />umgeleitet<NODE id="221" />. Der Halt in <NODE id="235" />Recklinghausen Hbf<NODE id="253" /> fällt aus. Aufgrund der Umleitung verspäten sich die Züge um <NODE id="315" />bis zu 20 Min<NODE id="328" />. Beachten Sie, dass einige Züge <NODE id="361" />bis zu 30 Min.<NODE id="375" /> früher von ihren Startbahnhöfen (<NODE id="409" />Emden Hbf<NODE id="418" />, <NODE id="420" />Münster (Westf) Hbf<NODE id="439" />, <NODE id="441" />Köln Hbf<NODE id="449" />) abfahren.
+ <NODE id="462" />Mehrere IC-Züge<NODE id="477" /> <NODE id="478" />halten nicht<NODE id="490" /> in <NODE id="494" />Köln Hbf<NODE id="502" />.
+ <NODE id="505" />Einige IC-Züge<NODE id="519" /> enden/beginnen in <NODE id="538" />Köln Hbf<NODE id="546" /> und <NODE id="551" />fallen<NODE id="557" /> zwischen <NODE id="567" />Köln Hbf<NODE id="575" /> und <NODE id="580" />Aachen Hbf<NODE id="590" /> <NODE id="591" />aus<NODE id="594" />.
+Grund:
+Brückenarbeiten in <NODE id="622" />Dülmen<NODE id="628" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="698" />189<NODE id="701" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_35-Norddeich_Emden-Muenster_W-Koeln-Koblenz-Stuttgart_Konstanz/19#9341af3057c9618c9184d69f914399d6d0ddf879@2016-04-18T09:11:54.023+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-18T07:11:54.023Z" />
+<feature featureName="indexDate" featureValue="2016-04-18T07:12:40.121Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_35-Norddeich_Emden-Muenster_W-Koeln-Koblenz-Stuttgart_Konstanz/19#9341af3057c9618c9184d69f914399d6d0ddf879" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="10" endPos="29" type="location-stop" surface="Münster (Westf) Hbf" />
+<Entity id="1" startPos="43" endPos="51" type="location-stop" surface="Köln Hbf" />
+<Entity id="2" startPos="57" endPos="73" type="date" surface="Mittwoch, 4. Mai" />
+<Entity id="3" startPos="75" endPos="83" type="time" surface="9.40 Uhr" />
+<Entity id="4" startPos="88" endPos="102" type="date" surface="Montag, 9. Mai" />
+<Entity id="5" startPos="104" endPos="112" type="time" surface="4.30 Uhr" />
+<Entity id="6" startPos="127" endPos="130" type="location-route" surface="EC-" />
+<Entity id="7" startPos="135" endPos="142" type="location-route" surface="IC-Züge" />
+<Entity id="8" startPos="159" endPos="178" type="location-stop" surface="Münster (Westf) Hbf" />
+<Entity id="9" startPos="183" endPos="192" type="location-stop" surface="Essen Hbf" />
+<Entity id="10" startPos="198" endPos="210" type="location-stop" surface="Hamm (Westf)" />
+<Entity id="11" startPos="211" endPos="221" type="trigger" surface="umgeleitet" />
+<Entity id="12" startPos="235" endPos="253" type="location-stop" surface="Recklinghausen Hbf" />
+<Entity id="13" startPos="315" endPos="328" type="duration" surface="bis zu 20 Min" />
+<Entity id="14" startPos="361" endPos="375" type="duration" surface="bis zu 30 Min." />
+<Entity id="15" startPos="409" endPos="418" type="location-stop" surface="Emden Hbf" />
+<Entity id="16" startPos="420" endPos="439" type="location-stop" surface="Münster (Westf) Hbf" />
+<Entity id="17" startPos="441" endPos="449" type="location-stop" surface="Köln Hbf" />
+<Entity id="18" startPos="462" endPos="477" type="location-route" surface="Mehrere IC-Züge" />
+<Entity id="19" startPos="478" endPos="490" type="trigger" surface="halten nicht" />
+<Entity id="20" startPos="494" endPos="502" type="location-stop" surface="Köln Hbf" />
+<Entity id="21" startPos="505" endPos="519" type="location-route" surface="Einige IC-Züge" />
+<Entity id="22" startPos="538" endPos="546" type="location-stop" surface="Köln Hbf" />
+<Entity id="23" startPos="551" endPos="557" type="trigger" surface="fallen" />
+<Entity id="24" startPos="567" endPos="575" type="location-stop" surface="Köln Hbf" />
+<Entity id="25" startPos="580" endPos="590" type="location-stop" surface="Aachen Hbf" />
+<Entity id="26" startPos="591" endPos="594" type="trigger" surface="aus" />
+<Entity id="27" startPos="622" endPos="628" type="location-stop" surface="Dülmen" />
+<Entity id="28" startPos="698" endPos="701" type="number" surface="189" /></Entities><Relations>
+<Relation id="29" NAME="CanceledRoute">
+<Entity id="25" label="end_loc" />
+<Entity id="24" label="start_loc" />
+<Entity id="21" label="location" />
+<Entity id="26" label="trigger" />
+<Entity id="23" label="trigger" />
+</Relation>
+<Relation id="30" NAME="CanceledStop">
+<Entity id="18" label="route" />
+<Entity id="20" label="location" />
+<Entity id="19" label="trigger" />
+</Relation>
+<Relation id="31" NAME="Obstruction">
+<Entity id="9" label="end_loc" />
+<Entity id="8" label="start_loc" />
+<Entity id="6" label="location" />
+<Entity id="11" label="trigger" />
+</Relation></Relations>
+</Document>

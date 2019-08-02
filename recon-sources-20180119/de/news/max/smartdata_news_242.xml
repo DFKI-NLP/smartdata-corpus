@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />12. Februar 2016 <NODE id="17" />um <NODE id="20" />11:50 Uhr<NODE id="29" />
+Wirtschaft : <NODE id="43" />Bafin<NODE id="48" />: Anleger der <NODE id="62" />insolventen<NODE id="73" /> <NODE id="74" />Maple Bank<NODE id="84" /> werden entschädigt
+<NODE id="104" />Frankfurt/Main<NODE id="118" /> (dpa) Anleger der von der Finanzaufsicht geschlossenen <NODE id="174" />insolventen<NODE id="185" /> <NODE id="186" />Maple Bank<NODE id="196" /> können auf Rückzahlung ihrer Einlagen hoffen. Die Finanzaufsicht <NODE id="262" />Bafin<NODE id="267" /> hat den Entschädigungsfall festgestellt und gleichzeitig ein Insolvenzverfahren über das <NODE id="357" />Frankfurter<NODE id="368" /> Institut beantragt.
+Die deutsche <NODE id="402" />Maple Bank GmbH<NODE id="417" /> mit <NODE id="422" />kanadischen<NODE id="433" /> Wurzeln war am <NODE id="449" />vergangenen Wochenende <NODE id="472" />für den Geschäftsverkehr geschlossen worden. Foto: <NODE id="523" />Frank Rumpenhorst<NODE id="540" />
+Das<NODE id="544" /> Amtsgericht <NODE id="557" />Frankfurt<NODE id="566" /> <NODE id="567" />hat bereits das Verfahren eröffnet und einen Insolvenzverwalter bestellt, wie die <NODE id="649" />Bafin<NODE id="654" /> mitteilte.
+Die Feststellung des Entschädigungsfalls ist die Voraussetzung, dass Anleger Geld aus der gesetzlichen Einlagensicherung erhalten können. Sie prüft die Ansprüche und befriedigt sie bis zu <NODE id="854" />100.000 Euro<NODE id="866" />, in Ausnahmefällen sogar bis<NODE id="895" /> 500.000 Euro<NODE id="908" />. Für darüber hinausgehende Ansprüche is
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.radio912.de/infos/aus-aller-welt/wirtschaft/art141,1204213@2016-02-12T13:30:18.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-12T12:30:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T10:31:32.953Z" />
+<feature featureName="uri" featureValue="http://www.radio912.de/infos/aus-aller-welt/wirtschaft/art141,1204213" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="17" type="date" surface="12. Februar 2016 " />
+<Entity id="1" startPos="20" endPos="29" type="time" surface="11:50 Uhr" />
+<Entity id="2" startPos="43" endPos="48" type="organization" surface="Bafin" />
+<Entity id="3" startPos="62" endPos="73" type="trigger" surface="insolventen" />
+<Entity id="4" startPos="74" endPos="84" type="organization-company" surface="Maple Bank" />
+<Entity id="5" startPos="104" endPos="118" type="location-city" surface="Frankfurt/Main" />
+<Entity id="6" startPos="174" endPos="185" type="trigger" surface="insolventen" />
+<Entity id="7" startPos="186" endPos="196" type="organization-company" surface="Maple Bank" />
+<Entity id="8" startPos="262" endPos="267" type="organization" surface="Bafin" />
+<Entity id="9" startPos="357" endPos="368" type="location" surface="Frankfurter" />
+<Entity id="10" startPos="402" endPos="417" type="organization-company" surface="Maple Bank GmbH" />
+<Entity id="11" startPos="422" endPos="433" type="location" surface="kanadischen" />
+<Entity id="12" startPos="449" endPos="472" type="date" surface="vergangenen Wochenende " />
+<Entity id="13" startPos="523" endPos="540" type="person" surface="Frank Rumpenhorst" />
+<Entity id="14" startPos="544" endPos="567" type="organization" surface=" Amtsgericht Frankfurt " />
+<Entity id="15" startPos="557" endPos="566" type="location-city" surface="Frankfurt" />
+<Entity id="16" startPos="649" endPos="654" type="organization" surface="Bafin" />
+<Entity id="17" startPos="854" endPos="866" type="number" surface="100.000 Euro" />
+<Entity id="18" startPos="895" endPos="908" type="number" surface=" 500.000 Euro" /></Entities><Relations>
+<Relation id="19" NAME="Insolvency">
+<Entity id="4" label="company" />
+<Entity id="3" label="trigger" />
+</Relation>
+<Relation id="20" NAME="Insolvency">
+<Entity id="7" label="company" />
+<Entity id="6" label="trigger" />
+</Relation></Relations>
+</Document>

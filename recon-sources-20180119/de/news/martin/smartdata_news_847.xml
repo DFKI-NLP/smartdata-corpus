@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Handball <NODE id="9" />17.01.2016<NODE id="19" />
+Wut auf den <NODE id="32" />HSV<NODE id="35" /> wächst - Lizenzentzug erwartet
+Der <NODE id="71" />HSV Hamburg<NODE id="82" /> droht die Spiellizenz für die Bundesliga zu verlieren. Foto: <NODE id="144" />Angelika Warmuth<NODE id="160" /> (Bild: <NODE id="168" />dpa<NODE id="171" />)
+Von <NODE id="177" />Franko Koitzsch<NODE id="192" />, <NODE id="194" />dpa<NODE id="197" />
+<NODE id="198" />Hamburg<NODE id="205" /> (<NODE id="207" />dpa<NODE id="210" />) - Mit Ungeduld und wachsender Wut warten die Handball-Bundesligisten auf die Entscheidung zum <NODE id="306" />insolventen<NODE id="317" /> <NODE id="318" />HSV Hamburg<NODE id="329" />. <NODE id="331" />Dreieinhalb Wochen<NODE id="349" /> vor der Fortsetzung der Rückrunde wollen sie Klarheit über Spielplan und Tabellenkonstellation.
+Das hat sportliche und natürlich erhebliche wirtschaftliche Auswirkungen auf die anderen Vereine. Deren Unmut kann ich voll verstehen, sagte <NODE id="587" />Frank Bohmann<NODE id="600" />, <NODE id="602" />Geschäftsführer<NODE id="617" /> des Liga-Verbandes <NODE id="637" />HBL<NODE id="640" />, der <NODE id="646" />Deutschen Presse-Agentur<NODE id="670" />.
+Tabellenführer <NODE id="687" />Rhein-Neckar Löwen<NODE id="705" /> soll für das Spiel gegen den Tabellenvierten <NODE id="751" />HSV<NODE id="754" /> bereits <NODE id="763" />10 000<NODE id="769" /> Tickets verkauft haben, die <NODE id="798" />6300<NODE id="802" /> Plätze bietende Flens-Arena der <NODE id="835" />SG Flensburg-Handewitt<NODE id="857" /> ist seit <NODE id="867" />Wochen<NODE id="873" /> ausverkauft. <NODE id="887" />Dierk Schmäschke<NODE id="903" />, <NODE id="905" />Geschäftsführer<NODE id="920" /> der <NODE id="925" />Flensburger<NODE id="936" />, spricht von
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.usinger-anzeiger.de/sport/national-und-international/handball/wut-auf-den-hsv-waechst-lizenzentzug-erwartet_16557795.htm@2016-03-10T18:11:36.193+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T17:11:36.193Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T17:11:43.484Z" />
+<feature featureName="uri" featureValue="http://www.usinger-anzeiger.de/sport/national-und-international/handball/wut-auf-den-hsv-waechst-lizenzentzug-erwartet_16557795.htm" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="19" type="date" surface="17.01.2016" />
+<Entity id="1" startPos="32" endPos="35" type="organization" surface="HSV" />
+<Entity id="2" startPos="71" endPos="82" type="organization" surface="HSV Hamburg" />
+<Entity id="3" startPos="144" endPos="160" type="person" surface="Angelika Warmuth" />
+<Entity id="4" startPos="168" endPos="171" type="organization-company" surface="dpa" />
+<Entity id="5" startPos="177" endPos="192" type="person" surface="Franko Koitzsch" />
+<Entity id="6" startPos="194" endPos="197" type="organization-company" surface="dpa" />
+<Entity id="7" startPos="198" endPos="205" type="location-city" surface="Hamburg" />
+<Entity id="8" startPos="207" endPos="210" type="organization-company" surface="dpa" />
+<Entity id="9" startPos="306" endPos="317" type="trigger" surface="insolventen" />
+<Entity id="10" startPos="318" endPos="329" type="organization" surface="HSV Hamburg" />
+<Entity id="11" startPos="331" endPos="349" type="date" surface="Dreieinhalb Wochen" />
+<Entity id="12" startPos="587" endPos="600" type="person" surface="Frank Bohmann" />
+<Entity id="13" startPos="602" endPos="617" type="org-position" surface="Geschäftsführer" />
+<Entity id="14" startPos="637" endPos="640" type="organization" surface="HBL" />
+<Entity id="15" startPos="646" endPos="670" type="organization-company" surface="Deutschen Presse-Agentur" />
+<Entity id="16" startPos="687" endPos="705" type="organization" surface="Rhein-Neckar Löwen" />
+<Entity id="17" startPos="751" endPos="754" type="organization" surface="HSV" />
+<Entity id="18" startPos="763" endPos="769" type="number" surface="10 000" />
+<Entity id="19" startPos="798" endPos="802" type="number" surface="6300" />
+<Entity id="20" startPos="835" endPos="857" type="organization" surface="SG Flensburg-Handewitt" />
+<Entity id="21" startPos="867" endPos="873" type="date" surface="Wochen" />
+<Entity id="22" startPos="887" endPos="903" type="person" surface="Dierk Schmäschke" />
+<Entity id="23" startPos="905" endPos="920" type="org-position" surface="Geschäftsführer" />
+<Entity id="24" startPos="925" endPos="936" type="organization" surface="Flensburger" /></Entities><Relations>
+<Relation id="25" NAME="Identity">
+<Entity id="20" label="source" />
+<Entity id="24" label="target" />
+</Relation>
+<Relation id="26" NAME="Insolvency">
+<Entity id="10" label="company" />
+<Entity id="9" label="trigger" />
+</Relation>
+<Relation id="27" NAME="OrganizationLeadership">
+<Entity id="12" label="person" />
+<Entity id="14" label="organization" />
+<Entity id="13" label="position" />
+</Relation>
+<Relation id="28" NAME="OrganizationLeadership">
+<Entity id="22" label="person" />
+<Entity id="24" label="organization" />
+<Entity id="23" label="position" />
+</Relation></Relations>
+</Document>

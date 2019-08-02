@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Post senden
+am <NODE id="15" />02.02.16<NODE id="23" />in Unterhaltung via kledy.de
+Auf kleiner als <NODE id="68" />eins<NODE id="72" /> zu <NODE id="76" />fünf<NODE id="80" /> schätzt das Immobilienanalysehaus<NODE id="114" /> Green Street<NODE id="127" /> die Chance von <NODE id="143" />Vonovia<NODE id="150" />, den Konkurrenten Deutsche Wo [...]<NODE id="186" />1<NODE id="187" /> Stimmen
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.webnews.de/2063725/bericht-chancen-deutsche-wohnen-uebernahme-vonovia-schwinden@2016-02-02T18:03:02.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-02T17:03:02Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T17:51:32.952Z" />
+<feature featureName="uri" featureValue="http://www.webnews.de/2063725/bericht-chancen-deutsche-wohnen-uebernahme-vonovia-schwinden" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="23" type="date" surface="02.02.16" />
+<Entity id="1" startPos="68" endPos="72" type="number" surface="eins" />
+<Entity id="2" startPos="76" endPos="80" type="number" surface="fünf" />
+<Entity id="3" startPos="114" endPos="127" type="organization-company" surface=" Green Street" />
+<Entity id="4" startPos="143" endPos="150" type="organization-company" surface="Vonovia" />
+<Entity id="5" startPos="186" endPos="187" type="number" surface="1" /></Entities><Relations />
+</Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />BHF Kleinwort Benson<NODE id="20" />: <NODE id="22" />Übernahme<NODE id="31" /> durch <NODE id="38" />Privatbank<NODE id="48" /> in trockenen Tüchern https://t.co/1oCqTsnCYL #outplacement https://t.co/4buou48KZt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="699247696159379456" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-15T15:03:36Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T15:44:35.041Z" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="20" type="organization-company" surface="BHF Kleinwort Benson" />
+<Entity id="1" startPos="22" endPos="31" type="trigger" surface="Übernahme" />
+<Entity id="2" startPos="38" endPos="48" type="organization-company" surface="Privatbank" /></Entities><Relations>
+<Relation id="3" NAME="Acquisition">
+<Entity id="1" label="trigger" />
+<Entity id="0" label="acquired" />
+<Entity id="2" label="buyer" />
+</Relation></Relations>
+</Document>

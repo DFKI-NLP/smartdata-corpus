@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Eingestellt unter: Finanz , FNW ! Top , Int Finanznachrichten , Newsletter FNW
+<NODE id="79" />Ralph Brand<NODE id="90" />, <NODE id="92" />Vorstandsvorsitzender<NODE id="113" /> <NODE id="114" />Zurich Gruppe Deutschland<NODE id="139" />. (Foto: <NODE id="148" />Zurich<NODE id="154" />)
+<NODE id="156" />Zürich<NODE id="162" /> – Der Versicherungskonzern <NODE id="190" />Zurich Insurance<NODE id="206" /> legt in <NODE id="215" />Deutschland<NODE id="226" /> Standorte zusammen und <NODE id="250" />baut Stellen ab<NODE id="265" />. “Das wird eine sehr tiefgreifende Veränderung, eher eine Revolution als eine Evolution”, sagte <NODE id="362" />Ralph Brand<NODE id="373" />, <NODE id="375" />Chef<NODE id="379" /> der noch in <NODE id="392" />Bonn<NODE id="396" /> ansässigen <NODE id="408" />deutschen<NODE id="417" /> Tochter im Interview mit dem <NODE id="447" />“General-Anzeiger”<NODE id="465" /> (Online-Ausgabe). Dem Effizienzprogramm zum Opfer fallen laut <NODE id="528" />Brand<NODE id="533" /> voraussichtlich rund <NODE id="555" />500<NODE id="558" /> der derzeit <NODE id="571" />5’500<NODE id="576" /> Arbeitsplätze bei <NODE id="595" />Zurich Deutschland<NODE id="613" />.
+Die beiden grössten Standorte <NODE id="645" />Bonn<NODE id="649" /> und <NODE id="654" />Köln<NODE id="658" /> sollen dem Bericht zufolge bis <NODE id="690" />Ende 2018<NODE id="699" /> in einem neuen Bürogebäude in <NODE id="730" />Köln<NODE id="734" /> zusammengelegt werden, und das Geschäft soll komplett neu aufgestellt werden. Der Stellenabbau soll vor dem Umzug vollzogen sein. <NODE id="865" />350<NODE id="868" /> Stellen sollen bis Ende nächsten Jahres wegfallen, <NODE id="920" />150<NODE id="923" /> weitere <NODE id="932" />2017<NODE id="936" />.
+“Einfacher, besse
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.moneycab.com/mcc/2015/10/15/zurich-baut-in-deutschland-500-stellen-ab-und-schliesst-bonner-standort/@2016-03-11T00:38:43.152+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T23:38:43.152Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T23:38:53.317Z" />
+<feature featureName="uri" featureValue="http://www.moneycab.com/mcc/2015/10/15/zurich-baut-in-deutschland-500-stellen-ab-und-schliesst-bonner-standort/" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="79" endPos="90" type="person" surface="Ralph Brand" />
+<Entity id="1" startPos="92" endPos="113" type="org-position" surface="Vorstandsvorsitzender" />
+<Entity id="2" startPos="114" endPos="139" type="organization-company" surface="Zurich Gruppe Deutschland" />
+<Entity id="3" startPos="148" endPos="154" type="organization-company" surface="Zurich" />
+<Entity id="4" startPos="156" endPos="162" type="location-city" surface="Zürich" />
+<Entity id="5" startPos="190" endPos="206" type="organization-company" surface="Zurich Insurance" />
+<Entity id="6" startPos="215" endPos="226" type="location" surface="Deutschland" />
+<Entity id="7" startPos="250" endPos="265" type="trigger" surface="baut Stellen ab" />
+<Entity id="8" startPos="362" endPos="373" type="person" surface="Ralph Brand" />
+<Entity id="9" startPos="375" endPos="379" type="org-position" surface="Chef" />
+<Entity id="10" startPos="392" endPos="396" type="location-city" surface="Bonn" />
+<Entity id="11" startPos="408" endPos="417" type="location" surface="deutschen" />
+<Entity id="12" startPos="447" endPos="465" type="organization-company" surface="“General-Anzeiger”" />
+<Entity id="13" startPos="528" endPos="533" type="person" surface="Brand" />
+<Entity id="14" startPos="555" endPos="558" type="number" surface="500" />
+<Entity id="15" startPos="571" endPos="576" type="number" surface="5’500" />
+<Entity id="16" startPos="595" endPos="613" type="organization-company" surface="Zurich Deutschland" />
+<Entity id="17" startPos="645" endPos="649" type="location-city" surface="Bonn" />
+<Entity id="18" startPos="654" endPos="658" type="location-city" surface="Köln" />
+<Entity id="19" startPos="690" endPos="699" type="date" surface="Ende 2018" />
+<Entity id="20" startPos="730" endPos="734" type="location-city" surface="Köln" />
+<Entity id="21" startPos="865" endPos="868" type="number" surface="350" />
+<Entity id="22" startPos="920" endPos="923" type="number" surface="150" />
+<Entity id="23" startPos="932" endPos="936" type="date" surface="2017" /></Entities><Relations>
+<Relation id="24" NAME="Layoffs">
+<Entity id="5" label="company" />
+<Entity id="6" label="location" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="25" NAME="OrganizationLeadership">
+<Entity id="0" label="person" />
+<Entity id="2" label="organization" />
+<Entity id="1" label="position" />
+</Relation></Relations>
+</Document>

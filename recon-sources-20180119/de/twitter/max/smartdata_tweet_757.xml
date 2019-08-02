@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: Klimawandel: <NODE id="21" />2015<NODE id="25" /> wird das wärmste Jahr seit Beginn der Wetteraufzeichnungen. https://t.co/Ec4f9kQbWx
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669470097514303488" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-25T10:58:04Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:12:55.73Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="21" endPos="25" type="date" surface="2015" /></Entities><Relations />
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A4<NODE id="2" /> <NODE id="3" />Dresden<NODE id="10" /> Richtung <NODE id="20" />Chemnitz<NODE id="28" /> <NODE id="29" />Einfahrt Dresden-Flughafen<NODE id="55" /> Einfahrt wieder frei
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp@2016-05-14T10:15:10.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-14T08:15:10Z" />
+<feature featureName="indexDate" featureValue="2016-05-14T08:28:09.357Z" />
+<feature featureName="uri" featureValue="http://www.polizei.sachsen.de/zentral/vwdmeldungen.asp" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A4" />
+<Entity id="1" startPos="3" endPos="10" type="location-city" surface="Dresden" />
+<Entity id="2" startPos="20" endPos="28" type="location-city" surface="Chemnitz" />
+<Entity id="3" startPos="29" endPos="55" type="location" surface="Einfahrt Dresden-Flughafen" /></Entities><Relations />
+</Document>

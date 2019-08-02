@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Lokalnachrichten » Kreis <NODE id="25" />Warendorf <NODE id="35" />» <NODE id="37" />Warendorf<NODE id="46" />
+Windkraft: Kein Ende der Fahnenstange
+<NODE id="85" />Warendorf<NODE id="94" /> (fen) - Das Thema Windkraft wird in <NODE id="131" />diesem Jahr<NODE id="142" /> Stadtverwaltung und Politik beschäftigen. „Wir fangen mit der Planung bei <NODE id="217" />null<NODE id="221" /> an“, sagt Baudirektor <NODE id="244" />Peter Pesch<NODE id="255" />. Wahrscheinlich ist, dass am Ende des Planungsprozesses mehr Windkraft-Gebiete in <NODE id="338" />Warendorf<NODE id="347" /> ausgewiesen sein werden als derzeit.
+Die Zahl der Windkraftanlagen auf dem Stadtgebiet <NODE id="435" />Warendorf<NODE id="444" /> könnte erhöht werden. Entsprechende Rahmenplanungen werden zurzeit im Bauamt vorbereitet.
+Bild: dpa
+Der Flächennutzungsplan muss in Sachen Windkraft überarbeitet werden. Der Grund: Die Kommunen müssen der Windkraft „substanziell Raum“ geben, damit in <NODE id="696" />NRW<NODE id="699" /> das Ziel erreicht wird, bis <NODE id="728" />2020<NODE id="732" /> <NODE id="733" />15 Prozent <NODE id="744" />des benötigten Stroms durch Windenergie produzieren zu lassen. Der derzeitige <NODE id="822" />Warendorfer<NODE id="833" /> Flächennutzungsplan stammt aus dem Jahr <NODE id="874" />2002<NODE id="878" />. <NODE id="880" />100 000 Euro<NODE id="892" /> sind im Haushaltsplanentwurf für die Planungskosten „Flächennutzung
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.die-glocke.de/lokalnachrichten/kreiswarendorf/warendorf/Windkraft-Kein-Ende-der-Fahnenstange-012b8c81-55d8-4c78-bc32-a7c90b742000-ds@2016-03-10T12:10:20.852+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:10:20.852Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T11:10:23.317Z" />
+<feature featureName="uri" featureValue="http://www.die-glocke.de/lokalnachrichten/kreiswarendorf/warendorf/Windkraft-Kein-Ende-der-Fahnenstange-012b8c81-55d8-4c78-bc32-a7c90b742000-ds" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="25" endPos="35" type="location-city" surface="Warendorf " />
+<Entity id="1" startPos="37" endPos="46" type="location-city" surface="Warendorf" />
+<Entity id="2" startPos="85" endPos="94" type="location-city" surface="Warendorf" />
+<Entity id="3" startPos="131" endPos="142" type="date" surface="diesem Jahr" />
+<Entity id="4" startPos="217" endPos="221" type="number" surface="null" />
+<Entity id="5" startPos="244" endPos="255" type="person" surface="Peter Pesch" />
+<Entity id="6" startPos="338" endPos="347" type="location-city" surface="Warendorf" />
+<Entity id="7" startPos="435" endPos="444" type="location-city" surface="Warendorf" />
+<Entity id="8" startPos="696" endPos="699" type="location" surface="NRW" />
+<Entity id="9" startPos="728" endPos="732" type="date" surface="2020" />
+<Entity id="10" startPos="733" endPos="744" type="number" surface="15 Prozent " />
+<Entity id="11" startPos="822" endPos="833" type="location-city" surface="Warendorfer" />
+<Entity id="12" startPos="874" endPos="878" type="date" surface="2002" />
+<Entity id="13" startPos="880" endPos="892" type="number" surface="100 000 Euro" /></Entities><Relations />
+</Document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGEL<NODE id="11" />_Reise: Rinjani macht Ärger: <NODE id="40" />Flughafen auf <NODE id="54" />Bali<NODE id="58" /> wegen <NODE id="65" />Vulkanausbruch<NODE id="79" /> <NODE id="80" />gesperrt<NODE id="88" />... https://t.co/83ajMxo6Vt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="661917134646321152" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-04T14:45:17Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T19:40:05.728Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="11" type="organization-company" surface="SPIEGEL" />
+<Entity id="1" startPos="40" endPos="58" type="location-stop" surface="Flughafen auf Bali" />
+<Entity id="2" startPos="54" endPos="58" type="location" surface="Bali" />
+<Entity id="3" startPos="65" endPos="79" type="disaster-type" surface="Vulkanausbruch" />
+<Entity id="4" startPos="65" endPos="79" type="trigger" surface="Vulkanausbruch" />
+<Entity id="5" startPos="80" endPos="88" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="6" NAME="CanceledStop">
+<Entity id="4" label="cause" />
+<Entity id="1" label="location" />
+<Entity id="5" label="trigger" />
+</Relation>
+<Relation id="7" NAME="Disaster">
+<Entity id="2" label="location" />
+<Entity id="3" label="type" />
+</Relation></Relations>
+</Document>

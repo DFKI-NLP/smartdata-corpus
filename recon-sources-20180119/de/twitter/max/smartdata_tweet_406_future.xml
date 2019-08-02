@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: <NODE id="8" />Gabriel<NODE id="15" /> diktiert nun die Bedingungen für die <NODE id="53" />Übernahme<NODE id="62" /> von <NODE id="67" />Kaiser's-Tengelmann<NODE id="86" /> durch <NODE id="93" />Edeka<NODE id="98" />. https://t.co/2dfDgWJgl0
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="687017038070591488" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-12T21:03:20Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T17:32:14.121Z" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="8" endPos="15" type="person" surface="Gabriel" />
+<Entity id="2" startPos="53" endPos="62" type="trigger" surface="Übernahme" />
+<Entity id="3" startPos="67" endPos="86" type="organization-company" surface="Kaiser's-Tengelmann" />
+<Entity id="4" startPos="93" endPos="98" type="organization-company" surface="Edeka" /></Entities><Relations>
+<Relation id="5" NAME="Acquisition">
+<Entity id="2" label="trigger" />
+<Entity id="3" label="acquired" />
+<Entity id="4" label="buyer" />
+</Relation></Relations>
+</Document>

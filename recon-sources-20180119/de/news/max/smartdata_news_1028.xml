@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Home » Bilder » Neuzugänge im Vorstand der <NODE id="43" />Commerz Real AG<NODE id="58" /> (FOTO)
+Neuzugänge im Vorstand der <NODE id="93" />Commerz Real AG <NODE id="109" />(FOTO)
+Erstellt von Redaktion Bilder <NODE id="146" />Donnerstag, März 10th, 2016<NODE id="173" />
+Der Aufsichtsrat der <NODE id="195" />Commerz Real AG<NODE id="210" /> hat <NODE id="215" />zwei<NODE id="219" /> neue Mitglieder in
+den Vorstand der <NODE id="256" />hundertprozentigen<NODE id="274" /> <NODE id="275" />Commerzbank<NODE id="286" />-<NODE id="287" />Tochtergesellschaft<NODE id="306" />
+berufen.
+<NODE id="316" />Johannes Anschott<NODE id="333" /> (<NODE id="335" />46<NODE id="337" />), derzeit Leiter der
+<NODE id="359" />Commerzbank<NODE id="370" />-Niederlassung für Großkunden in <NODE id="403" />Hamburg<NODE id="410" />, wird per <NODE id="421" />1.
+April 2016<NODE id="434" /> in die <NODE id="442" />Commerz Real<NODE id="454" /> eintreten und zum <NODE id="473" />15. Mai 2016 <NODE id="486" />die
+Vorstandsposition von <NODE id="512" />Dr. Frank Henes<NODE id="527" /> (<NODE id="529" />52<NODE id="531" />) übernehmen, der das
+Unternehmen nach fast <NODE id="575" />sechs Jahren<NODE id="587" /> verlässt und sich für eine neue
+Managementfunktion außerhalb des Konzerns entschieden hat. Aufgrund
+seiner Tätigkeiten für die Konzernsegmente Mittelstandsbank und
+Corporates &amp; Markets verfügt <NODE id="781" />Johannes Anschott<NODE id="798" /> über ein
+hervorragendes institutionelles Kundennetzwerk sowie eine breite
+Strukturierungs- und Leasingexpertise. Er ist seit <NODE id="924" />2000<NODE id="928" /> für die
+<NODE id="937" />Commerzbank<NODE id="948" /> tätig
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.88news.de/neuzugaenge-im-vorstand-der-commerz-real-ag-foto-1331702.html/@2016-03-10T12:09:41.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T11:09:41Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T14:01:04.781Z" />
+<feature featureName="uri" featureValue="http://www.88news.de/neuzugaenge-im-vorstand-der-commerz-real-ag-foto-1331702.html/" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="43" endPos="58" type="organization-company" surface="Commerz Real AG" />
+<Entity id="1" startPos="93" endPos="109" type="organization-company" surface="Commerz Real AG " />
+<Entity id="2" startPos="146" endPos="173" type="date" surface="Donnerstag, März 10th, 2016" />
+<Entity id="3" startPos="195" endPos="210" type="organization-company" surface="Commerz Real AG" />
+<Entity id="4" startPos="215" endPos="219" type="number" surface="zwei" />
+<Entity id="5" startPos="256" endPos="274" type="number" surface="hundertprozentigen" />
+<Entity id="6" startPos="275" endPos="286" type="organization-company" surface="Commerzbank" />
+<Entity id="7" startPos="275" endPos="306" type="organization-company" surface="Commerzbank-Tochtergesellschaft" />
+<Entity id="8" startPos="287" endPos="306" type="trigger" surface="Tochtergesellschaft" />
+<Entity id="9" startPos="316" endPos="333" type="person" surface="Johannes Anschott" />
+<Entity id="10" startPos="335" endPos="337" type="number" surface="46" />
+<Entity id="11" startPos="359" endPos="370" type="organization-company" surface="Commerzbank" />
+<Entity id="12" startPos="403" endPos="410" type="location-city" surface="Hamburg" />
+<Entity id="13" startPos="421" endPos="434" type="date" surface="1.&#xA;April 2016" />
+<Entity id="14" startPos="442" endPos="454" type="organization-company" surface="Commerz Real" />
+<Entity id="15" startPos="473" endPos="486" type="date" surface="15. Mai 2016 " />
+<Entity id="16" startPos="512" endPos="527" type="person" surface="Dr. Frank Henes" />
+<Entity id="17" startPos="529" endPos="531" type="date" surface="52" />
+<Entity id="18" startPos="575" endPos="587" type="duration" surface="sechs Jahren" />
+<Entity id="19" startPos="781" endPos="798" type="person" surface="Johannes Anschott" />
+<Entity id="20" startPos="924" endPos="928" type="date" surface="2000" />
+<Entity id="21" startPos="937" endPos="948" type="organization-company" surface="Commerzbank" /></Entities><Relations>
+<Relation id="22" NAME="CompanyRelationship">
+<Entity id="6" label="parent" />
+<Entity id="8" label="trigger" />
+<Entity id="3" label="child" />
+</Relation>
+<Relation id="23" NAME="Identity">
+<Entity id="3" label="source" />
+<Entity id="7" label="target" />
+</Relation></Relations>
+</Document>

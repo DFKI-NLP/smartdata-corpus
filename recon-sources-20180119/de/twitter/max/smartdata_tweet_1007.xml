@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />BHF Kleinwort<NODE id="13" /> <NODE id="14" />übernommen<NODE id="24" />: <NODE id="26" />Oddo<NODE id="30" /> leitet Squeeze-out ein: <NODE id="55" />n-tv.de<NODE id="62" />: Die Übernahme von <NODE id="82" />BHF Kleinwort Benson<NODE id="102" /> durch d... https://t.co/S3twCJRBA3
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="699190370807128064" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-15T11:15:49Z" />
+<feature featureName="indexDate" featureValue="2016-07-05T22:20:41.801Z" />
+<feature featureName="uri" featureValue="https://twitter.com/115967481/status/699190370807128064" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="organization-company" surface="BHF Kleinwort" />
+<Entity id="1" startPos="14" endPos="24" type="trigger" surface="übernommen" />
+<Entity id="2" startPos="26" endPos="30" type="organization-company" surface="Oddo" />
+<Entity id="3" startPos="55" endPos="62" type="organization-company" surface="n-tv.de" />
+<Entity id="4" startPos="82" endPos="102" type="organization-company" surface="BHF Kleinwort Benson" /></Entities><Relations>
+<Relation id="5" NAME="Acquisition">
+<Entity id="1" label="trigger" />
+<Entity id="0" label="acquired" />
+<Entity id="2" label="buyer" />
+</Relation></Relations>
+</Document>

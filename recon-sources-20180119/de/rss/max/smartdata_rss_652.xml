@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>an mehreren Terminen
+ am <NODE id="25" />Samstag, 30.<NODE id="37" /> und <NODE id="42" />Sonntag, 31. Juli<NODE id="59" />
+ am <NODE id="64" />Samstag, 20.<NODE id="76" /> und <NODE id="81" />Sonntag, 21. August<NODE id="100" />
+jeweils <NODE id="109" />ganztägig<NODE id="118" />
+Meldung:
+ Mehrere <NODE id="137" />IC-Züge<NODE id="144" /> beginnen/enden in <NODE id="163" />Horb<NODE id="167" /> und <NODE id="172" />fallen<NODE id="178" /> zwischen <NODE id="188" />Stuttgart Hbf<NODE id="201" /> und <NODE id="206" />Horb<NODE id="210" /> <NODE id="211" />aus<NODE id="214" />.
+ Mehrere <NODE id="225" />IC-Züge<NODE id="232" /> beginnen/enden in <NODE id="251" />Singen (Hohentwiel)<NODE id="270" /> und <NODE id="275" />fallen<NODE id="281" /> zwischen <NODE id="291" />Stuttgart Hbf<NODE id="304" /> und <NODE id="309" />Singen (Hohentwiel)<NODE id="328" /> <NODE id="329" />aus<NODE id="332" />.
+Grund:
+Bauarbeiten <NODE id="353" />Stuttgart Hbf<NODE id="366" /> – <NODE id="369" />Horb<NODE id="373" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="443" />174<NODE id="446" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_87-Stuttgart-Singen-Schaffhausen-Zuerich/44#e3debb3023759626cb236ac96072613775138fc9@2016-04-25T13:29:55.413+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-25T11:29:55.413Z" />
+<feature featureName="indexDate" featureValue="2016-04-25T11:30:10.292Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_87-Stuttgart-Singen-Schaffhausen-Zuerich/44#e3debb3023759626cb236ac96072613775138fc9" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="25" endPos="37" type="date" surface="Samstag, 30." />
+<Entity id="1" startPos="42" endPos="59" type="date" surface="Sonntag, 31. Juli" />
+<Entity id="2" startPos="64" endPos="76" type="date" surface="Samstag, 20." />
+<Entity id="3" startPos="81" endPos="100" type="date" surface="Sonntag, 21. August" />
+<Entity id="4" startPos="109" endPos="118" type="duration" surface="ganztägig" />
+<Entity id="5" startPos="137" endPos="144" type="location-route" surface="IC-Züge" />
+<Entity id="6" startPos="163" endPos="167" type="location-stop" surface="Horb" />
+<Entity id="7" startPos="172" endPos="178" type="trigger" surface="fallen" />
+<Entity id="8" startPos="188" endPos="201" type="location-stop" surface="Stuttgart Hbf" />
+<Entity id="9" startPos="206" endPos="210" type="location-stop" surface="Horb" />
+<Entity id="10" startPos="211" endPos="214" type="trigger" surface="aus" />
+<Entity id="11" startPos="225" endPos="232" type="location-route" surface="IC-Züge" />
+<Entity id="12" startPos="251" endPos="270" type="location-stop" surface="Singen (Hohentwiel)" />
+<Entity id="13" startPos="275" endPos="281" type="trigger" surface="fallen" />
+<Entity id="14" startPos="291" endPos="304" type="location-stop" surface="Stuttgart Hbf" />
+<Entity id="15" startPos="309" endPos="328" type="location-stop" surface="Singen (Hohentwiel)" />
+<Entity id="16" startPos="329" endPos="332" type="trigger" surface="aus" />
+<Entity id="17" startPos="353" endPos="366" type="location-stop" surface="Stuttgart Hbf" />
+<Entity id="18" startPos="369" endPos="373" type="location-stop" surface="Horb" />
+<Entity id="19" startPos="443" endPos="446" type="number" surface="174" /></Entities><Relations>
+<Relation id="20" NAME="CanceledRoute">
+<Entity id="5" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="10" label="trigger" />
+<Entity id="9" label="end_loc" />
+<Entity id="8" label="end_loc" />
+</Relation>
+<Relation id="21" NAME="CanceledRoute">
+<Entity id="15" label="end_loc" />
+<Entity id="14" label="start_loc" />
+<Entity id="11" label="location" />
+<Entity id="16" label="trigger" />
+<Entity id="13" label="trigger" />
+</Relation></Relations>
+</Document>

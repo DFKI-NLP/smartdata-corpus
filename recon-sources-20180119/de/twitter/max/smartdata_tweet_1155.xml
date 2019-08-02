@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Alles klar! 
+
+#<NODE id="15" />FRA<NODE id="18" /> wird #Europameister! #<NODE id="41" />FRA<NODE id="44" />ISL<NODE id="47" /> #EURO2016 
+
+P.S. #<NODE id="66" />ISL<NODE id="69" /> gewinnt trotzdem
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="749683641903640577" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-03T19:18:03Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T07:13:29.36Z" />
+<feature featureName="uri" featureValue="https://twitter.com/4863435515/status/749683641903640577" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="18" type="organization" surface="FRA" />
+<Entity id="1" startPos="41" endPos="44" type="organization" surface="FRA" />
+<Entity id="2" startPos="44" endPos="47" type="organization" surface="ISL" />
+<Entity id="3" startPos="66" endPos="69" type="organization" surface="ISL" /></Entities><Relations />
+</Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A5<NODE id="2" /> <NODE id="3" />Karlsruhe<NODE id="12" /> Richtung <NODE id="22" />Basel<NODE id="27" /> zwischen <NODE id="37" />Offenburg<NODE id="46" /> und <NODE id="51" />Lahr<NODE id="55" /> Hindernisse beseitigt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=5f9b345c-c164-45a7-b832-0c579103cb80@2016-05-21T14:24:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-21T12:24:00Z" />
+<feature featureName="indexDate" featureValue="2016-05-21T12:31:12.031Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=5f9b345c-c164-45a7-b832-0c579103cb80" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A5" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Karlsruhe" />
+<Entity id="2" startPos="22" endPos="27" type="location-city" surface="Basel" />
+<Entity id="3" startPos="37" endPos="46" type="location" surface="Offenburg" />
+<Entity id="4" startPos="51" endPos="55" type="location" surface="Lahr" /></Entities><Relations />
+</Document>

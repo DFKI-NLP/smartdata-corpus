@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Täglich aktuell auf <NODE id="20" />wirtschaftsblatt.at<NODE id="39" />: Diese Insolvenzen hat der <NODE id="67" />KSV1870<NODE id="74" /> mit heutigem Datum registriert.
+Mit <NODE id="111" />22. Februar 2015<NODE id="127" /> wurden in <NODE id="138" />Österreich<NODE id="148" /> vom <NODE id="153" />KSV1870<NODE id="160" /> folgende <NODE id="170" />Insolvenzen<NODE id="181" /> registriert.
+<NODE id="195" />HG-Wien<NODE id="202" />
+<NODE id="203" />ArmStrong Business Events GmbH<NODE id="233" />, <NODE id="235" />Sternwartestraße<NODE id="251" /> <NODE id="252" />39<NODE id="254" />, <NODE id="256" />1180<NODE id="260" /> <NODE id="261" />Wien<NODE id="265" />, FN <NODE id="270" />213243<NODE id="276" /> v, MV: Mag. <NODE id="289" />Clemens Richte<NODE id="303" />r Rechtsanwalt, <NODE id="319" />1030<NODE id="323" /> <NODE id="324" />Wien<NODE id="328" /> (K)
+<NODE id="333" />BA-SE Unternehmenslogistik Gesellschaft m.b.H.<NODE id="379" /> zuletzt, <NODE id="389" />Percostraße<NODE id="400" /> <NODE id="401" />15<NODE id="403" />, <NODE id="405" />1220<NODE id="409" /> <NODE id="410" />Wien<NODE id="414" />, FN <NODE id="419" />39679<NODE id="424" /> b, MV: <NODE id="432" />Dr. Erwin Senoner<NODE id="449" /> Rechtsanwalt, <NODE id="464" />1070<NODE id="468" /> <NODE id="469" />Wien<NODE id="473" /> (K)
+<NODE id="478" />Csaba Varga<NODE id="489" /> geb. <NODE id="495" />28.10.1970<NODE id="505" /> Gastgewerbe WO: <NODE id="522" />1020<NODE id="526" /> <NODE id="527" />Wien<NODE id="531" />, <NODE id="533" />Schüttelstraße<NODE id="547" /> <NODE id="548" />57<NODE id="550" />/<NODE id="551" />28<NODE id="553" />, <NODE id="555" />Laxenburgerstraße<NODE id="572" /> <NODE id="573" />107<NODE id="576" />, <NODE id="578" />1100<NODE id="582" /> <NODE id="583" />Wien<NODE id="587" />, MV: Mag. <NODE id="598" />Wolfgang Herzer<NODE id="613" /> Rechtsanwalt, <NODE id="628" />1010<NODE id="632" /> <NODE id="633" />Wien<NODE id="637" /> (K)
+<NODE id="642" />LG-Graz<NODE id="649" />
+<NODE id="650" />Dr. Wolfgang Ott<NODE id="666" /> geb. <NODE id="672" />13.07.1965<NODE id="682" /> praktischer Arzt, <NODE id="701" />Hans-Sutter-Gasse<NODE id="718" /> <NODE id="719" />3<NODE id="720" />, <NODE id="722" />8160<NODE id="726" /> Weiz, MV: Hon.Prof.Dr. <NODE id="750" />Axel Reckenzaun<NODE id="765" /> Rechtsanwalt, <NODE id="780" />8020<NODE id="784" /> <NODE id="785" />Graz<NODE id="789" /> (K)
+<NODE id="794" />Stefan Karl Bischhorn<NODE id="815" /> geboren am <NODE id="827" />31.01.1972<NODE id="837" /> freischaffender Künstler und Musiker, Rohbachschlag <NODE id="890" />30<NODE id="892" />, <NODE id="894" />8234<NODE id="898" /> <NODE id="899" />Rohrbach Lafnitz<NODE id="915" />, MV: Mag. Bern
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://wirtschaftsblatt.at/home/nachrichten/newsletter/4931151/Insolvent-am-22-Februar-2016@2016-02-22T14:46:32.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-22T13:46:32Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T06:01:02.952Z" />
+<feature featureName="uri" featureValue="http://wirtschaftsblatt.at/home/nachrichten/newsletter/4931151/Insolvent-am-22-Februar-2016" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="39" type="organization-company" surface="wirtschaftsblatt.at" />
+<Entity id="1" startPos="67" endPos="74" type="organization" surface="KSV1870" />
+<Entity id="2" startPos="111" endPos="127" type="date" surface="22. Februar 2015" />
+<Entity id="3" startPos="138" endPos="148" type="location" surface="Österreich" />
+<Entity id="4" startPos="153" endPos="160" type="organization" surface="KSV1870" />
+<Entity id="5" startPos="170" endPos="181" type="trigger" surface="Insolvenzen" />
+<Entity id="6" startPos="195" endPos="202" type="organization" surface="HG-Wien" />
+<Entity id="7" startPos="203" endPos="233" type="organization-company" surface="ArmStrong Business Events GmbH" />
+<Entity id="8" startPos="235" endPos="251" type="location-street" surface="Sternwartestraße" />
+<Entity id="9" startPos="252" endPos="254" type="number" surface="39" />
+<Entity id="10" startPos="256" endPos="260" type="number" surface="1180" />
+<Entity id="11" startPos="261" endPos="265" type="location-city" surface="Wien" />
+<Entity id="12" startPos="270" endPos="276" type="number" surface="213243" />
+<Entity id="13" startPos="289" endPos="303" type="person" surface="Clemens Richte" />
+<Entity id="14" startPos="319" endPos="323" type="number" surface="1030" />
+<Entity id="15" startPos="324" endPos="328" type="location-city" surface="Wien" />
+<Entity id="16" startPos="333" endPos="379" type="organization-company" surface="BA-SE Unternehmenslogistik Gesellschaft m.b.H." />
+<Entity id="17" startPos="389" endPos="400" type="location-street" surface="Percostraße" />
+<Entity id="18" startPos="401" endPos="403" type="number" surface="15" />
+<Entity id="19" startPos="405" endPos="409" type="number" surface="1220" />
+<Entity id="20" startPos="410" endPos="414" type="location-city" surface="Wien" />
+<Entity id="21" startPos="419" endPos="424" type="number" surface="39679" />
+<Entity id="22" startPos="432" endPos="449" type="person" surface="Dr. Erwin Senoner" />
+<Entity id="23" startPos="464" endPos="468" type="number" surface="1070" />
+<Entity id="24" startPos="469" endPos="473" type="location-city" surface="Wien" />
+<Entity id="25" startPos="478" endPos="489" type="person" surface="Csaba Varga" />
+<Entity id="26" startPos="495" endPos="505" type="date" surface="28.10.1970" />
+<Entity id="27" startPos="522" endPos="526" type="number" surface="1020" />
+<Entity id="28" startPos="527" endPos="531" type="location-city" surface="Wien" />
+<Entity id="29" startPos="533" endPos="547" type="location-street" surface="Schüttelstraße" />
+<Entity id="30" startPos="548" endPos="550" type="number" surface="57" />
+<Entity id="31" startPos="551" endPos="553" type="number" surface="28" />
+<Entity id="32" startPos="555" endPos="572" type="location-street" surface="Laxenburgerstraße" />
+<Entity id="33" startPos="573" endPos="576" type="number" surface="107" />
+<Entity id="34" startPos="578" endPos="582" type="number" surface="1100" />
+<Entity id="35" startPos="583" endPos="587" type="location-city" surface="Wien" />
+<Entity id="36" startPos="598" endPos="613" type="person" surface="Wolfgang Herzer" />
+<Entity id="37" startPos="628" endPos="632" type="number" surface="1010" />
+<Entity id="38" startPos="633" endPos="637" type="location-city" surface="Wien" />
+<Entity id="39" startPos="642" endPos="649" type="organization" surface="LG-Graz" />
+<Entity id="40" startPos="650" endPos="666" type="person" surface="Dr. Wolfgang Ott" />
+<Entity id="41" startPos="672" endPos="682" type="date" surface="13.07.1965" />
+<Entity id="42" startPos="701" endPos="718" type="location-street" surface="Hans-Sutter-Gasse" />
+<Entity id="43" startPos="719" endPos="720" type="number" surface="3" />
+<Entity id="44" startPos="722" endPos="726" type="number" surface="8160" />
+<Entity id="45" startPos="750" endPos="765" type="location-street" surface="Axel Reckenzaun" />
+<Entity id="46" startPos="780" endPos="784" type="number" surface="8020" />
+<Entity id="47" startPos="785" endPos="789" type="location-city" surface="Graz" />
+<Entity id="48" startPos="794" endPos="815" type="person" surface="Stefan Karl Bischhorn" />
+<Entity id="49" startPos="827" endPos="837" type="date" surface="31.01.1972" />
+<Entity id="50" startPos="890" endPos="892" type="number" surface="30" />
+<Entity id="51" startPos="894" endPos="898" type="number" surface="8234" />
+<Entity id="52" startPos="899" endPos="915" type="location-city" surface="Rohrbach Lafnitz" /></Entities><Relations>
+<Relation id="53" NAME="Insolvency">
+<Entity id="2" label="date" />
+<Entity id="16" label="company" />
+<Entity id="5" label="trigger" />
+</Relation>
+<Relation id="54" NAME="Insolvency">
+<Entity id="2" label="date" />
+<Entity id="7" label="company" />
+<Entity id="5" label="trigger" />
+</Relation></Relations>
+</Document>

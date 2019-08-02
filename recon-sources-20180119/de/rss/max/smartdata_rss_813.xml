@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Freitag, 26.<NODE id="15" /> und <NODE id="20" />Samstag, 27. Februar<NODE id="40" />, jeweils <NODE id="50" />13.55<NODE id="55" /> – <NODE id="58" />18.15 Uhr
+<NODE id="68" />Meldung:
+<NODE id="77" />IC 2083 <NODE id="85" />von <NODE id="89" />Hamburg-Altona<NODE id="103" /> (planmäßige Ankunft <NODE id="124" />16.55 Uhr<NODE id="133" /> in <NODE id="137" />Berchtesgaden Hbf<NODE id="154" />) wird umgeleitet und <NODE id="176" />hält nicht<NODE id="186" /> in <NODE id="190" />München Ost<NODE id="201" />. Aufgrund der Umleitung verspätet sich der Zug bis <NODE id="253" />Freilassing<NODE id="264" /> um bis zu <NODE id="275" />20 Min<NODE id="281" />. Von <NODE id="287" />Freilassing<NODE id="298" /> bis <NODE id="303" />Berchtesgaden Hbf<NODE id="320" /> wird der Zug durch einen Bus ersetzt.
+Grund:
+Oberleitungsarbeiten <NODE id="387" />München<NODE id="394" /> – <NODE id="397" />Rosenheim<NODE id="406" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="476" />90<NODE id="478" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_26-Binz_-_Stralsund_Westerland-Hamburg-Hannover-Giessen-Frankfurt_M-Karlsuhe_Nuernberg-Oberstdorf_Passau_Muenchen_Berchtesgaden_/11#ef293f179f0fa6f8a87c274a859ade6e04e1772e@2016-02-26T17:15:46.254+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-26T16:15:46.254Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:27:09.02Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_26-Binz_-_Stralsund_Westerland-Hamburg-Hannover-Giessen-Frankfurt_M-Karlsuhe_Nuernberg-Oberstdorf_Passau_Muenchen_Berchtesgaden_/11#ef293f179f0fa6f8a87c274a859ade6e04e1772e" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="15" type="date" surface="Freitag, 26." />
+<Entity id="1" startPos="20" endPos="40" type="date" surface="Samstag, 27. Februar" />
+<Entity id="2" startPos="50" endPos="55" type="time" surface="13.55" />
+<Entity id="3" startPos="58" endPos="68" type="time" surface="18.15 Uhr&#xA;" />
+<Entity id="4" startPos="77" endPos="85" type="location-route" surface="IC 2083 " />
+<Entity id="5" startPos="89" endPos="103" type="location-stop" surface="Hamburg-Altona" />
+<Entity id="6" startPos="124" endPos="133" type="time" surface="16.55 Uhr" />
+<Entity id="7" startPos="137" endPos="154" type="location-stop" surface="Berchtesgaden Hbf" />
+<Entity id="8" startPos="176" endPos="186" type="trigger" surface="hält nicht" />
+<Entity id="9" startPos="190" endPos="201" type="location-stop" surface="München Ost" />
+<Entity id="10" startPos="253" endPos="264" type="location-stop" surface="Freilassing" />
+<Entity id="11" startPos="275" endPos="281" type="duration" surface="20 Min" />
+<Entity id="12" startPos="287" endPos="298" type="location-stop" surface="Freilassing" />
+<Entity id="13" startPos="303" endPos="320" type="location-stop" surface="Berchtesgaden Hbf" />
+<Entity id="14" startPos="387" endPos="394" type="location-stop" surface="München" />
+<Entity id="15" startPos="397" endPos="406" type="location-stop" surface="Rosenheim" />
+<Entity id="16" startPos="476" endPos="478" type="number" surface="90" /></Entities><Relations>
+<Relation id="17" NAME="CanceledStop">
+<Entity id="4" label="route" />
+<Entity id="9" label="location" />
+<Entity id="8" label="trigger" />
+</Relation></Relations>
+</Document>

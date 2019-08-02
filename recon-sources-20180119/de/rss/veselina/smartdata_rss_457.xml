@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Montag, 16. Mai<NODE id="18" />, <NODE id="20" />21.50<NODE id="25" /> – <NODE id="28" />23.00 Uhr<NODE id="37" />
+Meldung:
+<NODE id="47" />IC 1284<NODE id="54" /> von <NODE id="59" />München Hbf<NODE id="70" /> (planmäßige Ankunft <NODE id="91" />22.33 Uhr<NODE id="100" /> in <NODE id="104" />Flensburg<NODE id="113" />) <NODE id="115" />verspätet sich<NODE id="129" /> von <NODE id="134" />Rendsburg<NODE id="143" /> bis <NODE id="148" />Flensburg<NODE id="157" /> um <NODE id="161" />23 Min<NODE id="167" />.
+Grund:
+Weichenerneuerung in <NODE id="197" />Rendsburg<NODE id="206" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="276" />200<NODE id="279" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_26-Binz_-_Stralsund_Westerland-Hamburg-Hannover-Giessen-Frankfurt_M-Karlsruhe_Nuernberg-Oberstdorf_Passau_Muenchen_Berchtesgaden_/11#034125580d6b49bcbb843d3b1a1e0cab1126bc12@2016-04-28T07:56:34.217+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-28T05:56:34.217Z" />
+<feature featureName="indexDate" featureValue="2016-04-28T05:57:19.224Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/IC_26-Binz_-_Stralsund_Westerland-Hamburg-Hannover-Giessen-Frankfurt_M-Karlsruhe_Nuernberg-Oberstdorf_Passau_Muenchen_Berchtesgaden_/11#034125580d6b49bcbb843d3b1a1e0cab1126bc12" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="18" type="date" surface="Montag, 16. Mai" />
+<Entity id="1" startPos="20" endPos="25" type="time" surface="21.50" />
+<Entity id="2" startPos="28" endPos="37" type="time" surface="23.00 Uhr" />
+<Entity id="3" startPos="47" endPos="54" type="location-route" surface="IC 1284" />
+<Entity id="4" startPos="59" endPos="70" type="location-stop" surface="München Hbf" />
+<Entity id="5" startPos="91" endPos="100" type="time" surface="22.33 Uhr" />
+<Entity id="6" startPos="104" endPos="113" type="location-stop" surface="Flensburg" />
+<Entity id="7" startPos="115" endPos="129" type="trigger" surface="verspätet sich" />
+<Entity id="8" startPos="134" endPos="143" type="location-stop" surface="Rendsburg" />
+<Entity id="9" startPos="148" endPos="157" type="location-stop" surface="Flensburg" />
+<Entity id="10" startPos="161" endPos="167" type="duration" surface="23 Min" />
+<Entity id="11" startPos="197" endPos="206" type="location-stop" surface="Rendsburg" />
+<Entity id="12" startPos="276" endPos="279" type="number" surface="200" /></Entities><Relations>
+<Relation id="13" NAME="Delay">
+<Entity id="10" label="delay" />
+<Entity id="9" label="end_loc" />
+<Entity id="8" label="start_loc" />
+<Entity id="3" label="location" />
+<Entity id="7" label="trigger" />
+<Entity id="6" label="direction" />
+<Entity id="0" label="start_date" />
+</Relation></Relations>
+</Document>

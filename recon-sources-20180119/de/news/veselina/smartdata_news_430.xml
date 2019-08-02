@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Osborne Clarke<NODE id="14" />: Wire­card kauft bra­si­lia­ni­schen Wett­be­werber<NODE id="66" />
+<NODE id="67" />24.02.2016<NODE id="77" />
+<NODE id="78" />Wirecard AG<NODE id="89" /> und ihre <NODE id="99" />Tochtergesellschaft<NODE id="118" /> <NODE id="119" />Wirecard Acquiring &amp; Issuing<NODE id="147" /> haben den Zahlungsdienstleister <NODE id="180" />Moip Pagamentos<NODE id="195" /> <NODE id="196" />übernommen<NODE id="206" />.<NODE id="207" /> <NODE id="208" />Osborne Clarke<NODE id="222" /> beriet <NODE id="230" />Wirecard<NODE id="238" /> bei dieser Transaktion.<NODE id="262" />
+ 
+<NODE id="265" />Björn Hürten<NODE id="277" />
+<NODE id="278" />Die im Rahmen der Transaktion geschuldeten Gegenleistungen stellen Barzahlungen in Höhe von 23,5 Millionen Euro dar.<NODE id="394" /> <NODE id="395" />Weitere Earnout-Zahlungen von bis zu 13,5 Millionen Euro sind mit dem Erreichen bestimmter finanzieller Ergebnisse der <NODE id="514" />Moip Pagamentos<NODE id="529" /> in den Geschäftsjahren 2016, 2017 und 2018 verbunden.<NODE id="583" />
+<NODE id="584" />Wirecard<NODE id="592" /> übernimmt sämtliche Anteile an dem Unternehmen und ein Team von mehr als 150 Mitarbeitern am Standort <NODE id="695" />Sao Paulo<NODE id="704" />.<NODE id="705" /> <NODE id="706" />Die Transaktion stellt gleichzeitig den Markteintritt von <NODE id="764" />Wirecard<NODE id="772" /> in <NODE id="776" />Brasilien<NODE id="785" /> dar.<NODE id="790" />
+<NODE id="791" />Moip Pagamentos<NODE id="806" /> hat eine Zahlungsplattform für kleine und mittlere Händler entwickelt.<NODE id="877" /> <NODE id="878" />Das Unternehmen konzentriert sich auf den Bereich d<NODE id="929" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.lto.de/recht/kanzleien-unternehmen/k/osborne-clarke-osborne-clarke-beraet-wirecard-bei-der-uebernahme-von-moip-pagamentos-sa/@2016-02-24T09:17:01.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T08:17:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T21:59:32.952Z" />
+<feature featureName="uri" featureValue="http://www.lto.de/recht/kanzleien-unternehmen/k/osborne-clarke-osborne-clarke-beraet-wirecard-bei-der-uebernahme-von-moip-pagamentos-sa/" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="organization-company" surface="Osborne Clarke" />
+<Entity id="1" startPos="0" endPos="66" type="sentence" surface="Osborne Clarke: Wire­card kauft bra­si­lia­ni­schen Wett­be­werber" />
+<Entity id="2" startPos="67" endPos="77" type="sentence" surface="24.02.2016" />
+<Entity id="3" startPos="78" endPos="89" type="organization-company" surface="Wirecard AG" />
+<Entity id="4" startPos="78" endPos="207" type="sentence" surface="Wirecard AG und ihre Tochtergesellschaft Wirecard Acquiring &amp; Issuing haben den Zahlungsdienstleister Moip Pagamentos übernommen." />
+<Entity id="5" startPos="99" endPos="118" type="trigger" surface="Tochtergesellschaft" />
+<Entity id="6" startPos="119" endPos="147" type="organization-company" surface="Wirecard Acquiring &amp; Issuing" />
+<Entity id="7" startPos="180" endPos="195" type="organization-company" surface="Moip Pagamentos" />
+<Entity id="8" startPos="196" endPos="206" type="trigger" surface="übernommen" />
+<Entity id="9" startPos="208" endPos="222" type="organization-company" surface="Osborne Clarke" />
+<Entity id="10" startPos="208" endPos="262" type="sentence" surface="Osborne Clarke beriet Wirecard bei dieser Transaktion." />
+<Entity id="11" startPos="230" endPos="238" type="organization-company" surface="Wirecard" />
+<Entity id="12" startPos="265" endPos="277" type="person" surface="Björn Hürten" />
+<Entity id="13" startPos="278" endPos="394" type="sentence" surface="Die im Rahmen der Transaktion geschuldeten Gegenleistungen stellen Barzahlungen in Höhe von 23,5 Millionen Euro dar." />
+<Entity id="14" startPos="395" endPos="583" type="sentence" surface="Weitere Earnout-Zahlungen von bis zu 13,5 Millionen Euro sind mit dem Erreichen bestimmter finanzieller Ergebnisse der Moip Pagamentos in den Geschäftsjahren 2016, 2017 und 2018 verbunden." />
+<Entity id="15" startPos="514" endPos="529" type="organization-company" surface="Moip Pagamentos" />
+<Entity id="16" startPos="584" endPos="592" type="organization-company" surface="Wirecard" />
+<Entity id="17" startPos="584" endPos="705" type="sentence" surface="Wirecard übernimmt sämtliche Anteile an dem Unternehmen und ein Team von mehr als 150 Mitarbeitern am Standort Sao Paulo." />
+<Entity id="18" startPos="695" endPos="704" type="location" surface="Sao Paulo" />
+<Entity id="19" startPos="706" endPos="790" type="sentence" surface="Die Transaktion stellt gleichzeitig den Markteintritt von Wirecard in Brasilien dar." />
+<Entity id="20" startPos="764" endPos="772" type="organization-company" surface="Wirecard" />
+<Entity id="21" startPos="776" endPos="785" type="location" surface="Brasilien" />
+<Entity id="22" startPos="791" endPos="806" type="organization-company" surface="Moip Pagamentos" />
+<Entity id="23" startPos="791" endPos="877" type="sentence" surface="Moip Pagamentos hat eine Zahlungsplattform für kleine und mittlere Händler entwickelt." />
+<Entity id="24" startPos="878" endPos="929" type="sentence" surface="Das Unternehmen konzentriert sich auf den Bereich d" /></Entities><Relations>
+<Relation id="25" NAME="Acquisition">
+<Entity id="8" label="trigger" />
+<Entity id="7" label="acquired" />
+<Entity id="6" label="buyer" />
+</Relation>
+<Relation id="26" NAME="CompanyRelationship">
+<Entity id="3" label="parent" />
+<Entity id="5" label="trigger" />
+<Entity id="6" label="child" />
+</Relation></Relations>
+</Document>

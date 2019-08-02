@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Eine vorsorgliche Meldung: die <NODE id="31" />A7<NODE id="33" /> <NODE id="34" />Hamburg<NODE id="41" /> - <NODE id="44" />Hannover<NODE id="52" /> wird im <NODE id="61" />Dreieck Walsrode<NODE id="77" /> von <NODE id="82" />15 Uhr<NODE id="88" /> bis <NODE id="93" />Sonntag<NODE id="100" />, <NODE id="102" />10 Uhr<NODE id="108" />, in Richtung <NODE id="122" />A27<NODE id="125" /> <NODE id="126" />Bremer Kreuz<NODE id="138" /> <NODE id="139" />gesperrt<NODE id="147" />. Ebenso wird die <NODE id="165" />A27<NODE id="168" /> <NODE id="169" />Walsrode<NODE id="177" /> - <NODE id="180" />Bremen<NODE id="186" />  zwischen <NODE id="197" />Dreieck Walsrode<NODE id="213" /> und <NODE id="218" />Walsrode-Süd<NODE id="230" /> wegen <NODE id="237" />Bauarbeiten<NODE id="248" /> in <NODE id="252" />beiden Richtungen<NODE id="269" /> <NODE id="270" />gesperrt<NODE id="278" />.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#9@2016-02-19T12:47:29.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-19T11:47:29Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T05:29:44.887Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="31" endPos="33" type="location-street" surface="A7" />
+<Entity id="1" startPos="34" endPos="41" type="location-city" surface="Hamburg" />
+<Entity id="2" startPos="44" endPos="52" type="location-city" surface="Hannover" />
+<Entity id="3" startPos="61" endPos="77" type="location" surface="Dreieck Walsrode" />
+<Entity id="4" startPos="82" endPos="88" type="time" surface="15 Uhr" />
+<Entity id="5" startPos="93" endPos="100" type="date" surface="Sonntag" />
+<Entity id="6" startPos="102" endPos="108" type="time" surface="10 Uhr" />
+<Entity id="7" startPos="122" endPos="125" type="location-street" surface="A27" />
+<Entity id="8" startPos="126" endPos="138" type="location" surface="Bremer Kreuz" />
+<Entity id="9" startPos="139" endPos="147" type="trigger" surface="gesperrt" />
+<Entity id="10" startPos="165" endPos="168" type="location-street" surface="A27" />
+<Entity id="11" startPos="169" endPos="177" type="location-city" surface="Walsrode" />
+<Entity id="12" startPos="180" endPos="186" type="location-city" surface="Bremen" />
+<Entity id="13" startPos="197" endPos="213" type="location" surface="Dreieck Walsrode" />
+<Entity id="14" startPos="218" endPos="230" type="location" surface="Walsrode-Süd" />
+<Entity id="15" startPos="237" endPos="248" type="trigger" surface="Bauarbeiten" />
+<Entity id="16" startPos="252" endPos="269" type="location" surface="beiden Richtungen" />
+<Entity id="17" startPos="270" endPos="278" type="trigger" surface="gesperrt" /></Entities><Relations>
+<Relation id="18" NAME="Obstruction">
+<Entity id="5" label="end_date" />
+<Entity id="3" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="9" label="trigger" />
+<Entity id="4" label="start_date" />
+<Entity id="7" label="direction" />
+</Relation>
+<Relation id="19" NAME="Obstruction">
+<Entity id="14" label="end_loc" />
+<Entity id="13" label="start_loc" />
+<Entity id="15" label="cause" />
+<Entity id="10" label="location" />
+<Entity id="17" label="trigger" />
+<Entity id="16" label="direction" />
+</Relation></Relations>
+</Document>

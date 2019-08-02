@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Deutsche Bahn<NODE id="13" /> plant <NODE id="20" />Stellenabbau<NODE id="32" /> im Güterverkehr: Die <NODE id="54" />Deutsche Bahn<NODE id="67" /> plant zum <NODE id="78" />ersten<NODE id="84" /> Mal seit Jahren einen Ste... http://t.co/W0rNKZ5rf7
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="655653176998150145" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-18T07:54:33Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T16:47:44.122Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="13" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="1" startPos="20" endPos="32" type="trigger" surface="Stellenabbau" />
+<Entity id="2" startPos="54" endPos="67" type="organization-company" surface="Deutsche Bahn" />
+<Entity id="3" startPos="78" endPos="84" type="number" surface="ersten" /></Entities><Relations>
+<Relation id="4" NAME="Layoffs">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

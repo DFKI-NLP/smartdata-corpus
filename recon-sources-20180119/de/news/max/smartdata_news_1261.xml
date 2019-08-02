@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Zur Startseite
+Briefträger fürchten sich gewöhnlich vor bissigen Hunden, doch in einer kleinen <NODE id="95" />britischen<NODE id="105" /> Gemeinde hat die Post nun wegen einer angriffslustigen Katze mit Streik gedroht. In einem Schreiben an die Besitzer der <NODE id="226" />vierjährigen<NODE id="238" /> Bella spricht die <NODE id="257" />Royal Mail<NODE id="267" /> von einer potenziellen Gefahr. Es werde so lange niemand mehr Post durch den Briefschlitz in der Eingangstür werfen, bis die Katze gebändigt sei.
+Ihr Briefträger hat uns gemeldet, dass Ihre Katze jedes Mal, wenn er die Post durch den Schlitz schiebt, nach dieser schnappt und seine Finger damit Verletzungsgefahr aussetzt, schrieb die Post nach Angaben der Zeitung <NODE id="633" />The Times<NODE id="642" />.
+Bellas Besitzerin Laura Lowe, zweifache Mutter aus dem <NODE id="699" />südwestenglischen<NODE id="716" /> Ort <NODE id="721" />Patchway<NODE id="729" />, sagte, sie habe zuerst nicht glauben können, dass ihre faule Katze Briefträger attackiert. Tatsächlich habe sie aber ein paar kleine Blutflecken rund um den Briefschlitz bemerkt. Be
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.n-tv.de/panorama/Britische-Post-fuerchtet-angriffslustige-Katze-article17590531.html@2016-04-29T18:13:57.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-29T16:13:57Z" />
+<feature featureName="indexDate" featureValue="2016-04-29T16:20:33.051Z" />
+<feature featureName="uri" featureValue="http://www.n-tv.de/panorama/Britische-Post-fuerchtet-angriffslustige-Katze-article17590531.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="95" endPos="105" type="location" surface="britischen" />
+<Entity id="1" startPos="226" endPos="238" type="number" surface="vierjährigen" />
+<Entity id="2" startPos="257" endPos="267" type="organization-company" surface="Royal Mail" />
+<Entity id="3" startPos="633" endPos="642" type="organization-company" surface="The Times" />
+<Entity id="4" startPos="699" endPos="716" type="location" surface="südwestenglischen" />
+<Entity id="5" startPos="721" endPos="729" type="location-city" surface="Patchway" /></Entities><Relations />
+</Document>

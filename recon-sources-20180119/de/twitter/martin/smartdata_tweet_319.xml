@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Vollsperrung<NODE id="12" /> der #<NODE id="18" />A100 <NODE id="23" />in Fahrtrichtung <NODE id="40" />Nord<NODE id="44" />, Grund: <NODE id="53" />schwerer Unfall<NODE id="68" /> https://t.co/h6BQtcPX6X
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672127454870417410" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T18:57:27Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:29:35.73Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="trigger" surface="Vollsperrung" />
+<Entity id="1" startPos="18" endPos="23" type="location-route" surface="A100 " />
+<Entity id="2" startPos="40" endPos="44" type="location" surface="Nord" />
+<Entity id="3" startPos="53" endPos="68" type="trigger" surface="schwerer Unfall" /></Entities><Relations>
+<Relation id="4" NAME="Obstruction">
+<Entity id="0" label="trigger" />
+<Entity id="3" label="cause" />
+<Entity id="2" label="direction" />
+<Entity id="1" label="location" />
+</Relation></Relations>
+</Document>

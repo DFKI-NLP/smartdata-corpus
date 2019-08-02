@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />Lufthansa_DE<NODE id="16" />: <NODE id="18" />Streik<NODE id="24" /> der Gewerkschaft <NODE id="42" />Verdi<NODE id="47" /> an <NODE id="51" />deutschen Flughäfen<NODE id="70" /> am <NODE id="74" />26. <NODE id="78" />und <NODE id="82" />27. APR<NODE id="89" />. Bitte behalten Sie den Flugstatus im Auge https:…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="724962721792430080" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-26T14:05:56Z" />
+<feature featureName="indexDate" featureValue="2016-04-26T14:06:04.329Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="16" type="organization-company" surface="Lufthansa_DE" />
+<Entity id="1" startPos="18" endPos="24" type="trigger" surface="Streik" />
+<Entity id="2" startPos="42" endPos="47" type="organization" surface="Verdi" />
+<Entity id="3" startPos="51" endPos="70" type="location" surface="deutschen Flughäfen" />
+<Entity id="4" startPos="74" endPos="78" type="date" surface="26. " />
+<Entity id="5" startPos="82" endPos="89" type="date" surface="27. APR" /></Entities><Relations>
+<Relation id="6" NAME="Strike">
+<Entity id="5" label="date" />
+<Entity id="4" label="date" />
+<Entity id="0" label="company" />
+<Entity id="3" label="location" />
+<Entity id="1" label="trigger" />
+<Entity id="2" label="union" />
+</Relation></Relations>
+</Document>

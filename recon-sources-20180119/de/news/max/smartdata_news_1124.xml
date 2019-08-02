@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Verkaufen
+Top Themen Heute
+<NODE id="27" />DGAP<NODE id="31" />-News: <NODE id="38" />PANTALEON Entertainment AG<NODE id="64" />: Überragender Kinostart für 'Der geilste Tag'
+<NODE id="111" />DGAP<NODE id="115" />-News: <NODE id="122" />PANTALEON Entertainment AG<NODE id="148" /> / Schlagwort(e): Sonstiges<NODE id="175" /> PANTALEON Entertainment AG<NODE id="202" />: Überragender Kinostart für 'Der geilste Tag'
+<NODE id="249" />29.02.2016<NODE id="259" /> / <NODE id="262" />11:50<NODE id="267" /> Für den Inhalt der Mitteilung ist der Emittent verantwortlich.
+---------------------------------------------------------------------------
+<NODE id="407" />PANTALEON Entertainment AG<NODE id="433" />:  Überragender Kinostart für Der geilste Tag
+- <NODE id="481" />Erster<NODE id="487" /> deutscher Platz-1-Film des Kinojahres 2016
+- <NODE id="533" />Erste<NODE id="538" /> Nummer <NODE id="546" />1<NODE id="547" /> für Regisseur, Drehbuchautor und Hauptdarsteller <NODE id="597" />Florian David Fitz<NODE id="615" />
+- <NODE id="618" />Sechste<NODE id="625" /> Nummer <NODE id="633" />1<NODE id="634" /> in Folge für <NODE id="648" />Matthias Schweighöfer<NODE id="669" /> bei <NODE id="674" />PANTALEON<NODE id="683" />
+<NODE id="684" />Kronberg im Taunus<NODE id="702" /> / <NODE id="705" />München<NODE id="712" />, <NODE id="714" />29.02.2016<NODE id="724" /> - Der geilste Tag, die neueste Erfolgsproduktion der <NODE id="778" />PANTALEON Entertainment AG<NODE id="804" /> (XETRA: PAL, ISIN: DE000A12UPJ7), hat die hohen Erwartungen bestätigt und ist zum Start auf Platz <NODE id="903" />1<NODE id="904" /> der deutschen Kinocharts eingestiegen. Die PANTALEO
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzen.net/nachricht/aktien/DGAP-News-PANTALEON-Entertainment-AG-4756088@2016-02-29T11:50:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-29T10:50:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:12:12.951Z" />
+<feature featureName="uri" featureValue="http://www.finanzen.net/nachricht/aktien/DGAP-News-PANTALEON-Entertainment-AG-4756088" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="27" endPos="31" type="organization-company" surface="DGAP" />
+<Entity id="1" startPos="38" endPos="64" type="organization-company" surface="PANTALEON Entertainment AG" />
+<Entity id="2" startPos="111" endPos="115" type="organization-company" surface="DGAP" />
+<Entity id="3" startPos="122" endPos="148" type="organization-company" surface="PANTALEON Entertainment AG" />
+<Entity id="4" startPos="175" endPos="202" type="organization-company" surface=" PANTALEON Entertainment AG" />
+<Entity id="5" startPos="249" endPos="259" type="date" surface="29.02.2016" />
+<Entity id="6" startPos="262" endPos="267" type="time" surface="11:50" />
+<Entity id="7" startPos="407" endPos="433" type="organization-company" surface="PANTALEON Entertainment AG" />
+<Entity id="8" startPos="481" endPos="487" type="number" surface="Erster" />
+<Entity id="9" startPos="533" endPos="538" type="number" surface="Erste" />
+<Entity id="10" startPos="546" endPos="547" type="number" surface="1" />
+<Entity id="11" startPos="597" endPos="615" type="person" surface="Florian David Fitz" />
+<Entity id="12" startPos="618" endPos="625" type="number" surface="Sechste" />
+<Entity id="13" startPos="633" endPos="634" type="number" surface="1" />
+<Entity id="14" startPos="648" endPos="669" type="person" surface="Matthias Schweighöfer" />
+<Entity id="15" startPos="674" endPos="683" type="organization-company" surface="PANTALEON" />
+<Entity id="16" startPos="684" endPos="702" type="location-city" surface="Kronberg im Taunus" />
+<Entity id="17" startPos="705" endPos="712" type="location-city" surface="München" />
+<Entity id="18" startPos="714" endPos="724" type="date" surface="29.02.2016" />
+<Entity id="19" startPos="778" endPos="804" type="organization-company" surface="PANTALEON Entertainment AG" />
+<Entity id="20" startPos="903" endPos="904" type="number" surface="1" /></Entities><Relations />
+</Document>

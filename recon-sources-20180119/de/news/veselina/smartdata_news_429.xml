@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Grunderwerbsteuervergünstigung bei Umstrukturierungen im Konzern<NODE id="64" />
+<NODE id="65" />FG Düsseldorf, Mitteilung vom 07.12.2015 zum Urteil 7 K 1553/15 vom 04.11.2015<NODE id="143" />
+Die A AG war seit mehr als fünf Jahren ununterbrochen Alleingesellschafterin der A GmbH, die 100 % der Anteile an der B GmbH hielt. Letztere hielt wiederum 100% der Anteile an der C GmbH.<NODE id="331" /> <NODE id="332" />Sowohl die B GmbH als auch die C GmbH verfügten über Grundstücke und grundstücksgleiche Rechte in verschiedenen Gemeinden.<NODE id="454" /> <NODE id="455" />2014 wurde die Abspaltung des gesamten Geschäftsanteils der A GmbH an der B GmbH auf die hierbei neu gegründete Klägerin beschlossen, und zwar gegen Gewährung von Anteilen an der Klägerin an die A AG.<NODE id="655" /> <NODE id="656" />Die Abspaltung war steuerbar nach dem Grunderwerbsteuergesetz.<NODE id="718" />
+<NODE id="719" />Das Finanzamt versagte die von der Klägerin beantragte Vergünstigung bei Umstrukturierungen im Konzern, weil die Klägerin die fünfjährige Vorbehaltensfrist nicht erfülle.<NODE id="889" /> <NODE id="890" />Zwar ergebe sich aus dem Zweck<NODE id="920" /> 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.datev.de/web/de/aktuelles/nachrichten-steuern-und-recht/steuern/grunderwerbsteuerverguenstigung-bei-umstrukturierungen-im-konzern/@2015-12-07T18:17:50.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-07T17:17:50Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:20:51.931Z" />
+<feature featureName="uri" featureValue="https://www.datev.de/web/de/aktuelles/nachrichten-steuern-und-recht/steuern/grunderwerbsteuerverguenstigung-bei-umstrukturierungen-im-konzern/" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="64" type="sentence" surface="Grunderwerbsteuervergünstigung bei Umstrukturierungen im Konzern" />
+<Entity id="1" startPos="65" endPos="143" type="sentence" surface="FG Düsseldorf, Mitteilung vom 07.12.2015 zum Urteil 7 K 1553/15 vom 04.11.2015" />
+<Entity id="2" startPos="143" endPos="331" type="sentence" surface="&#xA;Die A AG war seit mehr als fünf Jahren ununterbrochen Alleingesellschafterin der A GmbH, die 100 % der Anteile an der B GmbH hielt. Letztere hielt wiederum 100% der Anteile an der C GmbH." />
+<Entity id="3" startPos="332" endPos="454" type="sentence" surface="Sowohl die B GmbH als auch die C GmbH verfügten über Grundstücke und grundstücksgleiche Rechte in verschiedenen Gemeinden." />
+<Entity id="4" startPos="455" endPos="655" type="sentence" surface="2014 wurde die Abspaltung des gesamten Geschäftsanteils der A GmbH an der B GmbH auf die hierbei neu gegründete Klägerin beschlossen, und zwar gegen Gewährung von Anteilen an der Klägerin an die A AG." />
+<Entity id="5" startPos="656" endPos="718" type="sentence" surface="Die Abspaltung war steuerbar nach dem Grunderwerbsteuergesetz." />
+<Entity id="6" startPos="719" endPos="889" type="sentence" surface="Das Finanzamt versagte die von der Klägerin beantragte Vergünstigung bei Umstrukturierungen im Konzern, weil die Klägerin die fünfjährige Vorbehaltensfrist nicht erfülle." />
+<Entity id="7" startPos="890" endPos="920" type="sentence" surface="Zwar ergebe sich aus dem Zweck" /></Entities><Relations />
+</Document>

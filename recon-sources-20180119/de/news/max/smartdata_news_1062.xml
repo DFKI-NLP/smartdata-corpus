@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Angestellte Lehrer erwägen erneut Streik
+Artikel per E-Mail empfehlen
+Angestellte Lehrer erwägen erneut Streik
+Empfänger E-Mail
+Tipp: mehrere E-Mailadressen mit Komma      trennen
+persönliche Nachrichtoptional
+Bitte tragen Sie den Code in das      Eingabefeld ein.
+Tipp: das Bild anklicken um den Code neu      zu generieren
+Empfänger E-Mail
+Twittern
+<NODE id="351" />Berlin<NODE id="357" /> - <NODE id="360" />Berlins<NODE id="367" /> angestellte Lehrer könnten noch vor Pfingsten wieder streiken. Die Tarifkommission der <NODE id="455" />Gewerkschaft Erziehung und Wissenschaft<NODE id="494" /> (<NODE id="496" />GEW<NODE id="499" />) habe nach einem Gespräch mit Finanzsenator <NODE id="544" />Matthias Kollatz-Ahnen<NODE id="566" /> (<NODE id="568" />SPD<NODE id="571" />) einen weiteren Streiktag empfohlen, sagte <NODE id="615" />GEW<NODE id="618" />-<NODE id="619" />Vorstandsmitglied<NODE id="636" /> <NODE id="637" />Udo Mertens<NODE id="648" /> am <NODE id="652" />Mittwoch<NODE id="660" />. Ob und wann gestreikt werde, soll demnach am kommenden <NODE id="717" />Montagabend<NODE id="728" /> beschlossen werden. Zuerst hatte der <NODE id="766" />RBB online<NODE id="776" /> darüber berichtet.
+Die <NODE id="800" />GEW<NODE id="803" /> fordert, dass die knapp <NODE id="828" />13 000<NODE id="834" /> angestellten Lehrer in <NODE id="858" />Berlin<NODE id="864" /> genauso bezahlt werden wie ihre verbeamteten Kollegen. Das <NODE id="924" />Land Berlin<NODE id="935" /> lehnt das ab, weil be
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/regionales/berlin/article154818481/Angestellte-Lehrer-erwaegen-erneut-Streik.html@2016-04-27T16:51:03.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-27T14:51:03Z" />
+<feature featureName="indexDate" featureValue="2016-04-27T15:02:09.6Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/regionales/berlin/article154818481/Angestellte-Lehrer-erwaegen-erneut-Streik.html" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="351" endPos="357" type="location-city" surface="Berlin" />
+<Entity id="1" startPos="360" endPos="367" type="location-city" surface="Berlins" />
+<Entity id="2" startPos="455" endPos="494" type="organization" surface="Gewerkschaft Erziehung und Wissenschaft" />
+<Entity id="3" startPos="496" endPos="499" type="organization" surface="GEW" />
+<Entity id="4" startPos="544" endPos="566" type="person" surface="Matthias Kollatz-Ahnen" />
+<Entity id="5" startPos="568" endPos="571" type="organization" surface="SPD" />
+<Entity id="6" startPos="615" endPos="618" type="organization" surface="GEW" />
+<Entity id="7" startPos="619" endPos="636" type="org-position" surface="Vorstandsmitglied" />
+<Entity id="8" startPos="637" endPos="648" type="person" surface="Udo Mertens" />
+<Entity id="9" startPos="652" endPos="660" type="date" surface="Mittwoch" />
+<Entity id="10" startPos="717" endPos="728" type="date" surface="Montagabend" />
+<Entity id="11" startPos="766" endPos="776" type="organization-company" surface="RBB online" />
+<Entity id="12" startPos="800" endPos="803" type="organization" surface="GEW" />
+<Entity id="13" startPos="828" endPos="834" type="number" surface="13 000" />
+<Entity id="14" startPos="858" endPos="864" type="location-city" surface="Berlin" />
+<Entity id="15" startPos="924" endPos="935" type="organization" surface="Land Berlin" /></Entities><Relations>
+<Relation id="16" NAME="OrganizationLeadership">
+<Entity id="8" label="person" />
+<Entity id="6" label="organization" />
+<Entity id="7" label="position" />
+</Relation></Relations>
+</Document>

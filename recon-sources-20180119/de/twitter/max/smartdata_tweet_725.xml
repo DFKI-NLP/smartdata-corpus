@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>In <NODE id="3" />3 Minuten<NODE id="12" /> kommt meine Bahn. Ich bin mir ganz sicher das ist die das Richtige &#x1f601;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671250814644715522" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-30T08:54:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:24:34.121Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="12" type="date" surface="3 Minuten" /></Entities><Relations />
+</Document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Startseite Gesellschaft /Politik <NODE id="33" />CGT<NODE id="36" />-Gruppe: Gesellschafterversammlung im schriftlichen Umlaufverfahren
+<NODE id="104" />CGT<NODE id="107" />-Gruppe: Gesellschafterversammlung im schriftlichen Umlaufverfahren
+<NODE id="175" />2016-01-05 <NODE id="186" />Gesellschaft /Politik <NODE id="208" />0<NODE id="209" />
+Canada Gold Trust: Geschäftsführung hinterlässt viele offene Fragen
+Die Geschäftsführung der <NODE id="303" />Canada Gold Trust<NODE id="320" />-Gruppe, die <NODE id="333" />Xolaris Verwaltungs GmbH<NODE id="357" /> unter <NODE id="364" />Führung<NODE id="371" /> des <NODE id="376" />Geschäftsführers<NODE id="392" /> <NODE id="393" />Dr. H. C. Rudolf Döring<NODE id="416" />, hat die Anleger mit Schreiben vom <NODE id="452" />15.12.2015<NODE id="462" /> zu einer Abstimmung im schriftlichen Umlaufverfahren aufgefordert. Die Beschlussgegenstände sind heikel, den Anlegern werden allerdings viele Antworten auf die drängendsten Fragen vorenthalten, findet der <NODE id="668" />Berliner<NODE id="676" /> Rechtsanwalt <NODE id="690" />Christian-H. Röhlke<NODE id="709" />, der eine Vielzahl von Anlegern der <NODE id="746" />Canada Gold Trust<NODE id="763" />-Gruppe juristisch vertritt.
+Informationsveranstaltung für <NODE id="822" />CGT<NODE id="825" />-Anleger nach dem Termin der Abstimmungsunterlagen – Was bedeutet die Abschreibung der Darlehensforder
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.onprnews.com/cgt-gruppe-gesellschafterversammlung-im-schriftlichen-umlaufverfahren-306574/@2016-03-10T16:23:06.848+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T15:23:06.848Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T15:23:13.484Z" />
+<feature featureName="uri" featureValue="http://www.onprnews.com/cgt-gruppe-gesellschafterversammlung-im-schriftlichen-umlaufverfahren-306574/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="33" endPos="36" type="organization-company" surface="CGT" />
+<Entity id="1" startPos="104" endPos="107" type="organization-company" surface="CGT" />
+<Entity id="2" startPos="175" endPos="186" type="date" surface="2016-01-05 " />
+<Entity id="3" startPos="208" endPos="209" type="number" surface="0" />
+<Entity id="4" startPos="303" endPos="320" type="organization-company" surface="Canada Gold Trust" />
+<Entity id="5" startPos="333" endPos="357" type="organization-company" surface="Xolaris Verwaltungs GmbH" />
+<Entity id="6" startPos="364" endPos="371" type="trigger" surface="Führung" />
+<Entity id="7" startPos="376" endPos="392" type="org-position" surface="Geschäftsführers" />
+<Entity id="8" startPos="393" endPos="416" type="person" surface="Dr. H. C. Rudolf Döring" />
+<Entity id="9" startPos="452" endPos="462" type="date" surface="15.12.2015" />
+<Entity id="10" startPos="668" endPos="676" type="location-city" surface="Berliner" />
+<Entity id="11" startPos="690" endPos="709" type="person" surface="Christian-H. Röhlke" />
+<Entity id="12" startPos="746" endPos="763" type="organization-company" surface="Canada Gold Trust" />
+<Entity id="13" startPos="822" endPos="825" type="organization-company" surface="CGT" /></Entities><Relations />
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />faznet<NODE id="7" /> @<NODE id="9" />DBwV<NODE id="13" /> unfairer inkompetenter Migrationsverein.Verglichen mit der Army nur lächerlich
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710780091324866560" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-18T10:49:14Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T01:53:17.83Z" />
+<feature featureName="uri" featureValue="https://twitter.com/702514333994127360/status/710780091324866560" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="7" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="9" endPos="13" type="organization" surface="DBwV" /></Entities><Relations />
+</Document>

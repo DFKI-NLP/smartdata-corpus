@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SZ<NODE id="6" />: #<NODE id="9" />EU<NODE id="11" /> und #<NODE id="17" />Türkei<NODE id="23" /> einigen sich auf Flüchtlingsabkommen https://t.co/DVQklbar9s
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="710832345528586240" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-18T14:16:52Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T01:53:04.945Z" />
+<feature featureName="uri" featureValue="https://twitter.com/113371429/status/710832345528586240" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="6" type="organization-company" surface="SZ" />
+<Entity id="1" startPos="9" endPos="11" type="organization" surface="EU" />
+<Entity id="2" startPos="17" endPos="23" type="location" surface="Türkei" /></Entities><Relations />
+</Document>

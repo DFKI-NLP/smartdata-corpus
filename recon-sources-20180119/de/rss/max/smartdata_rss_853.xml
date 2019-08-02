@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Linie: : Nach dem <NODE id="18" />Streik<NODE id="24" /> bei der <NODE id="33" />Hessischen Landesbahn <NODE id="55" />(<NODE id="56" />HLB<NODE id="59" />) muss auf den Linien der <NODE id="85" />Hessischen Landesbahn<NODE id="106" /> noch mit Folgeverspätungen und Ausfällen gerechnet werden.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.traffiq.de/18.de.verkehrsmeldungen.html#m176551@2016-05-31T06:50:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-31T04:50:00Z" />
+<feature featureName="indexDate" featureValue="2016-05-31T09:52:01.106Z" />
+<feature featureName="uri" featureValue="http://www.traffiq.de/18.de.verkehrsmeldungen.html#m176551" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="18" endPos="24" type="trigger" surface="Streik" />
+<Entity id="1" startPos="33" endPos="55" type="organization-company" surface="Hessischen Landesbahn " />
+<Entity id="2" startPos="56" endPos="59" type="organization-company" surface="HLB" />
+<Entity id="3" startPos="85" endPos="106" type="organization-company" surface="Hessischen Landesbahn" /></Entities><Relations>
+<Relation id="4" NAME="Strike">
+<Entity id="1" label="company" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

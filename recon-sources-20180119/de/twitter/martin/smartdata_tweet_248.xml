@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />NDR Norddeutscher Rundfunk<NODE id="26" /> : <NODE id="29" />Flughafen Lübeck<NODE id="45" />: <NODE id="47" />Insolvenzverfahren<NODE id="65" /> eröffnet http://t.co/3t56LdWNIj
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="649287220415721472" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-09-30T18:18:31Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T00:20:44.132Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="26" type="organization-company" surface="NDR Norddeutscher Rundfunk" />
+<Entity id="1" startPos="29" endPos="45" type="organization-company" surface="Flughafen Lübeck" />
+<Entity id="2" startPos="47" endPos="65" type="trigger" surface="Insolvenzverfahren" /></Entities><Relations>
+<Relation id="3" NAME="Insolvency">
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

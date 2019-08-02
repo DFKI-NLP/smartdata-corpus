@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Kanal wird saniert: <NODE id="20" />Windsheimer<NODE id="31" /> <NODE id="32" />Spitalgasse<NODE id="43" /> bald regenfest<NODE id="58" />
+<NODE id="59" />Die Arbeiten am Kanal sollen noch in diesem Jahr beginnen<NODE id="116" />                                       <NODE id="155" />- vor 23 Minuten<NODE id="171" />
+<NODE id="172" />BAD WINDSHEIM<NODE id="185" /> -<NODE id="187" />              <NODE id="201" />Sandsäcke vor den Türen, Wasser in Kellern und Hofeinfahrten und eine spiegelnde Wasserfläche in der <NODE id="302" />Spitalgasse<NODE id="313" />: Das soll es künftig seltener geben.<NODE id="350" /> <NODE id="351" />Bei der Sitzung des Bau- und Umwelt­ausschusses des Stadtrates am Dienstag wurde ausführlich erklärt, wie es zu diesem Problem kommt und wieso eine Überschwemmung bei Starkregen nicht einfach zu ver­hindern ist.<NODE id="562" /> <NODE id="563" />Beschlossen wurde, den Kanal zu vergrößern, was für die meisten Fälle ausreichen sollte.<NODE id="651" />
+<NODE id="652" />Die überflutete <NODE id="668" />Spitalgasse<NODE id="679" /> in <NODE id="683" />Bad Windsheim<NODE id="696" /> nach einem Starkregen im Juli  2013.<NODE id="733" /> <NODE id="734" />Ob die <NODE id="741" />Spitalgasse<NODE id="752" /> nie wieder so aussieht wie auf dem Bild ist auch nach  der Erneuerung des Kanals nicht zu garantieren.<NODE id="855" />Es gibt keine hundertprozentige  Sicherheit,so Diplom-Bauingenieur  <NODE id="923" />Werner Horn<NODE id="934" />. ©<NODE id="937" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nordbayern.de/region/bad-windsheim/kanal-wird-saniert-windsheimer-spitalgasse-bald-regenfest-1.5049942?rssPage=bm9yZGJheWVybi5kZQ%3D%3D@2016-03-10T10:22:34.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T09:22:34Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T15:43:32.953Z" />
+<feature featureName="uri" featureValue="http://www.nordbayern.de/region/bad-windsheim/kanal-wird-saniert-windsheimer-spitalgasse-bald-regenfest-1.5049942?rssPage=bm9yZGJheWVybi5kZQ%3D%3D" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="58" type="sentence" surface="Kanal wird saniert: Windsheimer Spitalgasse bald regenfest" />
+<Entity id="1" startPos="20" endPos="31" type="location-city" surface="Windsheimer" />
+<Entity id="2" startPos="32" endPos="43" type="location-street" surface="Spitalgasse" />
+<Entity id="3" startPos="59" endPos="116" type="sentence" surface="Die Arbeiten am Kanal sollen noch in diesem Jahr beginnen" />
+<Entity id="4" startPos="155" endPos="171" type="sentence" surface="- vor 23 Minuten" />
+<Entity id="5" startPos="172" endPos="185" type="location-city" surface="BAD WINDSHEIM" />
+<Entity id="6" startPos="172" endPos="187" type="sentence" surface="BAD WINDSHEIM -" />
+<Entity id="7" startPos="201" endPos="350" type="sentence" surface="Sandsäcke vor den Türen, Wasser in Kellern und Hofeinfahrten und eine spiegelnde Wasserfläche in der Spitalgasse: Das soll es künftig seltener geben." />
+<Entity id="8" startPos="302" endPos="313" type="location-street" surface="Spitalgasse" />
+<Entity id="9" startPos="351" endPos="562" type="sentence" surface="Bei der Sitzung des Bau- und Umwelt­ausschusses des Stadtrates am Dienstag wurde ausführlich erklärt, wie es zu diesem Problem kommt und wieso eine Überschwemmung bei Starkregen nicht einfach zu ver­hindern ist." />
+<Entity id="10" startPos="563" endPos="651" type="sentence" surface="Beschlossen wurde, den Kanal zu vergrößern, was für die meisten Fälle ausreichen sollte." />
+<Entity id="11" startPos="652" endPos="733" type="sentence" surface="Die überflutete Spitalgasse in Bad Windsheim nach einem Starkregen im Juli  2013." />
+<Entity id="12" startPos="668" endPos="679" type="location-street" surface="Spitalgasse" />
+<Entity id="13" startPos="683" endPos="696" type="location-city" surface="Bad Windsheim" />
+<Entity id="14" startPos="734" endPos="855" type="sentence" surface="Ob die Spitalgasse nie wieder so aussieht wie auf dem Bild ist auch nach  der Erneuerung des Kanals nicht zu garantieren." />
+<Entity id="15" startPos="741" endPos="752" type="location-street" surface="Spitalgasse" />
+<Entity id="16" startPos="855" endPos="937" type="sentence" surface="Es gibt keine hundertprozentige  Sicherheit,so Diplom-Bauingenieur  Werner Horn. ©" />
+<Entity id="17" startPos="923" endPos="934" type="person" surface="Werner Horn" /></Entities><Relations />
+</Document>

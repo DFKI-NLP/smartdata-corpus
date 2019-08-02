@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Mobilezone<NODE id="10" />-Umsatz dank <NODE id="23" />einsAmobile<NODE id="34" />-<NODE id="35" />Übernahme<NODE id="44" /> stark erhöht
+<NODE id="58" />Regensdorf<NODE id="68" /> - Der Handyanbieter <NODE id="89" />Mobilezone<NODE id="99" /> hat den Umsatz nach der <NODE id="124" />Integration<NODE id="135" /> von <NODE id="140" />einsAmobile<NODE id="151" /> im Geschäftsjahr <NODE id="169" />2015<NODE id="173" /> mehr als verdoppelt. Er stieg auf <NODE id="208" />859,0 Mio CHF<NODE id="221" /> nach <NODE id="227" />388,6<NODE id="232" /> im Vorjahr. Der EBIT verbesserte sich derweil um <NODE id="282" />38%<NODE id="285" /> auf <NODE id="290" />40,4 Mio CHF<NODE id="302" />, und unter dem Strich blieb ein um fast <NODE id="343" />ein Drittel<NODE id="354" /> höherer Konzerngewinn von <NODE id="381" />30,8 Mio<NODE id="389" />.
+Für das erfreuliche Geschäftsergebnis sei unter anderem die über den Erwartungen liegende Performance von <NODE id="497" />einsAmobile<NODE id="508" /> verantwortlich, teilte das Unternehmen am <NODE id="551" />Freitag<NODE id="558" /> mit. Die <NODE id="568" />deutsche<NODE id="576" /> <NODE id="577" />einsAmobile<NODE id="588" /> war per <NODE id="597" />Ende März 2015<NODE id="611" /> übernommen ...
+Den vollständigen Artikel lesen ...
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanznachrichten.de/nachrichten-2016-03/36736494-mobilezone-umsatz-dank-einsamobile-uebernahme-stark-erhoeht-095.htm@2016-03-11T07:45:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-11T06:45:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T09:09:12.954Z" />
+<feature featureName="uri" featureValue="http://www.finanznachrichten.de/nachrichten-2016-03/36736494-mobilezone-umsatz-dank-einsamobile-uebernahme-stark-erhoeht-095.htm" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="organization-company" surface="Mobilezone" />
+<Entity id="1" startPos="23" endPos="34" type="organization-company" surface="einsAmobile" />
+<Entity id="2" startPos="35" endPos="44" type="trigger" surface="Übernahme" />
+<Entity id="3" startPos="58" endPos="68" type="location-city" surface="Regensdorf" />
+<Entity id="4" startPos="89" endPos="99" type="organization-company" surface="Mobilezone" />
+<Entity id="5" startPos="124" endPos="135" type="trigger" surface="Integration" />
+<Entity id="6" startPos="140" endPos="151" type="organization-company" surface="einsAmobile" />
+<Entity id="7" startPos="169" endPos="173" type="date" surface="2015" />
+<Entity id="8" startPos="208" endPos="221" type="number" surface="859,0 Mio CHF" />
+<Entity id="9" startPos="227" endPos="232" type="number" surface="388,6" />
+<Entity id="10" startPos="282" endPos="285" type="number" surface="38%" />
+<Entity id="11" startPos="290" endPos="302" type="number" surface="40,4 Mio CHF" />
+<Entity id="12" startPos="343" endPos="354" type="number" surface="ein Drittel" />
+<Entity id="13" startPos="381" endPos="389" type="number" surface="30,8 Mio" />
+<Entity id="14" startPos="497" endPos="508" type="organization-company" surface="einsAmobile" />
+<Entity id="15" startPos="551" endPos="558" type="date" surface="Freitag" />
+<Entity id="16" startPos="568" endPos="576" type="location" surface="deutsche" />
+<Entity id="17" startPos="577" endPos="588" type="organization-company" surface="einsAmobile" />
+<Entity id="18" startPos="597" endPos="611" type="date" surface="Ende März 2015" /></Entities><Relations>
+<Relation id="19" NAME="Acquisition">
+<Entity id="2" label="trigger" />
+<Entity id="1" label="acquired" />
+<Entity id="0" label="buyer" />
+</Relation>
+<Relation id="20" NAME="CompanyRelationship">
+<Entity id="4" label="parent" />
+<Entity id="5" label="trigger" />
+<Entity id="6" label="child" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A19<NODE id="3" /> <NODE id="4" />Berlin<NODE id="10" /> Richtung <NODE id="20" />Rostock<NODE id="27" /> zwischen <NODE id="37" />Kreuz Rostock<NODE id="50" /> und <NODE id="55" />Rostock-Überseehafen<NODE id="75" /> fährt ein Schwertransport, der nicht überholt werden kann.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#19@2016-03-23T00:17:55.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-22T23:17:55Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T00:02:47.493Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A19" />
+<Entity id="1" startPos="4" endPos="10" type="location-city" surface="Berlin" />
+<Entity id="2" startPos="20" endPos="27" type="location-city" surface="Rostock" />
+<Entity id="3" startPos="37" endPos="50" type="location" surface="Kreuz Rostock" />
+<Entity id="4" startPos="55" endPos="75" type="location" surface="Rostock-Überseehafen" /></Entities><Relations />
+</Document>

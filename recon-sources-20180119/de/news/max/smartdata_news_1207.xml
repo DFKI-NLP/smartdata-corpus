@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Seite <NODE id="6" />2<NODE id="7" /> — Fortsetzung des <NODE id="26" />Google<NODE id="32" />-Maps-Prinzips
+Brauche ich nicht. Geht nur kaputt. Klaut meine Daten. Das Negativklischee über elektronische Assistenzsysteme und Konnektivität scheint unverrückbar. Trotzdem investieren Autoindustrie und Softwarekonzerne immense Summen, um das Fahren komfortabler, sicherer und irgendwann autonom zu machen. Für rund <NODE id="350" />2,5 Milliarden Euro<NODE id="369" /> haben <NODE id="376" />Audi<NODE id="380" />, <NODE id="382" />BMW<NODE id="385" /> und <NODE id="390" />Daimler<NODE id="397" /> im <NODE id="401" />Dezember<NODE id="409" /> den Kartendienst <NODE id="427" />Here<NODE id="431" /> von <NODE id="436" />Nokia<NODE id="441" /> gekauft. Die Motivation: Eine zentimetergenaue und hochpräzise Navigation ist eine wesentliche Voraussetzung für die Fahrautomatisierung.
+Die <NODE id="584" />drei<NODE id="588" /> <NODE id="589" />deutschen<NODE id="598" /> Autohersteller, die ihr Konsortium bewusst für andere Marken und Branchen öffnen, machen sich mit der Übernahme von <NODE id="715" />Here<NODE id="719" /> unabhängig von Unternehmen wie <NODE id="751" />Google<NODE id="757" />. Neben dieser strategischen Dimension aber ist die entscheidende Frage, welchen technischen Nutzen digitale Echtzeitkarten bringen.
+Zum besse
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.zeit.de/mobilitaet/2016-02/autonomes-fahren-here-karten?cid=6117177#cid-6117177@2016-02-19T11:15:43.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-19T10:15:43Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T03:10:01.93Z" />
+<feature featureName="uri" featureValue="http://www.zeit.de/mobilitaet/2016-02/autonomes-fahren-here-karten?cid=6117177#cid-6117177" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="7" type="number" surface="2" />
+<Entity id="1" startPos="26" endPos="32" type="organization-company" surface="Google" />
+<Entity id="2" startPos="350" endPos="369" type="number" surface="2,5 Milliarden Euro" />
+<Entity id="3" startPos="376" endPos="380" type="organization-company" surface="Audi" />
+<Entity id="4" startPos="382" endPos="385" type="organization-company" surface="BMW" />
+<Entity id="5" startPos="390" endPos="397" type="organization-company" surface="Daimler" />
+<Entity id="6" startPos="401" endPos="409" type="date" surface="Dezember" />
+<Entity id="7" startPos="427" endPos="431" type="product" surface="Here" />
+<Entity id="8" startPos="436" endPos="441" type="organization-company" surface="Nokia" />
+<Entity id="9" startPos="584" endPos="588" type="number" surface="drei" />
+<Entity id="10" startPos="589" endPos="598" type="location" surface="deutschen" />
+<Entity id="11" startPos="715" endPos="719" type="product" surface="Here" />
+<Entity id="12" startPos="751" endPos="757" type="organization-company" surface="Google" /></Entities><Relations>
+<Relation id="13" NAME="CompanyProvidesProduct">
+<Entity id="7" label="product" />
+<Entity id="8" label="company" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Hurrikan<NODE id="8" /> Alex: Besonderer Sturm im <NODE id="35" />Atlantik<NODE id="43" />
+<NODE id="44" />Satellitenbild der Woche: Alex, was machst du denn hier?<NODE id="100" />
+<NODE id="101" />AP<NODE id="103" />
+<NODE id="104" />Foto von der Internationalen Raumstation: Staunen �ber den Sturm<NODE id="168" />
+<NODE id="169" />Ein <NODE id="173" />halbes Jahr<NODE id="184" /> zu fr�h, viel zu weit �stlich: Hurrikane gibt es normalerweise im Sommer und Herbst �ber dem West-Atlantik.<NODE id="292" /> <NODE id="293" />Warum hat Alex diese Woche die Gesetze gebrochen?<NODE id="342" />
+<NODE id="343" />Das Ereignis ist vergleichbar mit Schnee im <NODE id="387" />August<NODE id="393" /> oder mit Kirschbl�te im <NODE id="418" />Dezember<NODE id="426" />.<NODE id="427" /> <NODE id="428" />Saison f�r <NODE id="439" />Hurrikane<NODE id="448" /> ist eigentlich vom <NODE id="468" />1. Juni<NODE id="475" /> bis zum <NODE id="484" />30. November<NODE id="496" />, wenn sich die subtropischen Meere auf der Nordhalbkugel aufgeheizt haben, ihre W�rme die St�rme entfachen kann.<NODE id="609" />
+<NODE id="610" />Doch diese Woche drehte Alex auf.<NODE id="643" />
+<NODE id="644" />Alex war der fr�heste Hurrikan seit <NODE id="680" />1938<NODE id="684" />.<NODE id="685" /> <NODE id="686" />Und es war �berhaupt erst das vierte Mal seit <NODE id="732" />1851<NODE id="736" />, dass in einem Januar ein <NODE id="763" />Hurrikan<NODE id="771" /> im <NODE id="775" />Nordatlantik<NODE id="787" /> aufzieht - und das erste Mal seit <NODE id="822" />1978<NODE id="826" />.<NODE id="827" />
+<NODE id="828" />Am <NODE id="831" />Donnerstag<NODE id="841" /> um <NODE id="845" />16<NODE id="847" /> Uhr <NODE id="852" />deutscher<NODE id="861" /> Zeit war die Sensation perfekt, die <NODE id="898" />US<NODE id="900" />-Wetterbeh�rde stufte den Sturmwirbel, der et<NODE id="945" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.spiegel.de/wissenschaft/natur/hurrikan-alex-besonderer-sturm-im-atlantik-a-1072304.html@2016-03-10T15:55:43.969+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:55:43.969Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:55:53.485Z" />
+<feature featureName="uri" featureValue="http://www.spiegel.de/wissenschaft/natur/hurrikan-alex-besonderer-sturm-im-atlantik-a-1072304.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="disaster-type" surface="Hurrikan" />
+<Entity id="1" startPos="0" endPos="43" type="sentence" surface="Hurrikan Alex: Besonderer Sturm im Atlantik" />
+<Entity id="2" startPos="35" endPos="43" type="location" surface="Atlantik" />
+<Entity id="3" startPos="44" endPos="100" type="sentence" surface="Satellitenbild der Woche: Alex, was machst du denn hier?" />
+<Entity id="4" startPos="101" endPos="103" type="organization-company" surface="AP" />
+<Entity id="5" startPos="101" endPos="103" type="sentence" surface="AP" />
+<Entity id="6" startPos="104" endPos="168" type="sentence" surface="Foto von der Internationalen Raumstation: Staunen �ber den Sturm" />
+<Entity id="7" startPos="169" endPos="292" type="sentence" surface="Ein halbes Jahr zu fr�h, viel zu weit �stlich: Hurrikane gibt es normalerweise im Sommer und Herbst �ber dem West-Atlantik." />
+<Entity id="8" startPos="173" endPos="184" type="duration" surface="halbes Jahr" />
+<Entity id="9" startPos="293" endPos="342" type="sentence" surface="Warum hat Alex diese Woche die Gesetze gebrochen?" />
+<Entity id="10" startPos="343" endPos="427" type="sentence" surface="Das Ereignis ist vergleichbar mit Schnee im August oder mit Kirschbl�te im Dezember." />
+<Entity id="11" startPos="387" endPos="393" type="date" surface="August" />
+<Entity id="12" startPos="418" endPos="426" type="date" surface="Dezember" />
+<Entity id="13" startPos="428" endPos="609" type="sentence" surface="Saison f�r Hurrikane ist eigentlich vom 1. Juni bis zum 30. November, wenn sich die subtropischen Meere auf der Nordhalbkugel aufgeheizt haben, ihre W�rme die St�rme entfachen kann." />
+<Entity id="14" startPos="439" endPos="448" type="disaster-type" surface="Hurrikane" />
+<Entity id="15" startPos="468" endPos="475" type="date" surface="1. Juni" />
+<Entity id="16" startPos="484" endPos="496" type="date" surface="30. November" />
+<Entity id="17" startPos="610" endPos="643" type="sentence" surface="Doch diese Woche drehte Alex auf." />
+<Entity id="18" startPos="644" endPos="685" type="sentence" surface="Alex war der fr�heste Hurrikan seit 1938." />
+<Entity id="19" startPos="680" endPos="684" type="date" surface="1938" />
+<Entity id="20" startPos="686" endPos="827" type="sentence" surface="Und es war �berhaupt erst das vierte Mal seit 1851, dass in einem Januar ein Hurrikan im Nordatlantik aufzieht - und das erste Mal seit 1978." />
+<Entity id="21" startPos="732" endPos="736" type="date" surface="1851" />
+<Entity id="22" startPos="763" endPos="771" type="disaster-type" surface="Hurrikan" />
+<Entity id="23" startPos="775" endPos="787" type="location" surface="Nordatlantik" />
+<Entity id="24" startPos="822" endPos="826" type="date" surface="1978" />
+<Entity id="25" startPos="828" endPos="945" type="sentence" surface="Am Donnerstag um 16 Uhr deutscher Zeit war die Sensation perfekt, die US-Wetterbeh�rde stufte den Sturmwirbel, der et" />
+<Entity id="26" startPos="831" endPos="841" type="date" surface="Donnerstag" />
+<Entity id="27" startPos="845" endPos="847" type="date" surface="16" />
+<Entity id="28" startPos="852" endPos="861" type="location" surface="deutscher" />
+<Entity id="29" startPos="898" endPos="900" type="location" surface="US" /></Entities><Relations>
+<Relation id="30" NAME="Disaster">
+<Entity id="2" label="location" />
+<Entity id="0" label="type" />
+</Relation>
+<Relation id="31" NAME="Disaster">
+<Entity id="23" label="location" />
+<Entity id="22" label="type" />
+</Relation></Relations>
+</Document>

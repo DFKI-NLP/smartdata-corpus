@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Dieser Artikel wurde ausgedruckt unter der Adresse: www.tagesschau.de/ausland/el-nino-suedamerika-101.html<NODE id="106" />
+<NODE id="107" />Unwetter in <NODE id="119" />Südamerika<NODE id="129" /> <NODE id="130" />El Niño bringt schwere Überschwemmungen<NODE id="169" />
+<NODE id="170" />Stand: <NODE id="177" />29.12.2015 00:16<NODE id="193" /> Uhr<NODE id="197" />
+<NODE id="198" />Das Wetterphänomen El Niño sucht <NODE id="231" />Südamerika<NODE id="241" /> mit <NODE id="246" />Dürren<NODE id="252" /> und <NODE id="257" />Überschwemmungen<NODE id="273" /> heim.<NODE id="279" /> <NODE id="280" />Besonders schwer betroffen ist <NODE id="311" />Paraguay<NODE id="319" />.<NODE id="320" /> <NODE id="321" />Allein dort mussten <NODE id="341" />140.000<NODE id="348" /> Menschen fliehen.<NODE id="366" /> <NODE id="367" />In den nächsten Tagen soll es weitere Niederschläge geben.<NODE id="425" />
+<NODE id="426" />Von <NODE id="430" />Ivo Marusczyk<NODE id="443" />, <NODE id="445" />ARD<NODE id="448" />-Studio <NODE id="456" />Südamerika<NODE id="466" />
+<NODE id="467" />In <NODE id="470" />Südamerika<NODE id="480" /> hat El Niño, das Christkind, etwa 180.000 Menschen aus ihren Häusern vertrieben.<NODE id="561" /> <NODE id="562" />Vor allem <NODE id="572" />Paraguay<NODE id="580" /> ist betroffen: In der Nähe der Hauptstadt <NODE id="623" />Asunción<NODE id="631" /> fließen zwei <NODE id="645" />Hochwasser<NODE id="655" /> führende Flüsse zusammen, ganze Stadtteile sind in den schlammigen <NODE id="723" />Fluten<NODE id="729" /> versunken.<NODE id="740" /> <NODE id="741" />Allein dort mussten sich rund <NODE id="771" />140.000<NODE id="778" /> Menschen in Sicherheit bringen.<NODE id="810" />
+ <NODE id="812" />In <NODE id="815" />Banado Norte<NODE id="827" />, einem Armenviertel im Norden der Hauptstadt, schimpfen die Menschen, die Regierung habe sich nur um sie gekümmert,<NODE id="943" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.tagesschau.de/ausland/el-nino-suedamerika-101.html@2016-03-10T16:38:23.329+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T15:38:23.329Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T15:38:33.484Z" />
+<feature featureName="uri" featureValue="https://www.tagesschau.de/ausland/el-nino-suedamerika-101.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="106" type="sentence" surface="Dieser Artikel wurde ausgedruckt unter der Adresse: www.tagesschau.de/ausland/el-nino-suedamerika-101.html" />
+<Entity id="1" startPos="107" endPos="129" type="sentence" surface="Unwetter in Südamerika" />
+<Entity id="2" startPos="119" endPos="129" type="location" surface="Südamerika" />
+<Entity id="3" startPos="130" endPos="169" type="sentence" surface="El Niño bringt schwere Überschwemmungen" />
+<Entity id="4" startPos="170" endPos="197" type="sentence" surface="Stand: 29.12.2015 00:16 Uhr" />
+<Entity id="5" startPos="177" endPos="193" type="date" surface="29.12.2015 00:16" />
+<Entity id="6" startPos="198" endPos="279" type="sentence" surface="Das Wetterphänomen El Niño sucht Südamerika mit Dürren und Überschwemmungen heim." />
+<Entity id="7" startPos="231" endPos="241" type="location" surface="Südamerika" />
+<Entity id="8" startPos="246" endPos="252" type="disaster-type" surface="Dürren" />
+<Entity id="9" startPos="257" endPos="273" type="disaster-type" surface="Überschwemmungen" />
+<Entity id="10" startPos="280" endPos="320" type="sentence" surface="Besonders schwer betroffen ist Paraguay." />
+<Entity id="11" startPos="311" endPos="319" type="location" surface="Paraguay" />
+<Entity id="12" startPos="321" endPos="366" type="sentence" surface="Allein dort mussten 140.000 Menschen fliehen." />
+<Entity id="13" startPos="341" endPos="348" type="number" surface="140.000" />
+<Entity id="14" startPos="367" endPos="425" type="sentence" surface="In den nächsten Tagen soll es weitere Niederschläge geben." />
+<Entity id="15" startPos="426" endPos="466" type="sentence" surface="Von Ivo Marusczyk, ARD-Studio Südamerika" />
+<Entity id="16" startPos="430" endPos="443" type="person" surface="Ivo Marusczyk" />
+<Entity id="17" startPos="445" endPos="448" type="organization-company" surface="ARD" />
+<Entity id="18" startPos="456" endPos="466" type="location" surface="Südamerika" />
+<Entity id="19" startPos="467" endPos="561" type="sentence" surface="In Südamerika hat El Niño, das Christkind, etwa 180.000 Menschen aus ihren Häusern vertrieben." />
+<Entity id="20" startPos="470" endPos="480" type="location" surface="Südamerika" />
+<Entity id="21" startPos="562" endPos="740" type="sentence" surface="Vor allem Paraguay ist betroffen: In der Nähe der Hauptstadt Asunción fließen zwei Hochwasser führende Flüsse zusammen, ganze Stadtteile sind in den schlammigen Fluten versunken." />
+<Entity id="22" startPos="572" endPos="580" type="location" surface="Paraguay" />
+<Entity id="23" startPos="623" endPos="631" type="location-city" surface="Asunción" />
+<Entity id="24" startPos="645" endPos="655" type="disaster-type" surface="Hochwasser" />
+<Entity id="25" startPos="723" endPos="729" type="disaster-type" surface="Fluten" />
+<Entity id="26" startPos="741" endPos="810" type="sentence" surface="Allein dort mussten sich rund 140.000 Menschen in Sicherheit bringen." />
+<Entity id="27" startPos="771" endPos="778" type="number" surface="140.000" />
+<Entity id="28" startPos="812" endPos="943" type="sentence" surface="In Banado Norte, einem Armenviertel im Norden der Hauptstadt, schimpfen die Menschen, die Regierung habe sich nur um sie gekümmert," />
+<Entity id="29" startPos="815" endPos="827" type="location" surface="Banado Norte" /></Entities><Relations>
+<Relation id="30" NAME="Disaster">
+<Entity id="7" label="location" />
+<Entity id="9" label="type" />
+</Relation>
+<Relation id="31" NAME="Disaster">
+<Entity id="7" label="location" />
+<Entity id="8" label="type" />
+</Relation>
+<Relation id="32" NAME="Disaster">
+<Entity id="23" label="location" />
+<Entity id="25" label="type" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>■  #<NODE id="4" />Hamburg<NODE id="11" />: #<NODE id="14" />B4<NODE id="16" /> <NODE id="17" />Wilhelmsburger Reichsstraße<NODE id="44" /> <NODE id="45" />stadtauswärts<NODE id="58" /> zwischen #<NODE id="69" />Wilhelmsburg<NODE id="81" /> und #<NODE id="87" />Neuland<NODE id="94" /> ist wegen #Bauarbeiten bis zum ...
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="728902265524916225" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-07T11:00:17Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T04:40:53.021Z" />
+<feature featureName="uri" featureValue="https://twitter.com/703163870/status/728902265524916225" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="11" type="location-city" surface="Hamburg" />
+<Entity id="1" startPos="14" endPos="16" type="location-street" surface="B4" />
+<Entity id="2" startPos="17" endPos="44" type="location-street" surface="Wilhelmsburger Reichsstraße" />
+<Entity id="3" startPos="45" endPos="58" type="location" surface="stadtauswärts" />
+<Entity id="4" startPos="69" endPos="81" type="location" surface="Wilhelmsburg" />
+<Entity id="5" startPos="87" endPos="94" type="location" surface="Neuland" /></Entities><Relations />
+</Document>

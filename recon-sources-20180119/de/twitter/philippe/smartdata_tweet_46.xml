@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />SPIEGELONLINE<NODE id="14" /> und wir versuchen Sie durch Nichtkaufen Ihres Schrottblatts Pleite zu machen, #Lügenpresse
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="675066361173958656" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="14" type="organization-company" surface="SPIEGELONLINE" /></Entities><Relations />
+</Document>

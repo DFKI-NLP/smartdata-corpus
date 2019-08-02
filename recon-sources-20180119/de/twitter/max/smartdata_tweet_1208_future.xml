@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: <NODE id="19" />OLG Düsseldorf<NODE id="33" /> stoppt die Ministererlaubnis für die <NODE id="71" />Übernahme<NODE id="80" /> der Supermarktkette <NODE id="101" />Tengelmann<NODE id="111" /> durch <NODE id="118" />Edeka<NODE id="123" />. https://t.co/v…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="753886109277556736" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-15T09:37:09Z" />
+<feature featureName="indexDate" featureValue="2016-07-15T09:37:16.762Z" />
+<feature featureName="uri" featureValue="https://twitter.com/703906154250944513/status/753886109277556736" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="19" endPos="33" type="organization" surface="OLG Düsseldorf" />
+<Entity id="2" startPos="71" endPos="80" type="trigger" surface="Übernahme" />
+<Entity id="3" startPos="101" endPos="111" type="organization-company" surface="Tengelmann" />
+<Entity id="4" startPos="118" endPos="123" type="organization-company" surface="Edeka" /></Entities><Relations>
+<Relation id="5" NAME="Acquisition">
+<Entity id="2" label="trigger" />
+<Entity id="3" label="acquired" />
+<Entity id="4" label="buyer" />
+</Relation></Relations>
+</Document>

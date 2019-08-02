@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Lippe<NODE id="5" />pegel stehen kurz vor der Hochwassermarke
+- Foto: Emschergenossenschaft
+Die <NODE id="81" />Lippe<NODE id="86" />pegel in <NODE id="95" />Haltern<NODE id="102" /> steht kurz vor der Hochwassermarke. Durch den <NODE id="149" />Dauerregen<NODE id="159" /> der vergangenen Tage steht die Lippe dort bei <NODE id="206" />4,90m<NODE id="211" /> - das ist der höchste Wert, der in diesem Winter gemessen wurde. Alles über <NODE id="288" />fünf Meter<NODE id="298" /> gilt in Haltern als <NODE id="319" />Hochwasser<NODE id="329" />. Auch in <NODE id="339" />Dorsten<NODE id="346" /> wird diese Stufe bald erreicht. Die Mitarbeiter beim Lippeverband sind in Rufbereitschaft. Einmal pro Tag werden die Deiche kontrolliert. In den kommenden Tagen wird nur wenig Regen erwartet. Deshalb werden die Pegel wohl relativ schnell wieder sinken. 
+ 
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.radiovest.de/vest/lokalnachrichten/lokalnachrichten/archive/2016/02/23/article/-371e62b69b.html@2016-02-23T14:30:48.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T13:30:48Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T04:30:22.953Z" />
+<feature featureName="uri" featureValue="http://www.radiovest.de/vest/lokalnachrichten/lokalnachrichten/archive/2016/02/23/article/-371e62b69b.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="location" surface="Lippe" />
+<Entity id="1" startPos="81" endPos="86" type="location" surface="Lippe" />
+<Entity id="2" startPos="95" endPos="102" type="location-city" surface="Haltern" />
+<Entity id="3" startPos="149" endPos="159" type="disaster-type" surface="Dauerregen" />
+<Entity id="4" startPos="206" endPos="211" type="distance" surface="4,90m" />
+<Entity id="5" startPos="288" endPos="298" type="distance" surface="fünf Meter" />
+<Entity id="6" startPos="319" endPos="329" type="disaster-type" surface="Hochwasser" />
+<Entity id="7" startPos="339" endPos="346" type="location-city" surface="Dorsten" /></Entities><Relations />
+</Document>

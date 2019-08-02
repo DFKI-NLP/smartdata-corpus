@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>JETZT die #Abendschau u.a. mit #<NODE id="32" />Imtech<NODE id="38" />-<NODE id="39" />Pleite<NODE id="45" /> #BER, #Flüchtlinge #<NODE id="66" />LaGeSo<NODE id="72" />, <NODE id="74" />100<NODE id="77" />. Folge #GWSW, Serie #SBahnRing =&gt; http://t.co/JyvSD26ixr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="629705386166255617" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-07T17:27:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T18:32:15.729Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="32" endPos="38" type="organization-company" surface="Imtech" />
+<Entity id="1" startPos="39" endPos="45" type="trigger" surface="Pleite" />
+<Entity id="2" startPos="66" endPos="72" type="organization" surface="LaGeSo" />
+<Entity id="3" startPos="74" endPos="77" type="number" surface="100" /></Entities><Relations>
+<Relation id="4" NAME="Insolvency">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

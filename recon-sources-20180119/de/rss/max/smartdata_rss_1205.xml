@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A7<NODE id="2" /> <NODE id="3" />Flensburg<NODE id="12" /> Richtung <NODE id="22" />Hamburg<NODE id="29" /> in Höhe <NODE id="38" />Hamburg-Schnelsen-Nord<NODE id="60" /> ist nach einem <NODE id="76" />Unfall<NODE id="82" /> nur eine Spur frei
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#6@2016-03-23T06:47:56.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-23T05:47:56Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T05:48:08.42Z" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="location-street" surface="A7" />
+<Entity id="1" startPos="3" endPos="12" type="location-city" surface="Flensburg" />
+<Entity id="2" startPos="22" endPos="29" type="location-city" surface="Hamburg" />
+<Entity id="3" startPos="38" endPos="60" type="location" surface="Hamburg-Schnelsen-Nord" />
+<Entity id="4" startPos="76" endPos="82" type="trigger" surface="Unfall" /></Entities><Relations>
+<Relation id="5" NAME="Accident">
+<Entity id="0" label="location" />
+<Entity id="3" label="location" />
+<Entity id="4" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

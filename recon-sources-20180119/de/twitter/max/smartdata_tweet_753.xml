@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />PolizeiMuenchen<NODE id="19" />: Wir hätten wohl tatsächlich...Was ist ein Blinker? als Antwortmöglichkeit hinzufügen sollen...interessantes Zwisch…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672197903662907392" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T23:37:23Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:31:33.215Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="19" type="organization" surface="PolizeiMuenchen" /></Entities><Relations />
+</Document>

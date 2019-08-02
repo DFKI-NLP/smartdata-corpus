@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>&gt; Gerichtsstreit um Streik: <NODE id="28" />Lufthansa<NODE id="37" /> zieht Antrag zurück
+Gerichtsstreit um Streik: <NODE id="84" />Lufthansa<NODE id="93" /> zieht Antrag zurück
+<NODE id="114" />12.11.<NODE id="120" />, <NODE id="122" />18:20<NODE id="127" />
+dpa-AFX
+<NODE id="136" />DÜSSELDORF<NODE id="146" /> (dpa-AFX) - Die <NODE id="163" />Lufthansa<NODE id="172" /> hat den Rechtsstreit um den <NODE id="201" />Streik<NODE id="207" /> der <NODE id="212" />Flugbegleiter<NODE id="225" /> am <NODE id="229" />Düsseldorfer<NODE id="241" /> Flughafen<NODE id="251" /> beendet. Im Prozess vor dem <NODE id="280" />Landesarbeitsgericht <NODE id="301" />Düsseldorf<NODE id="311" /> nahm der Vertreter der Airline am <NODE id="346" />Freitag<NODE id="353" /> den Antrag auf Erlass einer Einstweiligen Verfügung zurück. Am <NODE id="417" />Vortag<NODE id="423" /> hatte das Arbeitsgericht den <NODE id="453" />Streik<NODE id="459" /> des Kabinenpersonals bei der <NODE id="489" />Lufthansa<NODE id="498" /> am Flughafen der Landeshauptstadt erlaubt. Dagegen war das Unternehmen zunächst in Berufung gegangen. Laut Gericht ist mit der Rücknahme des Antrags durch die <NODE id="658" />Lufthansa<NODE id="667" /> das gesamte Verfahren auf <NODE id="694" />null<NODE id="698" /> gestellt. Zuvor hatte die <NODE id="725" />13<NODE id="727" /> . Kammer des Gerichts in zweieinhalbstündiger Verhandlung zu erkennen gegeben, dass sie wie die Vorinstanz entscheiden wolle./uho/DP/edh
+Das könnte Sie auch interessieren
+<NODE id="899" />15.01.2016<NODE id="909" />, <NODE id="911" />12:15 Uhr<NODE id="920" />
+(Boerse-Daily.de)
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.onvista.de/news/gerichtsstreit-um-streik-lufthansa-zieht-antrag-zurueck-18036807@2016-03-10T16:18:45.218+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.onvista.de/news/gerichtsstreit-um-streik-lufthansa-zieht-antrag-zurueck-18036807" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="28" endPos="37" type="organization-company" surface="Lufthansa" />
+<Entity id="1" startPos="84" endPos="93" type="organization-company" surface="Lufthansa" />
+<Entity id="2" startPos="114" endPos="120" type="date" surface="12.11." />
+<Entity id="3" startPos="122" endPos="127" type="time" surface="18:20" />
+<Entity id="4" startPos="136" endPos="146" type="location-city" surface="DÜSSELDORF" />
+<Entity id="5" startPos="163" endPos="172" type="organization-company" surface="Lufthansa" />
+<Entity id="6" startPos="201" endPos="207" type="trigger" surface="Streik" />
+<Entity id="7" startPos="212" endPos="225" type="person" surface="Flugbegleiter" />
+<Entity id="8" startPos="229" endPos="241" type="location-city" surface="Düsseldorfer" />
+<Entity id="9" startPos="229" endPos="251" type="organization-company" surface="Düsseldorfer Flughafen" />
+<Entity id="10" startPos="280" endPos="311" type="organization" surface="Landesarbeitsgericht Düsseldorf" />
+<Entity id="11" startPos="301" endPos="311" type="location-city" surface="Düsseldorf" />
+<Entity id="12" startPos="346" endPos="353" type="date" surface="Freitag" />
+<Entity id="13" startPos="417" endPos="423" type="date" surface="Vortag" />
+<Entity id="14" startPos="453" endPos="459" type="trigger" surface="Streik" />
+<Entity id="15" startPos="489" endPos="498" type="organization-company" surface="Lufthansa" />
+<Entity id="16" startPos="658" endPos="667" type="organization-company" surface="Lufthansa" />
+<Entity id="17" startPos="694" endPos="698" type="number" surface="null" />
+<Entity id="18" startPos="725" endPos="727" type="number" surface="13" />
+<Entity id="19" startPos="899" endPos="909" type="date" surface="15.01.2016" />
+<Entity id="20" startPos="911" endPos="920" type="time" surface="12:15 Uhr" /></Entities><Relations>
+<Relation id="21" NAME="Strike">
+<Entity id="7" label="striker" />
+<Entity id="5" label="company" />
+<Entity id="8" label="location" />
+<Entity id="6" label="trigger" />
+</Relation></Relations>
+</Document>

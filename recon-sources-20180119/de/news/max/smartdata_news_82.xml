@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Vor 35 Minuten<NODE id="14" />   <NODE id="17" />FOCUS Online<NODE id="29" />
+Die Top-Elf der Hinrunde in der <NODE id="62" />Fußball-Bundesliga<NODE id="80" /> wird nach einer Internetwahl bei bundesliga.de eindeutig von den beiden Top-Klubs dominiert.
+<NODE id="174" />Fünf<NODE id="178" /> Mal <NODE id="183" />Bayern <NODE id="190" />München<NODE id="197" />, <NODE id="199" />fünf<NODE id="203" /> Mal <NODE id="208" />Borussia <NODE id="217" />Dortmund<NODE id="225" /> und dazu der <NODE id="239" />Leverkusener<NODE id="251" /> <NODE id="252" />Chicharito<NODE id="262" />: Die Top-Elf der Hinrunde in der <NODE id="296" />Fußball-Bundesliga<NODE id="314" /> wird nach einer Internetwahl bei bundesliga.de eindeutig von den beiden Top-Klubs dominiert. Der <NODE id="412" />BVB<NODE id="415" /> sicherte sich die Mehrheit durch die Wahl von Thomas Tuchel als Trainer der Hinrunde.
+Meister <NODE id="510" />Bayern<NODE id="516" /> stellt in Torhüter <NODE id="536" />Manuel Neuer<NODE id="548" />, den Abwehrspielern <NODE id="569" />Jerome Boateng<NODE id="583" /> und <NODE id="588" />Philipp Lahm<NODE id="600" /> sowie <NODE id="607" />Thomas Müller<NODE id="620" /> und <NODE id="625" />Douglas Costa<NODE id="638" /> fast die Hälfte des Teams. Der <NODE id="670" />polnische<NODE id="679" /> Torjäger Robert Lewandowski fehlt jedoch. Dafür wurde Leverkusens <NODE id="746" />Mexikaner<NODE id="755" /> <NODE id="756" />Javier Hernandez<NODE id="772" />, genannt <NODE id="782" />Chicharito<NODE id="792" />, im Sturm an die Seite des <NODE id="820" />Dortmunders<NODE id="831" /> <NODE id="832" />Pierre-Emerick Aubameyang<NODE id="857" /> gewählt. Neben dem <NODE id="877" />Gabuner<NODE id="884" />, der mit <NODE id="894" />26.633<NODE id="900" /> Stimmen die meisten auf sich vereinte, stehen in Mats Hu
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.nachrichten.de/sport/Bundesliga-Top-Elf-der-Hinrunde-5-Mal-Bayern-5-Mal-Dortmund-und-Chicharito-aid_4982906170649670411.html@2016-03-10T13:46:16.935+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.nachrichten.de/sport/Bundesliga-Top-Elf-der-Hinrunde-5-Mal-Bayern-5-Mal-Dortmund-und-Chicharito-aid_4982906170649670411.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="time" surface="Vor 35 Minuten" />
+<Entity id="1" startPos="17" endPos="29" type="organization-company" surface="FOCUS Online" />
+<Entity id="2" startPos="62" endPos="80" type="organization" surface="Fußball-Bundesliga" />
+<Entity id="3" startPos="174" endPos="178" type="number" surface="Fünf" />
+<Entity id="4" startPos="183" endPos="197" type="organization" surface="Bayern München" />
+<Entity id="5" startPos="190" endPos="197" type="location-city" surface="München" />
+<Entity id="6" startPos="199" endPos="203" type="number" surface="fünf" />
+<Entity id="7" startPos="208" endPos="225" type="organization" surface="Borussia Dortmund" />
+<Entity id="8" startPos="217" endPos="225" type="location-city" surface="Dortmund" />
+<Entity id="9" startPos="239" endPos="251" type="location-city" surface="Leverkusener" />
+<Entity id="10" startPos="252" endPos="262" type="person" surface="Chicharito" />
+<Entity id="11" startPos="296" endPos="314" type="organization" surface="Fußball-Bundesliga" />
+<Entity id="12" startPos="412" endPos="415" type="organization" surface="BVB" />
+<Entity id="13" startPos="510" endPos="516" type="location" surface="Bayern" />
+<Entity id="14" startPos="510" endPos="516" type="organization" surface="Bayern" />
+<Entity id="15" startPos="536" endPos="548" type="person" surface="Manuel Neuer" />
+<Entity id="16" startPos="569" endPos="583" type="person" surface="Jerome Boateng" />
+<Entity id="17" startPos="588" endPos="600" type="person" surface="Philipp Lahm" />
+<Entity id="18" startPos="607" endPos="620" type="person" surface="Thomas Müller" />
+<Entity id="19" startPos="625" endPos="638" type="person" surface="Douglas Costa" />
+<Entity id="20" startPos="670" endPos="679" type="location" surface="polnische" />
+<Entity id="21" startPos="746" endPos="755" type="location" surface="Mexikaner" />
+<Entity id="22" startPos="756" endPos="772" type="person" surface="Javier Hernandez" />
+<Entity id="23" startPos="782" endPos="792" type="person" surface="Chicharito" />
+<Entity id="24" startPos="820" endPos="831" type="location-city" surface="Dortmunders" />
+<Entity id="25" startPos="832" endPos="857" type="person" surface="Pierre-Emerick Aubameyang" />
+<Entity id="26" startPos="877" endPos="884" type="location" surface="Gabuner" />
+<Entity id="27" startPos="894" endPos="900" type="number" surface="26.633" /></Entities><Relations />
+</Document>

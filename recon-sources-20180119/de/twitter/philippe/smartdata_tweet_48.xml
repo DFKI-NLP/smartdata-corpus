@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />ntvde<NODE id="9" />: Flughafen prüft Konsequenzen: BER-Ausrüster <NODE id="55" />Imtech<NODE id="61" /> meldet <NODE id="69" />Insolvenz<NODE id="78" /> an http://t.co/YhVYgn9VUl
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="629548565342363648" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="9" type="organization-company" surface="ntvde" />
+<Entity id="1" startPos="55" endPos="61" type="organization-company" surface="Imtech" />
+<Entity id="2" startPos="69" endPos="78" type="trigger" surface="Insolvenz" /></Entities><Relations>
+<Relation id="3" NAME="Insolvency">
+<Entity id="1" label="company" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

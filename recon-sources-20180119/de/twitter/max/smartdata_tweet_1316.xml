@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />NN_Online<NODE id="13" />: #<NODE id="16" />Nürnberg<NODE id="24" /> Person sprang am Hauptbahnhof ins Gleis - <NODE id="67" />Verzögerungen<NODE id="80" /> auf den Linien <NODE id="96" />U2<NODE id="98" /> und <NODE id="103" />U3<NODE id="105" /> https://t.co/RM9oKa0U8w
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755131938185285632" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T20:07:38Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T20:07:44.814Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2549888580/status/755131938185285632" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="13" type="organization-company" surface="NN_Online" />
+<Entity id="1" startPos="16" endPos="24" type="location-city" surface="Nürnberg" />
+<Entity id="2" startPos="67" endPos="80" type="trigger" surface="Verzögerungen" />
+<Entity id="3" startPos="96" endPos="98" type="location-route" surface="U2" />
+<Entity id="4" startPos="103" endPos="105" type="location-route" surface="U3" /></Entities><Relations>
+<Relation id="5" NAME="Delay">
+<Entity id="1" label="start_loc" />
+<Entity id="3" label="location" />
+<Entity id="4" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

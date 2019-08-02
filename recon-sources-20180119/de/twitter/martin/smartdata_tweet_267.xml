@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>[<NODE id="1" />S-Bahn M<NODE id="9" />]  <NODE id="12" />2.<NODE id="14" /> Akt. <NODE id="20" />S 7<NODE id="23" /> <NODE id="24" />Wolfratshausen<NODE id="38" />: <NODE id="40" />Notarzteinsatz<NODE id="54" /> am Gleis /<NODE id="65" />Streckensperrung<NODE id="81" /> / <NODE id="84" />Schienenersatzverkehr<NODE id="105" />  +++ http://t.co/Sw7o8rjoWe
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="648933301902831616" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-09-29T18:52:10Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T00:19:25.729Z" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="9" type="organization-company" surface="S-Bahn M" />
+<Entity id="1" startPos="12" endPos="14" type="number" surface="2." />
+<Entity id="2" startPos="20" endPos="23" type="location-route" surface="S 7" />
+<Entity id="3" startPos="24" endPos="38" type="location-stop" surface="Wolfratshausen" />
+<Entity id="4" startPos="40" endPos="54" type="trigger" surface="Notarzteinsatz" />
+<Entity id="5" startPos="65" endPos="81" type="trigger" surface="Streckensperrung" />
+<Entity id="6" startPos="84" endPos="105" type="trigger" surface="Schienenersatzverkehr" /></Entities><Relations>
+<Relation id="7" NAME="Obstruction">
+<Entity id="5" label="trigger" />
+<Entity id="3" label="end_loc" />
+<Entity id="4" label="cause" />
+<Entity id="2" label="location" />
+</Relation>
+<Relation id="8" NAME="RailReplacementService">
+<Entity id="3" label="end_loc" />
+<Entity id="4" label="cause" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="location" />
+</Relation></Relations>
+</Document>

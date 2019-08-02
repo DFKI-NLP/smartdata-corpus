@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @sebastianjost: #<NODE id="20" />BHF-Bank<NODE id="28" />: <NODE id="30" />Fosun<NODE id="35" /> beteuert, keine Fusion mit<NODE id="62" /> Hauck &amp; Aufhäuser<NODE id="80" /> anzustreben  http://t.co/jdmBCF041p via @<NODE id="122" />welt<NODE id="126" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="636417630266650624" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-08-26T05:59:21Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T19:07:54.118Z" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="28" type="organization-company" surface="BHF-Bank" />
+<Entity id="1" startPos="30" endPos="35" type="organization-company" surface="Fosun" />
+<Entity id="2" startPos="62" endPos="80" type="organization-company" surface=" Hauck &amp; Aufhäuser" />
+<Entity id="3" startPos="122" endPos="126" type="organization-company" surface="welt" /></Entities><Relations />
+</Document>

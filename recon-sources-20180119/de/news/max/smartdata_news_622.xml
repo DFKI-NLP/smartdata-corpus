@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Zur Startseite
+Die Konfliktparteien in <NODE id="39" />Syrien<NODE id="45" /> haben sich nach Angaben der Opposition auf einen vorläufigen Waffenstillstand geeinigt. Es handle sich um ein provisorisches Abkommen, das auf internationalen Garantien fuße, zitierte der oppositionsnahe Fernsehsender <NODE id="264" />Orient TV<NODE id="273" /> am <NODE id="277" />Montag<NODE id="283" /> den <NODE id="288" />Vorsitzenden<NODE id="300" /> des <NODE id="305" />Hohen Verhandlungsrats<NODE id="327" />, <NODE id="329" />Riad Hidschab<NODE id="342" />.
+Das wichtigste Oppositionsbündnis traf sich in <NODE id="391" />Saudi-Arabien<NODE id="404" />, um einen gemeinsamen Plan der <NODE id="436" />USA<NODE id="439" /> und <NODE id="444" />Russlands<NODE id="453" /> zur Beendigung der Feindseligkeiten zu besprechen. <NODE id="505" />Zwei<NODE id="509" /> westlichen Diplomaten zufolge sieht dieser eine Waffenruhe ab kommenden <NODE id="582" />Samstag<NODE id="589" /> vor. Der Entwurf schließt die radikalislamische <NODE id="638" />IS<NODE id="640" />-Miliz und den <NODE id="655" />Al-Kaida<NODE id="663" />-Ableger <NODE id="672" />Nusra Front<NODE id="683" /> aus.
+Zuvor hatte <NODE id="701" />Russland<NODE id="709" /> die jüngsten <NODE id="723" />Anschläge<NODE id="732" /> auf Regimeviertel in <NODE id="754" />Syrien<NODE id="760" /> als abscheuliche Verbrechen kritisiert, die auch die Bemühungen um eine Waffenruhe untergraben sollten. Die Attentate sollten die Versuche sabotieren, Gewalt und Blutvergießen in dem
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.n-tv.de/politik/Angeblich-Feuerpause-in-Syrien-vereinbart-article17055021.html@2016-02-22T17:45:01.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-22T16:45:01Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T06:04:21.929Z" />
+<feature featureName="uri" featureValue="http://www.n-tv.de/politik/Angeblich-Feuerpause-in-Syrien-vereinbart-article17055021.html" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="39" endPos="45" type="location" surface="Syrien" />
+<Entity id="1" startPos="264" endPos="273" type="organization-company" surface="Orient TV" />
+<Entity id="2" startPos="277" endPos="283" type="date" surface="Montag" />
+<Entity id="3" startPos="288" endPos="300" type="org-position" surface="Vorsitzenden" />
+<Entity id="4" startPos="305" endPos="327" type="organization" surface="Hohen Verhandlungsrats" />
+<Entity id="5" startPos="329" endPos="342" type="person" surface="Riad Hidschab" />
+<Entity id="6" startPos="391" endPos="404" type="location" surface="Saudi-Arabien" />
+<Entity id="7" startPos="436" endPos="439" type="location" surface="USA" />
+<Entity id="8" startPos="444" endPos="453" type="location" surface="Russlands" />
+<Entity id="9" startPos="505" endPos="509" type="number" surface="Zwei" />
+<Entity id="10" startPos="582" endPos="589" type="date" surface="Samstag" />
+<Entity id="11" startPos="638" endPos="640" type="organization" surface="IS" />
+<Entity id="12" startPos="655" endPos="663" type="organization" surface="Al-Kaida" />
+<Entity id="13" startPos="672" endPos="683" type="organization" surface="Nusra Front" />
+<Entity id="14" startPos="701" endPos="709" type="location" surface="Russland" />
+<Entity id="15" startPos="723" endPos="732" type="disaster-type" surface="Anschläge" />
+<Entity id="16" startPos="754" endPos="760" type="location" surface="Syrien" /></Entities><Relations>
+<Relation id="17" NAME="OrganizationLeadership">
+<Entity id="5" label="person" />
+<Entity id="4" label="organization" />
+<Entity id="3" label="position" />
+</Relation></Relations>
+</Document>

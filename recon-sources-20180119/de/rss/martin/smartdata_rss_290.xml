@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Stuttgart<NODE id="9" /> Richtung <NODE id="19" />Karlsruhe<NODE id="28" /> zwischen <NODE id="38" />Karlsbad<NODE id="46" /> und <NODE id="51" />Dreieck Karlsruhe<NODE id="68" /> Gefahr durch Gegenstände auf der Fahrbahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=81efa7f8-184a-48a8-9fff-e1e068399484@2016-03-29T15:07:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-29T13:07:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-29T14:29:10.536Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=81efa7f8-184a-48a8-9fff-e1e068399484" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Stuttgart" />
+<Entity id="1" startPos="19" endPos="28" type="location-city" surface="Karlsruhe" />
+<Entity id="2" startPos="38" endPos="46" type="location" surface="Karlsbad" />
+<Entity id="3" startPos="51" endPos="68" type="location" surface="Dreieck Karlsruhe" /></Entities><Relations />
+</Document>

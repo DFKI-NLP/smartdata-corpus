@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Share |
+In <NODE id="11" />Berlin<NODE id="17" /> werden die vorhandenen S-Bahn-Züge nicht mit einer Videoüberwachung nachgerüstet.
+Dies teilten die<NODE id="116" /> S-Bahn GmbH<NODE id="128" /> und die <NODE id="137" />Berliner<NODE id="145" /> Senatsverwaltung für Verkehr<NODE id="174" /> am <NODE id="178" />11.01.2016<NODE id="188" /> mit. Eine Videoüberwachung in den Zügen sei erst mit den neuen Fahrzeugen geplant, die ab <NODE id="279" />2021<NODE id="283" /> im Teilnetz Ring eingesetzt werden. Anders die <NODE id="331" />BVG<NODE id="334" />: Hier sind alle Fahrzeuge unabhängig vom Alter mit Kameras ausgestattet worden. Berlins Innensenator <NODE id="436" />Frank Henkel<NODE id="448" /> (<NODE id="450" />CDU<NODE id="453" />) erwägt aber, die Speicherfrist für Videoaufnahmen im öffentlichen Nahverkehr zu verlängern. Derzeit werden sie nach <NODE id="571" />48 Stunden<NODE id="581" /> gelöscht. (cm)
+BahnMarkt.EU
+Ausschreibungs-Center
+Wer schreibt welche Leistungen aus? Wer kann was liefern? Wer baut wo?     Antworten auf Ihre Fragen bietet diese einzigartige interaktive Informations-     und Beschaffungsplattform der Bahnbranche. Zur Webseite
+Letzte Ausschreibung:
+NEU
+Das Kapazitäten-Portal für Gleisbautechnik und bauaffine Dienstleistungen
+Von Arbeitszug
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.eurailpress.de/news/alle-nachrichten/single-view/news/keine-videoueberwachung-in-s-bahn-zuegen.html@2016-03-10T14:49:54.992+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:49:54.992Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:50:03.318Z" />
+<feature featureName="uri" featureValue="http://www.eurailpress.de/news/alle-nachrichten/single-view/news/keine-videoueberwachung-in-s-bahn-zuegen.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="11" endPos="17" type="location-city" surface="Berlin" />
+<Entity id="1" startPos="116" endPos="128" type="organization-company" surface=" S-Bahn GmbH" />
+<Entity id="2" startPos="137" endPos="145" type="location-city" surface="Berliner" />
+<Entity id="3" startPos="137" endPos="174" type="organization" surface="Berliner Senatsverwaltung für Verkehr" />
+<Entity id="4" startPos="178" endPos="188" type="date" surface="11.01.2016" />
+<Entity id="5" startPos="279" endPos="283" type="date" surface="2021" />
+<Entity id="6" startPos="331" endPos="334" type="organization-company" surface="BVG" />
+<Entity id="7" startPos="436" endPos="448" type="person" surface="Frank Henkel" />
+<Entity id="8" startPos="450" endPos="453" type="organization" surface="CDU" />
+<Entity id="9" startPos="571" endPos="581" type="duration" surface="48 Stunden" /></Entities><Relations />
+</Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />2 Promille<NODE id="10" /> | Betrunkene Autofahrerin verursachte <NODE id="49" />schweren Unfall<NODE id="64" /> auf der <NODE id="73" />B17<NODE id="76" /> https://t.co/s86PBLvWEj https://t.co/QSBDVB175T
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="719880106030669824" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-12T13:29:26Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T02:01:46.344Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2152895365/status/719880106030669824" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="10" type="number" surface="2 Promille" />
+<Entity id="1" startPos="49" endPos="64" type="trigger" surface="schweren Unfall" />
+<Entity id="2" startPos="73" endPos="76" type="location-street" surface="B17" /></Entities><Relations>
+<Relation id="3" NAME="Accident">
+<Entity id="2" label="location" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @DB_Info: #<NODE id="14" />Bienwaldbahn<NODE id="26" /> <NODE id="27" />Wörth<NODE id="32" /> - <NODE id="35" />Lauterbourg<NODE id="46" /> -&gt; <NODE id="50" />Einstellung<NODE id="61" /> des Eisenbahnverkehrs wegen <NODE id="90" />Hochwassergefahr<NODE id="106" />. Infos hier: https://t.co/90AwMh…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743852023452409856" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T17:05:17Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T17:05:24.727Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Andrea Macchiato/status/744276433434972160" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="14" endPos="26" type="location-route" surface="Bienwaldbahn" />
+<Entity id="1" startPos="27" endPos="32" type="location-stop" surface="Wörth" />
+<Entity id="2" startPos="35" endPos="46" type="location-stop" surface="Lauterbourg" />
+<Entity id="3" startPos="50" endPos="61" type="trigger" surface="Einstellung" />
+<Entity id="4" startPos="90" endPos="106" type="trigger" surface="Hochwassergefahr" /></Entities><Relations>
+<Relation id="5" NAME="CanceledRoute">
+<Entity id="2" label="end_loc" />
+<Entity id="1" label="start_loc" />
+<Entity id="4" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="3" label="trigger" />
+</Relation></Relations>
+</Document>

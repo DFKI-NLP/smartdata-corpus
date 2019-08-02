@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Erdrutsch<NODE id="9" /> bei <NODE id="14" />Los Angeles<NODE id="25" />: Straße faltet sich zusammen https://t.co/1IiMYhu8RI
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668097113667014657" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-21T16:02:19Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T21:30:15.729Z" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="disaster-type" surface="Erdrutsch" />
+<Entity id="1" startPos="14" endPos="25" type="location-city" surface="Los Angeles" /></Entities><Relations>
+<Relation id="2" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="type" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Jahrestag des Anschlags auf Charlie Hebdo: Satiremagazin feiert Überleben mit bissiger Ausgabe
+<NODE id="95" />05.01.16<NODE id="103" />
+Terror Charlie Hebdo feiert Überleben mit bissiger Sonderausgabe
+Von <NODE id="173" />Peter Heusch<NODE id="185" />
+Foto: BENOIT TESSIER / <NODE id="209" />REUTERS<NODE id="216" />
+Gott als Täter auf der Flucht: So gestaltete die Redaktion der Satirezeitschrift „Charlie Hebdo“ ihre Sonderausgabe ein Jahr nach dem blutigen Anschlag auf das Magazin.
+0
+0
+Zum Jahrestag des Anschlags erscheint das französische Magazin Charlie Hebdo mit einer Sonderausgabe – und gibt sich extrem boshaft.
+<NODE id="523" />Paris<NODE id="528" />.  <NODE id="531" />Ein Jahr<NODE id="539" /> nach dem Terroranschlag feiert das <NODE id="575" />französische<NODE id="587" /> Satiremagazin Charlie Hebdo sein Überleben mit einer bissigen Sonderausgabe. Niemanden geringeren als den Herrgott hat die Zeitschrift zur Fahndung ausgeschrieben.
+Auf dem pechschwarzen Cover der an diesem <NODE id="794" />Mittwoch<NODE id="802" /> erscheinenden Sonderausgabe befindet sich Gott als bärtiger Mann mit irrem Blick, blutbeflecktem Gewand und einem auf den Rücken g
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.abendblatt.de/politik/ausland/article206888007/Charlie-Hebdo-feiert-Ueberleben-mit-bissiger-Sonderausgabe.html@2016-03-10T13:35:53.933+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:35:53.933Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:36:03.485Z" />
+<feature featureName="uri" featureValue="http://www.abendblatt.de/politik/ausland/article206888007/Charlie-Hebdo-feiert-Ueberleben-mit-bissiger-Sonderausgabe.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="95" endPos="103" type="date" surface="05.01.16" />
+<Entity id="1" startPos="173" endPos="185" type="person" surface="Peter Heusch" />
+<Entity id="2" startPos="209" endPos="216" type="organization-company" surface="REUTERS" />
+<Entity id="3" startPos="523" endPos="528" type="location-city" surface="Paris" />
+<Entity id="4" startPos="531" endPos="539" type="duration" surface="Ein Jahr" />
+<Entity id="5" startPos="575" endPos="587" type="location" surface="französische" />
+<Entity id="6" startPos="794" endPos="802" type="date" surface="Mittwoch" /></Entities><Relations />
+</Document>

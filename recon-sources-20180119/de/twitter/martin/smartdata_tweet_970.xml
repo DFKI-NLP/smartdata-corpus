@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />BILD<NODE id="8" />: Im <NODE id="13" />Nordwesten Russlands<NODE id="33" /> sind mindestens <NODE id="50" />13<NODE id="52" /> Teilnehmer eines Ferienlagers bei einem Bootsausflug ums Leben gekommen.
+https://t.co/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744594033859788800" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T18:13:46Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T18:13:50.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Heinz Juergens/status/743499847412613120" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="8" type="organization-company" surface="BILD" />
+<Entity id="1" startPos="13" endPos="33" type="location" surface="Nordwesten Russlands" />
+<Entity id="2" startPos="50" endPos="52" type="number" surface="13" /></Entities><Relations />
+</Document>

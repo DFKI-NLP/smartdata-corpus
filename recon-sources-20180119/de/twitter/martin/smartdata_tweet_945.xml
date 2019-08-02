@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Studie: Nur mit einer Abkehr von Benzin und Diesel lassen sich <NODE id="82" />Deutschlands<NODE id="94" /> Klimaschutzziele erreichen. https://t.co/axJ…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743849131035234304" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-17T16:53:47Z" />
+<feature featureName="indexDate" featureValue="2016-06-17T16:53:54.727Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Jo Go/status/743849131035234304" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="82" endPos="94" type="location" surface="Deutschlands" /></Entities><Relations />
+</Document>

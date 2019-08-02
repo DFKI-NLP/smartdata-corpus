@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Stellenabbau<NODE id="12" /> bei der #<NODE id="22" />Deutschen #Bahn<NODE id="37" /> - #<NODE id="41" />Bahnchef<NODE id="49" /> #<NODE id="51" />Grube<NODE id="56" /> stellt Güterverkehr auf Prüfstand http://t.co/8Y5yWAcU0n http://t.co/WaBIHmNUEs
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="655675722439110657" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-18T09:24:08Z" />
+<feature featureName="indexDate" featureValue="2016-03-12T00:17:05.729Z" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="12" type="trigger" surface="Stellenabbau" />
+<Entity id="1" startPos="22" endPos="37" type="organization-company" surface="Deutschen #Bahn" />
+<Entity id="2" startPos="41" endPos="49" type="org-position" surface="Bahnchef" />
+<Entity id="3" startPos="51" endPos="56" type="person" surface="Grube" /></Entities><Relations>
+<Relation id="4" NAME="Layoffs">
+<Entity id="1" label="company" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

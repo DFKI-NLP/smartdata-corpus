@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @hakling: @Riotbuddha Wenn eine Verspätung nicht angezeigt wird, gibt es sie dann überhaupt? #PhilosophieInBerlin @<NODE id="118" />SBahnBerlin<NODE id="129" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668796532725010432" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-23T14:21:33Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:08:53.615Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="118" endPos="129" type="organization-company" surface="SBahnBerlin" /></Entities><Relations />
+</Document>

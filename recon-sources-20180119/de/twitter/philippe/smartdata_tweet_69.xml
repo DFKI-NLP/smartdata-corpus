@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>VU #<NODE id="4" />Linie6<NODE id="10" /> <NODE id="11" />Ersatzverkehr<NODE id="24" /> zwischen  <NODE id="35" />Krepenstraße<NODE id="47" /> und <NODE id="52" />Strangriede<NODE id="63" /> ^mm
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="652415210347720704" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Schienenersatzverkehr" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="location-route" surface="Linie6" />
+<Entity id="1" startPos="11" endPos="24" type="trigger" surface="Ersatzverkehr" />
+<Entity id="2" startPos="35" endPos="47" type="location-stop" surface="Krepenstraße" />
+<Entity id="3" startPos="52" endPos="63" type="location-stop" surface="Strangriede" /></Entities><Relations>
+<Relation id="4" NAME="RailReplacementService">
+<Entity id="3" label="end_loc" />
+<Entity id="2" label="start_loc" />
+<Entity id="0" label="location" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

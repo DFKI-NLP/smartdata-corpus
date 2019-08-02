@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Streik<NODE id="6" /> bei der <NODE id="15" />Bahn<NODE id="19" />: <NODE id="21" />Weselskys<NODE id="30" /> Nackenschlag http://t.co/7ZcbqyQG4R
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="603806550847844353" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-05-28T06:14:34Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T22:17:14.011Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="trigger" surface="Streik" />
+<Entity id="1" startPos="15" endPos="19" type="organization-company" surface="Bahn" />
+<Entity id="2" startPos="21" endPos="30" type="person" surface="Weselskys" /></Entities><Relations>
+<Relation id="3" NAME="Strike">
+<Entity id="1" label="company" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

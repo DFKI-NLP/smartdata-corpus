@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Stuttgart<NODE id="9" /> Richtung <NODE id="19" />Heilbronn<NODE id="28" /> in Höhe <NODE id="37" />Pleidelsheim<NODE id="49" /> alle Unfallstellen geräumt, keine Verkehrsbehinderung mehr
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=61da4861-2ee4-4493-9e33-18cc96836c97@2016-04-13T01:28:00.000+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-12T23:28:00Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T23:41:31.206Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=61da4861-2ee4-4493-9e33-18cc96836c97" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Stuttgart" />
+<Entity id="1" startPos="19" endPos="28" type="location-city" surface="Heilbronn" />
+<Entity id="2" startPos="37" endPos="49" type="location" surface="Pleidelsheim" /></Entities><Relations />
+</Document>

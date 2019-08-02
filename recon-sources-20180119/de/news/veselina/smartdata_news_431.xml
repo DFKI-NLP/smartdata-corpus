@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Französische Bank kündigt Stellenabbau an<NODE id="41" />
+<NODE id="42" />18:40 04.04.16<NODE id="56" />
+<NODE id="57" />Rund 125 Arbeitsplätze will die zweitgrößte <NODE id="101" />französische<NODE id="113" /> Bank, <NODE id="120" />Societe Generale<NODE id="136" />, abbauen.<NODE id="146" /> <NODE id="147" />Die schärfere Marktregulierung drücke die Profitabilität.<NODE id="204" /> <NODE id="205" />Bis 2017 will die <NODE id="223" />Societe Generale<NODE id="239" /> 850 Millionen Euro jährlich sparen.<NODE id="275" />
+<NODE id="276" />Die <NODE id="280" />Societe Generale SA<NODE id="299" /> hat mitgeteilt, dass sie in <NODE id="328" />Frankreich<NODE id="338" /> etwa <NODE id="344" />125 Arbeitsplätze<NODE id="361" /> <NODE id="362" />abbauen<NODE id="369" /> will.<NODE id="375" /> <NODE id="376" />Die zweitgrößte <NODE id="392" />französische<NODE id="404" /> Bank verwies auf die schärfere Marktregulierung, die die Profitabilität drücke.<NODE id="484" /> 
+<NODE id="486" />Dabei sollen 90 Stellen im Handelsgeschäft in <NODE id="532" />Frankreich<NODE id="542" /> wegfallen, in der <NODE id="561" />Vermögensverwaltungssparte<NODE id="587" /> <NODE id="588" />Lyxor<NODE id="593" /> werden zudem etwa 35 Jobs gestrichen , teilte die <NODE id="644" />Bank<NODE id="648" /> am Montag mit.<NODE id="663" /> <NODE id="664" />Societe Generale<NODE id="680" /> will die Kürzungen weitgehend durch freiwillige Abgänge abwickeln und zwangsweise Entlassungen vermeiden.<NODE id="786" /> 
+<NODE id="788" />„Die <NODE id="793" />Societe Generale<NODE id="809" /> muss ihr Geschäftsmodell anpassen, um sich auf ihre Kernaktivitäten zu konzentrieren und die Nutzung knapper Ressourcen zu optimieren“, hieß es.<NODE id="954" /> <NODE id="955" />„<NODE id="956" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://ariva.de/news/Franzoesische-Bank-kuendigt-Stellenabbau-an-5703293@2016-04-04T18:40:48.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-04T16:40:48Z" />
+<feature featureName="indexDate" featureValue="2016-04-04T20:42:46.691Z" />
+<feature featureName="uri" featureValue="http://ariva.de/news/Franzoesische-Bank-kuendigt-Stellenabbau-an-5703293" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="41" type="sentence" surface="Französische Bank kündigt Stellenabbau an" />
+<Entity id="1" startPos="42" endPos="56" type="sentence" surface="18:40 04.04.16" />
+<Entity id="2" startPos="57" endPos="146" type="sentence" surface="Rund 125 Arbeitsplätze will die zweitgrößte französische Bank, Societe Generale, abbauen." />
+<Entity id="3" startPos="101" endPos="113" type="location" surface="französische" />
+<Entity id="4" startPos="120" endPos="136" type="organization-company" surface="Societe Generale" />
+<Entity id="5" startPos="147" endPos="204" type="sentence" surface="Die schärfere Marktregulierung drücke die Profitabilität." />
+<Entity id="6" startPos="205" endPos="275" type="sentence" surface="Bis 2017 will die Societe Generale 850 Millionen Euro jährlich sparen." />
+<Entity id="7" startPos="223" endPos="239" type="organization-company" surface="Societe Generale" />
+<Entity id="8" startPos="276" endPos="375" type="sentence" surface="Die Societe Generale SA hat mitgeteilt, dass sie in Frankreich etwa 125 Arbeitsplätze abbauen will." />
+<Entity id="9" startPos="280" endPos="299" type="organization-company" surface="Societe Generale SA" />
+<Entity id="10" startPos="328" endPos="338" type="location" surface="Frankreich" />
+<Entity id="11" startPos="344" endPos="361" type="number" surface="125 Arbeitsplätze" />
+<Entity id="12" startPos="362" endPos="369" type="trigger" surface="abbauen" />
+<Entity id="13" startPos="376" endPos="484" type="sentence" surface="Die zweitgrößte französische Bank verwies auf die schärfere Marktregulierung, die die Profitabilität drücke." />
+<Entity id="14" startPos="392" endPos="404" type="location" surface="französische" />
+<Entity id="15" startPos="486" endPos="663" type="sentence" surface="Dabei sollen 90 Stellen im Handelsgeschäft in Frankreich wegfallen, in der Vermögensverwaltungssparte Lyxor werden zudem etwa 35 Jobs gestrichen , teilte die Bank am Montag mit." />
+<Entity id="16" startPos="532" endPos="542" type="location" surface="Frankreich" />
+<Entity id="17" startPos="561" endPos="587" type="relationship-type" surface="Vermögensverwaltungssparte" />
+<Entity id="18" startPos="588" endPos="593" type="organization-company" surface="Lyxor" />
+<Entity id="19" startPos="644" endPos="648" type="organization-company" surface="Bank" />
+<Entity id="20" startPos="664" endPos="680" type="organization-company" surface="Societe Generale" />
+<Entity id="21" startPos="664" endPos="786" type="sentence" surface="Societe Generale will die Kürzungen weitgehend durch freiwillige Abgänge abwickeln und zwangsweise Entlassungen vermeiden." />
+<Entity id="22" startPos="788" endPos="954" type="sentence" surface="„Die Societe Generale muss ihr Geschäftsmodell anpassen, um sich auf ihre Kernaktivitäten zu konzentrieren und die Nutzung knapper Ressourcen zu optimieren“, hieß es." />
+<Entity id="23" startPos="793" endPos="809" type="organization-company" surface="Societe Generale" />
+<Entity id="24" startPos="955" endPos="956" type="sentence" surface="„" /></Entities><Relations>
+<Relation id="25" NAME="Identity">
+<Entity id="4" label="source" />
+<Entity id="19" label="target" />
+<Entity id="20" label="target" />
+<Entity id="7" label="target" />
+<Entity id="9" label="target" />
+<Entity id="23" label="target" />
+</Relation>
+<Relation id="26" NAME="Layoffs">
+<Entity id="11" label="num_laid_off" />
+<Entity id="9" label="company" />
+<Entity id="10" label="location" />
+<Entity id="12" label="trigger" />
+</Relation></Relations>
+</Document>

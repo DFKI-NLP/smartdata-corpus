@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Ein Tankflugzeug vom Typ <NODE id="25" />Airbus<NODE id="31" /> <NODE id="32" />310<NODE id="35" /> MRTT (r) und <NODE id="49" />zwei<NODE id="53" /> Tornados (l) in der Luft. © <NODE id="82" />Bernd Wüstneck<NODE id="96" />
+<NODE id="97" />01.12.2015<NODE id="107" /> | <NODE id="110" />18:12 Uhr<NODE id="119" />
+Terrorismus
+<NODE id="132" />Bundeswehr<NODE id="142" />-Jets sollen ab <NODE id="158" />Januar<NODE id="164" /> <NODE id="165" />IS<NODE id="167" /> bekämpfen
+Zieht <NODE id="184" />Deutschland<NODE id="195" /> nächstes Jahr in den Krieg? Die Kanzlerin beschwichtigt. In <NODE id="256" />Syrien<NODE id="262" /> und im <NODE id="270" />Irak<NODE id="274" /> gehe es lediglich um einen militärischen Einsatz. Doch der großen Mehrheit der Bürger ist mulmig. Sie befürchten eine höhere Anschlagsgefahr.
+<NODE id="417" />Berlin<NODE id="423" />. Es ist einer der heikelsten Einsätze in der Geschichte der <NODE id="484" />Bundeswehr<NODE id="494" />: Schon kommende Woche will die Bundesregierung erste Tornado-Aufklärungsjets in der <NODE id="579" />Türkei<NODE id="585" /> stationieren, um sich am Kampf gegen die Terrormiliz <NODE id="639" />Islamischer Staat<NODE id="656" /> (<NODE id="658" />IS<NODE id="660" />) in <NODE id="665" />Syrien<NODE id="671" /> und im <NODE id="679" />Irak<NODE id="683" /> zu beteiligen.
+Das Kabinett gab für die <NODE id="724" />134 Millionen Euro<NODE id="742" /> teure Mission mit rund <NODE id="766" />1200<NODE id="770" /> Soldaten grünes Licht.
+Doch in der Front gegen den <NODE id="822" />IS<NODE id="824" /> vertiefen sich die Risse: <NODE id="851" />Russland<NODE id="859" /> warf der <NODE id="869" />Türkei<NODE id="875" /> Komplizenschaft mit der <NODE id="900" />IS<NODE id="902" />-Miliz vor und erntete empörte Reakt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.neuepresse.de/Nachrichten/Politik/Deutschland-Welt/Bundeskabinett-beschliesst-Anti-Terror-Einsatz-gegen-IS-Miliz@2016-03-11T00:26:50.447+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T23:26:50.447Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T23:26:53.484Z" />
+<feature featureName="uri" featureValue="http://www.neuepresse.de/Nachrichten/Politik/Deutschland-Welt/Bundeskabinett-beschliesst-Anti-Terror-Einsatz-gegen-IS-Miliz" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="25" endPos="31" type="organization-company" surface="Airbus" />
+<Entity id="1" startPos="32" endPos="35" type="number" surface="310" />
+<Entity id="2" startPos="49" endPos="53" type="number" surface="zwei" />
+<Entity id="3" startPos="82" endPos="96" type="person" surface="Bernd Wüstneck" />
+<Entity id="4" startPos="97" endPos="107" type="date" surface="01.12.2015" />
+<Entity id="5" startPos="110" endPos="119" type="time" surface="18:12 Uhr" />
+<Entity id="6" startPos="132" endPos="142" type="organization" surface="Bundeswehr" />
+<Entity id="7" startPos="158" endPos="164" type="date" surface="Januar" />
+<Entity id="8" startPos="165" endPos="167" type="organization" surface="IS" />
+<Entity id="9" startPos="184" endPos="195" type="location" surface="Deutschland" />
+<Entity id="10" startPos="256" endPos="262" type="location" surface="Syrien" />
+<Entity id="11" startPos="270" endPos="274" type="location" surface="Irak" />
+<Entity id="12" startPos="417" endPos="423" type="location-city" surface="Berlin" />
+<Entity id="13" startPos="484" endPos="494" type="organization" surface="Bundeswehr" />
+<Entity id="14" startPos="579" endPos="585" type="location" surface="Türkei" />
+<Entity id="15" startPos="639" endPos="656" type="organization" surface="Islamischer Staat" />
+<Entity id="16" startPos="658" endPos="660" type="organization" surface="IS" />
+<Entity id="17" startPos="665" endPos="671" type="location" surface="Syrien" />
+<Entity id="18" startPos="679" endPos="683" type="location" surface="Irak" />
+<Entity id="19" startPos="724" endPos="742" type="number" surface="134 Millionen Euro" />
+<Entity id="20" startPos="766" endPos="770" type="number" surface="1200" />
+<Entity id="21" startPos="822" endPos="824" type="organization" surface="IS" />
+<Entity id="22" startPos="851" endPos="859" type="location" surface="Russland" />
+<Entity id="23" startPos="869" endPos="875" type="location" surface="Türkei" />
+<Entity id="24" startPos="900" endPos="902" type="organization" surface="IS" /></Entities><Relations />
+</Document>

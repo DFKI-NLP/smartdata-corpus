@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bei der #<NODE id="9" />Deutschen #Bahn AG<NODE id="27" /> bekommt der alte #Spruch : Pünktlich wie die #Eisenbahn   inzwischen eine gänzlich andere Bedeutung!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671671198208696320" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="27" type="organization-company" surface="Deutschen #Bahn AG" /></Entities><Relations />
+</Document>

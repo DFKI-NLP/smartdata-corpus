@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Kroatien<NODE id="8" /> sammelt die #Flüchtlinge ein und bringt sie nach <NODE id="58" />Slowenien<NODE id="67" />, so umgeht #<NODE id="80" />Kroatien<NODE id="88" /> die Registrierung. <NODE id="108" />100.000de<NODE id="117" /> werden im Stau stehen.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="644072328096296960" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-09-16T08:56:23Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:40:14.119Z" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location" surface="Kroatien" />
+<Entity id="1" startPos="58" endPos="67" type="location" surface="Slowenien" />
+<Entity id="2" startPos="80" endPos="88" type="location" surface="Kroatien" />
+<Entity id="3" startPos="108" endPos="117" type="number" surface="100.000de" /></Entities><Relations />
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @MenzelZEL: Der #Brexit ist da - und alles stürzt ab: Pfund, Euro, die Börsen. https://t.co/3IJ9QZXB7Q #<NODE id="107" />handelsblatt<NODE id="119" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="746219681405534208" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-24T05:53:30Z" />
+<feature featureName="indexDate" featureValue="2016-06-24T05:53:36.307Z" />
+<feature featureName="uri" featureValue="https://twitter.com/310125379/status/746219681405534208" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="107" endPos="119" type="organization-company" surface="handelsblatt" /></Entities><Relations />
+</Document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Übernahme<NODE id="9" /> von <NODE id="14" />Kaiser´s Tengelmann<NODE id="33" /> durch <NODE id="40" />EDEKA<NODE id="45" />: Ministererlaubnis gestoppt; Fusion zu Lasten der Landwirtschaft https://t.co/hnXf2TJhe2
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754217776160669696" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-16T07:35:05Z" />
+<feature featureName="indexDate" featureValue="2016-07-16T07:35:09.878Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3297503611/status/754217776160669696" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="trigger" surface="Übernahme" />
+<Entity id="1" startPos="14" endPos="33" type="organization-company" surface="Kaiser´s Tengelmann" />
+<Entity id="2" startPos="40" endPos="45" type="organization-company" surface="EDEKA" /></Entities><Relations>
+<Relation id="3" NAME="Acquisition">
+<Entity id="0" label="trigger" />
+<Entity id="1" label="acquired" />
+<Entity id="2" label="buyer" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Die <NODE id="23" />USA<NODE id="26" /> haben mal eben erklärt, dass nur sie künftig die Besitzrechte im Weltraum verwalten. https://t.co/A2m9Yhi1Zv
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="671673781400768512" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-01T12:54:43Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:28:04.12Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="23" endPos="26" type="location" surface="USA" /></Entities><Relations />
+</Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />B10<NODE id="3" /> <NODE id="4" />Stuttgart-Ost<NODE id="17" /> und <NODE id="22" />Stuttgart-Untertürkheim<NODE id="45" />, <NODE id="47" />Uferstraße<NODE id="57" />, <NODE id="59" />stadtauswärts<NODE id="72" /> zwischen <NODE id="82" />Dreieck NeckarPark<NODE id="100" /> und <NODE id="105" />Benzstraße<NODE id="115" /> Gefahr durch Kanthölzer auf der Fahrbahn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=2e39d777-9178-4bd6-bca8-f012348f78a8@2016-03-21T06:52:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-21T05:52:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-21T07:06:12.634Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=2e39d777-9178-4bd6-bca8-f012348f78a8" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="B10" />
+<Entity id="1" startPos="4" endPos="17" type="location" surface="Stuttgart-Ost" />
+<Entity id="2" startPos="22" endPos="45" type="location" surface="Stuttgart-Untertürkheim" />
+<Entity id="3" startPos="47" endPos="57" type="location-street" surface="Uferstraße" />
+<Entity id="4" startPos="59" endPos="72" type="location" surface="stadtauswärts" />
+<Entity id="5" startPos="82" endPos="100" type="location" surface="Dreieck NeckarPark" />
+<Entity id="6" startPos="105" endPos="115" type="location-street" surface="Benzstraße" /></Entities><Relations />
+</Document>

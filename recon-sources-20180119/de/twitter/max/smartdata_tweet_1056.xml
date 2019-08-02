@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-WAF<NODE id="7" />: <NODE id="9" />Sendenhorst<NODE id="20" />. Fußgängerin bei einem Verkehrsunfall schwer verletzt 
+
+Korrektur der Pressemeldung vom… https://t.co/0Z2rN7GQuZ
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="731080792705662976" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-05-13T11:16:58Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T05:56:06.857Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3695281877/status/731080792705662976" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization" surface="POL-WAF" />
+<Entity id="1" startPos="9" endPos="20" type="location-city" surface="Sendenhorst" /></Entities><Relations />
+</Document>

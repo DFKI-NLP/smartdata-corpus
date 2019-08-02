@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />SPIEGELONLINE<NODE id="14" /> Bis zur Wahl <NODE id="28" />2017<NODE id="32" /> halten die nicht am Stück durch. Da kommt bestimmt noch eine Abspaltung.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="678617725338583040" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-20T16:47:28Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T22:09:04.121Z" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="14" type="organization-company" surface="SPIEGELONLINE" />
+<Entity id="1" startPos="28" endPos="32" type="date" surface="2017" /></Entities><Relations />
+</Document>

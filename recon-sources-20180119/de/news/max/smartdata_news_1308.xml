@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />VW<NODE id="2" /> Aktuell <NODE id="11" />VW<NODE id="13" />-<NODE id="14" />Markenchef<NODE id="24" /> <NODE id="25" />Diess<NODE id="30" /> im großen AZ/WAZ-Interview
+Mehr  aus Aktuell
+Text kleiner größer
+<NODE id="96" />Volkswagen<NODE id="106" /> – <NODE id="109" />VW<NODE id="111" />-<NODE id="112" />Markenchef<NODE id="122" /> <NODE id="123" />Diess<NODE id="128" /> im großen AZ/WAZ-Interview
+Zum Auftakt des Automobil-Salons in <NODE id="192" />Genf<NODE id="196" /> verbreitete <NODE id="209" />VW<NODE id="211" />-<NODE id="212" />Markenchef<NODE id="222" /> <NODE id="223" />Herbert Diess<NODE id="236" /> (<NODE id="238" />57<NODE id="240" />) in dieser Woche Aufbruchstimmung. Zurück in <NODE id="286" />Wolfsburg<NODE id="295" /> nahm sich <NODE id="306" />Diess<NODE id="311" /> die Zeit für einen Besuch in der WAZ-Redaktion und erläuterte im Interview mit der AZ/WAZ seine Pläne für die Neuausrichtung der Marke <NODE id="447" />VW<NODE id="449" />-Pkw.
+Voriger Artikel
+Artikel veröffentlicht: <NODE id="495" />Samstag, 05.03.2016<NODE id="514" /> <NODE id="515" />10:00 Uhr<NODE id="524" />
+Zu Besuch bei der AZ/WAZ: <NODE id="551" />VW<NODE id="553" />-<NODE id="554" />Markenchef<NODE id="564" /> <NODE id="565" />Herbert Diess<NODE id="578" />.
+Quelle: <NODE id="588" />Manfred Hensel<NODE id="602" />
+Tweet
+AZ/WAZ: Herr <NODE id="622" />Diess<NODE id="627" />, in <NODE id="632" />Genf<NODE id="636" /> haben Sie gerade das Jahr des Neuanfangs für <NODE id="682" />Volkswagen<NODE id="692" /> ausgerufen. Was meinen Sie damit?
+<NODE id="727" />Diess<NODE id="732" />: Wir haben in den vergangenen Monaten ein umfangreiches Reformprogramm für die Marke <NODE id="818" />Volkswagen<NODE id="828" /> auf den Weg gebracht. So haben wir mit einem <NODE id="874" />12<NODE id="876" />-Punkte-Plan die Schwerpunkte festgelegt und damit die Neuausrichtung eingeleitet. U
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.waz-online.de/VW/Aktuell/VW-Markenchef-Diess-im-grossen-AZ-WAZ-Interview@2016-03-05T10:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-05T09:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T11:10:51.929Z" />
+<feature featureName="uri" featureValue="http://www.waz-online.de/VW/Aktuell/VW-Markenchef-Diess-im-grossen-AZ-WAZ-Interview" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="2" type="organization-company" surface="VW" />
+<Entity id="1" startPos="11" endPos="13" type="organization-company" surface="VW" />
+<Entity id="2" startPos="14" endPos="24" type="org-position" surface="Markenchef" />
+<Entity id="3" startPos="25" endPos="30" type="person" surface="Diess" />
+<Entity id="4" startPos="96" endPos="106" type="organization-company" surface="Volkswagen" />
+<Entity id="5" startPos="109" endPos="111" type="organization-company" surface="VW" />
+<Entity id="6" startPos="112" endPos="122" type="org-position" surface="Markenchef" />
+<Entity id="7" startPos="123" endPos="128" type="person" surface="Diess" />
+<Entity id="8" startPos="192" endPos="196" type="location-city" surface="Genf" />
+<Entity id="9" startPos="209" endPos="211" type="organization-company" surface="VW" />
+<Entity id="10" startPos="212" endPos="222" type="org-position" surface="Markenchef" />
+<Entity id="11" startPos="223" endPos="236" type="person" surface="Herbert Diess" />
+<Entity id="12" startPos="238" endPos="240" type="number" surface="57" />
+<Entity id="13" startPos="286" endPos="295" type="location-city" surface="Wolfsburg" />
+<Entity id="14" startPos="306" endPos="311" type="person" surface="Diess" />
+<Entity id="15" startPos="447" endPos="449" type="organization-company" surface="VW" />
+<Entity id="16" startPos="495" endPos="514" type="date" surface="Samstag, 05.03.2016" />
+<Entity id="17" startPos="515" endPos="524" type="time" surface="10:00 Uhr" />
+<Entity id="18" startPos="551" endPos="553" type="organization-company" surface="VW" />
+<Entity id="19" startPos="554" endPos="564" type="org-position" surface="Markenchef" />
+<Entity id="20" startPos="565" endPos="578" type="person" surface="Herbert Diess" />
+<Entity id="21" startPos="588" endPos="602" type="org-position" surface="Manfred Hensel" />
+<Entity id="22" startPos="622" endPos="627" type="person" surface="Diess" />
+<Entity id="23" startPos="632" endPos="636" type="location-city" surface="Genf" />
+<Entity id="24" startPos="682" endPos="692" type="organization-company" surface="Volkswagen" />
+<Entity id="25" startPos="727" endPos="732" type="person" surface="Diess" />
+<Entity id="26" startPos="818" endPos="828" type="organization-company" surface="Volkswagen" />
+<Entity id="27" startPos="874" endPos="876" type="number" surface="12" /></Entities><Relations>
+<Relation id="28" NAME="OrganizationLeadership">
+<Entity id="3" label="person" />
+<Entity id="1" label="organization" />
+<Entity id="2" label="position" />
+</Relation>
+<Relation id="29" NAME="OrganizationLeadership">
+<Entity id="7" label="person" />
+<Entity id="5" label="organization" />
+<Entity id="6" label="position" />
+</Relation>
+<Relation id="30" NAME="OrganizationLeadership">
+<Entity id="11" label="person" />
+<Entity id="9" label="organization" />
+<Entity id="10" label="position" />
+</Relation>
+<Relation id="31" NAME="OrganizationLeadership">
+<Entity id="20" label="person" />
+<Entity id="18" label="organization" />
+<Entity id="19" label="position" />
+</Relation></Relations>
+</Document>

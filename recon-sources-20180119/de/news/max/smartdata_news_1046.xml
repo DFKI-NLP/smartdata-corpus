@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />22:40<NODE id="5" />
+<NODE id="6" />Barcelona<NODE id="15" /> gedenkt <NODE id="24" />Cruyff<NODE id="30" /> – und verliert gegen <NODE id="52" />Real<NODE id="56" />
+Im Clasico gegen <NODE id="74" />Real Madrid<NODE id="85" /> rückte für die Fans des<NODE id="109" /> FC Barcelona<NODE id="122" /> das Spiel in den Hintergrund. Superstar <NODE id="163" />Cristiano Ronaldo<NODE id="180" /> gewann das Duell der Superstars gegen Lionel Messi durch sein Siegtor.
+Twittern
+Foto: <NODE id="267" />AFP<NODE id="270" /> Die beeindruckende Choreographie der Fans des <NODE id="317" />FC Barcelona<NODE id="329" /> in Gedenken an den in der vergangenen Woche verstorbenen <NODE id="387" />Johan Cruyff<NODE id="399" />
+Superstar <NODE id="410" />Cristiano Ronaldo<NODE id="427" /> hat den <NODE id="436" />spanischen<NODE id="446" /> Fußball-Rekordmeister <NODE id="469" />Real Madrid<NODE id="480" /> zum Prestigesieg im <NODE id="501" />264.<NODE id="505" /> Clasico geschossen und den großen Rivalen <NODE id="548" />FC Barcelona<NODE id="560" /> auf dem Weg zum nächsten Meistertitel zumindest eingebremst. In Unterzahl siegten die Königlichen dank eines späten Treffers des Portugiesen (85.) <NODE id="708" />2<NODE id="709" />:<NODE id="710" />1<NODE id="711" /> (<NODE id="713" />0<NODE id="714" />:<NODE id="715" />0<NODE id="716" />) – kurz zuvor hatte <NODE id="737" />Reals<NODE id="742" /> Kapitän <NODE id="751" />Sergio Ramos<NODE id="763" /> die Gelb-Rote Karte (<NODE id="785" />83<NODE id="787" />.) gesehen. Für Champions-League-Sieger <NODE id="827" />Barcelona<NODE id="836" /> war es die <NODE id="848" />erste<NODE id="853" /> Pleite seit <NODE id="866" />39<NODE id="868" /> Pflichtspielen ohne Niederlage.
+Foto: <NODE id="907" />REUTERS<NODE id="914" /> <NODE id="915" />Cristiano Ronaldo<NODE id="932" /> erzielt f
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.welt.de/sport/fussball/internationale-ligen/article153930476/Barcelona-gedenkt-Cruyff-und-verliert-gegen-Real.html@2016-04-02T22:40:30.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-02T20:40:30Z" />
+<feature featureName="indexDate" featureValue="2016-04-02T20:49:46.692Z" />
+<feature featureName="uri" featureValue="http://www.welt.de/sport/fussball/internationale-ligen/article153930476/Barcelona-gedenkt-Cruyff-und-verliert-gegen-Real.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="date" surface="22:40" />
+<Entity id="1" startPos="6" endPos="15" type="organization" surface="Barcelona" />
+<Entity id="2" startPos="24" endPos="30" type="person" surface="Cruyff" />
+<Entity id="3" startPos="52" endPos="56" type="organization" surface="Real" />
+<Entity id="4" startPos="74" endPos="85" type="organization" surface="Real Madrid" />
+<Entity id="5" startPos="109" endPos="122" type="organization" surface=" FC Barcelona" />
+<Entity id="6" startPos="163" endPos="180" type="person" surface="Cristiano Ronaldo" />
+<Entity id="7" startPos="267" endPos="270" type="organization-company" surface="AFP" />
+<Entity id="8" startPos="317" endPos="329" type="organization" surface="FC Barcelona" />
+<Entity id="9" startPos="387" endPos="399" type="person" surface="Johan Cruyff" />
+<Entity id="10" startPos="410" endPos="427" type="person" surface="Cristiano Ronaldo" />
+<Entity id="11" startPos="436" endPos="446" type="location" surface="spanischen" />
+<Entity id="12" startPos="469" endPos="480" type="organization" surface="Real Madrid" />
+<Entity id="13" startPos="501" endPos="505" type="number" surface="264." />
+<Entity id="14" startPos="548" endPos="560" type="organization" surface="FC Barcelona" />
+<Entity id="15" startPos="708" endPos="709" type="number" surface="2" />
+<Entity id="16" startPos="710" endPos="711" type="number" surface="1" />
+<Entity id="17" startPos="713" endPos="714" type="number" surface="0" />
+<Entity id="18" startPos="715" endPos="716" type="number" surface="0" />
+<Entity id="19" startPos="737" endPos="742" type="organization" surface="Reals" />
+<Entity id="20" startPos="751" endPos="763" type="person" surface="Sergio Ramos" />
+<Entity id="21" startPos="785" endPos="787" type="number" surface="83" />
+<Entity id="22" startPos="827" endPos="836" type="organization" surface="Barcelona" />
+<Entity id="23" startPos="848" endPos="853" type="number" surface="erste" />
+<Entity id="24" startPos="866" endPos="868" type="number" surface="39" />
+<Entity id="25" startPos="907" endPos="914" type="organization-company" surface="REUTERS" />
+<Entity id="26" startPos="915" endPos="932" type="person" surface="Cristiano Ronaldo" /></Entities><Relations />
+</Document>

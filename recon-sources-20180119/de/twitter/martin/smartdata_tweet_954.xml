@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />SPIEGELONLINE<NODE id="17" />: Dem ist nichts hinzuzufügen. #RIPJoCox https://t.co/oke9dn3NeF
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743506219705470976" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T18:11:11Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T18:11:11.735Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Harald Matschke/status/743506219705470976" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="17" type="organization-company" surface="SPIEGELONLINE" /></Entities><Relations />
+</Document>

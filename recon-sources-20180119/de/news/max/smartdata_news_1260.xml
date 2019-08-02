@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> Versenden
+Zahl der Todesopfer nach <NODE id="36" />Erdbeben<NODE id="44" /> in <NODE id="48" />Ecuador<NODE id="55" /> auf <NODE id="60" />350<NODE id="63" /> gestiegen
+<NODE id="74" />Quito<NODE id="79" /> (<NODE id="81" />dpa<NODE id="84" />) - Nach dem verheerenden <NODE id="110" />Erdbeben<NODE id="118" /> in <NODE id="122" />Ecuador<NODE id="129" /> ist die Zahl der Todesopfer auf <NODE id="162" />350<NODE id="165" /> gestiegen. Die Zahl der Verletzten habe ebenfalls zugelegt, erklärte der Sicherheitsminister des Landes. Staatschef <NODE id="282" />Rafael Correa<NODE id="295" /> hatte zuvor von über <NODE id="317" />2000<NODE id="321" /> Verletzten gesprochen. Inzwischen liefen Hilfsbemühungen aus <NODE id="383" />Deutschland<NODE id="394" /> und anderen Ländern an. Besonders betroffen war die Küstenstadt <NODE id="459" />Pedernales<NODE id="469" />, in der bis zu <NODE id="485" />80 Prozent<NODE id="495" /> der Gebäude einstürzten. Der          Präsident sprach von der schlimmsten Katastrophe in <NODE id="586" />Ecuador<NODE id="593" /> seit <NODE id="599" />67 Jahren<NODE id="608" />.
+<NODE id="610" />Quito<NODE id="615" /> (<NODE id="617" />dpa<NODE id="620" />) - Nach dem verheerenden <NODE id="646" />Erdbeben<NODE id="654" /> in <NODE id="658" />Ecuador<NODE id="665" /> ist die Zahl der Todesopfer auf <NODE id="698" />350<NODE id="701" /> gestiegen. Die Zahl der Verletzten habe ebenfalls zugelegt, erklärte der Sicherheitsminister des Landes. Staatschef <NODE id="818" />Rafael Correa<NODE id="831" /> hatte zuvor von über <NODE id="853" />2000<NODE id="857" /> Verletzten gesprochen. Inzwischen liefen Hilfsbemühungen aus <NODE id="919" />Deutschland<NODE id="930" /> und 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.giessener-allgemeine.de/Home/Nachrichten/Uebersicht/Newsticker/Artikel,-Zahl-der-Todesopfer-nach-Erdbeben-in-Ecuador-auf-350-gestiegen-_arid,638702_regid,1_puid,1_pageid,18.html@2016-04-18T18:53:01.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-18T16:53:01Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T12:53:23.052Z" />
+<feature featureName="uri" featureValue="http://www.giessener-allgemeine.de/Home/Nachrichten/Uebersicht/Newsticker/Artikel,-Zahl-der-Todesopfer-nach-Erdbeben-in-Ecuador-auf-350-gestiegen-_arid,638702_regid,1_puid,1_pageid,18.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="36" endPos="44" type="disaster-type" surface="Erdbeben" />
+<Entity id="1" startPos="48" endPos="55" type="location" surface="Ecuador" />
+<Entity id="2" startPos="60" endPos="63" type="number" surface="350" />
+<Entity id="3" startPos="74" endPos="79" type="location-city" surface="Quito" />
+<Entity id="4" startPos="81" endPos="84" type="organization" surface="dpa" />
+<Entity id="5" startPos="110" endPos="118" type="disaster-type" surface="Erdbeben" />
+<Entity id="6" startPos="122" endPos="129" type="location" surface="Ecuador" />
+<Entity id="7" startPos="162" endPos="165" type="number" surface="350" />
+<Entity id="8" startPos="282" endPos="295" type="person" surface="Rafael Correa" />
+<Entity id="9" startPos="317" endPos="321" type="number" surface="2000" />
+<Entity id="10" startPos="383" endPos="394" type="location" surface="Deutschland" />
+<Entity id="11" startPos="459" endPos="469" type="location-city" surface="Pedernales" />
+<Entity id="12" startPos="485" endPos="495" type="number" surface="80 Prozent" />
+<Entity id="13" startPos="586" endPos="593" type="location" surface="Ecuador" />
+<Entity id="14" startPos="599" endPos="608" type="duration" surface="67 Jahren" />
+<Entity id="15" startPos="610" endPos="615" type="location" surface="Quito" />
+<Entity id="16" startPos="617" endPos="620" type="organization" surface="dpa" />
+<Entity id="17" startPos="646" endPos="654" type="disaster-type" surface="Erdbeben" />
+<Entity id="18" startPos="658" endPos="665" type="location" surface="Ecuador" />
+<Entity id="19" startPos="698" endPos="701" type="number" surface="350" />
+<Entity id="20" startPos="818" endPos="831" type="person" surface="Rafael Correa" />
+<Entity id="21" startPos="853" endPos="857" type="number" surface="2000" />
+<Entity id="22" startPos="919" endPos="930" type="location" surface="Deutschland" /></Entities><Relations>
+<Relation id="23" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="type" />
+<Entity id="2" label="victims" />
+</Relation>
+<Relation id="24" NAME="Disaster">
+<Entity id="6" label="location" />
+<Entity id="5" label="type" />
+<Entity id="7" label="victims" />
+</Relation>
+<Relation id="25" NAME="Disaster">
+<Entity id="18" label="location" />
+<Entity id="17" label="type" />
+<Entity id="19" label="victims" />
+</Relation></Relations>
+</Document>

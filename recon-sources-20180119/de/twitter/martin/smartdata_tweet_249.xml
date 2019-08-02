@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Flughafen Lübeck<NODE id="16" /> erneut <NODE id="24" />insolvent<NODE id="33" /> http://t.co/96Yd7af7Sa http://t.co/Qm3qZILFyZ
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="649502840302510080" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-10-01T08:35:18Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T16:54:24.121Z" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="16" type="organization-company" surface="Flughafen Lübeck" />
+<Entity id="1" startPos="24" endPos="33" type="trigger" surface="insolvent" /></Entities><Relations>
+<Relation id="2" NAME="Insolvency">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation></Relations>
+</Document>

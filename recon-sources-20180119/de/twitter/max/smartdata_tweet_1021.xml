@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Cameron<NODE id="7" />: Brexit fördert Abspaltung <NODE id="35" />Schottlands<NODE id="46" /> https://t.co/r9LayVictC
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="743480918707408900" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-16T16:30:38Z" />
+<feature featureName="indexDate" featureValue="2016-06-16T16:30:40.204Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Christl.Leidkultur/status/743480918707408900" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="person" surface="Cameron" />
+<Entity id="1" startPos="35" endPos="46" type="location" surface="Schottlands" /></Entities><Relations />
+</Document>

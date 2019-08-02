@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>NationslExpress <NODE id="16" />Ersatzzug<NODE id="25" /> auf der <NODE id="34" />RB48<NODE id="38" /> (Aktueller Betrieb)
+kimba2k
+, <NODE id="69" />Wuppertal<NODE id="78" />-<NODE id="79" />Frankfurt am Main<NODE id="96" />, <NODE id="98" />Montag<NODE id="104" />, <NODE id="106" />14. Dezember 2015<NODE id="123" />, <NODE id="125" />18:28<NODE id="130" /> (vor <NODE id="136" />36 Tagen<NODE id="144" />) @ moonglum
+Und seit gestern teils grausige <NODE id="189" />Verspätungen<NODE id="201" /> beim <NODE id="207" />RE7<NODE id="210" /> <NODE id="211" />zwischen 15 und 40 Minuten<NODE id="237" />...
+<NODE id="241" />RE7<NODE id="244" /> und weniger als <NODE id="261" />15 Minuten<NODE id="271" /> <NODE id="272" />Verspätung<NODE id="282" />? Das wäre ein Wunder.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ice-treff.de/index.php?id=392002@2016-03-10T18:13:15.983+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ice-treff.de/index.php?id=392002" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="25" type="trigger" surface="Ersatzzug" />
+<Entity id="1" startPos="34" endPos="38" type="location-route" surface="RB48" />
+<Entity id="2" startPos="69" endPos="78" type="location-city" surface="Wuppertal" />
+<Entity id="3" startPos="79" endPos="96" type="location-city" surface="Frankfurt am Main" />
+<Entity id="4" startPos="98" endPos="104" type="date" surface="Montag" />
+<Entity id="5" startPos="106" endPos="123" type="date" surface="14. Dezember 2015" />
+<Entity id="6" startPos="125" endPos="130" type="date" surface="18:28" />
+<Entity id="7" startPos="136" endPos="144" type="number" surface="36 Tagen" />
+<Entity id="8" startPos="189" endPos="201" type="trigger" surface="Verspätungen" />
+<Entity id="9" startPos="207" endPos="210" type="location-route" surface="RE7" />
+<Entity id="10" startPos="211" endPos="237" type="duration" surface="zwischen 15 und 40 Minuten" />
+<Entity id="11" startPos="241" endPos="244" type="location-route" surface="RE7" />
+<Entity id="12" startPos="261" endPos="271" type="duration" surface="15 Minuten" />
+<Entity id="13" startPos="272" endPos="282" type="trigger" surface="Verspätung" /></Entities><Relations>
+<Relation id="14" NAME="Delay">
+<Entity id="10" label="delay" />
+<Entity id="9" label="location" />
+<Entity id="8" label="trigger" />
+</Relation>
+<Relation id="15" NAME="RailReplacementService">
+<Entity id="1" label="location" />
+<Entity id="0" label="trigger" />
+</Relation></Relations>
+</Document>

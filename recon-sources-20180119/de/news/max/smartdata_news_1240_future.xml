@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Europas<NODE id="7" /> Banken streichen noch mehr Stellen
+<NODE id="43" />15:00<NODE id="48" /> <NODE id="49" />14.04.16<NODE id="57" />
+Der Stellenabbau bei <NODE id="79" />Europas<NODE id="86" /> Großbanken beschleunigt sich weiter. Der Wettbewerbsdruck in der Branche bleibt hoch, außerdem belastet ein schwaches <NODE id="205" />erstes Quatal<NODE id="218" /> die Unternehmen. Betroffen sind nicht nur Investmentbanker.
+Gleich <NODE id="286" />zwei<NODE id="290" /> <NODE id="291" />europäischen<NODE id="303" /> Geldhäuser machen am <NODE id="325" />Donnerstag<NODE id="335" /> Schlagzeilen mit bevorstehenden Stellenabbau-Programmen. Die <NODE id="397" />französische<NODE id="409" /> Großbank <NODE id="419" />BNP Paribas<NODE id="430" /> ( <NODE id="433" />BNP Paribas<NODE id="444" /> Aktie ) will Insidern zufolge <NODE id="475" />675<NODE id="478" /> <NODE id="479" />Stellen streichen<NODE id="496" />. Betroffen sei der Bereich Geschäftskunden und Investmentbanking (CIB) auf dem Heimatmarkt, sagte eine mit der Angelegenheit vertraute Person. Den Gewerkschaften soll dazu ein Plan mit Angeboten zum freiwilligen Ausscheiden vorgelegt werden.
+Laut Geschäftsbericht <NODE id="761" />2015<NODE id="765" /> beschäftigt die CIB-Sparte mehr als <NODE id="802" />30.000<NODE id="808" /> Mitarbeiter in über <NODE id="829" />50<NODE id="831" /> Ländern. <NODE id="841" />BNP<NODE id="844" /> will früheren Angaben zufolge bis <NODE id="879" />2019<NODE id="883" /> mehr als <NODE id="893" />eine Milliarde Euro<NODE id="912" /> einsparen, um Kosten durch verschärfte Vor
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ariva.de/news/Europas-Banken-streichen-noch-mehr-Stellen-5715170@2016-04-14T15:00:47.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-14T13:00:47Z" />
+<feature featureName="indexDate" featureValue="2016-04-14T13:08:32.44Z" />
+<feature featureName="uri" featureValue="http://www.ariva.de/news/Europas-Banken-streichen-noch-mehr-Stellen-5715170" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="location" surface="Europas" />
+<Entity id="1" startPos="43" endPos="48" type="time" surface="15:00" />
+<Entity id="2" startPos="49" endPos="57" type="date" surface="14.04.16" />
+<Entity id="3" startPos="79" endPos="86" type="location" surface="Europas" />
+<Entity id="4" startPos="205" endPos="218" type="number" surface="erstes Quatal" />
+<Entity id="5" startPos="286" endPos="290" type="number" surface="zwei" />
+<Entity id="6" startPos="291" endPos="303" type="location" surface="europäischen" />
+<Entity id="7" startPos="325" endPos="335" type="date" surface="Donnerstag" />
+<Entity id="8" startPos="397" endPos="409" type="location" surface="französische" />
+<Entity id="9" startPos="419" endPos="430" type="organization-company" surface="BNP Paribas" />
+<Entity id="10" startPos="433" endPos="444" type="organization-company" surface="BNP Paribas" />
+<Entity id="11" startPos="475" endPos="478" type="number" surface="675" />
+<Entity id="12" startPos="479" endPos="496" type="trigger" surface="Stellen streichen" />
+<Entity id="13" startPos="761" endPos="765" type="date" surface="2015" />
+<Entity id="14" startPos="802" endPos="808" type="number" surface="30.000" />
+<Entity id="15" startPos="829" endPos="831" type="number" surface="50" />
+<Entity id="16" startPos="841" endPos="844" type="organization-company" surface="BNP" />
+<Entity id="17" startPos="879" endPos="883" type="date" surface="2019" />
+<Entity id="18" startPos="893" endPos="912" type="number" surface="eine Milliarde Euro" /></Entities><Relations>
+<Relation id="19" NAME="Layoffs">
+<Entity id="11" label="num_laid_off" />
+<Entity id="9" label="company" />
+<Entity id="12" label="trigger" />
+</Relation></Relations>
+</Document>

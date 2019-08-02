@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />zoomin -<NODE id="8" /> <NODE id="9" />Mit Vollgas: Motorrad knallt in Polizeiwagen<NODE id="53" />
+<NODE id="54" />00:37<NODE id="59" />
+<NODE id="60" />62 0 5 0<NODE id="68" />
+<NODE id="69" />Ohne zu bremsen und ohne Helm ist dieser irische Motorradfahrer in ein Polizeiauto gerast und flog im hohen Bogen darüber.<NODE id="191" /> <NODE id="192" />Die Ärzte kämpfen nun um sein Leben.<NODE id="228" />
+<NODE id="229" />Altersfreigabe<NODE id="243" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.myvideo.de/watch/12129652/Mit_Vollgas_Motorrad_knallt_in_Polizeiwagen@2016-03-10T15:22:37.433+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:22:37.433Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:22:43.317Z" />
+<feature featureName="uri" featureValue="http://www.myvideo.de/watch/12129652/Mit_Vollgas_Motorrad_knallt_in_Polizeiwagen" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="sentence" surface="zoomin -" />
+<Entity id="1" startPos="9" endPos="53" type="sentence" surface="Mit Vollgas: Motorrad knallt in Polizeiwagen" />
+<Entity id="2" startPos="54" endPos="59" type="sentence" surface="00:37" />
+<Entity id="3" startPos="60" endPos="68" type="sentence" surface="62 0 5 0" />
+<Entity id="4" startPos="69" endPos="191" type="sentence" surface="Ohne zu bremsen und ohne Helm ist dieser irische Motorradfahrer in ein Polizeiauto gerast und flog im hohen Bogen darüber." />
+<Entity id="5" startPos="192" endPos="228" type="sentence" surface="Die Ärzte kämpfen nun um sein Leben." />
+<Entity id="6" startPos="229" endPos="243" type="sentence" surface="Altersfreigabe" /></Entities><Relations />
+</Document>

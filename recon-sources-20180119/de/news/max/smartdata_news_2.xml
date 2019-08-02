@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Weitere Informationen finden Sie hier.
+* Übernahme von <NODE id="55" />StarCapital AG<NODE id="69" />, einem in <NODE id="80" />Oberursel<NODE id="89" /> bei <NODE id="94" />Frankfurt/Main<NODE id="108" /> ansässigen, unabhängigen Asset Manager, mit betreuten Kundenvermögen in Höhe von rund <NODE id="195" />CHF 2 5 Mrd<NODE id="206" />
+<NODE id="207" />23.02.16<NODE id="215" /> | <NODE id="218" />17:45 Uhr<NODE id="227" /> | 1 mal gelesen | hugingroup.com <NODE id="261" />Bellevue Group<NODE id="275" /> <NODE id="276" />erwirbt<NODE id="283" /> <NODE id="284" />deutsche<NODE id="292" /> <NODE id="293" />StarCapital AG<NODE id="307" /> und diversifiziert Produktpalette im Asset Management - Kapitalerhöhung geplant
+* Übernahme von <NODE id="404" />StarCapital AG<NODE id="418" />, einem in <NODE id="429" />Oberursel<NODE id="438" /> bei <NODE id="443" />Frankfurt/Main<NODE id="457" /> ansässigen, unabhängigen Asset Manager, mit betreuten Kundenvermögen in Höhe von rund <NODE id="544" />CHF 2.5 Mrd.<NODE id="556" /> * Verwaltetes Kundenvermögen der <NODE id="590" />Bellevue Group<NODE id="604" /> steigt auf <NODE id="616" />CHF 7.8 Mrd.<NODE id="628" /> * Etablierte Anlagekompetenz von <NODE id="662" />StarCapital<NODE id="673" /> im Bereich gemischter Anlagen sowie festverzinslicher Strategien ermöglicht gezielte Diversifikation in neue Assetklassen und Angebotserweiterung im Non-Healthcare-Bereich * <NODE id="848" />Standort<NODE id="856" /> bei <NODE id="861" />Frankfurt/Main<NODE id="875" /> stärkt Position der <NODE id="896" />Bellevue Group<NODE id="910" /> in einem <NODE id="920" />europäischen<NODE id="932" /> Schlüsselmark
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ad-hoc-news.de/uebernahme-von-starcapital-ag-einem-in-oberursel-bei-frankfurt-main-ansaessigen--/de/News/48555768@2016-02-23T16:45:55.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.ad-hoc-news.de/uebernahme-von-starcapital-ag-einem-in-oberursel-bei-frankfurt-main-ansaessigen--/de/News/48555768" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="55" endPos="69" type="organization-company" surface="StarCapital AG" />
+<Entity id="1" startPos="80" endPos="89" type="location-city" surface="Oberursel" />
+<Entity id="2" startPos="94" endPos="108" type="location-city" surface="Frankfurt/Main" />
+<Entity id="3" startPos="195" endPos="206" type="number" surface="CHF 2 5 Mrd" />
+<Entity id="4" startPos="207" endPos="215" type="date" surface="23.02.16" />
+<Entity id="5" startPos="218" endPos="227" type="time" surface="17:45 Uhr" />
+<Entity id="6" startPos="261" endPos="275" type="organization-company" surface="Bellevue Group" />
+<Entity id="7" startPos="276" endPos="283" type="trigger" surface="erwirbt" />
+<Entity id="8" startPos="284" endPos="292" type="location" surface="deutsche" />
+<Entity id="9" startPos="293" endPos="307" type="organization-company" surface="StarCapital AG" />
+<Entity id="10" startPos="404" endPos="418" type="organization-company" surface="StarCapital AG" />
+<Entity id="11" startPos="429" endPos="438" type="location-city" surface="Oberursel" />
+<Entity id="12" startPos="443" endPos="457" type="location-city" surface="Frankfurt/Main" />
+<Entity id="13" startPos="544" endPos="556" type="number" surface="CHF 2.5 Mrd." />
+<Entity id="14" startPos="590" endPos="604" type="organization-company" surface="Bellevue Group" />
+<Entity id="15" startPos="616" endPos="628" type="number" surface="CHF 7.8 Mrd." />
+<Entity id="16" startPos="662" endPos="673" type="organization-company" surface="StarCapital" />
+<Entity id="17" startPos="848" endPos="856" type="trigger" surface="Standort" />
+<Entity id="18" startPos="861" endPos="875" type="location-city" surface="Frankfurt/Main" />
+<Entity id="19" startPos="896" endPos="910" type="organization-company" surface="Bellevue Group" />
+<Entity id="20" startPos="920" endPos="932" type="location" surface="europäischen" /></Entities><Relations>
+<Relation id="21" NAME="Acquisition">
+<Entity id="7" label="trigger" />
+<Entity id="9" label="acquired" />
+<Entity id="6" label="buyer" />
+</Relation>
+<Relation id="22" NAME="CompanyFacility">
+<Entity id="18" label="location" />
+<Entity id="19" label="company" />
+<Entity id="17" label="trigger" />
+</Relation></Relations>
+</Document>

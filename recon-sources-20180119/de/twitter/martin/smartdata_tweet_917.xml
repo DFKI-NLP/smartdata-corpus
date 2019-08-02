@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @tobiwez: Ähm ja wir haben ein wenig Verspätung ..
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="745269471980457984" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-21T14:57:43Z" />
+<feature featureName="indexDate" featureValue="2016-06-21T15:00:36.381Z" />
+<feature featureName="uri" featureValue="https://twitter.com/Celi/status/745269471980457984" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities /><Relations />
+</Document>

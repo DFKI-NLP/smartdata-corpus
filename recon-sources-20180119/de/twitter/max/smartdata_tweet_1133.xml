@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />POL-BI<NODE id="6" />: Polizei sucht Kind nach Verkehrsunfall https://t.co/bIgypYfsId https://t.co/AwO8aUbC33
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="697733426171023360" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-11T10:46:26Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T07:15:47.817Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3695281877/status/697733426171023360" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="6" type="organization" surface="POL-BI" /></Entities><Relations />
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Tweet
+<NODE id="6" />WALLDORF<NODE id="14" /> (<NODE id="16" />dpa-AFX<NODE id="23" />) - Der Softwarekonzern <NODE id="47" />SAP<NODE id="50" /> ( <NODE id="53" />SAP SE<NODE id="59" /> ) hat sein Ergebnis im ersten Jahresviertel trotz unerwartet schwacher Umsätze um mehr als <NODE id="151" />ein Drittel<NODE id="162" /> steigern können. Der Gewinn nach Steuern legte um <NODE id="213" />38 Prozent<NODE id="223" /> auf <NODE id="228" />570 Millionen Euro<NODE id="246" /> zu, wie der Softwarekonzern am <NODE id="278" />Mittwoch<NODE id="286" /> mitteilte. Vor einem Jahr hatten Aufwendungen für Übernahmen und das aktienbasierte Bonusprogramm sowie noch Kosten für einen Stellenabbau aus dem Jahr <NODE id="439" />2014<NODE id="443" /> zu Buche geschlagen.
+Die Aktie reagierte am Morgen kaum auf die Zahlen. Bereits vor knapp <NODE id="534" />zwei Wochen<NODE id="545" /> hatten die <NODE id="557" />Walldorfer<NODE id="567" /> Eckdaten vorgelegt. <NODE id="588" />SAP<NODE id="591" /> hatte sich besser als Konkurrenten wie <NODE id="631" />IBM<NODE id="634" /> und <NODE id="639" />Oracle<NODE id="645" /> geschlagen. Der Umsatz war wegen überraschend schwacher Softwarelizenzverkäufe lediglich um <NODE id="738" />fünf Prozent<NODE id="750" /> auf <NODE id="755" />4,73 Milliarden Euro <NODE id="776" />geklettert. In <NODE id="791" />Nordamerika<NODE id="802" /> sei man schwächer als erwartet in das Jahr gestartet, auch in <NODE id="865" />Südamerika<NODE id="875" /> - vor allem in <NODE id="891" />Brasilien<NODE id="900" /> - seien die Geschäfte nicht gut gelaufen.
+An
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanzen.at/nachrichten/aktien/ROUNDUP-SAP-steigert-Gewinn-um-mehr-als-ein-Drittel-1001158436@2016-04-20T10:24:40.000+02:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-04-20T08:24:40Z" />
+<feature featureName="indexDate" featureValue="2016-04-20T08:39:13.054Z" />
+<feature featureName="uri" featureValue="http://www.finanzen.at/nachrichten/aktien/ROUNDUP-SAP-steigert-Gewinn-um-mehr-als-ein-Drittel-1001158436" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="14" type="location-city" surface="WALLDORF" />
+<Entity id="1" startPos="16" endPos="23" type="organization-company" surface="dpa-AFX" />
+<Entity id="2" startPos="47" endPos="50" type="organization-company" surface="SAP" />
+<Entity id="3" startPos="53" endPos="59" type="organization-company" surface="SAP SE" />
+<Entity id="4" startPos="151" endPos="162" type="number" surface="ein Drittel" />
+<Entity id="5" startPos="213" endPos="223" type="number" surface="38 Prozent" />
+<Entity id="6" startPos="228" endPos="246" type="number" surface="570 Millionen Euro" />
+<Entity id="7" startPos="278" endPos="286" type="date" surface="Mittwoch" />
+<Entity id="8" startPos="439" endPos="443" type="date" surface="2014" />
+<Entity id="9" startPos="534" endPos="545" type="duration" surface="zwei Wochen" />
+<Entity id="10" startPos="557" endPos="567" type="location-city" surface="Walldorfer" />
+<Entity id="11" startPos="588" endPos="591" type="organization-company" surface="SAP" />
+<Entity id="12" startPos="631" endPos="634" type="organization-company" surface="IBM" />
+<Entity id="13" startPos="639" endPos="645" type="organization-company" surface="Oracle" />
+<Entity id="14" startPos="738" endPos="750" type="number" surface="fünf Prozent" />
+<Entity id="15" startPos="755" endPos="776" type="number" surface="4,73 Milliarden Euro " />
+<Entity id="16" startPos="791" endPos="802" type="location" surface="Nordamerika" />
+<Entity id="17" startPos="865" endPos="875" type="location" surface="Südamerika" />
+<Entity id="18" startPos="891" endPos="900" type="location" surface="Brasilien" /></Entities><Relations />
+</Document>

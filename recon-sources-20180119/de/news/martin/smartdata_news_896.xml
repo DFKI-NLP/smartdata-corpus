@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Home » Computer , Telekommunikation » Ganzjahresfinanzergebnisse von <NODE id="69" />Zain Saudi Arabia<NODE id="86" /> bestätigen <NODE id="98" />2015<NODE id="102" /> als Rekordjahr
+Ganzjahresfinanzergebnisse von <NODE id="149" />Zain Saudi Arabia<NODE id="166" /> bestätigen <NODE id="178" />2015<NODE id="182" /> als Rekordjahr
+– Umsatz stieg <NODE id="213" />2015<NODE id="217" /> um <NODE id="221" />9 %<NODE id="224" /> auf <NODE id="229" />6.741 Millionen SAR<NODE id="248" /> und der
+Nettoverlust nahm um <NODE id="278" />23 %<NODE id="282" /> ab.
+– Die Bruttogewinnspanne erreicht <NODE id="321" />59 %<NODE id="325" />, was einem Rekordbruttogewinn
+von <NODE id="360" />3.951 Mio. SAR<NODE id="374" /> entspricht.
+– Durch Effizienzsteigerung und verbesserte Geschäftsbedingungen mit
+Lieferanten steigt der Betriebsgewinn (EBITDA) um <NODE id="506" />48 %<NODE id="510" />; dabei geht
+der Verlust aus dem operativen Geschäft gegenüber dem Vorjahr um <NODE id="588" />73
+%<NODE id="592" /> zurück.
+<NODE id="601" />Zain Saudi Arabia<NODE id="618" /> (<NODE id="620" />Zain KSA<NODE id="628" />) meldete Rekordfinanzergebnisse für
+das Jahr bis <NODE id="678" />31. Dezember 2015<NODE id="695" />, in dem in <NODE id="707" />zwei aufeinanderfolgenden
+Quartalen<NODE id="742" /> eine ausgeglichene EBIT-Bilanz erzielt werden konnte.
+(Logo: http://photos.prnewswire.com/prnh/20150715/237184LOGO )
+Der Umsatz des Unternehmens wuchs im Jahresvergleich um <NODE id="916" />9 %<NODE id="919" /> auf
+<NODE id="924" />6.741<NODE id="929" /> Mi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.88news.de/ganzjahresfinanzergebnisse-von-zain-saudi-arabia-bestaetigen-2015-als-rekordjahr-1326832.html/@2016-02-29T11:55:09.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-29T10:55:09Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:11:01.93Z" />
+<feature featureName="uri" featureValue="http://www.88news.de/ganzjahresfinanzergebnisse-von-zain-saudi-arabia-bestaetigen-2015-als-rekordjahr-1326832.html/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="69" endPos="86" type="organization-company" surface="Zain Saudi Arabia" />
+<Entity id="1" startPos="98" endPos="102" type="date" surface="2015" />
+<Entity id="2" startPos="149" endPos="166" type="organization-company" surface="Zain Saudi Arabia" />
+<Entity id="3" startPos="178" endPos="182" type="date" surface="2015" />
+<Entity id="4" startPos="213" endPos="217" type="date" surface="2015" />
+<Entity id="5" startPos="221" endPos="224" type="number" surface="9 %" />
+<Entity id="6" startPos="229" endPos="248" type="number" surface="6.741 Millionen SAR" />
+<Entity id="7" startPos="278" endPos="282" type="number" surface="23 %" />
+<Entity id="8" startPos="321" endPos="325" type="number" surface="59 %" />
+<Entity id="9" startPos="360" endPos="374" type="number" surface="3.951 Mio. SAR" />
+<Entity id="10" startPos="506" endPos="510" type="number" surface="48 %" />
+<Entity id="11" startPos="588" endPos="592" type="number" surface="73&#xA;%" />
+<Entity id="12" startPos="601" endPos="618" type="organization-company" surface="Zain Saudi Arabia" />
+<Entity id="13" startPos="620" endPos="628" type="organization-company" surface="Zain KSA" />
+<Entity id="14" startPos="678" endPos="695" type="date" surface="31. Dezember 2015" />
+<Entity id="15" startPos="707" endPos="742" type="duration" surface="zwei aufeinanderfolgenden&#xA;Quartalen" />
+<Entity id="16" startPos="916" endPos="919" type="number" surface="9 %" />
+<Entity id="17" startPos="924" endPos="929" type="number" surface="6.741" /></Entities><Relations />
+</Document>

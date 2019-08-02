@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />FRA<NODE id="4" />ISL<NODE id="7" /> <NODE id="8" />Frankreich<NODE id="18" /> - Freilos <NODE id="29" />4<NODE id="30" />:<NODE id="31" />0<NODE id="32" /> zur Halbzeit, leider #<NODE id="55" />Fra<NODE id="58" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="749691163708448769" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-03T19:47:56Z" />
+<feature featureName="indexDate" featureValue="2016-07-06T07:14:05.944Z" />
+<feature featureName="uri" featureValue="https://twitter.com/3410198475/status/749691163708448769" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="4" type="organization" surface="FRA" />
+<Entity id="1" startPos="4" endPos="7" type="organization" surface="ISL" />
+<Entity id="2" startPos="8" endPos="18" type="organization" surface="Frankreich" />
+<Entity id="3" startPos="29" endPos="30" type="number" surface="4" />
+<Entity id="4" startPos="31" endPos="32" type="number" surface="0" />
+<Entity id="5" startPos="55" endPos="58" type="organization" surface="Fra" /></Entities><Relations />
+</Document>

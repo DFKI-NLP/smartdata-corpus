@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wenn man auf die <NODE id="17" />Bahn<NODE id="21" /> angewiesen ist, hat man echt ganz schlechte Karten 
+
+Warum macht mein Auto bitte auch jetzt so Faxen? &#x1f629;&#x1f629;&#x1f629;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="669533346180030464" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-25T15:09:23Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:13:25.729Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="17" endPos="21" type="organization-company" surface="Bahn" /></Entities><Relations />
+</Document>

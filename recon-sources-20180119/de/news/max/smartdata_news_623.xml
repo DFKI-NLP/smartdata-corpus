@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Sie sind noch nicht angemeldet  Login  |  Registrierung  |  Newsletter
+<NODE id="71" />VW<NODE id="73" />-Werk <NODE id="79" />Osnabrück<NODE id="88" />: Tiguan ersetzt Golf-Cabrio
+Seit <NODE id="122" />2011<NODE id="126" /> wurden dort gut <NODE id="143" />82.000<NODE id="149" /> Open-Air-Golf produziert
+<NODE id="175" />25.02.16<NODE id="183" /> | Autor: dpa
+Drucken
+Abgelöst: Statt des Golf-Cabrio wird im <NODE id="245" />VW<NODE id="247" />-Werk <NODE id="253" />Osnabrück<NODE id="262" /> ab <NODE id="266" />Mai<NODE id="269" /> der SUV-Ableger <NODE id="286" />VW<NODE id="288" /> Tiguan gebaut. (Foto: VW)
+Nach <NODE id="320" />fünf Jahren<NODE id="331" /> Produktion im <NODE id="346" />VW<NODE id="348" />-Werk <NODE id="354" />Osnabrück<NODE id="363" /> läuft das Golf-Cabriolet dort im Frühjahr aus. Ein Sprecher des Konzerns bestätigte dies am <NODE id="456" />Donnerstag<NODE id="466" /> in <NODE id="470" />Wolfsburg<NODE id="479" />. Zuvor hatte die „<NODE id="498" />Neue Osnabrücker Zeitung<NODE id="522" />“ (<NODE id="525" />NOZ<NODE id="528" />) darüber berichtet. Die betroffenen Mitarbeiter in der Golf-Cabrio-Fertigung bauen in <NODE id="615" />Osnabrück<NODE id="624" /> stattdessen ab <NODE id="640" />Mai<NODE id="643" /> den <NODE id="648" />VW<NODE id="650" /> Tiguan. Der Stadtgeländewagen basiert auf dem Golf. Für dessen eigentlich auslaufende Generation sind die Auftragsbücher noch bis ins nächste Jahr gefüllt, wie die <NODE id="815" />Deutsche Presse-Agentur<NODE id="838" /> erfuhr.
+<NODE id="847" />VW<NODE id="849" /> hatte den Schwenk mit der Tiguan-Produktion nach <NODE id="899" />Osnabrück<NODE id="908" /> nach Auskunft des Sprechers schon im vergan
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.kfz-betrieb.vogel.de/wirtschaft/articles/522956@2016-02-25T13:50:04.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-25T12:50:04Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T05:35:12.952Z" />
+<feature featureName="uri" featureValue="http://www.kfz-betrieb.vogel.de/wirtschaft/articles/522956" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="71" endPos="73" type="organization-company" surface="VW" />
+<Entity id="1" startPos="79" endPos="88" type="location-city" surface="Osnabrück" />
+<Entity id="2" startPos="122" endPos="126" type="date" surface="2011" />
+<Entity id="3" startPos="143" endPos="149" type="number" surface="82.000" />
+<Entity id="4" startPos="175" endPos="183" type="date" surface="25.02.16" />
+<Entity id="5" startPos="245" endPos="247" type="organization-company" surface="VW" />
+<Entity id="6" startPos="253" endPos="262" type="location-city" surface="Osnabrück" />
+<Entity id="7" startPos="266" endPos="269" type="date" surface="Mai" />
+<Entity id="8" startPos="286" endPos="288" type="organization-company" surface="VW" />
+<Entity id="9" startPos="320" endPos="331" type="number" surface="fünf Jahren" />
+<Entity id="10" startPos="346" endPos="348" type="organization-company" surface="VW" />
+<Entity id="11" startPos="354" endPos="363" type="organization-company" surface="Osnabrück" />
+<Entity id="12" startPos="456" endPos="466" type="date" surface="Donnerstag" />
+<Entity id="13" startPos="470" endPos="479" type="location-city" surface="Wolfsburg" />
+<Entity id="14" startPos="498" endPos="522" type="organization-company" surface="Neue Osnabrücker Zeitung" />
+<Entity id="15" startPos="525" endPos="528" type="organization-company" surface="NOZ" />
+<Entity id="16" startPos="615" endPos="624" type="location-city" surface="Osnabrück" />
+<Entity id="17" startPos="640" endPos="643" type="date" surface="Mai" />
+<Entity id="18" startPos="648" endPos="650" type="organization-company" surface="VW" />
+<Entity id="19" startPos="815" endPos="838" type="organization-company" surface="Deutsche Presse-Agentur" />
+<Entity id="20" startPos="847" endPos="849" type="organization-company" surface="VW" />
+<Entity id="21" startPos="899" endPos="908" type="location-city" surface="Osnabrück" /></Entities><Relations />
+</Document>

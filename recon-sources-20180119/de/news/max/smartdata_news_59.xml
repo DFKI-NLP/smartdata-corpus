@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>0
+Die <NODE id="6" />Bundeswehr<NODE id="16" /> muss schneller für Aufgaben der Zukunft gerüstet werden
+Was braucht die <NODE id="89" />Bundeswehr<NODE id="99" /> für ihren Kriegseinsatz in <NODE id="127" />Syrien<NODE id="133" />? Ohne in Kriegsrhetorik zu verfallen, könnte man sagen: Sie benötigt eine definierte Strategie, sie braucht ein klares Kampfziel, einen klugen Exit-Plan für die Zeit danach und Material, auf das <NODE id="329" />hundertprozentig<NODE id="345" /> Verlass ist. Wenn das die gültigen Kriterien für einen Kriegseinsatz sind, steht das <NODE id="431" />Syrien<NODE id="437" />-Kommando unter keinem guten Stern.
+Zu Strategie und Kampfziel ist schon viel gesagt und geschrieben worden, und man könnte es militärisch knapp zusammenfassen mit: Fehlanzeige!
+Jetzt zum Material: Der Tornado soll in der Aufklärungsversion Recce das zentrale Mittel im Kampf gegen den sogenannten <NODE id="735" />Islamischen Staat<NODE id="752" /> sein. Seit <NODE id="764" />Mittwoch<NODE id="772" /> wissen wir, dass die Tornado-Flotte der <NODE id="813" />Bundesluftwaffe<NODE id="828" /> so marode ist, dass nur <NODE id="853" />29<NODE id="855" /> von <NODE id="860" />93<NODE id="862" /> Maschinen überhaupt abheben können. Die anderen stehen sich offenbar die teuren Reifen 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.morgenpost.de/politik/article206748527/Kampf-der-Wehr-Buerokratie.html@2016-03-11T02:35:55.108+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.morgenpost.de/politik/article206748527/Kampf-der-Wehr-Buerokratie.html" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="16" type="organization" surface="Bundeswehr" />
+<Entity id="1" startPos="89" endPos="99" type="organization" surface="Bundeswehr" />
+<Entity id="2" startPos="127" endPos="133" type="location" surface="Syrien" />
+<Entity id="3" startPos="329" endPos="345" type="number" surface="hundertprozentig" />
+<Entity id="4" startPos="431" endPos="437" type="location" surface="Syrien" />
+<Entity id="5" startPos="735" endPos="752" type="organization" surface="Islamischen Staat" />
+<Entity id="6" startPos="764" endPos="772" type="date" surface="Mittwoch" />
+<Entity id="7" startPos="813" endPos="828" type="organization" surface="Bundesluftwaffe" />
+<Entity id="8" startPos="853" endPos="855" type="number" surface="29" />
+<Entity id="9" startPos="860" endPos="862" type="number" surface="93" /></Entities><Relations />
+</Document>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />AUDI AG<NODE id="7" />: neues Rekordjahr <NODE id="26" />2015<NODE id="30" /> | <NODE id="33" />Allgäu<NODE id="39" /> Skireisen.
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.allgaeu-skireisen.de/allgaeu-nachrichten/audi-ag-neues-rekordjahr-2015/@2016-03-10T15:29:28.568+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:29:28.568Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:29:33.318Z" />
+<feature featureName="uri" featureValue="http://www.allgaeu-skireisen.de/allgaeu-nachrichten/audi-ag-neues-rekordjahr-2015/" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization-company" surface="AUDI AG" />
+<Entity id="1" startPos="26" endPos="30" type="date" surface="2015" />
+<Entity id="2" startPos="33" endPos="39" type="location" surface="Allgäu" /></Entities><Relations />
+</Document>

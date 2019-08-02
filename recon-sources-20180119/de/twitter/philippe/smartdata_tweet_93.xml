@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>weg mit #<NODE id="9" />CDU<NODE id="12" /> u fr #<NODE id="19" />merkel<NODE id="25" /> - marode infrastruktur &amp; schwarze <NODE id="60" />null<NODE id="64" /> - https://t.co/xeqNmeRzBv
+
+#<NODE id="93" />spd<NODE id="96" /> #<NODE id="98" />trier<NODE id="103" /> #<NODE id="105" />mainz<NODE id="110" /> #<NODE id="112" />rp<NODE id="114" /> #<NODE id="116" />swr<NODE id="119" /> #autobahn #stau #<NODE id="137" />rtl<NODE id="140" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="704812082118660096" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="12" type="organization" surface="CDU" />
+<Entity id="1" startPos="19" endPos="25" type="person" surface="merkel" />
+<Entity id="2" startPos="60" endPos="64" type="number" surface="null" />
+<Entity id="3" startPos="93" endPos="96" type="organization" surface="spd" />
+<Entity id="4" startPos="98" endPos="103" type="location-city" surface="trier" />
+<Entity id="5" startPos="105" endPos="110" type="location-city" surface="mainz" />
+<Entity id="6" startPos="112" endPos="114" type="location" surface="rp" />
+<Entity id="7" startPos="116" endPos="119" type="organization-company" surface="swr" />
+<Entity id="8" startPos="137" endPos="140" type="organization-company" surface="rtl" /></Entities><Relations />
+</Document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />BHF Kleinwort Benson<NODE id="20" />: <NODE id="22" />Oddo &amp; Cie<NODE id="32" /> bei <NODE id="37" />Übernahme<NODE id="46" /> fast am Ziel https://t.co/GKA4RZXDrI
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="687668084673384448" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-14T16:10:22Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T17:51:15.73Z" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="20" type="organization-company" surface="BHF Kleinwort Benson" />
+<Entity id="1" startPos="22" endPos="32" type="organization-company" surface="Oddo &amp; Cie" />
+<Entity id="2" startPos="37" endPos="46" type="trigger" surface="Übernahme" /></Entities><Relations>
+<Relation id="3" NAME="Acquisition">
+<Entity id="2" label="trigger" />
+<Entity id="0" label="acquired" />
+<Entity id="1" label="buyer" />
+</Relation></Relations>
+</Document>

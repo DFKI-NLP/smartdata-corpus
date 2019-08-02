@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />SZ<NODE id="3" /> @carogasteiger War ein scheiß Tatort. So einen schlechten habe ich schon lange nicht mehr gesehen.
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="666288759290359809" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-16T16:16:33Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T14:48:44.123Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="3" type="organization-company" surface="SZ" /></Entities><Relations />
+</Document>

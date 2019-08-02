@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />BILD<NODE id="8" />: <NODE id="10" />Berliner<NODE id="18" /> Müllmänner fanden den toten Säugling unter Laub – jetzt sucht die Polizei Zeugen! https://t.co/05HXUNRrzk https://t.co/8…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="668378598420672512" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-11-22T10:40:50Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:06:44.119Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="8" type="organization-company" surface="BILD" />
+<Entity id="1" startPos="10" endPos="18" type="location-city" surface="Berliner" /></Entities><Relations />
+</Document>

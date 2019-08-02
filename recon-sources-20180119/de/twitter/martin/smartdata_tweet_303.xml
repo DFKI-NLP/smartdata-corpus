@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />Airport_FRA<NODE id="15" />: <NODE id="17" />Streik<NODE id="23" /> der <NODE id="28" />Lufthansa<NODE id="37" />-Piloten auf Kurz- und Mittelstreckenflügen. Infos zum Flugstatus: http://t.co/DE39OkNUmk http://t.co/…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="641567688884625409" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-09-09T11:03:51Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T17:00:24.122Z" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="15" type="organization-company" surface="Airport_FRA" />
+<Entity id="1" startPos="17" endPos="23" type="trigger" surface="Streik" />
+<Entity id="2" startPos="28" endPos="37" type="organization-company" surface="Lufthansa" /></Entities><Relations>
+<Relation id="3" NAME="Strike">
+<Entity id="1" label="trigger" />
+<Entity id="2" label="company" />
+</Relation></Relations>
+</Document>

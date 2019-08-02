@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Dezember212009<NODE id="14" />
+<NODE id="15" />FEUERWEHRAUSRÜSTER <NODE id="34" />PARTL<NODE id="39" />: ERSTE BILANZ 12:33 Uhr // Dezember //<NODE id="78" />
+<NODE id="79" />Eine erste Bilanz zieht der in <NODE id="110" />Lebring<NODE id="117" /> neu ansässige Feuerwehrausrüster <NODE id="151" />Harald Karl Partl<NODE id="168" />: die gesteckten Wirtschaftsziele wurden erreicht!<NODE id="218" />
+<NODE id="219" />Zufrieden zeigt sich Feuerwehrausrüster <NODE id="259" />Harald Karl Partl<NODE id="276" />, der in <NODE id="285" />Lebring<NODE id="292" /> am
+1. September seinen Shop eröffnet hatte.<NODE id="336" /> <NODE id="337" />Die prognostizierten Wirtschaftsziele konnten erreicht werden.<NODE id="399" /> <NODE id="400" />Partl<NODE id="405" /> bietet in seinem Geschäft in <NODE id="435" />Lebring<NODE id="442" /> ein umfangreiches Angebot von Arbeits- und Schutzbekleidung, Markenfeuerlöschern und Leitern sowie Armaturen.<NODE id="552" /> <NODE id="553" />Ebenso im Programm: hydraulische Rettungsgeräte und Funkgerätesysteme für Atemschutzgeräteträger.<NODE id="650" /> <NODE id="651" />Sie stehen zum Test und Verkauf bereit.<NODE id="690" />
+<NODE id="691" />VIELFÄLTIGES SORTIMENT<NODE id="713" />
+<NODE id="714" />Partl<NODE id="719" /> bietet ein vielfältiges Sortiment seiner Produktpalette: vom kompletten Bekleidungsprogramm des Produzenten „<NODE id="829" />S-Gard<NODE id="835" />“, über <NODE id="843" />HAIX<NODE id="847" />-<NODE id="848" />Feuerwehrstiefel<NODE id="864" /> und <NODE id="869" />Armaturen<NODE id="878" /> der <NODE id="883" />TKW-GmbH<NODE id="891" /> bis hin zu <NODE id="903" />hydraulischen Rettungsgeräten<NODE id="932" /> von <NODE id="937" />Lancier<NODE id="944" /> sow<NODE id="948" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.blaulicht.at/aktuelles/news/details/feuerwehrausruester-partl-erste-bilanz-2622.html@2016-01-25T21:09:06.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-25T20:09:06Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T10:18:50.479Z" />
+<feature featureName="uri" featureValue="http://www.blaulicht.at/aktuelles/news/details/feuerwehrausruester-partl-erste-bilanz-2622.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="14" type="sentence" surface="Dezember212009" />
+<Entity id="1" startPos="15" endPos="78" type="sentence" surface="FEUERWEHRAUSRÜSTER PARTL: ERSTE BILANZ 12:33 Uhr // Dezember //" />
+<Entity id="2" startPos="34" endPos="39" type="person" surface="PARTL" />
+<Entity id="3" startPos="79" endPos="218" type="sentence" surface="Eine erste Bilanz zieht der in Lebring neu ansässige Feuerwehrausrüster Harald Karl Partl: die gesteckten Wirtschaftsziele wurden erreicht!" />
+<Entity id="4" startPos="110" endPos="117" type="location" surface="Lebring" />
+<Entity id="5" startPos="151" endPos="168" type="person" surface="Harald Karl Partl" />
+<Entity id="6" startPos="219" endPos="336" type="sentence" surface="Zufrieden zeigt sich Feuerwehrausrüster Harald Karl Partl, der in Lebring am&#xA;1. September seinen Shop eröffnet hatte." />
+<Entity id="7" startPos="259" endPos="276" type="person" surface="Harald Karl Partl" />
+<Entity id="8" startPos="285" endPos="292" type="location" surface="Lebring" />
+<Entity id="9" startPos="337" endPos="399" type="sentence" surface="Die prognostizierten Wirtschaftsziele konnten erreicht werden." />
+<Entity id="10" startPos="400" endPos="405" type="person" surface="Partl" />
+<Entity id="11" startPos="400" endPos="552" type="sentence" surface="Partl bietet in seinem Geschäft in Lebring ein umfangreiches Angebot von Arbeits- und Schutzbekleidung, Markenfeuerlöschern und Leitern sowie Armaturen." />
+<Entity id="12" startPos="435" endPos="442" type="location" surface="Lebring" />
+<Entity id="13" startPos="553" endPos="650" type="sentence" surface="Ebenso im Programm: hydraulische Rettungsgeräte und Funkgerätesysteme für Atemschutzgeräteträger." />
+<Entity id="14" startPos="651" endPos="690" type="sentence" surface="Sie stehen zum Test und Verkauf bereit." />
+<Entity id="15" startPos="691" endPos="713" type="sentence" surface="VIELFÄLTIGES SORTIMENT" />
+<Entity id="16" startPos="714" endPos="719" type="person" surface="Partl" />
+<Entity id="17" startPos="714" endPos="948" type="sentence" surface="Partl bietet ein vielfältiges Sortiment seiner Produktpalette: vom kompletten Bekleidungsprogramm des Produzenten „S-Gard“, über HAIX-Feuerwehrstiefel und Armaturen der TKW-GmbH bis hin zu hydraulischen Rettungsgeräten von Lancier sow" />
+<Entity id="18" startPos="829" endPos="835" type="organization-company" surface="S-Gard" />
+<Entity id="19" startPos="843" endPos="847" type="organization-company" surface="HAIX" />
+<Entity id="20" startPos="848" endPos="864" type="product" surface="Feuerwehrstiefel" />
+<Entity id="21" startPos="869" endPos="878" type="product" surface="Armaturen" />
+<Entity id="22" startPos="883" endPos="891" type="organization-company" surface="TKW-GmbH" />
+<Entity id="23" startPos="903" endPos="932" type="product" surface="hydraulischen Rettungsgeräten" />
+<Entity id="24" startPos="937" endPos="944" type="organization-company" surface="Lancier" /></Entities><Relations>
+<Relation id="25" NAME="CompanyProvidesProduct">
+<Entity id="20" label="product" />
+<Entity id="19" label="company" />
+</Relation>
+<Relation id="26" NAME="CompanyProvidesProduct">
+<Entity id="21" label="product" />
+<Entity id="22" label="company" />
+</Relation>
+<Relation id="27" NAME="CompanyProvidesProduct">
+<Entity id="23" label="product" />
+<Entity id="24" label="company" />
+</Relation></Relations>
+</Document>

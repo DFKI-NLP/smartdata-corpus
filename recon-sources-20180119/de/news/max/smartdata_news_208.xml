@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Chinesen<NODE id="8" /> auf Einkaufstour in <NODE id="29" />Deutschland<NODE id="40" /> - <NODE id="43" />KrausMaffei<NODE id="54" /> geht an <NODE id="63" />ChemChina<NODE id="72" />
+<NODE id="73" />07:49<NODE id="78" /> <NODE id="79" />11.01.16<NODE id="87" />
+<NODE id="88" />MÜNCHEN<NODE id="95" /> (dpa-AFX) - Der Spezialmaschinenbauer <NODE id="134" />KraussMaffei<NODE id="146" /> wird <NODE id="152" />chinesisch<NODE id="162" />. <NODE id="164" />ChemChina<NODE id="173" /> <NODE id="174" />kauft<NODE id="179" /> das <NODE id="184" />Münchener<NODE id="193" /> Unternehmen<NODE id="205" /> vom <NODE id="210" />kanadischen<NODE id="221" /> Konzern <NODE id="230" />Onex<NODE id="234" /> für <NODE id="239" />925 Millionen Euro<NODE id="257" /> - es ist damit die bisher teuerste Übernahme eines <NODE id="309" />chinesischen<NODE id="321" /> Unternehmens in <NODE id="338" />Deutschland<NODE id="349" />. Der größte Chemiekonzern <NODE id="376" />Chinas<NODE id="382" /> kündigte am <NODE id="395" />Montag<NODE id="401" /> in <NODE id="405" />München<NODE id="412" /> an, dass die Standorte der <NODE id="440" />Gruppe<NODE id="446" /> erhalten bleiben. Zudem sollen Stellen geschaffen werden. Arbeitnehmervertreter und <NODE id="531" />IG Metall<NODE id="540" /> begrüßten daher den Eigentümerwechsel. <NODE id="580" />KraussMaffei<NODE id="592" /> stellt Anlagen zur Produktion und Verarbeitung von Gummi und Kunststoff her. Das <NODE id="674" />Unternehmen<NODE id="685" /> beschäftigte zuletzt <NODE id="707" />4500<NODE id="711" /> Mitarbeiter - davon <NODE id="732" />2800<NODE id="736" /> in <NODE id="740" />Deutschland<NODE id="751" />. Der Umsatz hatte <NODE id="770" />2014<NODE id="774" /> zirka <NODE id="781" />1,1 Milliarden Euro<NODE id="800" /> betragen und dürfte im <NODE id="824" />vergangenen Jahr<NODE id="840" /> um rund <NODE id="849" />10 Prozent<NODE id="859" /> gestiegen sein./zb/stb
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ariva.de/news/Chinesen-auf-Einkaufstour-in-Deutschland-KrausMaffei-geht-an-ChemChina-5609080@2016-03-10T14:18:05.207+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:18:05.207Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:18:13.317Z" />
+<feature featureName="uri" featureValue="http://www.ariva.de/news/Chinesen-auf-Einkaufstour-in-Deutschland-KrausMaffei-geht-an-ChemChina-5609080" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location" surface="Chinesen" />
+<Entity id="1" startPos="29" endPos="40" type="location" surface="Deutschland" />
+<Entity id="2" startPos="43" endPos="54" type="organization-company" surface="KrausMaffei" />
+<Entity id="3" startPos="63" endPos="72" type="organization-company" surface="ChemChina" />
+<Entity id="4" startPos="73" endPos="78" type="time" surface="07:49" />
+<Entity id="5" startPos="79" endPos="87" type="date" surface="11.01.16" />
+<Entity id="6" startPos="88" endPos="95" type="location-city" surface="MÜNCHEN" />
+<Entity id="7" startPos="134" endPos="146" type="organization-company" surface="KraussMaffei" />
+<Entity id="8" startPos="152" endPos="162" type="location" surface="chinesisch" />
+<Entity id="9" startPos="164" endPos="173" type="organization-company" surface="ChemChina" />
+<Entity id="10" startPos="174" endPos="179" type="trigger" surface="kauft" />
+<Entity id="11" startPos="184" endPos="193" type="location-city" surface="Münchener" />
+<Entity id="12" startPos="184" endPos="205" type="organization-company" surface="Münchener Unternehmen" />
+<Entity id="13" startPos="210" endPos="221" type="location" surface="kanadischen" />
+<Entity id="14" startPos="230" endPos="234" type="organization-company" surface="Onex" />
+<Entity id="15" startPos="239" endPos="257" type="number" surface="925 Millionen Euro" />
+<Entity id="16" startPos="309" endPos="321" type="location" surface="chinesischen" />
+<Entity id="17" startPos="338" endPos="349" type="location" surface="Deutschland" />
+<Entity id="18" startPos="376" endPos="382" type="location" surface="Chinas" />
+<Entity id="19" startPos="395" endPos="401" type="date" surface="Montag" />
+<Entity id="20" startPos="405" endPos="412" type="location-city" surface="München" />
+<Entity id="21" startPos="440" endPos="446" type="organization-company" surface="Gruppe" />
+<Entity id="22" startPos="531" endPos="540" type="organization" surface="IG Metall" />
+<Entity id="23" startPos="580" endPos="592" type="organization-company" surface="KraussMaffei" />
+<Entity id="24" startPos="674" endPos="685" type="organization-company" surface="Unternehmen" />
+<Entity id="25" startPos="707" endPos="711" type="number" surface="4500" />
+<Entity id="26" startPos="732" endPos="736" type="number" surface="2800" />
+<Entity id="27" startPos="740" endPos="751" type="location" surface="Deutschland" />
+<Entity id="28" startPos="770" endPos="774" type="date" surface="2014" />
+<Entity id="29" startPos="781" endPos="800" type="number" surface="1,1 Milliarden Euro" />
+<Entity id="30" startPos="824" endPos="840" type="date" surface="vergangenen Jahr" />
+<Entity id="31" startPos="849" endPos="859" type="number" surface="10 Prozent" /></Entities><Relations>
+<Relation id="32" NAME="Acquisition">
+<Entity id="2" label="acquired" />
+<Entity id="3" label="buyer" />
+</Relation>
+<Relation id="33" NAME="Acquisition">
+<Entity id="14" label="seller" />
+<Entity id="15" label="price" />
+<Entity id="10" label="trigger" />
+<Entity id="12" label="acquired" />
+<Entity id="9" label="buyer" />
+</Relation>
+<Relation id="34" NAME="Identity">
+<Entity id="2" label="source" />
+<Entity id="21" label="target" />
+<Entity id="12" label="target" />
+<Entity id="7" label="target" />
+<Entity id="24" label="target" />
+<Entity id="23" label="target" />
+</Relation></Relations>
+</Document>

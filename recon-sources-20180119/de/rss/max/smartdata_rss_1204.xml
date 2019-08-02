@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Stuttgart<NODE id="9" /> Richtung <NODE id="19" />Singen<NODE id="25" /> zwischen <NODE id="35" />Sindelfingen-Ost<NODE id="51" /> und <NODE id="56" />Böblingen-Ost<NODE id="69" /> ungesicherte Unfallstelle auf dem linken Fahrstreifen
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=1b4637e6-912d-4189-b80a-bcbeb3b1514f@2016-02-24T16:48:00.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-24T15:48:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T09:23:23Z" />
+<feature featureName="uri" featureValue="http://verkehrsmeldungen.polizei-bw.de//TICRss.ashx?region=BW&amp;id=1b4637e6-912d-4189-b80a-bcbeb3b1514f" />
+<feature featureName="solrEventType" featureValue="Unfall" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="9" type="location-city" surface="Stuttgart" />
+<Entity id="1" startPos="19" endPos="25" type="location-city" surface="Singen" />
+<Entity id="2" startPos="35" endPos="51" type="location" surface="Sindelfingen-Ost" />
+<Entity id="3" startPos="56" endPos="69" type="location" surface="Böblingen-Ost" /></Entities><Relations />
+</Document>

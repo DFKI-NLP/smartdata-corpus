@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Siemens<NODE id="7" /> streicht Jobs in Franken<NODE id="32" />
+<NODE id="33" />Wegen der weltweiten Flaute auf dem Ölmarkt beschließt der Großkonzern drastische Einschnitte.<NODE id="127" />
+<NODE id="128" />Siemens<NODE id="135" />-<NODE id="136" />Chef<NODE id="140" /> <NODE id="141" />Joe Kaeser<NODE id="151" /> spürt die Krise auf dem Ölmarkt. Foto: <NODE id="191" />Matthias Balk<NODE id="204" />, <NODE id="206" />dpa<NODE id="209" />
+<NODE id="210" />BILDER<NODE id="216" />
+ 
+<NODE id="219" />von <NODE id="223" />PETER GROSCURTH<NODE id="238" />
+<NODE id="239" />Siemens<NODE id="246" /> plant einen größeren <NODE id="268" />Stellenabbau<NODE id="280" />, der vor allem auch <NODE id="301" />Franken<NODE id="308" /> und insbesondere den Raum <NODE id="335" />Nürnberg<NODE id="343" /> treffen wird.<NODE id="357" /> <NODE id="358" />Allein am <NODE id="368" />Standort<NODE id="376" /> in der <NODE id="384" />Vogelweiherstraße<NODE id="401" /> in <NODE id="405" />Nürnberg<NODE id="413" /> sollen <NODE id="421" />750 Jobs<NODE id="429" /> <NODE id="430" />wegfallen<NODE id="439" />, wie ein <NODE id="449" />Siemens<NODE id="456" />-Sprecher dieser Zeitung gegenüber bestätigte.<NODE id="502" /> <NODE id="503" />Außerdem sollen in den <NODE id="526" />Siemens<NODE id="533" />-<NODE id="534" />Fabriken<NODE id="542" /> in <NODE id="546" />Ruhstorf<NODE id="554" /> (Landkreis <NODE id="566" />Passau<NODE id="572" />) <NODE id="574" />700<NODE id="577" />, in <NODE id="582" />Erlangen<NODE id="590" /> <NODE id="591" />150<NODE id="594" /> und in <NODE id="602" />Bad Neustadt<NODE id="614" /> (Landkreis <NODE id="626" />Rhön-Grabfeld<NODE id="639" />) <NODE id="641" />350<NODE id="644" /> Arbeitsplätze <NODE id="659" />gestrichen<NODE id="669" /> werden.<NODE id="677" /> <NODE id="678" />Die heutigen Standorte sollen dabei allerdings erhalten bleiben, erklärte der <NODE id="756" />Siemens<NODE id="763" />-Sprecher weiter.<NODE id="780" />
+<NODE id="781" />Der Wachstumseinbruch auf den Rohstoffmärkten hat zu einer erheblichen Verschärfung des Wettbewerbs besonders aus dem asiatischen Raum geführt.<NODE id="924" /> <NODE id="925" />Deshalb sind wir gezwungen, uns auf d<NODE id="962" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.infranken.de/1688758@2016-03-09T16:52:29.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-09T15:52:29Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T15:52:22.952Z" />
+<feature featureName="uri" featureValue="http://www.infranken.de/1688758" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="7" type="organization-company" surface="Siemens" />
+<Entity id="1" startPos="0" endPos="32" type="sentence" surface="Siemens streicht Jobs in Franken" />
+<Entity id="2" startPos="33" endPos="127" type="sentence" surface="Wegen der weltweiten Flaute auf dem Ölmarkt beschließt der Großkonzern drastische Einschnitte." />
+<Entity id="3" startPos="128" endPos="135" type="organization-company" surface="Siemens" />
+<Entity id="4" startPos="128" endPos="209" type="sentence" surface="Siemens-Chef Joe Kaeser spürt die Krise auf dem Ölmarkt. Foto: Matthias Balk, dpa" />
+<Entity id="5" startPos="136" endPos="140" type="org-position" surface="Chef" />
+<Entity id="6" startPos="141" endPos="151" type="person" surface="Joe Kaeser" />
+<Entity id="7" startPos="191" endPos="204" type="person" surface="Matthias Balk" />
+<Entity id="8" startPos="206" endPos="209" type="organization-company" surface="dpa" />
+<Entity id="9" startPos="210" endPos="216" type="sentence" surface="BILDER" />
+<Entity id="10" startPos="219" endPos="238" type="sentence" surface="von PETER GROSCURTH" />
+<Entity id="11" startPos="223" endPos="238" type="person" surface="PETER GROSCURTH" />
+<Entity id="12" startPos="239" endPos="246" type="organization-company" surface="Siemens" />
+<Entity id="13" startPos="239" endPos="357" type="sentence" surface="Siemens plant einen größeren Stellenabbau, der vor allem auch Franken und insbesondere den Raum Nürnberg treffen wird." />
+<Entity id="14" startPos="268" endPos="280" type="trigger" surface="Stellenabbau" />
+<Entity id="15" startPos="301" endPos="308" type="location" surface="Franken" />
+<Entity id="16" startPos="335" endPos="343" type="location" surface="Nürnberg" />
+<Entity id="17" startPos="358" endPos="502" type="sentence" surface="Allein am Standort in der Vogelweiherstraße in Nürnberg sollen 750 Jobs wegfallen, wie ein Siemens-Sprecher dieser Zeitung gegenüber bestätigte." />
+<Entity id="18" startPos="368" endPos="376" type="trigger" surface="Standort" />
+<Entity id="19" startPos="384" endPos="401" type="location" surface="Vogelweiherstraße" />
+<Entity id="20" startPos="405" endPos="413" type="location-city" surface="Nürnberg" />
+<Entity id="21" startPos="421" endPos="429" type="number" surface="750 Jobs" />
+<Entity id="22" startPos="430" endPos="439" type="trigger" surface="wegfallen" />
+<Entity id="23" startPos="449" endPos="456" type="organization-company" surface="Siemens" />
+<Entity id="24" startPos="503" endPos="677" type="sentence" surface="Außerdem sollen in den Siemens-Fabriken in Ruhstorf (Landkreis Passau) 700, in Erlangen 150 und in Bad Neustadt (Landkreis Rhön-Grabfeld) 350 Arbeitsplätze gestrichen werden." />
+<Entity id="25" startPos="526" endPos="533" type="organization-company" surface="Siemens" />
+<Entity id="26" startPos="534" endPos="542" type="facility-type" surface="Fabriken" />
+<Entity id="27" startPos="546" endPos="554" type="location" surface="Ruhstorf" />
+<Entity id="28" startPos="566" endPos="572" type="location" surface="Passau" />
+<Entity id="29" startPos="574" endPos="577" type="number" surface="700" />
+<Entity id="30" startPos="582" endPos="590" type="location-city" surface="Erlangen" />
+<Entity id="31" startPos="591" endPos="594" type="number" surface="150" />
+<Entity id="32" startPos="602" endPos="614" type="location" surface="Bad Neustadt" />
+<Entity id="33" startPos="626" endPos="639" type="location" surface="Rhön-Grabfeld" />
+<Entity id="34" startPos="641" endPos="644" type="number" surface="350" />
+<Entity id="35" startPos="659" endPos="669" type="trigger" surface="gestrichen" />
+<Entity id="36" startPos="678" endPos="780" type="sentence" surface="Die heutigen Standorte sollen dabei allerdings erhalten bleiben, erklärte der Siemens-Sprecher weiter." />
+<Entity id="37" startPos="756" endPos="763" type="organization-company" surface="Siemens" />
+<Entity id="38" startPos="781" endPos="924" type="sentence" surface="Der Wachstumseinbruch auf den Rohstoffmärkten hat zu einer erheblichen Verschärfung des Wettbewerbs besonders aus dem asiatischen Raum geführt." />
+<Entity id="39" startPos="925" endPos="962" type="sentence" surface="Deshalb sind wir gezwungen, uns auf d" /></Entities><Relations>
+<Relation id="40" NAME="CompanyFacility">
+<Entity id="20" label="location" />
+<Entity id="23" label="company" />
+<Entity id="18" label="trigger" />
+</Relation>
+<Relation id="41" NAME="CompanyFacility">
+<Entity id="30" label="location" />
+<Entity id="32" label="location" />
+<Entity id="27" label="location" />
+<Entity id="25" label="company" />
+<Entity id="26" label="facility_type" />
+</Relation>
+<Relation id="42" NAME="Layoffs">
+<Entity id="12" label="company" />
+<Entity id="15" label="location" />
+<Entity id="16" label="location" />
+<Entity id="14" label="trigger" />
+</Relation>
+<Relation id="43" NAME="Layoffs">
+<Entity id="21" label="num_laid_off" />
+<Entity id="20" label="location" />
+<Entity id="23" label="company" />
+<Entity id="22" label="trigger" />
+</Relation>
+<Relation id="44" NAME="Layoffs">
+<Entity id="31" label="num_laid_off" />
+<Entity id="30" label="location" />
+<Entity id="25" label="company" />
+<Entity id="35" label="trigger" />
+</Relation>
+<Relation id="45" NAME="Layoffs">
+<Entity id="34" label="num_laid_off" />
+<Entity id="32" label="location" />
+<Entity id="25" label="company" />
+<Entity id="35" label="trigger" />
+</Relation>
+<Relation id="46" NAME="Layoffs">
+<Entity id="29" label="num_laid_off" />
+<Entity id="27" label="location" />
+<Entity id="25" label="company" />
+<Entity id="35" label="trigger" />
+</Relation>
+<Relation id="47" NAME="OrganizationLeadership">
+<Entity id="6" label="person" />
+<Entity id="3" label="organization" />
+<Entity id="5" label="position" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A99<NODE id="3" /> <NODE id="4" />Kreuz München-Süd<NODE id="21" /> Richtung <NODE id="31" />Kreuz München-Nord<NODE id="49" /> zwischen <NODE id="59" />Haar<NODE id="63" /> und <NODE id="68" />Kirchheim<NODE id="77" /> bei <NODE id="82" />München<NODE id="89" /> <NODE id="90" />5 km<NODE id="94" /> <NODE id="95" />Stau<NODE id="99" /> wegen <NODE id="106" />defekter Fahrzeuge<NODE id="124" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.deutschlandradio.de/#40@2016-03-23T13:08:15.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://www.deutschlandradio.de/" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A99" />
+<Entity id="1" startPos="4" endPos="21" type="location" surface="Kreuz München-Süd" />
+<Entity id="2" startPos="31" endPos="49" type="location" surface="Kreuz München-Nord" />
+<Entity id="3" startPos="59" endPos="63" type="location" surface="Haar" />
+<Entity id="4" startPos="68" endPos="77" type="location" surface="Kirchheim" />
+<Entity id="5" startPos="82" endPos="89" type="location-city" surface="München" />
+<Entity id="6" startPos="90" endPos="94" type="distance" surface="5 km" />
+<Entity id="7" startPos="95" endPos="99" type="trigger" surface="Stau" />
+<Entity id="8" startPos="106" endPos="124" type="trigger" surface="defekter Fahrzeuge" /></Entities><Relations>
+<Relation id="9" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="8" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="6" label="jam_length" />
+<Entity id="7" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

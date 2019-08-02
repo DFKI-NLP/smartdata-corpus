@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>die <NODE id="4" />Franzosen<NODE id="13" /> haben uns noch <NODE id="29" />zwei<NODE id="33" /> weitere mitgeteilt. Er ist bei uns mit Diebstählen, Rauschgiftdelikten und Verstößen gegen das Waffengesetz auffällig geworden.
+Politik   Heute, <NODE id="179" />09:53<NODE id="184" />
+Die erwartete Genehmigung von Wirtschaftsminister Sigmar Gabriel (<NODE id="251" />SPD<NODE id="254" />) zur <NODE id="260" />Übernahme<NODE id="269" /> von <NODE id="274" />451<NODE id="277" /> <NODE id="278" />Kaiser`s<NODE id="286" />-Supermärkten durch <NODE id="306" />Edeka<NODE id="311" /> bringt das Instrument der Ministererlaubnis in die Diskussion.
+Politik   Heute, <NODE id="392" />09:44<NODE id="397" />
+Nach Einschätzung des Mediziners und <NODE id="435" />SPD<NODE id="438" />-Gesundheitspolitikers Karl Lauterbach kann ein ähnliches Unglück wie bei dem schief gelaufenen Arzneimitteltest in Frankreich auch in <NODE id="573" />Deutschland<NODE id="584" /> passieren.
+Politik   Heute, <NODE id="613" />09:34<NODE id="618" />
+Angesichts der angespannten Lage im Osten des Landes fordert die <NODE id="684" />Ukraine<NODE id="691" /> mehr internationale Unterstützung: Die <NODE id="731" />Ukraine<NODE id="738" /> braucht dringend ein Sicherheitsversprechen der internationalen Gemeinschaft.
+Politik   Heute, <NODE id="834" />09:26<NODE id="839" />
+Das <NODE id="844" />Bundeskriminalamt<NODE id="861" /> registriert eine stark zunehmende Zahl an Straftaten in Flüchtlings- und Asyl
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.duesselportal.de/news/?tmpl=de&amp;id=25571@2016-03-10T15:01:27.696+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:01:27.696Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:01:33.485Z" />
+<feature featureName="uri" featureValue="http://www.duesselportal.de/news/?tmpl=de&amp;id=25571" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="13" type="location" surface="Franzosen" />
+<Entity id="1" startPos="29" endPos="33" type="number" surface="zwei" />
+<Entity id="2" startPos="179" endPos="184" type="time" surface="09:53" />
+<Entity id="3" startPos="251" endPos="254" type="organization" surface="SPD" />
+<Entity id="4" startPos="260" endPos="269" type="trigger" surface="Übernahme" />
+<Entity id="5" startPos="274" endPos="277" type="number" surface="451" />
+<Entity id="6" startPos="278" endPos="286" type="organization-company" surface="Kaiser`s" />
+<Entity id="7" startPos="306" endPos="311" type="organization-company" surface="Edeka" />
+<Entity id="8" startPos="392" endPos="397" type="time" surface="09:44" />
+<Entity id="9" startPos="435" endPos="438" type="organization" surface="SPD" />
+<Entity id="10" startPos="573" endPos="584" type="location" surface="Deutschland" />
+<Entity id="11" startPos="613" endPos="618" type="time" surface="09:34" />
+<Entity id="12" startPos="684" endPos="691" type="location" surface="Ukraine" />
+<Entity id="13" startPos="731" endPos="738" type="location" surface="Ukraine" />
+<Entity id="14" startPos="834" endPos="839" type="time" surface="09:26" />
+<Entity id="15" startPos="844" endPos="861" type="organization" surface="Bundeskriminalamt" /></Entities><Relations>
+<Relation id="16" NAME="Acquisition">
+<Entity id="4" label="trigger" />
+<Entity id="6" label="acquired" />
+<Entity id="7" label="buyer" />
+</Relation></Relations>
+</Document>

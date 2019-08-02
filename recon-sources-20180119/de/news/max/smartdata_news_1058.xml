@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Urteil
+Junger Skiurlauber haftet für Lawinenauslösung
+Das Oberlandesgericht entschied, dass auch ein normaler Skifahrer für die Verursachung einer <NODE id="147" />Lawine<NODE id="153" /> haftet. Sorgfalt muss jeder walten lassen.
+Für den Schaden durch den Lawinenabgang muss der junge <NODE id="252" />Franzose<NODE id="260" /> zur Gänze aufkommen.
+Von <NODE id="286" />Reinhard Fellner<NODE id="302" />
+<NODE id="303" />Innsbruck<NODE id="312" /> – Ein richtungsweisendes Urteil zum Verhaltensmaßstab im <NODE id="370" />alpinen<NODE id="377" /> Raum erging nun rechtskräftig am <NODE id="411" />Oberlandesgericht (OLG) Innsbruck<NODE id="444" />. Demnach haftet ein junger <NODE id="472" />französischer<NODE id="485" /> Skifahrer voll für Schäden einer <NODE id="519" />Lawine<NODE id="525" />, die er zuvor durch eine Abkürzung zum Hotel über freien Skiraum ausgelöst hatte. Rückblende: Es war ein herrlicher Februartag, als die Urlauberfamilie zum Skitag aufbrach. Im Wetterbericht wurden erstmals frühlingshafte Temperaturen und ein kurzzeitiges Ansteigen der <NODE id="795" />Null-Grad<NODE id="804" />-Grenze auf <NODE id="816" />3000 Meter<NODE id="826" /> Seehöhe angekündigt. Schon in den späten Vormittagsstunden würde daher die Lawinengefahr von mäßig auf erheblich (Stufe <NODE id="947" />3<NODE id="948" />) a
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.tt.com/panorama/verbrechen/11270688-91/junger-skiurlauber-haftet-f%C3%BCr-lawinenausl%C3%B6sung.csp@2016-03-19T06:14:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-19T05:14:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T08:17:41.928Z" />
+<feature featureName="uri" featureValue="http://www.tt.com/panorama/verbrechen/11270688-91/junger-skiurlauber-haftet-f%C3%BCr-lawinenausl%C3%B6sung.csp" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="147" endPos="153" type="disaster-type" surface="Lawine" />
+<Entity id="1" startPos="252" endPos="260" type="location" surface="Franzose" />
+<Entity id="2" startPos="286" endPos="302" type="person" surface="Reinhard Fellner" />
+<Entity id="3" startPos="303" endPos="312" type="location-city" surface="Innsbruck" />
+<Entity id="4" startPos="370" endPos="377" type="location" surface="alpinen" />
+<Entity id="5" startPos="411" endPos="444" type="organization" surface="Oberlandesgericht (OLG) Innsbruck" />
+<Entity id="6" startPos="472" endPos="485" type="location" surface="französischer" />
+<Entity id="7" startPos="519" endPos="525" type="disaster-type" surface="Lawine" />
+<Entity id="8" startPos="795" endPos="804" type="number" surface="Null-Grad" />
+<Entity id="9" startPos="816" endPos="826" type="number" surface="3000 Meter" />
+<Entity id="10" startPos="947" endPos="948" type="number" surface="3" /></Entities><Relations />
+</Document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>in der <NODE id="7" />Nacht<NODE id="12" /> <NODE id="13" />Mittwoch<NODE id="21" />/<NODE id="22" />Donnerstag<NODE id="32" />, <NODE id="34" />10.<NODE id="37" />/<NODE id="38" />11. August<NODE id="48" />, <NODE id="50" />23.15<NODE id="55" /> – <NODE id="58" />1.30 Uhr<NODE id="66" />
+Meldung:
+<NODE id="76" />CNL 418<NODE id="83" /> nach <NODE id="89" />Amsterdam Centraal<NODE id="107" /> (<NODE id="109" />20.08 Uhr<NODE id="118" /> ab <NODE id="122" />Innsbruck Hbf<NODE id="135" />) wird von <NODE id="146" />Augsburg Hbf<NODE id="158" /> bis <NODE id="163" />Stuttgart Hbf<NODE id="176" /> umgeleitet und <NODE id="192" />verspätet sich<NODE id="206" /> um <NODE id="210" />20 Min<NODE id="216" />. Die planmäßigen Zwischenhalte fallen aus.
+Grund:
+Brückenbauarbeiten in <NODE id="289" />Ulm Hbf<NODE id="296" />
+Link zur detaillierten Meldung: 
+Link zum kompletten PDF-Dokument: 
+(<NODE id="366" />132<NODE id="369" /> kB)
+------------------
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#9ed022b7f7016a79d3b982fc427740dc44bb6b4e@2016-07-05T15:49:59.073+02:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-05T13:49:59.073Z" />
+<feature featureName="indexDate" featureValue="2016-07-05T13:50:16.004Z" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/N-F-Nachtzuege-Ferienzuege/56#9ed022b7f7016a79d3b982fc427740dc44bb6b4e" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="7" endPos="12" type="time" surface="Nacht" />
+<Entity id="1" startPos="13" endPos="21" type="date" surface="Mittwoch" />
+<Entity id="2" startPos="22" endPos="32" type="date" surface="Donnerstag" />
+<Entity id="3" startPos="34" endPos="37" type="date" surface="10." />
+<Entity id="4" startPos="38" endPos="48" type="date" surface="11. August" />
+<Entity id="5" startPos="50" endPos="55" type="time" surface="23.15" />
+<Entity id="6" startPos="58" endPos="66" type="time" surface="1.30 Uhr" />
+<Entity id="7" startPos="76" endPos="83" type="location-route" surface="CNL 418" />
+<Entity id="8" startPos="89" endPos="107" type="location-stop" surface="Amsterdam Centraal" />
+<Entity id="9" startPos="109" endPos="118" type="date" surface="20.08 Uhr" />
+<Entity id="10" startPos="122" endPos="135" type="location-stop" surface="Innsbruck Hbf" />
+<Entity id="11" startPos="146" endPos="158" type="location-stop" surface="Augsburg Hbf" />
+<Entity id="12" startPos="163" endPos="176" type="location-stop" surface="Stuttgart Hbf" />
+<Entity id="13" startPos="192" endPos="206" type="trigger" surface="verspätet sich" />
+<Entity id="14" startPos="210" endPos="216" type="duration" surface="20 Min" />
+<Entity id="15" startPos="289" endPos="296" type="location-stop" surface="Ulm Hbf" />
+<Entity id="16" startPos="366" endPos="369" type="number" surface="132" /></Entities><Relations>
+<Relation id="17" NAME="Delay">
+<Entity id="14" label="delay" />
+<Entity id="12" label="end_loc" />
+<Entity id="11" label="start_loc" />
+<Entity id="7" label="location" />
+<Entity id="13" label="trigger" />
+<Entity id="8" label="direction" />
+</Relation></Relations>
+</Document>

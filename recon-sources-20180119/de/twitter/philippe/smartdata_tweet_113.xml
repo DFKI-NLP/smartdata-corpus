@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />RE 11334<NODE id="8" /> | <NODE id="11" />Gerolstein<NODE id="21" /> <NODE id="22" />12:56<NODE id="27" /> -&gt; <NODE id="31" />Köln Messe/Deutz<NODE id="47" /> <NODE id="48" />14:44<NODE id="53" />: +<NODE id="56" />10<NODE id="58" />, <NODE id="60" />Verspätung<NODE id="70" /> aus vorheriger Fahrt
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="667329372299395072" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="location-route" surface="RE 11334" />
+<Entity id="1" startPos="11" endPos="21" type="location-stop" surface="Gerolstein" />
+<Entity id="2" startPos="22" endPos="27" type="time" surface="12:56" />
+<Entity id="3" startPos="31" endPos="47" type="location-stop" surface="Köln Messe/Deutz" />
+<Entity id="4" startPos="48" endPos="53" type="time" surface="14:44" />
+<Entity id="5" startPos="56" endPos="58" type="duration" surface="10" />
+<Entity id="6" startPos="60" endPos="70" type="trigger" surface="Verspätung" /></Entities><Relations>
+<Relation id="7" NAME="Delay">
+<Entity id="5" label="delay" />
+<Entity id="0" label="location" />
+<Entity id="6" label="trigger" />
+<Entity id="3" label="direction" />
+</Relation></Relations>
+</Document>

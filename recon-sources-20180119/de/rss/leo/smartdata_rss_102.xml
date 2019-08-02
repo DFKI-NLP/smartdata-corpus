@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Überfall in Hotel.
+
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.450290.php@2016-02-28T10:11:41.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.450290.php" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities /><Relations />
+</Document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT> Atomkraftwerk nach <NODE id="20" />Erdbeben<NODE id="28" /> nahe <NODE id="34" />Tokio<NODE id="39" /> auf Schäden geprüft 
+
+https://t.co/j8U29fzTHk
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754569650734764032" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T06:53:18Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T06:53:19.878Z" />
+<feature featureName="uri" featureValue="https://twitter.com/2692123475/status/754569650734764032" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="28" type="disaster-type" surface="Erdbeben" />
+<Entity id="1" startPos="34" endPos="39" type="location-city" surface="Tokio" /></Entities><Relations>
+<Relation id="2" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="type" />
+</Relation></Relations>
+</Document>

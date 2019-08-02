@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Vorsicht bitte in beiden Richtungen auf der <NODE id="44" />A21<NODE id="47" /> <NODE id="48" />Kiel<NODE id="52" /> - <NODE id="55" />Bargteheide<NODE id="66" /> zwischen <NODE id="76" />Wahlstedt<NODE id="85" /> und <NODE id="90" />Bad Segeberg-Nord<NODE id="107" /> liegt ein Tier!
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html#0@2016-03-19T12:58:04.000+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-19T11:58:04Z" />
+<feature featureName="indexDate" featureValue="2016-03-19T12:01:58.618Z" />
+<feature featureName="uri" featureValue="http://www.ndr.de/nachrichten/verkehr/index.html" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="44" endPos="47" type="location-street" surface="A21" />
+<Entity id="1" startPos="48" endPos="52" type="location-city" surface="Kiel" />
+<Entity id="2" startPos="55" endPos="66" type="location-city" surface="Bargteheide" />
+<Entity id="3" startPos="76" endPos="85" type="location" surface="Wahlstedt" />
+<Entity id="4" startPos="90" endPos="107" type="location" surface="Bad Segeberg-Nord" /></Entities><Relations />
+</Document>

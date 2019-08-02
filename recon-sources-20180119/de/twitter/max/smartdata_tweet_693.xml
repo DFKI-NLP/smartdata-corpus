@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @SamiSlimani: Die Queen kommt nach <NODE id="38" />Berlin<NODE id="44" /> &amp; die ganze Stadt steht still. Straßen sind gesperrt. Stau. So verrückt irgendwie. &#x1f610;&#x1f648;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="613373296248229889" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-23T15:49:24Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T16:02:35.73Z" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="38" endPos="44" type="location-city" surface="Berlin" /></Entities><Relations />
+</Document>

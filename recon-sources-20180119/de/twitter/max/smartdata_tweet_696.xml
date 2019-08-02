@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Lkw kracht auf <NODE id="15" />A 24 <NODE id="20" />durch die Mittelplanke: Rund <NODE id="49" />100 000 Euro<NODE id="61" /> Sachschaden und erhebliche <NODE id="89" />Staus<NODE id="94" /> verursachte ein... https://t.co/G3b0TvNoXp
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="684777172251193349" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-06T16:42:55Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T13:02:44.122Z" />
+<feature featureName="solrEventType" featureValue="Stau" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="20" type="location-street" surface="A 24 " />
+<Entity id="1" startPos="49" endPos="61" type="number" surface="100 000 Euro" />
+<Entity id="2" startPos="89" endPos="94" type="trigger" surface="Staus" /></Entities><Relations>
+<Relation id="3" NAME="TrafficJam">
+<Entity id="0" label="location" />
+<Entity id="2" label="trigger" />
+</Relation></Relations>
+</Document>

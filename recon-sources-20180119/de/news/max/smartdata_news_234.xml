@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Wenn Sie sich diesen Artikel vorlesen lassen wollen benutzen Sie den Accesskey + v, zum beenden können Sie den Accesskey + z benutzen.
+<NODE id="135" />23. Februar 2016<NODE id="151" /> <NODE id="152" />20:40 Uhr<NODE id="161" />
+BZ-Interview
+<NODE id="175" />Hüttinger<NODE id="184" />-Geschäftsführer rechtfertigt <NODE id="214" />Freiburger<NODE id="224" /> <NODE id="225" />Stellenabbau<NODE id="237" />
+Der <NODE id="242" />südbadische<NODE id="253" /> Generatorenspezialist <NODE id="276" />Trumpf Hüttinger<NODE id="292" /> streicht <NODE id="302" />50<NODE id="304" /> Stellen. Geschäftsführer <NODE id="330" />Stephan Mayer<NODE id="343" /> über das Sparprogramm und die Perspektiven des <NODE id="391" />Freiburger<NODE id="401" /> Betriebs.
+<NODE id="412" />Stephan Mayer<NODE id="425" /> Foto: <NODE id="432" />Thomas Kunz<NODE id="443" />
+Einer der großen industriellen Arbeitgeber <NODE id="487" />Freiburgs<NODE id="496" />: <NODE id="498" />Trumpf Hüttinger<NODE id="514" /> Foto: KUNZ
+1 / 2
+Der <NODE id="536" />südbadische<NODE id="547" /> Generatorenspezialist <NODE id="570" />Trumpf Hüttinger<NODE id="586" /> will mit neuen Produkten für die Energiespeicherung und die Halbleiterindustrie die Trendwende schaffen. Als Grund für den <NODE id="710" />Abbau<NODE id="715" /> von <NODE id="720" />50 <NODE id="723" />Arbeitsplätzen nannte <NODE id="745" />Hüttinger<NODE id="754" />-Chef Stephan Mayer den massiven Umsatzrückgang in den <NODE id="809" />vergangenen Jahren<NODE id="827" />. Er sei auf starke Veränderungen in den klassischen <NODE id="880" />Hüttinger<NODE id="889" />-Märkten zurückzuführen. Mi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.badische-zeitung.de/wirtschaft-3/huettinger-geschaeftsfuehrer-rechtfertigt-freiburger-stellenabbau--118744218.html@2016-02-23T20:42:49.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-23T19:42:49Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T16:20:31.934Z" />
+<feature featureName="uri" featureValue="http://www.badische-zeitung.de/wirtschaft-3/huettinger-geschaeftsfuehrer-rechtfertigt-freiburger-stellenabbau--118744218.html" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="135" endPos="151" type="date" surface="23. Februar 2016" />
+<Entity id="1" startPos="152" endPos="161" type="time" surface="20:40 Uhr" />
+<Entity id="2" startPos="175" endPos="184" type="organization-company" surface="Hüttinger" />
+<Entity id="3" startPos="214" endPos="224" type="location-city" surface="Freiburger" />
+<Entity id="4" startPos="225" endPos="237" type="trigger" surface="Stellenabbau" />
+<Entity id="5" startPos="242" endPos="253" type="location" surface="südbadische" />
+<Entity id="6" startPos="276" endPos="292" type="organization-company" surface="Trumpf Hüttinger" />
+<Entity id="7" startPos="302" endPos="304" type="number" surface="50" />
+<Entity id="8" startPos="330" endPos="343" type="person" surface="Stephan Mayer" />
+<Entity id="9" startPos="391" endPos="401" type="location-city" surface="Freiburger" />
+<Entity id="10" startPos="412" endPos="425" type="person" surface="Stephan Mayer" />
+<Entity id="11" startPos="432" endPos="443" type="person" surface="Thomas Kunz" />
+<Entity id="12" startPos="487" endPos="496" type="location-city" surface="Freiburgs" />
+<Entity id="13" startPos="498" endPos="514" type="organization-company" surface="Trumpf Hüttinger" />
+<Entity id="14" startPos="536" endPos="547" type="location" surface="südbadische" />
+<Entity id="15" startPos="570" endPos="586" type="organization-company" surface="Trumpf Hüttinger" />
+<Entity id="16" startPos="710" endPos="715" type="trigger" surface="Abbau" />
+<Entity id="17" startPos="720" endPos="723" type="number" surface="50 " />
+<Entity id="18" startPos="745" endPos="754" type="organization-company" surface="Hüttinger" />
+<Entity id="19" startPos="809" endPos="827" type="date" surface="vergangenen Jahren" />
+<Entity id="20" startPos="880" endPos="889" type="organization-company" surface="Hüttinger" /></Entities><Relations>
+<Relation id="21" NAME="Layoffs">
+<Entity id="2" label="company" />
+<Entity id="3" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

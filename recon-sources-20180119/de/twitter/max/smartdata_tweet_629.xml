@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />faznet<NODE id="10" />: Was macht der Ableger der legendären Serie „Breaking Bad“? #BetterCallSaul ist von heute an bei #<NODE id="109" />Netflix<NODE id="116" /> verfügbar. https://t.c…
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="699660905458626560" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-16T18:25:33Z" />
+<feature featureName="indexDate" featureValue="2016-04-12T14:23:45.039Z" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="10" type="organization-company" surface="faznet" />
+<Entity id="1" startPos="109" endPos="116" type="organization-company" surface="Netflix" /></Entities><Relations />
+</Document>

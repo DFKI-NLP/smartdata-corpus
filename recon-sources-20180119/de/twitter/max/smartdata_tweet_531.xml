@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Milliardenverlust: Die Lebenslüge von der profitablen <NODE id="54" />Deutschen Bahn<NODE id="68" /> https://t.co/FY6d2P3g2I via @<NODE id="98" />SPIEGELONLINE<NODE id="111" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672068007225610240" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-12-02T15:01:13Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T15:29:05.729Z" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="54" endPos="68" type="organization-company" surface="Deutschen Bahn" />
+<Entity id="1" startPos="98" endPos="111" type="organization-company" surface="SPIEGELONLINE" /></Entities><Relations />
+</Document>

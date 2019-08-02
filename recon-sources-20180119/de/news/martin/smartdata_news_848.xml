@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Auswirkung von <NODE id="15" />Steilmann<NODE id="24" />-<NODE id="25" />Insolvenz<NODE id="34" /> auf <NODE id="39" />Herne<NODE id="44" /> noch unklar
+<NODE id="57" />24.03.2016<NODE id="67" /> | <NODE id="70" />14:21 Uhr<NODE id="79" /> <NODE id="80" />2016-03-24T14:21:36+01:00<NODE id="105" />
+Die Zukunft von <NODE id="122" />Dressmaster<NODE id="133" /> ist nach der <NODE id="147" />Steilmann<NODE id="156" />-<NODE id="157" />Insolvenz<NODE id="166" /> ungewiss.Foto: <NODE id="182" />Eva Baertz<NODE id="192" />
+<NODE id="193" />Herne<NODE id="198" />.   Die <NODE id="206" />Insolvenz<NODE id="215" /> des Bekleidungsunternehmens <NODE id="244" />Steilmann<NODE id="253" /> könnte auch Auswirkungen auf <NODE id="283" />Herne<NODE id="288" /> haben. Bei <NODE id="300" />Dressmaster<NODE id="311" /> stehen <NODE id="319" />80<NODE id="321" /> Stellen auf dem Spiel.
+Das Bekleidungsunternehmen <NODE id="372" />Steilmann<NODE id="381" /> ist <NODE id="386" />insolvent<NODE id="395" />. „Der Vorstand der <NODE id="415" />Steilmann SE<NODE id="427" /> ist nach umfassender Prüfung heute zu der Überzeugung gelangt, dass im Zuge des aktuellen Geschäftsverlaufs die <NODE id="540" />Steilmann SE<NODE id="552" /> <NODE id="553" />zahlungsunfähig<NODE id="568" /> ist“, teilte das Unternehmen am <NODE id="601" />Mittwoch<NODE id="609" /> in <NODE id="613" />Bergkamen<NODE id="622" /> in einer Pflichtmitteilung mit. Sanierungsverhandlungen hätten keinen Erfolg gehabt. „Der Vorstand wird vor diesem Hintergrund nunmehr unverzüglich den Insolvenzantrag stellen“, hieß es weiter.
+Bekleidung
+Mode-Unternehmen <NODE id="845" />Steilmann<NODE id="854" /> muss <NODE id="860" />Insolvenzantrag<NODE id="875" /> stellen
+Die <NODE id="888" />Steilmann-Gruppe<NODE id="904" /> ist <NODE id="909" />insolvent<NODE id="918" />. Sanierungsverhandlungen für
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.derwesten.de/wp/staedte/nachrichten-aus-herne-und-wanne-eickel/wirkung-von-steilmann-insolvenz-auf-herne-noch-unklar-id11680121.html@2016-03-24T14:21:36.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-24T13:21:36Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T18:14:41.93Z" />
+<feature featureName="uri" featureValue="http://www.derwesten.de/wp/staedte/nachrichten-aus-herne-und-wanne-eickel/wirkung-von-steilmann-insolvenz-auf-herne-noch-unklar-id11680121.html" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="15" endPos="24" type="organization-company" surface="Steilmann" />
+<Entity id="1" startPos="25" endPos="34" type="trigger" surface="Insolvenz" />
+<Entity id="2" startPos="39" endPos="44" type="location-city" surface="Herne" />
+<Entity id="3" startPos="57" endPos="67" type="date" surface="24.03.2016" />
+<Entity id="4" startPos="70" endPos="79" type="time" surface="14:21 Uhr" />
+<Entity id="5" startPos="80" endPos="105" type="date" surface="2016-03-24T14:21:36+01:00" />
+<Entity id="6" startPos="122" endPos="133" type="organization-company" surface="Dressmaster" />
+<Entity id="7" startPos="147" endPos="156" type="organization-company" surface="Steilmann" />
+<Entity id="8" startPos="157" endPos="166" type="trigger" surface="Insolvenz" />
+<Entity id="9" startPos="182" endPos="192" type="person" surface="Eva Baertz" />
+<Entity id="10" startPos="193" endPos="198" type="location-city" surface="Herne" />
+<Entity id="11" startPos="206" endPos="215" type="trigger" surface="Insolvenz" />
+<Entity id="12" startPos="244" endPos="253" type="organization-company" surface="Steilmann" />
+<Entity id="13" startPos="283" endPos="288" type="location-city" surface="Herne" />
+<Entity id="14" startPos="300" endPos="311" type="organization-company" surface="Dressmaster" />
+<Entity id="15" startPos="319" endPos="321" type="number" surface="80" />
+<Entity id="16" startPos="372" endPos="381" type="organization-company" surface="Steilmann" />
+<Entity id="17" startPos="386" endPos="395" type="trigger" surface="insolvent" />
+<Entity id="18" startPos="415" endPos="427" type="organization-company" surface="Steilmann SE" />
+<Entity id="19" startPos="540" endPos="552" type="organization-company" surface="Steilmann SE" />
+<Entity id="20" startPos="553" endPos="568" type="trigger" surface="zahlungsunfähig" />
+<Entity id="21" startPos="601" endPos="609" type="date" surface="Mittwoch" />
+<Entity id="22" startPos="613" endPos="622" type="location-city" surface="Bergkamen" />
+<Entity id="23" startPos="845" endPos="854" type="organization-company" surface="Steilmann" />
+<Entity id="24" startPos="860" endPos="875" type="trigger" surface="Insolvenzantrag" />
+<Entity id="25" startPos="888" endPos="904" type="organization-company" surface="Steilmann-Gruppe" />
+<Entity id="26" startPos="909" endPos="918" type="trigger" surface="insolvent" /></Entities><Relations>
+<Relation id="27" NAME="Insolvency">
+<Entity id="0" label="company" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="28" NAME="Insolvency">
+<Entity id="7" label="company" />
+<Entity id="8" label="trigger" />
+</Relation>
+<Relation id="29" NAME="Insolvency">
+<Entity id="12" label="company" />
+<Entity id="11" label="trigger" />
+</Relation>
+<Relation id="30" NAME="Insolvency">
+<Entity id="16" label="company" />
+<Entity id="17" label="trigger" />
+</Relation>
+<Relation id="31" NAME="Insolvency">
+<Entity id="21" label="date" />
+<Entity id="19" label="company" />
+<Entity id="22" label="location" />
+<Entity id="20" label="trigger" />
+</Relation>
+<Relation id="32" NAME="Insolvency">
+<Entity id="23" label="company" />
+<Entity id="24" label="trigger" />
+</Relation>
+<Relation id="33" NAME="Insolvency">
+<Entity id="25" label="company" />
+<Entity id="26" label="trigger" />
+</Relation></Relations>
+</Document>

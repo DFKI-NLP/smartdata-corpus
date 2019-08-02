@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Text kleiner größer
+<NODE id="20" />Rostock<NODE id="27" /> – Zahl der Telefonate nimmt drastisch ab
+In <NODE id="72" />Mecklenburg-Vorpommern<NODE id="94" /> steht das analoge Festnetz vor dem Ende. Internetbasierte Dienste stehen vor allem bei Jüngeren hoch in der Gunst.
+Voriger Artikel
+Artikel veröffentlicht: <NODE id="250" />Montag, 11.01.2016 05:15 <NODE id="275" />Uhr
+Artikel aktualisiert: <NODE id="301" />Montag, 11.01.2016 06:57 <NODE id="326" />Uhr
+Nächster Artikel
+Randgruppe: Wer telefoniert noch analog?
+Quelle: Tim Jelonnek
+Tweet
+<NODE id="415" />Rostock<NODE id="422" />. In <NODE id="427" />Deutschland<NODE id="438" /> wird immer weniger telefoniert: <NODE id="471" />141 Milliarden Gesprächsminuten<NODE id="502" /> sind <NODE id="508" />2015<NODE id="512" /> gezählt worden. Das ist laut <NODE id="542" />Bundesnetzagentur<NODE id="559" /> ein Rückgang um <NODE id="576" />27 Prozent<NODE id="586" /> in den vergangenen <NODE id="606" />fünf Jahren<NODE id="617" />. „Die Art, sich zu unterhalten, hat sich geändert“, erklärt Fiete Wulff von der <NODE id="698" />Bundesnetzagentur<NODE id="715" />. Dem klassischen Festnetz setzen vor allem Kurznachrichtendienste wie WhatsApp und Videotelefonanbieter wie Skype zu. Vor allem Jüngere nutzen fast nur noch das Handy.
+Bei der <NODE id="892" />Vodafone GmbH<NODE id="905" /> sinkt die Zahl der Festnetzkunden in Mecklenburg-Vorp
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ostsee-zeitung.de/Nachrichten/MV-aktuell/Wirtschaft/Zahl-der-Telefonate-nimmt-drastisch-ab@2016-03-10T15:17:58.189+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T14:17:58.189Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T14:18:03.485Z" />
+<feature featureName="uri" featureValue="http://www.ostsee-zeitung.de/Nachrichten/MV-aktuell/Wirtschaft/Zahl-der-Telefonate-nimmt-drastisch-ab" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="27" type="location-city" surface="Rostock" />
+<Entity id="1" startPos="72" endPos="94" type="location" surface="Mecklenburg-Vorpommern" />
+<Entity id="2" startPos="250" endPos="275" type="date" surface="Montag, 11.01.2016 05:15 " />
+<Entity id="3" startPos="301" endPos="326" type="date" surface="Montag, 11.01.2016 06:57 " />
+<Entity id="4" startPos="415" endPos="422" type="location-city" surface="Rostock" />
+<Entity id="5" startPos="427" endPos="438" type="location" surface="Deutschland" />
+<Entity id="6" startPos="471" endPos="502" type="duration" surface="141 Milliarden Gesprächsminuten" />
+<Entity id="7" startPos="508" endPos="512" type="date" surface="2015" />
+<Entity id="8" startPos="542" endPos="559" type="organization" surface="Bundesnetzagentur" />
+<Entity id="9" startPos="576" endPos="586" type="number" surface="27 Prozent" />
+<Entity id="10" startPos="606" endPos="617" type="duration" surface="fünf Jahren" />
+<Entity id="11" startPos="698" endPos="715" type="organization" surface="Bundesnetzagentur" />
+<Entity id="12" startPos="892" endPos="905" type="organization-company" surface="Vodafone GmbH" /></Entities><Relations />
+</Document>

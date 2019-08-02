@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>PremiumWettbewerbshüter kritisieren die Entscheidung von Wirtschaftsminister <NODE id="77" />Gabriel<NODE id="84" />, die <NODE id="90" />Fusion<NODE id="96" /> von <NODE id="101" />Edeka<NODE id="106" /> und <NODE id="111" />Tengelmann<NODE id="121" /> zu erlauben. <NODE id="135" />Daniel Zimmer<NODE id="148" />, <NODE id="150" />Chef<NODE id="154" /> der <NODE id="159" />Monopolkommission<NODE id="176" />, findet im Interview deutliche Worte. mehr…
+Doch nur wenig später zeigt sich: <NODE id="255" />Kaiser´s<NODE id="263" /> hat noch immer immense Probleme. Die Märkte sind nach wie vor nicht rentabel. Zu lange hat <NODE id="355" />Tengelmann<NODE id="365" />-<NODE id="366" />Chef<NODE id="370" /> <NODE id="371" />Erivan Haub<NODE id="382" /> sie durchgeschleppt. Entlassungen passen nicht in das Selbstverständnis des Unternehmenspatriarchen. „Wenn sich jemand für uns entschieden und keine goldenen Löffel geklaut hat, dann sollte er bei uns seine Heimat finden“, wird der Manager gerne zitiert. Ein letzter Versuch <NODE id="658" />Haubs<NODE id="663" />, seine Supermärkte auf den richtigen Weg zu bringen, ist eine regionale Aufteilung a la Aldi: Ab <NODE id="761" />1996<NODE id="765" /> gehört der <NODE id="777" />Norden Deutschlands<NODE id="796" /> den<NODE id="800" /> Kaiser´s<NODE id="809" /> und der Süden den <NODE id="828" />Tengelmann<NODE id="838" /> Supermärkten.
+Doch eine Antwort auf den immer härter werdenden Preiskampf im Lebensmitteleinzelhandel i
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/edeka-schluckt-kaisers-verzweifelter-kampf-gegen-den-abstieg/12823016-3.html@2016-01-13T10:09:26.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-01-13T09:09:26Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T20:55:42.951Z" />
+<feature featureName="uri" featureValue="http://www.handelsblatt.com/unternehmen/handel-konsumgueter/edeka-schluckt-kaisers-verzweifelter-kampf-gegen-den-abstieg/12823016-3.html" />
+<feature featureName="solrEventType" featureValue="Merger" /></Meta><Entities>
+<Entity id="0" startPos="77" endPos="84" type="person" surface="Gabriel" />
+<Entity id="1" startPos="90" endPos="96" type="trigger" surface="Fusion" />
+<Entity id="2" startPos="101" endPos="106" type="organization-company" surface="Edeka" />
+<Entity id="3" startPos="111" endPos="121" type="organization-company" surface="Tengelmann" />
+<Entity id="4" startPos="135" endPos="148" type="person" surface="Daniel Zimmer" />
+<Entity id="5" startPos="150" endPos="154" type="org-position" surface="Chef" />
+<Entity id="6" startPos="159" endPos="176" type="organization" surface="Monopolkommission" />
+<Entity id="7" startPos="255" endPos="263" type="organization-company" surface="Kaiser´s" />
+<Entity id="8" startPos="355" endPos="365" type="organization-company" surface="Tengelmann" />
+<Entity id="9" startPos="366" endPos="370" type="org-position" surface="Chef" />
+<Entity id="10" startPos="371" endPos="382" type="person" surface="Erivan Haub" />
+<Entity id="11" startPos="658" endPos="663" type="person" surface="Haubs" />
+<Entity id="12" startPos="761" endPos="765" type="date" surface="1996" />
+<Entity id="13" startPos="777" endPos="796" type="location" surface="Norden Deutschlands" />
+<Entity id="14" startPos="800" endPos="809" type="organization-company" surface=" Kaiser´s" />
+<Entity id="15" startPos="828" endPos="838" type="organization-company" surface="Tengelmann" /></Entities><Relations>
+<Relation id="16" NAME="Merger">
+<Entity id="3" label="old" />
+<Entity id="2" label="old" />
+<Entity id="1" label="trigger" />
+</Relation>
+<Relation id="17" NAME="OrganizationLeadership">
+<Entity id="4" label="person" />
+<Entity id="6" label="organization" />
+<Entity id="5" label="position" />
+</Relation>
+<Relation id="18" NAME="OrganizationLeadership">
+<Entity id="10" label="person" />
+<Entity id="8" label="organization" />
+<Entity id="9" label="position" />
+</Relation></Relations>
+</Document>

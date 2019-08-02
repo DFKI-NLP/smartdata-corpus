@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />A61<NODE id="3" /> <NODE id="4" />Koblenz<NODE id="11" /> Richtung <NODE id="21" />Mönchengladbach<NODE id="36" /> zwischen <NODE id="46" />Swisttal<NODE id="54" /> und <NODE id="59" />Kreuz Bliesheim<NODE id="74" /> <NODE id="75" />2 km<NODE id="79" /> <NODE id="80" />Stau<NODE id="84" /> wegen der <NODE id="95" />Sperrung<NODE id="103" /> der <NODE id="108" />A1<NODE id="110" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="755094980721389568" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-18T17:40:47Z" />
+<feature featureName="indexDate" featureValue="2016-07-18T17:40:52.351Z" />
+<feature featureName="uri" featureValue="https://twitter.com/123856079/status/755094980721389568" />
+<feature featureName="solrEventType" featureValue="Behinderungen" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="3" type="location-street" surface="A61" />
+<Entity id="1" startPos="4" endPos="11" type="location-city" surface="Koblenz" />
+<Entity id="2" startPos="21" endPos="36" type="location-city" surface="Mönchengladbach" />
+<Entity id="3" startPos="46" endPos="54" type="location" surface="Swisttal" />
+<Entity id="4" startPos="59" endPos="74" type="location" surface="Kreuz Bliesheim" />
+<Entity id="5" startPos="75" endPos="79" type="distance" surface="2 km" />
+<Entity id="6" startPos="80" endPos="84" type="trigger" surface="Stau" />
+<Entity id="7" startPos="95" endPos="103" type="trigger" surface="Sperrung" />
+<Entity id="8" startPos="108" endPos="110" type="location-street" surface="A1" /></Entities><Relations>
+<Relation id="9" NAME="Obstruction">
+<Entity id="8" label="location" />
+<Entity id="7" label="trigger" />
+</Relation>
+<Relation id="10" NAME="TrafficJam">
+<Entity id="4" label="end_loc" />
+<Entity id="3" label="start_loc" />
+<Entity id="7" label="cause" />
+<Entity id="0" label="location" />
+<Entity id="5" label="jam_length" />
+<Entity id="6" label="trigger" />
+<Entity id="2" label="direction" />
+</Relation></Relations>
+</Document>

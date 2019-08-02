@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>ROUNDUP: <NODE id="9" />US<NODE id="11" />-Konzern <NODE id="20" />Diebold<NODE id="27" /> startet <NODE id="36" />Übernahme<NODE id="45" /> von <NODE id="50" />Wincor Nixdorf<NODE id="64" />
+<NODE id="65" />PADERBORN<NODE id="74" />/<NODE id="75" />NORTH CANTON<NODE id="87" /> (<NODE id="89" />dpa-AFX<NODE id="96" />) - Der Kassenautomaten-Hersteller <NODE id="131" />Wincor Nixdorf<NODE id="145" />
+geht aller Voraussicht nach mehrheitlich in den Besitz des <NODE id="205" />US<NODE id="207" />-Konkurrenten <NODE id="221" />Diebold<NODE id="228" />. Der Konzern legte für die Gesellschaft offiziell die erwartete Kaufofferte vor. Die Angebotsfrist laufe bis zum <NODE id="342" />22. März<NODE id="350" />, teilte <NODE id="359" />Diebold<NODE id="366" /> am <NODE id="370" />Freitag<NODE id="377" /> mit. Dabei wollen die <NODE id="400" />Amerikaner<NODE id="410" /> mindestens einen <NODE id="428" />67,6-Prozent<NODE id="440" />-Anteil an <NODE id="451" />Wincor<NODE id="457" /> einsammeln. Aufsichtsrat und Vorstand von <NODE id="500" />Wincor Nixdorf<NODE id="514" /> hatten bereits im vergangenen <NODE id="545" />November<NODE id="553" /> die Kaufofferte unterstützt.
+<NODE id="583" />Diebold<NODE id="590" /> bietet <NODE id="598" />38,98 Euro<NODE id="608" /> in bar sowie <NODE id="622" />0,434<NODE id="627" /> Diebold-Anteile je <NODE id="647" />Wincor-Nixdorf<NODE id="661" />-Aktie. Der Preis entsprach bei Vorstellung der Offerte <NODE id="717" />Mitte November<NODE id="731" /> einem Wert von <NODE id="747" />52,50 Euro<NODE id="757" /> je <NODE id="761" />Wincor<NODE id="767" />-Papier, insgesamt beläuft sich das Angebot damit auf rund <NODE id="826" />1,7 Milliarden Euro<NODE id="845" />. Der neue Konzern soll künftig <NODE id="877" />Diebold Nixdorf<NODE id="892" /> heißen und seinen rechtlichen Sitz in <NODE id="931" />North Canton<NODE id="943" /> im 
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.finanznachrichten.de/nachrichten-2016-02/36368923-roundup-us-konzern-diebold-startet-uebernahme-von-wincor-nixdorf-016.htm@2016-02-05T13:57:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-05T12:57:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T06:30:41.929Z" />
+<feature featureName="uri" featureValue="http://www.finanznachrichten.de/nachrichten-2016-02/36368923-roundup-us-konzern-diebold-startet-uebernahme-von-wincor-nixdorf-016.htm" />
+<feature featureName="solrEventType" featureValue="Übernahme" /></Meta><Entities>
+<Entity id="0" startPos="9" endPos="11" type="location" surface="US" />
+<Entity id="1" startPos="20" endPos="27" type="organization-company" surface="Diebold" />
+<Entity id="2" startPos="36" endPos="45" type="trigger" surface="Übernahme" />
+<Entity id="3" startPos="50" endPos="64" type="organization-company" surface="Wincor Nixdorf" />
+<Entity id="4" startPos="65" endPos="74" type="location-city" surface="PADERBORN" />
+<Entity id="5" startPos="75" endPos="87" type="location-city" surface="NORTH CANTON" />
+<Entity id="6" startPos="89" endPos="96" type="organization-company" surface="dpa-AFX" />
+<Entity id="7" startPos="131" endPos="145" type="organization-company" surface="Wincor Nixdorf" />
+<Entity id="8" startPos="205" endPos="207" type="location" surface="US" />
+<Entity id="9" startPos="221" endPos="228" type="organization-company" surface="Diebold" />
+<Entity id="10" startPos="342" endPos="350" type="date" surface="22. März" />
+<Entity id="11" startPos="359" endPos="366" type="organization-company" surface="Diebold" />
+<Entity id="12" startPos="370" endPos="377" type="date" surface="Freitag" />
+<Entity id="13" startPos="400" endPos="410" type="location" surface="Amerikaner" />
+<Entity id="14" startPos="428" endPos="440" type="number" surface="67,6-Prozent" />
+<Entity id="15" startPos="451" endPos="457" type="organization-company" surface="Wincor" />
+<Entity id="16" startPos="500" endPos="514" type="organization-company" surface="Wincor Nixdorf" />
+<Entity id="17" startPos="545" endPos="553" type="date" surface="November" />
+<Entity id="18" startPos="583" endPos="590" type="organization-company" surface="Diebold" />
+<Entity id="19" startPos="598" endPos="608" type="number" surface="38,98 Euro" />
+<Entity id="20" startPos="622" endPos="627" type="number" surface="0,434" />
+<Entity id="21" startPos="647" endPos="661" type="organization-company" surface="Wincor-Nixdorf" />
+<Entity id="22" startPos="717" endPos="731" type="date" surface="Mitte November" />
+<Entity id="23" startPos="747" endPos="757" type="number" surface="52,50 Euro" />
+<Entity id="24" startPos="761" endPos="767" type="organization-company" surface="Wincor" />
+<Entity id="25" startPos="826" endPos="845" type="number" surface="1,7 Milliarden Euro" />
+<Entity id="26" startPos="877" endPos="892" type="organization-company" surface="Diebold Nixdorf" />
+<Entity id="27" startPos="931" endPos="943" type="location-city" surface="North Canton" /></Entities><Relations>
+<Relation id="28" NAME="Acquisition">
+<Entity id="2" label="trigger" />
+<Entity id="3" label="acquired" />
+<Entity id="1" label="buyer" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@etschlichter So ähnlich war das mit der bösen Königin auch:Spieglein, Spieglein an der Wand... Bisher sind es etwa <NODE id="116" />20000<NODE id="121" /> auf der Straße
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="672054815313276928" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="116" endPos="121" type="number" surface="20000" /></Entities><Relations />
+</Document>

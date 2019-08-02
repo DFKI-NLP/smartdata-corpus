@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>RT @<NODE id="4" />BILD<NODE id="8" />: Polizei fasst Nazi-Tattoo-Monster: Er soll <NODE id="53" />drei<NODE id="57" /> Menschen erschossen haben. https://t.co/vjHDQ2vZvS https://t.co/7uKfTROTkn
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="754614821627240449" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-07-17T09:52:48Z" />
+<feature featureName="indexDate" featureValue="2016-07-17T09:52:59.879Z" />
+<feature featureName="uri" featureValue="https://twitter.com/743483065826160640/status/754614821627240449" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="4" endPos="8" type="organization-company" surface="BILD" />
+<Entity id="1" startPos="53" endPos="57" type="number" surface="drei" /></Entities><Relations />
+</Document>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Foto: <NODE id="6" />Picture Alliance<NODE id="22" />
+Foto: <NODE id="29" />TVRNews<NODE id="36" />
+Im <NODE id="40" />dritten<NODE id="47" /> Anlauf ist es Schleppern auf der <NODE id="81" />Elbe<NODE id="85" /> gelungen, den vor gut <NODE id="108" />fünf Tagen<NODE id="118" /> auf Grund gelaufenen Containerriesen CSCL Indian Ocean freizubekommen. <NODE id="190" />Zwölf<NODE id="195" /> Schlepper mit zusammen <NODE id="219" />1085<NODE id="223" /> Tonnen Zugkraft zogen das <NODE id="250" />400<NODE id="253" /> Meter lange Schiff in der Nacht zum <NODE id="290" />Dienstag (09.02.)<NODE id="307" /> zurück in die Fahrrinne. Der Schleppversuch hatte gegen <NODE id="364" />2.00 Uhr<NODE id="372" /> begonnen, <NODE id="383" />wenige Minuten<NODE id="397" /> später war bereits das Heck frei. Nach <NODE id="437" />20 Minuten<NODE id="447" /> hatte das Schiff wieder Wasser unter dem Kiel. Ursprünglich war mit einem <NODE id="522" />mehrstündigen<NODE id="535" /> Manöver gerechnet worden.
+Wind und Hochwasser als Helfer
+Gegen <NODE id="599" />5.30 Uhr<NODE id="607" /> kam die Indian Ocean in <NODE id="632" />Hamburg<NODE id="639" /> an. Das Havariekommando in <NODE id="667" />Cuxhaven<NODE id="675" />, das die Aktion leitete, hatte bewusst die Nacht zum <NODE id="729" />Dienstag<NODE id="737" /> gewählt, weil dann eine Springtide anstand. Dazu kam der kräftige <NODE id="804" />südwestliche<NODE id="816" /> Wind über der <NODE id="831" />Nordsee<NODE id="838" />. Dadurch war das Hochwasser in dieser <NODE id="877" />Neumondnacht<NODE id="889" /> um gut <NODE id="897" />1,20 Meter<NODE id="907" /> höher als normal. Der Abschnitt der <NODE id="944" />Elbe<NODE id="948" /> wurde
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.radiohamburg.de/Nachrichten/Hamburg-aktuell/Hamburg-regional/2016/Februar/Containerschiff-Indian-Ocean-ist-wieder-frei@2016-02-09T09:10:50.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-09T08:10:50Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T21:46:32.953Z" />
+<feature featureName="uri" featureValue="http://www.radiohamburg.de/Nachrichten/Hamburg-aktuell/Hamburg-regional/2016/Februar/Containerschiff-Indian-Ocean-ist-wieder-frei" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="6" endPos="22" type="organization-company" surface="Picture Alliance" />
+<Entity id="1" startPos="29" endPos="36" type="organization-company" surface="TVRNews" />
+<Entity id="2" startPos="40" endPos="47" type="number" surface="dritten" />
+<Entity id="3" startPos="81" endPos="85" type="location" surface="Elbe" />
+<Entity id="4" startPos="108" endPos="118" type="date" surface="fünf Tagen" />
+<Entity id="5" startPos="190" endPos="195" type="number" surface="Zwölf" />
+<Entity id="6" startPos="219" endPos="223" type="number" surface="1085" />
+<Entity id="7" startPos="250" endPos="253" type="number" surface="400" />
+<Entity id="8" startPos="290" endPos="307" type="date" surface="Dienstag (09.02.)" />
+<Entity id="9" startPos="364" endPos="372" type="time" surface="2.00 Uhr" />
+<Entity id="10" startPos="383" endPos="397" type="duration" surface="wenige Minuten" />
+<Entity id="11" startPos="437" endPos="447" type="duration" surface="20 Minuten" />
+<Entity id="12" startPos="522" endPos="535" type="duration" surface="mehrstündigen" />
+<Entity id="13" startPos="599" endPos="607" type="time" surface="5.30 Uhr" />
+<Entity id="14" startPos="632" endPos="639" type="location-city" surface="Hamburg" />
+<Entity id="15" startPos="667" endPos="675" type="location-city" surface="Cuxhaven" />
+<Entity id="16" startPos="729" endPos="737" type="date" surface="Dienstag" />
+<Entity id="17" startPos="804" endPos="816" type="location" surface="südwestliche" />
+<Entity id="18" startPos="831" endPos="838" type="location" surface="Nordsee" />
+<Entity id="19" startPos="877" endPos="889" type="date" surface="Neumondnacht" />
+<Entity id="20" startPos="897" endPos="907" type="distance" surface="1,20 Meter" />
+<Entity id="21" startPos="944" endPos="948" type="location" surface="Elbe" /></Entities><Relations />
+</Document>

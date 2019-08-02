@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Von <NODE id="4" />Patrick D.<NODE id="14" /> -<NODE id="16" />
+<NODE id="17" />10. Februar 2016<NODE id="33" />
+<NODE id="34" />Nach einigen Spin-Off-Mangas und einer Nippon Novel der beliebten Attack on Titan-Reihe <NODE id="122" />erschien<NODE id="130" /> im <NODE id="134" />Carlsen Manga Verlag<NODE id="154" />  mit <NODE id="160" />Attack on Titan INSIDE<NODE id="182" /> ein weiteres Werk, welches die perfekte Abrundung für die titanische Welt darstellt.<NODE id="267" />
+<NODE id="268" />Bei Attack on Titan INSIDE handelt sich um ein sogenanntes “Guide Book”, also eine Art Nachschlagewerk mit einer Vielzahl an Informationen und Hintergrundinformationen aus dem Attack on Titan-Universum.<NODE id="470" />
+<NODE id="471" />Inhalt<NODE id="477" />
+<NODE id="478" />Die erste Hälfte des Guide Books beschäftigt sich ausführlichst mit den vielen Figuren der Handlung und weist insgesamt 78 Charakterprofile auf.<NODE id="622" /> <NODE id="623" />Diese sind gut strukturiert in fünf Kapiteln nach Zugehörigkeit der Personen geordnet: Die 104. Trainingseinheit. Die Mauergarnison. Der Aufklärungstrupp. Die Militärpolizei. Schlüsselfiguren.<NODE id="815" />
+<NODE id="816" />Zu den Charakteren findet man Angaben über Größe, Gewicht und eine Bilanz, die dem Leser etwas über Kampfkraft, Tatkraft, Verstand, Teamgeis<NODE id="956" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="https://www.japaniac.de/review-attack-titan-inside/@2016-02-10T18:47:19.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-10T17:47:19Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T22:48:51.934Z" />
+<feature featureName="uri" featureValue="https://www.japaniac.de/review-attack-titan-inside/" />
+<feature featureName="solrEventType" featureValue="SpinOff" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="16" type="sentence" surface="Von Patrick D. -" />
+<Entity id="1" startPos="4" endPos="14" type="person" surface="Patrick D." />
+<Entity id="2" startPos="17" endPos="33" type="sentence" surface="10. Februar 2016" />
+<Entity id="3" startPos="34" endPos="267" type="sentence" surface="Nach einigen Spin-Off-Mangas und einer Nippon Novel der beliebten Attack on Titan-Reihe erschien im Carlsen Manga Verlag  mit Attack on Titan INSIDE ein weiteres Werk, welches die perfekte Abrundung für die titanische Welt darstellt." />
+<Entity id="4" startPos="122" endPos="130" type="trigger" surface="erschien" />
+<Entity id="5" startPos="134" endPos="154" type="organization-company" surface="Carlsen Manga Verlag" />
+<Entity id="6" startPos="160" endPos="182" type="product" surface="Attack on Titan INSIDE" />
+<Entity id="7" startPos="268" endPos="470" type="sentence" surface="Bei Attack on Titan INSIDE handelt sich um ein sogenanntes “Guide Book”, also eine Art Nachschlagewerk mit einer Vielzahl an Informationen und Hintergrundinformationen aus dem Attack on Titan-Universum." />
+<Entity id="8" startPos="471" endPos="477" type="sentence" surface="Inhalt" />
+<Entity id="9" startPos="478" endPos="622" type="sentence" surface="Die erste Hälfte des Guide Books beschäftigt sich ausführlichst mit den vielen Figuren der Handlung und weist insgesamt 78 Charakterprofile auf." />
+<Entity id="10" startPos="623" endPos="815" type="sentence" surface="Diese sind gut strukturiert in fünf Kapiteln nach Zugehörigkeit der Personen geordnet: Die 104. Trainingseinheit. Die Mauergarnison. Der Aufklärungstrupp. Die Militärpolizei. Schlüsselfiguren." />
+<Entity id="11" startPos="816" endPos="956" type="sentence" surface="Zu den Charakteren findet man Angaben über Größe, Gewicht und eine Bilanz, die dem Leser etwas über Kampfkraft, Tatkraft, Verstand, Teamgeis" /></Entities><Relations>
+<Relation id="12" NAME="CompanyProvidesProduct">
+<Entity id="6" label="product" />
+<Entity id="5" label="company" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

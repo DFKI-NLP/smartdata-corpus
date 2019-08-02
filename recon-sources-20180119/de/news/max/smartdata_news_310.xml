@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Aktualisiert am <NODE id="16" />10.11.15<NODE id="24" />, um <NODE id="29" />14:27<NODE id="34" /> von <NODE id="39" />Tumasch Clalüna<NODE id="54" />
+Wissen was in der Region läuft?
+Hier anmelden für den täglichen Newsletter.
+Kommentare
+«Das können Sie gerne so schreiben», sagt <NODE id="184" />Martin Künzel<NODE id="197" />. «Wir eröffnen ohne Bewilligung vom Bau- und Gewerbeinspektorat. Und wenn sie uns eine Busse aufbrummen wollen, dann fechten wir die an.»
+Die gestrige Eröffnung der Plaza Lounge ist das nächste Kapitel in einer Geschichte, die bereits im <NODE id="436" />vergangenen Jahr <NODE id="453" />in einem Riesenknatsch gipfelte. Ein kurzer Rückblick: <NODE id="508" />Anfang August<NODE id="521" /> wurde bekannt, dass <NODE id="542" />Tobias Zeindler<NODE id="557" /> mit seiner Eventagentur <NODE id="582" />Zappzoom<NODE id="590" /> den Plaza Club am <NODE id="609" />Messeplatz<NODE id="619" /> übernehmen und in «Playboxx» umtaufen wollte. Er sollte den Club von <NODE id="689" />Sadik<NODE id="694" /> und <NODE id="699" />Burhan Arslan<NODE id="712" /> übernehmen, die ihrerseits aufgrund von ausbleibenden Gästen und Erfolg <NODE id="785" />acht <NODE id="790" />Monatsmieten nicht mehr gezahlt hatten. Deshalb wurde ein neuer Mieter gesucht, <NODE id="870" />Zeindler<NODE id="878" /> sah sich in der Poleposition, verkündete stolz die Eröffnung im <NODE id="943" />August<NODE id="949" />.
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.bzbasel.ch/basel/basel-stadt/die-plaza-lounge-am-messeplatz-ist-eroeffnet-trotz-fehlender-bewilligung-129979597@2016-03-10T14:52:25.796+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:52:25.796Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:52:33.484Z" />
+<feature featureName="uri" featureValue="http://www.bzbasel.ch/basel/basel-stadt/die-plaza-lounge-am-messeplatz-ist-eroeffnet-trotz-fehlender-bewilligung-129979597" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="16" endPos="24" type="date" surface="10.11.15" />
+<Entity id="1" startPos="29" endPos="34" type="date" surface="14:27" />
+<Entity id="2" startPos="39" endPos="54" type="person" surface="Tumasch Clalüna" />
+<Entity id="3" startPos="184" endPos="197" type="person" surface="Martin Künzel" />
+<Entity id="4" startPos="436" endPos="453" type="date" surface="vergangenen Jahr " />
+<Entity id="5" startPos="508" endPos="521" type="date" surface="Anfang August" />
+<Entity id="6" startPos="542" endPos="557" type="person" surface="Tobias Zeindler" />
+<Entity id="7" startPos="582" endPos="590" type="organization-company" surface="Zappzoom" />
+<Entity id="8" startPos="609" endPos="619" type="location" surface="Messeplatz" />
+<Entity id="9" startPos="689" endPos="694" type="person" surface="Sadik" />
+<Entity id="10" startPos="699" endPos="712" type="person" surface="Burhan Arslan" />
+<Entity id="11" startPos="785" endPos="790" type="number" surface="acht " />
+<Entity id="12" startPos="870" endPos="878" type="person" surface="Zeindler" />
+<Entity id="13" startPos="943" endPos="949" type="date" surface="August" /></Entities><Relations />
+</Document>

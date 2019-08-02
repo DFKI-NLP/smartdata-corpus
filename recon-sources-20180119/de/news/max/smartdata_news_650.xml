@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Mecklenburg<NODE id="11" /> <NODE id="12" />Grevesmühlen<NODE id="24" /> Wirtschaft <NODE id="36" />German Pellets<NODE id="50" />: Amtsgericht bestellt Insolvenzverwalterin
+Mehr  aus Wirtschaft
+Text kleiner größer
+<NODE id="135" />Wismar<NODE id="141" /> – <NODE id="144" />German Pellets<NODE id="158" />: Amtsgericht bestellt Insolvenzverwalterin
+Richter lehnt den Insolvenzantrag in Eigenverwaltung des <NODE id="259" />Wismarer<NODE id="267" /> Brennstoff-Herstellers ab / Löhne und Gehälter der <NODE id="319" />650<NODE id="322" /> Mitarbeiter sollen bis <NODE id="346" />April<NODE id="351" /> gesichert sein
+Voriger Artikel
+<NODE id="383" />Baltic<NODE id="389" />-Aus: Betriebsrat kämpft für Standort in NWM
+Artikel veröffentlicht: <NODE id="458" />Freitag, 12.02.2016<NODE id="477" /> <NODE id="478" />00:00 Uhr<NODE id="487" />
+Das Werk von <NODE id="501" />German Pellets<NODE id="515" /> in <NODE id="519" />Wismar<NODE id="525" />: Der Holzverarbeiter ist in eine Schieflage geraten und hat <NODE id="586" />Insolvenz<NODE id="595" /> angemeldet. Derzeit steht die Produktion still.
+Quelle: <NODE id="652" />Bernd Wüstneck<NODE id="666" />
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ostsee-zeitung.de/Mecklenburg/Grevesmuehlen/Wirtschaft/German-Pellets-Amtsgericht-bestellt-Insolvenzverwalterin@2016-02-12T00:00:00.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-11T23:00:00Z" />
+<feature featureName="indexDate" featureValue="2016-03-24T10:19:31.928Z" />
+<feature featureName="uri" featureValue="http://www.ostsee-zeitung.de/Mecklenburg/Grevesmuehlen/Wirtschaft/German-Pellets-Amtsgericht-bestellt-Insolvenzverwalterin" />
+<feature featureName="solrEventType" featureValue="Insolvenz" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="11" type="location" surface="Mecklenburg" />
+<Entity id="1" startPos="12" endPos="24" type="location-city" surface="Grevesmühlen" />
+<Entity id="2" startPos="36" endPos="50" type="organization-company" surface="German Pellets" />
+<Entity id="3" startPos="135" endPos="141" type="location-city" surface="Wismar" />
+<Entity id="4" startPos="144" endPos="158" type="organization-company" surface="German Pellets" />
+<Entity id="5" startPos="259" endPos="267" type="location-city" surface="Wismarer" />
+<Entity id="6" startPos="319" endPos="322" type="number" surface="650" />
+<Entity id="7" startPos="346" endPos="351" type="date" surface="April" />
+<Entity id="8" startPos="383" endPos="389" type="organization-company" surface="Baltic" />
+<Entity id="9" startPos="458" endPos="477" type="date" surface="Freitag, 12.02.2016" />
+<Entity id="10" startPos="478" endPos="487" type="time" surface="00:00 Uhr" />
+<Entity id="11" startPos="501" endPos="515" type="organization-company" surface="German Pellets" />
+<Entity id="12" startPos="519" endPos="525" type="location-city" surface="Wismar" />
+<Entity id="13" startPos="586" endPos="595" type="trigger" surface="Insolvenz" />
+<Entity id="14" startPos="652" endPos="666" type="person" surface="Bernd Wüstneck" /></Entities><Relations>
+<Relation id="15" NAME="Insolvency">
+<Entity id="11" label="company" />
+<Entity id="12" label="location" />
+<Entity id="13" label="trigger" />
+</Relation></Relations>
+</Document>

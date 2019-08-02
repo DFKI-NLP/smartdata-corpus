@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>am <NODE id="3" />Samstag, 6.<NODE id="14" /> und <NODE id="19" />Sonntag, 7. Februar<NODE id="38" /> , jeweils <NODE id="49" />ganztägig<NODE id="58" />&lt;br /&gt;
+&lt;br /&gt;
+Meldung:&lt;br /&gt;
+Mehrere <NODE id="95" />Fernverkehrszüge<NODE id="111" /> <NODE id="112" />verspäten sich<NODE id="126" /> ab <NODE id="130" />Stuttgart Hbf<NODE id="143" /> um <NODE id="147" />6 – 14 Min<NODE id="157" />.&lt;br /&gt;
+&lt;br /&gt;Grund:&lt;br /&gt;
+Oberleitungsarbeiten in <NODE id="208" />Stuttgart-Feuerbach<NODE id="227" />&lt;br /&gt;
+&lt;br /&gt;Link zur detaillierten Meldung: &lt;br /&gt;
+&lt;a href=/&gt;&lt;br /&gt;
+Link zum kompletten PDF-Dokument: &lt;br /&gt;
+&lt;a href=target=_blank&gt;(<NODE id="360" />90<NODE id="362" /> kB)&lt;br /&gt;&lt;br /&gt;------------------&lt;br /&gt;&lt;br /&gt;
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_42-Dortmund-Essen-Koeln-Frankfurt_M_Flughafen-Mannheim-Stuttgart-Muenchen/21#4f856ce01140c57b7b765fd9628e2aceb54ba7e5@2016-02-06T23:15:39.185+01:00" />
+<feature featureName="source" featureValue="rss" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="uri" featureValue="http://bauarbeiten.bahn.de/fernverkehr/Linie/ICE_42-Dortmund-Essen-Koeln-Frankfurt_M_Flughafen-Mannheim-Stuttgart-Muenchen/21#4f856ce01140c57b7b765fd9628e2aceb54ba7e5" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="3" endPos="14" type="date" surface="Samstag, 6." />
+<Entity id="1" startPos="19" endPos="38" type="date" surface="Sonntag, 7. Februar" />
+<Entity id="2" startPos="49" endPos="58" type="duration" surface="ganztägig" />
+<Entity id="3" startPos="95" endPos="111" type="location-route" surface="Fernverkehrszüge" />
+<Entity id="4" startPos="112" endPos="126" type="trigger" surface="verspäten sich" />
+<Entity id="5" startPos="130" endPos="143" type="location-stop" surface="Stuttgart Hbf" />
+<Entity id="6" startPos="147" endPos="157" type="duration" surface="6 – 14 Min" />
+<Entity id="7" startPos="208" endPos="227" type="location-stop" surface="Stuttgart-Feuerbach" />
+<Entity id="8" startPos="360" endPos="362" type="number" surface="90" /></Entities><Relations>
+<Relation id="9" NAME="Delay">
+<Entity id="6" label="delay" />
+<Entity id="5" label="start_loc" />
+<Entity id="3" label="location" />
+<Entity id="4" label="trigger" />
+</Relation></Relations>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Erste Ergebnisse werden erwartet
+Von <NODE id="37" />Günther Schmitt<NODE id="52" />
+<NODE id="53" />Bad Neuenahr<NODE id="65" />-<NODE id="66" />Ahrweiler<NODE id="75" />.  Das Beteiligungsverfahren zum Hallen- und Freizeitbad Twin geht in sein Finale. Im Konzertsaal werden die Ergebnisse vorgestellt.
+weiter Zoom
+Der Eingang zum Hallenbad. Dessen Sanierungskosten werden im aktualisierten Constrata-Gutachten mit <NODE id="320" />7,7 Millionen Euro<NODE id="338" /> angegeben. Foto: <NODE id="356" />Martin Gausmann<NODE id="371" />
+Morgen werden die Moderatoren <NODE id="402" />Roland Fritz<NODE id="414" /> und <NODE id="419" />Piet Selke<NODE id="429" />, die das Verfahren seit dem Herbst mit Rundem Tisch, Bürger- und Jugendforen durchgeführt haben, die Ergebnisse ab <NODE id="545" />19 Uhr<NODE id="551" /> in der Konzerthalle des Kurparks vorstellen. Dabei sollen dann auch die Teilnehmer der Veranstaltung die Gelegenheit haben, ihre Anregungen vorzutragen. Diese sollen dann in einem eigenen Abschnitt unseres Abschlussberichts aufgenommen und an den Stadtrat weitergeleitet werden, sagt <NODE id="836" />Selke<NODE id="841" /> vom <NODE id="846" />Esslinger<NODE id="855" /> Mediationsbüro zum Finale des Verfahrens, für das die Stadt die Kosten mit <NODE id="931" />40 000 Euro<NODE id="942" /> angibt. Mi
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.general-anzeiger-bonn.de/region/kreis-ahrweiler/bad-neuenahr-ahrweiler/Erste-Ergebnisse-werden-erwartet-article1800702.html?f=111@2016-03-10T14:53:38.697+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T13:53:38.697Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T13:53:43.317Z" />
+<feature featureName="uri" featureValue="http://www.general-anzeiger-bonn.de/region/kreis-ahrweiler/bad-neuenahr-ahrweiler/Erste-Ergebnisse-werden-erwartet-article1800702.html?f=111" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="37" endPos="52" type="person" surface="Günther Schmitt" />
+<Entity id="1" startPos="53" endPos="65" type="location-city" surface="Bad Neuenahr" />
+<Entity id="2" startPos="66" endPos="75" type="location-city" surface="Ahrweiler" />
+<Entity id="3" startPos="320" endPos="338" type="number" surface="7,7 Millionen Euro" />
+<Entity id="4" startPos="356" endPos="371" type="person" surface="Martin Gausmann" />
+<Entity id="5" startPos="402" endPos="414" type="person" surface="Roland Fritz" />
+<Entity id="6" startPos="419" endPos="429" type="person" surface="Piet Selke" />
+<Entity id="7" startPos="545" endPos="551" type="time" surface="19 Uhr" />
+<Entity id="8" startPos="836" endPos="841" type="person" surface="Selke" />
+<Entity id="9" startPos="846" endPos="855" type="location-city" surface="Esslinger" />
+<Entity id="10" startPos="931" endPos="942" type="number" surface="40 000 Euro" /></Entities><Relations />
+</Document>

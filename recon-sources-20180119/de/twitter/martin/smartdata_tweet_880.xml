@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>#<NODE id="1" />Hochwasser<NODE id="11" /> #<NODE id="13" />PHILIPPSBURG<NODE id="25" /> @ #<NODE id="29" />RHEIN<NODE id="34" /> ---&gt; #Pegel in <NODE id="50" />1 h<NODE id="53" /> um <NODE id="57" />1 cm<NODE id="61" /> auf <NODE id="66" />754 cm<NODE id="72" /> gefallen. [Stand: <NODE id="91" />13:00<NODE id="96" />]
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="744486958299287552" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-06-19T11:08:17Z" />
+<feature featureName="indexDate" featureValue="2016-06-19T11:08:20.078Z" />
+<feature featureName="uri" featureValue="https://twitter.com/BB RADIO H2O/status/744486958299287552" />
+<feature featureName="solrEventType" featureValue="Naturereignis" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="11" type="disaster-type" surface="Hochwasser" />
+<Entity id="1" startPos="13" endPos="25" type="location" surface="PHILIPPSBURG" />
+<Entity id="2" startPos="29" endPos="34" type="location" surface="RHEIN" />
+<Entity id="3" startPos="50" endPos="53" type="duration" surface="1 h" />
+<Entity id="4" startPos="57" endPos="61" type="distance" surface="1 cm" />
+<Entity id="5" startPos="57" endPos="61" type="number" surface="1 cm" />
+<Entity id="6" startPos="66" endPos="72" type="number" surface="754 cm" />
+<Entity id="7" startPos="91" endPos="96" type="time" surface="13:00" /></Entities><Relations>
+<Relation id="8" NAME="Disaster">
+<Entity id="1" label="location" />
+<Entity id="0" label="type" />
+</Relation></Relations>
+</Document>

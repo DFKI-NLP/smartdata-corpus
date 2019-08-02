@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Veröffentlicht von: <NODE id="20" />T-online.de<NODE id="31" /> - Fussball - <NODE id="45" />07-01-2016<NODE id="55" />
+Fußball-Drittligist <NODE id="76" />Dynamo Dresden<NODE id="90" /> fliegt am <NODE id="101" />Freitag<NODE id="108" /> mit <NODE id="113" />26<NODE id="115" /> Spielern ins Wintertrainingslager ins <NODE id="154" />spanische<NODE id="163" /> <NODE id="164" />Marbella<NODE id="172" />. Mit <NODE id="178" />Noah Awassi<NODE id="189" /> und F...
+
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.fussballnews.ws/fussball-news/dynamo-ohne-sturmer-fetsch-ins-wintertrainingslager@2016-03-10T13:20:38.615+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T12:20:38.615Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T12:20:43.319Z" />
+<feature featureName="uri" featureValue="http://www.fussballnews.ws/fussball-news/dynamo-ohne-sturmer-fetsch-ins-wintertrainingslager" />
+<feature featureName="solrEventType" featureValue="None" /></Meta><Entities>
+<Entity id="0" startPos="20" endPos="31" type="organization-company" surface="T-online.de" />
+<Entity id="1" startPos="45" endPos="55" type="date" surface="07-01-2016" />
+<Entity id="2" startPos="76" endPos="90" type="organization" surface="Dynamo Dresden" />
+<Entity id="3" startPos="101" endPos="108" type="date" surface="Freitag" />
+<Entity id="4" startPos="113" endPos="115" type="number" surface="26" />
+<Entity id="5" startPos="154" endPos="163" type="location" surface="spanische" />
+<Entity id="6" startPos="164" endPos="172" type="location-city" surface="Marbella" />
+<Entity id="7" startPos="178" endPos="189" type="person" surface="Noah Awassi" /></Entities><Relations />
+</Document>

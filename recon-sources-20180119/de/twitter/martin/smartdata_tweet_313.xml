@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>@<NODE id="1" />BILD_Hamburg<NODE id="13" /> @<NODE id="15" />SBahnHamburg<NODE id="27" /> keine gute kostenbringende Werbefläche aus meiner Sicht.Warum,<NODE id="90" />S-Bahn HH<NODE id="99" />=Permanente Verspätung,Streik,Schmutz
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="615598436595933184" />
+<feature featureName="source" featureValue="tweet" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2015-06-29T19:11:19Z" />
+<feature featureName="indexDate" featureValue="2016-03-11T16:19:05.73Z" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="1" endPos="13" type="organization-company" surface="BILD_Hamburg" />
+<Entity id="1" startPos="15" endPos="27" type="organization-company" surface="SBahnHamburg" />
+<Entity id="2" startPos="90" endPos="99" type="organization-company" surface="S-Bahn HH" /></Entities><Relations />
+</Document>

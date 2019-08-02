@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />13.11.15<NODE id="8" /> | <NODE id="11" />10:08<NODE id="16" /> Uhr | <NODE id="23" />3<NODE id="24" /> mal gelesen | dpa.de
+<NODE id="46" />FRANKFURT<NODE id="55" /> (dpa-AFX) - Zum Abschluss des längsten <NODE id="95" />Streiks<NODE id="102" /> der <NODE id="107" />Lufthansa<NODE id="116" /> ist noch unklar, ob das Unternehmen auf die ...
+Bild: © Fotolia.com / Gina Sanders
+Reaktion der <NODE id="213" />Lufthansa<NODE id="222" /> auf Streik-Demo noch unklar - <NODE id="253" />Spohr<NODE id="258" /> verhindert
+<NODE id="270" />FRANKFURT<NODE id="279" /> (dpa-AFX) - Zum Abschluss des längsten <NODE id="319" />Streiks<NODE id="326" /> der <NODE id="331" />Lufthansa<NODE id="340" />  ist noch unklar, ob das Unternehmen auf die Gewerkschaft <NODE id="399" />Ufo<NODE id="402" /> zugeht. Es werde kein neues Angebot geben, erklärte ein Unternehmenssprecher am <NODE id="483" />Freitag<NODE id="490" /> in <NODE id="494" />Frankfurt<NODE id="503" /> kurz vor der geplanten Abschlusskundgebung. Man habe zuletzt am <NODE id="568" />Montag<NODE id="574" /> das Angebot zu den Betriebs- und Übergangsrenten verbessert. Über weitere Schritte sei noch nicht entschieden.
+<NODE id="686" />Ufo<NODE id="689" />-<NODE id="690" />Chef<NODE id="694" /> <NODE id="695" />Nicoley Baublies<NODE id="711" /> hatte am <NODE id="721" />Donnerstag<NODE id="731" /> einen klaren Schritt des Vorstands verlangt. Er müsse glaubhaft erklären, wie er das Vertrauen, das alle Mitarbeiterbereiche verloren haben, zurückgewinnen will. Anderenfalls schloss er weitere Streiks zumindes
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.ad-hoc-news.de/frankfurt-dpa-afx-zum-abschluss-des-laengsten-streiks-der-lufthansa-ist-noch--/de/News/46907850@2016-03-10T16:15:03.948+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T15:15:03.948Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T15:15:13.317Z" />
+<feature featureName="uri" featureValue="http://www.ad-hoc-news.de/frankfurt-dpa-afx-zum-abschluss-des-laengsten-streiks-der-lufthansa-ist-noch--/de/News/46907850" />
+<feature featureName="solrEventType" featureValue="Streik" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="8" type="date" surface="13.11.15" />
+<Entity id="1" startPos="11" endPos="16" type="date" surface="10:08" />
+<Entity id="2" startPos="23" endPos="24" type="number" surface="3" />
+<Entity id="3" startPos="46" endPos="55" type="location-city" surface="FRANKFURT" />
+<Entity id="4" startPos="95" endPos="102" type="trigger" surface="Streiks" />
+<Entity id="5" startPos="107" endPos="116" type="organization-company" surface="Lufthansa" />
+<Entity id="6" startPos="213" endPos="222" type="organization-company" surface="Lufthansa" />
+<Entity id="7" startPos="253" endPos="258" type="person" surface="Spohr" />
+<Entity id="8" startPos="270" endPos="279" type="location-city" surface="FRANKFURT" />
+<Entity id="9" startPos="319" endPos="326" type="trigger" surface="Streiks" />
+<Entity id="10" startPos="331" endPos="340" type="organization-company" surface="Lufthansa" />
+<Entity id="11" startPos="399" endPos="402" type="organization" surface="Ufo" />
+<Entity id="12" startPos="483" endPos="490" type="date" surface="Freitag" />
+<Entity id="13" startPos="494" endPos="503" type="location-city" surface="Frankfurt" />
+<Entity id="14" startPos="568" endPos="574" type="date" surface="Montag" />
+<Entity id="15" startPos="686" endPos="689" type="organization" surface="Ufo" />
+<Entity id="16" startPos="690" endPos="694" type="org-position" surface="Chef" />
+<Entity id="17" startPos="695" endPos="711" type="person" surface="Nicoley Baublies" />
+<Entity id="18" startPos="721" endPos="731" type="date" surface="Donnerstag" /></Entities><Relations>
+<Relation id="19" NAME="OrganizationLeadership">
+<Entity id="17" label="person" />
+<Entity id="15" label="organization" />
+<Entity id="16" label="position" />
+</Relation>
+<Relation id="20" NAME="Strike">
+<Entity id="5" label="company" />
+<Entity id="4" label="trigger" />
+</Relation>
+<Relation id="21" NAME="Strike">
+<Entity id="10" label="company" />
+<Entity id="9" label="trigger" />
+</Relation></Relations>
+</Document>

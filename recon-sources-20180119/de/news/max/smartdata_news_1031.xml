@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT>Bewertungen)
+(neu: Aussagen aus der Konferenz, Analysten, Marktreaktion.)
+<NODE id="74" />NORTH CANTON<NODE id="86" />/<NODE id="87" />PADERBORN<NODE id="96" /> (<NODE id="98" />dpa-AFX<NODE id="105" />) - Der angeschlagene Geld- und Kassenautomaten-Hersteller <NODE id="164" />Wincor Nixdorf <NODE id="179" />flüchtet sich in die Arme des <NODE id="209" />US<NODE id="211" />-Konkurrenten <NODE id="225" />Diebold<NODE id="232" /> . Am <NODE id="238" />Montag<NODE id="244" /> gaben beide Unternehmen   die Eckdaten für ihren geplanten Zusammenschluss bekannt. Für bis zu <NODE id="340" />1,7 Milliarden Euro<NODE id="359" /> will der Konzern aus <NODE id="381" />Ohio<NODE id="385" /> den <NODE id="390" />Paderborner<NODE id="401" /> Rivalen schlucken. Der neue Konzern soll künftig <NODE id="451" />Diebold Nixdorf<NODE id="466" />   heißen und seinen rechtlichen Sitz in <NODE id="507" />North Canton<NODE id="519" /> (<NODE id="521" />Ohio<NODE id="525" />) haben. Ein weiterer Stellenabbau ist zumindest für Deutschland nicht vorgesehen.
+Konkret beläuft sich das Angebot auf <NODE id="645" />38,98 Euro<NODE id="655" /> in bar sowie <NODE id="669" />0,434<NODE id="674" /> <NODE id="675" />Diebold<NODE id="682" />-Anteile je <NODE id="694" />Wincor-Nixdorf<NODE id="708" />-Aktie. Der Preis entspricht den Unternehmen zufolge einem Wert von <NODE id="776" />52,50 Euro<NODE id="786" /> je <NODE id="790" />Wincor<NODE id="796" />-Papier.   Der tatsächliche Wert hängt von der Entwicklung der <NODE id="859" />Diebold<NODE id="866" />-Aktie und dem Euro/Dollar-Verhältnis ab. Unterbreitet werden soll das Angebo
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.wallstreet-online.de/nachricht/8146011-roundup-2-wincor-nixdorf-amerikanisch-diebold-1-7-milliarden@2016-03-10T23:38:09.391+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-03-10T22:38:09.391Z" />
+<feature featureName="indexDate" featureValue="2016-03-10T22:38:12.501Z" />
+<feature featureName="uri" featureValue="http://www.wallstreet-online.de/nachricht/8146011-roundup-2-wincor-nixdorf-amerikanisch-diebold-1-7-milliarden" />
+<feature featureName="solrEventType" featureValue="Entlassungen" /></Meta><Entities>
+<Entity id="0" startPos="74" endPos="86" type="location-city" surface="NORTH CANTON" />
+<Entity id="1" startPos="87" endPos="96" type="location-city" surface="PADERBORN" />
+<Entity id="2" startPos="98" endPos="105" type="organization-company" surface="dpa-AFX" />
+<Entity id="3" startPos="164" endPos="179" type="organization-company" surface="Wincor Nixdorf " />
+<Entity id="4" startPos="209" endPos="211" type="location" surface="US" />
+<Entity id="5" startPos="225" endPos="232" type="organization-company" surface="Diebold" />
+<Entity id="6" startPos="238" endPos="244" type="date" surface="Montag" />
+<Entity id="7" startPos="340" endPos="359" type="number" surface="1,7 Milliarden Euro" />
+<Entity id="8" startPos="381" endPos="385" type="location-city" surface="Ohio" />
+<Entity id="9" startPos="390" endPos="401" type="location-city" surface="Paderborner" />
+<Entity id="10" startPos="451" endPos="466" type="organization-company" surface="Diebold Nixdorf" />
+<Entity id="11" startPos="507" endPos="519" type="location-city" surface="North Canton" />
+<Entity id="12" startPos="521" endPos="525" type="location" surface="Ohio" />
+<Entity id="13" startPos="645" endPos="655" type="number" surface="38,98 Euro" />
+<Entity id="14" startPos="669" endPos="674" type="number" surface="0,434" />
+<Entity id="15" startPos="675" endPos="682" type="organization-company" surface="Diebold" />
+<Entity id="16" startPos="694" endPos="708" type="organization-company" surface="Wincor-Nixdorf" />
+<Entity id="17" startPos="776" endPos="786" type="number" surface="52,50 Euro" />
+<Entity id="18" startPos="790" endPos="796" type="organization-company" surface="Wincor" />
+<Entity id="19" startPos="859" endPos="866" type="organization-company" surface="Diebold" /></Entities><Relations />
+</Document>

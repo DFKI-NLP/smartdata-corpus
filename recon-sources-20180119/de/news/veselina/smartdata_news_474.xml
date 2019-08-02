@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<TEXT><NODE id="0" />Heldt<NODE id="5" /> vor Duell gegen <NODE id="22" />Donezk<NODE id="28" />: auch mal «dreckig spielen»<NODE id="56" />
+<NODE id="57" />Lwiw<NODE id="61" />
+<NODE id="62" />Heldt<NODE id="67" /> vor Duell gegen <NODE id="84" />Donezk<NODE id="90" />: auch mal «dreckig spielen»<NODE id="118" />
+<NODE id="119" />Von <NODE id="123" />Dietmar Fuchs<NODE id="136" />, <NODE id="138" />dpa<NODE id="141" />,  17. Februar 2016, 14:40 Uhr<NODE id="171" />
+<NODE id="172" />Für <NODE id="176" />Schalkes<NODE id="184" /> Manager <NODE id="193" />Horst Heldt<NODE id="204" /> ist <NODE id="209" />Donezk<NODE id="215" /> in der Europa League eine große Hürde.<NODE id="254" /> <NODE id="255" />Foto: <NODE id="261" />Friso Gentsch<NODE id="274" />
+<NODE id="275" />Schalke<NODE id="282" />-Manager <NODE id="291" />Heldt<NODE id="296" /> spricht von einer «großen Hürde»: Schachtjor <NODE id="342" />Donezk<NODE id="348" /> ist für die <NODE id="361" />Gelsenkirchener<NODE id="376" /> der Herausforderer in der K.o.-Runde der Europa League.<NODE id="432" /> <NODE id="433" />Der zuletzt fehlende Choupo-Moting kann die Reise in die <NODE id="490" />Ukraine<NODE id="497" /> mitmachen.<NODE id="508" />
+<NODE id="509" />Schon die Anreise in die <NODE id="534" />West-Ukraine<NODE id="546" /> verlief für den <NODE id="563" />FC  Schalke<NODE id="574" /> 04 nicht ohne Pannen.<NODE id="596" />
+<NODE id="597" />Erst stand der Mannschaftsbus im Stau, so dass der Charter-Flieger des Fußball-Bundesligisten nach <NODE id="696" />Lwiw<NODE id="700" /> erst mit halbstündiger Verspätung von <NODE id="739" />Köln<NODE id="743" />/<NODE id="744" />Bonn<NODE id="748" /> abheben konnte.<NODE id="764" /> <NODE id="765" />Zu allem Überfluss wurde Linksverteidiger <NODE id="807" />Dennis Aogo<NODE id="818" /> am Flughafen während eines Interviews Opfer dreister Diebe, die seine Tasche inklusive Laptop entwendeten.<NODE id="925" />
+<NODE id="926" />Auf dem Rasen soll es dann am Do<NODE id="958" />
+</TEXT>
+<Meta>
+<feature featureName="id" featureValue="http://www.saarbruecker-zeitung.de/6071555@2016-02-17T15:02:44.000+01:00" />
+<feature featureName="source" featureValue="news" />
+<feature featureName="lang" featureValue="de" />
+<feature featureName="pubDate" featureValue="2016-02-17T14:02:44Z" />
+<feature featureName="indexDate" featureValue="2016-03-23T14:15:42.952Z" />
+<feature featureName="uri" featureValue="http://www.saarbruecker-zeitung.de/6071555" />
+<feature featureName="solrEventType" featureValue="Verzoegerung" /></Meta><Entities>
+<Entity id="0" startPos="0" endPos="5" type="person" surface="Heldt" />
+<Entity id="1" startPos="0" endPos="56" type="sentence" surface="Heldt vor Duell gegen Donezk: auch mal «dreckig spielen»" />
+<Entity id="2" startPos="22" endPos="28" type="organization" surface="Donezk" />
+<Entity id="3" startPos="57" endPos="61" type="location-city" surface="Lwiw" />
+<Entity id="4" startPos="57" endPos="61" type="sentence" surface="Lwiw" />
+<Entity id="5" startPos="62" endPos="67" type="person" surface="Heldt" />
+<Entity id="6" startPos="62" endPos="118" type="sentence" surface="Heldt vor Duell gegen Donezk: auch mal «dreckig spielen»" />
+<Entity id="7" startPos="84" endPos="90" type="organization" surface="Donezk" />
+<Entity id="8" startPos="119" endPos="171" type="sentence" surface="Von Dietmar Fuchs, dpa,  17. Februar 2016, 14:40 Uhr" />
+<Entity id="9" startPos="123" endPos="136" type="person" surface="Dietmar Fuchs" />
+<Entity id="10" startPos="138" endPos="141" type="organization-company" surface="dpa" />
+<Entity id="11" startPos="172" endPos="254" type="sentence" surface="Für Schalkes Manager Horst Heldt ist Donezk in der Europa League eine große Hürde." />
+<Entity id="12" startPos="176" endPos="184" type="organization" surface="Schalkes" />
+<Entity id="13" startPos="193" endPos="204" type="person" surface="Horst Heldt" />
+<Entity id="14" startPos="209" endPos="215" type="organization" surface="Donezk" />
+<Entity id="15" startPos="255" endPos="274" type="sentence" surface="Foto: Friso Gentsch" />
+<Entity id="16" startPos="261" endPos="274" type="person" surface="Friso Gentsch" />
+<Entity id="17" startPos="275" endPos="282" type="organization" surface="Schalke" />
+<Entity id="18" startPos="275" endPos="432" type="sentence" surface="Schalke-Manager Heldt spricht von einer «großen Hürde»: Schachtjor Donezk ist für die Gelsenkirchener der Herausforderer in der K.o.-Runde der Europa League." />
+<Entity id="19" startPos="291" endPos="296" type="person" surface="Heldt" />
+<Entity id="20" startPos="342" endPos="348" type="organization" surface="Donezk" />
+<Entity id="21" startPos="361" endPos="376" type="organization" surface="Gelsenkirchener" />
+<Entity id="22" startPos="433" endPos="508" type="sentence" surface="Der zuletzt fehlende Choupo-Moting kann die Reise in die Ukraine mitmachen." />
+<Entity id="23" startPos="490" endPos="497" type="location" surface="Ukraine" />
+<Entity id="24" startPos="509" endPos="596" type="sentence" surface="Schon die Anreise in die West-Ukraine verlief für den FC  Schalke 04 nicht ohne Pannen." />
+<Entity id="25" startPos="534" endPos="546" type="location" surface="West-Ukraine" />
+<Entity id="26" startPos="563" endPos="574" type="organization" surface="FC  Schalke" />
+<Entity id="27" startPos="597" endPos="764" type="sentence" surface="Erst stand der Mannschaftsbus im Stau, so dass der Charter-Flieger des Fußball-Bundesligisten nach Lwiw erst mit halbstündiger Verspätung von Köln/Bonn abheben konnte." />
+<Entity id="28" startPos="696" endPos="700" type="location-city" surface="Lwiw" />
+<Entity id="29" startPos="739" endPos="743" type="location-city" surface="Köln" />
+<Entity id="30" startPos="744" endPos="748" type="location-city" surface="Bonn" />
+<Entity id="31" startPos="765" endPos="925" type="sentence" surface="Zu allem Überfluss wurde Linksverteidiger Dennis Aogo am Flughafen während eines Interviews Opfer dreister Diebe, die seine Tasche inklusive Laptop entwendeten." />
+<Entity id="32" startPos="807" endPos="818" type="person" surface="Dennis Aogo" />
+<Entity id="33" startPos="926" endPos="958" type="sentence" surface="Auf dem Rasen soll es dann am Do" /></Entities><Relations />
+</Document>
