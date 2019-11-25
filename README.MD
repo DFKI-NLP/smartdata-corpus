@@ -6,24 +6,23 @@ You can find the full description of the corpus here: [http://www.dfki.de/lt/pub
 
 The corpus is provided in two formats - AVRO and JSON, using the train/test split described in the paper. For details on the schema used for storing annotations, see below.
 
- * [SmartData Corpus (AVRO)](downloads/smartdata-corpus-v1.0-20180119-avro.zip)
- * [SmartData Corpus (JSON)](downloads/smartdata-corpus-v1.0-20180119-json.zip)
+ * [SmartData Corpus (AVRO+JSON)](v1.0-20180119/)
 
 ## Use
 The DFKI SmartData Corpus is released as [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you use this data, you should cite the accompanying paper:
 
-_A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018._ [(bib)](downloads/paper.bib) [(pdf)](http://www.dfki.de/web/forschung/iwi/publikationen/renameFileForDownload?filename=lrec_smartdata_corpus.pdf&file_id=uploads_3520)
+_A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018._ [(bib)](paper.bib) [(pdf)](http://www.dfki.de/web/forschung/iwi/publikationen/renameFileForDownload?filename=lrec_smartdata_corpus.pdf&file_id=uploads_3520)
 
 
 ## Format
 
 The corpus consists of Documents which store the original text and all annotations, according to the following AVRO schema:
 
- * [document.avsc](downloads/document.avsc)
+ * [document.avsc](document.avsc)
 
 You can use the following JAVA tools to read the AVRO version of the corpus:
 
- * [Corpus Reader Tools](downloads/sdw-tools-1.0-SNAPSHOT.jar)
+ * [Corpus Reader Tools](sdw-tools-1.0-SNAPSHOT.jar)
 
 To read the corpus, use the following code snippet:
 
