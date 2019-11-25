@@ -1,14 +1,6 @@
----
-permalink: /
-title: "DFKI SmartData Corpus"
-last_modified_at: 2018-04-20T09:33:24-05:00
-toc: true
-layout: splash
-classes: wide
----
 # DFKI SmartData Corpus
 
-This is the DFKI SmartData Corpus, a dataset of German-language documents which has been annotated with fine-grained geo-entities, such as _streets_, _stops_ and _routes_, as well as standard named entity types. It has also been annotated with a set of 15 traffic- and industry-related n-ary relations and events, such as _Accidents_, _Traffic jams_, _Acquisitions_, and _Strikes_. The corpus consists of newswire texts, Twitter messages, and traffic reports from radio stations, police and railway companies. It allows for training and evaluating both named entity recognition algorithms that aim for fine-grained typing of geo-entities, as well as n-ary relation extraction systems.
+This repository contains the DFKI SmartData Corpus, a dataset of German-language documents which has been annotated with fine-grained geo-entities, such as _streets_, _stops_ and _routes_, as well as standard named entity types. It has also been annotated with a set of 15 traffic- and industry-related n-ary relations and events, such as _Accidents_, _Traffic jams_, _Acquisitions_, and _Strikes_. The corpus consists of newswire texts, Twitter messages, and traffic reports from radio stations, police and railway companies. It allows for training and evaluating both named entity recognition algorithms that aim for fine-grained typing of geo-entities, as well as n-ary relation extraction systems.
 
 You can find the full description of the corpus here: [http://www.dfki.de/lt/publication_show.php?id=9427](http://www.dfki.de/lt/publication_show.php?id=9427)
 
