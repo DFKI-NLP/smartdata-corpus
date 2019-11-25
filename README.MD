@@ -2,7 +2,7 @@
 
 This repository contains the DFKI SmartData Corpus, a dataset of 2598 German-language documents which has been annotated with fine-grained geo-entities, such as _streets_, _stops_ and _routes_, as well as standard named entity types. It has also been annotated with a set of 15 traffic- and industry-related n-ary relations and events, such as _Accidents_, _Traffic jams_, _Acquisitions_, and _Strikes_. The corpus consists of newswire texts, Twitter messages, and traffic reports from radio stations, police and railway companies. It allows for training and evaluating both named entity recognition algorithms that aim for fine-grained typing of geo-entities, as well as n-ary relation extraction systems.
 
-You can find the full description of the corpus here: [http://www.dfki.de/lt/publication_show.php?id=9427](http://www.dfki.de/lt/publication_show.php?id=9427)
+You can find the full description of the corpus here: [https://www.dfki.de/web/forschung/projekte-publikationen/publikationen/publikation/9427/](https://www.dfki.de/web/forschung/projekte-publikationen/publikationen/publikation/9427/)
 
 The corpus is provided in two formats - AVRO and JSON, using the train/test split described in the paper. For details on the schema used for storing annotations, see below.
 
@@ -11,7 +11,7 @@ The corpus is provided in two formats - AVRO and JSON, using the train/test spli
 ## Use
 The DFKI SmartData Corpus is released as [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you use this data, you should cite the accompanying paper:
 
-_A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018._ [(bib)](paper.bib) [(pdf)](https://www.dfki.de/web/forschung/projekte-publikationen/publikationen/publikation/9427/)
+_A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018._ [(bib)](paper.bib) [(pdf)](https://www.dfki.de/fileadmin/user_upload/import/9427_lrec_smartdata_corpus.pdf)
 
 
 ## Format
