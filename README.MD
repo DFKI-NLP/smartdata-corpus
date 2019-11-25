@@ -79,4 +79,4 @@ ConceptMentions and RelationMentions are stored at the document level, and for e
 
 ## Annotation Guidelines
 
-[SmartData Corpus Annotation Guidelines v1.0 (Feb 2018)](downloads/SmartData_Corpus_Annotation_Guidelines_Feb_2018_v1.0.pdf)
+[SmartData Corpus Annotation Guidelines v1.0 (Feb 2018)](SmartData_Corpus_Annotation_Guidelines_Feb_2018_v1.0.pdf)
