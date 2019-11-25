@@ -6,7 +6,7 @@ You can find the full description of the corpus here: [https://www.dfki.de/web/f
 
 The corpus is provided in two formats - AVRO and JSON, using the train/test split described in the paper. For details on the schema used for storing annotations, see below.
 
- * [SmartData Corpus (AVRO+JSON)](v1.0-20180119/)
+ * [SmartData Corpus (AVRO+JSON)](v1-20180119/)
 
 ## Use
 The DFKI SmartData Corpus is released as [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you use this data, you should cite the accompanying paper:
