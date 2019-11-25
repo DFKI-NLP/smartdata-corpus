@@ -10,7 +10,7 @@ The corpus is provided in two formats - AVRO and JSON, using the train/test spli
  * [SmartData Corpus (JSON)](downloads/smartdata-corpus-v1.0-20180119-json.zip)
 
 ## Use
-The DFKI SmartData Corpus is released as CC-BY 4.0. If you use this data, you should cite the accompanying paper:
+The DFKI SmartData Corpus is released as [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you use this data, you should cite the accompanying paper:
 
 _A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018._ [(bib)](downloads/paper.bib) [(pdf)](http://www.dfki.de/web/forschung/iwi/publikationen/renameFileForDownload?filename=lrec_smartdata_corpus.pdf&file_id=uploads_3520)
 
