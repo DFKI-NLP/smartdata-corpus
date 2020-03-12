@@ -6,12 +6,26 @@ You can find the full description of the corpus here: [https://www.dfki.de/web/f
 
 The corpus is provided in two formats - AVRO and JSON, using the train/test split described in the paper. For details on the schema used for storing annotations, see below.
 
- * [SmartData Corpus Version 1](v1_20180119/)
- * [SmartData Corpus Version 2](v2_20190802/)
+ * [SmartData Corpus Version 3 (March 2020)](v3_20200302/)
+ 
+### Older versions  
+ * [SmartData Corpus Version 1 (Jan 2018)](v1_20180119/)
+ * [SmartData Corpus Version 2 (Aug 2019)](v2_20190802/)
 
-Version 2 contains some minor annotation corrections, a train/dev/test split instead of just train/test, and includes sentence splitting and tokenization with Stanford 3.9.2.
+
+### Version 2 
+ * Minor annotation corrections
+ * Train/dev/test split instead of just train/test
+ * Sentence splitting and tokenization with Stanford 3.9.2
+
+### Version 3
+ * Fixed some errors in alignments of concept mention boundaries with token boundaries, resulting from new tokenization with Stanford 3.9.2 in version 2 of this corpus, for statistics see [v3_20200302/readme.md](v3_20200302/readme.md)
+ * Removed duplicated documents, see also [v3_20200302/readme.md](v3_20200302/readme.md)
+ * Converted documents to BIO NER encoding
+ * Added the original "raw" content to documents where still available. For tweets, this is the original Twitter JSON, for web pages the HTML, and for RSS the Title+Text of the corresponding RSS item (not the complete ATOM/RSS XML file)
 
 ## Use
+
 The DFKI SmartData Corpus is released as [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you use this data, you should cite the accompanying paper:
 
 _A German Corpus for Fine-Grained Named Entity Recognition and Relation Extraction of Traffic and Industry Events. Martin Schiersch, Veselina Mironova, Maximilian Schmitt, Philippe Thomas, Aleksandra Gabryszak, Leonhard Hennig. Proceedings of LREC, 2018._ [(bib)](paper.bib) [(pdf)](https://www.dfki.de/fileadmin/user_upload/import/9427_lrec_smartdata_corpus.pdf)
