@@ -19,10 +19,12 @@ The corpus is provided in two formats - AVRO and JSON, using the train/test spli
  * Sentence splitting and tokenization with Stanford 3.9.2
 
 ### Version 3
- * Fixed some errors in alignments of concept mention boundaries with token boundaries, resulting from new tokenization with Stanford 3.9.2 in version 2 of this corpus, for statistics see [v3_20200302/readme.md](v3_20200302/readme.md)
+ * Fixed some errors in alignments of concept mention boundaries with token boundaries, resulting from new tokenization with Stanford 3.9.2 in version 2 of this corpus, for statistics see [v3_20200302/readme.md](v3_20200302/readme.md). Updated relation mention spans accordingly.
  * Removed duplicated documents, see also [v3_20200302/readme.md](v3_20200302/readme.md)
  * Converted documents to BIO NER encoding
  * Added the original "raw" content to documents where still available. For tweets, this is the original Twitter JSON, for web pages the HTML, and for RSS the Title+Text of the corresponding RSS item (not the complete ATOM/RSS XML file)
+ * Fixed argument roles in approximately 150 traffic relation mentions where 'end_loc' was erroneously assigned to the start location
+ * Added document type and URI information where available from the raw data
 
 ## Use
 
