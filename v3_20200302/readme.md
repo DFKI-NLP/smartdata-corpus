@@ -49,4 +49,12 @@ Train: Replaced raw content in [1303] docs
 Dev: Replaced raw content in [145] docs
 Test: Replaced raw content in [164] docs
 
+# Fix "end_loc" argument role errors
 
+`java -cp <tap-experiments.jar> de.dfki.lt.spree.daystream.FixArgumentRoleErrors v3.0-20200302 smartdata-corpus-v3.0-20200302`
+
+Train: applied 106 fixes (91 docs), issued 85 checks
+
+Dev: applied 16 fixes (15 docs), issued 8 checks
+
+Test: applied 8 fixes (8 docs), issued 11 checks
